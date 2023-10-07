@@ -1,13 +1,13 @@
 name: "Crawl builds"
 
 on:
+  workflow_dispatch:
   schedule:
     - cron: "0 * * * *"
 
 jobs:
   crawl:
     runs-on: ubuntu-latest
-
     steps:
       - uses: actions/checkout@v3
       - uses: oven-sh/setup-bun@v1
