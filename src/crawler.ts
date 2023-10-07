@@ -1,7 +1,6 @@
-import { FetchRateLimiter } from "../../rate-limit-rules/lib/rate-limiters/fetch.js";
-import { writeFile, readFile } from "fs/promises";
+import { mkdir, readFile, writeFile } from "fs/promises";
+import { FetchRateLimiter } from "rate-limit-rules/lib/rate-limiters/fetch.js";
 import { inspect } from "util";
-import { sleep } from "../../rate-limit-rules/lib/index.js";
 
 inspect.defaultOptions.depth = null;
 
@@ -12,8 +11,10 @@ const limit = 100;
 const league = process.env.LEAGUE || "Ancestor";
 const realm = process.env.REALM || "pc";
 
+await mkdir("data", { recursive: true });
+
 const fetch = new FetchRateLimiter({
-  maxWaitMs: 600000,
+  maxWaitMs: 1000,
   waitOnStateMs: 4000,
 }).request;
 
@@ -106,11 +107,12 @@ while (offset < 15000) {
 
   const ladder: { entries: LadderEntry[] } = JSON.parse(ladderJson);
 
+  let task = null;
   for (const { public: isPublic, account, character } of ladder.entries) {
     if (error) break;
     if (!isPublic) continue;
 
-    await Promise.allSettled([
+    const next = Promise.allSettled([
       fetchAndSave("items", {
         character: character.name,
         accountName: account.name,
@@ -122,6 +124,8 @@ while (offset < 15000) {
         realm,
       }),
     ]);
+    await task;
+    task = next;
   }
 
   offset += limit;
