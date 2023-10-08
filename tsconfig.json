@@ -7,7 +7,7 @@
     "skipLibCheck": true,
     "declaration": true,
     "outDir": "lib",
-    "types": ["node"]
+    "types": ["bun-types"]
   },
   "include": ["src", "tests"]
 }

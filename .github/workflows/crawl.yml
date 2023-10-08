@@ -12,9 +12,19 @@ jobs:
       - uses: actions/checkout@v3
       - uses: oven-sh/setup-bun@v1
       - run: |
+          if bun run src/modPrices.ts
+          then
+            rm -rf previous-mods
+            mv mods previous-mods
+          fi &
+
           if bun run src/crawler.ts
           then
+            mkdir -p mods
+            bun run src/parseMods.ts
             rm -rf previous
             mv data previous
           fi
+
+          wait
       - uses: stefanzweifel/git-auto-commit-action@v4
