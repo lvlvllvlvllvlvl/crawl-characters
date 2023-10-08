@@ -1,5 +1,5 @@
 import path from "path";
-import { FetchRateLimiter } from "../../rate-limit-rules/lib/rate-limiters/fetch";
+import { FetchRateLimiter } from "rate-limit-rules/lib/rate-limiters/fetch";
 import { filterOutliers } from "./filterOutliers";
 import { BunFile } from "bun";
 
