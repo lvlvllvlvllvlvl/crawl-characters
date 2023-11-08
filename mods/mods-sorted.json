@@ -905,7 +905,7 @@
       "complexity": 18,
       "total": 61
     },
-    "builds": 31,
+    "builds": 32,
     "mods": [
       {
         "text": "+#% to all elemental resistances",
@@ -8824,6 +8824,19 @@
   {
     "item": "Inpulsa's Broken Heart",
     "stats": "+# to level of socketed aoe gems",
+    "average": 8827.952000000001,
+    "prices": [
+      959.56,
+      3598.35,
+      3598.35,
+      17991.75,
+      17991.75
+    ],
+    "search": {
+      "id": "PdDdokqiL",
+      "complexity": 18,
+      "total": 5
+    },
     "builds": 6,
     "mods": [
       {
@@ -8837,6 +8850,17 @@
   {
     "item": "Rainbowstride",
     "stats": "+# to level of socketed gems",
+    "average": 233.24166666666665,
+    "prices": [
+      100,
+      239.89,
+      359.835
+    ],
+    "search": {
+      "id": "BEJE2YLC8",
+      "complexity": 18,
+      "total": 3
+    },
     "builds": 6,
     "mods": [
       {
@@ -8880,6 +8904,15 @@
   {
     "item": "Ancestral Vision",
     "stats": "damage penetrates #% elemental resistances",
+    "average": 1679.23,
+    "prices": [
+      1679.23
+    ],
+    "search": {
+      "id": "0B8BLgOcg",
+      "complexity": 18,
+      "total": 1
+    },
     "builds": 6,
     "mods": [
       {
@@ -8893,6 +8926,19 @@
   {
     "item": "Hyrri's Ire",
     "stats": "+# to level of socketed gems",
+    "average": 5085.668,
+    "prices": [
+      959.56,
+      3118.5699999999997,
+      3598.35,
+      8396.15,
+      9355.71
+    ],
+    "search": {
+      "id": "dXWXyYRhJ",
+      "complexity": 18,
+      "total": 5
+    },
     "builds": 6,
     "mods": [
       {
@@ -8906,6 +8952,20 @@
   {
     "item": "Heartbound Loop",
     "stats": "grants level # hatred skill",
+    "average": 979.5599999999998,
+    "prices": [
+      100,
+      239.89,
+      239.89,
+      1919.12,
+      2398.8999999999996,
+      4797.799999999999
+    ],
+    "search": {
+      "id": "nXjX78yC0",
+      "complexity": 18,
+      "total": 6
+    },
     "builds": 6,
     "mods": [
       {
@@ -8932,6 +8992,20 @@
   {
     "item": "Saffell's Frame",
     "stats": "#% of physical damage from hits taken as cold damage",
+    "average": 92.5,
+    "prices": [
+      15,
+      60,
+      100,
+      100,
+      120,
+      160
+    ],
+    "search": {
+      "id": "LmdmLM7tn",
+      "complexity": 18,
+      "total": 6
+    },
     "builds": 6,
     "mods": [
       {
@@ -21106,6 +21180,25 @@
   },
   {
     "item": "Unnatural Instinct",
+    "stats": "minions deal #% increased damage, damage penetrates #% cold resistance",
+    "builds": 2,
+    "mods": [
+      {
+        "text": "minions deal #% increased damage",
+        "trade_ids": [
+          "implicit.stat_1589917703"
+        ]
+      },
+      {
+        "text": "damage penetrates #% cold resistance",
+        "trade_ids": [
+          "implicit.stat_3417711605"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Unnatural Instinct",
     "stats": "#% increased global critical strike chance",
     "builds": 2,
     "mods": [
@@ -23303,6 +23396,25 @@
         "text": "#% reduced fire damage taken",
         "trade_ids": [
           "implicit.stat_3743301799"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Dialla's Malefaction",
+    "stats": "+# to level of socketed aoe gems, +# to level of socketed warcry gems",
+    "builds": 2,
+    "mods": [
+      {
+        "text": "+# to level of socketed aoe gems",
+        "trade_ids": [
+          "implicit.stat_2551600084"
+        ]
+      },
+      {
+        "text": "+# to level of socketed warcry gems",
+        "trade_ids": [
+          "implicit.stat_1672793731"
         ]
       }
     ]
@@ -36847,25 +36959,6 @@
   },
   {
     "item": "Unnatural Instinct",
-    "stats": "minions deal #% increased damage, damage penetrates #% cold resistance",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "minions deal #% increased damage",
-        "trade_ids": [
-          "implicit.stat_1589917703"
-        ]
-      },
-      {
-        "text": "damage penetrates #% cold resistance",
-        "trade_ids": [
-          "implicit.stat_3417711605"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Unnatural Instinct",
     "stats": "damage penetrates #% fire resistance, #% reduced bleed duration on you",
     "builds": 1,
     "mods": [
@@ -45386,25 +45479,6 @@
         "text": "+# to level of socketed aura gems",
         "trade_ids": [
           "implicit.stat_2452998583"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Dialla's Malefaction",
-    "stats": "+# to level of socketed aoe gems, +# to level of socketed warcry gems",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "+# to level of socketed aoe gems",
-        "trade_ids": [
-          "implicit.stat_2551600084"
-        ]
-      },
-      {
-        "text": "+# to level of socketed warcry gems",
-        "trade_ids": [
-          "implicit.stat_1672793731"
         ]
       }
     ]
@@ -61021,6 +61095,25 @@
         "text": "you take #% reduced extra damage from critical strikes",
         "trade_ids": [
           "implicit.stat_3855016469"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Malachai's Loop",
+    "stats": "you take #% reduced extra damage from critical strikes, #% of physical damage from hits taken as lightning damage",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "you take #% reduced extra damage from critical strikes",
+        "trade_ids": [
+          "implicit.stat_3855016469"
+        ]
+      },
+      {
+        "text": "#% of physical damage from hits taken as lightning damage",
+        "trade_ids": [
+          "implicit.stat_425242359"
         ]
       }
     ]
