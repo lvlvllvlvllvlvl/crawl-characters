@@ -6103,6 +6103,13 @@
   {
     "item": "Unnatural Instinct",
     "stats": "damage penetrates #% cold resistance, corrupted blood cannot be inflicted on you",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "bXWbZbdfL",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 8,
     "mods": [
       {
@@ -6122,6 +6129,13 @@
   {
     "item": "Unnatural Instinct",
     "stats": "#% reduced effect of curses on you, corrupted blood cannot be inflicted on you",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "MVDlRl5iJ",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 8,
     "mods": [
       {
@@ -6203,6 +6217,21 @@
   {
     "item": "Cloak of Flame",
     "stats": "+# to level of socketed duration gems",
+    "average": 9883.467999999999,
+    "prices": [
+      239.89,
+      3598.35,
+      4797.799999999999,
+      16792.3,
+      23989,
+      64770.299999999996,
+      107950.5
+    ],
+    "search": {
+      "id": "oXjB8BOsl",
+      "complexity": 18,
+      "total": 7
+    },
     "builds": 8,
     "mods": [
       {
@@ -6216,6 +6245,24 @@
   {
     "item": "Eyes of the Greatwolf",
     "stats": "#% increased maximum life",
+    "average": 62.4,
+    "prices": [
+      15,
+      20,
+      20,
+      25,
+      35,
+      70,
+      99,
+      100,
+      120,
+      120
+    ],
+    "search": {
+      "id": "Zb5LQL0uQ",
+      "complexity": 18,
+      "total": 40
+    },
     "builds": 8,
     "mods": [
       {
@@ -6229,6 +6276,22 @@
   {
     "item": "Sadima's Touch",
     "stats": "curse enemies with enfeeble on hit",
+    "average": 153.956,
+    "prices": [
+      40,
+      100,
+      150,
+      239.89,
+      239.89,
+      479.78,
+      1199.4499999999998,
+      1919.12
+    ],
+    "search": {
+      "id": "JVdY989Fl",
+      "complexity": 18,
+      "total": 8
+    },
     "builds": 8,
     "mods": [
       {
@@ -12477,6 +12540,19 @@
     ]
   },
   {
+    "item": "Shavronne's Revelation",
+    "stats": "wrath has #% increased aura effect",
+    "builds": 4,
+    "mods": [
+      {
+        "text": "wrath has #% increased aura effect",
+        "trade_ids": [
+          "implicit.stat_2181791238"
+        ]
+      }
+    ]
+  },
+  {
     "item": "Primordial Harmony",
     "stats": "#% increased effect of non-damaging ailments",
     "builds": 4,
@@ -17605,19 +17681,6 @@
         "text": "hatred has #% increased aura effect",
         "trade_ids": [
           "implicit.stat_3742945352"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Shavronne's Revelation",
-    "stats": "wrath has #% increased aura effect",
-    "builds": 3,
-    "mods": [
-      {
-        "text": "wrath has #% increased aura effect",
-        "trade_ids": [
-          "implicit.stat_2181791238"
         ]
       }
     ]
@@ -45880,6 +45943,31 @@
         "trade_ids": [
           "implicit.stat_681332047",
           "implicit.stat_210067635"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Anathema",
+    "stats": "#% increased strength, #% increased dexterity, adds # to # fire damage to spells and attacks",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "#% increased strength",
+        "trade_ids": [
+          "implicit.stat_4139681126"
+        ]
+      },
+      {
+        "text": "#% increased dexterity",
+        "trade_ids": [
+          "implicit.stat_4139681126"
+        ]
+      },
+      {
+        "text": "adds # to # fire damage to spells and attacks",
+        "trade_ids": [
+          "implicit.stat_3964634628"
         ]
       }
     ]
@@ -81279,6 +81367,25 @@
         "text": "+# to level of socketed warcry gems",
         "trade_ids": [
           "implicit.stat_1672793731"
+        ]
+      },
+      {
+        "text": "+#% to spell critical strike chance",
+        "trade_ids": [
+          "implicit.stat_791835907"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Algor Mortis",
+    "stats": "+# to level of socketed gems, +#% to spell critical strike chance",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "+# to level of socketed gems",
+        "trade_ids": [
+          "implicit.stat_2843100721"
         ]
       },
       {
