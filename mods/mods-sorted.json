@@ -51,7 +51,7 @@
       "complexity": 18,
       "total": 63
     },
-    "builds": 166,
+    "builds": 167,
     "mods": [
       {
         "text": "attacks have +#% to critical strike chance",
@@ -3615,6 +3615,37 @@
     ]
   },
   {
+    "item": "The Anima Stone",
+    "stats": "corrupted blood cannot be inflicted on you",
+    "average": 340.437,
+    "prices": [
+      180,
+      186.92000000000002,
+      233.65,
+      233.65,
+      233.65,
+      467.3,
+      467.3,
+      467.3,
+      467.3,
+      467.3
+    ],
+    "search": {
+      "id": "K9gPvrPT5",
+      "complexity": 18,
+      "total": 11
+    },
+    "builds": 14,
+    "mods": [
+      {
+        "text": "corrupted blood cannot be inflicted on you",
+        "trade_ids": [
+          "implicit.stat_1658498488"
+        ]
+      }
+    ]
+  },
+  {
     "item": "Bloodnotch",
     "stats": "corrupted blood cannot be inflicted on you",
     "average": 7181.343999999999,
@@ -3694,6 +3725,30 @@
         "text": "#% of physical damage from hits taken as fire damage",
         "trade_ids": [
           "implicit.stat_3342989455"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Hyrri's Ire",
+    "stats": "#% increased damage",
+    "average": 8868.63,
+    "prices": [
+      2398.8999999999996,
+      8396.15,
+      15810.839999999998
+    ],
+    "search": {
+      "id": "PdD9jmqiL",
+      "complexity": 18,
+      "total": 3
+    },
+    "builds": 14,
+    "mods": [
+      {
+        "text": "#% increased damage",
+        "trade_ids": [
+          "implicit.stat_2154246560"
         ]
       }
     ]
@@ -3966,61 +4021,6 @@
         "text": "corrupted blood cannot be inflicted on you",
         "trade_ids": [
           "implicit.stat_1658498488"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "The Anima Stone",
-    "stats": "corrupted blood cannot be inflicted on you",
-    "average": 340.437,
-    "prices": [
-      180,
-      186.92000000000002,
-      233.65,
-      233.65,
-      233.65,
-      467.3,
-      467.3,
-      467.3,
-      467.3,
-      467.3
-    ],
-    "search": {
-      "id": "K9gPvrPT5",
-      "complexity": 18,
-      "total": 11
-    },
-    "builds": 13,
-    "mods": [
-      {
-        "text": "corrupted blood cannot be inflicted on you",
-        "trade_ids": [
-          "implicit.stat_1658498488"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Hyrri's Ire",
-    "stats": "#% increased damage",
-    "average": 8868.63,
-    "prices": [
-      2398.8999999999996,
-      8396.15,
-      15810.839999999998
-    ],
-    "search": {
-      "id": "PdD9jmqiL",
-      "complexity": 18,
-      "total": 3
-    },
-    "builds": 13,
-    "mods": [
-      {
-        "text": "#% increased damage",
-        "trade_ids": [
-          "implicit.stat_2154246560"
         ]
       }
     ]
@@ -15227,6 +15227,16 @@
   {
     "item": "Utula's Hunger",
     "stats": "+# to level of socketed aoe gems",
+    "average": 3598.35,
+    "prices": [
+      1919.12,
+      5277.58
+    ],
+    "search": {
+      "id": "jXjeD5ltX",
+      "complexity": 18,
+      "total": 2
+    },
     "builds": 4,
     "mods": [
       {
@@ -15240,6 +15250,23 @@
   {
     "item": "Rearguard",
     "stats": "# to # added lightning damage with bow attacks",
+    "average": 111.7225,
+    "prices": [
+      20,
+      30,
+      45,
+      69,
+      100,
+      150,
+      239.89,
+      239.89,
+      719.67
+    ],
+    "search": {
+      "id": "PdD4XOmiL",
+      "complexity": 18,
+      "total": 9
+    },
     "builds": 4,
     "mods": [
       {
@@ -15253,6 +15280,13 @@
   {
     "item": "Tainted Pact",
     "stats": "+#% to all maximum resistances",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "0B80olQhg",
+      "complexity": 18,
+      "total": 0
+    },
     "builds": 4,
     "mods": [
       {
@@ -15266,6 +15300,15 @@
   {
     "item": "Carcass Jack",
     "stats": "+# to level of socketed aoe gems",
+    "average": 8396.15,
+    "prices": [
+      8396.15
+    ],
+    "search": {
+      "id": "dXWoE63IJ",
+      "complexity": 18,
+      "total": 1
+    },
     "builds": 4,
     "mods": [
       {
@@ -15279,6 +15322,17 @@
   {
     "item": "Winterweave",
     "stats": "cannot be ignited",
+    "average": 2318.9366666666665,
+    "prices": [
+      1199.4499999999998,
+      2398.8999999999996,
+      3358.46
+    ],
+    "search": {
+      "id": "waPDX3rsb",
+      "complexity": 18,
+      "total": 3
+    },
     "builds": 4,
     "mods": [
       {
@@ -15292,6 +15346,24 @@
   {
     "item": "Oskarm",
     "stats": "curse enemies with vulnerability on hit",
+    "average": 105.4,
+    "prices": [
+      40,
+      55,
+      60,
+      79,
+      100,
+      100,
+      100,
+      120,
+      200,
+      200
+    ],
+    "search": {
+      "id": "Ey658Gzh5",
+      "complexity": 18,
+      "total": 13
+    },
     "builds": 4,
     "mods": [
       {
