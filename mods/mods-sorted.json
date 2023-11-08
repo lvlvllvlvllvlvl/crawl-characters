@@ -3615,6 +3615,37 @@
     ]
   },
   {
+    "item": "Bloodnotch",
+    "stats": "corrupted blood cannot be inflicted on you",
+    "average": 7181.343999999999,
+    "prices": [
+      5146.24,
+      5614.08,
+      5848,
+      6783.679999999999,
+      7017.599999999999,
+      7017.599999999999,
+      7953.28,
+      8187.2,
+      8888.96,
+      9356.8
+    ],
+    "search": {
+      "id": "kPMejVQi5",
+      "complexity": 18,
+      "total": 15
+    },
+    "builds": 14,
+    "mods": [
+      {
+        "text": "corrupted blood cannot be inflicted on you",
+        "trade_ids": [
+          "implicit.stat_1658498488"
+        ]
+      }
+    ]
+  },
+  {
     "item": "Meginord's Vise",
     "stats": "curse enemies with enfeeble on hit",
     "average": 96.33333333333333,
@@ -3959,37 +3990,6 @@
       "id": "K9gPvrPT5",
       "complexity": 18,
       "total": 11
-    },
-    "builds": 13,
-    "mods": [
-      {
-        "text": "corrupted blood cannot be inflicted on you",
-        "trade_ids": [
-          "implicit.stat_1658498488"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Bloodnotch",
-    "stats": "corrupted blood cannot be inflicted on you",
-    "average": 7181.343999999999,
-    "prices": [
-      5146.24,
-      5614.08,
-      5848,
-      6783.679999999999,
-      7017.599999999999,
-      7017.599999999999,
-      7953.28,
-      8187.2,
-      8888.96,
-      9356.8
-    ],
-    "search": {
-      "id": "kPMejVQi5",
-      "complexity": 18,
-      "total": 15
     },
     "builds": 13,
     "mods": [
@@ -7294,6 +7294,31 @@
     ]
   },
   {
+    "item": "Vixen's Entrapment",
+    "stats": "#% increased maximum life",
+    "average": 496.03,
+    "prices": [
+      30,
+      35,
+      479.78,
+      1439.34
+    ],
+    "search": {
+      "id": "3BrGb6gc5",
+      "complexity": 18,
+      "total": 4
+    },
+    "builds": 7,
+    "mods": [
+      {
+        "text": "#% increased maximum life",
+        "trade_ids": [
+          "implicit.stat_983749596"
+        ]
+      }
+    ]
+  },
+  {
     "item": "Sandstorm Visage",
     "stats": "+# to maximum power charges",
     "average": null,
@@ -8538,31 +8563,6 @@
         "text": "#% increased effect of non-damaging ailments",
         "trade_ids": [
           "implicit.stat_782230869"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Vixen's Entrapment",
-    "stats": "#% increased maximum life",
-    "average": 496.03,
-    "prices": [
-      30,
-      35,
-      479.78,
-      1439.34
-    ],
-    "search": {
-      "id": "3BrGb6gc5",
-      "complexity": 18,
-      "total": 4
-    },
-    "builds": 6,
-    "mods": [
-      {
-        "text": "#% increased maximum life",
-        "trade_ids": [
-          "implicit.stat_983749596"
         ]
       }
     ]
@@ -14786,6 +14786,23 @@
   {
     "item": "The Fourth Vow",
     "stats": "+# to level of socketed aoe gems",
+    "average": 1956.436222222222,
+    "prices": [
+      575.736,
+      719.67,
+      719.67,
+      2159.0099999999998,
+      2398.8999999999996,
+      2398.8999999999996,
+      2878.68,
+      2878.68,
+      2878.68
+    ],
+    "search": {
+      "id": "zeBRPgRU4",
+      "complexity": 18,
+      "total": 9
+    },
     "builds": 4,
     "mods": [
       {
@@ -14799,6 +14816,13 @@
   {
     "item": "The Fourth Vow",
     "stats": "+# to level of socketed gems, +# to level of socketed duration gems",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "Zb5ByM8TQ",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 4,
     "mods": [
       {
@@ -21038,6 +21062,19 @@
         "text": "#% increased attack speed during any flask effect",
         "trade_ids": [
           "implicit.stat_1365052901"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Mageblood",
+    "stats": "#% increased area of effect",
+    "builds": 2,
+    "mods": [
+      {
+        "text": "#% increased area of effect",
+        "trade_ids": [
+          "implicit.stat_280731498"
         ]
       }
     ]
@@ -33088,19 +33125,6 @@
   },
   {
     "item": "Mageblood",
-    "stats": "#% increased area of effect",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "#% increased area of effect",
-        "trade_ids": [
-          "implicit.stat_280731498"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Mageblood",
     "stats": "#% increased strength, #% increased intelligence, wrath has #% increased aura effect",
     "builds": 1,
     "mods": [
@@ -44709,6 +44733,25 @@
         "text": "#% reduced chaos damage taken",
         "trade_ids": [
           "implicit.stat_2960683632"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Cloak of Flame",
+    "stats": "+# to level of socketed aoe gems, #% reduced cold damage taken",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "+# to level of socketed aoe gems",
+        "trade_ids": [
+          "implicit.stat_2551600084"
+        ]
+      },
+      {
+        "text": "#% reduced cold damage taken",
+        "trade_ids": [
+          "implicit.stat_3303114033"
         ]
       }
     ]
