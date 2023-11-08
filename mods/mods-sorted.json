@@ -9358,6 +9358,13 @@
   {
     "item": "Heatshiver",
     "stats": "+# to level of socketed lightning gems, +# to level of socketed aura gems",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "LmdmO22Sn",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 5,
     "mods": [
       {
@@ -9408,6 +9415,24 @@
   {
     "item": "Lightning Coil",
     "stats": "you take #% reduced extra damage from critical strikes",
+    "average": 314.87625,
+    "prices": [
+      40,
+      40,
+      130,
+      150,
+      239.89,
+      479.78,
+      719.67,
+      719.67,
+      2398.8999999999996,
+      2398.8999999999996
+    ],
+    "search": {
+      "id": "vlPlgjDtE",
+      "complexity": 18,
+      "total": 11
+    },
     "builds": 5,
     "mods": [
       {
@@ -9421,6 +9446,13 @@
   {
     "item": "Unnatural Instinct",
     "stats": "corrupted blood cannot be inflicted on you, #% reduced effect of shock on you",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "KJDJOBPi5",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 5,
     "mods": [
       {
@@ -9440,6 +9472,13 @@
   {
     "item": "Unnatural Instinct",
     "stats": "#% increased global critical strike chance, #% increased reservation efficiency of skills",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "LmdmO2lun",
+      "complexity": 30,
+      "total": 0
+    },
     "builds": 5,
     "mods": [
       {
@@ -9460,6 +9499,13 @@
   {
     "item": "Unnatural Instinct",
     "stats": "#% increased area of effect, corrupted blood cannot be inflicted on you",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "y9R9gEWfR",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 5,
     "mods": [
       {
@@ -9524,6 +9570,13 @@
   {
     "item": "Unnatural Instinct",
     "stats": "#% reduced effect of curses on you, #% reduced bleed duration on you",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "Zb5bb98uQ",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 5,
     "mods": [
       {
@@ -25097,6 +25150,19 @@
         "text": "+# to maximum power charges",
         "trade_ids": [
           "implicit.stat_227523295"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Rathpith Globe",
+    "stats": "+#% chance to block",
+    "builds": 2,
+    "mods": [
+      {
+        "text": "+#% chance to block",
+        "trade_ids": [
+          "implicit.stat_4253454700"
         ]
       }
     ]
@@ -53837,19 +53903,6 @@
         "text": "socketed skill gems get a #% cost & reservation multiplier",
         "trade_ids": [
           "implicit.stat_2865550257"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Rathpith Globe",
-    "stats": "+#% chance to block",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "+#% chance to block",
-        "trade_ids": [
-          "implicit.stat_4253454700"
         ]
       }
     ]
