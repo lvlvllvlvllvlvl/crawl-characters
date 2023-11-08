@@ -20,7 +20,7 @@
       "complexity": 18,
       "total": 155
     },
-    "builds": 227,
+    "builds": 228,
     "mods": [
       {
         "text": "socketed skill gems get a #% cost & reservation multiplier",
@@ -14083,6 +14083,37 @@
   },
   {
     "item": "Thread of Hope",
+    "stats": "corrupted blood cannot be inflicted on you, you cannot be hindered",
+    "average": 15580.785,
+    "prices": [
+      2801.04,
+      14005.199999999999,
+      22174.899999999998,
+      23342
+    ],
+    "search": {
+      "id": "2GbQW7DHk",
+      "complexity": 29,
+      "total": 4
+    },
+    "builds": 4,
+    "mods": [
+      {
+        "text": "corrupted blood cannot be inflicted on you",
+        "trade_ids": [
+          "implicit.stat_1658498488"
+        ]
+      },
+      {
+        "text": "you cannot be hindered",
+        "trade_ids": [
+          "implicit.stat_721014846"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Thread of Hope",
     "stats": "damage penetrates #% cold resistance, corrupted blood cannot be inflicted on you",
     "average": null,
     "prices": [],
@@ -14456,6 +14487,22 @@
   {
     "item": "Replica Dreamfeather",
     "stats": "#% increased attack speed",
+    "average": 46564.277500000004,
+    "prices": [
+      1199.4499999999998,
+      4797.799999999999,
+      6716.92,
+      6716.92,
+      6716.92,
+      7916.37,
+      169224.92,
+      169224.92
+    ],
+    "search": {
+      "id": "2Br0y6ehk",
+      "complexity": 19,
+      "total": 8
+    },
     "builds": 4,
     "mods": [
       {
@@ -14591,6 +14638,16 @@
   {
     "item": "Kaom's Heart",
     "stats": "you take #% reduced extra damage from critical strikes",
+    "average": 57.5,
+    "prices": [
+      40,
+      75
+    ],
+    "search": {
+      "id": "WVWd240tm",
+      "complexity": 18,
+      "total": 2
+    },
     "builds": 4,
     "mods": [
       {
@@ -18853,37 +18910,6 @@
         "text": "damage penetrates #% lightning resistance",
         "trade_ids": [
           "implicit.stat_818778753"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Thread of Hope",
-    "stats": "corrupted blood cannot be inflicted on you, you cannot be hindered",
-    "average": 15580.785,
-    "prices": [
-      2801.04,
-      14005.199999999999,
-      22174.899999999998,
-      23342
-    ],
-    "search": {
-      "id": "2GbQW7DHk",
-      "complexity": 29,
-      "total": 4
-    },
-    "builds": 3,
-    "mods": [
-      {
-        "text": "corrupted blood cannot be inflicted on you",
-        "trade_ids": [
-          "implicit.stat_1658498488"
-        ]
-      },
-      {
-        "text": "you cannot be hindered",
-        "trade_ids": [
-          "implicit.stat_721014846"
         ]
       }
     ]
@@ -30399,6 +30425,25 @@
         "text": "# to # added lightning damage with bow attacks",
         "trade_ids": [
           "implicit.stat_1040269876"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Astral Projector",
+    "stats": "hatred has #% increased aura effect, pride has #% increased aura effect",
+    "builds": 2,
+    "mods": [
+      {
+        "text": "hatred has #% increased aura effect",
+        "trade_ids": [
+          "implicit.stat_3742945352"
+        ]
+      },
+      {
+        "text": "pride has #% increased aura effect",
+        "trade_ids": [
+          "implicit.stat_4247488219"
         ]
       }
     ]
@@ -75348,25 +75393,6 @@
         "text": "grants level # hatred skill",
         "trade_ids": [
           "implicit.stat_2429546158"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Astral Projector",
-    "stats": "hatred has #% increased aura effect, pride has #% increased aura effect",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "hatred has #% increased aura effect",
-        "trade_ids": [
-          "implicit.stat_3742945352"
-        ]
-      },
-      {
-        "text": "pride has #% increased aura effect",
-        "trade_ids": [
-          "implicit.stat_4247488219"
         ]
       }
     ]
