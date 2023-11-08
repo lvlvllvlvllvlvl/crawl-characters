@@ -7285,6 +7285,15 @@
   {
     "item": "Sandstorm Visage",
     "stats": "socketed skill gems get a #% cost & reservation multiplier",
+    "average": 28786.8,
+    "prices": [
+      28786.8
+    ],
+    "search": {
+      "id": "8a20y8BCV",
+      "complexity": 18,
+      "total": 1
+    },
     "builds": 7,
     "mods": [
       {
@@ -7298,6 +7307,17 @@
   {
     "item": "Rathpith Globe",
     "stats": "#% of physical damage from hits taken as fire damage",
+    "average": 2159.0099999999998,
+    "prices": [
+      239.89,
+      2878.68,
+      3358.46
+    ],
+    "search": {
+      "id": "5okGDrmsa",
+      "complexity": 18,
+      "total": 3
+    },
     "builds": 7,
     "mods": [
       {
@@ -7311,6 +7331,19 @@
   {
     "item": "The Consuming Dark",
     "stats": "#% increased damage over time",
+    "average": 80,
+    "prices": [
+      80,
+      80,
+      120,
+      239.89,
+      599.7249999999999
+    ],
+    "search": {
+      "id": "gXWPLmjiQ",
+      "complexity": 18,
+      "total": 5
+    },
     "builds": 7,
     "mods": [
       {
@@ -7355,6 +7388,23 @@
   {
     "item": "Dawnbreaker",
     "stats": "#% of physical damage from hits taken as chaos damage",
+    "average": 3328.47375,
+    "prices": [
+      239.89,
+      719.67,
+      1199.4499999999998,
+      1199.4499999999998,
+      4078.1299999999997,
+      4797.799999999999,
+      7196.7,
+      7196.7,
+      10795.05
+    ],
+    "search": {
+      "id": "VMEyZGaCp",
+      "complexity": 18,
+      "total": 9
+    },
     "builds": 7,
     "mods": [
       {
@@ -7368,6 +7418,13 @@
   {
     "item": "Stormshroud",
     "stats": "#% increased damage",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "4drqyKQt9",
+      "complexity": 18,
+      "total": 0
+    },
     "builds": 7,
     "mods": [
       {
@@ -7522,6 +7579,24 @@
   {
     "item": "Shavronne's Wrappings",
     "stats": "+# to level of socketed gems",
+    "average": 6087.20875,
+    "prices": [
+      1199.4499999999998,
+      1199.4499999999998,
+      1919.12,
+      2398.8999999999996,
+      3598.35,
+      7196.7,
+      14393.4,
+      16792.3,
+      28786.8,
+      43180.2
+    ],
+    "search": {
+      "id": "rXjY7K4fQ",
+      "complexity": 18,
+      "total": 12
+    },
     "builds": 7,
     "mods": [
       {
