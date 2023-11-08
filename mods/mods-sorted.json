@@ -13278,6 +13278,19 @@
   },
   {
     "item": "Sin Trek",
+    "stats": "+# to level of socketed curse gems",
+    "builds": 4,
+    "mods": [
+      {
+        "text": "+# to level of socketed curse gems",
+        "trade_ids": [
+          "implicit.stat_3691695237"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Sin Trek",
     "stats": "+# to level of socketed aoe gems",
     "average": 113.48899999999999,
     "prices": [
@@ -15744,6 +15757,24 @@
   {
     "item": "Mageblood",
     "stats": "#% increased strength, #% increased dexterity",
+    "average": 143062.17222222226,
+    "prices": [
+      62371.399999999994,
+      91158.2,
+      107950.5,
+      110349.4,
+      169232.39,
+      169232.39,
+      169232.39,
+      169232.39,
+      169232.39,
+      131939.5
+    ],
+    "search": {
+      "id": "7l52DElC5",
+      "complexity": 29,
+      "total": 12
+    },
     "builds": 3,
     "mods": [
       {
@@ -15763,6 +15794,13 @@
   {
     "item": "Mageblood",
     "stats": "#% increased dexterity, #% increased intelligence, #% increased attack speed during any flask effect",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "6ZkrK20FG",
+      "complexity": 20,
+      "total": 0
+    },
     "builds": 3,
     "mods": [
       {
@@ -15811,6 +15849,13 @@
   {
     "item": "Heatshiver",
     "stats": "socketed skill gems get a #% cost & reservation multiplier, #% of fire damage leeched as life",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "jXjdGQdHX",
+      "complexity": 30,
+      "total": 0
+    },
     "builds": 3,
     "mods": [
       {
@@ -15945,6 +15990,24 @@
   {
     "item": "Asenath's Gentle Touch",
     "stats": "+# to level of socketed aoe gems",
+    "average": 108.125,
+    "prices": [
+      20,
+      70,
+      90,
+      90,
+      100,
+      110,
+      120,
+      135,
+      150,
+      239.89
+    ],
+    "search": {
+      "id": "BEJVoPwu8",
+      "complexity": 18,
+      "total": 16
+    },
     "builds": 3,
     "mods": [
       {
@@ -16034,6 +16097,13 @@
   {
     "item": "Asenath's Gentle Touch",
     "stats": "+# to level of socketed gems, #% increased maximum life",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "3Br3rwGh5",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 3,
     "mods": [
       {
@@ -18189,19 +18259,6 @@
         "text": "#% increased intelligence",
         "trade_ids": [
           "implicit.stat_656461285"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Sin Trek",
-    "stats": "+# to level of socketed curse gems",
-    "builds": 3,
-    "mods": [
-      {
-        "text": "+# to level of socketed curse gems",
-        "trade_ids": [
-          "implicit.stat_3691695237"
         ]
       }
     ]
