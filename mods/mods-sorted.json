@@ -1346,6 +1346,37 @@
     ]
   },
   {
+    "item": "Legacy of Fury",
+    "stats": "+# to maximum endurance charges",
+    "average": 39.5,
+    "prices": [
+      20,
+      30,
+      30,
+      30,
+      40,
+      45,
+      50,
+      50,
+      50,
+      50
+    ],
+    "search": {
+      "id": "0PQZ0g7Ig",
+      "complexity": 18,
+      "total": 47
+    },
+    "builds": 25,
+    "mods": [
+      {
+        "text": "+# to maximum endurance charges",
+        "trade_ids": [
+          "implicit.stat_1515657623"
+        ]
+      }
+    ]
+  },
+  {
     "item": "Willclash",
     "stats": "+# to maximum power charges",
     "average": 233.65000000000003,
@@ -1403,37 +1434,6 @@
         "text": "+# to level of socketed projectile gems",
         "trade_ids": [
           "implicit.stat_2176571093"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Legacy of Fury",
-    "stats": "+# to maximum endurance charges",
-    "average": 39.5,
-    "prices": [
-      20,
-      30,
-      30,
-      30,
-      40,
-      45,
-      50,
-      50,
-      50,
-      50
-    ],
-    "search": {
-      "id": "0PQZ0g7Ig",
-      "complexity": 18,
-      "total": 47
-    },
-    "builds": 24,
-    "mods": [
-      {
-        "text": "+# to maximum endurance charges",
-        "trade_ids": [
-          "implicit.stat_1515657623"
         ]
       }
     ]
@@ -11517,6 +11517,24 @@
   {
     "item": "Heatshiver",
     "stats": "#% increased effect of cold ailments",
+    "average": 115.878,
+    "prices": [
+      20,
+      30,
+      50,
+      50,
+      80,
+      100,
+      149,
+      200,
+      239.89,
+      239.89
+    ],
+    "search": {
+      "id": "4drzQXgt9",
+      "complexity": 18,
+      "total": 18
+    },
     "builds": 4,
     "mods": [
       {
@@ -11556,6 +11574,13 @@
   {
     "item": "Asenath's Gentle Touch",
     "stats": "+# to level of socketed gems, curse enemies with despair on hit",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "GkdqLj3Tb",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 4,
     "mods": [
       {
@@ -11575,6 +11600,13 @@
   {
     "item": "Asenath's Gentle Touch",
     "stats": "#% increased cast speed, curse enemies with despair on hit",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "dXWwBgOhJ",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 4,
     "mods": [
       {
@@ -11594,6 +11626,13 @@
   {
     "item": "Asenath's Gentle Touch",
     "stats": "#% increased cast speed, +# to maximum frenzy charges",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "bXWwbKOTL",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 4,
     "mods": [
       {
