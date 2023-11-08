@@ -874,7 +874,7 @@
       "complexity": 18,
       "total": 33
     },
-    "builds": 31,
+    "builds": 32,
     "mods": [
       {
         "text": "#% increased maximum life",
@@ -2103,6 +2103,37 @@
     ]
   },
   {
+    "item": "Heatshiver",
+    "stats": "#% increased maximum life",
+    "average": 28.7,
+    "prices": [
+      20,
+      22,
+      25,
+      30,
+      30,
+      30,
+      30,
+      30,
+      35,
+      35
+    ],
+    "search": {
+      "id": "PK7qy2ZCL",
+      "complexity": 18,
+      "total": 118
+    },
+    "builds": 19,
+    "mods": [
+      {
+        "text": "#% increased maximum life",
+        "trade_ids": [
+          "implicit.stat_983749596"
+        ]
+      }
+    ]
+  },
+  {
     "item": "Kaom's Spirit",
     "stats": "#% increased attack speed",
     "average": 100,
@@ -2270,37 +2301,6 @@
         "text": "+# to level of socketed gems",
         "trade_ids": [
           "implicit.stat_2843100721"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Heatshiver",
-    "stats": "#% increased maximum life",
-    "average": 28.7,
-    "prices": [
-      20,
-      22,
-      25,
-      30,
-      30,
-      30,
-      30,
-      30,
-      35,
-      35
-    ],
-    "search": {
-      "id": "PK7qy2ZCL",
-      "complexity": 18,
-      "total": 118
-    },
-    "builds": 18,
-    "mods": [
-      {
-        "text": "#% increased maximum life",
-        "trade_ids": [
-          "implicit.stat_983749596"
         ]
       }
     ]
@@ -4338,6 +4338,21 @@
   {
     "item": "Arn's Anguish",
     "stats": "hatred has #% increased aura effect",
+    "average": 755.6535,
+    "prices": [
+      239.89,
+      479.78,
+      479.78,
+      719.67,
+      1199.4499999999998,
+      1415.351,
+      3358.46
+    ],
+    "search": {
+      "id": "Zb5LRnYSQ",
+      "complexity": 18,
+      "total": 7
+    },
     "builds": 12,
     "mods": [
       {
@@ -4537,6 +4552,16 @@
   {
     "item": "Ephemeral Edge",
     "stats": "#% increased area of effect",
+    "average": 335.846,
+    "prices": [
+      239.89,
+      431.80199999999996
+    ],
+    "search": {
+      "id": "vlP9onDSE",
+      "complexity": 18,
+      "total": 2
+    },
     "builds": 11,
     "mods": [
       {
@@ -4600,6 +4625,17 @@
   {
     "item": "Eyes of the Greatwolf",
     "stats": "#% increased global critical strike chance, #% increased quantity of items found",
+    "average": 8356.168333333333,
+    "prices": [
+      1079.5049999999999,
+      4797.799999999999,
+      19191.199999999997
+    ],
+    "search": {
+      "id": "KJDov6PI5",
+      "complexity": 29,
+      "total": 3
+    },
     "builds": 11,
     "mods": [
       {
@@ -13431,6 +13467,25 @@
   },
   {
     "item": "Kaom's Spirit",
+    "stats": "+# to level of socketed gems, +# to maximum frenzy charges",
+    "builds": 3,
+    "mods": [
+      {
+        "text": "+# to level of socketed gems",
+        "trade_ids": [
+          "implicit.stat_2843100721"
+        ]
+      },
+      {
+        "text": "+# to maximum frenzy charges",
+        "trade_ids": [
+          "implicit.stat_4078695"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Kaom's Spirit",
     "stats": "curse enemies with elemental weakness on hit, attacks have +#% to critical strike chance",
     "builds": 3,
     "mods": [
@@ -20645,25 +20700,6 @@
         "text": "attacks have +#% to critical strike chance",
         "trade_ids": [
           "implicit.stat_2572042788"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Kaom's Spirit",
-    "stats": "+# to level of socketed gems, +# to maximum frenzy charges",
-    "builds": 2,
-    "mods": [
-      {
-        "text": "+# to level of socketed gems",
-        "trade_ids": [
-          "implicit.stat_2843100721"
-        ]
-      },
-      {
-        "text": "+# to maximum frenzy charges",
-        "trade_ids": [
-          "implicit.stat_4078695"
         ]
       }
     ]
