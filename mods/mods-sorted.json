@@ -13527,6 +13527,17 @@
   {
     "item": "Rathpith Globe",
     "stats": "#% of physical damage from hits taken as cold damage",
+    "average": 239.89,
+    "prices": [
+      239.89,
+      239.89,
+      599.7249999999999
+    ],
+    "search": {
+      "id": "Zb5yX0btQ",
+      "complexity": 18,
+      "total": 3
+    },
     "builds": 4,
     "mods": [
       {
@@ -13540,6 +13551,24 @@
   {
     "item": "Watcher's Eye",
     "stats": "damage penetrates #% fire resistance",
+    "average": 307.6494444444444,
+    "prices": [
+      50,
+      200,
+      239.89,
+      239.89,
+      239.89,
+      359.835,
+      479.78,
+      479.78,
+      479.78,
+      719.67
+    ],
+    "search": {
+      "id": "eXWMveghL",
+      "complexity": 18,
+      "total": 13
+    },
     "builds": 4,
     "mods": [
       {
@@ -13553,6 +13582,24 @@
   {
     "item": "Watcher's Eye",
     "stats": "#% increased reservation efficiency of skills",
+    "average": 239.88999999999996,
+    "prices": [
+      50,
+      200,
+      239.89,
+      239.89,
+      239.89,
+      239.89,
+      239.89,
+      479.78,
+      719.67,
+      959.56
+    ],
+    "search": {
+      "id": "pXjMk5vC0",
+      "complexity": 19,
+      "total": 22
+    },
     "builds": 4,
     "mods": [
       {
@@ -13567,6 +13614,24 @@
   {
     "item": "Watcher's Eye",
     "stats": "you cannot be cursed with silence",
+    "average": 188.26,
+    "prices": [
+      70,
+      100,
+      239.89,
+      239.89,
+      239.89,
+      239.89,
+      479.78,
+      959.56,
+      1199.4499999999998,
+      1679.23
+    ],
+    "search": {
+      "id": "rXjMgDguQ",
+      "complexity": 18,
+      "total": 13
+    },
     "builds": 4,
     "mods": [
       {
@@ -13611,6 +13676,18 @@
   {
     "item": "Intuitive Leap",
     "stats": "you cannot be cursed with silence",
+    "average": 1559.2849999999999,
+    "prices": [
+      719.67,
+      1199.4499999999998,
+      1439.34,
+      2878.68
+    ],
+    "search": {
+      "id": "8a29J4GUV",
+      "complexity": 18,
+      "total": 4
+    },
     "builds": 4,
     "mods": [
       {
@@ -31600,6 +31677,19 @@
     ]
   },
   {
+    "item": "Triad Grip",
+    "stats": "+# to level of socketed duration gems",
+    "builds": 2,
+    "mods": [
+      {
+        "text": "+# to level of socketed duration gems",
+        "trade_ids": [
+          "implicit.stat_2115168758"
+        ]
+      }
+    ]
+  },
+  {
     "item": "Atziri's Step",
     "stats": "+# to level of socketed aura gems",
     "builds": 2,
@@ -46567,6 +46657,25 @@
         "text": "+# to level of socketed warcry gems",
         "trade_ids": [
           "implicit.stat_1672793731"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Dialla's Malefaction",
+    "stats": "+# to level of socketed minion gems, you take #% reduced extra damage from critical strikes",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "+# to level of socketed minion gems",
+        "trade_ids": [
+          "implicit.stat_3604946673"
+        ]
+      },
+      {
+        "text": "you take #% reduced extra damage from critical strikes",
+        "trade_ids": [
+          "implicit.stat_3855016469"
         ]
       }
     ]
@@ -85293,19 +85402,6 @@
         "text": "+# to level of socketed aura gems",
         "trade_ids": [
           "implicit.stat_2452998583"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Triad Grip",
-    "stats": "+# to level of socketed duration gems",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "+# to level of socketed duration gems",
-        "trade_ids": [
-          "implicit.stat_2115168758"
         ]
       }
     ]
