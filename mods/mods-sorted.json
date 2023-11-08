@@ -13072,6 +13072,23 @@
   {
     "item": "Viridi's Veil",
     "stats": "+# to maximum power charges",
+    "average": 90,
+    "prices": [
+      40,
+      50,
+      60,
+      100,
+      140,
+      150,
+      959.56,
+      1199.4499999999998,
+      14393.4
+    ],
+    "search": {
+      "id": "DL855G4H5",
+      "complexity": 18,
+      "total": 9
+    },
     "builds": 4,
     "mods": [
       {
@@ -13085,6 +13102,15 @@
   {
     "item": "The Poet's Pen",
     "stats": "#% increased critical strike chance",
+    "average": 239.89,
+    "prices": [
+      239.89
+    ],
+    "search": {
+      "id": "VME22yaTp",
+      "complexity": 18,
+      "total": 1
+    },
     "builds": 4,
     "mods": [
       {
@@ -13174,6 +13200,13 @@
   {
     "item": "Anathema",
     "stats": "+#% to all elemental resistances",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "jXjMMPXSX",
+      "complexity": 18,
+      "total": 0
+    },
     "builds": 4,
     "mods": [
       {
@@ -13187,6 +13220,24 @@
   {
     "item": "Sin Trek",
     "stats": "+# to level of socketed aoe gems",
+    "average": 113.48899999999999,
+    "prices": [
+      40,
+      50,
+      50,
+      50,
+      60,
+      120,
+      150,
+      175,
+      200,
+      239.89
+    ],
+    "search": {
+      "id": "XqD88k4hP",
+      "complexity": 18,
+      "total": 10
+    },
     "builds": 4,
     "mods": [
       {
@@ -13200,6 +13251,24 @@
   {
     "item": "Dendrobate",
     "stats": "+# to level of socketed projectile gems",
+    "average": 197.71666666666667,
+    "prices": [
+      20,
+      50,
+      60,
+      100,
+      150,
+      200,
+      239.89,
+      479.78,
+      479.78,
+      719.67
+    ],
+    "search": {
+      "id": "QVnvvrjHw",
+      "complexity": 18,
+      "total": 22
+    },
     "builds": 4,
     "mods": [
       {
