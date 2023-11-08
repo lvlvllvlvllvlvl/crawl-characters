@@ -2999,6 +2999,33 @@
     ]
   },
   {
+    "item": "Legacy of Fury",
+    "stats": "+# to level of socketed gems",
+    "average": 443.1499999999999,
+    "prices": [
+      80,
+      80,
+      100,
+      239.89,
+      959.56,
+      1199.4499999999998
+    ],
+    "search": {
+      "id": "MVDlOzPUJ",
+      "complexity": 18,
+      "total": 6
+    },
+    "builds": 16,
+    "mods": [
+      {
+        "text": "+# to level of socketed gems",
+        "trade_ids": [
+          "implicit.stat_2843100721"
+        ]
+      }
+    ]
+  },
+  {
     "item": "Ancient Skull",
     "stats": "socketed skill gems get a #% cost & reservation multiplier",
     "average": 1139.4775,
@@ -3336,33 +3363,6 @@
         "text": "#% increased global critical strike chance",
         "trade_ids": [
           "implicit.stat_587431675"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Legacy of Fury",
-    "stats": "+# to level of socketed gems",
-    "average": 443.1499999999999,
-    "prices": [
-      80,
-      80,
-      100,
-      239.89,
-      959.56,
-      1199.4499999999998
-    ],
-    "search": {
-      "id": "MVDlOzPUJ",
-      "complexity": 18,
-      "total": 6
-    },
-    "builds": 15,
-    "mods": [
-      {
-        "text": "+# to level of socketed gems",
-        "trade_ids": [
-          "implicit.stat_2843100721"
         ]
       }
     ]
@@ -14305,6 +14305,18 @@
   {
     "item": "Redblade Banner",
     "stats": "+# to level of socketed aura gems",
+    "average": 239.89,
+    "prices": [
+      100,
+      239.89,
+      239.89,
+      2398.8999999999996
+    ],
+    "search": {
+      "id": "kXjvjbwF5",
+      "complexity": 18,
+      "total": 4
+    },
     "builds": 4,
     "mods": [
       {
@@ -14338,6 +14350,16 @@
   {
     "item": "Rainbowstride",
     "stats": "+# to level of socketed aura gems",
+    "average": 264.89,
+    "prices": [
+      50,
+      479.78
+    ],
+    "search": {
+      "id": "RVBMBPZh7",
+      "complexity": 18,
+      "total": 2
+    },
     "builds": 4,
     "mods": [
       {
@@ -14351,6 +14373,21 @@
   {
     "item": "Widowhail",
     "stats": "socketed gems are supported by level # blind",
+    "average": 2079.0466666666666,
+    "prices": [
+      479.78,
+      959.56,
+      1679.23,
+      2159.0099999999998,
+      3598.35,
+      3598.35,
+      9595.599999999999
+    ],
+    "search": {
+      "id": "7l5a5g3S5",
+      "complexity": 18,
+      "total": 7
+    },
     "builds": 4,
     "mods": [
       {
@@ -14364,6 +14401,17 @@
   {
     "item": "Widowhail",
     "stats": "bow attacks fire an additional arrow",
+    "average": 24708.67,
+    "prices": [
+      4557.91,
+      9595.599999999999,
+      59972.5
+    ],
+    "search": {
+      "id": "jXjejbrSX",
+      "complexity": 18,
+      "total": 3
+    },
     "builds": 4,
     "mods": [
       {
@@ -14377,6 +14425,24 @@
   {
     "item": "Crown of Eyes",
     "stats": "socketed skill gems get a #% cost & reservation multiplier",
+    "average": 1082.8444444444442,
+    "prices": [
+      150,
+      239.89,
+      239.89,
+      719.67,
+      959.56,
+      959.56,
+      1199.4499999999998,
+      2638.79,
+      2638.79,
+      3598.35
+    ],
+    "search": {
+      "id": "3Br0mJJs5",
+      "complexity": 18,
+      "total": 13
+    },
     "builds": 4,
     "mods": [
       {
@@ -14461,6 +14527,13 @@
   {
     "item": "Ancestral Vision",
     "stats": "#% increased damage",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "LmdwQrBHn",
+      "complexity": 18,
+      "total": 0
+    },
     "builds": 4,
     "mods": [
       {
@@ -14474,6 +14547,15 @@
   {
     "item": "Ancestral Vision",
     "stats": "you cannot be maimed",
+    "average": 1079.5049999999999,
+    "prices": [
+      1079.5049999999999
+    ],
+    "search": {
+      "id": "y9RWbLlTR",
+      "complexity": 18,
+      "total": 1
+    },
     "builds": 4,
     "mods": [
       {
@@ -14487,6 +14569,15 @@
   {
     "item": "Ancestral Vision",
     "stats": "#% reduced effect of curses on you",
+    "average": 479.78,
+    "prices": [
+      479.78
+    ],
+    "search": {
+      "id": "DL8ypadf5",
+      "complexity": 18,
+      "total": 1
+    },
     "builds": 4,
     "mods": [
       {
@@ -71040,6 +71131,25 @@
   },
   {
     "item": "The Fourth Vow",
+    "stats": "+# to level of socketed duration gems, +# to level of socketed aoe gems",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "+# to level of socketed duration gems",
+        "trade_ids": [
+          "implicit.stat_2115168758"
+        ]
+      },
+      {
+        "text": "+# to level of socketed aoe gems",
+        "trade_ids": [
+          "implicit.stat_2551600084"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "The Fourth Vow",
     "stats": "you take #% reduced extra damage from critical strikes, #% additional physical damage reduction while stationary",
     "builds": 1,
     "mods": [
@@ -85265,6 +85375,20 @@
         "text": "bow attacks fire an additional arrow",
         "trade_ids": [
           "implicit.stat_742529963"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Iron Commander",
+    "stats": "adds # to # fire damage",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "adds # to # fire damage",
+        "trade_ids": [
+          "implicit.stat_709508406",
+          "implicit.stat_321077055"
         ]
       }
     ]
