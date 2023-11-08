@@ -113,7 +113,7 @@
       "complexity": 18,
       "total": 222
     },
-    "builds": 88,
+    "builds": 89,
     "mods": [
       {
         "text": "+# to maximum power charges",
@@ -1187,6 +1187,37 @@
     ]
   },
   {
+    "item": "March of the Legion",
+    "stats": "+# to level of socketed gems",
+    "average": 12.571428571428571,
+    "prices": [
+      8,
+      10,
+      10,
+      10,
+      10,
+      20,
+      20,
+      26,
+      40,
+      50
+    ],
+    "search": {
+      "id": "jPpB8gdHX",
+      "complexity": 18,
+      "total": 95
+    },
+    "builds": 26,
+    "mods": [
+      {
+        "text": "+# to level of socketed gems",
+        "trade_ids": [
+          "implicit.stat_2843100721"
+        ]
+      }
+    ]
+  },
+  {
     "item": "Heartbound Loop",
     "stats": "#% increased strength, #% increased dexterity",
     "average": 10,
@@ -1310,37 +1341,6 @@
         "trade_ids": [
           "implicit.stat_2587176568",
           "implicit.stat_4202507508"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "March of the Legion",
-    "stats": "+# to level of socketed gems",
-    "average": 12.571428571428571,
-    "prices": [
-      8,
-      10,
-      10,
-      10,
-      10,
-      20,
-      20,
-      26,
-      40,
-      50
-    ],
-    "search": {
-      "id": "jPpB8gdHX",
-      "complexity": 18,
-      "total": 95
-    },
-    "builds": 25,
-    "mods": [
-      {
-        "text": "+# to level of socketed gems",
-        "trade_ids": [
-          "implicit.stat_2843100721"
         ]
       }
     ]
@@ -3150,6 +3150,37 @@
     ]
   },
   {
+    "item": "Call of the Brotherhood",
+    "stats": "grants level # hatred skill",
+    "average": 233.42000000000002,
+    "prices": [
+      200,
+      233.42,
+      233.42,
+      233.42,
+      233.42,
+      233.42,
+      233.42,
+      233.42,
+      350.13,
+      466.84
+    ],
+    "search": {
+      "id": "kPKdv73F5",
+      "complexity": 18,
+      "total": 22
+    },
+    "builds": 15,
+    "mods": [
+      {
+        "text": "grants level # hatred skill",
+        "trade_ids": [
+          "implicit.stat_2429546158"
+        ]
+      }
+    ]
+  },
+  {
     "item": "Incandescent Heart",
     "stats": "+# to level of socketed gems",
     "average": 482.6175,
@@ -3443,37 +3474,6 @@
         "text": "#% reduced effect of curses on you",
         "trade_ids": [
           "implicit.stat_3407849389"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Call of the Brotherhood",
-    "stats": "grants level # hatred skill",
-    "average": 233.42000000000002,
-    "prices": [
-      200,
-      233.42,
-      233.42,
-      233.42,
-      233.42,
-      233.42,
-      233.42,
-      233.42,
-      350.13,
-      466.84
-    ],
-    "search": {
-      "id": "kPKdv73F5",
-      "complexity": 18,
-      "total": 22
-    },
-    "builds": 14,
-    "mods": [
-      {
-        "text": "grants level # hatred skill",
-        "trade_ids": [
-          "implicit.stat_2429546158"
         ]
       }
     ]
@@ -8718,6 +8718,24 @@
   {
     "item": "Malachai's Loop",
     "stats": "#% increased spell damage",
+    "average": 2.6666666666666665,
+    "prices": [
+      1,
+      2,
+      2,
+      2,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3
+    ],
+    "search": {
+      "id": "waPa4Kncb",
+      "complexity": 18,
+      "total": 158
+    },
     "builds": 6,
     "mods": [
       {
