@@ -113,7 +113,7 @@
       "complexity": 18,
       "total": 222
     },
-    "builds": 87,
+    "builds": 88,
     "mods": [
       {
         "text": "+# to maximum power charges",
@@ -610,6 +610,37 @@
     ]
   },
   {
+    "item": "The Annihilating Light",
+    "stats": "#% increased cast speed",
+    "average": 54.8,
+    "prices": [
+      30,
+      30,
+      49,
+      49,
+      60,
+      60,
+      60,
+      70,
+      70,
+      70
+    ],
+    "search": {
+      "id": "EG8PzJYF5",
+      "complexity": 18,
+      "total": 105
+    },
+    "builds": 37,
+    "mods": [
+      {
+        "text": "#% increased cast speed",
+        "trade_ids": [
+          "implicit.stat_2891184298"
+        ]
+      }
+    ]
+  },
+  {
     "item": "Matua Tupuna",
     "stats": "+# to level of socketed aura gems",
     "average": 233.42000000000002,
@@ -667,37 +698,6 @@
         "text": "+#% to spell critical strike chance",
         "trade_ids": [
           "implicit.stat_791835907"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "The Annihilating Light",
-    "stats": "#% increased cast speed",
-    "average": 54.8,
-    "prices": [
-      30,
-      30,
-      49,
-      49,
-      60,
-      60,
-      60,
-      70,
-      70,
-      70
-    ],
-    "search": {
-      "id": "EG8PzJYF5",
-      "complexity": 18,
-      "total": 105
-    },
-    "builds": 36,
-    "mods": [
-      {
-        "text": "#% increased cast speed",
-        "trade_ids": [
-          "implicit.stat_2891184298"
         ]
       }
     ]
@@ -2877,6 +2877,37 @@
     ]
   },
   {
+    "item": "Call of the Brotherhood",
+    "stats": "hatred has #% increased aura effect",
+    "average": 139.76,
+    "prices": [
+      30,
+      50,
+      60,
+      100,
+      150,
+      200,
+      200,
+      233.92,
+      233.92,
+      1637.4399999999998
+    ],
+    "search": {
+      "id": "JYDZWMbUl",
+      "complexity": 18,
+      "total": 18
+    },
+    "builds": 16,
+    "mods": [
+      {
+        "text": "hatred has #% increased aura effect",
+        "trade_ids": [
+          "implicit.stat_3742945352"
+        ]
+      }
+    ]
+  },
+  {
     "item": "Greed's Embrace",
     "stats": "#% increased damage",
     "average": 374.2135,
@@ -3114,37 +3145,6 @@
         "text": "#% increased quantity of items found",
         "trade_ids": [
           "implicit.stat_884586851"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Call of the Brotherhood",
-    "stats": "hatred has #% increased aura effect",
-    "average": 139.76,
-    "prices": [
-      30,
-      50,
-      60,
-      100,
-      150,
-      200,
-      200,
-      233.92,
-      233.92,
-      1637.4399999999998
-    ],
-    "search": {
-      "id": "JYDZWMbUl",
-      "complexity": 18,
-      "total": 18
-    },
-    "builds": 15,
-    "mods": [
-      {
-        "text": "hatred has #% increased aura effect",
-        "trade_ids": [
-          "implicit.stat_3742945352"
         ]
       }
     ]
@@ -5056,6 +5056,18 @@
   {
     "item": "The Covenant",
     "stats": "+# to level of socketed gems",
+    "average": 11994.5,
+    "prices": [
+      4797.799999999999,
+      11994.5,
+      11994.5,
+      169276.84
+    ],
+    "search": {
+      "id": "GkdLXY3Ib",
+      "complexity": 18,
+      "total": 4
+    },
     "builds": 10,
     "mods": [
       {
@@ -5100,6 +5112,16 @@
   {
     "item": "Redblade Banner",
     "stats": "you take #% reduced extra damage from critical strikes",
+    "average": 839.6149999999999,
+    "prices": [
+      479.78,
+      1199.4499999999998
+    ],
+    "search": {
+      "id": "BEJKXnjC8",
+      "complexity": 18,
+      "total": 2
+    },
     "builds": 10,
     "mods": [
       {
@@ -5113,6 +5135,13 @@
   {
     "item": "Zerphi's Heart",
     "stats": "hatred has #% increased aura effect",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "QVnew8mCw",
+      "complexity": 18,
+      "total": 0
+    },
     "builds": 10,
     "mods": [
       {
@@ -5126,6 +5155,15 @@
   {
     "item": "Ancestral Vision",
     "stats": "#% increased reservation efficiency of skills",
+    "average": 2398.8999999999996,
+    "prices": [
+      2398.8999999999996
+    ],
+    "search": {
+      "id": "waPe72RIb",
+      "complexity": 19,
+      "total": 1
+    },
     "builds": 10,
     "mods": [
       {
@@ -75351,6 +75389,25 @@
         "text": "#% reduced fire damage taken",
         "trade_ids": [
           "implicit.stat_3743301799"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Utula's Hunger",
+    "stats": "+# to level of socketed gems, +# to level of socketed duration gems",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "+# to level of socketed gems",
+        "trade_ids": [
+          "implicit.stat_2843100721"
+        ]
+      },
+      {
+        "text": "+# to level of socketed duration gems",
+        "trade_ids": [
+          "implicit.stat_2115168758"
         ]
       }
     ]
