@@ -6804,6 +6804,18 @@
   {
     "item": "Machina Mitts",
     "stats": "curse enemies with elemental weakness on hit",
+    "average": 1799.175,
+    "prices": [
+      239.89,
+      719.67,
+      2638.79,
+      3598.35
+    ],
+    "search": {
+      "id": "0B8PL7bFg",
+      "complexity": 18,
+      "total": 4
+    },
     "builds": 8,
     "mods": [
       {
@@ -6817,6 +6829,23 @@
   {
     "item": "Cospri's Malice",
     "stats": "skills fire an additional projectile",
+    "average": 315.868,
+    "prices": [
+      140,
+      239.89,
+      239.89,
+      479.78,
+      479.78,
+      959.56,
+      1919.12,
+      21590.1,
+      47978
+    ],
+    "search": {
+      "id": "waPp0KRHb",
+      "complexity": 18,
+      "total": 9
+    },
     "builds": 8,
     "mods": [
       {
@@ -6861,6 +6890,24 @@
   {
     "item": "Devoto's Devotion",
     "stats": "socketed skill gems get a #% cost & reservation multiplier",
+    "average": 40.833333333333336,
+    "prices": [
+      20,
+      25,
+      40,
+      50,
+      50,
+      60,
+      100,
+      239.89,
+      479.78,
+      1199.4499999999998
+    ],
+    "search": {
+      "id": "zeB2VPKF4",
+      "complexity": 18,
+      "total": 16
+    },
     "builds": 8,
     "mods": [
       {
@@ -6901,6 +6948,18 @@
   {
     "item": "Algor Mortis",
     "stats": "+#% to spell critical strike chance",
+    "average": 1199.4499999999998,
+    "prices": [
+      60,
+      959.56,
+      1199.4499999999998,
+      1199.4499999999998
+    ],
+    "search": {
+      "id": "qXjaPM9Cg",
+      "complexity": 18,
+      "total": 4
+    },
     "builds": 8,
     "mods": [
       {
@@ -6914,6 +6973,13 @@
   {
     "item": "Corpsewalker",
     "stats": "+#% chance to suppress spell damage",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "oXjZPMwsl",
+      "complexity": 19,
+      "total": 0
+    },
     "builds": 7,
     "mods": [
       {
@@ -7575,6 +7641,25 @@
         "text": "#% increased effect of non-damaging ailments",
         "trade_ids": [
           "implicit.stat_782230869"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Unnatural Instinct",
+    "stats": "damage penetrates #% fire resistance, corrupted blood cannot be inflicted on you",
+    "builds": 6,
+    "mods": [
+      {
+        "text": "damage penetrates #% fire resistance",
+        "trade_ids": [
+          "implicit.stat_2653955271"
+        ]
+      },
+      {
+        "text": "corrupted blood cannot be inflicted on you",
+        "trade_ids": [
+          "implicit.stat_1658498488"
         ]
       }
     ]
@@ -8715,25 +8800,6 @@
         "text": "#% reduced bleed duration on you",
         "trade_ids": [
           "implicit.stat_1692879867"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Unnatural Instinct",
-    "stats": "damage penetrates #% fire resistance, corrupted blood cannot be inflicted on you",
-    "builds": 5,
-    "mods": [
-      {
-        "text": "damage penetrates #% fire resistance",
-        "trade_ids": [
-          "implicit.stat_2653955271"
-        ]
-      },
-      {
-        "text": "corrupted blood cannot be inflicted on you",
-        "trade_ids": [
-          "implicit.stat_1658498488"
         ]
       }
     ]
