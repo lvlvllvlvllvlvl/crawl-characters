@@ -14138,6 +14138,24 @@
   {
     "item": "Malachai's Loop",
     "stats": "+# to level of socketed aura gems",
+    "average": 294.87777777777774,
+    "prices": [
+      35,
+      50,
+      170,
+      239.89,
+      359.835,
+      359.835,
+      479.78,
+      479.78,
+      479.78,
+      1199.4499999999998
+    ],
+    "search": {
+      "id": "YVqOBVOsY",
+      "complexity": 18,
+      "total": 10
+    },
     "builds": 4,
     "mods": [
       {
@@ -14177,6 +14195,17 @@
   {
     "item": "Badge of the Brotherhood",
     "stats": "+#% to all maximum resistances",
+    "average": 1279.4133333333332,
+    "prices": [
+      239.89,
+      1199.4499999999998,
+      2398.8999999999996
+    ],
+    "search": {
+      "id": "3Br0vBZU5",
+      "complexity": 18,
+      "total": 3
+    },
     "builds": 4,
     "mods": [
       {
@@ -14221,6 +14250,21 @@
   {
     "item": "Arn's Anguish",
     "stats": "+#% to all elemental resistances",
+    "average": 1199.45,
+    "prices": [
+      719.67,
+      719.67,
+      719.67,
+      1199.4499999999998,
+      1919.12,
+      1919.12,
+      7196.7
+    ],
+    "search": {
+      "id": "Ey659y0i5",
+      "complexity": 18,
+      "total": 7
+    },
     "builds": 4,
     "mods": [
       {
@@ -14234,6 +14278,20 @@
   {
     "item": "Voidwalker",
     "stats": "+# to level of socketed gems",
+    "average": 20,
+    "prices": [
+      10,
+      20,
+      30,
+      70,
+      479.78,
+      1199.4499999999998
+    ],
+    "search": {
+      "id": "y9RWw9GSR",
+      "complexity": 18,
+      "total": 6
+    },
     "builds": 4,
     "mods": [
       {
@@ -14260,6 +14318,13 @@
   {
     "item": "Redblade Banner",
     "stats": "#% of physical damage from hits taken as fire damage",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "gXWaW8aiQ",
+      "complexity": 18,
+      "total": 0
+    },
     "builds": 4,
     "mods": [
       {
@@ -19359,6 +19424,19 @@
         "text": "corrupted blood cannot be inflicted on you",
         "trade_ids": [
           "implicit.stat_1658498488"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Heartbound Loop",
+    "stats": "bleeding cannot be inflicted on you",
+    "builds": 3,
+    "mods": [
+      {
+        "text": "bleeding cannot be inflicted on you",
+        "trade_ids": [
+          "implicit.stat_1901158930"
         ]
       }
     ]
@@ -29418,19 +29496,6 @@
         "text": "determination has #% increased aura effect",
         "trade_ids": [
           "implicit.stat_3653400807"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Heartbound Loop",
-    "stats": "bleeding cannot be inflicted on you",
-    "builds": 2,
-    "mods": [
-      {
-        "text": "bleeding cannot be inflicted on you",
-        "trade_ids": [
-          "implicit.stat_1901158930"
         ]
       }
     ]
