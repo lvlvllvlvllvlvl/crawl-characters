@@ -11814,6 +11814,18 @@
   {
     "item": "Unnatural Instinct",
     "stats": "overwhelm #% physical damage reduction, corrupted blood cannot be inflicted on you",
+    "average": 22789.55,
+    "prices": [
+      21590.1,
+      22789.55,
+      22789.55,
+      79163.7
+    ],
+    "search": {
+      "id": "QVnqjZjfw",
+      "complexity": 29,
+      "total": 4
+    },
     "builds": 4,
     "mods": [
       {
@@ -11833,6 +11845,13 @@
   {
     "item": "Unnatural Instinct",
     "stats": "#% increased global critical strike chance, you cannot be hindered",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "oXjl3PkFl",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 4,
     "mods": [
       {
@@ -11852,6 +11871,15 @@
   {
     "item": "Unnatural Instinct",
     "stats": "corrupted blood cannot be inflicted on you, #% reduced poison duration on you",
+    "average": 28786.8,
+    "prices": [
+      28786.8
+    ],
+    "search": {
+      "id": "Zb5wjmzTQ",
+      "complexity": 29,
+      "total": 1
+    },
     "builds": 4,
     "mods": [
       {
@@ -11871,6 +11899,13 @@
   {
     "item": "Unnatural Instinct",
     "stats": "#% increased reservation efficiency of skills, damage penetrates #% elemental resistances",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "aqJwjrKie",
+      "complexity": 30,
+      "total": 0
+    },
     "builds": 4,
     "mods": [
       {
@@ -11968,6 +12003,13 @@
   {
     "item": "Unnatural Instinct",
     "stats": "#% increased reservation efficiency of skills, you cannot be maimed",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "pXja5W5S0",
+      "complexity": 30,
+      "total": 0
+    },
     "builds": 4,
     "mods": [
       {
@@ -36140,6 +36182,25 @@
   },
   {
     "item": "Farrul's Fur",
+    "stats": "+# to level of socketed aoe gems, #% increased maximum life",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "+# to level of socketed aoe gems",
+        "trade_ids": [
+          "implicit.stat_2551600084"
+        ]
+      },
+      {
+        "text": "#% increased maximum life",
+        "trade_ids": [
+          "implicit.stat_983749596"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Farrul's Fur",
     "stats": "+# to level of socketed duration gems, +# to level of socketed aoe gems",
     "builds": 1,
     "mods": [
@@ -60169,6 +60230,19 @@
   },
   {
     "item": "Ryslatha's Coil",
+    "stats": "determination has #% increased aura effect",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "determination has #% increased aura effect",
+        "trade_ids": [
+          "implicit.stat_3653400807"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Ryslatha's Coil",
     "stats": "#% increased attack speed during any flask effect",
     "builds": 1,
     "mods": [
@@ -65243,6 +65317,25 @@
         "text": "resolute technique",
         "trade_ids": [
           "implicit.stat_3943945975"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Replica Dreamfeather",
+    "stats": "#% increased physical damage, #% chance to gain onslaught for # seconds on kill",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "#% increased physical damage",
+        "trade_ids": [
+          "implicit.stat_1509134228"
+        ]
+      },
+      {
+        "text": "#% chance to gain onslaught for # seconds on kill",
+        "trade_ids": [
+          "implicit.stat_3023957681"
         ]
       }
     ]
@@ -85680,6 +85773,19 @@
         "text": "#% of physical damage from hits taken as chaos damage",
         "trade_ids": [
           "implicit.stat_4129825612"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Emperor's Vigilance",
+    "stats": "+# to level of socketed gems",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "+# to level of socketed gems",
+        "trade_ids": [
+          "implicit.stat_2843100721"
         ]
       }
     ]
