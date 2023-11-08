@@ -3754,6 +3754,37 @@
     ]
   },
   {
+    "item": "Heatshiver",
+    "stats": "+# to level of socketed aura gems",
+    "average": 153.456,
+    "prices": [
+      15,
+      30,
+      60,
+      120,
+      150,
+      200,
+      239.89,
+      239.89,
+      239.89,
+      239.89
+    ],
+    "search": {
+      "id": "9Y2Z83ysK",
+      "complexity": 18,
+      "total": 37
+    },
+    "builds": 13,
+    "mods": [
+      {
+        "text": "+# to level of socketed aura gems",
+        "trade_ids": [
+          "implicit.stat_2452998583"
+        ]
+      }
+    ]
+  },
+  {
     "item": "Asenath's Gentle Touch",
     "stats": "+# to level of socketed gems",
     "average": 194.83399999999997,
@@ -4141,37 +4172,6 @@
         "text": "socketed skill gems get a #% cost & reservation multiplier",
         "trade_ids": [
           "implicit.stat_2865550257"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Heatshiver",
-    "stats": "+# to level of socketed aura gems",
-    "average": 153.456,
-    "prices": [
-      15,
-      30,
-      60,
-      120,
-      150,
-      200,
-      239.89,
-      239.89,
-      239.89,
-      239.89
-    ],
-    "search": {
-      "id": "9Y2Z83ysK",
-      "complexity": 18,
-      "total": 37
-    },
-    "builds": 12,
-    "mods": [
-      {
-        "text": "+# to level of socketed aura gems",
-        "trade_ids": [
-          "implicit.stat_2452998583"
         ]
       }
     ]
@@ -12220,6 +12220,13 @@
   {
     "item": "Unnatural Instinct",
     "stats": "#% increased area of effect, damage penetrates #% elemental resistances",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "7l5PBp3T5",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 4,
     "mods": [
       {
@@ -12239,6 +12246,15 @@
   {
     "item": "Unnatural Instinct",
     "stats": "minions deal #% increased damage, corrupted blood cannot be inflicted on you",
+    "average": 22549.66,
+    "prices": [
+      22549.66
+    ],
+    "search": {
+      "id": "4drzGegt9",
+      "complexity": 29,
+      "total": 1
+    },
     "builds": 4,
     "mods": [
       {
@@ -17905,6 +17921,20 @@
         "text": "#% increased damage",
         "trade_ids": [
           "implicit.stat_2154246560"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Dissolution of the Flesh",
+    "stats": "#% increased reservation efficiency of skills",
+    "builds": 3,
+    "mods": [
+      {
+        "text": "#% increased reservation efficiency of skills",
+        "trade_ids": [
+          "implicit.stat_2587176568",
+          "implicit.stat_4202507508"
         ]
       }
     ]
@@ -26815,20 +26845,6 @@
         "text": "damage penetrates #% fire resistance",
         "trade_ids": [
           "implicit.stat_2653955271"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Dissolution of the Flesh",
-    "stats": "#% increased reservation efficiency of skills",
-    "builds": 2,
-    "mods": [
-      {
-        "text": "#% increased reservation efficiency of skills",
-        "trade_ids": [
-          "implicit.stat_2587176568",
-          "implicit.stat_4202507508"
         ]
       }
     ]
