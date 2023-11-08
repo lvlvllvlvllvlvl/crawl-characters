@@ -118,11 +118,13 @@ for (const { item, stats, mods } of sorted) {
 
   const next = fetchAndSave(
     item,
-    mods.map((m) => ({
-      type: "count",
-      value: { min: 1 },
-      filters: m.trade_ids.map((id) => ({ id })),
-    })),
+    [
+      {
+        type: "count",
+        value: { min: mods.length },
+        filters: mods.flatMap((m) => m.trade_ids.map((id) => ({ id }))),
+      },
+    ],
     file
   );
   await task;

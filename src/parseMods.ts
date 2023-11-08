@@ -72,8 +72,6 @@ const formats: NearleyRule[] = [
   { name: "(×#)", symbols: [parentimes] },
 ];
 
-const known = new Set(formats.map((f) => f.name));
-
 const file = Bun.file("mods/poetrage-mods.json");
 const exists = await file.exists();
 const data = exists
@@ -101,7 +99,15 @@ grammar.ParserRules.push(...formats);
 
 type Mods = { text: string; trade_ids: string[] }[];
 const results = {} as {
-  [item: string]: { [mods: string]: { count: number; mods: Mods } };
+  [item: string]: {
+    [mods: string]: {
+      count: number;
+      mods: Mods;
+      average?: number;
+      prices?: number[];
+      search?: {};
+    };
+  };
 };
 for (const fileName of await readdir("data")) {
   if (!fileName.startsWith("items-") && !fileName.startsWith("passives-")) {
@@ -127,14 +133,24 @@ for (const fileName of await readdir("data")) {
             mods.push(parser.results[0]);
           }
         } catch (e) {
-          console.log(feed, e);
+          console.error(feed, e);
         }
       }
       if (mods.length) {
-        const key = mods.map((m) => m.text).join(", ");
+        const stats = mods.map((m) => m.text).join(", ");
         const result = (results[item.name] = results[item.name] || {});
-        result[key] = result[key] || { count: 0, mods };
-        result[key].count++;
+        if (!result[stats]) {
+          const file = Bun.file(
+            path.join("mods", `result-${item.name} ${stats}.json`)
+          );
+          result[stats] = { count: 0, mods };
+          if (await file.exists()) {
+            const { average, prices, search } = await file.json();
+            delete search.result;
+            result[stats] = { average, prices, search, ...result[stats] };
+          }
+        }
+        result[stats].count++;
       }
     }
   }
@@ -147,13 +163,14 @@ Bun.write(
   JSON.stringify(
     Object.entries(results)
       .flatMap(([item, values]) =>
-        Object.entries(values).map(([stats, { count, mods }]) => ({
+        Object.entries(values).map(([stats, data]) => ({
           item,
           stats,
-          mods,
-          count,
+          ...data,
         }))
       )
-      .sort((l, r) => r.count - l.count)
+      .sort((l, r) => r.count - l.count),
+    undefined,
+    2
   )
 );
