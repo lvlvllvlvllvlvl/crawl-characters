@@ -1809,6 +1809,37 @@
     ]
   },
   {
+    "item": "The Fourth Vow",
+    "stats": "+# to level of socketed gems",
+    "average": 2197.96875,
+    "prices": [
+      1172.25,
+      1875.6,
+      1875.6,
+      2110.0499999999997,
+      2344.5,
+      2344.5,
+      2344.5,
+      2344.5,
+      2344.5,
+      2813.3999999999996
+    ],
+    "search": {
+      "id": "VyBKDqPSp",
+      "complexity": 18,
+      "total": 18
+    },
+    "builds": 21,
+    "mods": [
+      {
+        "text": "+# to level of socketed gems",
+        "trade_ids": [
+          "implicit.stat_2843100721"
+        ]
+      }
+    ]
+  },
+  {
     "item": "Lightning Coil",
     "stats": "#% increased damage",
     "average": 24.22222222222222,
@@ -2042,37 +2073,6 @@
         "trade_ids": [
           "implicit.stat_2587176568",
           "implicit.stat_4202507508"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "The Fourth Vow",
-    "stats": "+# to level of socketed gems",
-    "average": 2197.96875,
-    "prices": [
-      1172.25,
-      1875.6,
-      1875.6,
-      2110.0499999999997,
-      2344.5,
-      2344.5,
-      2344.5,
-      2344.5,
-      2344.5,
-      2813.3999999999996
-    ],
-    "search": {
-      "id": "VyBKDqPSp",
-      "complexity": 18,
-      "total": 18
-    },
-    "builds": 20,
-    "mods": [
-      {
-        "text": "+# to level of socketed gems",
-        "trade_ids": [
-          "implicit.stat_2843100721"
         ]
       }
     ]
@@ -8257,6 +8257,20 @@
   {
     "item": "Warrior's Tale",
     "stats": "#% increased global critical strike chance",
+    "average": 1055.516,
+    "prices": [
+      719.67,
+      719.67,
+      959.56,
+      1439.34,
+      1439.34,
+      11994.5
+    ],
+    "search": {
+      "id": "vlP3GvJCE",
+      "complexity": 18,
+      "total": 6
+    },
     "builds": 6,
     "mods": [
       {
@@ -8531,6 +8545,18 @@
   {
     "item": "Vixen's Entrapment",
     "stats": "#% increased maximum life",
+    "average": 496.03,
+    "prices": [
+      30,
+      35,
+      479.78,
+      1439.34
+    ],
+    "search": {
+      "id": "3BrGb6gc5",
+      "complexity": 18,
+      "total": 4
+    },
     "builds": 6,
     "mods": [
       {
@@ -8544,6 +8570,13 @@
   {
     "item": "Greed's Embrace",
     "stats": "#% increased damage, you take #% reduced extra damage from critical strikes",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "Ey6GmVzC5",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 6,
     "mods": [
       {
@@ -8563,6 +8596,24 @@
   {
     "item": "Greed's Embrace",
     "stats": "+# to level of socketed aoe gems",
+    "average": 54.44444444444444,
+    "prices": [
+      20,
+      40,
+      40,
+      50,
+      50,
+      60,
+      60,
+      60,
+      60,
+      70
+    ],
+    "search": {
+      "id": "5okGbdjUa",
+      "complexity": 18,
+      "total": 49
+    },
     "builds": 6,
     "mods": [
       {
@@ -8576,6 +8627,24 @@
   {
     "item": "Void Battery",
     "stats": "#% increased spell damage",
+    "average": 53.9,
+    "prices": [
+      35,
+      40,
+      50,
+      50,
+      50,
+      50,
+      60,
+      65,
+      69,
+      70
+    ],
+    "search": {
+      "id": "DL8G3nvu5",
+      "complexity": 18,
+      "total": 115
+    },
     "builds": 6,
     "mods": [
       {
