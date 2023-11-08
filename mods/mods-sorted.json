@@ -4426,6 +4426,30 @@
     ]
   },
   {
+    "item": "Hyrri's Ire",
+    "stats": "#% increased damage",
+    "average": 8868.63,
+    "prices": [
+      2398.8999999999996,
+      8396.15,
+      15810.839999999998
+    ],
+    "search": {
+      "id": "PdD9jmqiL",
+      "complexity": 18,
+      "total": 3
+    },
+    "builds": 12,
+    "mods": [
+      {
+        "text": "#% increased damage",
+        "trade_ids": [
+          "implicit.stat_2154246560"
+        ]
+      }
+    ]
+  },
+  {
     "item": "Fleshcrafter",
     "stats": "+# to level of socketed minion gems",
     "average": 2339,
@@ -4853,30 +4877,6 @@
         "text": "#% chance to gain onslaught for # seconds on kill",
         "trade_ids": [
           "implicit.stat_3023957681"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Hyrri's Ire",
-    "stats": "#% increased damage",
-    "average": 8868.63,
-    "prices": [
-      2398.8999999999996,
-      8396.15,
-      15810.839999999998
-    ],
-    "search": {
-      "id": "PdD9jmqiL",
-      "complexity": 18,
-      "total": 3
-    },
-    "builds": 11,
-    "mods": [
-      {
-        "text": "#% increased damage",
-        "trade_ids": [
-          "implicit.stat_2154246560"
         ]
       }
     ]
@@ -5404,6 +5404,21 @@
   {
     "item": "Eyes of the Greatwolf",
     "stats": "#% increased quantity of items found, #% increased area of effect",
+    "average": 4969.15,
+    "prices": [
+      479.78,
+      719.67,
+      1679.23,
+      1919.12,
+      2398.8999999999996,
+      13193.949999999999,
+      14393.4
+    ],
+    "search": {
+      "id": "QVneJqMTw",
+      "complexity": 29,
+      "total": 7
+    },
     "builds": 9,
     "mods": [
       {
@@ -5423,6 +5438,15 @@
   {
     "item": "Warrior's Tale",
     "stats": "#% increased area of effect",
+    "average": 479.78,
+    "prices": [
+      479.78
+    ],
+    "search": {
+      "id": "dXWBvwqUJ",
+      "complexity": 18,
+      "total": 1
+    },
     "builds": 9,
     "mods": [
       {
@@ -5436,6 +5460,17 @@
   {
     "item": "Warrior's Tale",
     "stats": "you cannot be hindered",
+    "average": 3958.1849999999995,
+    "prices": [
+      359.835,
+      1919.12,
+      9595.599999999999
+    ],
+    "search": {
+      "id": "waPe6KPcb",
+      "complexity": 18,
+      "total": 3
+    },
     "builds": 9,
     "mods": [
       {
@@ -5474,6 +5509,18 @@
   {
     "item": "Call of the Brotherhood",
     "stats": "bleeding cannot be inflicted on you",
+    "average": 959.56,
+    "prices": [
+      239.89,
+      959.56,
+      1199.4499999999998,
+      1439.34
+    ],
+    "search": {
+      "id": "mXjByorT6",
+      "complexity": 18,
+      "total": 4
+    },
     "builds": 9,
     "mods": [
       {
@@ -5699,6 +5746,17 @@
   {
     "item": "The Covenant",
     "stats": "+# to level of socketed minion gems",
+    "average": 8995.875,
+    "prices": [
+      7196.7,
+      10795.05,
+      169294.69
+    ],
+    "search": {
+      "id": "zeBpnq2c4",
+      "complexity": 18,
+      "total": 3
+    },
     "builds": 9,
     "mods": [
       {
@@ -5926,6 +5984,13 @@
   {
     "item": "Primordial Harmony",
     "stats": "#% increased reservation efficiency of skills",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "vlP9nqJuE",
+      "complexity": 19,
+      "total": 0
+    },
     "builds": 9,
     "mods": [
       {
@@ -20805,6 +20870,25 @@
         "text": "+# to level of socketed gems",
         "trade_ids": [
           "implicit.stat_2843100721"
+        ]
+      },
+      {
+        "text": "+#% to spell critical strike chance",
+        "trade_ids": [
+          "implicit.stat_791835907"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Kaom's Spirit",
+    "stats": "+# to maximum frenzy charges, +#% to spell critical strike chance",
+    "builds": 2,
+    "mods": [
+      {
+        "text": "+# to maximum frenzy charges",
+        "trade_ids": [
+          "implicit.stat_4078695"
         ]
       },
       {
@@ -38204,25 +38288,6 @@
         "text": "curse enemies with temporal chains on hit",
         "trade_ids": [
           "implicit.stat_3433724931"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Kaom's Spirit",
-    "stats": "+# to maximum frenzy charges, +#% to spell critical strike chance",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "+# to maximum frenzy charges",
-        "trade_ids": [
-          "implicit.stat_4078695"
-        ]
-      },
-      {
-        "text": "+#% to spell critical strike chance",
-        "trade_ids": [
-          "implicit.stat_791835907"
         ]
       }
     ]
