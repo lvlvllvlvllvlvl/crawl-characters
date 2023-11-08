@@ -12786,6 +12786,13 @@
   {
     "item": "Dialla's Malefaction",
     "stats": "+# to level of socketed aoe gems, you take #% reduced extra damage from critical strikes",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "RVB3mRgI7",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 4,
     "mods": [
       {
@@ -12805,6 +12812,24 @@
   {
     "item": "Dialla's Malefaction",
     "stats": "+# to level of socketed duration gems",
+    "average": 5997.25,
+    "prices": [
+      3358.46,
+      4318.0199999999995,
+      4797.799999999999,
+      5757.36,
+      5997.25,
+      5997.25,
+      5997.25,
+      5997.25,
+      14393.4,
+      16792.3
+    ],
+    "search": {
+      "id": "JVdoQ85cl",
+      "complexity": 18,
+      "total": 11
+    },
     "builds": 4,
     "mods": [
       {
@@ -12896,6 +12921,13 @@
   {
     "item": "Dialla's Malefaction",
     "stats": "+# to level of socketed duration gems, +# to level of socketed curse gems",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "JVdonzJUl",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 4,
     "mods": [
       {
@@ -12941,6 +12973,13 @@
   {
     "item": "Dialla's Malefaction",
     "stats": "+# to level of socketed gems, +# to level of socketed warcry gems",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "4drZPRgH9",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 4,
     "mods": [
       {
@@ -13789,6 +13828,19 @@
         "text": "+# to level of socketed gems",
         "trade_ids": [
           "implicit.stat_2843100721"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Redblade Banner",
+    "stats": "+# to level of socketed aura gems",
+    "builds": 4,
+    "mods": [
+      {
+        "text": "+# to level of socketed aura gems",
+        "trade_ids": [
+          "implicit.stat_2452998583"
         ]
       }
     ]
@@ -18509,19 +18561,6 @@
         "text": "+# to level of socketed gems",
         "trade_ids": [
           "implicit.stat_2843100721"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Redblade Banner",
-    "stats": "+# to level of socketed aura gems",
-    "builds": 3,
-    "mods": [
-      {
-        "text": "+# to level of socketed aura gems",
-        "trade_ids": [
-          "implicit.stat_2452998583"
         ]
       }
     ]
