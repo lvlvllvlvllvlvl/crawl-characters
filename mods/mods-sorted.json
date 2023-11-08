@@ -5178,6 +5178,24 @@
   {
     "item": "Blunderbore",
     "stats": "+#% to all elemental resistances",
+    "average": 2.5,
+    "prices": [
+      1,
+      1,
+      2,
+      2,
+      3,
+      3,
+      3,
+      3,
+      3,
+      4
+    ],
+    "search": {
+      "id": "GkdLpmBUb",
+      "complexity": 18,
+      "total": 90
+    },
     "builds": 10,
     "mods": [
       {
@@ -5249,6 +5267,17 @@
   {
     "item": "Aegis Aurora",
     "stats": "#% of physical damage from hits taken as lightning damage",
+    "average": 8436.131666666666,
+    "prices": [
+      1319.395,
+      4797.799999999999,
+      19191.199999999997
+    ],
+    "search": {
+      "id": "BEJKYQ3u8",
+      "complexity": 18,
+      "total": 3
+    },
     "builds": 9,
     "mods": [
       {
@@ -5293,6 +5322,24 @@
   {
     "item": "Hrimsorrow",
     "stats": "+# to maximum frenzy charges",
+    "average": 66.11111111111111,
+    "prices": [
+      10,
+      20,
+      35,
+      50,
+      80,
+      80,
+      100,
+      100,
+      120,
+      239.89
+    ],
+    "search": {
+      "id": "XqDE6QRuP",
+      "complexity": 18,
+      "total": 19
+    },
     "builds": 9,
     "mods": [
       {
@@ -5306,6 +5353,16 @@
   {
     "item": "Indigon",
     "stats": "socketed skill gems get a #% cost & reservation multiplier",
+    "average": 17991.75,
+    "prices": [
+      11994.5,
+      23989
+    ],
+    "search": {
+      "id": "dXWBY4qFJ",
+      "complexity": 18,
+      "total": 2
+    },
     "builds": 9,
     "mods": [
       {
@@ -5319,6 +5376,21 @@
   {
     "item": "Kaom's Spirit",
     "stats": "#% increased maximum life",
+    "average": 209.91199999999998,
+    "prices": [
+      20,
+      70,
+      239.89,
+      239.89,
+      479.78,
+      1439.34,
+      2878.68
+    ],
+    "search": {
+      "id": "nXjB8JJf0",
+      "complexity": 18,
+      "total": 7
+    },
     "builds": 9,
     "mods": [
       {
@@ -5377,6 +5449,18 @@
   {
     "item": "Viridi's Veil",
     "stats": "+# to level of socketed projectile gems",
+    "average": 156.63,
+    "prices": [
+      80,
+      150,
+      239.89,
+      959.56
+    ],
+    "search": {
+      "id": "MVDlgq6UJ",
+      "complexity": 18,
+      "total": 4
+    },
     "builds": 9,
     "mods": [
       {
@@ -17963,6 +18047,19 @@
         "text": "#% increased area of effect",
         "trade_ids": [
           "implicit.stat_280731498"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Mageblood",
+    "stats": "anger has #% increased aura effect",
+    "builds": 2,
+    "mods": [
+      {
+        "text": "anger has #% increased aura effect",
+        "trade_ids": [
+          "implicit.stat_1592278124"
         ]
       }
     ]
@@ -30836,19 +30933,6 @@
         "text": "discipline has #% increased aura effect",
         "trade_ids": [
           "implicit.stat_788317702"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Mageblood",
-    "stats": "anger has #% increased aura effect",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "anger has #% increased aura effect",
-        "trade_ids": [
-          "implicit.stat_1592278124"
         ]
       }
     ]
