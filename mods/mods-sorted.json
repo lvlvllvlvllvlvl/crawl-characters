@@ -10487,6 +10487,38 @@
   },
   {
     "item": "Watcher's Eye",
+    "stats": "#% increased reservation efficiency of skills",
+    "average": 239.88999999999996,
+    "prices": [
+      50,
+      200,
+      239.89,
+      239.89,
+      239.89,
+      239.89,
+      239.89,
+      479.78,
+      719.67,
+      959.56
+    ],
+    "search": {
+      "id": "pXjMk5vC0",
+      "complexity": 19,
+      "total": 22
+    },
+    "builds": 5,
+    "mods": [
+      {
+        "text": "#% increased reservation efficiency of skills",
+        "trade_ids": [
+          "implicit.stat_2587176568",
+          "implicit.stat_4202507508"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Watcher's Eye",
     "stats": "#% reduced effect of chill on you",
     "average": 705.940625,
     "prices": [
@@ -10720,6 +10752,26 @@
         "text": "+# to level of socketed gems",
         "trade_ids": [
           "implicit.stat_2843100721"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Thread of Hope",
+    "stats": "#% increased reservation efficiency of skills, corrupted blood cannot be inflicted on you",
+    "builds": 5,
+    "mods": [
+      {
+        "text": "#% increased reservation efficiency of skills",
+        "trade_ids": [
+          "implicit.stat_2587176568",
+          "implicit.stat_4202507508"
+        ]
+      },
+      {
+        "text": "corrupted blood cannot be inflicted on you",
+        "trade_ids": [
+          "implicit.stat_1658498488"
         ]
       }
     ]
@@ -13581,38 +13633,6 @@
   },
   {
     "item": "Watcher's Eye",
-    "stats": "#% increased reservation efficiency of skills",
-    "average": 239.88999999999996,
-    "prices": [
-      50,
-      200,
-      239.89,
-      239.89,
-      239.89,
-      239.89,
-      239.89,
-      479.78,
-      719.67,
-      959.56
-    ],
-    "search": {
-      "id": "pXjMk5vC0",
-      "complexity": 19,
-      "total": 22
-    },
-    "builds": 4,
-    "mods": [
-      {
-        "text": "#% increased reservation efficiency of skills",
-        "trade_ids": [
-          "implicit.stat_2587176568",
-          "implicit.stat_4202507508"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Watcher's Eye",
     "stats": "you cannot be cursed with silence",
     "average": 188.26,
     "prices": [
@@ -13701,6 +13721,17 @@
   {
     "item": "Intuitive Leap",
     "stats": "#% increased area of effect",
+    "average": 239.89,
+    "prices": [
+      239.89,
+      239.89,
+      479.78
+    ],
+    "search": {
+      "id": "MVDa9XPFJ",
+      "complexity": 18,
+      "total": 3
+    },
     "builds": 4,
     "mods": [
       {
@@ -13714,6 +13745,24 @@
   {
     "item": "One With Nothing",
     "stats": "corrupted blood cannot be inflicted on you",
+    "average": 128.378,
+    "prices": [
+      69,
+      70,
+      70,
+      75,
+      100,
+      100,
+      120,
+      200,
+      239.89,
+      239.89
+    ],
+    "search": {
+      "id": "lXjMz8wFV",
+      "complexity": 18,
+      "total": 11
+    },
     "builds": 4,
     "mods": [
       {
@@ -13727,6 +13776,24 @@
   {
     "item": "String of Servitude",
     "stats": "+#% to critical strike multiplier during any flask effect",
+    "average": 14.8,
+    "prices": [
+      4,
+      4,
+      5,
+      5,
+      10,
+      15,
+      20,
+      25,
+      30,
+      30
+    ],
+    "search": {
+      "id": "vlPMzJLCE",
+      "complexity": 18,
+      "total": 30
+    },
     "builds": 4,
     "mods": [
       {
@@ -13740,6 +13807,18 @@
   {
     "item": "Lioneye's Fall",
     "stats": "#% increased global critical strike chance",
+    "average": 479.78,
+    "prices": [
+      239.89,
+      479.78,
+      479.78,
+      2398.8999999999996
+    ],
+    "search": {
+      "id": "3Bro8DZh5",
+      "complexity": 18,
+      "total": 4
+    },
     "builds": 4,
     "mods": [
       {
@@ -13753,6 +13832,15 @@
   {
     "item": "Greed's Embrace",
     "stats": "+# to level of socketed gems, +# to level of socketed projectile gems",
+    "average": 21590.1,
+    "prices": [
+      21590.1
+    ],
+    "search": {
+      "id": "rXjMzgguQ",
+      "complexity": 29,
+      "total": 1
+    },
     "builds": 4,
     "mods": [
       {
@@ -13785,6 +13873,15 @@
   {
     "item": "Greed's Embrace",
     "stats": "+# to level of socketed gems, #% increased damage",
+    "average": 20390.649999999998,
+    "prices": [
+      20390.649999999998
+    ],
+    "search": {
+      "id": "XqD8Z8dHP",
+      "complexity": 29,
+      "total": 1
+    },
     "builds": 4,
     "mods": [
       {
@@ -13804,6 +13901,15 @@
   {
     "item": "Severed in Sleep",
     "stats": "melee hits have #% chance to fortify",
+    "average": 15,
+    "prices": [
+      15
+    ],
+    "search": {
+      "id": "waPMXMKtb",
+      "complexity": 18,
+      "total": 1
+    },
     "builds": 4,
     "mods": [
       {
@@ -13888,26 +13994,6 @@
         "text": "+# to level of socketed gems",
         "trade_ids": [
           "implicit.stat_2843100721"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Thread of Hope",
-    "stats": "#% increased reservation efficiency of skills, corrupted blood cannot be inflicted on you",
-    "builds": 4,
-    "mods": [
-      {
-        "text": "#% increased reservation efficiency of skills",
-        "trade_ids": [
-          "implicit.stat_2587176568",
-          "implicit.stat_4202507508"
-        ]
-      },
-      {
-        "text": "corrupted blood cannot be inflicted on you",
-        "trade_ids": [
-          "implicit.stat_1658498488"
         ]
       }
     ]
@@ -37341,6 +37427,19 @@
         "text": "+# to level of socketed trap or mine gems",
         "trade_ids": [
           "implicit.stat_150668988"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Lightning Coil",
+    "stats": "+# to level of socketed aura gems",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "+# to level of socketed aura gems",
+        "trade_ids": [
+          "implicit.stat_2452998583"
         ]
       }
     ]
