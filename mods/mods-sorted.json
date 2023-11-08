@@ -144,7 +144,7 @@
       "complexity": 18,
       "total": 106
     },
-    "builds": 80,
+    "builds": 81,
     "mods": [
       {
         "text": "curse enemies with elemental weakness on hit",
@@ -4450,6 +4450,29 @@
     ]
   },
   {
+    "item": "Blunderbore",
+    "stats": "+# to level of socketed aoe gems",
+    "average": 6956.8099999999995,
+    "prices": [
+      1919.12,
+      11994.5
+    ],
+    "search": {
+      "id": "0B8MGbOsg",
+      "complexity": 18,
+      "total": 2
+    },
+    "builds": 12,
+    "mods": [
+      {
+        "text": "+# to level of socketed aoe gems",
+        "trade_ids": [
+          "implicit.stat_2551600084"
+        ]
+      }
+    ]
+  },
+  {
     "item": "Fleshcrafter",
     "stats": "+# to level of socketed minion gems",
     "average": 2339,
@@ -4877,29 +4900,6 @@
         "text": "#% chance to gain onslaught for # seconds on kill",
         "trade_ids": [
           "implicit.stat_3023957681"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Blunderbore",
-    "stats": "+# to level of socketed aoe gems",
-    "average": 6956.8099999999995,
-    "prices": [
-      1919.12,
-      11994.5
-    ],
-    "search": {
-      "id": "0B8MGbOsg",
-      "complexity": 18,
-      "total": 2
-    },
-    "builds": 11,
-    "mods": [
-      {
-        "text": "+# to level of socketed aoe gems",
-        "trade_ids": [
-          "implicit.stat_2551600084"
         ]
       }
     ]
@@ -7724,6 +7724,13 @@
   {
     "item": "Arakaali's Fang",
     "stats": "#% chance to gain a frenzy charge on kill",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "oXjZ0EOsl",
+      "complexity": 18,
+      "total": 0
+    },
     "builds": 6,
     "mods": [
       {
@@ -7737,6 +7744,15 @@
   {
     "item": "Matua Tupuna",
     "stats": "+# to level of socketed gems, +# to level of socketed aoe gems",
+    "average": 2398.8999999999996,
+    "prices": [
+      2398.8999999999996
+    ],
+    "search": {
+      "id": "lXjP0K2UV",
+      "complexity": 29,
+      "total": 1
+    },
     "builds": 6,
     "mods": [
       {
@@ -7756,6 +7772,24 @@
   {
     "item": "Asenath's Gentle Touch",
     "stats": "curse enemies with vulnerability on hit",
+    "average": 359.8349999999999,
+    "prices": [
+      239.89,
+      239.89,
+      239.89,
+      239.89,
+      239.89,
+      479.78,
+      479.78,
+      479.78,
+      479.78,
+      479.78
+    ],
+    "search": {
+      "id": "aqJb087Fe",
+      "complexity": 18,
+      "total": 18
+    },
     "builds": 6,
     "mods": [
       {
@@ -7769,6 +7803,24 @@
   {
     "item": "Darkray Vectors",
     "stats": "+#% chance to suppress spell damage",
+    "average": 167.71666666666664,
+    "prices": [
+      30,
+      40,
+      40,
+      200,
+      239.89,
+      239.89,
+      239.89,
+      239.89,
+      239.89,
+      2398.8999999999996
+    ],
+    "search": {
+      "id": "vlP3YDBuE",
+      "complexity": 19,
+      "total": 12
+    },
     "builds": 6,
     "mods": [
       {
@@ -7783,6 +7835,24 @@
   {
     "item": "Unnatural Instinct",
     "stats": "#% increased reservation efficiency of skills",
+    "average": 6374.219999999999,
+    "prices": [
+      4797.799999999999,
+      5517.469999999999,
+      5757.36,
+      6477.03,
+      6477.03,
+      6716.92,
+      6716.92,
+      6956.8099999999995,
+      9595.599999999999,
+      11994.5
+    ],
+    "search": {
+      "id": "pXjl08eT0",
+      "complexity": 19,
+      "total": 12
+    },
     "builds": 6,
     "mods": [
       {
@@ -7816,6 +7886,13 @@
   {
     "item": "Unnatural Instinct",
     "stats": "damage penetrates #% fire resistance, corrupted blood cannot be inflicted on you",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "9Y2qYGQiK",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 6,
     "mods": [
       {
@@ -7967,6 +8044,16 @@
   {
     "item": "Might of the Meek",
     "stats": "damage penetrates #% cold resistance",
+    "average": 239.89,
+    "prices": [
+      239.89,
+      239.89
+    ],
+    "search": {
+      "id": "pXjlXpWT0",
+      "complexity": 18,
+      "total": 2
+    },
     "builds": 6,
     "mods": [
       {
