@@ -2134,6 +2134,36 @@
     ]
   },
   {
+    "item": "Darkray Vectors",
+    "stats": "+# to level of socketed gems",
+    "average": 1085.50225,
+    "prices": [
+      239.89,
+      287.868,
+      479.78,
+      719.67,
+      959.56,
+      1199.4499999999998,
+      2398.8999999999996,
+      2398.8999999999996,
+      3598.35
+    ],
+    "search": {
+      "id": "3BrQzW5s5",
+      "complexity": 18,
+      "total": 9
+    },
+    "builds": 19,
+    "mods": [
+      {
+        "text": "+# to level of socketed gems",
+        "trade_ids": [
+          "implicit.stat_2843100721"
+        ]
+      }
+    ]
+  },
+  {
     "item": "Kaom's Spirit",
     "stats": "#% increased attack speed",
     "average": 100,
@@ -2332,36 +2362,6 @@
         "text": "#% increased cast speed",
         "trade_ids": [
           "implicit.stat_2891184298"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Darkray Vectors",
-    "stats": "+# to level of socketed gems",
-    "average": 1085.50225,
-    "prices": [
-      239.89,
-      287.868,
-      479.78,
-      719.67,
-      959.56,
-      1199.4499999999998,
-      2398.8999999999996,
-      2398.8999999999996,
-      3598.35
-    ],
-    "search": {
-      "id": "3BrQzW5s5",
-      "complexity": 18,
-      "total": 9
-    },
-    "builds": 18,
-    "mods": [
-      {
-        "text": "+# to level of socketed gems",
-        "trade_ids": [
-          "implicit.stat_2843100721"
         ]
       }
     ]
@@ -6571,6 +6571,21 @@
   {
     "item": "Arn's Anguish",
     "stats": "+#% to critical strike multiplier during any flask effect",
+    "average": 391.82033333333334,
+    "prices": [
+      239.89,
+      239.89,
+      239.89,
+      239.89,
+      671.6919999999999,
+      719.67,
+      3598.35
+    ],
+    "search": {
+      "id": "BEJG3Bat8",
+      "complexity": 18,
+      "total": 7
+    },
     "builds": 8,
     "mods": [
       {
@@ -6584,6 +6599,19 @@
   {
     "item": "Meginord's Vise",
     "stats": "+# to level of socketed aoe gems",
+    "average": 122.4725,
+    "prices": [
+      40,
+      100,
+      110,
+      239.89,
+      479.78
+    ],
+    "search": {
+      "id": "dXWPkyZsJ",
+      "complexity": 18,
+      "total": 5
+    },
     "builds": 8,
     "mods": [
       {
@@ -6597,6 +6625,15 @@
   {
     "item": "Meginord's Vise",
     "stats": "curse enemies with temporal chains on hit",
+    "average": 239.89,
+    "prices": [
+      239.89
+    ],
+    "search": {
+      "id": "waPpl0BHb",
+      "complexity": 18,
+      "total": 1
+    },
     "builds": 8,
     "mods": [
       {
@@ -6610,6 +6647,24 @@
   {
     "item": "Dawnbreaker",
     "stats": "#% of physical damage from hits taken as cold damage",
+    "average": 1595.274,
+    "prices": [
+      120,
+      239.89,
+      239.89,
+      719.67,
+      1439.34,
+      1439.34,
+      2398.8999999999996,
+      2878.68,
+      2878.68,
+      3598.35
+    ],
+    "search": {
+      "id": "nXjol7Rt0",
+      "complexity": 18,
+      "total": 11
+    },
     "builds": 8,
     "mods": [
       {
@@ -8953,6 +9008,19 @@
   },
   {
     "item": "Warrior's Tale",
+    "stats": "#% increased global critical strike chance",
+    "builds": 5,
+    "mods": [
+      {
+        "text": "#% increased global critical strike chance",
+        "trade_ids": [
+          "implicit.stat_587431675"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Warrior's Tale",
     "stats": "damage penetrates #% lightning resistance",
     "builds": 5,
     "mods": [
@@ -10237,6 +10305,25 @@
   },
   {
     "item": "Farrul's Fur",
+    "stats": "+# to level of socketed gems, #% increased damage",
+    "builds": 4,
+    "mods": [
+      {
+        "text": "+# to level of socketed gems",
+        "trade_ids": [
+          "implicit.stat_2843100721"
+        ]
+      },
+      {
+        "text": "#% increased damage",
+        "trade_ids": [
+          "implicit.stat_2154246560"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Farrul's Fur",
     "stats": "+# to level of socketed gems",
     "builds": 4,
     "mods": [
@@ -11149,19 +11236,6 @@
         "text": "#% reduced bleed duration on you",
         "trade_ids": [
           "implicit.stat_1692879867"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Warrior's Tale",
-    "stats": "#% increased global critical strike chance",
-    "builds": 4,
-    "mods": [
-      {
-        "text": "#% increased global critical strike chance",
-        "trade_ids": [
-          "implicit.stat_587431675"
         ]
       }
     ]
@@ -13120,25 +13194,6 @@
         "text": "#% increased maximum life",
         "trade_ids": [
           "implicit.stat_983749596"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Farrul's Fur",
-    "stats": "+# to level of socketed gems, #% increased damage",
-    "builds": 3,
-    "mods": [
-      {
-        "text": "+# to level of socketed gems",
-        "trade_ids": [
-          "implicit.stat_2843100721"
-        ]
-      },
-      {
-        "text": "#% increased damage",
-        "trade_ids": [
-          "implicit.stat_2154246560"
         ]
       }
     ]
