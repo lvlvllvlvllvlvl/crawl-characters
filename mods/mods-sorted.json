@@ -10458,6 +10458,23 @@
   {
     "item": "Watcher's Eye",
     "stats": "#% reduced effect of chill on you",
+    "average": 705.940625,
+    "prices": [
+      100,
+      150,
+      239.89,
+      239.89,
+      599.7249999999999,
+      1199.4499999999998,
+      1439.34,
+      1679.23,
+      4797.799999999999
+    ],
+    "search": {
+      "id": "Zb5baJRTQ",
+      "complexity": 18,
+      "total": 9
+    },
     "builds": 5,
     "mods": [
       {
@@ -10526,6 +10543,13 @@
   {
     "item": "Greed's Embrace",
     "stats": "+# to level of socketed gems, #% reduced chaos damage taken",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "vlPlBaJSE",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 5,
     "mods": [
       {
@@ -10545,6 +10569,13 @@
   {
     "item": "Greed's Embrace",
     "stats": "+# to level of socketed gems, +# to level of socketed minion gems",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "pXjX745u0",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 5,
     "mods": [
       {
@@ -10564,6 +10595,13 @@
   {
     "item": "Greed's Embrace",
     "stats": "+# to level of socketed duration gems, +# to level of socketed projectile gems",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "2BrBl5jIk",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 5,
     "mods": [
       {
@@ -51575,6 +51613,25 @@
         "text": "determination has #% increased aura effect",
         "trade_ids": [
           "implicit.stat_3653400807"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Crystallised Omniscience",
+    "stats": "hatred has #% increased aura effect, #% increased elemental damage with attack skills",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "hatred has #% increased aura effect",
+        "trade_ids": [
+          "implicit.stat_3742945352"
+        ]
+      },
+      {
+        "text": "#% increased elemental damage with attack skills",
+        "trade_ids": [
+          "implicit.stat_387439868"
         ]
       }
     ]
