@@ -20,7 +20,7 @@
       "complexity": 18,
       "total": 155
     },
-    "builds": 225,
+    "builds": 226,
     "mods": [
       {
         "text": "socketed skill gems get a #% cost & reservation multiplier",
@@ -144,7 +144,7 @@
       "complexity": 18,
       "total": 106
     },
-    "builds": 81,
+    "builds": 82,
     "mods": [
       {
         "text": "curse enemies with elemental weakness on hit",
@@ -3971,6 +3971,30 @@
     ]
   },
   {
+    "item": "Hyrri's Ire",
+    "stats": "#% increased damage",
+    "average": 8868.63,
+    "prices": [
+      2398.8999999999996,
+      8396.15,
+      15810.839999999998
+    ],
+    "search": {
+      "id": "PdD9jmqiL",
+      "complexity": 18,
+      "total": 3
+    },
+    "builds": 13,
+    "mods": [
+      {
+        "text": "#% increased damage",
+        "trade_ids": [
+          "implicit.stat_2154246560"
+        ]
+      }
+    ]
+  },
+  {
     "item": "Heartbound Loop",
     "stats": "zealotry has #% increased aura effect",
     "average": 148.945,
@@ -4421,30 +4445,6 @@
         "text": "#% of physical damage from hits taken as lightning damage",
         "trade_ids": [
           "implicit.stat_425242359"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Hyrri's Ire",
-    "stats": "#% increased damage",
-    "average": 8868.63,
-    "prices": [
-      2398.8999999999996,
-      8396.15,
-      15810.839999999998
-    ],
-    "search": {
-      "id": "PdD9jmqiL",
-      "complexity": 18,
-      "total": 3
-    },
-    "builds": 12,
-    "mods": [
-      {
-        "text": "#% increased damage",
-        "trade_ids": [
-          "implicit.stat_2154246560"
         ]
       }
     ]
@@ -7867,6 +7867,13 @@
   {
     "item": "Unnatural Instinct",
     "stats": "corrupted blood cannot be inflicted on you, #% increased effect of non-damaging ailments",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "YVqDVevFY",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 6,
     "mods": [
       {
@@ -7943,6 +7950,24 @@
   {
     "item": "Shaper's Touch",
     "stats": "attacks have +#% to critical strike chance",
+    "average": 239.88999999999993,
+    "prices": [
+      239.89,
+      239.89,
+      239.89,
+      239.89,
+      239.89,
+      239.89,
+      239.89,
+      239.89,
+      239.89,
+      239.89
+    ],
+    "search": {
+      "id": "vlP3lWjHE",
+      "complexity": 18,
+      "total": 18
+    },
     "builds": 6,
     "mods": [
       {
@@ -8067,6 +8092,13 @@
   {
     "item": "Cloak of Flame",
     "stats": "+# to level of socketed gems, +# to level of socketed aoe gems",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "2BrGB8YFk",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 6,
     "mods": [
       {
@@ -8134,6 +8166,24 @@
   {
     "item": "Goldwyrm",
     "stats": "+# to level of socketed aura gems",
+    "average": 42.1,
+    "prices": [
+      10,
+      15,
+      20,
+      20,
+      26,
+      40,
+      40,
+      50,
+      100,
+      100
+    ],
+    "search": {
+      "id": "nXjoKgRS0",
+      "complexity": 18,
+      "total": 20
+    },
     "builds": 6,
     "mods": [
       {
@@ -8189,6 +8239,17 @@
   {
     "item": "Warrior's Tale",
     "stats": "you cannot be maimed",
+    "average": 479.78,
+    "prices": [
+      479.78,
+      479.78,
+      719.67
+    ],
+    "search": {
+      "id": "MVDvw5DIJ",
+      "complexity": 18,
+      "total": 3
+    },
     "builds": 6,
     "mods": [
       {
@@ -25481,6 +25542,20 @@
         "text": "damage penetrates #% fire resistance",
         "trade_ids": [
           "implicit.stat_2653955271"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Dissolution of the Flesh",
+    "stats": "#% increased reservation efficiency of skills",
+    "builds": 2,
+    "mods": [
+      {
+        "text": "#% increased reservation efficiency of skills",
+        "trade_ids": [
+          "implicit.stat_2587176568",
+          "implicit.stat_4202507508"
         ]
       }
     ]
@@ -58057,20 +58132,6 @@
         "text": "#% reduced ignite duration on you",
         "trade_ids": [
           "implicit.stat_986397080"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Dissolution of the Flesh",
-    "stats": "#% increased reservation efficiency of skills",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "#% increased reservation efficiency of skills",
-        "trade_ids": [
-          "implicit.stat_2587176568",
-          "implicit.stat_4202507508"
         ]
       }
     ]
