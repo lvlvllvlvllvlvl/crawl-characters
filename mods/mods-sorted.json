@@ -20,7 +20,7 @@
       "complexity": 18,
       "total": 155
     },
-    "builds": 224,
+    "builds": 225,
     "mods": [
       {
         "text": "socketed skill gems get a #% cost & reservation multiplier",
@@ -155,6 +155,37 @@
     ]
   },
   {
+    "item": "Kaom's Spirit",
+    "stats": "+# to maximum frenzy charges",
+    "average": 1400.5200000000002,
+    "prices": [
+      1353.8359999999998,
+      1353.8359999999998,
+      1400.52,
+      1400.52,
+      1400.52,
+      1400.52,
+      1400.52,
+      1400.52,
+      1400.52,
+      1400.52
+    ],
+    "search": {
+      "id": "VyB7zXgIp",
+      "complexity": 18,
+      "total": 70
+    },
+    "builds": 66,
+    "mods": [
+      {
+        "text": "+# to maximum frenzy charges",
+        "trade_ids": [
+          "implicit.stat_4078695"
+        ]
+      }
+    ]
+  },
+  {
     "item": "Goldwyrm",
     "stats": "regenerate # life per second while moving",
     "average": 16.8,
@@ -181,37 +212,6 @@
         "text": "regenerate # life per second while moving",
         "trade_ids": [
           "implicit.stat_2841027131"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Kaom's Spirit",
-    "stats": "+# to maximum frenzy charges",
-    "average": 1400.5200000000002,
-    "prices": [
-      1353.8359999999998,
-      1353.8359999999998,
-      1400.52,
-      1400.52,
-      1400.52,
-      1400.52,
-      1400.52,
-      1400.52,
-      1400.52,
-      1400.52
-    ],
-    "search": {
-      "id": "VyB7zXgIp",
-      "complexity": 18,
-      "total": 70
-    },
-    "builds": 65,
-    "mods": [
-      {
-        "text": "+# to maximum frenzy charges",
-        "trade_ids": [
-          "implicit.stat_4078695"
         ]
       }
     ]
@@ -3370,6 +3370,17 @@
   {
     "item": "Aegis Aurora",
     "stats": "+# to level of socketed aura gems",
+    "average": 17591.93333333333,
+    "prices": [
+      4797.799999999999,
+      19191.199999999997,
+      28786.8
+    ],
+    "search": {
+      "id": "gXWQmEOcQ",
+      "complexity": 18,
+      "total": 3
+    },
     "builds": 14,
     "mods": [
       {
@@ -3383,6 +3394,17 @@
   {
     "item": "Eyes of the Greatwolf",
     "stats": "#% increased maximum life, #% increased quantity of items found",
+    "average": 19910.87,
+    "prices": [
+      9355.71,
+      14393.4,
+      35983.5
+    ],
+    "search": {
+      "id": "RVBvGRgc7",
+      "complexity": 29,
+      "total": 3
+    },
     "builds": 14,
     "mods": [
       {
@@ -3459,6 +3481,17 @@
   {
     "item": "Incandescent Heart",
     "stats": "+# to level of socketed projectile gems",
+    "average": 27267.49666666667,
+    "prices": [
+      1439.34,
+      8396.15,
+      71967
+    ],
+    "search": {
+      "id": "JVdkP85sl",
+      "complexity": 18,
+      "total": 3
+    },
     "builds": 14,
     "mods": [
       {
