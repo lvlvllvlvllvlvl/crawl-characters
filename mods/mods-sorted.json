@@ -20,7 +20,7 @@
       "complexity": 18,
       "total": 155
     },
-    "builds": 226,
+    "builds": 227,
     "mods": [
       {
         "text": "socketed skill gems get a #% cost & reservation multiplier",
@@ -703,6 +703,37 @@
     ]
   },
   {
+    "item": "Yoke of Suffering",
+    "stats": "you can apply an additional curse",
+    "average": 2193,
+    "prices": [
+      1871.36,
+      1871.36,
+      2105.2799999999997,
+      2339.2,
+      2339.2,
+      2339.2,
+      2339.2,
+      2339.2,
+      2807.04,
+      3040.96
+    ],
+    "search": {
+      "id": "W5Xeb8mcm",
+      "complexity": 18,
+      "total": 22
+    },
+    "builds": 35,
+    "mods": [
+      {
+        "text": "you can apply an additional curse",
+        "trade_ids": [
+          "implicit.stat_30642521"
+        ]
+      }
+    ]
+  },
+  {
     "item": "Warrior's Tale",
     "stats": "corrupted blood cannot be inflicted on you",
     "average": 20273.066666666666,
@@ -756,37 +787,6 @@
         "text": "+# to level of socketed aoe gems",
         "trade_ids": [
           "implicit.stat_2551600084"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Yoke of Suffering",
-    "stats": "you can apply an additional curse",
-    "average": 2193,
-    "prices": [
-      1871.36,
-      1871.36,
-      2105.2799999999997,
-      2339.2,
-      2339.2,
-      2339.2,
-      2339.2,
-      2339.2,
-      2807.04,
-      3040.96
-    ],
-    "search": {
-      "id": "W5Xeb8mcm",
-      "complexity": 18,
-      "total": 22
-    },
-    "builds": 34,
-    "mods": [
-      {
-        "text": "you can apply an additional curse",
-        "trade_ids": [
-          "implicit.stat_30642521"
         ]
       }
     ]
@@ -9228,6 +9228,19 @@
   {
     "item": "Fractal Thoughts",
     "stats": "socketed skill gems get a #% cost & reservation multiplier",
+    "average": 1769.1887499999998,
+    "prices": [
+      839.615,
+      1439.34,
+      2398.8999999999996,
+      2398.8999999999996,
+      14393.4
+    ],
+    "search": {
+      "id": "4drd57Mt9",
+      "complexity": 18,
+      "total": 5
+    },
     "builds": 6,
     "mods": [
       {
@@ -9270,6 +9283,16 @@
   {
     "item": "Mageblood",
     "stats": "zealotry has #% increased aura effect",
+    "average": 199315.9,
+    "prices": [
+      59972.5,
+      338659.3
+    ],
+    "search": {
+      "id": "XqDqbWeTP",
+      "complexity": 18,
+      "total": 2
+    },
     "builds": 5,
     "mods": [
       {
@@ -9283,6 +9306,13 @@
   {
     "item": "Heatshiver",
     "stats": "+# to level of socketed aoe gems, socketed skill gems get a #% cost & reservation multiplier",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "0B8BXW8Fg",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 5,
     "mods": [
       {
@@ -9302,6 +9332,13 @@
   {
     "item": "Heatshiver",
     "stats": "+# to level of socketed cold gems, socketed skill gems get a #% cost & reservation multiplier",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "nXjX4a2T0",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 5,
     "mods": [
       {
@@ -54564,6 +54601,25 @@
   },
   {
     "item": "Lethal Pride",
+    "stats": "#% reduced poison duration on you, #% reduced effect of shock on you",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "#% reduced poison duration on you",
+        "trade_ids": [
+          "implicit.stat_3301100256"
+        ]
+      },
+      {
+        "text": "#% reduced effect of shock on you",
+        "trade_ids": [
+          "implicit.stat_3801067695"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Lethal Pride",
     "stats": "you cannot be maimed, corrupted blood cannot be inflicted on you",
     "builds": 1,
     "mods": [
@@ -78138,6 +78194,25 @@
         "text": "you take #% reduced extra damage from critical strikes",
         "trade_ids": [
           "implicit.stat_3855016469"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "The Squire",
+    "stats": "+# to level of socketed gems, #% increased maximum energy shield",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "+# to level of socketed gems",
+        "trade_ids": [
+          "implicit.stat_2843100721"
+        ]
+      },
+      {
+        "text": "#% increased maximum energy shield",
+        "trade_ids": [
+          "implicit.stat_2482852589"
         ]
       }
     ]
