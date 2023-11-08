@@ -12274,6 +12274,17 @@
   {
     "item": "Aegis Aurora",
     "stats": "you take #% reduced extra damage from critical strikes",
+    "average": 719.67,
+    "prices": [
+      719.67,
+      719.67,
+      1919.12
+    ],
+    "search": {
+      "id": "GkdqeO3Ub",
+      "complexity": 18,
+      "total": 3
+    },
     "builds": 4,
     "mods": [
       {
@@ -12287,6 +12298,13 @@
   {
     "item": "Aegis Aurora",
     "stats": "+# to level of socketed aura gems, #% increased maximum energy shield",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "OVwq8kzuE",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 4,
     "mods": [
       {
@@ -12361,6 +12379,20 @@
   {
     "item": "Shaper's Touch",
     "stats": "curse enemies with enfeeble on hit",
+    "average": 129.96333333333334,
+    "prices": [
+      50,
+      70,
+      80,
+      100,
+      239.89,
+      239.89
+    ],
+    "search": {
+      "id": "bXWwOQOfL",
+      "complexity": 18,
+      "total": 6
+    },
     "builds": 4,
     "mods": [
       {
@@ -12400,6 +12432,24 @@
   {
     "item": "Kaom's Spirit",
     "stats": "curse enemies with vulnerability on hit",
+    "average": 95,
+    "prices": [
+      30,
+      50,
+      70,
+      125,
+      145,
+      150,
+      239.89,
+      359.835,
+      479.78,
+      719.67
+    ],
+    "search": {
+      "id": "RVB3Jogi7",
+      "complexity": 18,
+      "total": 16
+    },
     "builds": 4,
     "mods": [
       {
@@ -12496,6 +12546,22 @@
   {
     "item": "Cloak of Flame",
     "stats": "+#% to all maximum resistances",
+    "average": 814.6424999999999,
+    "prices": [
+      80,
+      100,
+      100,
+      239.89,
+      959.56,
+      1199.4499999999998,
+      1679.23,
+      2159.0099999999998
+    ],
+    "search": {
+      "id": "0B8q2vYIg",
+      "complexity": 18,
+      "total": 8
+    },
     "builds": 4,
     "mods": [
       {
