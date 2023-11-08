@@ -723,7 +723,7 @@
       "complexity": 18,
       "total": 22
     },
-    "builds": 35,
+    "builds": 36,
     "mods": [
       {
         "text": "you can apply an additional curse",
@@ -10759,6 +10759,13 @@
   {
     "item": "Thread of Hope",
     "stats": "#% increased reservation efficiency of skills, corrupted blood cannot be inflicted on you",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "8a2YnbvhV",
+      "complexity": 30,
+      "total": 0
+    },
     "builds": 5,
     "mods": [
       {
@@ -13987,6 +13994,17 @@
   {
     "item": "The Magnate",
     "stats": "#% increased maximum life",
+    "average": 479.78,
+    "prices": [
+      50,
+      479.78,
+      479.78
+    ],
+    "search": {
+      "id": "LmdwayGHn",
+      "complexity": 18,
+      "total": 3
+    },
     "builds": 4,
     "mods": [
       {
@@ -14000,6 +14018,15 @@
   {
     "item": "The Magnate",
     "stats": "+#% to critical strike multiplier during any flask effect",
+    "average": 1199.4499999999998,
+    "prices": [
+      1199.4499999999998
+    ],
+    "search": {
+      "id": "y9RWXZ8IR",
+      "complexity": 18,
+      "total": 1
+    },
     "builds": 4,
     "mods": [
       {
@@ -14013,6 +14040,15 @@
   {
     "item": "The Magnate",
     "stats": "#% increased skill effect duration",
+    "average": 839.615,
+    "prices": [
+      839.615
+    ],
+    "search": {
+      "id": "gXWaYp6IQ",
+      "complexity": 18,
+      "total": 1
+    },
     "builds": 4,
     "mods": [
       {
@@ -14048,6 +14084,13 @@
   {
     "item": "Thread of Hope",
     "stats": "damage penetrates #% cold resistance, corrupted blood cannot be inflicted on you",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "lXj3VXwFV",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 4,
     "mods": [
       {
@@ -47177,6 +47220,25 @@
         "text": "#% reduced chaos damage taken",
         "trade_ids": [
           "implicit.stat_2960683632"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Dialla's Malefaction",
+    "stats": "+# to level of socketed aoe gems, +# to level of socketed curse gems",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "+# to level of socketed aoe gems",
+        "trade_ids": [
+          "implicit.stat_2551600084"
+        ]
+      },
+      {
+        "text": "+# to level of socketed curse gems",
+        "trade_ids": [
+          "implicit.stat_3691695237"
         ]
       }
     ]
