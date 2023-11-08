@@ -15463,6 +15463,24 @@
   {
     "item": "Le Heup of All",
     "stats": "#% increased strength, #% increased dexterity",
+    "average": 35.96,
+    "prices": [
+      15,
+      29.6,
+      20,
+      20,
+      30,
+      40,
+      45,
+      50,
+      50,
+      60
+    ],
+    "search": {
+      "id": "QVnELQ3Cw",
+      "complexity": 29,
+      "total": 35
+    },
     "builds": 4,
     "mods": [
       {
@@ -15482,6 +15500,15 @@
   {
     "item": "Unending Hunger",
     "stats": "corrupted blood cannot be inflicted on you",
+    "average": 239.89,
+    "prices": [
+      239.89
+    ],
+    "search": {
+      "id": "dXWd8LZsJ",
+      "complexity": 18,
+      "total": 1
+    },
     "builds": 4,
     "mods": [
       {
@@ -15495,6 +15522,19 @@
   {
     "item": "Nebuloch",
     "stats": "#% increased physical damage",
+    "average": 335.868,
+    "prices": [
+      60,
+      180,
+      239.89,
+      479.78,
+      719.67
+    ],
+    "search": {
+      "id": "MVDpdQDFJ",
+      "complexity": 18,
+      "total": 5
+    },
     "builds": 4,
     "mods": [
       {
@@ -15531,6 +15571,21 @@
   {
     "item": "Empire's Grasp",
     "stats": "curse enemies with temporal chains on hit",
+    "average": 277.7471428571429,
+    "prices": [
+      50,
+      55,
+      80,
+      80,
+      239.89,
+      719.67,
+      719.67
+    ],
+    "search": {
+      "id": "vlPoe59TE",
+      "complexity": 18,
+      "total": 7
+    },
     "builds": 4,
     "mods": [
       {
@@ -40237,6 +40292,25 @@
         "trade_ids": [
           "implicit.stat_561307714",
           "implicit.stat_2881111359"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Aegis Aurora",
+    "stats": "+# to level of socketed minion gems, grants level # grace skill",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "+# to level of socketed minion gems",
+        "trade_ids": [
+          "implicit.stat_3604946673"
+        ]
+      },
+      {
+        "text": "grants level # grace skill",
+        "trade_ids": [
+          "implicit.stat_2867050084"
         ]
       }
     ]
@@ -79435,6 +79509,25 @@
         "text": "+# to level of socketed aura gems",
         "trade_ids": [
           "implicit.stat_2452998583"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Fleshcrafter",
+    "stats": "+# to level of socketed duration gems, #% additional physical damage reduction while stationary",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "+# to level of socketed duration gems",
+        "trade_ids": [
+          "implicit.stat_2115168758"
+        ]
+      },
+      {
+        "text": "#% additional physical damage reduction while stationary",
+        "trade_ids": [
+          "implicit.stat_2181129193"
         ]
       }
     ]
