@@ -579,6 +579,37 @@
     ]
   },
   {
+    "item": "Vixen's Entrapment",
+    "stats": "+#% to spell critical strike chance",
+    "average": 186.19000000000003,
+    "prices": [
+      95,
+      100,
+      125,
+      140,
+      233.65,
+      233.65,
+      233.65,
+      233.65,
+      233.65,
+      233.65
+    ],
+    "search": {
+      "id": "ZPQdRm7uQ",
+      "complexity": 18,
+      "total": 78
+    },
+    "builds": 37,
+    "mods": [
+      {
+        "text": "+#% to spell critical strike chance",
+        "trade_ids": [
+          "implicit.stat_791835907"
+        ]
+      }
+    ]
+  },
+  {
     "item": "Crown of the Inward Eye",
     "stats": "+# to maximum power charges",
     "average": 1239.6699999999998,
@@ -667,37 +698,6 @@
         "text": "+# to level of socketed aura gems",
         "trade_ids": [
           "implicit.stat_2452998583"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Vixen's Entrapment",
-    "stats": "+#% to spell critical strike chance",
-    "average": 186.19000000000003,
-    "prices": [
-      95,
-      100,
-      125,
-      140,
-      233.65,
-      233.65,
-      233.65,
-      233.65,
-      233.65,
-      233.65
-    ],
-    "search": {
-      "id": "ZPQdRm7uQ",
-      "complexity": 18,
-      "total": 78
-    },
-    "builds": 36,
-    "mods": [
-      {
-        "text": "+#% to spell critical strike chance",
-        "trade_ids": [
-          "implicit.stat_791835907"
         ]
       }
     ]
@@ -12463,6 +12463,15 @@
   {
     "item": "The Torrent's Reclamation",
     "stats": "wrath has #% increased aura effect, #% increased critical strike chance during any flask effect",
+    "average": 1199.4499999999998,
+    "prices": [
+      1199.4499999999998
+    ],
+    "search": {
+      "id": "7l5YnD7u5",
+      "complexity": 29,
+      "total": 1
+    },
     "builds": 4,
     "mods": [
       {
@@ -12533,6 +12542,24 @@
   {
     "item": "Cloak of Flame",
     "stats": "+# to level of socketed projectile gems",
+    "average": 476.050625,
+    "prices": [
+      150,
+      180,
+      239.89,
+      479.78,
+      599.7249999999999,
+      719.67,
+      719.67,
+      719.67,
+      1199.4499999999998,
+      1439.34
+    ],
+    "search": {
+      "id": "XqD83lJFP",
+      "complexity": 18,
+      "total": 14
+    },
     "builds": 4,
     "mods": [
       {
@@ -12575,6 +12602,20 @@
   {
     "item": "Eyes of the Greatwolf",
     "stats": "#% increased spell damage, #% increased quantity of items found",
+    "average": 2458.8725,
+    "prices": [
+      959.56,
+      1679.23,
+      3598.35,
+      3598.35,
+      13193.949999999999,
+      38382.399999999994
+    ],
+    "search": {
+      "id": "nXjMrbRt0",
+      "complexity": 29,
+      "total": 6
+    },
     "builds": 4,
     "mods": [
       {
@@ -12629,6 +12670,15 @@
   {
     "item": "Headhunter",
     "stats": "#% increased strength, #% increased intelligence",
+    "average": 107950.5,
+    "prices": [
+      107950.5
+    ],
+    "search": {
+      "id": "DL85jL7H5",
+      "complexity": 29,
+      "total": 1
+    },
     "builds": 4,
     "mods": [
       {
@@ -12648,6 +12698,17 @@
   {
     "item": "Sentari's Answer",
     "stats": "+# to level of socketed gems",
+    "average": 479.78,
+    "prices": [
+      479.78,
+      479.78,
+      719.67
+    ],
+    "search": {
+      "id": "WVWEZVKTm",
+      "complexity": 18,
+      "total": 3
+    },
     "builds": 4,
     "mods": [
       {
@@ -76186,6 +76247,25 @@
   },
   {
     "item": "Shavronne's Wrappings",
+    "stats": "+# to level of socketed aoe gems, #% increased maximum energy shield",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "+# to level of socketed aoe gems",
+        "trade_ids": [
+          "implicit.stat_2551600084"
+        ]
+      },
+      {
+        "text": "#% increased maximum energy shield",
+        "trade_ids": [
+          "implicit.stat_2482852589"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Shavronne's Wrappings",
     "stats": "+# to level of socketed duration gems, +# to level of socketed aura gems",
     "builds": 1,
     "mods": [
@@ -78023,6 +78103,19 @@
         "text": "+# to maximum endurance charges",
         "trade_ids": [
           "implicit.stat_1515657623"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Ralakesh's Impatience",
+    "stats": "+# to level of socketed duration gems",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "+# to level of socketed duration gems",
+        "trade_ids": [
+          "implicit.stat_2115168758"
         ]
       }
     ]
