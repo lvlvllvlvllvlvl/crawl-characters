@@ -7063,6 +7063,37 @@
     ]
   },
   {
+    "item": "Aegis Aurora",
+    "stats": "+#% chance to block",
+    "average": 662.2028,
+    "prices": [
+      233.17,
+      326.438,
+      466.34,
+      466.34,
+      699.51,
+      699.51,
+      699.51,
+      932.68,
+      932.68,
+      1165.85
+    ],
+    "search": {
+      "id": "EG8yMgZC5",
+      "complexity": 18,
+      "total": 23
+    },
+    "builds": 7,
+    "mods": [
+      {
+        "text": "+#% chance to block",
+        "trade_ids": [
+          "implicit.stat_4253454700"
+        ]
+      }
+    ]
+  },
+  {
     "item": "Vaal Caress",
     "stats": "+# to level of socketed gems",
     "average": 233.65000000000003,
@@ -7912,37 +7943,6 @@
         "text": "corrupted blood cannot be inflicted on you",
         "trade_ids": [
           "implicit.stat_1658498488"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Aegis Aurora",
-    "stats": "+#% chance to block",
-    "average": 662.2028,
-    "prices": [
-      233.17,
-      326.438,
-      466.34,
-      466.34,
-      699.51,
-      699.51,
-      699.51,
-      932.68,
-      932.68,
-      1165.85
-    ],
-    "search": {
-      "id": "EG8yMgZC5",
-      "complexity": 18,
-      "total": 23
-    },
-    "builds": 6,
-    "mods": [
-      {
-        "text": "+#% chance to block",
-        "trade_ids": [
-          "implicit.stat_4253454700"
         ]
       }
     ]
@@ -9836,6 +9836,16 @@
   {
     "item": "Headhunter",
     "stats": "#% increased area of effect",
+    "average": 33584.6,
+    "prices": [
+      33584.6,
+      33584.6
+    ],
+    "search": {
+      "id": "OVwVMgVTE",
+      "complexity": 18,
+      "total": 2
+    },
     "builds": 5,
     "mods": [
       {
@@ -9849,6 +9859,24 @@
   {
     "item": "Sadima's Touch",
     "stats": "curse enemies with temporal chains on hit",
+    "average": 36.25,
+    "prices": [
+      15,
+      20,
+      25,
+      30,
+      40,
+      50,
+      50,
+      60,
+      100,
+      359.835
+    ],
+    "search": {
+      "id": "QVnVoLvCw",
+      "complexity": 18,
+      "total": 13
+    },
     "builds": 5,
     "mods": [
       {
@@ -9893,6 +9921,13 @@
   {
     "item": "Dialla's Malefaction",
     "stats": "+# to level of socketed aoe gems, +#% to all maximum resistances",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "qXjXQ93Cg",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 5,
     "mods": [
       {
@@ -9912,6 +9947,15 @@
   {
     "item": "Warrior's Tale",
     "stats": "damage penetrates #% lightning resistance",
+    "average": 20390.649999999998,
+    "prices": [
+      20390.649999999998
+    ],
+    "search": {
+      "id": "MVDVMd5FJ",
+      "complexity": 18,
+      "total": 1
+    },
     "builds": 5,
     "mods": [
       {
@@ -9984,6 +10028,24 @@
   {
     "item": "Immortal Flesh",
     "stats": "grace has #% increased aura effect",
+    "average": 376.5016666666666,
+    "prices": [
+      50,
+      150,
+      239.89,
+      239.89,
+      359.835,
+      479.78,
+      479.78,
+      479.78,
+      479.78,
+      479.78
+    ],
+    "search": {
+      "id": "Zb5bp60uQ",
+      "complexity": 18,
+      "total": 14
+    },
     "builds": 5,
     "mods": [
       {
@@ -10023,6 +10085,24 @@
   {
     "item": "Call of the Brotherhood",
     "stats": "adds # to # cold damage to spells and attacks",
+    "average": 343.47375,
+    "prices": [
+      29,
+      80,
+      239.89,
+      239.89,
+      479.78,
+      479.78,
+      479.78,
+      719.67,
+      2159.0099999999998,
+      4797.799999999999
+    ],
+    "search": {
+      "id": "KJDJGZDU5",
+      "complexity": 18,
+      "total": 11
+    },
     "builds": 5,
     "mods": [
       {
@@ -10036,6 +10116,24 @@
   {
     "item": "Call of the Brotherhood",
     "stats": "determination has #% increased aura effect",
+    "average": 1517.807,
+    "prices": [
+      15,
+      50,
+      239.89,
+      239.89,
+      479.78,
+      1439.34,
+      1679.23,
+      1919.12,
+      4557.91,
+      4557.91
+    ],
+    "search": {
+      "id": "Ey6yRkKT5",
+      "complexity": 18,
+      "total": 13
+    },
     "builds": 5,
     "mods": [
       {
@@ -10049,6 +10147,22 @@
   {
     "item": "Call of the Brotherhood",
     "stats": "cannot be poisoned",
+    "average": 1583.562857142857,
+    "prices": [
+      50,
+      239.89,
+      239.89,
+      239.89,
+      1919.12,
+      3598.35,
+      4797.799999999999,
+      9595.599999999999
+    ],
+    "search": {
+      "id": "9Y2YKeRFK",
+      "complexity": 18,
+      "total": 8
+    },
     "builds": 5,
     "mods": [
       {
@@ -16900,6 +17014,31 @@
         "text": "#% increased damage",
         "trade_ids": [
           "implicit.stat_2154246560"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Hands of the High Templar",
+    "stats": "+# to level of socketed gems, +# to level of socketed aoe gems, curse enemies with temporal chains on hit",
+    "builds": 3,
+    "mods": [
+      {
+        "text": "+# to level of socketed gems",
+        "trade_ids": [
+          "implicit.stat_2843100721"
+        ]
+      },
+      {
+        "text": "+# to level of socketed aoe gems",
+        "trade_ids": [
+          "implicit.stat_2551600084"
+        ]
+      },
+      {
+        "text": "curse enemies with temporal chains on hit",
+        "trade_ids": [
+          "implicit.stat_3433724931"
         ]
       }
     ]
@@ -25437,31 +25576,6 @@
         "text": "damage penetrates #% cold resistance",
         "trade_ids": [
           "implicit.stat_3417711605"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Hands of the High Templar",
-    "stats": "+# to level of socketed gems, +# to level of socketed aoe gems, curse enemies with temporal chains on hit",
-    "builds": 2,
-    "mods": [
-      {
-        "text": "+# to level of socketed gems",
-        "trade_ids": [
-          "implicit.stat_2843100721"
-        ]
-      },
-      {
-        "text": "+# to level of socketed aoe gems",
-        "trade_ids": [
-          "implicit.stat_2551600084"
-        ]
-      },
-      {
-        "text": "curse enemies with temporal chains on hit",
-        "trade_ids": [
-          "implicit.stat_3433724931"
         ]
       }
     ]
@@ -50475,6 +50589,25 @@
         "text": "#% increased maximum life",
         "trade_ids": [
           "implicit.stat_983749596"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Incandescent Heart",
+    "stats": "+# to level of socketed projectile gems, #% additional physical damage reduction while stationary",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "+# to level of socketed projectile gems",
+        "trade_ids": [
+          "implicit.stat_2176571093"
+        ]
+      },
+      {
+        "text": "#% additional physical damage reduction while stationary",
+        "trade_ids": [
+          "implicit.stat_2181129193"
         ]
       }
     ]
