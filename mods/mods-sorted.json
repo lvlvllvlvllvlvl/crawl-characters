@@ -12999,6 +12999,19 @@
   {
     "item": "Warrior's Tale",
     "stats": "#% reduced effect of chill on you",
+    "average": 479.7799999999999,
+    "prices": [
+      479.78,
+      479.78,
+      479.78,
+      479.78,
+      479.78
+    ],
+    "search": {
+      "id": "jXjMRlrSX",
+      "complexity": 18,
+      "total": 5
+    },
     "builds": 4,
     "mods": [
       {
@@ -13012,6 +13025,18 @@
   {
     "item": "Warrior's Tale",
     "stats": "#% reduced poison duration on you",
+    "average": 1119.4866666666667,
+    "prices": [
+      479.78,
+      959.56,
+      1919.12,
+      23989
+    ],
+    "search": {
+      "id": "BEJLzdjt8",
+      "complexity": 18,
+      "total": 4
+    },
     "builds": 4,
     "mods": [
       {
@@ -13025,6 +13050,15 @@
   {
     "item": "Warrior's Tale",
     "stats": "#% reduced bleed duration on you",
+    "average": 719.67,
+    "prices": [
+      719.67
+    ],
+    "search": {
+      "id": "QVnvYzmuw",
+      "complexity": 18,
+      "total": 1
+    },
     "builds": 4,
     "mods": [
       {
@@ -23754,6 +23788,25 @@
         "text": "#% increased cast speed during any flask effect",
         "trade_ids": [
           "implicit.stat_252194507"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "The Torrent's Reclamation",
+    "stats": "#% increased skill effect duration, discipline has #% increased aura effect",
+    "builds": 2,
+    "mods": [
+      {
+        "text": "#% increased skill effect duration",
+        "trade_ids": [
+          "implicit.stat_3377888098"
+        ]
+      },
+      {
+        "text": "discipline has #% increased aura effect",
+        "trade_ids": [
+          "implicit.stat_788317702"
         ]
       }
     ]
@@ -43131,25 +43184,6 @@
         "text": "#% increased attack speed during any flask effect",
         "trade_ids": [
           "implicit.stat_1365052901"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "The Torrent's Reclamation",
-    "stats": "#% increased skill effect duration, discipline has #% increased aura effect",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "#% increased skill effect duration",
-        "trade_ids": [
-          "implicit.stat_3377888098"
-        ]
-      },
-      {
-        "text": "discipline has #% increased aura effect",
-        "trade_ids": [
-          "implicit.stat_788317702"
         ]
       }
     ]
