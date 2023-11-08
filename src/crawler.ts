@@ -13,10 +13,7 @@ const realm = process.env.REALM || "pc";
 
 await mkdir("data", { recursive: true });
 
-const fetch = new FetchRateLimiter({
-  maxWaitMs: 1000,
-  waitOnStateMs: 4000,
-}).request;
+const fetch = new FetchRateLimiter({ maxWaitMs: 1000 }).request;
 
 interface LadderEntry {
   rank: number;
