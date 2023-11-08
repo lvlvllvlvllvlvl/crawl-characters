@@ -2444,6 +2444,43 @@
     ]
   },
   {
+    "item": "Heartbound Loop",
+    "stats": "#% increased strength, #% increased intelligence",
+    "average": 168.82777777777778,
+    "prices": [
+      20,
+      20,
+      20,
+      40,
+      80,
+      140,
+      239.89,
+      479.78,
+      479.78,
+      719.67
+    ],
+    "search": {
+      "id": "9Y2ZV4QUK",
+      "complexity": 19,
+      "total": 13
+    },
+    "builds": 18,
+    "mods": [
+      {
+        "text": "#% increased strength",
+        "trade_ids": [
+          "implicit.stat_4139681126"
+        ]
+      },
+      {
+        "text": "#% increased intelligence",
+        "trade_ids": [
+          "implicit.stat_656461285"
+        ]
+      }
+    ]
+  },
+  {
     "item": "Primordial Eminence",
     "stats": "#% increased reservation efficiency of skills",
     "average": 1674.4916666666668,
@@ -2589,43 +2626,6 @@
         "text": "+# to level of socketed aura gems",
         "trade_ids": [
           "implicit.stat_2452998583"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Heartbound Loop",
-    "stats": "#% increased strength, #% increased intelligence",
-    "average": 168.82777777777778,
-    "prices": [
-      20,
-      20,
-      20,
-      40,
-      80,
-      140,
-      239.89,
-      479.78,
-      479.78,
-      719.67
-    ],
-    "search": {
-      "id": "9Y2ZV4QUK",
-      "complexity": 19,
-      "total": 13
-    },
-    "builds": 17,
-    "mods": [
-      {
-        "text": "#% increased strength",
-        "trade_ids": [
-          "implicit.stat_4139681126"
-        ]
-      },
-      {
-        "text": "#% increased intelligence",
-        "trade_ids": [
-          "implicit.stat_656461285"
         ]
       }
     ]
@@ -8686,6 +8686,24 @@
   {
     "item": "Bisco's Leash",
     "stats": "#% increased rarity of items found",
+    "average": 132.67579999999998,
+    "prices": [
+      50,
+      70,
+      95.956,
+      99,
+      100,
+      100,
+      180,
+      191.912,
+      200,
+      239.89
+    ],
+    "search": {
+      "id": "XqDqJw7fP",
+      "complexity": 18,
+      "total": 21
+    },
     "builds": 6,
     "mods": [
       {
@@ -8699,6 +8717,15 @@
   {
     "item": "Thread of Hope",
     "stats": "#% increased global critical strike chance, corrupted blood cannot be inflicted on you",
+    "average": 3598.35,
+    "prices": [
+      3598.35
+    ],
+    "search": {
+      "id": "bXWXewztL",
+      "complexity": 29,
+      "total": 1
+    },
     "builds": 6,
     "mods": [
       {
@@ -8749,6 +8776,21 @@
   {
     "item": "Arn's Anguish",
     "stats": "#% increased cast speed during any flask effect",
+    "average": 188.27833333333334,
+    "prices": [
+      80,
+      100,
+      230,
+      239.89,
+      239.89,
+      239.89,
+      479.78
+    ],
+    "search": {
+      "id": "nXjXpZVH0",
+      "complexity": 18,
+      "total": 7
+    },
     "builds": 6,
     "mods": [
       {
@@ -8762,6 +8804,13 @@
   {
     "item": "Redblade Banner",
     "stats": "#% of physical damage from hits taken as lightning damage",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "MVDVeqRIJ",
+      "complexity": 18,
+      "total": 0
+    },
     "builds": 6,
     "mods": [
       {
@@ -24475,6 +24524,31 @@
   },
   {
     "item": "Crystallised Omniscience",
+    "stats": "#% increased strength, #% increased intelligence, discipline has #% increased aura effect",
+    "builds": 2,
+    "mods": [
+      {
+        "text": "#% increased strength",
+        "trade_ids": [
+          "implicit.stat_4139681126"
+        ]
+      },
+      {
+        "text": "#% increased intelligence",
+        "trade_ids": [
+          "implicit.stat_656461285"
+        ]
+      },
+      {
+        "text": "discipline has #% increased aura effect",
+        "trade_ids": [
+          "implicit.stat_788317702"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Crystallised Omniscience",
     "stats": "#% increased strength, #% increased dexterity, #% of fire damage leeched as life",
     "builds": 2,
     "mods": [
@@ -27956,6 +28030,25 @@
         "trade_ids": [
           "implicit.stat_3336890334",
           "implicit.stat_1334060246"
+        ]
+      },
+      {
+        "text": "#% chance to gain a power charge on critical strike",
+        "trade_ids": [
+          "implicit.stat_3814876985"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "The Annihilating Light",
+    "stats": "#% increased critical strike chance, #% chance to gain a power charge on critical strike",
+    "builds": 2,
+    "mods": [
+      {
+        "text": "#% increased critical strike chance",
+        "trade_ids": [
+          "implicit.stat_2375316951"
         ]
       },
       {
@@ -51522,31 +51615,6 @@
   },
   {
     "item": "Crystallised Omniscience",
-    "stats": "#% increased strength, #% increased intelligence, discipline has #% increased aura effect",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "#% increased strength",
-        "trade_ids": [
-          "implicit.stat_4139681126"
-        ]
-      },
-      {
-        "text": "#% increased intelligence",
-        "trade_ids": [
-          "implicit.stat_656461285"
-        ]
-      },
-      {
-        "text": "discipline has #% increased aura effect",
-        "trade_ids": [
-          "implicit.stat_788317702"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Crystallised Omniscience",
     "stats": "#% increased strength, #% increased intelligence, #% increased movement speed",
     "builds": 1,
     "mods": [
@@ -70454,25 +70522,6 @@
         "trade_ids": [
           "implicit.stat_3336890334",
           "implicit.stat_1334060246"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "The Annihilating Light",
-    "stats": "#% increased critical strike chance, #% chance to gain a power charge on critical strike",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "#% increased critical strike chance",
-        "trade_ids": [
-          "implicit.stat_2375316951"
-        ]
-      },
-      {
-        "text": "#% chance to gain a power charge on critical strike",
-        "trade_ids": [
-          "implicit.stat_3814876985"
         ]
       }
     ]
