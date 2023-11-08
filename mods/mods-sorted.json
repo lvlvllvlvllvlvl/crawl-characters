@@ -10621,6 +10621,13 @@
   {
     "item": "The Covenant",
     "stats": "+# to level of socketed duration gems, +#% to all maximum resistances",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "8a2a6dvfV",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 5,
     "mods": [
       {
@@ -10640,6 +10647,20 @@
   {
     "item": "The Covenant",
     "stats": "+# to level of socketed duration gems",
+    "average": 13273.913333333332,
+    "prices": [
+      5997.25,
+      6716.92,
+      13193.949999999999,
+      14393.4,
+      15352.96,
+      23989
+    ],
+    "search": {
+      "id": "LmdmV2GTn",
+      "complexity": 18,
+      "total": 6
+    },
     "builds": 5,
     "mods": [
       {
@@ -10653,6 +10674,16 @@
   {
     "item": "Chains of Command",
     "stats": "+# to level of socketed gems",
+    "average": 1559.2849999999999,
+    "prices": [
+      719.67,
+      2398.8999999999996
+    ],
+    "search": {
+      "id": "3BrBy5KI5",
+      "complexity": 18,
+      "total": 2
+    },
     "builds": 5,
     "mods": [
       {
@@ -10748,6 +10779,21 @@
   {
     "item": "Redblade Banner",
     "stats": "#% increased maximum life",
+    "average": 608.91,
+    "prices": [
+      70,
+      100,
+      125,
+      479.78,
+      1199.4499999999998,
+      1679.23,
+      7196.7
+    ],
+    "search": {
+      "id": "2BrB85dsk",
+      "complexity": 18,
+      "total": 7
+    },
     "builds": 5,
     "mods": [
       {
@@ -10761,6 +10807,18 @@
   {
     "item": "Redblade Banner",
     "stats": "#% of physical damage from hits taken as cold damage",
+    "average": 239.89,
+    "prices": [
+      239.89,
+      239.89,
+      479.78,
+      2398.8999999999996
+    ],
+    "search": {
+      "id": "5okog5mFa",
+      "complexity": 18,
+      "total": 4
+    },
     "builds": 5,
     "mods": [
       {
@@ -10902,6 +10960,13 @@
   {
     "item": "Stormshroud",
     "stats": "you cannot be maimed",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "QVnqgwjfw",
+      "complexity": 18,
+      "total": 0
+    },
     "builds": 5,
     "mods": [
       {
@@ -29057,6 +29122,19 @@
         "text": "#% increased critical strike chance during any flask effect",
         "trade_ids": [
           "implicit.stat_2898434123"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Cyclopean Coil",
+    "stats": "hatred has #% increased aura effect",
+    "builds": 2,
+    "mods": [
+      {
+        "text": "hatred has #% increased aura effect",
+        "trade_ids": [
+          "implicit.stat_3742945352"
         ]
       }
     ]
@@ -73501,19 +73579,6 @@
         "text": "#% increased critical strike chance during any flask effect",
         "trade_ids": [
           "implicit.stat_2898434123"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Cyclopean Coil",
-    "stats": "hatred has #% increased aura effect",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "hatred has #% increased aura effect",
-        "trade_ids": [
-          "implicit.stat_3742945352"
         ]
       }
     ]
