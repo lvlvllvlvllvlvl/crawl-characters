@@ -14,7 +14,7 @@ const sorted: {
       trade_ids: string[];
     }
   ];
-  count: number;
+  builds: number;
 }[] = await Bun.file("mods/mods-sorted.json").json();
 
 const { currencyDetails, lines } = await fetch(
@@ -118,13 +118,20 @@ for (const { item, stats, mods } of sorted) {
 
   const next = fetchAndSave(
     item,
-    [
-      {
-        type: "count",
-        value: { min: mods.length },
-        filters: mods.flatMap((m) => m.trade_ids.map((id) => ({ id }))),
-      },
-    ],
+    mods.length <= 2
+      ? // Use more precise search filter unless it would be too complex
+        mods.map((m) => ({
+          type: "count",
+          value: { min: 1 },
+          filters: m.trade_ids.map((id) => ({ id })),
+        }))
+      : [
+          {
+            type: "count",
+            value: { min: mods.length },
+            filters: mods.flatMap((m) => m.trade_ids.map((id) => ({ id }))),
+          },
+        ],
     file
   );
   await task;
