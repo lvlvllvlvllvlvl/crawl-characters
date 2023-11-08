@@ -4146,6 +4146,37 @@
     ]
   },
   {
+    "item": "Heatshiver",
+    "stats": "+# to level of socketed aura gems",
+    "average": 153.456,
+    "prices": [
+      15,
+      30,
+      60,
+      120,
+      150,
+      200,
+      239.89,
+      239.89,
+      239.89,
+      239.89
+    ],
+    "search": {
+      "id": "9Y2Z83ysK",
+      "complexity": 18,
+      "total": 37
+    },
+    "builds": 12,
+    "mods": [
+      {
+        "text": "+# to level of socketed aura gems",
+        "trade_ids": [
+          "implicit.stat_2452998583"
+        ]
+      }
+    ]
+  },
+  {
     "item": "Lightning Coil",
     "stats": "+# to level of socketed duration gems",
     "average": 551.747,
@@ -4499,37 +4530,6 @@
         "text": "+# to level of socketed minion gems",
         "trade_ids": [
           "implicit.stat_3604946673"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Heatshiver",
-    "stats": "+# to level of socketed aura gems",
-    "average": 153.456,
-    "prices": [
-      15,
-      30,
-      60,
-      120,
-      150,
-      200,
-      239.89,
-      239.89,
-      239.89,
-      239.89
-    ],
-    "search": {
-      "id": "9Y2Z83ysK",
-      "complexity": 18,
-      "total": 37
-    },
-    "builds": 11,
-    "mods": [
-      {
-        "text": "+# to level of socketed aura gems",
-        "trade_ids": [
-          "implicit.stat_2452998583"
         ]
       }
     ]
@@ -8318,6 +8318,17 @@
   {
     "item": "Anathema",
     "stats": "adds # to # fire damage to spells and attacks",
+    "average": 999.5416666666666,
+    "prices": [
+      239.89,
+      959.56,
+      1799.175
+    ],
+    "search": {
+      "id": "aqJbj48fe",
+      "complexity": 18,
+      "total": 3
+    },
     "builds": 6,
     "mods": [
       {
@@ -8362,6 +8373,13 @@
   {
     "item": "Dendrobate",
     "stats": "+# to level of socketed duration gems, +# to level of socketed projectile gems",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "9Y2qw9RiK",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 6,
     "mods": [
       {
@@ -8381,6 +8399,17 @@
   {
     "item": "Call of the Brotherhood",
     "stats": "grants level # zealotry skill",
+    "average": 125,
+    "prices": [
+      100,
+      150,
+      959.56
+    ],
+    "search": {
+      "id": "3BrGM0GU5",
+      "complexity": 18,
+      "total": 3
+    },
     "builds": 6,
     "mods": [
       {
@@ -8394,6 +8423,19 @@
   {
     "item": "Call of the Brotherhood",
     "stats": "adds # to # lightning damage to spells and attacks",
+    "average": 639.7066666666666,
+    "prices": [
+      239.89,
+      719.67,
+      959.56,
+      3598.35,
+      13193.949999999999
+    ],
+    "search": {
+      "id": "KJD9wVqi5",
+      "complexity": 18,
+      "total": 5
+    },
     "builds": 6,
     "mods": [
       {
@@ -8407,6 +8449,19 @@
   {
     "item": "Inspired Learning",
     "stats": "#% reduced effect of curses on you",
+    "average": 175.956,
+    "prices": [
+      100,
+      100,
+      200,
+      239.89,
+      239.89
+    ],
+    "search": {
+      "id": "LmdejwjHn",
+      "complexity": 18,
+      "total": 5
+    },
     "builds": 6,
     "mods": [
       {
