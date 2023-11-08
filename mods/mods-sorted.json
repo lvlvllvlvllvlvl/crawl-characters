@@ -8979,6 +8979,20 @@
   {
     "item": "Saffell's Frame",
     "stats": "#% of physical damage from hits taken as chaos damage",
+    "average": 169.956,
+    "prices": [
+      100,
+      120,
+      150,
+      239.89,
+      239.89,
+      1199.4499999999998
+    ],
+    "search": {
+      "id": "2BrBPO5hk",
+      "complexity": 18,
+      "total": 6
+    },
     "builds": 6,
     "mods": [
       {
@@ -9019,6 +9033,16 @@
   {
     "item": "Natural Affinity",
     "stats": "#% increased damage",
+    "average": 219.945,
+    "prices": [
+      200,
+      239.89
+    ],
+    "search": {
+      "id": "5okomOdta",
+      "complexity": 18,
+      "total": 2
+    },
     "builds": 6,
     "mods": [
       {
@@ -9095,6 +9119,23 @@
   {
     "item": "Legacy of Fury",
     "stats": "+# to level of socketed aoe gems",
+    "average": 409.4525,
+    "prices": [
+      17.05,
+      50,
+      90,
+      239.89,
+      479.78,
+      719.67,
+      719.67,
+      959.56,
+      3118.5699999999997
+    ],
+    "search": {
+      "id": "VMEMm92ip",
+      "complexity": 18,
+      "total": 9
+    },
     "builds": 6,
     "mods": [
       {
@@ -9108,6 +9149,18 @@
   {
     "item": "Doryani's Prototype",
     "stats": "+# to level of socketed aoe gems",
+    "average": 12714.17,
+    "prices": [
+      4078.1299999999997,
+      10795.05,
+      11994.5,
+      23989
+    ],
+    "search": {
+      "id": "PdDdwMgiL",
+      "complexity": 18,
+      "total": 4
+    },
     "builds": 6,
     "mods": [
       {
@@ -9121,6 +9174,16 @@
   {
     "item": "Dawnstrider",
     "stats": "+# to maximum endurance charges",
+    "average": 8636.039999999999,
+    "prices": [
+      479.78,
+      16792.3
+    ],
+    "search": {
+      "id": "JVdVbv9cl",
+      "complexity": 18,
+      "total": 2
+    },
     "builds": 6,
     "mods": [
       {
@@ -13317,6 +13380,19 @@
         "text": "# to # added lightning damage with bow attacks",
         "trade_ids": [
           "implicit.stat_1040269876"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Tainted Pact",
+    "stats": "+#% to all maximum resistances",
+    "builds": 4,
+    "mods": [
+      {
+        "text": "+#% to all maximum resistances",
+        "trade_ids": [
+          "implicit.stat_569299859"
         ]
       }
     ]
@@ -18443,19 +18519,6 @@
         "text": "+# to maximum frenzy charges",
         "trade_ids": [
           "implicit.stat_4078695"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Tainted Pact",
-    "stats": "+#% to all maximum resistances",
-    "builds": 3,
-    "mods": [
-      {
-        "text": "+#% to all maximum resistances",
-        "trade_ids": [
-          "implicit.stat_569299859"
         ]
       }
     ]
