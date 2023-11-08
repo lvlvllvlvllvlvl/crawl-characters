@@ -497,6 +497,33 @@
     ]
   },
   {
+    "item": "Ancestral Vision",
+    "stats": "corrupted blood cannot be inflicted on you",
+    "average": 16806.239999999998,
+    "prices": [
+      14005.199999999999,
+      15172.3,
+      17506.5,
+      18673.6,
+      18673.6,
+      25676.199999999997
+    ],
+    "search": {
+      "id": "plLZELbt0",
+      "complexity": 18,
+      "total": 6
+    },
+    "builds": 39,
+    "mods": [
+      {
+        "text": "corrupted blood cannot be inflicted on you",
+        "trade_ids": [
+          "implicit.stat_1658498488"
+        ]
+      }
+    ]
+  },
+  {
     "item": "Goldwyrm",
     "stats": "#% increased movement speed",
     "average": 24.8,
@@ -547,33 +574,6 @@
         "text": "#% increased maximum life",
         "trade_ids": [
           "implicit.stat_983749596"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Ancestral Vision",
-    "stats": "corrupted blood cannot be inflicted on you",
-    "average": 16806.239999999998,
-    "prices": [
-      14005.199999999999,
-      15172.3,
-      17506.5,
-      18673.6,
-      18673.6,
-      25676.199999999997
-    ],
-    "search": {
-      "id": "plLZELbt0",
-      "complexity": 18,
-      "total": 6
-    },
-    "builds": 38,
-    "mods": [
-      {
-        "text": "corrupted blood cannot be inflicted on you",
-        "trade_ids": [
-          "implicit.stat_1658498488"
         ]
       }
     ]
@@ -8140,6 +8140,19 @@
   {
     "item": "Sadima's Touch",
     "stats": "#% increased maximum energy shield",
+    "average": 66,
+    "prices": [
+      10,
+      15,
+      15,
+      140,
+      150
+    ],
+    "search": {
+      "id": "PdDK4Y7iL",
+      "complexity": 18,
+      "total": 5
+    },
     "builds": 6,
     "mods": [
       {
@@ -8153,6 +8166,24 @@
   {
     "item": "Goldwyrm",
     "stats": "+# to maximum endurance charges",
+    "average": 33.888888888888886,
+    "prices": [
+      15,
+      20,
+      20,
+      20,
+      20,
+      50,
+      50,
+      50,
+      60,
+      80
+    ],
+    "search": {
+      "id": "0B8P0wYcg",
+      "complexity": 18,
+      "total": 21
+    },
     "builds": 6,
     "mods": [
       {
@@ -8225,7 +8256,31 @@
   },
   {
     "item": "Warrior's Tale",
+    "stats": "#% increased global critical strike chance",
+    "builds": 6,
+    "mods": [
+      {
+        "text": "#% increased global critical strike chance",
+        "trade_ids": [
+          "implicit.stat_587431675"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Warrior's Tale",
     "stats": "#% reduced effect of shock on you",
+    "average": 2159.0099999999998,
+    "prices": [
+      1199.4499999999998,
+      3118.5699999999997,
+      25188.449999999997
+    ],
+    "search": {
+      "id": "zeB2Rl0T4",
+      "complexity": 18,
+      "total": 3
+    },
     "builds": 6,
     "mods": [
       {
@@ -9384,19 +9439,6 @@
         "text": "+#% to all maximum resistances",
         "trade_ids": [
           "implicit.stat_569299859"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Warrior's Tale",
-    "stats": "#% increased global critical strike chance",
-    "builds": 5,
-    "mods": [
-      {
-        "text": "#% increased global critical strike chance",
-        "trade_ids": [
-          "implicit.stat_587431675"
         ]
       }
     ]
