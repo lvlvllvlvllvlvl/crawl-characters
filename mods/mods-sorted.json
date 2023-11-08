@@ -5290,6 +5290,37 @@
   },
   {
     "item": "Aegis Aurora",
+    "stats": "+# to level of socketed gems",
+    "average": 432.25249999999994,
+    "prices": [
+      233.65,
+      233.65,
+      233.65,
+      233.65,
+      467.3,
+      467.3,
+      467.3,
+      584.125,
+      700.95,
+      700.95
+    ],
+    "search": {
+      "id": "80Z8EzGsV",
+      "complexity": 18,
+      "total": 31
+    },
+    "builds": 9,
+    "mods": [
+      {
+        "text": "+# to level of socketed gems",
+        "trade_ids": [
+          "implicit.stat_2843100721"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Aegis Aurora",
     "stats": "+# to level of socketed aoe gems",
     "average": 1286.8899999999999,
     "prices": [
@@ -6148,37 +6179,6 @@
         "text": "corrupted blood cannot be inflicted on you",
         "trade_ids": [
           "implicit.stat_1658498488"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Aegis Aurora",
-    "stats": "+# to level of socketed gems",
-    "average": 432.25249999999994,
-    "prices": [
-      233.65,
-      233.65,
-      233.65,
-      233.65,
-      467.3,
-      467.3,
-      467.3,
-      584.125,
-      700.95,
-      700.95
-    ],
-    "search": {
-      "id": "80Z8EzGsV",
-      "complexity": 18,
-      "total": 31
-    },
-    "builds": 8,
-    "mods": [
-      {
-        "text": "+# to level of socketed gems",
-        "trade_ids": [
-          "implicit.stat_2843100721"
         ]
       }
     ]
@@ -12657,6 +12657,16 @@
   {
     "item": "Headhunter",
     "stats": "+#% to all elemental resistances",
+    "average": 55174.7,
+    "prices": [
+      43180.2,
+      67169.2
+    ],
+    "search": {
+      "id": "LmdlLm2cn",
+      "complexity": 18,
+      "total": 2
+    },
     "builds": 4,
     "mods": [
       {
@@ -12722,6 +12732,13 @@
   {
     "item": "Dialla's Malefaction",
     "stats": "+# to level of socketed gems, you take #% reduced extra damage from critical strikes",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "RVB3PVGI7",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 4,
     "mods": [
       {
@@ -12741,6 +12758,15 @@
   {
     "item": "Dialla's Malefaction",
     "stats": "+# to level of socketed gems, +# to level of socketed trap or mine gems",
+    "average": 45339.21,
+    "prices": [
+      45339.21
+    ],
+    "search": {
+      "id": "4drZXdZH9",
+      "complexity": 29,
+      "total": 1
+    },
     "builds": 4,
     "mods": [
       {
@@ -12792,6 +12818,13 @@
   {
     "item": "Dialla's Malefaction",
     "stats": "+# to level of socketed aoe gems, #% reduced cold damage taken",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "Gkdg2rYTb",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 4,
     "mods": [
       {
@@ -12811,6 +12844,13 @@
   {
     "item": "Dialla's Malefaction",
     "stats": "+# to level of socketed gems, +# to level of socketed minion gems",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "PdDeQg7iL",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 4,
     "mods": [
       {
@@ -12830,6 +12870,13 @@
   {
     "item": "Dialla's Malefaction",
     "stats": "+# to level of socketed gems, #% reduced lightning damage taken",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "BEJLveaF8",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 4,
     "mods": [
       {
@@ -25226,6 +25273,25 @@
         "text": "hatred has #% increased aura effect",
         "trade_ids": [
           "implicit.stat_3742945352"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Call of the Brotherhood",
+    "stats": "determination has #% increased aura effect, cannot be poisoned",
+    "builds": 2,
+    "mods": [
+      {
+        "text": "determination has #% increased aura effect",
+        "trade_ids": [
+          "implicit.stat_3653400807"
+        ]
+      },
+      {
+        "text": "cannot be poisoned",
+        "trade_ids": [
+          "implicit.stat_3835551335"
         ]
       }
     ]
@@ -49721,6 +49787,25 @@
   },
   {
     "item": "Call of the Brotherhood",
+    "stats": "adds # to # lightning damage to spells and attacks, cannot be ignited",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "adds # to # lightning damage to spells and attacks",
+        "trade_ids": [
+          "implicit.stat_2885144362"
+        ]
+      },
+      {
+        "text": "cannot be ignited",
+        "trade_ids": [
+          "implicit.stat_331731406"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Call of the Brotherhood",
     "stats": "gain # mana per enemy hit with attacks, cannot be ignited",
     "builds": 1,
     "mods": [
@@ -50413,25 +50498,6 @@
         "text": "anger has #% increased aura effect",
         "trade_ids": [
           "implicit.stat_1592278124"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Call of the Brotherhood",
-    "stats": "determination has #% increased aura effect, cannot be poisoned",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "determination has #% increased aura effect",
-        "trade_ids": [
-          "implicit.stat_3653400807"
-        ]
-      },
-      {
-        "text": "cannot be poisoned",
-        "trade_ids": [
-          "implicit.stat_3835551335"
         ]
       }
     ]
