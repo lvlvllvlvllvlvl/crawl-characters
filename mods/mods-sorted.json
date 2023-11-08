@@ -9551,6 +9551,15 @@
   {
     "item": "Unnatural Instinct",
     "stats": "#% reduced ignite duration on you, corrupted blood cannot be inflicted on you",
+    "average": 21590.1,
+    "prices": [
+      21590.1
+    ],
+    "search": {
+      "id": "zeBeedRU4",
+      "complexity": 29,
+      "total": 1
+    },
     "builds": 5,
     "mods": [
       {
@@ -9596,6 +9605,17 @@
   {
     "item": "Aegis Aurora",
     "stats": "#% of physical damage from hits taken as fire damage",
+    "average": 559.7433333333333,
+    "prices": [
+      239.89,
+      479.78,
+      959.56
+    ],
+    "search": {
+      "id": "lXjXX7kcV",
+      "complexity": 18,
+      "total": 3
+    },
     "builds": 5,
     "mods": [
       {
@@ -9637,6 +9657,24 @@
   {
     "item": "Hrimsorrow",
     "stats": "curse enemies with elemental weakness on hit",
+    "average": 197.83399999999997,
+    "prices": [
+      139,
+      100,
+      150,
+      150,
+      239.89,
+      239.89,
+      239.89,
+      239.89,
+      239.89,
+      239.89
+    ],
+    "search": {
+      "id": "YVqVVY6cY",
+      "complexity": 18,
+      "total": 22
+    },
     "builds": 5,
     "mods": [
       {
@@ -9650,6 +9688,16 @@
   {
     "item": "Mjölner",
     "stats": "melee hits have #% chance to fortify",
+    "average": 719.67,
+    "prices": [
+      479.78,
+      959.56
+    ],
+    "search": {
+      "id": "vlPll5zHE",
+      "complexity": 18,
+      "total": 2
+    },
     "builds": 5,
     "mods": [
       {
