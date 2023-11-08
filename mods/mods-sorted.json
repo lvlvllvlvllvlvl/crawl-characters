@@ -579,6 +579,37 @@
     ]
   },
   {
+    "item": "Yoke of Suffering",
+    "stats": "you can apply an additional curse",
+    "average": 2193,
+    "prices": [
+      1871.36,
+      1871.36,
+      2105.2799999999997,
+      2339.2,
+      2339.2,
+      2339.2,
+      2339.2,
+      2339.2,
+      2807.04,
+      3040.96
+    ],
+    "search": {
+      "id": "W5Xeb8mcm",
+      "complexity": 18,
+      "total": 22
+    },
+    "builds": 37,
+    "mods": [
+      {
+        "text": "you can apply an additional curse",
+        "trade_ids": [
+          "implicit.stat_30642521"
+        ]
+      }
+    ]
+  },
+  {
     "item": "Vixen's Entrapment",
     "stats": "+#% to spell critical strike chance",
     "average": 186.19000000000003,
@@ -698,37 +729,6 @@
         "text": "+# to level of socketed aura gems",
         "trade_ids": [
           "implicit.stat_2452998583"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Yoke of Suffering",
-    "stats": "you can apply an additional curse",
-    "average": 2193,
-    "prices": [
-      1871.36,
-      1871.36,
-      2105.2799999999997,
-      2339.2,
-      2339.2,
-      2339.2,
-      2339.2,
-      2339.2,
-      2807.04,
-      3040.96
-    ],
-    "search": {
-      "id": "W5Xeb8mcm",
-      "complexity": 18,
-      "total": 22
-    },
-    "builds": 36,
-    "mods": [
-      {
-        "text": "you can apply an additional curse",
-        "trade_ids": [
-          "implicit.stat_30642521"
         ]
       }
     ]
@@ -14868,6 +14868,17 @@
   {
     "item": "Saffell's Frame",
     "stats": "you take #% reduced extra damage from critical strikes",
+    "average": 100,
+    "prices": [
+      100,
+      100,
+      100
+    ],
+    "search": {
+      "id": "PdD4gWZiL",
+      "complexity": 18,
+      "total": 3
+    },
     "builds": 4,
     "mods": [
       {
@@ -14934,6 +14945,15 @@
   {
     "item": "Skin of the Loyal",
     "stats": "+# to level of socketed aoe gems, +# to level of socketed projectile gems",
+    "average": 6956.8099999999995,
+    "prices": [
+      6956.8099999999995
+    ],
+    "search": {
+      "id": "XqD4GedCP",
+      "complexity": 29,
+      "total": 1
+    },
     "builds": 4,
     "mods": [
       {
@@ -14953,6 +14973,16 @@
   {
     "item": "Natural Affinity",
     "stats": "#% reduced effect of curses on you",
+    "average": 100,
+    "prices": [
+      80,
+      120
+    ],
+    "search": {
+      "id": "bXW43EXSL",
+      "complexity": 18,
+      "total": 2
+    },
     "builds": 4,
     "mods": [
       {
@@ -14966,6 +14996,24 @@
   {
     "item": "Victario's Influence",
     "stats": "+# to level of socketed aoe gems",
+    "average": 158.945,
+    "prices": [
+      20,
+      30,
+      40,
+      100,
+      200,
+      239.89,
+      239.89,
+      239.89,
+      239.89,
+      239.89
+    ],
+    "search": {
+      "id": "waPDjkKfb",
+      "complexity": 18,
+      "total": 22
+    },
     "builds": 4,
     "mods": [
       {
@@ -15010,6 +15058,16 @@
   {
     "item": "Machina Mitts",
     "stats": "+#% to spell critical strike chance",
+    "average": 479.78,
+    "prices": [
+      239.89,
+      719.67
+    ],
+    "search": {
+      "id": "qXjEVGdHg",
+      "complexity": 18,
+      "total": 2
+    },
     "builds": 4,
     "mods": [
       {
@@ -15036,6 +15094,20 @@
   {
     "item": "Legacy of Fury",
     "stats": "regenerate # life per second while moving",
+    "average": 184.94500000000002,
+    "prices": [
+      100,
+      140,
+      150,
+      239.89,
+      239.89,
+      239.89
+    ],
+    "search": {
+      "id": "2Br0E5Vik",
+      "complexity": 18,
+      "total": 6
+    },
     "builds": 4,
     "mods": [
       {
@@ -15080,6 +15152,13 @@
   {
     "item": "Melding of the Flesh",
     "stats": "corrupted blood cannot be inflicted on you",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "Ey65XbYT5",
+      "complexity": 18,
+      "total": 0
+    },
     "builds": 4,
     "mods": [
       {
@@ -15093,6 +15172,13 @@
   {
     "item": "Melding of the Flesh",
     "stats": "#% increased global critical strike chance",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "8a2YDPZUV",
+      "complexity": 18,
+      "total": 0
+    },
     "builds": 4,
     "mods": [
       {
@@ -15106,6 +15192,13 @@
   {
     "item": "The Green Nightmare",
     "stats": "corrupted blood cannot be inflicted on you",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "LmdwYbVhn",
+      "complexity": 18,
+      "total": 0
+    },
     "builds": 4,
     "mods": [
       {
