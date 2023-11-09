@@ -2196,6 +2196,37 @@
     ]
   },
   {
+    "item": "Vaal Caress",
+    "stats": "+# to level of socketed duration gems",
+    "average": 233.42000000000002,
+    "prices": [
+      200,
+      233.42,
+      233.42,
+      233.42,
+      233.42,
+      233.42,
+      233.42,
+      233.42,
+      350.13,
+      350.13
+    ],
+    "search": {
+      "id": "abo0zLRHe",
+      "complexity": 18,
+      "total": 22
+    },
+    "builds": 19,
+    "mods": [
+      {
+        "text": "+# to level of socketed duration gems",
+        "trade_ids": [
+          "implicit.stat_2115168758"
+        ]
+      }
+    ]
+  },
+  {
     "item": "Belly of the Beast",
     "stats": "+# to level of socketed gems",
     "average": 50,
@@ -2362,37 +2393,6 @@
         "text": "#% increased cast speed",
         "trade_ids": [
           "implicit.stat_2891184298"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Vaal Caress",
-    "stats": "+# to level of socketed duration gems",
-    "average": 233.42000000000002,
-    "prices": [
-      200,
-      233.42,
-      233.42,
-      233.42,
-      233.42,
-      233.42,
-      233.42,
-      233.42,
-      350.13,
-      350.13
-    ],
-    "search": {
-      "id": "abo0zLRHe",
-      "complexity": 18,
-      "total": 22
-    },
-    "builds": 18,
-    "mods": [
-      {
-        "text": "+# to level of socketed duration gems",
-        "trade_ids": [
-          "implicit.stat_2115168758"
         ]
       }
     ]
@@ -18591,6 +18591,13 @@
   {
     "item": "Dialla's Malefaction",
     "stats": "+# to level of socketed gems, +#% to all maximum resistances",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "Ey6M5KKC5",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 3,
     "mods": [
       {
@@ -18610,6 +18617,13 @@
   {
     "item": "Dialla's Malefaction",
     "stats": "+# to level of socketed gems, #% increased damage",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "LmdMwQ7cn",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 3,
     "mods": [
       {
@@ -18629,6 +18643,13 @@
   {
     "item": "Dialla's Malefaction",
     "stats": "+# to level of socketed duration gems, #% increased damage",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "vlPQk59uE",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 3,
     "mods": [
       {
@@ -18648,6 +18669,13 @@
   {
     "item": "Dialla's Malefaction",
     "stats": "+# to level of socketed duration gems, +#% to all maximum resistances",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "3BrO0mGh5",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 3,
     "mods": [
       {
