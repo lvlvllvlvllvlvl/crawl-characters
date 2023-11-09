@@ -5204,6 +5204,28 @@
     ]
   },
   {
+    "item": "The Poised Prism",
+    "stats": "bow attacks fire an additional arrow",
+    "average": 1439.34,
+    "prices": [
+      1439.34
+    ],
+    "search": {
+      "id": "aqJBnDjCe",
+      "complexity": 18,
+      "total": 1
+    },
+    "builds": 10,
+    "mods": [
+      {
+        "text": "bow attacks fire an additional arrow",
+        "trade_ids": [
+          "implicit.stat_742529963"
+        ]
+      }
+    ]
+  },
+  {
     "item": "Legacy of Fury",
     "stats": "#% increased movement speed",
     "average": 53.5,
@@ -6058,28 +6080,6 @@
         "text": "+# to level of socketed gems",
         "trade_ids": [
           "implicit.stat_2843100721"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "The Poised Prism",
-    "stats": "bow attacks fire an additional arrow",
-    "average": 1439.34,
-    "prices": [
-      1439.34
-    ],
-    "search": {
-      "id": "aqJBnDjCe",
-      "complexity": 18,
-      "total": 1
-    },
-    "builds": 9,
-    "mods": [
-      {
-        "text": "bow attacks fire an additional arrow",
-        "trade_ids": [
-          "implicit.stat_742529963"
         ]
       }
     ]
@@ -26623,6 +26623,13 @@
   {
     "item": "Unnatural Instinct",
     "stats": "#% increased damage, #% reduced effect of curses on you",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "dXWKDdphJ",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 2,
     "mods": [
       {
@@ -26642,6 +26649,13 @@
   {
     "item": "Unnatural Instinct",
     "stats": "#% increased global critical strike chance, damage penetrates #% elemental resistances",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "zeBlwYgh4",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 2,
     "mods": [
       {
@@ -26661,6 +26675,16 @@
   {
     "item": "Unnatural Instinct",
     "stats": "you cannot be cursed with silence",
+    "average": 5157.635,
+    "prices": [
+      3118.5699999999997,
+      7196.7
+    ],
+    "search": {
+      "id": "MVD5MpPIJ",
+      "complexity": 18,
+      "total": 2
+    },
     "builds": 2,
     "mods": [
       {
@@ -26674,6 +26698,13 @@
   {
     "item": "Unnatural Instinct",
     "stats": "damage penetrates #% cold resistance, you cannot be hindered",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "5okbW9jHa",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 2,
     "mods": [
       {
@@ -26693,6 +26724,13 @@
   {
     "item": "Unnatural Instinct",
     "stats": "#% reduced effect of curses on you, you cannot be maimed",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "gXWEpd6hQ",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 2,
     "mods": [
       {
@@ -26712,6 +26750,13 @@
   {
     "item": "Unnatural Instinct",
     "stats": "damage penetrates #% lightning resistance, you cannot be cursed with silence",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "RVBRXLrs7",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 2,
     "mods": [
       {
@@ -26731,6 +26776,13 @@
   {
     "item": "Unnatural Instinct",
     "stats": "minions deal #% increased damage, damage penetrates #% cold resistance",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "6Zkbm4McG",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 2,
     "mods": [
       {
@@ -26750,6 +26802,20 @@
   {
     "item": "Unnatural Instinct",
     "stats": "#% increased global critical strike chance",
+    "average": 2638.79,
+    "prices": [
+      1919.12,
+      2398.8999999999996,
+      2398.8999999999996,
+      2878.68,
+      3598.35,
+      11274.83
+    ],
+    "search": {
+      "id": "jXjy2nbtX",
+      "complexity": 18,
+      "total": 6
+    },
     "builds": 2,
     "mods": [
       {
@@ -35262,6 +35328,25 @@
         "text": "minions deal #% increased damage",
         "trade_ids": [
           "implicit.stat_1589917703"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Fractal Thoughts",
+    "stats": "socketed skill gems get a #% cost & reservation multiplier, cannot be blinded",
+    "builds": 2,
+    "mods": [
+      {
+        "text": "socketed skill gems get a #% cost & reservation multiplier",
+        "trade_ids": [
+          "implicit.stat_2865550257"
+        ]
+      },
+      {
+        "text": "cannot be blinded",
+        "trade_ids": [
+          "implicit.stat_1436284579"
         ]
       }
     ]
@@ -86676,25 +86761,6 @@
   },
   {
     "item": "Fractal Thoughts",
-    "stats": "socketed skill gems get a #% cost & reservation multiplier, cannot be blinded",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "socketed skill gems get a #% cost & reservation multiplier",
-        "trade_ids": [
-          "implicit.stat_2865550257"
-        ]
-      },
-      {
-        "text": "cannot be blinded",
-        "trade_ids": [
-          "implicit.stat_1436284579"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Fractal Thoughts",
     "stats": "socketed skill gems get a #% cost & reservation multiplier, #% increased maximum energy shield",
     "builds": 1,
     "mods": [
@@ -88474,6 +88540,78 @@
     ]
   },
   {
+    "item": "Iron Commander",
+    "stats": "adds # to # lightning damage, bow attacks fire an additional arrow",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "adds # to # lightning damage",
+        "trade_ids": [
+          "implicit.stat_3336890334",
+          "implicit.stat_1334060246"
+        ]
+      },
+      {
+        "text": "bow attacks fire an additional arrow",
+        "trade_ids": [
+          "implicit.stat_742529963"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Iron Commander",
+    "stats": "socketed gems are supported by level # faster projectiles, #% increased critical strike chance",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "socketed gems are supported by level # faster projectiles",
+        "trade_ids": [
+          "implicit.stat_99089516"
+        ]
+      },
+      {
+        "text": "#% increased critical strike chance",
+        "trade_ids": [
+          "implicit.stat_2375316951"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Iron Commander",
+    "stats": "socketed gems are supported by level # blind, bow attacks fire an additional arrow",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "socketed gems are supported by level # blind",
+        "trade_ids": [
+          "implicit.stat_2223640518"
+        ]
+      },
+      {
+        "text": "bow attacks fire an additional arrow",
+        "trade_ids": [
+          "implicit.stat_742529963"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Iron Commander",
+    "stats": "adds # to # fire damage",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "adds # to # fire damage",
+        "trade_ids": [
+          "implicit.stat_709508406",
+          "implicit.stat_321077055"
+        ]
+      }
+    ]
+  },
+  {
     "item": "Combat Focus",
     "stats": "#% increased global critical strike chance",
     "builds": 1,
@@ -89314,58 +89452,6 @@
         "text": "cannot be blinded",
         "trade_ids": [
           "implicit.stat_1436284579"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Iron Commander",
-    "stats": "socketed gems are supported by level # faster projectiles, #% increased critical strike chance",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "socketed gems are supported by level # faster projectiles",
-        "trade_ids": [
-          "implicit.stat_99089516"
-        ]
-      },
-      {
-        "text": "#% increased critical strike chance",
-        "trade_ids": [
-          "implicit.stat_2375316951"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Iron Commander",
-    "stats": "socketed gems are supported by level # blind, bow attacks fire an additional arrow",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "socketed gems are supported by level # blind",
-        "trade_ids": [
-          "implicit.stat_2223640518"
-        ]
-      },
-      {
-        "text": "bow attacks fire an additional arrow",
-        "trade_ids": [
-          "implicit.stat_742529963"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Iron Commander",
-    "stats": "adds # to # fire damage",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "adds # to # fire damage",
-        "trade_ids": [
-          "implicit.stat_709508406",
-          "implicit.stat_321077055"
         ]
       }
     ]
