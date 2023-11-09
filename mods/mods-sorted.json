@@ -51,7 +51,7 @@
       "complexity": 18,
       "total": 63
     },
-    "builds": 167,
+    "builds": 168,
     "mods": [
       {
         "text": "attacks have +#% to critical strike chance",
@@ -155,6 +155,37 @@
     ]
   },
   {
+    "item": "Goldwyrm",
+    "stats": "regenerate # life per second while moving",
+    "average": 16.8,
+    "prices": [
+      8,
+      10,
+      10,
+      17,
+      18,
+      20,
+      20,
+      20,
+      20,
+      25
+    ],
+    "search": {
+      "id": "qay7pV3hg",
+      "complexity": 18,
+      "total": 79
+    },
+    "builds": 67,
+    "mods": [
+      {
+        "text": "regenerate # life per second while moving",
+        "trade_ids": [
+          "implicit.stat_2841027131"
+        ]
+      }
+    ]
+  },
+  {
     "item": "Kaom's Spirit",
     "stats": "+# to maximum frenzy charges",
     "average": 1400.5200000000002,
@@ -181,37 +212,6 @@
         "text": "+# to maximum frenzy charges",
         "trade_ids": [
           "implicit.stat_4078695"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Goldwyrm",
-    "stats": "regenerate # life per second while moving",
-    "average": 16.8,
-    "prices": [
-      8,
-      10,
-      10,
-      17,
-      18,
-      20,
-      20,
-      20,
-      20,
-      25
-    ],
-    "search": {
-      "id": "qay7pV3hg",
-      "complexity": 18,
-      "total": 79
-    },
-    "builds": 66,
-    "mods": [
-      {
-        "text": "regenerate # life per second while moving",
-        "trade_ids": [
-          "implicit.stat_2841027131"
         ]
       }
     ]
@@ -3484,6 +3484,37 @@
     ]
   },
   {
+    "item": "Eyes of the Greatwolf",
+    "stats": "#% increased quantity of items found, regenerate #% of life per second",
+    "average": 4158.093333333333,
+    "prices": [
+      3118.5699999999997,
+      3838.24,
+      5517.469999999999,
+      16792.3
+    ],
+    "search": {
+      "id": "DL82LDwS5",
+      "complexity": 29,
+      "total": 4
+    },
+    "builds": 14,
+    "mods": [
+      {
+        "text": "#% increased quantity of items found",
+        "trade_ids": [
+          "implicit.stat_884586851"
+        ]
+      },
+      {
+        "text": "regenerate #% of life per second",
+        "trade_ids": [
+          "implicit.stat_836936635"
+        ]
+      }
+    ]
+  },
+  {
     "item": "Warrior's Tale",
     "stats": "#% reduced effect of curses on you",
     "average": 1228.08,
@@ -3928,37 +3959,6 @@
         "text": "+# to level of socketed gems",
         "trade_ids": [
           "implicit.stat_2843100721"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Eyes of the Greatwolf",
-    "stats": "#% increased quantity of items found, regenerate #% of life per second",
-    "average": 4158.093333333333,
-    "prices": [
-      3118.5699999999997,
-      3838.24,
-      5517.469999999999,
-      16792.3
-    ],
-    "search": {
-      "id": "DL82LDwS5",
-      "complexity": 29,
-      "total": 4
-    },
-    "builds": 13,
-    "mods": [
-      {
-        "text": "#% increased quantity of items found",
-        "trade_ids": [
-          "implicit.stat_884586851"
-        ]
-      },
-      {
-        "text": "regenerate #% of life per second",
-        "trade_ids": [
-          "implicit.stat_836936635"
         ]
       }
     ]
@@ -23191,6 +23191,13 @@
   {
     "item": "Mageblood",
     "stats": "#% increased strength, #% increased dexterity, anger has #% increased aura effect",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "9Y2vBYycK",
+      "complexity": 20,
+      "total": 0
+    },
     "builds": 2,
     "mods": [
       {
@@ -23216,6 +23223,13 @@
   {
     "item": "Mageblood",
     "stats": "#% increased dexterity, #% increased intelligence, determination has #% increased aura effect",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "3BrZ7B9F5",
+      "complexity": 20,
+      "total": 0
+    },
     "builds": 2,
     "mods": [
       {
@@ -23241,6 +23255,13 @@
   {
     "item": "Mageblood",
     "stats": "#% increased rarity of items found, anger has #% increased aura effect",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "KJD7qJPI5",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 2,
     "mods": [
       {
@@ -23260,6 +23281,15 @@
   {
     "item": "Mageblood",
     "stats": "discipline has #% increased aura effect",
+    "average": 107950.5,
+    "prices": [
+      107950.5
+    ],
+    "search": {
+      "id": "2Bro7BGhk",
+      "complexity": 18,
+      "total": 1
+    },
     "builds": 2,
     "mods": [
       {
@@ -23273,6 +23303,15 @@
   {
     "item": "Mageblood",
     "stats": "#% increased movement speed during any flask effect, pride has #% increased aura effect",
+    "average": 92357.65,
+    "prices": [
+      92357.65
+    ],
+    "search": {
+      "id": "Ey6Dqyyh5",
+      "complexity": 29,
+      "total": 1
+    },
     "builds": 2,
     "mods": [
       {
@@ -23311,6 +23350,13 @@
   {
     "item": "Mageblood",
     "stats": "determination has #% increased aura effect, discipline has #% increased aura effect",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "Ey6DZpBU5",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 2,
     "mods": [
       {
@@ -23330,6 +23376,13 @@
   {
     "item": "Mageblood",
     "stats": "discipline has #% increased aura effect, zealotry has #% increased aura effect",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "8a2eE6nCV",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 2,
     "mods": [
       {
@@ -23349,6 +23402,17 @@
   {
     "item": "Mageblood",
     "stats": "#% increased cast speed during any flask effect",
+    "average": 273539.75666666665,
+    "prices": [
+      143694.11,
+      253846.935,
+      423078.22500000003
+    ],
+    "search": {
+      "id": "Lmd63VBSn",
+      "complexity": 18,
+      "total": 3
+    },
     "builds": 2,
     "mods": [
       {
@@ -23362,6 +23426,13 @@
   {
     "item": "Mageblood",
     "stats": "#% increased maximum life, #% increased area of effect",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "kXjqdM3U5",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 2,
     "mods": [
       {
