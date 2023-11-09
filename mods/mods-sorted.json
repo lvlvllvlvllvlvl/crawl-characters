@@ -4453,6 +4453,37 @@
     ]
   },
   {
+    "item": "The Covenant",
+    "stats": "+# to level of socketed aoe gems",
+    "average": 6675.812,
+    "prices": [
+      3501.2999999999997,
+      4668.4,
+      5135.24,
+      5835.5,
+      5835.5,
+      6068.92,
+      6535.759999999999,
+      9336.8,
+      9336.8,
+      10503.9
+    ],
+    "search": {
+      "id": "wpRa4kBcb",
+      "complexity": 18,
+      "total": 12
+    },
+    "builds": 12,
+    "mods": [
+      {
+        "text": "+# to level of socketed aoe gems",
+        "trade_ids": [
+          "implicit.stat_2551600084"
+        ]
+      }
+    ]
+  },
+  {
     "item": "Arn's Anguish",
     "stats": "hatred has #% increased aura effect",
     "average": 755.6535,
@@ -4846,37 +4877,6 @@
         "text": "#% increased area of effect",
         "trade_ids": [
           "implicit.stat_280731498"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "The Covenant",
-    "stats": "+# to level of socketed aoe gems",
-    "average": 6675.812,
-    "prices": [
-      3501.2999999999997,
-      4668.4,
-      5135.24,
-      5835.5,
-      5835.5,
-      6068.92,
-      6535.759999999999,
-      9336.8,
-      9336.8,
-      10503.9
-    ],
-    "search": {
-      "id": "wpRa4kBcb",
-      "complexity": 18,
-      "total": 12
-    },
-    "builds": 11,
-    "mods": [
-      {
-        "text": "+# to level of socketed aoe gems",
-        "trade_ids": [
-          "implicit.stat_2551600084"
         ]
       }
     ]
@@ -20563,6 +20563,13 @@
   {
     "item": "Thread of Hope",
     "stats": "damage penetrates #% fire resistance, corrupted blood cannot be inflicted on you",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "VME3VLrSp",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 3,
     "mods": [
       {
@@ -23925,6 +23932,13 @@
   {
     "item": "Mageblood",
     "stats": "#% increased dexterity, #% increased intelligence, anger has #% increased aura effect",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "eXWVz5nFL",
+      "complexity": 20,
+      "total": 0
+    },
     "builds": 2,
     "mods": [
       {
@@ -23976,6 +23990,15 @@
   {
     "item": "Mageblood",
     "stats": "#% increased dexterity, #% increased intelligence, +#% to critical strike multiplier during any flask effect",
+    "average": 91158.2,
+    "prices": [
+      91158.2
+    ],
+    "search": {
+      "id": "3BrZW9Ji5",
+      "complexity": 20,
+      "total": 1
+    },
     "builds": 2,
     "mods": [
       {
@@ -24001,6 +24024,13 @@
   {
     "item": "Mageblood",
     "stats": "#% increased strength, #% increased intelligence, #% increased maximum energy shield",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "0B865jwFg",
+      "complexity": 20,
+      "total": 0
+    },
     "builds": 2,
     "mods": [
       {
@@ -66422,6 +66452,25 @@
         "text": "+# to level of socketed curse gems",
         "trade_ids": [
           "implicit.stat_3691695237"
+        ]
+      },
+      {
+        "text": "+# to maximum power charges",
+        "trade_ids": [
+          "implicit.stat_227523295"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Willclash",
+    "stats": "+# to level of socketed duration gems, +# to maximum power charges",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "+# to level of socketed duration gems",
+        "trade_ids": [
+          "implicit.stat_2115168758"
         ]
       },
       {
