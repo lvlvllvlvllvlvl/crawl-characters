@@ -2699,6 +2699,33 @@
     ]
   },
   {
+    "item": "Legacy of Fury",
+    "stats": "+# to level of socketed gems",
+    "average": 443.1499999999999,
+    "prices": [
+      80,
+      80,
+      100,
+      239.89,
+      959.56,
+      1199.4499999999998
+    ],
+    "search": {
+      "id": "MVDlOzPUJ",
+      "complexity": 18,
+      "total": 6
+    },
+    "builds": 17,
+    "mods": [
+      {
+        "text": "+# to level of socketed gems",
+        "trade_ids": [
+          "implicit.stat_2843100721"
+        ]
+      }
+    ]
+  },
+  {
     "item": "Matua Tupuna",
     "stats": "+# to level of socketed gems",
     "average": 36,
@@ -2994,33 +3021,6 @@
         "text": "#% increased area of effect",
         "trade_ids": [
           "implicit.stat_280731498"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Legacy of Fury",
-    "stats": "+# to level of socketed gems",
-    "average": 443.1499999999999,
-    "prices": [
-      80,
-      80,
-      100,
-      239.89,
-      959.56,
-      1199.4499999999998
-    ],
-    "search": {
-      "id": "MVDlOzPUJ",
-      "complexity": 18,
-      "total": 6
-    },
-    "builds": 16,
-    "mods": [
-      {
-        "text": "+# to level of socketed gems",
-        "trade_ids": [
-          "implicit.stat_2843100721"
         ]
       }
     ]
@@ -7973,6 +7973,30 @@
     ]
   },
   {
+    "item": "Aegis Aurora",
+    "stats": "#% of physical damage from hits taken as fire damage",
+    "average": 559.7433333333333,
+    "prices": [
+      239.89,
+      479.78,
+      959.56
+    ],
+    "search": {
+      "id": "lXjXX7kcV",
+      "complexity": 18,
+      "total": 3
+    },
+    "builds": 6,
+    "mods": [
+      {
+        "text": "#% of physical damage from hits taken as fire damage",
+        "trade_ids": [
+          "implicit.stat_3342989455"
+        ]
+      }
+    ]
+  },
+  {
     "item": "Shaper's Touch",
     "stats": "attacks have +#% to critical strike chance",
     "average": 239.88999999999993,
@@ -8563,6 +8587,37 @@
         "text": "#% increased effect of non-damaging ailments",
         "trade_ids": [
           "implicit.stat_782230869"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Watcher's Eye",
+    "stats": "#% reduced poison duration on you",
+    "average": 67.671,
+    "prices": [
+      30,
+      30,
+      35,
+      40,
+      55,
+      80,
+      90,
+      100,
+      100,
+      116.71
+    ],
+    "search": {
+      "id": "jPpekPluX",
+      "complexity": 18,
+      "total": 40
+    },
+    "builds": 6,
+    "mods": [
+      {
+        "text": "#% reduced poison duration on you",
+        "trade_ids": [
+          "implicit.stat_3301100256"
         ]
       }
     ]
@@ -9663,30 +9718,6 @@
     ]
   },
   {
-    "item": "Aegis Aurora",
-    "stats": "#% of physical damage from hits taken as fire damage",
-    "average": 559.7433333333333,
-    "prices": [
-      239.89,
-      479.78,
-      959.56
-    ],
-    "search": {
-      "id": "lXjXX7kcV",
-      "complexity": 18,
-      "total": 3
-    },
-    "builds": 5,
-    "mods": [
-      {
-        "text": "#% of physical damage from hits taken as fire damage",
-        "trade_ids": [
-          "implicit.stat_3342989455"
-        ]
-      }
-    ]
-  },
-  {
     "item": "Hrimsorrow",
     "stats": "+# to maximum frenzy charges, +#% to spell critical strike chance",
     "average": 11462.08,
@@ -10573,37 +10604,6 @@
         "text": "#% reduced effect of chill on you",
         "trade_ids": [
           "implicit.stat_1478653032"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Watcher's Eye",
-    "stats": "#% reduced poison duration on you",
-    "average": 67.671,
-    "prices": [
-      30,
-      30,
-      35,
-      40,
-      55,
-      80,
-      90,
-      100,
-      100,
-      116.71
-    ],
-    "search": {
-      "id": "jPpekPluX",
-      "complexity": 18,
-      "total": 40
-    },
-    "builds": 5,
-    "mods": [
-      {
-        "text": "#% reduced poison duration on you",
-        "trade_ids": [
-          "implicit.stat_3301100256"
         ]
       }
     ]
@@ -12760,6 +12760,37 @@
         "text": "#% increased intelligence",
         "trade_ids": [
           "implicit.stat_656461285"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Sadima's Touch",
+    "stats": "+# to maximum frenzy charges",
+    "average": 8.666666666666666,
+    "prices": [
+      5,
+      5,
+      9,
+      9,
+      10,
+      10,
+      10,
+      10,
+      10,
+      15
+    ],
+    "search": {
+      "id": "Qr6GOj7Tw",
+      "complexity": 18,
+      "total": 101
+    },
+    "builds": 4,
+    "mods": [
+      {
+        "text": "+# to maximum frenzy charges",
+        "trade_ids": [
+          "implicit.stat_4078695"
         ]
       }
     ]
@@ -16946,6 +16977,18 @@
   {
     "item": "Aegis Aurora",
     "stats": "#% chance to block spell damage",
+    "average": 3598.3499999999995,
+    "prices": [
+      719.67,
+      959.56,
+      4797.799999999999,
+      7916.37
+    ],
+    "search": {
+      "id": "BEJM9pLS8",
+      "complexity": 19,
+      "total": 4
+    },
     "builds": 3,
     "mods": [
       {
@@ -16986,6 +17029,15 @@
   {
     "item": "Aegis Aurora",
     "stats": "#% increased maximum life",
+    "average": 239.89,
+    "prices": [
+      239.89
+    ],
+    "search": {
+      "id": "QVnogJjtw",
+      "complexity": 18,
+      "total": 1
+    },
     "builds": 3,
     "mods": [
       {
@@ -17053,6 +17105,15 @@
   {
     "item": "Hrimsorrow",
     "stats": "curse enemies with elemental weakness on hit, +#% to spell critical strike chance",
+    "average": 2638.79,
+    "prices": [
+      2638.79
+    ],
+    "search": {
+      "id": "bXW5V9RTL",
+      "complexity": 29,
+      "total": 1
+    },
     "builds": 3,
     "mods": [
       {
@@ -17100,6 +17161,15 @@
   {
     "item": "Hrimsorrow",
     "stats": "+# to level of socketed aura gems, +#% to spell critical strike chance",
+    "average": 1199.4499999999998,
+    "prices": [
+      1199.4499999999998
+    ],
+    "search": {
+      "id": "8a2MBdBHV",
+      "complexity": 29,
+      "total": 1
+    },
     "builds": 3,
     "mods": [
       {
@@ -17119,6 +17189,20 @@
   {
     "item": "Hrimsorrow",
     "stats": "+# to level of socketed gems",
+    "average": 164.945,
+    "prices": [
+      20,
+      50,
+      200,
+      239.89,
+      239.89,
+      239.89
+    ],
+    "search": {
+      "id": "y9RQwEBuR",
+      "complexity": 18,
+      "total": 6
+    },
     "builds": 3,
     "mods": [
       {
@@ -17132,6 +17216,13 @@
   {
     "item": "Hrimsorrow",
     "stats": "+# to level of socketed minion gems, +#% to spell critical strike chance",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "DL8MY44C5",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 3,
     "mods": [
       {
@@ -17709,37 +17800,6 @@
         "text": "#% chance to gain a frenzy charge on kill",
         "trade_ids": [
           "implicit.stat_1826802197"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Sadima's Touch",
-    "stats": "+# to maximum frenzy charges",
-    "average": 8.666666666666666,
-    "prices": [
-      5,
-      5,
-      9,
-      9,
-      10,
-      10,
-      10,
-      10,
-      10,
-      15
-    ],
-    "search": {
-      "id": "Qr6GOj7Tw",
-      "complexity": 18,
-      "total": 101
-    },
-    "builds": 3,
-    "mods": [
-      {
-        "text": "+# to maximum frenzy charges",
-        "trade_ids": [
-          "implicit.stat_4078695"
         ]
       }
     ]
@@ -19567,6 +19627,19 @@
         "text": "socketed skill gems get a #% cost & reservation multiplier",
         "trade_ids": [
           "implicit.stat_2865550257"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Perandus Blazon",
+    "stats": "#% increased rarity of items found",
+    "builds": 3,
+    "mods": [
+      {
+        "text": "#% increased rarity of items found",
+        "trade_ids": [
+          "implicit.stat_3917489142"
         ]
       }
     ]
@@ -28689,19 +28762,6 @@
         "text": "#% increased movement speed during any flask effect",
         "trade_ids": [
           "implicit.stat_304970526"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Perandus Blazon",
-    "stats": "#% increased rarity of items found",
-    "builds": 2,
-    "mods": [
-      {
-        "text": "#% increased rarity of items found",
-        "trade_ids": [
-          "implicit.stat_3917489142"
         ]
       }
     ]
@@ -47013,6 +47073,25 @@
         "text": "#% increased maximum energy shield",
         "trade_ids": [
           "implicit.stat_2482852589"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Sentari's Answer",
+    "stats": "+# to level of socketed curse gems, #% of physical damage from hits taken as cold damage",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "+# to level of socketed curse gems",
+        "trade_ids": [
+          "implicit.stat_3691695237"
+        ]
+      },
+      {
+        "text": "#% of physical damage from hits taken as cold damage",
+        "trade_ids": [
+          "implicit.stat_1871056256"
         ]
       }
     ]
