@@ -1592,6 +1592,37 @@
     ]
   },
   {
+    "item": "Kaom's Spirit",
+    "stats": "+#% to spell critical strike chance",
+    "average": 23.4,
+    "prices": [
+      15,
+      20,
+      20,
+      20,
+      20,
+      20,
+      25,
+      30,
+      30,
+      34
+    ],
+    "search": {
+      "id": "qaylYl9ug",
+      "complexity": 18,
+      "total": 156
+    },
+    "builds": 22,
+    "mods": [
+      {
+        "text": "+#% to spell critical strike chance",
+        "trade_ids": [
+          "implicit.stat_791835907"
+        ]
+      }
+    ]
+  },
+  {
     "item": "Sadima's Touch",
     "stats": "attacks have +#% to critical strike chance",
     "average": 19.5,
@@ -1711,37 +1742,6 @@
         "text": "+# to level of socketed projectile gems",
         "trade_ids": [
           "implicit.stat_2176571093"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Kaom's Spirit",
-    "stats": "+#% to spell critical strike chance",
-    "average": 23.4,
-    "prices": [
-      15,
-      20,
-      20,
-      20,
-      20,
-      20,
-      25,
-      30,
-      30,
-      34
-    ],
-    "search": {
-      "id": "qaylYl9ug",
-      "complexity": 18,
-      "total": 156
-    },
-    "builds": 21,
-    "mods": [
-      {
-        "text": "+#% to spell critical strike chance",
-        "trade_ids": [
-          "implicit.stat_791835907"
         ]
       }
     ]
@@ -28785,6 +28785,15 @@
   {
     "item": "Might of the Meek",
     "stats": "you cannot be hindered",
+    "average": 100,
+    "prices": [
+      100
+    ],
+    "search": {
+      "id": "RVBXglWU7",
+      "complexity": 18,
+      "total": 1
+    },
     "builds": 2,
     "mods": [
       {
@@ -28798,6 +28807,16 @@
   {
     "item": "Might of the Meek",
     "stats": "#% reduced bleed duration on you",
+    "average": 169.945,
+    "prices": [
+      100,
+      239.89
+    ],
+    "search": {
+      "id": "JVdX2KWFl",
+      "complexity": 18,
+      "total": 2
+    },
     "builds": 2,
     "mods": [
       {
@@ -28811,6 +28830,13 @@
   {
     "item": "Cloak of Flame",
     "stats": "+#% to all maximum resistances, #% reduced chaos damage taken",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "4drgJ3vt9",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 2,
     "mods": [
       {
@@ -28830,6 +28856,13 @@
   {
     "item": "Cloak of Flame",
     "stats": "+# to level of socketed projectile gems, #% reduced cold damage taken",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "GkdXpKbSb",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 2,
     "mods": [
       {
@@ -28849,6 +28882,13 @@
   {
     "item": "The Jinxed Juju",
     "stats": "+#% to all elemental resistances",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "jXj2KkLTX",
+      "complexity": 18,
+      "total": 0
+    },
     "builds": 2,
     "mods": [
       {
