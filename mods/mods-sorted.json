@@ -21184,6 +21184,30 @@
     ]
   },
   {
+    "item": "Redblade Banner",
+    "stats": "grants level # determination skill",
+    "average": 351.315,
+    "prices": [
+      234.21,
+      351.315,
+      468.42
+    ],
+    "search": {
+      "id": "gPeOXKPsQ",
+      "complexity": 18,
+      "total": 3
+    },
+    "builds": 3,
+    "mods": [
+      {
+        "text": "grants level # determination skill",
+        "trade_ids": [
+          "implicit.stat_4265392510"
+        ]
+      }
+    ]
+  },
+  {
     "item": "Inpulsa's Broken Heart",
     "stats": "#% increased damage",
     "average": 875.5985,
@@ -26855,6 +26879,13 @@
   {
     "item": "Unnatural Instinct",
     "stats": "#% reduced effect of chill on you, damage penetrates #% fire resistance",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "9Y2bgwycK",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 2,
     "mods": [
       {
@@ -26874,6 +26905,13 @@
   {
     "item": "Unnatural Instinct",
     "stats": "#% increased area of effect, damage penetrates #% fire resistance",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "3Brb8M9I5",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 2,
     "mods": [
       {
@@ -26893,6 +26931,13 @@
   {
     "item": "Unnatural Instinct",
     "stats": "damage penetrates #% elemental resistances, #% reduced bleed duration on you",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "KJDLawPi5",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 2,
     "mods": [
       {
@@ -32119,30 +32164,6 @@
         "text": "+#% to maximum chance to block attack damage",
         "trade_ids": [
           "implicit.stat_4124805414"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Redblade Banner",
-    "stats": "grants level # determination skill",
-    "average": 351.315,
-    "prices": [
-      234.21,
-      351.315,
-      468.42
-    ],
-    "search": {
-      "id": "gPeOXKPsQ",
-      "complexity": 18,
-      "total": 3
-    },
-    "builds": 2,
-    "mods": [
-      {
-        "text": "grants level # determination skill",
-        "trade_ids": [
-          "implicit.stat_4265392510"
         ]
       }
     ]
@@ -67919,6 +67940,25 @@
         "text": "#% reduced chaos damage taken",
         "trade_ids": [
           "implicit.stat_2960683632"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "The Iron Fortress",
+    "stats": "+# to level of socketed aoe gems, #% reduced cold damage taken",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "+# to level of socketed aoe gems",
+        "trade_ids": [
+          "implicit.stat_2551600084"
+        ]
+      },
+      {
+        "text": "#% reduced cold damage taken",
+        "trade_ids": [
+          "implicit.stat_3303114033"
         ]
       }
     ]
