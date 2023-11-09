@@ -14481,6 +14481,19 @@
     ]
   },
   {
+    "item": "Shadows and Dust",
+    "stats": "attacks have +#% to critical strike chance",
+    "builds": 4,
+    "mods": [
+      {
+        "text": "attacks have +#% to critical strike chance",
+        "trade_ids": [
+          "implicit.stat_2572042788"
+        ]
+      }
+    ]
+  },
+  {
     "item": "Rainbowstride",
     "stats": "+# to level of socketed aura gems",
     "average": 264.89,
@@ -18318,6 +18331,18 @@
   {
     "item": "Dialla's Malefaction",
     "stats": "+# to level of socketed gems",
+    "average": 35743.61,
+    "prices": [
+      35743.61,
+      35743.61,
+      35983.5,
+      59972.5
+    ],
+    "search": {
+      "id": "waPQeqdUb",
+      "complexity": 18,
+      "total": 4
+    },
     "builds": 3,
     "mods": [
       {
@@ -18331,6 +18356,13 @@
   {
     "item": "Dialla's Malefaction",
     "stats": "+# to level of socketed gems, #% additional physical damage reduction while stationary",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "zeBwpqgt4",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 3,
     "mods": [
       {
@@ -18350,6 +18382,13 @@
   {
     "item": "Dialla's Malefaction",
     "stats": "#% reduced fire damage taken, #% additional physical damage reduction while stationary",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "qXjQoqlCg",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 3,
     "mods": [
       {
@@ -18369,6 +18408,13 @@
   {
     "item": "Dialla's Malefaction",
     "stats": "+# to level of socketed aoe gems, +# to level of socketed aura gems",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "MVDMl4PUJ",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 3,
     "mods": [
       {
@@ -18388,6 +18434,13 @@
   {
     "item": "Dialla's Malefaction",
     "stats": "+# to level of socketed aoe gems, #% additional physical damage reduction while stationary",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "mXjQBqBu6",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 3,
     "mods": [
       {
@@ -18407,6 +18460,13 @@
   {
     "item": "Dialla's Malefaction",
     "stats": "+# to level of socketed aoe gems, +# to level of socketed trap or mine gems",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "pXjQX0bt0",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 3,
     "mods": [
       {
@@ -18426,6 +18486,16 @@
   {
     "item": "Dialla's Malefaction",
     "stats": "+# to level of socketed aoe gems",
+    "average": 20990.375,
+    "prices": [
+      20390.649999999998,
+      21590.1
+    ],
+    "search": {
+      "id": "KJDMJPDs5",
+      "complexity": 18,
+      "total": 2
+    },
     "builds": 3,
     "mods": [
       {
@@ -18439,6 +18509,13 @@
   {
     "item": "Dialla's Malefaction",
     "stats": "+# to level of socketed gems, #% reduced fire damage taken",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "rXjQXomHQ",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 3,
     "mods": [
       {
@@ -18458,6 +18535,15 @@
   {
     "item": "Dialla's Malefaction",
     "stats": "#% increased damage, #% increased maximum life",
+    "average": 5997.25,
+    "prices": [
+      5997.25
+    ],
+    "search": {
+      "id": "8a2Ma8VcV",
+      "complexity": 29,
+      "total": 1
+    },
     "builds": 3,
     "mods": [
       {
@@ -18477,6 +18563,15 @@
   {
     "item": "Dialla's Malefaction",
     "stats": "+# to level of socketed duration gems, #% reduced fire damage taken",
+    "average": 5997.25,
+    "prices": [
+      5997.25
+    ],
+    "search": {
+      "id": "y9RQ9vgsR",
+      "complexity": 29,
+      "total": 1
+    },
     "builds": 3,
     "mods": [
       {
@@ -20298,19 +20393,6 @@
         "text": "#% increased rarity of items found",
         "trade_ids": [
           "implicit.stat_3917489142"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Shadows and Dust",
-    "stats": "attacks have +#% to critical strike chance",
-    "builds": 3,
-    "mods": [
-      {
-        "text": "attacks have +#% to critical strike chance",
-        "trade_ids": [
-          "implicit.stat_2572042788"
         ]
       }
     ]
