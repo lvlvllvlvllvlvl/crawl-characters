@@ -6294,6 +6294,37 @@
     ]
   },
   {
+    "item": "Vaal Caress",
+    "stats": "+# to level of socketed gems",
+    "average": 233.65000000000003,
+    "prices": [
+      170,
+      180,
+      233.65,
+      233.65,
+      233.65,
+      233.65,
+      233.65,
+      233.65,
+      233.65,
+      233.65
+    ],
+    "search": {
+      "id": "abo0rZRue",
+      "complexity": 18,
+      "total": 18
+    },
+    "builds": 8,
+    "mods": [
+      {
+        "text": "+# to level of socketed gems",
+        "trade_ids": [
+          "implicit.stat_2843100721"
+        ]
+      }
+    ]
+  },
+  {
     "item": "Cloak of Flame",
     "stats": "+# to level of socketed duration gems",
     "average": 9883.467999999999,
@@ -7145,37 +7176,6 @@
         "text": "+#% chance to block",
         "trade_ids": [
           "implicit.stat_4253454700"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Vaal Caress",
-    "stats": "+# to level of socketed gems",
-    "average": 233.65000000000003,
-    "prices": [
-      170,
-      180,
-      233.65,
-      233.65,
-      233.65,
-      233.65,
-      233.65,
-      233.65,
-      233.65,
-      233.65
-    ],
-    "search": {
-      "id": "abo0rZRue",
-      "complexity": 18,
-      "total": 18
-    },
-    "builds": 7,
-    "mods": [
-      {
-        "text": "+# to level of socketed gems",
-        "trade_ids": [
-          "implicit.stat_2843100721"
         ]
       }
     ]
@@ -28992,6 +28992,13 @@
   {
     "item": "Headhunter",
     "stats": "#% increased dexterity, #% increased intelligence, #% increased rarity of items found",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "oXj5JlKhl",
+      "complexity": 20,
+      "total": 0
+    },
     "builds": 2,
     "mods": [
       {
@@ -29017,6 +29024,13 @@
   {
     "item": "Headhunter",
     "stats": "#% increased dexterity, #% increased intelligence",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "DL85jL7H5",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 2,
     "mods": [
       {
@@ -34550,6 +34564,25 @@
         "text": "+# to level of socketed projectile gems",
         "trade_ids": [
           "implicit.stat_2176571093"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Victario's Influence",
+    "stats": "+# to level of socketed gems, #% reduced lightning damage taken",
+    "builds": 2,
+    "mods": [
+      {
+        "text": "+# to level of socketed gems",
+        "trade_ids": [
+          "implicit.stat_2843100721"
+        ]
+      },
+      {
+        "text": "#% reduced lightning damage taken",
+        "trade_ids": [
+          "implicit.stat_1276918229"
         ]
       }
     ]
@@ -78999,25 +79032,6 @@
         "text": "#% reduced cold damage taken",
         "trade_ids": [
           "implicit.stat_3303114033"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Victario's Influence",
-    "stats": "+# to level of socketed gems, #% reduced lightning damage taken",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "+# to level of socketed gems",
-        "trade_ids": [
-          "implicit.stat_2843100721"
-        ]
-      },
-      {
-        "text": "#% reduced lightning damage taken",
-        "trade_ids": [
-          "implicit.stat_1276918229"
         ]
       }
     ]
