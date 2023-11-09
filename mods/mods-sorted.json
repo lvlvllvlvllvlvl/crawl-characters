@@ -13268,6 +13268,15 @@
   {
     "item": "Anathema",
     "stats": "determination has #% increased aura effect",
+    "average": 1919.12,
+    "prices": [
+      1919.12
+    ],
+    "search": {
+      "id": "y9RQDmlUR",
+      "complexity": 18,
+      "total": 1
+    },
     "builds": 4,
     "mods": [
       {
@@ -17939,6 +17948,24 @@
   {
     "item": "Eyes of the Greatwolf",
     "stats": "#% increased spell damage",
+    "average": 34.3,
+    "prices": [
+      15,
+      20,
+      20,
+      28,
+      30,
+      40,
+      40,
+      50,
+      50,
+      50
+    ],
+    "search": {
+      "id": "5okOBW2Fa",
+      "complexity": 18,
+      "total": 28
+    },
     "builds": 3,
     "mods": [
       {
@@ -18099,6 +18126,15 @@
   {
     "item": "Sentari's Answer",
     "stats": "+# to level of socketed aoe gems",
+    "average": 239.89,
+    "prices": [
+      239.89
+    ],
+    "search": {
+      "id": "RVBZdXBh7",
+      "complexity": 18,
+      "total": 1
+    },
     "builds": 3,
     "mods": [
       {
@@ -18112,6 +18148,19 @@
   {
     "item": "Sentari's Answer",
     "stats": "+# to level of socketed aura gems",
+    "average": 120.578,
+    "prices": [
+      10,
+      99,
+      99,
+      155,
+      239.89
+    ],
+    "search": {
+      "id": "LmdMk0Vcn",
+      "complexity": 18,
+      "total": 5
+    },
     "builds": 3,
     "mods": [
       {
