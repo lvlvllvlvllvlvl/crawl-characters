@@ -19356,6 +19356,13 @@
   {
     "item": "Incandescent Heart",
     "stats": "+# to level of socketed aura gems, #% increased damage",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "YVq3MM7FY",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 3,
     "mods": [
       {
@@ -19375,6 +19382,13 @@
   {
     "item": "Incandescent Heart",
     "stats": "+# to level of socketed projectile gems, +#% to all maximum resistances",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "9Y2MmmzCK",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 3,
     "mods": [
       {
@@ -19425,6 +19439,13 @@
   {
     "item": "Crystallised Omniscience",
     "stats": "#% increased strength, #% increased dexterity, +#% to all maximum resistances",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "vlPQVVZfE",
+      "complexity": 20,
+      "total": 0
+    },
     "builds": 3,
     "mods": [
       {
@@ -19450,6 +19471,15 @@
   {
     "item": "Inspired Learning",
     "stats": "#% increased effect of non-damaging ailments",
+    "average": 60,
+    "prices": [
+      60
+    ],
+    "search": {
+      "id": "pXjQ55wS0",
+      "complexity": 18,
+      "total": 1
+    },
     "builds": 3,
     "mods": [
       {
@@ -19494,6 +19524,13 @@
   {
     "item": "The Siege",
     "stats": "#% increased area of effect",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "rXjQDDRtQ",
+      "complexity": 18,
+      "total": 0
+    },
     "builds": 3,
     "mods": [
       {
@@ -19507,6 +19544,13 @@
   {
     "item": "The Siege",
     "stats": "#% increased effect of non-damaging ailments",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "7l5MkkRu5",
+      "complexity": 18,
+      "total": 0
+    },
     "builds": 3,
     "mods": [
       {
@@ -19520,6 +19564,13 @@
   {
     "item": "The Siege",
     "stats": "#% reduced effect of curses on you",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "6Zkd552iG",
+      "complexity": 18,
+      "total": 0
+    },
     "builds": 3,
     "mods": [
       {
@@ -19555,6 +19606,13 @@
   {
     "item": "Grand Spectrum",
     "stats": "you cannot be maimed",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "4drOLLQH9",
+      "complexity": 18,
+      "total": 0
+    },
     "builds": 3,
     "mods": [
       {
@@ -19568,6 +19626,15 @@
   {
     "item": "Grand Spectrum",
     "stats": "you cannot be hindered",
+    "average": 1199.4499999999998,
+    "prices": [
+      1199.4499999999998
+    ],
+    "search": {
+      "id": "GkdM00ZTb",
+      "complexity": 18,
+      "total": 1
+    },
     "builds": 3,
     "mods": [
       {
@@ -19643,6 +19710,13 @@
   {
     "item": "Breath of the Council",
     "stats": "#% increased cast speed, #% increased area of effect",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "PdDM33qhL",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 3,
     "mods": [
       {
@@ -62561,6 +62635,25 @@
   },
   {
     "item": "Doppelgänger Guise",
+    "stats": "+# to level of socketed gems, +# to level of socketed minion gems",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "+# to level of socketed gems",
+        "trade_ids": [
+          "implicit.stat_2843100721"
+        ]
+      },
+      {
+        "text": "+# to level of socketed minion gems",
+        "trade_ids": [
+          "implicit.stat_3604946673"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Doppelgänger Guise",
     "stats": "+# to level of socketed projectile gems, #% increased damage",
     "builds": 1,
     "mods": [
@@ -86809,6 +86902,25 @@
   },
   {
     "item": "Geofri's Crest",
+    "stats": "+# to level of socketed minion gems, #% increased maximum life",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "+# to level of socketed minion gems",
+        "trade_ids": [
+          "implicit.stat_3604946673"
+        ]
+      },
+      {
+        "text": "#% increased maximum life",
+        "trade_ids": [
+          "implicit.stat_983749596"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Geofri's Crest",
     "stats": "+# to level of socketed aoe gems, socketed skill gems get a #% cost & reservation multiplier",
     "builds": 1,
     "mods": [
@@ -87271,6 +87383,25 @@
         "text": "+# to level of socketed aura gems",
         "trade_ids": [
           "implicit.stat_2452998583"
+        ]
+      },
+      {
+        "text": "#% increased maximum life",
+        "trade_ids": [
+          "implicit.stat_983749596"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Triad Grip",
+    "stats": "+# to level of socketed minion gems, #% increased maximum life",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "+# to level of socketed minion gems",
+        "trade_ids": [
+          "implicit.stat_3604946673"
         ]
       },
       {
