@@ -7948,6 +7948,34 @@
   },
   {
     "item": "Unnatural Instinct",
+    "stats": "#% reduced ignite duration on you, corrupted blood cannot be inflicted on you",
+    "average": 21590.1,
+    "prices": [
+      21590.1
+    ],
+    "search": {
+      "id": "zeBeedRU4",
+      "complexity": 29,
+      "total": 1
+    },
+    "builds": 6,
+    "mods": [
+      {
+        "text": "#% reduced ignite duration on you",
+        "trade_ids": [
+          "implicit.stat_986397080"
+        ]
+      },
+      {
+        "text": "corrupted blood cannot be inflicted on you",
+        "trade_ids": [
+          "implicit.stat_1658498488"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Unnatural Instinct",
     "stats": "damage penetrates #% fire resistance, corrupted blood cannot be inflicted on you",
     "average": null,
     "prices": [],
@@ -9653,34 +9681,6 @@
         "text": "damage penetrates #% lightning resistance",
         "trade_ids": [
           "implicit.stat_818778753"
-        ]
-      },
-      {
-        "text": "corrupted blood cannot be inflicted on you",
-        "trade_ids": [
-          "implicit.stat_1658498488"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Unnatural Instinct",
-    "stats": "#% reduced ignite duration on you, corrupted blood cannot be inflicted on you",
-    "average": 21590.1,
-    "prices": [
-      21590.1
-    ],
-    "search": {
-      "id": "zeBeedRU4",
-      "complexity": 29,
-      "total": 1
-    },
-    "builds": 5,
-    "mods": [
-      {
-        "text": "#% reduced ignite duration on you",
-        "trade_ids": [
-          "implicit.stat_986397080"
         ]
       },
       {
@@ -22096,6 +22096,13 @@
   {
     "item": "Cold Iron Point",
     "stats": "#% increased damage over time, #% increased spell damage",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "aqJjlakue",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 3,
     "mods": [
       {
@@ -22115,6 +22122,21 @@
   {
     "item": "Cold Iron Point",
     "stats": "#% chance to gain unholy might for 3 seconds on kill",
+    "average": 33.8,
+    "prices": [
+      10,
+      20,
+      40,
+      49,
+      50,
+      239.89,
+      479.78
+    ],
+    "search": {
+      "id": "9Y2wm70uK",
+      "complexity": 18,
+      "total": 7
+    },
     "builds": 3,
     "mods": [
       {
@@ -22128,6 +22150,15 @@
   {
     "item": "Primordial Might",
     "stats": "#% increased reservation efficiency of skills",
+    "average": 10795.05,
+    "prices": [
+      10795.05
+    ],
+    "search": {
+      "id": "vlPLVJXtE",
+      "complexity": 19,
+      "total": 1
+    },
     "builds": 3,
     "mods": [
       {
@@ -22142,6 +22173,13 @@
   {
     "item": "Legacy of Fury",
     "stats": "+# to level of socketed gems, +# to level of socketed aura gems",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "KJDw0XDs5",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 3,
     "mods": [
       {
@@ -22161,6 +22199,15 @@
   {
     "item": "Melding of the Flesh",
     "stats": "#% reduced effect of curses on you",
+    "average": 239.89,
+    "prices": [
+      239.89
+    ],
+    "search": {
+      "id": "2BrwWk5ik",
+      "complexity": 18,
+      "total": 1
+    },
     "builds": 3,
     "mods": [
       {
@@ -22174,6 +22221,13 @@
   {
     "item": "Melding of the Flesh",
     "stats": "#% increased reservation efficiency of skills",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "pXjmDQXS0",
+      "complexity": 19,
+      "total": 0
+    },
     "builds": 3,
     "mods": [
       {
@@ -22188,6 +22242,13 @@
   {
     "item": "Melding of the Flesh",
     "stats": "you cannot be maimed",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "KJDwkMqh5",
+      "complexity": 18,
+      "total": 0
+    },
     "builds": 3,
     "mods": [
       {
@@ -22276,6 +22337,21 @@
   {
     "item": "Death's Oath",
     "stats": "+# to level of socketed gems",
+    "average": 719.67,
+    "prices": [
+      239.89,
+      479.78,
+      479.78,
+      479.78,
+      1199.4499999999998,
+      1439.34,
+      2398.8999999999996
+    ],
+    "search": {
+      "id": "YVqPX3rsY",
+      "complexity": 18,
+      "total": 7
+    },
     "builds": 3,
     "mods": [
       {
