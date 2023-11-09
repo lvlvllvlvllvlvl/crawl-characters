@@ -20562,6 +20562,25 @@
   },
   {
     "item": "Thread of Hope",
+    "stats": "damage penetrates #% fire resistance, corrupted blood cannot be inflicted on you",
+    "builds": 3,
+    "mods": [
+      {
+        "text": "damage penetrates #% fire resistance",
+        "trade_ids": [
+          "implicit.stat_2653955271"
+        ]
+      },
+      {
+        "text": "corrupted blood cannot be inflicted on you",
+        "trade_ids": [
+          "implicit.stat_1658498488"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Thread of Hope",
     "stats": "#% increased area of effect",
     "average": 1739.23,
     "prices": [
@@ -23331,6 +23350,13 @@
   {
     "item": "Mageblood",
     "stats": "#% increased maximum energy shield, +#% to all elemental resistances",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "KJD7vggF5",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 2,
     "mods": [
       {
@@ -23452,6 +23478,16 @@
   {
     "item": "Mageblood",
     "stats": "anger has #% increased aura effect",
+    "average": 117546.1,
+    "prices": [
+      115147.2,
+      119945
+    ],
+    "search": {
+      "id": "YVqrE7RhY",
+      "complexity": 18,
+      "total": 2
+    },
     "builds": 2,
     "mods": [
       {
@@ -23465,6 +23501,13 @@
   {
     "item": "Mageblood",
     "stats": "#% increased dexterity, #% increased intelligence, zealotry has #% increased aura effect",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "vlPqEbWtE",
+      "complexity": 20,
+      "total": 0
+    },
     "builds": 2,
     "mods": [
       {
@@ -23602,6 +23645,13 @@
   {
     "item": "Mageblood",
     "stats": "discipline has #% increased aura effect, +#% to critical strike multiplier during any flask effect",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "KJD7Glyc5",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 2,
     "mods": [
       {
@@ -23621,6 +23671,13 @@
   {
     "item": "Mageblood",
     "stats": "+#% to all elemental resistances, #% increased attack speed during any flask effect",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "rXjqpPGuQ",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 2,
     "mods": [
       {
@@ -23640,6 +23697,13 @@
   {
     "item": "Mageblood",
     "stats": "#% increased area of effect",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "8a2eprBhV",
+      "complexity": 18,
+      "total": 0
+    },
     "builds": 2,
     "mods": [
       {
@@ -30724,25 +30788,6 @@
         "text": "damage penetrates #% cold resistance",
         "trade_ids": [
           "implicit.stat_3417711605"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Thread of Hope",
-    "stats": "damage penetrates #% fire resistance, corrupted blood cannot be inflicted on you",
-    "builds": 2,
-    "mods": [
-      {
-        "text": "damage penetrates #% fire resistance",
-        "trade_ids": [
-          "implicit.stat_2653955271"
-        ]
-      },
-      {
-        "text": "corrupted blood cannot be inflicted on you",
-        "trade_ids": [
-          "implicit.stat_1658498488"
         ]
       }
     ]
