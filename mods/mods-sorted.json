@@ -237,7 +237,7 @@
       "complexity": 18,
       "total": 71
     },
-    "builds": 62,
+    "builds": 63,
     "mods": [
       {
         "text": "+# to level of socketed aoe gems",
@@ -1654,6 +1654,37 @@
     ]
   },
   {
+    "item": "Vixen's Entrapment",
+    "stats": "#% increased cast speed",
+    "average": 44,
+    "prices": [
+      15,
+      25,
+      30,
+      40,
+      50,
+      50,
+      50,
+      50,
+      60,
+      70
+    ],
+    "search": {
+      "id": "PK7l22JCL",
+      "complexity": 18,
+      "total": 52
+    },
+    "builds": 22,
+    "mods": [
+      {
+        "text": "#% increased cast speed",
+        "trade_ids": [
+          "implicit.stat_2891184298"
+        ]
+      }
+    ]
+  },
+  {
     "item": "Intuitive Leap",
     "stats": "corrupted blood cannot be inflicted on you",
     "average": 4842.143999999999,
@@ -1835,37 +1866,6 @@
         "text": "+# to level of socketed aoe gems",
         "trade_ids": [
           "implicit.stat_2551600084"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Vixen's Entrapment",
-    "stats": "#% increased cast speed",
-    "average": 44,
-    "prices": [
-      15,
-      25,
-      30,
-      40,
-      50,
-      50,
-      50,
-      50,
-      60,
-      70
-    ],
-    "search": {
-      "id": "PK7l22JCL",
-      "complexity": 18,
-      "total": 52
-    },
-    "builds": 21,
-    "mods": [
-      {
-        "text": "#% increased cast speed",
-        "trade_ids": [
-          "implicit.stat_2891184298"
         ]
       }
     ]
@@ -29635,6 +29635,15 @@
   {
     "item": "Dialla's Malefaction",
     "stats": "+# to level of socketed curse gems, #% reduced chaos damage taken",
+    "average": 959.52,
+    "prices": [
+      959.52
+    ],
+    "search": {
+      "id": "qXjOG3Xtg",
+      "complexity": 29,
+      "total": 1
+    },
     "builds": 2,
     "mods": [
       {
@@ -29654,6 +29663,13 @@
   {
     "item": "Dialla's Malefaction",
     "stats": "+# to level of socketed gems, #% increased maximum energy shield",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "mXjOGYMH6",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 2,
     "mods": [
       {
@@ -29673,6 +29689,13 @@
   {
     "item": "Dialla's Malefaction",
     "stats": "+# to level of socketed gems, +# to level of socketed curse gems",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "lXjOGaQhV",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 2,
     "mods": [
       {
@@ -29692,6 +29715,13 @@
   {
     "item": "Dialla's Malefaction",
     "stats": "+# to level of socketed minion gems, +#% to all maximum resistances",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "pXjOErdH0",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 2,
     "mods": [
       {
@@ -29711,6 +29741,18 @@
   {
     "item": "Dialla's Malefaction",
     "stats": "#% increased damage",
+    "average": 6477.029999999999,
+    "prices": [
+      5277.58,
+      5757.36,
+      8396.15,
+      47978
+    ],
+    "search": {
+      "id": "rXjOm2rfQ",
+      "complexity": 18,
+      "total": 4
+    },
     "builds": 2,
     "mods": [
       {
@@ -29724,6 +29766,16 @@
   {
     "item": "Dialla's Malefaction",
     "stats": "+# to level of socketed curse gems, +# to level of socketed trap or mine gems",
+    "average": 9595.599999999999,
+    "prices": [
+      9595.599999999999,
+      9595.599999999999
+    ],
+    "search": {
+      "id": "Ey6ednRh5",
+      "complexity": 29,
+      "total": 2
+    },
     "builds": 2,
     "mods": [
       {
@@ -29743,6 +29795,13 @@
   {
     "item": "Dialla's Malefaction",
     "stats": "+# to level of socketed projectile gems, +# to level of socketed trap or mine gems",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "DL894mBS5",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 2,
     "mods": [
       {
@@ -29762,6 +29821,13 @@
   {
     "item": "Dialla's Malefaction",
     "stats": "+# to level of socketed aoe gems, #% reduced fire damage taken",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "gXWOJ2KUQ",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 2,
     "mods": [
       {
