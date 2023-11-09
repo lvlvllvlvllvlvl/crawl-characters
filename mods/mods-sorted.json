@@ -32791,6 +32791,19 @@
   },
   {
     "item": "Rearguard",
+    "stats": "projectiles deal #% increased damage with hits and ailments for each time they have chained",
+    "builds": 2,
+    "mods": [
+      {
+        "text": "projectiles deal #% increased damage with hits and ailments for each time they have chained",
+        "trade_ids": [
+          "implicit.stat_1923210508"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Rearguard",
     "stats": "projectiles deal #% increased damage with hits and ailments for each enemy pierced",
     "builds": 2,
     "mods": [
@@ -58021,6 +58034,19 @@
   },
   {
     "item": "Watcher's Eye",
+    "stats": "you cannot be maimed",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "you cannot be maimed",
+        "trade_ids": [
+          "implicit.stat_1126826428"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Watcher's Eye",
     "stats": "#% reduced ignite duration on you, #% increased area of effect",
     "builds": 1,
     "mods": [
@@ -81131,19 +81157,6 @@
         "text": "point blank",
         "trade_ids": [
           "implicit.stat_2896346114"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Rearguard",
-    "stats": "projectiles deal #% increased damage with hits and ailments for each time they have chained",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "projectiles deal #% increased damage with hits and ailments for each time they have chained",
-        "trade_ids": [
-          "implicit.stat_1923210508"
         ]
       }
     ]
