@@ -25316,6 +25316,19 @@
   },
   {
     "item": "Darkray Vectors",
+    "stats": "#% increased maximum life",
+    "builds": 2,
+    "mods": [
+      {
+        "text": "#% increased maximum life",
+        "trade_ids": [
+          "implicit.stat_983749596"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Darkray Vectors",
     "stats": "+#% chance to suppress spell damage, regenerate # life per second while moving",
     "average": 959.56,
     "prices": [
@@ -26044,6 +26057,13 @@
   {
     "item": "Unnatural Instinct",
     "stats": "#% reduced ignite duration on you, #% increased reservation efficiency of skills",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "2BrMpJ0ck",
+      "complexity": 30,
+      "total": 0
+    },
     "builds": 2,
     "mods": [
       {
@@ -26064,6 +26084,13 @@
   {
     "item": "Unnatural Instinct",
     "stats": "#% increased damage, corrupted blood cannot be inflicted on you",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "LmdynljIn",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 2,
     "mods": [
       {
@@ -26083,6 +26110,13 @@
   {
     "item": "Unnatural Instinct",
     "stats": "overwhelm #% physical damage reduction, damage penetrates #% elemental resistances",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "y9RZBPqHR",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 2,
     "mods": [
       {
@@ -26102,6 +26136,13 @@
   {
     "item": "Unnatural Instinct",
     "stats": "corrupted blood cannot be inflicted on you, #% reduced bleed duration on you",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "kXj5Gm5c5",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 2,
     "mods": [
       {
@@ -26121,6 +26162,17 @@
   {
     "item": "Unnatural Instinct",
     "stats": "damage penetrates #% elemental resistances",
+    "average": 3518.3866666666668,
+    "prices": [
+      2398.8999999999996,
+      2878.68,
+      5277.58
+    ],
+    "search": {
+      "id": "gXWEgMOsQ",
+      "complexity": 18,
+      "total": 3
+    },
     "builds": 2,
     "mods": [
       {
@@ -26134,6 +26186,13 @@
   {
     "item": "Unnatural Instinct",
     "stats": "#% increased global critical strike chance, #% reduced effect of curses on you",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "kXj56j5I5",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 2,
     "mods": [
       {
@@ -26153,6 +26212,13 @@
   {
     "item": "Unnatural Instinct",
     "stats": "you cannot be maimed, you cannot be hindered",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "RVBRaBgs7",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 2,
     "mods": [
       {
@@ -26172,6 +26238,13 @@
   {
     "item": "Unnatural Instinct",
     "stats": "damage penetrates #% fire resistance, you cannot be maimed",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "7l5bq57t5",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 2,
     "mods": [
       {
@@ -26191,6 +26264,13 @@
   {
     "item": "Unnatural Instinct",
     "stats": "#% reduced effect of curses on you, #% reduced poison duration on you",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "6ZkbXk9cG",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 2,
     "mods": [
       {
@@ -26210,6 +26290,13 @@
   {
     "item": "Unnatural Instinct",
     "stats": "#% increased damage, you cannot be maimed",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "Gkdr4dYsb",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 2,
     "mods": [
       {
@@ -35798,6 +35885,25 @@
     ]
   },
   {
+    "item": "Replica Farrul's Fur",
+    "stats": "+# to level of socketed duration gems, #% increased maximum life",
+    "builds": 2,
+    "mods": [
+      {
+        "text": "+# to level of socketed duration gems",
+        "trade_ids": [
+          "implicit.stat_2115168758"
+        ]
+      },
+      {
+        "text": "#% increased maximum life",
+        "trade_ids": [
+          "implicit.stat_983749596"
+        ]
+      }
+    ]
+  },
+  {
     "item": "Dance of the Offered",
     "stats": "+# to level of socketed gems",
     "builds": 2,
@@ -36812,6 +36918,25 @@
         "text": "hatred has #% increased aura effect",
         "trade_ids": [
           "implicit.stat_3742945352"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Mageblood",
+    "stats": "#% increased maximum life, +#% to critical strike multiplier during any flask effect",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "#% increased maximum life",
+        "trade_ids": [
+          "implicit.stat_983749596"
+        ]
+      },
+      {
+        "text": "+#% to critical strike multiplier during any flask effect",
+        "trade_ids": [
+          "implicit.stat_240289863"
         ]
       }
     ]
@@ -40711,19 +40836,6 @@
           "implicit.stat_2843100721"
         ]
       },
-      {
-        "text": "#% increased maximum life",
-        "trade_ids": [
-          "implicit.stat_983749596"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Darkray Vectors",
-    "stats": "#% increased maximum life",
-    "builds": 1,
-    "mods": [
       {
         "text": "#% increased maximum life",
         "trade_ids": [
@@ -91629,25 +91741,6 @@
         "text": "regenerate #% of life per second",
         "trade_ids": [
           "implicit.stat_836936635"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Replica Farrul's Fur",
-    "stats": "+# to level of socketed duration gems, #% increased maximum life",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "+# to level of socketed duration gems",
-        "trade_ids": [
-          "implicit.stat_2115168758"
-        ]
-      },
-      {
-        "text": "#% increased maximum life",
-        "trade_ids": [
-          "implicit.stat_983749596"
         ]
       }
     ]
