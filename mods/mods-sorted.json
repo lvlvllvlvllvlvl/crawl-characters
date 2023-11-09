@@ -5176,6 +5176,34 @@
     ]
   },
   {
+    "item": "Primordial Eminence",
+    "stats": "corrupted blood cannot be inflicted on you",
+    "average": 1150.1066666666666,
+    "prices": [
+      584.8,
+      935.68,
+      935.68,
+      1169.6,
+      1637.4399999999998,
+      1637.4399999999998,
+      2807.04
+    ],
+    "search": {
+      "id": "80ZJ5VZcV",
+      "complexity": 18,
+      "total": 7
+    },
+    "builds": 10,
+    "mods": [
+      {
+        "text": "corrupted blood cannot be inflicted on you",
+        "trade_ids": [
+          "implicit.stat_1658498488"
+        ]
+      }
+    ]
+  },
+  {
     "item": "Legacy of Fury",
     "stats": "#% increased movement speed",
     "average": 53.5,
@@ -5910,34 +5938,6 @@
         "text": "+# to level of socketed aoe gems",
         "trade_ids": [
           "implicit.stat_2551600084"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Primordial Eminence",
-    "stats": "corrupted blood cannot be inflicted on you",
-    "average": 1150.1066666666666,
-    "prices": [
-      584.8,
-      935.68,
-      935.68,
-      1169.6,
-      1637.4399999999998,
-      1637.4399999999998,
-      2807.04
-    ],
-    "search": {
-      "id": "80ZJ5VZcV",
-      "complexity": 18,
-      "total": 7
-    },
-    "builds": 9,
-    "mods": [
-      {
-        "text": "corrupted blood cannot be inflicted on you",
-        "trade_ids": [
-          "implicit.stat_1658498488"
         ]
       }
     ]
@@ -11159,6 +11159,31 @@
     ]
   },
   {
+    "item": "Primordial Eminence",
+    "stats": "you cannot be maimed",
+    "average": 153.075,
+    "prices": [
+      65,
+      80,
+      233.65,
+      233.65
+    ],
+    "search": {
+      "id": "OpJ7lKrtE",
+      "complexity": 18,
+      "total": 4
+    },
+    "builds": 5,
+    "mods": [
+      {
+        "text": "you cannot be maimed",
+        "trade_ids": [
+          "implicit.stat_1126826428"
+        ]
+      }
+    ]
+  },
+  {
     "item": "Skin of the Loyal",
     "stats": "+# to level of socketed gems, +# to level of socketed aoe gems",
     "average": 7196.7,
@@ -15065,31 +15090,6 @@
         "text": "+# to level of socketed projectile gems",
         "trade_ids": [
           "implicit.stat_2176571093"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Primordial Eminence",
-    "stats": "you cannot be maimed",
-    "average": 153.075,
-    "prices": [
-      65,
-      80,
-      233.65,
-      233.65
-    ],
-    "search": {
-      "id": "OpJ7lKrtE",
-      "complexity": 18,
-      "total": 4
-    },
-    "builds": 4,
-    "mods": [
-      {
-        "text": "you cannot be maimed",
-        "trade_ids": [
-          "implicit.stat_1126826428"
         ]
       }
     ]
@@ -20966,6 +20966,19 @@
   },
   {
     "item": "Arn's Anguish",
+    "stats": "zealotry has #% increased aura effect",
+    "builds": 3,
+    "mods": [
+      {
+        "text": "zealotry has #% increased aura effect",
+        "trade_ids": [
+          "implicit.stat_4096052153"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Arn's Anguish",
     "stats": "#% increased strength, #% increased intelligence",
     "average": 153.33333333333334,
     "prices": [
@@ -23717,6 +23730,13 @@
   {
     "item": "Mageblood",
     "stats": "#% increased maximum energy shield, wrath has #% increased aura effect",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "6ZkYV80hG",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 2,
     "mods": [
       {
@@ -23761,6 +23781,13 @@
   {
     "item": "Mageblood",
     "stats": "#% increased skill effect duration, malevolence has #% increased aura effect",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "GkdW3oDib",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 2,
     "mods": [
       {
@@ -23838,6 +23865,15 @@
   {
     "item": "Mageblood",
     "stats": "anger has #% increased aura effect, +#% to critical strike multiplier during any flask effect",
+    "average": 119945,
+    "prices": [
+      119945
+    ],
+    "search": {
+      "id": "BEJymBwf8",
+      "complexity": 29,
+      "total": 1
+    },
     "builds": 2,
     "mods": [
       {
@@ -23857,6 +23893,13 @@
   {
     "item": "Mageblood",
     "stats": "#% increased dexterity, #% increased intelligence, #% increased maximum energy shield",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "0B865jwFg",
+      "complexity": 20,
+      "total": 0
+    },
     "builds": 2,
     "mods": [
       {
@@ -31083,19 +31126,6 @@
   },
   {
     "item": "Arn's Anguish",
-    "stats": "zealotry has #% increased aura effect",
-    "builds": 2,
-    "mods": [
-      {
-        "text": "zealotry has #% increased aura effect",
-        "trade_ids": [
-          "implicit.stat_4096052153"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Arn's Anguish",
     "stats": "#% increased attack speed during any flask effect, +#% to critical strike multiplier during any flask effect",
     "builds": 2,
     "mods": [
@@ -31282,6 +31312,19 @@
         "text": "curse enemies with elemental weakness on hit",
         "trade_ids": [
           "implicit.stat_2028847114"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "The Anima Stone",
+    "stats": "you cannot be hindered",
+    "builds": 2,
+    "mods": [
+      {
+        "text": "you cannot be hindered",
+        "trade_ids": [
+          "implicit.stat_721014846"
         ]
       }
     ]
@@ -68030,19 +68073,6 @@
         "text": "+# to maximum frenzy charges",
         "trade_ids": [
           "implicit.stat_4078695"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "The Anima Stone",
-    "stats": "you cannot be hindered",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "you cannot be hindered",
-        "trade_ids": [
-          "implicit.stat_721014846"
         ]
       }
     ]
