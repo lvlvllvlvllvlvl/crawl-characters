@@ -1809,6 +1809,37 @@
     ]
   },
   {
+    "item": "Belly of the Beast",
+    "stats": "+# to level of socketed aoe gems",
+    "average": 137.01777777777775,
+    "prices": [
+      25,
+      58.9,
+      59,
+      100,
+      140,
+      150,
+      233.42,
+      233.42,
+      233.42,
+      700.26
+    ],
+    "search": {
+      "id": "jPpMq8btX",
+      "complexity": 18,
+      "total": 39
+    },
+    "builds": 21,
+    "mods": [
+      {
+        "text": "+# to level of socketed aoe gems",
+        "trade_ids": [
+          "implicit.stat_2551600084"
+        ]
+      }
+    ]
+  },
+  {
     "item": "Vixen's Entrapment",
     "stats": "#% increased cast speed",
     "average": 44,
@@ -1986,37 +2017,6 @@
         "text": "corrupted blood cannot be inflicted on you",
         "trade_ids": [
           "implicit.stat_1658498488"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Belly of the Beast",
-    "stats": "+# to level of socketed aoe gems",
-    "average": 137.01777777777775,
-    "prices": [
-      25,
-      58.9,
-      59,
-      100,
-      140,
-      150,
-      233.42,
-      233.42,
-      233.42,
-      700.26
-    ],
-    "search": {
-      "id": "jPpMq8btX",
-      "complexity": 18,
-      "total": 39
-    },
-    "builds": 20,
-    "mods": [
-      {
-        "text": "+# to level of socketed aoe gems",
-        "trade_ids": [
-          "implicit.stat_2551600084"
         ]
       }
     ]
@@ -26853,6 +26853,17 @@
   {
     "item": "Unnatural Instinct",
     "stats": "damage penetrates #% cold resistance",
+    "average": 2798.7166666666667,
+    "prices": [
+      2398.8999999999996,
+      2638.79,
+      3358.46
+    ],
+    "search": {
+      "id": "qXjVzKPSg",
+      "complexity": 18,
+      "total": 3
+    },
     "builds": 2,
     "mods": [
       {
@@ -26866,6 +26877,20 @@
   {
     "item": "Unnatural Instinct",
     "stats": "#% reduced effect of shock on you",
+    "average": 4270.0419999999995,
+    "prices": [
+      2878.68,
+      2878.68,
+      2878.68,
+      5997.25,
+      6716.92,
+      23989
+    ],
+    "search": {
+      "id": "mXjDzewt6",
+      "complexity": 18,
+      "total": 6
+    },
     "builds": 2,
     "mods": [
       {
@@ -26957,6 +26982,13 @@
   {
     "item": "Unnatural Instinct",
     "stats": "#% increased area of effect, #% increased reservation efficiency of skills",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "6Zkbe0ksG",
+      "complexity": 30,
+      "total": 0
+    },
     "builds": 2,
     "mods": [
       {
@@ -26977,6 +27009,13 @@
   {
     "item": "Unnatural Instinct",
     "stats": "#% reduced ignite duration on you, you cannot be cursed with silence",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "PdDgXqZhL",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 2,
     "mods": [
       {
@@ -26996,6 +27035,15 @@
   {
     "item": "Unnatural Instinct",
     "stats": "#% increased global critical strike chance, #% reduced poison duration on you",
+    "average": 2398.8999999999996,
+    "prices": [
+      2398.8999999999996
+    ],
+    "search": {
+      "id": "XqDGZwdHP",
+      "complexity": 29,
+      "total": 1
+    },
     "builds": 2,
     "mods": [
       {
@@ -27015,6 +27063,15 @@
   {
     "item": "Unnatural Instinct",
     "stats": "#% reduced effect of chill on you, #% reduced effect of shock on you",
+    "average": 2878.68,
+    "prices": [
+      2878.68
+    ],
+    "search": {
+      "id": "0B8wo7ecg",
+      "complexity": 29,
+      "total": 1
+    },
     "builds": 2,
     "mods": [
       {
@@ -27034,6 +27091,13 @@
   {
     "item": "Unnatural Instinct",
     "stats": "#% increased global critical strike chance, corrupted blood cannot be inflicted on you",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "dXWKEwPsJ",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 2,
     "mods": [
       {
