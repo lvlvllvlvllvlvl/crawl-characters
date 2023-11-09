@@ -1408,6 +1408,37 @@
     ]
   },
   {
+    "item": "Haemophilia",
+    "stats": "curse enemies with vulnerability on hit",
+    "average": 466.34000000000003,
+    "prices": [
+      419.70599999999996,
+      466.34,
+      466.34,
+      466.34,
+      466.34,
+      466.34,
+      466.34,
+      466.34,
+      466.34,
+      466.34
+    ],
+    "search": {
+      "id": "W5XVezVsm",
+      "complexity": 18,
+      "total": 46
+    },
+    "builds": 24,
+    "mods": [
+      {
+        "text": "curse enemies with vulnerability on hit",
+        "trade_ids": [
+          "implicit.stat_3967845372"
+        ]
+      }
+    ]
+  },
+  {
     "item": "Soul Mantle",
     "stats": "+# to level of socketed projectile gems",
     "average": 183.43600000000004,
@@ -1556,37 +1587,6 @@
         "text": "+# to level of socketed gems",
         "trade_ids": [
           "implicit.stat_2843100721"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Haemophilia",
-    "stats": "curse enemies with vulnerability on hit",
-    "average": 466.34000000000003,
-    "prices": [
-      419.70599999999996,
-      466.34,
-      466.34,
-      466.34,
-      466.34,
-      466.34,
-      466.34,
-      466.34,
-      466.34,
-      466.34
-    ],
-    "search": {
-      "id": "W5XVezVsm",
-      "complexity": 18,
-      "total": 46
-    },
-    "builds": 23,
-    "mods": [
-      {
-        "text": "curse enemies with vulnerability on hit",
-        "trade_ids": [
-          "implicit.stat_3967845372"
         ]
       }
     ]
@@ -19845,6 +19845,37 @@
     ]
   },
   {
+    "item": "Watcher's Eye",
+    "stats": "#% increased area of effect",
+    "average": 121.78399999999999,
+    "prices": [
+      40,
+      40,
+      50,
+      100,
+      100,
+      120,
+      150,
+      150,
+      233.92,
+      233.92
+    ],
+    "search": {
+      "id": "kPKoa8Qc5",
+      "complexity": 18,
+      "total": 39
+    },
+    "builds": 3,
+    "mods": [
+      {
+        "text": "#% increased area of effect",
+        "trade_ids": [
+          "implicit.stat_280731498"
+        ]
+      }
+    ]
+  },
+  {
     "item": "Intuitive Leap",
     "stats": "you cannot be hindered",
     "average": 674.7249999999999,
@@ -20974,6 +21005,21 @@
   {
     "item": "Arn's Anguish",
     "stats": "zealotry has #% increased aura effect",
+    "average": 158.956,
+    "prices": [
+      35,
+      80,
+      200,
+      239.89,
+      239.89,
+      479.78,
+      719.67
+    ],
+    "search": {
+      "id": "YVqrzkXsY",
+      "complexity": 18,
+      "total": 7
+    },
     "builds": 3,
     "mods": [
       {
@@ -24056,6 +24102,17 @@
   {
     "item": "Arakaali's Fang",
     "stats": "#% increased damage over time",
+    "average": 273.2233333333333,
+    "prices": [
+      100,
+      239.89,
+      479.78
+    ],
+    "search": {
+      "id": "YVqrz2bcY",
+      "complexity": 18,
+      "total": 3
+    },
     "builds": 2,
     "mods": [
       {
@@ -29856,37 +29913,6 @@
         "text": "#% increased global critical strike chance",
         "trade_ids": [
           "implicit.stat_587431675"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Watcher's Eye",
-    "stats": "#% increased area of effect",
-    "average": 121.78399999999999,
-    "prices": [
-      40,
-      40,
-      50,
-      100,
-      100,
-      120,
-      150,
-      150,
-      233.92,
-      233.92
-    ],
-    "search": {
-      "id": "kPKoa8Qc5",
-      "complexity": 18,
-      "total": 39
-    },
-    "builds": 2,
-    "mods": [
-      {
-        "text": "#% increased area of effect",
-        "trade_ids": [
-          "implicit.stat_280731498"
         ]
       }
     ]
