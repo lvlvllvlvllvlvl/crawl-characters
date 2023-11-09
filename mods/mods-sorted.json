@@ -13267,6 +13267,19 @@
   },
   {
     "item": "Anathema",
+    "stats": "determination has #% increased aura effect",
+    "builds": 4,
+    "mods": [
+      {
+        "text": "determination has #% increased aura effect",
+        "trade_ids": [
+          "implicit.stat_3653400807"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Anathema",
     "stats": "grants level # zealotry skill",
     "average": 258.26666666666665,
     "prices": [
@@ -17519,6 +17532,15 @@
   {
     "item": "Bubonic Trail",
     "stats": "+# to level of socketed aoe gems",
+    "average": 239.89,
+    "prices": [
+      239.89
+    ],
+    "search": {
+      "id": "oXjQjwKhl",
+      "complexity": 18,
+      "total": 1
+    },
     "builds": 3,
     "mods": [
       {
@@ -17578,6 +17600,15 @@
   {
     "item": "The Torrent's Reclamation",
     "stats": "#% increased area of effect, hatred has #% increased aura effect",
+    "average": 1199.4499999999998,
+    "prices": [
+      1199.4499999999998
+    ],
+    "search": {
+      "id": "YVq3qbbcY",
+      "complexity": 29,
+      "total": 1
+    },
     "builds": 3,
     "mods": [
       {
@@ -17597,6 +17628,13 @@
   {
     "item": "The Torrent's Reclamation",
     "stats": "#% increased area of effect, #% increased movement speed during any flask effect",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "9Y2M250uK",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 3,
     "mods": [
       {
@@ -17642,6 +17680,13 @@
   {
     "item": "The Torrent's Reclamation",
     "stats": "#% increased maximum energy shield, grace has #% increased aura effect",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "BEJMQajc8",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 3,
     "mods": [
       {
@@ -17795,6 +17840,15 @@
   {
     "item": "Might of the Meek",
     "stats": "#% reduced effect of shock on you",
+    "average": 50,
+    "prices": [
+      50
+    ],
+    "search": {
+      "id": "OVwMnjzuE",
+      "complexity": 18,
+      "total": 1
+    },
     "builds": 3,
     "mods": [
       {
@@ -17808,6 +17862,13 @@
   {
     "item": "Cloak of Flame",
     "stats": "+# to level of socketed gems, +# to level of socketed projectile gems",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "0B8OaKbFg",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 3,
     "mods": [
       {
@@ -17827,6 +17888,24 @@
   {
     "item": "Cloak of Flame",
     "stats": "#% increased damage",
+    "average": 539.0657142857143,
+    "prices": [
+      100,
+      239.89,
+      315,
+      479.78,
+      479.78,
+      959.56,
+      1199.4499999999998,
+      23989,
+      35983.5,
+      47978
+    ],
+    "search": {
+      "id": "dXWD4GOhJ",
+      "complexity": 18,
+      "total": 12
+    },
     "builds": 3,
     "mods": [
       {
@@ -17840,6 +17919,13 @@
   {
     "item": "The Jinxed Juju",
     "stats": "hatred has #% increased aura effect",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "bXW5pJOTL",
+      "complexity": 18,
+      "total": 0
+    },
     "builds": 3,
     "mods": [
       {
@@ -18473,19 +18559,6 @@
         "text": "+# to level of socketed aura gems",
         "trade_ids": [
           "implicit.stat_2452998583"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Anathema",
-    "stats": "determination has #% increased aura effect",
-    "builds": 3,
-    "mods": [
-      {
-        "text": "determination has #% increased aura effect",
-        "trade_ids": [
-          "implicit.stat_3653400807"
         ]
       }
     ]
@@ -72246,6 +72319,25 @@
   },
   {
     "item": "The Fourth Vow",
+    "stats": "#% reduced fire damage taken, #% additional physical damage reduction while stationary",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "#% reduced fire damage taken",
+        "trade_ids": [
+          "implicit.stat_3743301799"
+        ]
+      },
+      {
+        "text": "#% additional physical damage reduction while stationary",
+        "trade_ids": [
+          "implicit.stat_2181129193"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "The Fourth Vow",
     "stats": "+# to level of socketed aoe gems, +#% to all maximum resistances",
     "builds": 1,
     "mods": [
@@ -90994,6 +91086,19 @@
         "text": "#% increased rarity of items found",
         "trade_ids": [
           "implicit.stat_3917489142"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Soul Ascension",
+    "stats": "curse enemies with temporal chains on hit",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "curse enemies with temporal chains on hit",
+        "trade_ids": [
+          "implicit.stat_3433724931"
         ]
       }
     ]
