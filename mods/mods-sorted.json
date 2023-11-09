@@ -19355,6 +19355,25 @@
   },
   {
     "item": "Incandescent Heart",
+    "stats": "+# to level of socketed duration gems, +# to level of socketed projectile gems",
+    "builds": 3,
+    "mods": [
+      {
+        "text": "+# to level of socketed duration gems",
+        "trade_ids": [
+          "implicit.stat_2115168758"
+        ]
+      },
+      {
+        "text": "+# to level of socketed projectile gems",
+        "trade_ids": [
+          "implicit.stat_2176571093"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Incandescent Heart",
     "stats": "+# to level of socketed aura gems, #% increased damage",
     "average": null,
     "prices": [],
@@ -25482,6 +25501,25 @@
   },
   {
     "item": "Aegis Aurora",
+    "stats": "+# to level of socketed aura gems, #% of physical damage from hits taken as chaos damage",
+    "builds": 2,
+    "mods": [
+      {
+        "text": "+# to level of socketed aura gems",
+        "trade_ids": [
+          "implicit.stat_2452998583"
+        ]
+      },
+      {
+        "text": "#% of physical damage from hits taken as chaos damage",
+        "trade_ids": [
+          "implicit.stat_4129825612"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Aegis Aurora",
     "stats": "+# to level of socketed aura gems, +# to level of socketed warcry gems",
     "builds": 2,
     "mods": [
@@ -28497,25 +28535,6 @@
         "text": "you take #% reduced extra damage from critical strikes",
         "trade_ids": [
           "implicit.stat_3855016469"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Incandescent Heart",
-    "stats": "+# to level of socketed duration gems, +# to level of socketed projectile gems",
-    "builds": 2,
-    "mods": [
-      {
-        "text": "+# to level of socketed duration gems",
-        "trade_ids": [
-          "implicit.stat_2115168758"
-        ]
-      },
-      {
-        "text": "+# to level of socketed projectile gems",
-        "trade_ids": [
-          "implicit.stat_2176571093"
         ]
       }
     ]
@@ -41800,25 +41819,6 @@
         "text": "#% of physical damage from hits taken as fire damage",
         "trade_ids": [
           "implicit.stat_3342989455"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Aegis Aurora",
-    "stats": "+# to level of socketed aura gems, #% of physical damage from hits taken as chaos damage",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "+# to level of socketed aura gems",
-        "trade_ids": [
-          "implicit.stat_2452998583"
-        ]
-      },
-      {
-        "text": "#% of physical damage from hits taken as chaos damage",
-        "trade_ids": [
-          "implicit.stat_4129825612"
         ]
       }
     ]
@@ -60940,6 +60940,37 @@
         "text": "#% increased cast speed",
         "trade_ids": [
           "implicit.stat_2891184298"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Hands of the High Templar",
+    "stats": "+# to level of socketed gems, +# to level of socketed aoe gems, #% increased maximum energy shield, curse enemies with temporal chains on hit",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "+# to level of socketed gems",
+        "trade_ids": [
+          "implicit.stat_2843100721"
+        ]
+      },
+      {
+        "text": "+# to level of socketed aoe gems",
+        "trade_ids": [
+          "implicit.stat_2551600084"
+        ]
+      },
+      {
+        "text": "#% increased maximum energy shield",
+        "trade_ids": [
+          "implicit.stat_2482852589"
+        ]
+      },
+      {
+        "text": "curse enemies with temporal chains on hit",
+        "trade_ids": [
+          "implicit.stat_3433724931"
         ]
       }
     ]
