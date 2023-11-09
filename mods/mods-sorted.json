@@ -12847,6 +12847,32 @@
   },
   {
     "item": "Dialla's Malefaction",
+    "stats": "+# to level of socketed aoe gems, #% reduced chaos damage taken",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "jXj7RKLfX",
+      "complexity": 29,
+      "total": 0
+    },
+    "builds": 4,
+    "mods": [
+      {
+        "text": "+# to level of socketed aoe gems",
+        "trade_ids": [
+          "implicit.stat_2551600084"
+        ]
+      },
+      {
+        "text": "#% reduced chaos damage taken",
+        "trade_ids": [
+          "implicit.stat_2960683632"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Dialla's Malefaction",
     "stats": "+# to level of socketed gems, you take #% reduced extra damage from critical strikes",
     "average": null,
     "prices": [],
@@ -18315,32 +18341,6 @@
   },
   {
     "item": "Dialla's Malefaction",
-    "stats": "+# to level of socketed aoe gems, #% reduced chaos damage taken",
-    "average": null,
-    "prices": [],
-    "search": {
-      "id": "jXj7RKLfX",
-      "complexity": 29,
-      "total": 0
-    },
-    "builds": 3,
-    "mods": [
-      {
-        "text": "+# to level of socketed aoe gems",
-        "trade_ids": [
-          "implicit.stat_2551600084"
-        ]
-      },
-      {
-        "text": "#% reduced chaos damage taken",
-        "trade_ids": [
-          "implicit.stat_2960683632"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Dialla's Malefaction",
     "stats": "+# to level of socketed gems",
     "average": 35743.61,
     "prices": [
@@ -19798,6 +19798,16 @@
   {
     "item": "Watcher's Eye",
     "stats": "damage penetrates #% elemental resistances",
+    "average": 101710.58899999999,
+    "prices": [
+      239.89,
+      203181.28799999997
+    ],
+    "search": {
+      "id": "dXWDzRPsJ",
+      "complexity": 18,
+      "total": 2
+    },
     "builds": 3,
     "mods": [
       {
@@ -19811,6 +19821,16 @@
   {
     "item": "Intuitive Leap",
     "stats": "you cannot be hindered",
+    "average": 674.7249999999999,
+    "prices": [
+      150,
+      1199.4499999999998
+    ],
+    "search": {
+      "id": "waPQLqKhb",
+      "complexity": 18,
+      "total": 2
+    },
     "builds": 3,
     "mods": [
       {
@@ -19824,6 +19844,15 @@
   {
     "item": "Intuitive Leap",
     "stats": "damage penetrates #% lightning resistance",
+    "average": 239.89,
+    "prices": [
+      239.89
+    ],
+    "search": {
+      "id": "nXjQeqMt0",
+      "complexity": 18,
+      "total": 1
+    },
     "builds": 3,
     "mods": [
       {
@@ -19837,6 +19866,15 @@
   {
     "item": "Intuitive Leap",
     "stats": "#% reduced effect of chill on you",
+    "average": 479.78,
+    "prices": [
+      479.78
+    ],
+    "search": {
+      "id": "zeBwkqRs4",
+      "complexity": 18,
+      "total": 1
+    },
     "builds": 3,
     "mods": [
       {
@@ -19872,6 +19910,16 @@
   {
     "item": "Intuitive Leap",
     "stats": "#% increased damage",
+    "average": 649.7249999999999,
+    "prices": [
+      100,
+      1199.4499999999998
+    ],
+    "search": {
+      "id": "dXWDO5OiJ",
+      "complexity": 18,
+      "total": 2
+    },
     "builds": 3,
     "mods": [
       {
