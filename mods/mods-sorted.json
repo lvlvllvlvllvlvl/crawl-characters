@@ -20077,6 +20077,15 @@
   {
     "item": "Greed's Embrace",
     "stats": "#% increased damage, #% increased maximum energy shield",
+    "average": 1199.4499999999998,
+    "prices": [
+      1199.4499999999998
+    ],
+    "search": {
+      "id": "qXjQy7lCg",
+      "complexity": 29,
+      "total": 1
+    },
     "builds": 3,
     "mods": [
       {
@@ -20096,6 +20105,13 @@
   {
     "item": "Greed's Embrace",
     "stats": "you take #% reduced extra damage from critical strikes, #% reduced cold damage taken",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "mXjQ25Bu6",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 3,
     "mods": [
       {
@@ -20115,6 +20131,13 @@
   {
     "item": "Greed's Embrace",
     "stats": "+# to level of socketed aoe gems, +# to level of socketed minion gems",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "lXjQr5wUV",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 3,
     "mods": [
       {
@@ -20134,6 +20157,15 @@
   {
     "item": "Greed's Embrace",
     "stats": "+# to level of socketed duration gems, +# to level of socketed aoe gems",
+    "average": 14393.4,
+    "prices": [
+      14393.4
+    ],
+    "search": {
+      "id": "YVq30kOFY",
+      "complexity": 29,
+      "total": 1
+    },
     "builds": 3,
     "mods": [
       {
@@ -20153,6 +20185,13 @@
   {
     "item": "Greed's Embrace",
     "stats": "+# to level of socketed projectile gems, #% increased damage",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "9Y2Mlr8fK",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 3,
     "mods": [
       {
@@ -20172,6 +20211,13 @@
   {
     "item": "Greed's Embrace",
     "stats": "#% increased damage, +#% to all maximum resistances",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "DL8wQPBC5",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 3,
     "mods": [
       {
@@ -20191,6 +20237,13 @@
   {
     "item": "Greed's Embrace",
     "stats": "you take #% reduced extra damage from critical strikes, #% reduced chaos damage taken",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "RVBjpGOh7",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 3,
     "mods": [
       {
@@ -20210,6 +20263,13 @@
   {
     "item": "Greed's Embrace",
     "stats": "+# to level of socketed gems, +# to level of socketed aoe gems",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "VMEdeGwCp",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 3,
     "mods": [
       {
@@ -20248,6 +20308,13 @@
   {
     "item": "The Covenant",
     "stats": "+# to level of socketed gems, +# to level of socketed aoe gems",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "GkdwBLBtb",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 3,
     "mods": [
       {
@@ -60882,6 +60949,25 @@
         "text": "you cannot be cursed with silence",
         "trade_ids": [
           "implicit.stat_1654414582"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Lioneye's Fall",
+    "stats": "corrupted blood cannot be inflicted on you, you cannot be hindered",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "corrupted blood cannot be inflicted on you",
+        "trade_ids": [
+          "implicit.stat_1658498488"
+        ]
+      },
+      {
+        "text": "you cannot be hindered",
+        "trade_ids": [
+          "implicit.stat_721014846"
         ]
       }
     ]
