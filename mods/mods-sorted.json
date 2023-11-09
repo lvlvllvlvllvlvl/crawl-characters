@@ -21575,6 +21575,15 @@
   {
     "item": "Stormshroud",
     "stats": "overwhelm #% physical damage reduction",
+    "average": 2398.8999999999996,
+    "prices": [
+      2398.8999999999996
+    ],
+    "search": {
+      "id": "9Y2w9nOtK",
+      "complexity": 18,
+      "total": 1
+    },
     "builds": 3,
     "mods": [
       {
@@ -21588,6 +21597,15 @@
   {
     "item": "Stormshroud",
     "stats": "minions deal #% increased damage",
+    "average": 959.56,
+    "prices": [
+      959.56
+    ],
+    "search": {
+      "id": "3BrM0XKU5",
+      "complexity": 18,
+      "total": 1
+    },
     "builds": 3,
     "mods": [
       {
@@ -21627,6 +21645,23 @@
   {
     "item": "The Fourth Vow",
     "stats": "#% increased damage",
+    "average": 1299.4107142857142,
+    "prices": [
+      100,
+      479.78,
+      959.56,
+      959.56,
+      1919.12,
+      2278.955,
+      2398.8999999999996,
+      8396.15,
+      11994.5
+    ],
+    "search": {
+      "id": "2Brw0Pdik",
+      "complexity": 18,
+      "total": 9
+    },
     "builds": 3,
     "mods": [
       {
@@ -21673,6 +21708,13 @@
   {
     "item": "Seven-League Step",
     "stats": "+# to level of socketed gems",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "vlPLqoXTE",
+      "complexity": 18,
+      "total": 0
+    },
     "builds": 3,
     "mods": [
       {
