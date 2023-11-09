@@ -947,6 +947,30 @@
     ]
   },
   {
+    "item": "Cloak of Flame",
+    "stats": "+# to level of socketed aoe gems",
+    "average": 2878.68,
+    "prices": [
+      2398.8999999999996,
+      2638.79,
+      3598.35
+    ],
+    "search": {
+      "id": "gXWQJY5IQ",
+      "complexity": 18,
+      "total": 3
+    },
+    "builds": 29,
+    "mods": [
+      {
+        "text": "+# to level of socketed aoe gems",
+        "trade_ids": [
+          "implicit.stat_2551600084"
+        ]
+      }
+    ]
+  },
+  {
     "item": "Shaper's Touch",
     "stats": "curse enemies with elemental weakness on hit",
     "average": 239.88999999999996,
@@ -972,30 +996,6 @@
         "text": "curse enemies with elemental weakness on hit",
         "trade_ids": [
           "implicit.stat_2028847114"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Cloak of Flame",
-    "stats": "+# to level of socketed aoe gems",
-    "average": 2878.68,
-    "prices": [
-      2398.8999999999996,
-      2638.79,
-      3598.35
-    ],
-    "search": {
-      "id": "gXWQJY5IQ",
-      "complexity": 18,
-      "total": 3
-    },
-    "builds": 28,
-    "mods": [
-      {
-        "text": "+# to level of socketed aoe gems",
-        "trade_ids": [
-          "implicit.stat_2551600084"
         ]
       }
     ]
@@ -16812,6 +16812,13 @@
   {
     "item": "Unnatural Instinct",
     "stats": "#% increased reservation efficiency of skills, you cannot be cursed with silence",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "Ey6MJvLH5",
+      "complexity": 30,
+      "total": 0
+    },
     "builds": 3,
     "mods": [
       {
@@ -16852,6 +16859,13 @@
   {
     "item": "Unnatural Instinct",
     "stats": "#% increased damage, #% reduced bleed duration on you",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "5okOq7Dia",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 3,
     "mods": [
       {
@@ -16871,6 +16885,13 @@
   {
     "item": "Unnatural Instinct",
     "stats": "#% reduced ignite duration on you, #% increased effect of non-damaging ailments",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "gXWR6v5IQ",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 3,
     "mods": [
       {
@@ -16890,6 +16911,13 @@
   {
     "item": "Unnatural Instinct",
     "stats": "minions deal #% increased damage, you cannot be cursed with silence",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "WVWeB7Ktm",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 3,
     "mods": [
       {
@@ -74386,6 +74414,25 @@
         "text": "zealotry has #% increased aura effect",
         "trade_ids": [
           "implicit.stat_4096052153"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Marylene's Fallacy",
+    "stats": "you can apply an additional curse, malevolence has #% increased aura effect",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "you can apply an additional curse",
+        "trade_ids": [
+          "implicit.stat_30642521"
+        ]
+      },
+      {
+        "text": "malevolence has #% increased aura effect",
+        "trade_ids": [
+          "implicit.stat_4175197580"
         ]
       }
     ]
