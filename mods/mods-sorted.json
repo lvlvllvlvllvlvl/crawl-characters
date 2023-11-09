@@ -10233,6 +10233,26 @@
     ]
   },
   {
+    "item": "Anathema",
+    "stats": "+#% to all elemental resistances",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "jXjMMPXSX",
+      "complexity": 18,
+      "total": 0
+    },
+    "builds": 5,
+    "mods": [
+      {
+        "text": "+#% to all elemental resistances",
+        "trade_ids": [
+          "implicit.stat_2901986750"
+        ]
+      }
+    ]
+  },
+  {
     "item": "Immortal Flesh",
     "stats": "grace has #% increased aura effect",
     "average": 376.5016666666666,
@@ -13436,26 +13456,6 @@
         "text": "bleeding cannot be inflicted on you",
         "trade_ids": [
           "implicit.stat_1901158930"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Anathema",
-    "stats": "+#% to all elemental resistances",
-    "average": null,
-    "prices": [],
-    "search": {
-      "id": "jXjMMPXSX",
-      "complexity": 18,
-      "total": 0
-    },
-    "builds": 4,
-    "mods": [
-      {
-        "text": "+#% to all elemental resistances",
-        "trade_ids": [
-          "implicit.stat_2901986750"
         ]
       }
     ]
@@ -22808,6 +22808,19 @@
     ]
   },
   {
+    "item": "Shavronne's Revelation",
+    "stats": "bleeding cannot be inflicted on you",
+    "builds": 3,
+    "mods": [
+      {
+        "text": "bleeding cannot be inflicted on you",
+        "trade_ids": [
+          "implicit.stat_1901158930"
+        ]
+      }
+    ]
+  },
+  {
     "item": "Primordial Harmony",
     "stats": "#% reduced effect of curses on you",
     "average": 154.96333333333334,
@@ -29174,6 +29187,13 @@
   {
     "item": "Sadima's Touch",
     "stats": "curse enemies with temporal chains on hit, curse enemies with elemental weakness on hit",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "LmdXW3Xhn",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 2,
     "mods": [
       {
@@ -29250,6 +29270,15 @@
   {
     "item": "Goldwyrm",
     "stats": "+#% chance to suppress spell damage, regenerate # life per second while moving",
+    "average": 252739.065,
+    "prices": [
+      252739.065
+    ],
+    "search": {
+      "id": "DL8XEoBS5",
+      "complexity": 30,
+      "total": 1
+    },
     "builds": 2,
     "mods": [
       {
@@ -29270,6 +29299,16 @@
   {
     "item": "Goldwyrm",
     "stats": "+# to level of socketed gems, regenerate # life per second while moving",
+    "average": 2998.625,
+    "prices": [
+      2398.8999999999996,
+      3598.35
+    ],
+    "search": {
+      "id": "RVBX48OF7",
+      "complexity": 29,
+      "total": 2
+    },
     "builds": 2,
     "mods": [
       {
@@ -29302,6 +29341,13 @@
   {
     "item": "Goldwyrm",
     "stats": "+# to level of socketed gems, #% increased maximum life",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "mXjOk0ZC6",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 2,
     "mods": [
       {
@@ -29321,6 +29367,13 @@
   {
     "item": "Goldwyrm",
     "stats": "#% increased movement speed, regenerate # life per second while moving",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "YVq6pGvcY",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 2,
     "mods": [
       {
@@ -36156,19 +36209,6 @@
         "text": "cannot be ignited",
         "trade_ids": [
           "implicit.stat_331731406"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Shavronne's Revelation",
-    "stats": "bleeding cannot be inflicted on you",
-    "builds": 2,
-    "mods": [
-      {
-        "text": "bleeding cannot be inflicted on you",
-        "trade_ids": [
-          "implicit.stat_1901158930"
         ]
       }
     ]
@@ -88825,6 +88865,25 @@
         "text": "+# to maximum frenzy charges",
         "trade_ids": [
           "implicit.stat_4078695"
+        ]
+      },
+      {
+        "text": "+#% to spell critical strike chance",
+        "trade_ids": [
+          "implicit.stat_791835907"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Algor Mortis",
+    "stats": "+# to level of socketed aoe gems, +#% to spell critical strike chance",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "+# to level of socketed aoe gems",
+        "trade_ids": [
+          "implicit.stat_2551600084"
         ]
       },
       {
