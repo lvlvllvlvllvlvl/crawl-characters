@@ -20,7 +20,7 @@
       "complexity": 18,
       "total": 155
     },
-    "builds": 231,
+    "builds": 232,
     "mods": [
       {
         "text": "socketed skill gems get a #% cost & reservation multiplier",
@@ -26465,6 +26465,15 @@
   {
     "item": "Unnatural Instinct",
     "stats": "damage penetrates #% lightning resistance, #% reduced bleed duration on you",
+    "average": 2398.8999999999996,
+    "prices": [
+      2398.8999999999996
+    ],
+    "search": {
+      "id": "5okbl2KUa",
+      "complexity": 29,
+      "total": 1
+    },
     "builds": 2,
     "mods": [
       {
@@ -26510,6 +26519,13 @@
   {
     "item": "Unnatural Instinct",
     "stats": "damage penetrates #% elemental resistances, damage penetrates #% fire resistance",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "6ZkbaE6hG",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 2,
     "mods": [
       {
@@ -26529,6 +26545,13 @@
   {
     "item": "Unnatural Instinct",
     "stats": "#% reduced ignite duration on you, minions deal #% increased damage",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "jXjyMklHX",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 2,
     "mods": [
       {
@@ -26548,6 +26571,13 @@
   {
     "item": "Unnatural Instinct",
     "stats": "#% increased area of effect, #% increased effect of non-damaging ailments",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "BEJeMV4C8",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 2,
     "mods": [
       {
@@ -26567,6 +26597,13 @@
   {
     "item": "Unnatural Instinct",
     "stats": "#% increased global critical strike chance, you cannot be cursed with silence",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "OVwDMrOSE",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 2,
     "mods": [
       {
@@ -30038,6 +30075,25 @@
         "text": "#% increased rarity of items found",
         "trade_ids": [
           "implicit.stat_3917489142"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Crystallised Omniscience",
+    "stats": "hatred has #% increased aura effect, #% increased elemental damage with attack skills",
+    "builds": 2,
+    "mods": [
+      {
+        "text": "hatred has #% increased aura effect",
+        "trade_ids": [
+          "implicit.stat_3742945352"
+        ]
+      },
+      {
+        "text": "#% increased elemental damage with attack skills",
+        "trade_ids": [
+          "implicit.stat_387439868"
         ]
       }
     ]
@@ -56745,25 +56801,6 @@
         "text": "determination has #% increased aura effect",
         "trade_ids": [
           "implicit.stat_3653400807"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Crystallised Omniscience",
-    "stats": "hatred has #% increased aura effect, #% increased elemental damage with attack skills",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "hatred has #% increased aura effect",
-        "trade_ids": [
-          "implicit.stat_3742945352"
-        ]
-      },
-      {
-        "text": "#% increased elemental damage with attack skills",
-        "trade_ids": [
-          "implicit.stat_387439868"
         ]
       }
     ]
