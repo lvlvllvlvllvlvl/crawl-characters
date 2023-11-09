@@ -21385,6 +21385,20 @@
   {
     "item": "The Ivory Tower",
     "stats": "+# to level of socketed projectile gems",
+    "average": 239.89,
+    "prices": [
+      150,
+      239.89,
+      239.89,
+      239.89,
+      2398.8999999999996,
+      16792.3
+    ],
+    "search": {
+      "id": "3BrMQldc5",
+      "complexity": 18,
+      "total": 6
+    },
     "builds": 3,
     "mods": [
       {
@@ -21398,6 +21412,21 @@
   {
     "item": "Heartbound Loop",
     "stats": "bleeding cannot be inflicted on you",
+    "average": 239.89,
+    "prices": [
+      20,
+      200,
+      239.89,
+      239.89,
+      239.89,
+      479.78,
+      719.67
+    ],
+    "search": {
+      "id": "gXWoX0KFQ",
+      "complexity": 18,
+      "total": 7
+    },
     "builds": 3,
     "mods": [
       {
@@ -21442,6 +21471,21 @@
   {
     "item": "Heartbound Loop",
     "stats": "grace has #% increased aura effect",
+    "average": 49,
+    "prices": [
+      20,
+      25,
+      40,
+      60,
+      100,
+      239.89,
+      2398.8999999999996
+    ],
+    "search": {
+      "id": "RVBjVQOc7",
+      "complexity": 18,
+      "total": 7
+    },
     "builds": 3,
     "mods": [
       {
@@ -21455,6 +21499,24 @@
   {
     "item": "Heartbound Loop",
     "stats": "cannot be poisoned",
+    "average": 151.32,
+    "prices": [
+      13,
+      18,
+      20,
+      200,
+      239.89,
+      239.89,
+      239.89,
+      239.89,
+      479.78,
+      1199.4499999999998
+    ],
+    "search": {
+      "id": "VMEdMowHp",
+      "complexity": 18,
+      "total": 13
+    },
     "builds": 3,
     "mods": [
       {
@@ -21468,6 +21530,16 @@
   {
     "item": "Kaom's Heart",
     "stats": "+#% to all maximum resistances",
+    "average": 45,
+    "prices": [
+      40,
+      50
+    ],
+    "search": {
+      "id": "GkdwqBBSb",
+      "complexity": 18,
+      "total": 2
+    },
     "builds": 3,
     "mods": [
       {
@@ -21481,6 +21553,15 @@
   {
     "item": "Gravebind",
     "stats": "curse enemies with temporal chains on hit",
+    "average": 2878.68,
+    "prices": [
+      2878.68
+    ],
+    "search": {
+      "id": "jXjawVWTX",
+      "complexity": 18,
+      "total": 1
+    },
     "builds": 3,
     "mods": [
       {
@@ -23812,6 +23893,25 @@
         "text": "+# to maximum frenzy charges",
         "trade_ids": [
           "implicit.stat_4078695"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Asenath's Gentle Touch",
+    "stats": "+# to level of socketed gems, +#% to spell critical strike chance",
+    "builds": 2,
+    "mods": [
+      {
+        "text": "+# to level of socketed gems",
+        "trade_ids": [
+          "implicit.stat_2843100721"
+        ]
+      },
+      {
+        "text": "+#% to spell critical strike chance",
+        "trade_ids": [
+          "implicit.stat_791835907"
         ]
       }
     ]
@@ -38208,25 +38308,6 @@
   },
   {
     "item": "Asenath's Gentle Touch",
-    "stats": "+# to level of socketed gems, +#% to spell critical strike chance",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "+# to level of socketed gems",
-        "trade_ids": [
-          "implicit.stat_2843100721"
-        ]
-      },
-      {
-        "text": "+#% to spell critical strike chance",
-        "trade_ids": [
-          "implicit.stat_791835907"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Asenath's Gentle Touch",
     "stats": "+# to level of socketed gems, +# to level of socketed aura gems",
     "builds": 1,
     "mods": [
@@ -51998,6 +52079,25 @@
         "text": "#% additional physical damage reduction while stationary",
         "trade_ids": [
           "implicit.stat_2181129193"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Dendrobate",
+    "stats": "+# to level of socketed gems, #% increased damage",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "+# to level of socketed gems",
+        "trade_ids": [
+          "implicit.stat_2843100721"
+        ]
+      },
+      {
+        "text": "#% increased damage",
+        "trade_ids": [
+          "implicit.stat_2154246560"
         ]
       }
     ]
@@ -65781,6 +65881,19 @@
         "trade_ids": [
           "implicit.stat_3680664274",
           "implicit.stat_492027537"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Voidwalker",
+    "stats": "regenerate # life per second while moving",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "regenerate # life per second while moving",
+        "trade_ids": [
+          "implicit.stat_2841027131"
         ]
       }
     ]
