@@ -960,7 +960,7 @@
       "complexity": 18,
       "total": 3
     },
-    "builds": 29,
+    "builds": 30,
     "mods": [
       {
         "text": "+# to level of socketed aoe gems",
@@ -4057,6 +4057,37 @@
     ]
   },
   {
+    "item": "Dawnbreaker",
+    "stats": "#% of physical damage from hits taken as lightning damage",
+    "average": 194.744,
+    "prices": [
+      80,
+      80,
+      150,
+      233.92,
+      233.92,
+      233.92,
+      233.92,
+      233.92,
+      233.92,
+      233.92
+    ],
+    "search": {
+      "id": "bPZqk5dCL",
+      "complexity": 18,
+      "total": 42
+    },
+    "builds": 13,
+    "mods": [
+      {
+        "text": "#% of physical damage from hits taken as lightning damage",
+        "trade_ids": [
+          "implicit.stat_425242359"
+        ]
+      }
+    ]
+  },
+  {
     "item": "Heartbound Loop",
     "stats": "zealotry has #% increased aura effect",
     "average": 148.945,
@@ -4445,37 +4476,6 @@
         "text": "hatred has #% increased aura effect",
         "trade_ids": [
           "implicit.stat_3742945352"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Dawnbreaker",
-    "stats": "#% of physical damage from hits taken as lightning damage",
-    "average": 194.744,
-    "prices": [
-      80,
-      80,
-      150,
-      233.92,
-      233.92,
-      233.92,
-      233.92,
-      233.92,
-      233.92,
-      233.92
-    ],
-    "search": {
-      "id": "bPZqk5dCL",
-      "complexity": 18,
-      "total": 42
-    },
-    "builds": 12,
-    "mods": [
-      {
-        "text": "#% of physical damage from hits taken as lightning damage",
-        "trade_ids": [
-          "implicit.stat_425242359"
         ]
       }
     ]
@@ -14483,6 +14483,17 @@
   {
     "item": "Shadows and Dust",
     "stats": "attacks have +#% to critical strike chance",
+    "average": 239.89,
+    "prices": [
+      25,
+      239.89,
+      239.89
+    ],
+    "search": {
+      "id": "2BrO0y5sk",
+      "complexity": 18,
+      "total": 3
+    },
     "builds": 4,
     "mods": [
       {
@@ -18769,6 +18780,17 @@
   {
     "item": "Warrior's Tale",
     "stats": "damage penetrates #% fire resistance",
+    "average": 479.78,
+    "prices": [
+      479.78,
+      479.78,
+      35983.5
+    ],
+    "search": {
+      "id": "Zb5ppZESQ",
+      "complexity": 18,
+      "total": 3
+    },
     "builds": 3,
     "mods": [
       {
