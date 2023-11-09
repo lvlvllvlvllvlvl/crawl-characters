@@ -2820,6 +2820,37 @@
   },
   {
     "item": "Shaper's Touch",
+    "stats": "+# to level of socketed gems",
+    "average": 23.4,
+    "prices": [
+      19,
+      20,
+      20,
+      20,
+      20,
+      25,
+      25,
+      25,
+      30,
+      30
+    ],
+    "search": {
+      "id": "LeWPLEVHn",
+      "complexity": 18,
+      "total": 99
+    },
+    "builds": 16,
+    "mods": [
+      {
+        "text": "+# to level of socketed gems",
+        "trade_ids": [
+          "implicit.stat_2843100721"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Shaper's Touch",
     "stats": "+# to level of socketed aoe gems",
     "average": 15.7,
     "prices": [
@@ -3077,37 +3108,6 @@
         "text": "#% increased maximum life",
         "trade_ids": [
           "implicit.stat_983749596"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Shaper's Touch",
-    "stats": "+# to level of socketed gems",
-    "average": 23.4,
-    "prices": [
-      19,
-      20,
-      20,
-      20,
-      20,
-      25,
-      25,
-      25,
-      30,
-      30
-    ],
-    "search": {
-      "id": "LeWPLEVHn",
-      "complexity": 18,
-      "total": 99
-    },
-    "builds": 15,
-    "mods": [
-      {
-        "text": "+# to level of socketed gems",
-        "trade_ids": [
-          "implicit.stat_2843100721"
         ]
       }
     ]
@@ -19850,6 +19850,15 @@
   {
     "item": "Intuitive Leap",
     "stats": "#% reduced bleed duration on you",
+    "average": 119.945,
+    "prices": [
+      119.945
+    ],
+    "search": {
+      "id": "qXjQpqdHg",
+      "complexity": 18,
+      "total": 1
+    },
     "builds": 3,
     "mods": [
       {
@@ -36123,6 +36132,25 @@
         "text": "+# to level of socketed trap or mine gems",
         "trade_ids": [
           "implicit.stat_150668988"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Matua Tupuna",
+    "stats": "+# to level of socketed gems, #% reduced area damage taken from hits",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "+# to level of socketed gems",
+        "trade_ids": [
+          "implicit.stat_2843100721"
+        ]
+      },
+      {
+        "text": "#% reduced area damage taken from hits",
+        "trade_ids": [
+          "implicit.stat_3001376862"
         ]
       }
     ]
