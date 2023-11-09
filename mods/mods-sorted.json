@@ -2102,6 +2102,37 @@
     ]
   },
   {
+    "item": "Zeel's Amplifier",
+    "stats": "+# to level of socketed gems",
+    "average": 50,
+    "prices": [
+      5,
+      10,
+      40,
+      48,
+      50,
+      50,
+      50,
+      50,
+      50,
+      55
+    ],
+    "search": {
+      "id": "4qnPaPvC9",
+      "complexity": 18,
+      "total": 24
+    },
+    "builds": 20,
+    "mods": [
+      {
+        "text": "+# to level of socketed gems",
+        "trade_ids": [
+          "implicit.stat_2843100721"
+        ]
+      }
+    ]
+  },
+  {
     "item": "Natural Affinity",
     "stats": "corrupted blood cannot be inflicted on you",
     "average": 5864.6775,
@@ -2331,37 +2362,6 @@
         "text": "+# to level of socketed aura gems",
         "trade_ids": [
           "implicit.stat_2452998583"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Zeel's Amplifier",
-    "stats": "+# to level of socketed gems",
-    "average": 50,
-    "prices": [
-      5,
-      10,
-      40,
-      48,
-      50,
-      50,
-      50,
-      50,
-      50,
-      55
-    ],
-    "search": {
-      "id": "4qnPaPvC9",
-      "complexity": 18,
-      "total": 24
-    },
-    "builds": 19,
-    "mods": [
-      {
-        "text": "+# to level of socketed gems",
-        "trade_ids": [
-          "implicit.stat_2843100721"
         ]
       }
     ]
@@ -21068,6 +21068,17 @@
   {
     "item": "Shadows and Dust",
     "stats": "+# to maximum frenzy charges",
+    "average": 426.4833333333333,
+    "prices": [
+      80,
+      479.78,
+      719.67
+    ],
+    "search": {
+      "id": "eXWQDQ4IL",
+      "complexity": 18,
+      "total": 3
+    },
     "builds": 3,
     "mods": [
       {
@@ -21107,6 +21118,16 @@
   {
     "item": "The Anima Stone",
     "stats": "#% reduced ignite duration on you",
+    "average": 169.945,
+    "prices": [
+      100,
+      239.89
+    ],
+    "search": {
+      "id": "y9RkKkWIR",
+      "complexity": 18,
+      "total": 2
+    },
     "builds": 3,
     "mods": [
       {
