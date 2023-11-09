@@ -3026,6 +3026,37 @@
     ]
   },
   {
+    "item": "Eye of Malice",
+    "stats": "socketed skill gems get a #% cost & reservation multiplier",
+    "average": 152.60222222222222,
+    "prices": [
+      7,
+      90,
+      100,
+      100,
+      150,
+      150,
+      150,
+      200,
+      200,
+      233.42
+    ],
+    "search": {
+      "id": "VyBMeY8Fp",
+      "complexity": 18,
+      "total": 103
+    },
+    "builds": 16,
+    "mods": [
+      {
+        "text": "socketed skill gems get a #% cost & reservation multiplier",
+        "trade_ids": [
+          "implicit.stat_2865550257"
+        ]
+      }
+    ]
+  },
+  {
     "item": "Natural Affinity",
     "stats": "#% increased area of effect",
     "average": 144.76,
@@ -3259,37 +3290,6 @@
         "text": "+# to level of socketed curse gems",
         "trade_ids": [
           "implicit.stat_3691695237"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Eye of Malice",
-    "stats": "socketed skill gems get a #% cost & reservation multiplier",
-    "average": 152.60222222222222,
-    "prices": [
-      7,
-      90,
-      100,
-      100,
-      150,
-      150,
-      150,
-      200,
-      200,
-      233.42
-    ],
-    "search": {
-      "id": "VyBMeY8Fp",
-      "complexity": 18,
-      "total": 103
-    },
-    "builds": 15,
-    "mods": [
-      {
-        "text": "socketed skill gems get a #% cost & reservation multiplier",
-        "trade_ids": [
-          "implicit.stat_2865550257"
         ]
       }
     ]
@@ -20752,6 +20752,19 @@
   {
     "item": "Malachai's Loop",
     "stats": "#% of physical damage from hits taken as chaos damage",
+    "average": 64,
+    "prices": [
+      5,
+      15,
+      100,
+      100,
+      100
+    ],
+    "search": {
+      "id": "jXjaG5WTX",
+      "complexity": 18,
+      "total": 5
+    },
     "builds": 3,
     "mods": [
       {
@@ -20765,6 +20778,19 @@
   {
     "item": "Malachai's Loop",
     "stats": "+# to level of socketed aoe gems",
+    "average": 104.978,
+    "prices": [
+      15,
+      20,
+      100,
+      150,
+      239.89
+    ],
+    "search": {
+      "id": "BEJwoO3H8",
+      "complexity": 18,
+      "total": 5
+    },
     "builds": 3,
     "mods": [
       {
@@ -20820,6 +20846,13 @@
   {
     "item": "Badge of the Brotherhood",
     "stats": "hatred has #% increased aura effect",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "Ey6w67Bh5",
+      "complexity": 18,
+      "total": 0
+    },
     "builds": 3,
     "mods": [
       {
@@ -20833,6 +20866,15 @@
   {
     "item": "Badge of the Brotherhood",
     "stats": "#% increased attack speed",
+    "average": 2398.8999999999996,
+    "prices": [
+      2398.8999999999996
+    ],
+    "search": {
+      "id": "Lmdjd7BSn",
+      "complexity": 19,
+      "total": 1
+    },
     "builds": 3,
     "mods": [
       {
@@ -20847,6 +20889,13 @@
   {
     "item": "Willclash",
     "stats": "socketed skill gems get a #% cost & reservation multiplier, +# to maximum power charges",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "y9RkRDltR",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 3,
     "mods": [
       {
