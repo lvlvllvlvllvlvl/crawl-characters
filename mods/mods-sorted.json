@@ -990,7 +990,7 @@
       "complexity": 18,
       "total": 9
     },
-    "builds": 28,
+    "builds": 29,
     "mods": [
       {
         "text": "curse enemies with elemental weakness on hit",
@@ -27193,6 +27193,15 @@
   {
     "item": "Aegis Aurora",
     "stats": "+# to level of socketed curse gems",
+    "average": 2878.68,
+    "prices": [
+      2878.68
+    ],
+    "search": {
+      "id": "6ZkbRMdUG",
+      "complexity": 18,
+      "total": 1
+    },
     "builds": 2,
     "mods": [
       {
@@ -27206,6 +27215,13 @@
   {
     "item": "Aegis Aurora",
     "stats": "+# to level of socketed gems, you take #% reduced extra damage from critical strikes",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "GkdrEnWTb",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 2,
     "mods": [
       {
@@ -27225,6 +27241,13 @@
   {
     "item": "Aegis Aurora",
     "stats": "+# to level of socketed aura gems, #% of physical damage from hits taken as chaos damage",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "OVwDj60TE",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 2,
     "mods": [
       {
@@ -27244,6 +27267,13 @@
   {
     "item": "Aegis Aurora",
     "stats": "+# to level of socketed aura gems, +# to level of socketed warcry gems",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "5okW46oha",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 2,
     "mods": [
       {
@@ -27263,6 +27293,16 @@
   {
     "item": "Aegis Aurora",
     "stats": "grants level # determination skill",
+    "average": 2758.7349999999997,
+    "prices": [
+      2638.79,
+      2878.68
+    ],
+    "search": {
+      "id": "RVBXELZI7",
+      "complexity": 18,
+      "total": 2
+    },
     "builds": 2,
     "mods": [
       {
@@ -27302,6 +27342,13 @@
   {
     "item": "Aegis Aurora",
     "stats": "+# to level of socketed gems, #% increased maximum life",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "VMEXlDdIp",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 2,
     "mods": [
       {
@@ -27321,6 +27368,13 @@
   {
     "item": "Aegis Aurora",
     "stats": "+# to level of socketed gems, #% of physical damage from hits taken as lightning damage",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "GkdXlY3Tb",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 2,
     "mods": [
       {
@@ -27392,6 +27446,19 @@
   {
     "item": "Aegis Aurora",
     "stats": "+# to level of socketed duration gems",
+    "average": 3790.2619999999997,
+    "prices": [
+      239.89,
+      479.78,
+      719.67,
+      7916.37,
+      9595.599999999999
+    ],
+    "search": {
+      "id": "jXj29nruX",
+      "complexity": 18,
+      "total": 5
+    },
     "builds": 2,
     "mods": [
       {
@@ -67451,6 +67518,19 @@
         "text": "you can apply an additional curse",
         "trade_ids": [
           "implicit.stat_30642521"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Badge of the Brotherhood",
+    "stats": "discipline has #% increased aura effect",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "discipline has #% increased aura effect",
+        "trade_ids": [
+          "implicit.stat_788317702"
         ]
       }
     ]
