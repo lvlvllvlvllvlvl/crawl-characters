@@ -2336,6 +2336,26 @@
     ]
   },
   {
+    "item": "Crown of Eyes",
+    "stats": "+# to maximum power charges",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "oXjB4YOcl",
+      "complexity": 18,
+      "total": 0
+    },
+    "builds": 19,
+    "mods": [
+      {
+        "text": "+# to maximum power charges",
+        "trade_ids": [
+          "implicit.stat_227523295"
+        ]
+      }
+    ]
+  },
+  {
     "item": "Meginord's Vise",
     "stats": "+# to level of socketed aura gems",
     "average": 53,
@@ -2419,26 +2439,6 @@
         "text": "wrath has #% increased aura effect",
         "trade_ids": [
           "implicit.stat_2181791238"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Crown of Eyes",
-    "stats": "+# to maximum power charges",
-    "average": null,
-    "prices": [],
-    "search": {
-      "id": "oXjB4YOcl",
-      "complexity": 18,
-      "total": 0
-    },
-    "builds": 18,
-    "mods": [
-      {
-        "text": "+# to maximum power charges",
-        "trade_ids": [
-          "implicit.stat_227523295"
         ]
       }
     ]
@@ -19356,6 +19356,13 @@
   {
     "item": "Incandescent Heart",
     "stats": "+# to level of socketed duration gems, +# to level of socketed projectile gems",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "eXWQ3gbcL",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 3,
     "mods": [
       {
@@ -22293,6 +22300,19 @@
   {
     "item": "Doryani's Prototype",
     "stats": "+# to level of socketed duration gems",
+    "average": 15496.894,
+    "prices": [
+      719.67,
+      2398.8999999999996,
+      16792.3,
+      26387.899999999998,
+      31185.699999999997
+    ],
+    "search": {
+      "id": "Ey6w2MZF5",
+      "complexity": 18,
+      "total": 5
+    },
     "builds": 3,
     "mods": [
       {
@@ -22365,6 +22385,13 @@
   {
     "item": "Infernal Mantle",
     "stats": "+# to level of socketed aoe gems",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "WVWjoPRCm",
+      "complexity": 18,
+      "total": 0
+    },
     "builds": 3,
     "mods": [
       {
@@ -22378,6 +22405,16 @@
   {
     "item": "Elegant Hubris",
     "stats": "corrupted blood cannot be inflicted on you",
+    "average": 327.39,
+    "prices": [
+      175,
+      479.78
+    ],
+    "search": {
+      "id": "7l5wv7nC5",
+      "complexity": 18,
+      "total": 2
+    },
     "builds": 3,
     "mods": [
       {
@@ -22417,6 +22454,19 @@
   {
     "item": "Rearguard",
     "stats": "#% of lightning damage leeched as life",
+    "average": 107.5,
+    "prices": [
+      25,
+      55,
+      150,
+      200,
+      479.78
+    ],
+    "search": {
+      "id": "OVwmBzOTE",
+      "complexity": 19,
+      "total": 5
+    },
     "builds": 3,
     "mods": [
       {
