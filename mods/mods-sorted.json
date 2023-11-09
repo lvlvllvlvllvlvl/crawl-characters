@@ -792,6 +792,37 @@
     ]
   },
   {
+    "item": "Heartbound Loop",
+    "stats": "+#% to all elemental resistances",
+    "average": 25.3,
+    "prices": [
+      3,
+      5,
+      20,
+      20,
+      25,
+      30,
+      35,
+      35,
+      40,
+      40
+    ],
+    "search": {
+      "id": "80ZJoE2UV",
+      "complexity": 18,
+      "total": 61
+    },
+    "builds": 34,
+    "mods": [
+      {
+        "text": "+#% to all elemental resistances",
+        "trade_ids": [
+          "implicit.stat_2901986750"
+        ]
+      }
+    ]
+  },
+  {
     "item": "Void Battery",
     "stats": "damage penetrates #% elemental resistances",
     "average": 2593.5150000000003,
@@ -818,37 +849,6 @@
         "text": "damage penetrates #% elemental resistances",
         "trade_ids": [
           "implicit.stat_2101383955"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Heartbound Loop",
-    "stats": "+#% to all elemental resistances",
-    "average": 25.3,
-    "prices": [
-      3,
-      5,
-      20,
-      20,
-      25,
-      30,
-      35,
-      35,
-      40,
-      40
-    ],
-    "search": {
-      "id": "80ZJoE2UV",
-      "complexity": 18,
-      "total": 61
-    },
-    "builds": 33,
-    "mods": [
-      {
-        "text": "+#% to all elemental resistances",
-        "trade_ids": [
-          "implicit.stat_2901986750"
         ]
       }
     ]
@@ -5970,6 +5970,37 @@
     ]
   },
   {
+    "item": "Heartbound Loop",
+    "stats": "adds # to # cold damage to spells and attacks",
+    "average": 16.5,
+    "prices": [
+      6,
+      10,
+      10,
+      10,
+      10,
+      19,
+      20,
+      25,
+      25,
+      30
+    ],
+    "search": {
+      "id": "jPp2BdduX",
+      "complexity": 18,
+      "total": 64
+    },
+    "builds": 9,
+    "mods": [
+      {
+        "text": "adds # to # cold damage to spells and attacks",
+        "trade_ids": [
+          "implicit.stat_1662717006"
+        ]
+      }
+    ]
+  },
+  {
     "item": "Alpha's Howl",
     "stats": "socketed skill gems get a #% cost & reservation multiplier",
     "average": 363.09777777777776,
@@ -6754,37 +6785,6 @@
         "text": "adds # to # fire damage to spells and attacks",
         "trade_ids": [
           "implicit.stat_3964634628"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Heartbound Loop",
-    "stats": "adds # to # cold damage to spells and attacks",
-    "average": 16.5,
-    "prices": [
-      6,
-      10,
-      10,
-      10,
-      10,
-      19,
-      20,
-      25,
-      25,
-      30
-    ],
-    "search": {
-      "id": "jPp2BdduX",
-      "complexity": 18,
-      "total": 64
-    },
-    "builds": 8,
-    "mods": [
-      {
-        "text": "adds # to # cold damage to spells and attacks",
-        "trade_ids": [
-          "implicit.stat_1662717006"
         ]
       }
     ]
@@ -8830,6 +8830,38 @@
   },
   {
     "item": "Thread of Hope",
+    "stats": "#% increased reservation efficiency of skills",
+    "average": 194.548,
+    "prices": [
+      55,
+      70,
+      100,
+      200,
+      233.92,
+      233.92,
+      233.92,
+      233.92,
+      233.92,
+      350.88
+    ],
+    "search": {
+      "id": "OpjgpEaSE",
+      "complexity": 19,
+      "total": 52
+    },
+    "builds": 6,
+    "mods": [
+      {
+        "text": "#% increased reservation efficiency of skills",
+        "trade_ids": [
+          "implicit.stat_2587176568",
+          "implicit.stat_4202507508"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Thread of Hope",
     "stats": "#% increased global critical strike chance, corrupted blood cannot be inflicted on you",
     "average": 3598.35,
     "prices": [
@@ -10863,38 +10895,6 @@
         "text": "corrupted blood cannot be inflicted on you",
         "trade_ids": [
           "implicit.stat_1658498488"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Thread of Hope",
-    "stats": "#% increased reservation efficiency of skills",
-    "average": 194.548,
-    "prices": [
-      55,
-      70,
-      100,
-      200,
-      233.92,
-      233.92,
-      233.92,
-      233.92,
-      233.92,
-      350.88
-    ],
-    "search": {
-      "id": "OpjgpEaSE",
-      "complexity": 19,
-      "total": 52
-    },
-    "builds": 5,
-    "mods": [
-      {
-        "text": "#% increased reservation efficiency of skills",
-        "trade_ids": [
-          "implicit.stat_2587176568",
-          "implicit.stat_4202507508"
         ]
       }
     ]
@@ -25317,6 +25317,24 @@
   {
     "item": "Darkray Vectors",
     "stats": "#% increased maximum life",
+    "average": 93.5791,
+    "prices": [
+      10,
+      15,
+      30,
+      30,
+      55,
+      60,
+      100,
+      180,
+      215.90099999999998,
+      239.89
+    ],
+    "search": {
+      "id": "Zb5oLwmSQ",
+      "complexity": 18,
+      "total": 13
+    },
     "builds": 2,
     "mods": [
       {
@@ -26231,6 +26249,26 @@
         "text": "you cannot be hindered",
         "trade_ids": [
           "implicit.stat_721014846"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Unnatural Instinct",
+    "stats": "#% increased reservation efficiency of skills, damage penetrates #% cold resistance",
+    "builds": 2,
+    "mods": [
+      {
+        "text": "#% increased reservation efficiency of skills",
+        "trade_ids": [
+          "implicit.stat_2587176568",
+          "implicit.stat_4202507508"
+        ]
+      },
+      {
+        "text": "damage penetrates #% cold resistance",
+        "trade_ids": [
+          "implicit.stat_3417711605"
         ]
       }
     ]
@@ -42525,26 +42563,6 @@
         "text": "overwhelm #% physical damage reduction",
         "trade_ids": [
           "implicit.stat_2495041954"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Unnatural Instinct",
-    "stats": "#% increased reservation efficiency of skills, damage penetrates #% cold resistance",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "#% increased reservation efficiency of skills",
-        "trade_ids": [
-          "implicit.stat_2587176568",
-          "implicit.stat_4202507508"
-        ]
-      },
-      {
-        "text": "damage penetrates #% cold resistance",
-        "trade_ids": [
-          "implicit.stat_3417711605"
         ]
       }
     ]
@@ -82102,6 +82120,25 @@
         "trade_ids": [
           "implicit.stat_2587176568",
           "implicit.stat_4202507508"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Elegant Hubris",
+    "stats": "#% reduced effect of curses on you, you cannot be hindered",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "#% reduced effect of curses on you",
+        "trade_ids": [
+          "implicit.stat_3407849389"
+        ]
+      },
+      {
+        "text": "you cannot be hindered",
+        "trade_ids": [
+          "implicit.stat_721014846"
         ]
       }
     ]
