@@ -20804,6 +20804,13 @@
   {
     "item": "Malachai's Loop",
     "stats": "#% of physical damage from hits taken as cold damage, #% of physical damage from hits taken as chaos damage",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "2Brwr2eIk",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 3,
     "mods": [
       {
@@ -20915,6 +20922,17 @@
   {
     "item": "Arn's Anguish",
     "stats": "#% increased strength, #% increased intelligence",
+    "average": 153.33333333333334,
+    "prices": [
+      80,
+      180,
+      200
+    ],
+    "search": {
+      "id": "kXjYjp3U5",
+      "complexity": 29,
+      "total": 3
+    },
     "builds": 3,
     "mods": [
       {
@@ -20986,6 +21004,13 @@
   {
     "item": "Death Rush",
     "stats": "#% increased rarity of items found",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "QVnjbGeSw",
+      "complexity": 18,
+      "total": 0
+    },
     "builds": 3,
     "mods": [
       {
