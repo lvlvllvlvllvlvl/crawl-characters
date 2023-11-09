@@ -524,6 +524,37 @@
     ]
   },
   {
+    "item": "Yoke of Suffering",
+    "stats": "you can apply an additional curse",
+    "average": 2193,
+    "prices": [
+      1871.36,
+      1871.36,
+      2105.2799999999997,
+      2339.2,
+      2339.2,
+      2339.2,
+      2339.2,
+      2339.2,
+      2807.04,
+      3040.96
+    ],
+    "search": {
+      "id": "W5Xeb8mcm",
+      "complexity": 18,
+      "total": 22
+    },
+    "builds": 38,
+    "mods": [
+      {
+        "text": "you can apply an additional curse",
+        "trade_ids": [
+          "implicit.stat_30642521"
+        ]
+      }
+    ]
+  },
+  {
     "item": "Goldwyrm",
     "stats": "#% increased movement speed",
     "average": 24.8,
@@ -605,37 +636,6 @@
         "text": "#% increased maximum life",
         "trade_ids": [
           "implicit.stat_983749596"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Yoke of Suffering",
-    "stats": "you can apply an additional curse",
-    "average": 2193,
-    "prices": [
-      1871.36,
-      1871.36,
-      2105.2799999999997,
-      2339.2,
-      2339.2,
-      2339.2,
-      2339.2,
-      2339.2,
-      2807.04,
-      3040.96
-    ],
-    "search": {
-      "id": "W5Xeb8mcm",
-      "complexity": 18,
-      "total": 22
-    },
-    "builds": 37,
-    "mods": [
-      {
-        "text": "you can apply an additional curse",
-        "trade_ids": [
-          "implicit.stat_30642521"
         ]
       }
     ]
@@ -5681,6 +5681,33 @@
   },
   {
     "item": "Grand Spectrum",
+    "stats": "#% increased damage",
+    "average": 1711.7466666666667,
+    "prices": [
+      466.84,
+      466.84,
+      466.84,
+      933.68,
+      3501.2999999999997,
+      4434.98
+    ],
+    "search": {
+      "id": "v3mYWLWUE",
+      "complexity": 18,
+      "total": 6
+    },
+    "builds": 9,
+    "mods": [
+      {
+        "text": "#% increased damage",
+        "trade_ids": [
+          "implicit.stat_2154246560"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Grand Spectrum",
     "stats": "#% reduced effect of curses on you",
     "average": 291.775,
     "prices": [
@@ -6501,33 +6528,6 @@
         "text": "#% increased cast speed",
         "trade_ids": [
           "implicit.stat_2891184298"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Grand Spectrum",
-    "stats": "#% increased damage",
-    "average": 1711.7466666666667,
-    "prices": [
-      466.84,
-      466.84,
-      466.84,
-      933.68,
-      3501.2999999999997,
-      4434.98
-    ],
-    "search": {
-      "id": "v3mYWLWUE",
-      "complexity": 18,
-      "total": 6
-    },
-    "builds": 8,
-    "mods": [
-      {
-        "text": "#% increased damage",
-        "trade_ids": [
-          "implicit.stat_2154246560"
         ]
       }
     ]
@@ -25473,6 +25473,13 @@
   {
     "item": "Lightning Coil",
     "stats": "#% increased damage, +#% to all maximum resistances",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "pXjvz6ZC0",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 2,
     "mods": [
       {
@@ -25492,6 +25499,13 @@
   {
     "item": "Lightning Coil",
     "stats": "+# to level of socketed aoe gems, +#% to all maximum resistances",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "rXjpz6ZuQ",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 2,
     "mods": [
       {
@@ -25511,6 +25525,13 @@
   {
     "item": "Lightning Coil",
     "stats": "#% increased maximum life, +#% to all maximum resistances",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "Ey6RXjyc5",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 2,
     "mods": [
       {
@@ -25530,6 +25551,13 @@
   {
     "item": "Lightning Coil",
     "stats": "+# to level of socketed gems, #% reduced lightning damage taken",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "LmdoYRlIn",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 2,
     "mods": [
       {
@@ -25549,6 +25577,13 @@
   {
     "item": "Lightning Coil",
     "stats": "+# to level of socketed gems, +# to level of socketed projectile gems",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "9Y2KgV8tK",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 2,
     "mods": [
       {
@@ -25568,6 +25603,17 @@
   {
     "item": "Lightning Coil",
     "stats": "+# to level of socketed projectile gems, #% increased damage",
+    "average": 22788.6,
+    "prices": [
+      21589.2,
+      23988,
+      59970
+    ],
+    "search": {
+      "id": "oXjeYgYil",
+      "complexity": 29,
+      "total": 3
+    },
     "builds": 2,
     "mods": [
       {
@@ -25587,6 +25633,15 @@
   {
     "item": "Lightning Coil",
     "stats": "+# to level of socketed duration gems, +# to level of socketed trap or mine gems",
+    "average": 9115.44,
+    "prices": [
+      9115.44
+    ],
+    "search": {
+      "id": "YVqER27cY",
+      "complexity": 29,
+      "total": 1
+    },
     "builds": 2,
     "mods": [
       {
@@ -25606,6 +25661,13 @@
   {
     "item": "Lightning Coil",
     "stats": "you take #% reduced extra damage from critical strikes, +#% to all maximum resistances",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "eXW70DocL",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 2,
     "mods": [
       {
@@ -25625,6 +25687,15 @@
   {
     "item": "Lightning Coil",
     "stats": "+# to level of socketed aura gems, #% increased damage",
+    "average": 4797.6,
+    "prices": [
+      4797.6
+    ],
+    "search": {
+      "id": "pXjv9ZwS0",
+      "complexity": 29,
+      "total": 1
+    },
     "builds": 2,
     "mods": [
       {
@@ -25644,6 +25715,16 @@
   {
     "item": "Lightning Coil",
     "stats": "+# to level of socketed aoe gems, #% increased damage",
+    "average": 19190.4,
+    "prices": [
+      16791.6,
+      21589.2
+    ],
+    "search": {
+      "id": "8a2pjR2CV",
+      "complexity": 29,
+      "total": 2
+    },
     "builds": 2,
     "mods": [
       {
