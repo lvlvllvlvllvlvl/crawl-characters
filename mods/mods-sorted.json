@@ -2510,6 +2510,33 @@
     ]
   },
   {
+    "item": "Legacy of Fury",
+    "stats": "+# to level of socketed gems",
+    "average": 443.1499999999999,
+    "prices": [
+      80,
+      80,
+      100,
+      239.89,
+      959.56,
+      1199.4499999999998
+    ],
+    "search": {
+      "id": "MVDlOzPUJ",
+      "complexity": 18,
+      "total": 6
+    },
+    "builds": 18,
+    "mods": [
+      {
+        "text": "+# to level of socketed gems",
+        "trade_ids": [
+          "implicit.stat_2843100721"
+        ]
+      }
+    ]
+  },
+  {
     "item": "Unnatural Instinct",
     "stats": "corrupted blood cannot be inflicted on you",
     "average": 16790.257777777777,
@@ -2717,33 +2744,6 @@
         "text": "+#% to all elemental resistances",
         "trade_ids": [
           "implicit.stat_2901986750"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Legacy of Fury",
-    "stats": "+# to level of socketed gems",
-    "average": 443.1499999999999,
-    "prices": [
-      80,
-      80,
-      100,
-      239.89,
-      959.56,
-      1199.4499999999998
-    ],
-    "search": {
-      "id": "MVDlOzPUJ",
-      "complexity": 18,
-      "total": 6
-    },
-    "builds": 17,
-    "mods": [
-      {
-        "text": "+# to level of socketed gems",
-        "trade_ids": [
-          "implicit.stat_2843100721"
         ]
       }
     ]
@@ -7096,6 +7096,30 @@
   },
   {
     "item": "Aegis Aurora",
+    "stats": "#% of physical damage from hits taken as fire damage",
+    "average": 559.7433333333333,
+    "prices": [
+      239.89,
+      479.78,
+      959.56
+    ],
+    "search": {
+      "id": "lXjXX7kcV",
+      "complexity": 18,
+      "total": 3
+    },
+    "builds": 7,
+    "mods": [
+      {
+        "text": "#% of physical damage from hits taken as fire damage",
+        "trade_ids": [
+          "implicit.stat_3342989455"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Aegis Aurora",
     "stats": "+#% chance to block",
     "average": 662.2028,
     "prices": [
@@ -8027,30 +8051,6 @@
         "text": "corrupted blood cannot be inflicted on you",
         "trade_ids": [
           "implicit.stat_1658498488"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Aegis Aurora",
-    "stats": "#% of physical damage from hits taken as fire damage",
-    "average": 559.7433333333333,
-    "prices": [
-      239.89,
-      479.78,
-      959.56
-    ],
-    "search": {
-      "id": "lXjXX7kcV",
-      "complexity": 18,
-      "total": 3
-    },
-    "builds": 6,
-    "mods": [
-      {
-        "text": "#% of physical damage from hits taken as fire damage",
-        "trade_ids": [
-          "implicit.stat_3342989455"
         ]
       }
     ]
@@ -28200,6 +28200,13 @@
   {
     "item": "The Torrent's Reclamation",
     "stats": "#% increased area of effect, wrath has #% increased aura effect",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "6ZkmGbXFG",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 2,
     "mods": [
       {
