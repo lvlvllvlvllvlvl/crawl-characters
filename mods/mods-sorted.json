@@ -823,6 +823,37 @@
     ]
   },
   {
+    "item": "Heartbound Loop",
+    "stats": "+#% to all elemental resistances",
+    "average": 25.3,
+    "prices": [
+      3,
+      5,
+      20,
+      20,
+      25,
+      30,
+      35,
+      35,
+      40,
+      40
+    ],
+    "search": {
+      "id": "80ZJoE2UV",
+      "complexity": 18,
+      "total": 61
+    },
+    "builds": 33,
+    "mods": [
+      {
+        "text": "+#% to all elemental resistances",
+        "trade_ids": [
+          "implicit.stat_2901986750"
+        ]
+      }
+    ]
+  },
+  {
     "item": "Black Sun Crest",
     "stats": "socketed skill gems get a #% cost & reservation multiplier",
     "average": 14.9,
@@ -880,37 +911,6 @@
         "text": "#% increased maximum life",
         "trade_ids": [
           "implicit.stat_983749596"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Heartbound Loop",
-    "stats": "+#% to all elemental resistances",
-    "average": 25.3,
-    "prices": [
-      3,
-      5,
-      20,
-      20,
-      25,
-      30,
-      35,
-      35,
-      40,
-      40
-    ],
-    "search": {
-      "id": "80ZJoE2UV",
-      "complexity": 18,
-      "total": 61
-    },
-    "builds": 32,
-    "mods": [
-      {
-        "text": "+#% to all elemental resistances",
-        "trade_ids": [
-          "implicit.stat_2901986750"
         ]
       }
     ]
@@ -8979,32 +8979,6 @@
     ]
   },
   {
-    "item": "Hyrri's Ire",
-    "stats": "+# to level of socketed gems",
-    "average": 5085.668,
-    "prices": [
-      959.56,
-      3118.5699999999997,
-      3598.35,
-      8396.15,
-      9355.71
-    ],
-    "search": {
-      "id": "dXWXyYRhJ",
-      "complexity": 18,
-      "total": 5
-    },
-    "builds": 6,
-    "mods": [
-      {
-        "text": "+# to level of socketed gems",
-        "trade_ids": [
-          "implicit.stat_2843100721"
-        ]
-      }
-    ]
-  },
-  {
     "item": "Heartbound Loop",
     "stats": "grants level # hatred skill",
     "average": 979.5599999999998,
@@ -9027,6 +9001,32 @@
         "text": "grants level # hatred skill",
         "trade_ids": [
           "implicit.stat_2429546158"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Hyrri's Ire",
+    "stats": "+# to level of socketed gems",
+    "average": 5085.668,
+    "prices": [
+      959.56,
+      3118.5699999999997,
+      3598.35,
+      8396.15,
+      9355.71
+    ],
+    "search": {
+      "id": "dXWXyYRhJ",
+      "complexity": 18,
+      "total": 5
+    },
+    "builds": 6,
+    "mods": [
+      {
+        "text": "+# to level of socketed gems",
+        "trade_ids": [
+          "implicit.stat_2843100721"
         ]
       }
     ]
@@ -11086,26 +11086,6 @@
     ]
   },
   {
-    "item": "Stormshroud",
-    "stats": "you cannot be maimed",
-    "average": null,
-    "prices": [],
-    "search": {
-      "id": "QVnqgwjfw",
-      "complexity": 18,
-      "total": 0
-    },
-    "builds": 5,
-    "mods": [
-      {
-        "text": "you cannot be maimed",
-        "trade_ids": [
-          "implicit.stat_1126826428"
-        ]
-      }
-    ]
-  },
-  {
     "item": "Heartbound Loop",
     "stats": "adds # to # lightning damage to spells and attacks",
     "average": 159.93714285714285,
@@ -11129,6 +11109,26 @@
         "text": "adds # to # lightning damage to spells and attacks",
         "trade_ids": [
           "implicit.stat_2885144362"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Stormshroud",
+    "stats": "you cannot be maimed",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "QVnqgwjfw",
+      "complexity": 18,
+      "total": 0
+    },
+    "builds": 5,
+    "mods": [
+      {
+        "text": "you cannot be maimed",
+        "trade_ids": [
+          "implicit.stat_1126826428"
         ]
       }
     ]
@@ -17242,6 +17242,20 @@
   {
     "item": "Shaper's Touch",
     "stats": "curse enemies with temporal chains on hit",
+    "average": 59.75,
+    "prices": [
+      10,
+      49,
+      80,
+      100,
+      239.89,
+      479.78
+    ],
+    "search": {
+      "id": "gXWRrJjhQ",
+      "complexity": 18,
+      "total": 6
+    },
     "builds": 3,
     "mods": [
       {
@@ -17255,6 +17269,19 @@
   {
     "item": "Shaper's Touch",
     "stats": "#% increased maximum life",
+    "average": 99.978,
+    "prices": [
+      10,
+      20,
+      50,
+      180,
+      239.89
+    ],
+    "search": {
+      "id": "RVBZWyaI7",
+      "complexity": 18,
+      "total": 5
+    },
     "builds": 3,
     "mods": [
       {
@@ -17336,6 +17363,13 @@
   {
     "item": "Kaom's Spirit",
     "stats": "curse enemies with elemental weakness on hit, attacks have +#% to critical strike chance",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "VME9Ynrcp",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 3,
     "mods": [
       {
@@ -17355,6 +17389,13 @@
   {
     "item": "Kaom's Spirit",
     "stats": "+# to level of socketed curse gems, attacks have +#% to critical strike chance",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "JVdMWgYsl",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 3,
     "mods": [
       {
@@ -17436,6 +17477,15 @@
   {
     "item": "Kaom's Spirit",
     "stats": "+# to level of socketed aoe gems, attacks have +#% to critical strike chance",
+    "average": 8396.15,
+    "prices": [
+      8396.15
+    ],
+    "search": {
+      "id": "7l5MDXlT5",
+      "complexity": 29,
+      "total": 1
+    },
     "builds": 3,
     "mods": [
       {
@@ -20290,6 +20340,76 @@
     ]
   },
   {
+    "item": "Heartbound Loop",
+    "stats": "bleeding cannot be inflicted on you",
+    "builds": 3,
+    "mods": [
+      {
+        "text": "bleeding cannot be inflicted on you",
+        "trade_ids": [
+          "implicit.stat_1901158930"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Heartbound Loop",
+    "stats": "cannot be ignited",
+    "average": 11.4,
+    "prices": [
+      3,
+      7,
+      8,
+      8,
+      8,
+      10,
+      10,
+      20,
+      20,
+      20
+    ],
+    "search": {
+      "id": "3GwDRP9S5",
+      "complexity": 18,
+      "total": 37
+    },
+    "builds": 3,
+    "mods": [
+      {
+        "text": "cannot be ignited",
+        "trade_ids": [
+          "implicit.stat_331731406"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Heartbound Loop",
+    "stats": "grace has #% increased aura effect",
+    "builds": 3,
+    "mods": [
+      {
+        "text": "grace has #% increased aura effect",
+        "trade_ids": [
+          "implicit.stat_397427740"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Heartbound Loop",
+    "stats": "cannot be poisoned",
+    "builds": 3,
+    "mods": [
+      {
+        "text": "cannot be poisoned",
+        "trade_ids": [
+          "implicit.stat_3835551335"
+        ]
+      }
+    ]
+  },
+  {
     "item": "Kaom's Heart",
     "stats": "+#% to all maximum resistances",
     "builds": 3,
@@ -20356,76 +20476,6 @@
         "text": "corrupted blood cannot be inflicted on you",
         "trade_ids": [
           "implicit.stat_1658498488"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Heartbound Loop",
-    "stats": "bleeding cannot be inflicted on you",
-    "builds": 3,
-    "mods": [
-      {
-        "text": "bleeding cannot be inflicted on you",
-        "trade_ids": [
-          "implicit.stat_1901158930"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Heartbound Loop",
-    "stats": "cannot be ignited",
-    "average": 11.4,
-    "prices": [
-      3,
-      7,
-      8,
-      8,
-      8,
-      10,
-      10,
-      20,
-      20,
-      20
-    ],
-    "search": {
-      "id": "3GwDRP9S5",
-      "complexity": 18,
-      "total": 37
-    },
-    "builds": 3,
-    "mods": [
-      {
-        "text": "cannot be ignited",
-        "trade_ids": [
-          "implicit.stat_331731406"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Heartbound Loop",
-    "stats": "grace has #% increased aura effect",
-    "builds": 3,
-    "mods": [
-      {
-        "text": "grace has #% increased aura effect",
-        "trade_ids": [
-          "implicit.stat_397427740"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Heartbound Loop",
-    "stats": "cannot be poisoned",
-    "builds": 3,
-    "mods": [
-      {
-        "text": "cannot be poisoned",
-        "trade_ids": [
-          "implicit.stat_3835551335"
         ]
       }
     ]
@@ -30187,6 +30237,45 @@
     ]
   },
   {
+    "item": "Heartbound Loop",
+    "stats": "anger has #% increased aura effect",
+    "builds": 2,
+    "mods": [
+      {
+        "text": "anger has #% increased aura effect",
+        "trade_ids": [
+          "implicit.stat_1592278124"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Heartbound Loop",
+    "stats": "determination has #% increased aura effect",
+    "builds": 2,
+    "mods": [
+      {
+        "text": "determination has #% increased aura effect",
+        "trade_ids": [
+          "implicit.stat_3653400807"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Heartbound Loop",
+    "stats": "grants level # zealotry skill",
+    "builds": 2,
+    "mods": [
+      {
+        "text": "grants level # zealotry skill",
+        "trade_ids": [
+          "implicit.stat_3224664127"
+        ]
+      }
+    ]
+  },
+  {
     "item": "Kikazaru",
     "stats": "#% increased attack speed",
     "builds": 2,
@@ -30440,45 +30529,6 @@
         "text": "+# to level of socketed aoe gems",
         "trade_ids": [
           "implicit.stat_2551600084"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Heartbound Loop",
-    "stats": "anger has #% increased aura effect",
-    "builds": 2,
-    "mods": [
-      {
-        "text": "anger has #% increased aura effect",
-        "trade_ids": [
-          "implicit.stat_1592278124"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Heartbound Loop",
-    "stats": "determination has #% increased aura effect",
-    "builds": 2,
-    "mods": [
-      {
-        "text": "determination has #% increased aura effect",
-        "trade_ids": [
-          "implicit.stat_3653400807"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Heartbound Loop",
-    "stats": "grants level # zealotry skill",
-    "builds": 2,
-    "mods": [
-      {
-        "text": "grants level # zealotry skill",
-        "trade_ids": [
-          "implicit.stat_3224664127"
         ]
       }
     ]
@@ -69704,6 +69754,392 @@
     ]
   },
   {
+    "item": "Heartbound Loop",
+    "stats": "#% increased dexterity, #% increased intelligence, adds # to # lightning damage to spells and attacks",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "#% increased dexterity",
+        "trade_ids": [
+          "implicit.stat_4139681126"
+        ]
+      },
+      {
+        "text": "#% increased intelligence",
+        "trade_ids": [
+          "implicit.stat_656461285"
+        ]
+      },
+      {
+        "text": "adds # to # lightning damage to spells and attacks",
+        "trade_ids": [
+          "implicit.stat_2885144362"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Heartbound Loop",
+    "stats": "grants level # hatred skill, +#% to all elemental resistances",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "grants level # hatred skill",
+        "trade_ids": [
+          "implicit.stat_2429546158"
+        ]
+      },
+      {
+        "text": "+#% to all elemental resistances",
+        "trade_ids": [
+          "implicit.stat_2901986750"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Heartbound Loop",
+    "stats": "#% increased rarity of items found",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "#% increased rarity of items found",
+        "trade_ids": [
+          "implicit.stat_3917489142"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Heartbound Loop",
+    "stats": "hatred has #% increased aura effect, cannot be poisoned",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "hatred has #% increased aura effect",
+        "trade_ids": [
+          "implicit.stat_3742945352"
+        ]
+      },
+      {
+        "text": "cannot be poisoned",
+        "trade_ids": [
+          "implicit.stat_3835551335"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Heartbound Loop",
+    "stats": "#% increased strength, #% increased dexterity, adds # to # fire damage to spells and attacks",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "#% increased strength",
+        "trade_ids": [
+          "implicit.stat_4139681126"
+        ]
+      },
+      {
+        "text": "#% increased dexterity",
+        "trade_ids": [
+          "implicit.stat_4139681126"
+        ]
+      },
+      {
+        "text": "adds # to # fire damage to spells and attacks",
+        "trade_ids": [
+          "implicit.stat_3964634628"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Heartbound Loop",
+    "stats": "discipline has #% increased aura effect",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "discipline has #% increased aura effect",
+        "trade_ids": [
+          "implicit.stat_788317702"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Heartbound Loop",
+    "stats": "#% increased rarity of items found, hatred has #% increased aura effect",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "#% increased rarity of items found",
+        "trade_ids": [
+          "implicit.stat_3917489142"
+        ]
+      },
+      {
+        "text": "hatred has #% increased aura effect",
+        "trade_ids": [
+          "implicit.stat_3742945352"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Heartbound Loop",
+    "stats": "determination has #% increased aura effect, cannot be poisoned",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "determination has #% increased aura effect",
+        "trade_ids": [
+          "implicit.stat_3653400807"
+        ]
+      },
+      {
+        "text": "cannot be poisoned",
+        "trade_ids": [
+          "implicit.stat_3835551335"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Heartbound Loop",
+    "stats": "#% increased rarity of items found, zealotry has #% increased aura effect",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "#% increased rarity of items found",
+        "trade_ids": [
+          "implicit.stat_3917489142"
+        ]
+      },
+      {
+        "text": "zealotry has #% increased aura effect",
+        "trade_ids": [
+          "implicit.stat_4096052153"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Heartbound Loop",
+    "stats": "adds # to # lightning damage to spells and attacks, anger has #% increased aura effect",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "adds # to # lightning damage to spells and attacks",
+        "trade_ids": [
+          "implicit.stat_2885144362"
+        ]
+      },
+      {
+        "text": "anger has #% increased aura effect",
+        "trade_ids": [
+          "implicit.stat_1592278124"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Heartbound Loop",
+    "stats": "pride has #% increased aura effect",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "pride has #% increased aura effect",
+        "trade_ids": [
+          "implicit.stat_4247488219"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Heartbound Loop",
+    "stats": "#% increased dexterity, #% increased intelligence, #% increased rarity of items found",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "#% increased dexterity",
+        "trade_ids": [
+          "implicit.stat_4139681126"
+        ]
+      },
+      {
+        "text": "#% increased intelligence",
+        "trade_ids": [
+          "implicit.stat_656461285"
+        ]
+      },
+      {
+        "text": "#% increased rarity of items found",
+        "trade_ids": [
+          "implicit.stat_3917489142"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Heartbound Loop",
+    "stats": "#% increased dexterity, #% increased intelligence, +#% to all elemental resistances",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "#% increased dexterity",
+        "trade_ids": [
+          "implicit.stat_4139681126"
+        ]
+      },
+      {
+        "text": "#% increased intelligence",
+        "trade_ids": [
+          "implicit.stat_656461285"
+        ]
+      },
+      {
+        "text": "+#% to all elemental resistances",
+        "trade_ids": [
+          "implicit.stat_2901986750"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Heartbound Loop",
+    "stats": "grants level # flammability skill",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "grants level # flammability skill",
+        "trade_ids": [
+          "implicit.stat_2209668839"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Heartbound Loop",
+    "stats": "grants level # pride skill, +#% to all elemental resistances",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "grants level # pride skill",
+        "trade_ids": [
+          "implicit.stat_4184565463"
+        ]
+      },
+      {
+        "text": "+#% to all elemental resistances",
+        "trade_ids": [
+          "implicit.stat_2901986750"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Heartbound Loop",
+    "stats": "#% increased cast speed",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "#% increased cast speed",
+        "trade_ids": [
+          "implicit.stat_2891184298"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Heartbound Loop",
+    "stats": "#% increased strength, #% increased dexterity, +#% to all elemental resistances",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "#% increased strength",
+        "trade_ids": [
+          "implicit.stat_4139681126"
+        ]
+      },
+      {
+        "text": "#% increased dexterity",
+        "trade_ids": [
+          "implicit.stat_4139681126"
+        ]
+      },
+      {
+        "text": "+#% to all elemental resistances",
+        "trade_ids": [
+          "implicit.stat_2901986750"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Heartbound Loop",
+    "stats": "cannot be ignited, cannot be poisoned",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "cannot be ignited",
+        "trade_ids": [
+          "implicit.stat_331731406"
+        ]
+      },
+      {
+        "text": "cannot be poisoned",
+        "trade_ids": [
+          "implicit.stat_3835551335"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Heartbound Loop",
+    "stats": "#% increased strength, #% increased intelligence, bleeding cannot be inflicted on you",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "#% increased strength",
+        "trade_ids": [
+          "implicit.stat_4139681126"
+        ]
+      },
+      {
+        "text": "#% increased intelligence",
+        "trade_ids": [
+          "implicit.stat_656461285"
+        ]
+      },
+      {
+        "text": "bleeding cannot be inflicted on you",
+        "trade_ids": [
+          "implicit.stat_1901158930"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Heartbound Loop",
+    "stats": "#% increased rarity of items found, pride has #% increased aura effect",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "#% increased rarity of items found",
+        "trade_ids": [
+          "implicit.stat_3917489142"
+        ]
+      },
+      {
+        "text": "pride has #% increased aura effect",
+        "trade_ids": [
+          "implicit.stat_4247488219"
+        ]
+      }
+    ]
+  },
+  {
     "item": "Kikazaru",
     "stats": "#% increased dexterity, #% increased intelligence, cannot be ignited",
     "builds": 1,
@@ -71452,392 +71888,6 @@
         "text": "#% increased movement speed",
         "trade_ids": [
           "implicit.stat_2250533757"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Heartbound Loop",
-    "stats": "#% increased dexterity, #% increased intelligence, adds # to # lightning damage to spells and attacks",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "#% increased dexterity",
-        "trade_ids": [
-          "implicit.stat_4139681126"
-        ]
-      },
-      {
-        "text": "#% increased intelligence",
-        "trade_ids": [
-          "implicit.stat_656461285"
-        ]
-      },
-      {
-        "text": "adds # to # lightning damage to spells and attacks",
-        "trade_ids": [
-          "implicit.stat_2885144362"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Heartbound Loop",
-    "stats": "grants level # hatred skill, +#% to all elemental resistances",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "grants level # hatred skill",
-        "trade_ids": [
-          "implicit.stat_2429546158"
-        ]
-      },
-      {
-        "text": "+#% to all elemental resistances",
-        "trade_ids": [
-          "implicit.stat_2901986750"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Heartbound Loop",
-    "stats": "#% increased rarity of items found",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "#% increased rarity of items found",
-        "trade_ids": [
-          "implicit.stat_3917489142"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Heartbound Loop",
-    "stats": "hatred has #% increased aura effect, cannot be poisoned",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "hatred has #% increased aura effect",
-        "trade_ids": [
-          "implicit.stat_3742945352"
-        ]
-      },
-      {
-        "text": "cannot be poisoned",
-        "trade_ids": [
-          "implicit.stat_3835551335"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Heartbound Loop",
-    "stats": "#% increased strength, #% increased dexterity, adds # to # fire damage to spells and attacks",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "#% increased strength",
-        "trade_ids": [
-          "implicit.stat_4139681126"
-        ]
-      },
-      {
-        "text": "#% increased dexterity",
-        "trade_ids": [
-          "implicit.stat_4139681126"
-        ]
-      },
-      {
-        "text": "adds # to # fire damage to spells and attacks",
-        "trade_ids": [
-          "implicit.stat_3964634628"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Heartbound Loop",
-    "stats": "discipline has #% increased aura effect",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "discipline has #% increased aura effect",
-        "trade_ids": [
-          "implicit.stat_788317702"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Heartbound Loop",
-    "stats": "#% increased rarity of items found, hatred has #% increased aura effect",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "#% increased rarity of items found",
-        "trade_ids": [
-          "implicit.stat_3917489142"
-        ]
-      },
-      {
-        "text": "hatred has #% increased aura effect",
-        "trade_ids": [
-          "implicit.stat_3742945352"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Heartbound Loop",
-    "stats": "determination has #% increased aura effect, cannot be poisoned",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "determination has #% increased aura effect",
-        "trade_ids": [
-          "implicit.stat_3653400807"
-        ]
-      },
-      {
-        "text": "cannot be poisoned",
-        "trade_ids": [
-          "implicit.stat_3835551335"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Heartbound Loop",
-    "stats": "#% increased rarity of items found, zealotry has #% increased aura effect",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "#% increased rarity of items found",
-        "trade_ids": [
-          "implicit.stat_3917489142"
-        ]
-      },
-      {
-        "text": "zealotry has #% increased aura effect",
-        "trade_ids": [
-          "implicit.stat_4096052153"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Heartbound Loop",
-    "stats": "adds # to # lightning damage to spells and attacks, anger has #% increased aura effect",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "adds # to # lightning damage to spells and attacks",
-        "trade_ids": [
-          "implicit.stat_2885144362"
-        ]
-      },
-      {
-        "text": "anger has #% increased aura effect",
-        "trade_ids": [
-          "implicit.stat_1592278124"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Heartbound Loop",
-    "stats": "pride has #% increased aura effect",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "pride has #% increased aura effect",
-        "trade_ids": [
-          "implicit.stat_4247488219"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Heartbound Loop",
-    "stats": "#% increased dexterity, #% increased intelligence, #% increased rarity of items found",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "#% increased dexterity",
-        "trade_ids": [
-          "implicit.stat_4139681126"
-        ]
-      },
-      {
-        "text": "#% increased intelligence",
-        "trade_ids": [
-          "implicit.stat_656461285"
-        ]
-      },
-      {
-        "text": "#% increased rarity of items found",
-        "trade_ids": [
-          "implicit.stat_3917489142"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Heartbound Loop",
-    "stats": "#% increased dexterity, #% increased intelligence, +#% to all elemental resistances",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "#% increased dexterity",
-        "trade_ids": [
-          "implicit.stat_4139681126"
-        ]
-      },
-      {
-        "text": "#% increased intelligence",
-        "trade_ids": [
-          "implicit.stat_656461285"
-        ]
-      },
-      {
-        "text": "+#% to all elemental resistances",
-        "trade_ids": [
-          "implicit.stat_2901986750"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Heartbound Loop",
-    "stats": "grants level # flammability skill",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "grants level # flammability skill",
-        "trade_ids": [
-          "implicit.stat_2209668839"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Heartbound Loop",
-    "stats": "grants level # pride skill, +#% to all elemental resistances",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "grants level # pride skill",
-        "trade_ids": [
-          "implicit.stat_4184565463"
-        ]
-      },
-      {
-        "text": "+#% to all elemental resistances",
-        "trade_ids": [
-          "implicit.stat_2901986750"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Heartbound Loop",
-    "stats": "#% increased cast speed",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "#% increased cast speed",
-        "trade_ids": [
-          "implicit.stat_2891184298"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Heartbound Loop",
-    "stats": "#% increased strength, #% increased dexterity, +#% to all elemental resistances",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "#% increased strength",
-        "trade_ids": [
-          "implicit.stat_4139681126"
-        ]
-      },
-      {
-        "text": "#% increased dexterity",
-        "trade_ids": [
-          "implicit.stat_4139681126"
-        ]
-      },
-      {
-        "text": "+#% to all elemental resistances",
-        "trade_ids": [
-          "implicit.stat_2901986750"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Heartbound Loop",
-    "stats": "cannot be ignited, cannot be poisoned",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "cannot be ignited",
-        "trade_ids": [
-          "implicit.stat_331731406"
-        ]
-      },
-      {
-        "text": "cannot be poisoned",
-        "trade_ids": [
-          "implicit.stat_3835551335"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Heartbound Loop",
-    "stats": "#% increased strength, #% increased intelligence, bleeding cannot be inflicted on you",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "#% increased strength",
-        "trade_ids": [
-          "implicit.stat_4139681126"
-        ]
-      },
-      {
-        "text": "#% increased intelligence",
-        "trade_ids": [
-          "implicit.stat_656461285"
-        ]
-      },
-      {
-        "text": "bleeding cannot be inflicted on you",
-        "trade_ids": [
-          "implicit.stat_1901158930"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Heartbound Loop",
-    "stats": "#% increased rarity of items found, pride has #% increased aura effect",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "#% increased rarity of items found",
-        "trade_ids": [
-          "implicit.stat_3917489142"
-        ]
-      },
-      {
-        "text": "pride has #% increased aura effect",
-        "trade_ids": [
-          "implicit.stat_4247488219"
         ]
       }
     ]
