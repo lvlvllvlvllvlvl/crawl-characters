@@ -1187,6 +1187,43 @@
     ]
   },
   {
+    "item": "Heartbound Loop",
+    "stats": "#% increased strength, #% increased dexterity",
+    "average": 10,
+    "prices": [
+      5,
+      5,
+      9,
+      10,
+      10,
+      10,
+      10,
+      10,
+      10,
+      10
+    ],
+    "search": {
+      "id": "YD0dMXgUY",
+      "complexity": 29,
+      "total": 145
+    },
+    "builds": 27,
+    "mods": [
+      {
+        "text": "#% increased strength",
+        "trade_ids": [
+          "implicit.stat_4139681126"
+        ]
+      },
+      {
+        "text": "#% increased dexterity",
+        "trade_ids": [
+          "implicit.stat_4139681126"
+        ]
+      }
+    ]
+  },
+  {
     "item": "March of the Legion",
     "stats": "+# to level of socketed gems",
     "average": 12.571428571428571,
@@ -1213,43 +1250,6 @@
         "text": "+# to level of socketed gems",
         "trade_ids": [
           "implicit.stat_2843100721"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Heartbound Loop",
-    "stats": "#% increased strength, #% increased dexterity",
-    "average": 10,
-    "prices": [
-      5,
-      5,
-      9,
-      10,
-      10,
-      10,
-      10,
-      10,
-      10,
-      10
-    ],
-    "search": {
-      "id": "YD0dMXgUY",
-      "complexity": 29,
-      "total": 145
-    },
-    "builds": 26,
-    "mods": [
-      {
-        "text": "#% increased strength",
-        "trade_ids": [
-          "implicit.stat_4139681126"
-        ]
-      },
-      {
-        "text": "#% increased dexterity",
-        "trade_ids": [
-          "implicit.stat_4139681126"
         ]
       }
     ]
@@ -24154,6 +24154,13 @@
   {
     "item": "Heatshiver",
     "stats": "+# to level of socketed fire gems, +# to level of socketed aura gems",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "bXWgBRGCL",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 2,
     "mods": [
       {
@@ -24173,6 +24180,24 @@
   {
     "item": "Heatshiver",
     "stats": "+# to level of socketed curse gems",
+    "average": 143.967,
+    "prices": [
+      40,
+      50,
+      50,
+      80,
+      80,
+      200,
+      220,
+      239.89,
+      239.89,
+      239.89
+    ],
+    "search": {
+      "id": "nXjqamlu0",
+      "complexity": 18,
+      "total": 16
+    },
     "builds": 2,
     "mods": [
       {
@@ -24186,6 +24211,15 @@
   {
     "item": "Heatshiver",
     "stats": "+# to level of socketed aoe gems, +# to maximum power charges",
+    "average": 35983.5,
+    "prices": [
+      35983.5
+    ],
+    "search": {
+      "id": "zeBqL5aC4",
+      "complexity": 29,
+      "total": 1
+    },
     "builds": 2,
     "mods": [
       {
@@ -24262,6 +24296,15 @@
   {
     "item": "Heatshiver",
     "stats": "+# to level of socketed duration gems, socketed skill gems get a #% cost & reservation multiplier",
+    "average": 47978,
+    "prices": [
+      47978
+    ],
+    "search": {
+      "id": "lXjqmajiV",
+      "complexity": 29,
+      "total": 1
+    },
     "builds": 2,
     "mods": [
       {
@@ -24281,6 +24324,16 @@
   {
     "item": "Heatshiver",
     "stats": "socketed skill gems get a #% cost & reservation multiplier, cannot be blinded",
+    "average": 22789.55,
+    "prices": [
+      21590.1,
+      23989
+    ],
+    "search": {
+      "id": "9Y2vPKyIK",
+      "complexity": 29,
+      "total": 2
+    },
     "builds": 2,
     "mods": [
       {
@@ -24365,6 +24418,13 @@
   {
     "item": "Heatshiver",
     "stats": "#% of cold damage leeched as life, #% increased effect of cold ailments",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "rXjqEK7CQ",
+      "complexity": 30,
+      "total": 0
+    },
     "builds": 2,
     "mods": [
       {
@@ -29440,6 +29500,19 @@
         "text": "wrath has #% increased aura effect",
         "trade_ids": [
           "implicit.stat_2181791238"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Inspired Learning",
+    "stats": "#% increased global critical strike chance",
+    "builds": 2,
+    "mods": [
+      {
+        "text": "#% increased global critical strike chance",
+        "trade_ids": [
+          "implicit.stat_587431675"
         ]
       }
     ]
@@ -56666,19 +56739,6 @@
         "text": "#% increased elemental damage with attack skills",
         "trade_ids": [
           "implicit.stat_387439868"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Inspired Learning",
-    "stats": "#% increased global critical strike chance",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "#% increased global critical strike chance",
-        "trade_ids": [
-          "implicit.stat_587431675"
         ]
       }
     ]
