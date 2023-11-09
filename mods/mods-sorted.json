@@ -20,7 +20,7 @@
       "complexity": 18,
       "total": 155
     },
-    "builds": 230,
+    "builds": 231,
     "mods": [
       {
         "text": "socketed skill gems get a #% cost & reservation multiplier",
@@ -22497,6 +22497,13 @@
   {
     "item": "Transcendent Mind",
     "stats": "#% increased effect of non-damaging ailments",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "OVwmJGzfE",
+      "complexity": 18,
+      "total": 0
+    },
     "builds": 3,
     "mods": [
       {
@@ -22510,6 +22517,24 @@
   {
     "item": "The Hidden Blade",
     "stats": "#% increased global critical strike chance",
+    "average": 271.901,
+    "prices": [
+      120,
+      130,
+      150,
+      160,
+      239.89,
+      239.89,
+      239.89,
+      479.78,
+      479.78,
+      479.78
+    ],
+    "search": {
+      "id": "QVnj6GmTw",
+      "complexity": 18,
+      "total": 12
+    },
     "builds": 3,
     "mods": [
       {
@@ -22523,6 +22548,15 @@
   {
     "item": "Ghostwrithe",
     "stats": "+# to level of socketed gems, #% increased damage",
+    "average": 3598.35,
+    "prices": [
+      3598.35
+    ],
+    "search": {
+      "id": "dXWja0OiJ",
+      "complexity": 29,
+      "total": 1
+    },
     "builds": 3,
     "mods": [
       {
@@ -22572,6 +22606,13 @@
   {
     "item": "Tainted Pact",
     "stats": "#% increased attack speed",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "qXjKyo9Cg",
+      "complexity": 19,
+      "total": 0
+    },
     "builds": 3,
     "mods": [
       {
@@ -22625,6 +22666,16 @@
   {
     "item": "Pure Talent",
     "stats": "#% increased reservation efficiency of skills",
+    "average": 164.945,
+    "prices": [
+      90,
+      239.89
+    ],
+    "search": {
+      "id": "vlPqeK9HE",
+      "complexity": 19,
+      "total": 2
+    },
     "builds": 3,
     "mods": [
       {
