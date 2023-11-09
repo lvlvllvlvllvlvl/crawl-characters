@@ -6102,6 +6102,27 @@
     ]
   },
   {
+    "item": "Corpsewalker",
+    "stats": "+#% chance to suppress spell damage",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "oXjZPMwsl",
+      "complexity": 19,
+      "total": 0
+    },
+    "builds": 8,
+    "mods": [
+      {
+        "text": "+#% chance to suppress spell damage",
+        "trade_ids": [
+          "implicit.stat_3680664274",
+          "implicit.stat_492027537"
+        ]
+      }
+    ]
+  },
+  {
     "item": "Asenath's Gentle Touch",
     "stats": "+# to level of socketed gems, #% increased cast speed",
     "average": 13645.333333333334,
@@ -6966,27 +6987,6 @@
         "text": "+#% to spell critical strike chance",
         "trade_ids": [
           "implicit.stat_791835907"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Corpsewalker",
-    "stats": "+#% chance to suppress spell damage",
-    "average": null,
-    "prices": [],
-    "search": {
-      "id": "oXjZPMwsl",
-      "complexity": 19,
-      "total": 0
-    },
-    "builds": 7,
-    "mods": [
-      {
-        "text": "+#% chance to suppress spell damage",
-        "trade_ids": [
-          "implicit.stat_3680664274",
-          "implicit.stat_492027537"
         ]
       }
     ]
@@ -21601,6 +21601,13 @@
   {
     "item": "Stormshroud",
     "stats": "#% reduced effect of chill on you, corrupted blood cannot be inflicted on you",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "KJDwV5yc5",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 3,
     "mods": [
       {
@@ -21633,6 +21640,13 @@
   {
     "item": "Doomfletch",
     "stats": "bow attacks fire an additional arrow",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "8a2wYgBUV",
+      "complexity": 18,
+      "total": 0
+    },
     "builds": 3,
     "mods": [
       {
@@ -50079,6 +50093,25 @@
   },
   {
     "item": "Warrior's Tale",
+    "stats": "#% reduced poison duration on you, #% reduced effect of shock on you",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "#% reduced poison duration on you",
+        "trade_ids": [
+          "implicit.stat_3301100256"
+        ]
+      },
+      {
+        "text": "#% reduced effect of shock on you",
+        "trade_ids": [
+          "implicit.stat_3801067695"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Warrior's Tale",
     "stats": "damage penetrates #% fire resistance, #% increased effect of non-damaging ailments",
     "builds": 1,
     "mods": [
@@ -72937,6 +72970,25 @@
         "trade_ids": [
           "implicit.stat_2587176568",
           "implicit.stat_4202507508"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Stormshroud",
+    "stats": "overwhelm #% physical damage reduction, you cannot be maimed",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "overwhelm #% physical damage reduction",
+        "trade_ids": [
+          "implicit.stat_2495041954"
+        ]
+      },
+      {
+        "text": "you cannot be maimed",
+        "trade_ids": [
+          "implicit.stat_1126826428"
         ]
       }
     ]
