@@ -5754,6 +5754,37 @@
     ]
   },
   {
+    "item": "Grand Spectrum",
+    "stats": "damage penetrates #% lightning resistance",
+    "average": 233.42000000000002,
+    "prices": [
+      200,
+      233.42,
+      233.42,
+      233.42,
+      233.42,
+      233.42,
+      233.42,
+      233.42,
+      700.26,
+      233186.58
+    ],
+    "search": {
+      "id": "qayoZ2dHg",
+      "complexity": 18,
+      "total": 10
+    },
+    "builds": 9,
+    "mods": [
+      {
+        "text": "damage penetrates #% lightning resistance",
+        "trade_ids": [
+          "implicit.stat_818778753"
+        ]
+      }
+    ]
+  },
+  {
     "item": "String of Servitude",
     "stats": "#% increased quantity of items found",
     "average": 138.676,
@@ -6616,37 +6647,6 @@
         "text": "damage penetrates #% elemental resistances",
         "trade_ids": [
           "implicit.stat_2101383955"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Grand Spectrum",
-    "stats": "damage penetrates #% lightning resistance",
-    "average": 233.42000000000002,
-    "prices": [
-      200,
-      233.42,
-      233.42,
-      233.42,
-      233.42,
-      233.42,
-      233.42,
-      233.42,
-      700.26,
-      233186.58
-    ],
-    "search": {
-      "id": "qayoZ2dHg",
-      "complexity": 18,
-      "total": 10
-    },
-    "builds": 8,
-    "mods": [
-      {
-        "text": "damage penetrates #% lightning resistance",
-        "trade_ids": [
-          "implicit.stat_818778753"
         ]
       }
     ]
@@ -16522,6 +16522,32 @@
   },
   {
     "item": "Unnatural Instinct",
+    "stats": "#% increased damage, corrupted blood cannot be inflicted on you",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "LmdynljIn",
+      "complexity": 29,
+      "total": 0
+    },
+    "builds": 3,
+    "mods": [
+      {
+        "text": "#% increased damage",
+        "trade_ids": [
+          "implicit.stat_2154246560"
+        ]
+      },
+      {
+        "text": "corrupted blood cannot be inflicted on you",
+        "trade_ids": [
+          "implicit.stat_1658498488"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Unnatural Instinct",
     "stats": "#% increased damage",
     "average": 23989,
     "prices": [
@@ -22810,6 +22836,17 @@
   {
     "item": "Shavronne's Revelation",
     "stats": "bleeding cannot be inflicted on you",
+    "average": 479.76,
+    "prices": [
+      239.88,
+      479.76,
+      479.76
+    ],
+    "search": {
+      "id": "7l5mjg3u5",
+      "complexity": 18,
+      "total": 3
+    },
     "builds": 3,
     "mods": [
       {
@@ -26164,32 +26201,6 @@
   },
   {
     "item": "Unnatural Instinct",
-    "stats": "#% increased damage, corrupted blood cannot be inflicted on you",
-    "average": null,
-    "prices": [],
-    "search": {
-      "id": "LmdynljIn",
-      "complexity": 29,
-      "total": 0
-    },
-    "builds": 2,
-    "mods": [
-      {
-        "text": "#% increased damage",
-        "trade_ids": [
-          "implicit.stat_2154246560"
-        ]
-      },
-      {
-        "text": "corrupted blood cannot be inflicted on you",
-        "trade_ids": [
-          "implicit.stat_1658498488"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Unnatural Instinct",
     "stats": "overwhelm #% physical damage reduction, damage penetrates #% elemental resistances",
     "average": null,
     "prices": [],
@@ -29328,6 +29339,24 @@
   {
     "item": "Goldwyrm",
     "stats": "+# to level of socketed aoe gems",
+    "average": 92.276,
+    "prices": [
+      20,
+      30,
+      33,
+      40,
+      40,
+      40,
+      100,
+      140,
+      239.88,
+      239.88
+    ],
+    "search": {
+      "id": "qXjO909Tg",
+      "complexity": 18,
+      "total": 20
+    },
     "builds": 2,
     "mods": [
       {
@@ -29393,6 +29422,13 @@
   {
     "item": "Dialla's Malefaction",
     "stats": "+# to level of socketed duration gems, #% additional physical damage reduction while stationary",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "eXWORbWFL",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 2,
     "mods": [
       {
@@ -29412,6 +29448,16 @@
   {
     "item": "Dialla's Malefaction",
     "stats": "+# to level of socketed gems, +# to level of socketed aura gems",
+    "average": 59370.3,
+    "prices": [
+      58770.6,
+      59970
+    ],
+    "search": {
+      "id": "3Brgqp5i5",
+      "complexity": 29,
+      "total": 2
+    },
     "builds": 2,
     "mods": [
       {
