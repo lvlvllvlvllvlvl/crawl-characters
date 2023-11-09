@@ -144,7 +144,7 @@
       "complexity": 18,
       "total": 106
     },
-    "builds": 82,
+    "builds": 83,
     "mods": [
       {
         "text": "curse enemies with elemental weakness on hit",
@@ -4026,6 +4026,37 @@
     ]
   },
   {
+    "item": "Hyrri's Truth",
+    "stats": "you can apply an additional curse",
+    "average": 1421.5278000000003,
+    "prices": [
+      1260.468,
+      1283.81,
+      1400.52,
+      1400.52,
+      1400.52,
+      1400.52,
+      1400.52,
+      1400.52,
+      1633.9399999999998,
+      1633.9399999999998
+    ],
+    "search": {
+      "id": "rY5YQ07CQ",
+      "complexity": 18,
+      "total": 44
+    },
+    "builds": 13,
+    "mods": [
+      {
+        "text": "you can apply an additional curse",
+        "trade_ids": [
+          "implicit.stat_30642521"
+        ]
+      }
+    ]
+  },
+  {
     "item": "Heartbound Loop",
     "stats": "zealotry has #% increased aura effect",
     "average": 148.945,
@@ -4414,37 +4445,6 @@
         "text": "hatred has #% increased aura effect",
         "trade_ids": [
           "implicit.stat_3742945352"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Hyrri's Truth",
-    "stats": "you can apply an additional curse",
-    "average": 1421.5278000000003,
-    "prices": [
-      1260.468,
-      1283.81,
-      1400.52,
-      1400.52,
-      1400.52,
-      1400.52,
-      1400.52,
-      1400.52,
-      1633.9399999999998,
-      1633.9399999999998
-    ],
-    "search": {
-      "id": "rY5YQ07CQ",
-      "complexity": 18,
-      "total": 44
-    },
-    "builds": 12,
-    "mods": [
-      {
-        "text": "you can apply an additional curse",
-        "trade_ids": [
-          "implicit.stat_30642521"
         ]
       }
     ]
@@ -9312,6 +9312,36 @@
   },
   {
     "item": "Mageblood",
+    "stats": "+#% to critical strike multiplier during any flask effect",
+    "average": 193280.41333333336,
+    "prices": [
+      95907.2,
+      129078.045,
+      143420.05,
+      157762.055,
+      152048,
+      243814.08499999996,
+      243814.08499999996,
+      286840.1,
+      286840.1
+    ],
+    "search": {
+      "id": "dPaOBZ3cJ",
+      "complexity": 18,
+      "total": 9
+    },
+    "builds": 5,
+    "mods": [
+      {
+        "text": "+#% to critical strike multiplier during any flask effect",
+        "trade_ids": [
+          "implicit.stat_240289863"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Mageblood",
     "stats": "zealotry has #% increased aura effect",
     "average": 199315.9,
     "prices": [
@@ -11429,36 +11459,6 @@
         "text": "#% increased movement speed",
         "trade_ids": [
           "implicit.stat_2250533757"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Mageblood",
-    "stats": "+#% to critical strike multiplier during any flask effect",
-    "average": 193280.41333333336,
-    "prices": [
-      95907.2,
-      129078.045,
-      143420.05,
-      157762.055,
-      152048,
-      243814.08499999996,
-      243814.08499999996,
-      286840.1,
-      286840.1
-    ],
-    "search": {
-      "id": "dPaOBZ3cJ",
-      "complexity": 18,
-      "total": 9
-    },
-    "builds": 4,
-    "mods": [
-      {
-        "text": "+#% to critical strike multiplier during any flask effect",
-        "trade_ids": [
-          "implicit.stat_240289863"
         ]
       }
     ]
@@ -16290,6 +16290,13 @@
   {
     "item": "Unnatural Instinct",
     "stats": "you cannot be maimed, #% increased effect of non-damaging ailments",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "eXWqM79UL",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 3,
     "mods": [
       {
@@ -16309,6 +16316,13 @@
   {
     "item": "Unnatural Instinct",
     "stats": "you cannot be cursed with silence, #% increased effect of non-damaging ailments",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "KJDvZG6h5",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 3,
     "mods": [
       {
@@ -16328,6 +16342,13 @@
   {
     "item": "Unnatural Instinct",
     "stats": "#% increased damage, #% increased effect of non-damaging ailments",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "8a2E9pZuV",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 3,
     "mods": [
       {
@@ -16347,6 +16368,13 @@
   {
     "item": "Unnatural Instinct",
     "stats": "#% increased area of effect, you cannot be maimed",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "Lmd3loVHn",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 3,
     "mods": [
       {
@@ -16366,6 +16394,13 @@
   {
     "item": "Unnatural Instinct",
     "stats": "minions deal #% increased damage, damage penetrates #% elemental resistances",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "kXjdm5WI5",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 3,
     "mods": [
       {
@@ -23078,6 +23113,25 @@
         "text": "damage penetrates #% elemental resistances",
         "trade_ids": [
           "implicit.stat_2101383955"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Unnatural Instinct",
+    "stats": "corrupted blood cannot be inflicted on you, #% reduced bleed duration on you",
+    "builds": 2,
+    "mods": [
+      {
+        "text": "corrupted blood cannot be inflicted on you",
+        "trade_ids": [
+          "implicit.stat_1658498488"
+        ]
+      },
+      {
+        "text": "#% reduced bleed duration on you",
+        "trade_ids": [
+          "implicit.stat_1692879867"
         ]
       }
     ]
@@ -40006,25 +40060,6 @@
         "text": "#% reduced effect of curses on you",
         "trade_ids": [
           "implicit.stat_3407849389"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Unnatural Instinct",
-    "stats": "corrupted blood cannot be inflicted on you, #% reduced bleed duration on you",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "corrupted blood cannot be inflicted on you",
-        "trade_ids": [
-          "implicit.stat_1658498488"
-        ]
-      },
-      {
-        "text": "#% reduced bleed duration on you",
-        "trade_ids": [
-          "implicit.stat_1692879867"
         ]
       }
     ]
