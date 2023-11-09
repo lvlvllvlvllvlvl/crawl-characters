@@ -5176,6 +5176,37 @@
     ]
   },
   {
+    "item": "Legacy of Fury",
+    "stats": "#% increased movement speed",
+    "average": 53.5,
+    "prices": [
+      20,
+      20,
+      20,
+      35,
+      40,
+      40,
+      70,
+      80,
+      99,
+      111
+    ],
+    "search": {
+      "id": "6Gqvl6XuG",
+      "complexity": 18,
+      "total": 30
+    },
+    "builds": 10,
+    "mods": [
+      {
+        "text": "#% increased movement speed",
+        "trade_ids": [
+          "implicit.stat_2250533757"
+        ]
+      }
+    ]
+  },
+  {
     "item": "Blunderbore",
     "stats": "+#% to all elemental resistances",
     "average": 2.5,
@@ -5991,37 +6022,6 @@
         "text": "bow attacks fire an additional arrow",
         "trade_ids": [
           "implicit.stat_742529963"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Legacy of Fury",
-    "stats": "#% increased movement speed",
-    "average": 53.5,
-    "prices": [
-      20,
-      20,
-      20,
-      35,
-      40,
-      40,
-      70,
-      80,
-      99,
-      111
-    ],
-    "search": {
-      "id": "6Gqvl6XuG",
-      "complexity": 18,
-      "total": 30
-    },
-    "builds": 9,
-    "mods": [
-      {
-        "text": "#% increased movement speed",
-        "trade_ids": [
-          "implicit.stat_2250533757"
         ]
       }
     ]
@@ -20459,6 +20459,13 @@
   {
     "item": "The Formless Flame",
     "stats": "socketed skill gems get a #% cost & reservation multiplier",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "Lmdj95jhn",
+      "complexity": 18,
+      "total": 0
+    },
     "builds": 3,
     "mods": [
       {
@@ -20472,6 +20479,24 @@
   {
     "item": "Perandus Blazon",
     "stats": "#% increased rarity of items found",
+    "average": 834.0716666666667,
+    "prices": [
+      190,
+      239.89,
+      359.835,
+      719.67,
+      719.67,
+      1199.4499999999998,
+      1199.4499999999998,
+      1199.4499999999998,
+      1679.23,
+      7196.7
+    ],
+    "search": {
+      "id": "y9RklMqSR",
+      "complexity": 18,
+      "total": 10
+    },
     "builds": 3,
     "mods": [
       {
@@ -20485,6 +20510,13 @@
   {
     "item": "Thread of Hope",
     "stats": "#% increased reservation efficiency of skills, #% increased effect of non-damaging ailments",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "kXjY795c5",
+      "complexity": 30,
+      "total": 0
+    },
     "builds": 3,
     "mods": [
       {
@@ -20505,6 +20537,19 @@
   {
     "item": "Thread of Hope",
     "stats": "#% increased area of effect",
+    "average": 1739.23,
+    "prices": [
+      150,
+      150,
+      719.67,
+      2878.68,
+      4797.799999999999
+    ],
+    "search": {
+      "id": "WVWjq60Cm",
+      "complexity": 18,
+      "total": 5
+    },
     "builds": 3,
     "mods": [
       {
@@ -20518,6 +20563,23 @@
   {
     "item": "Thread of Hope",
     "stats": "you cannot be hindered",
+    "average": 339.84416666666664,
+    "prices": [
+      239.89,
+      239.89,
+      239.89,
+      359.835,
+      479.78,
+      479.78,
+      1199.4499999999998,
+      3598.35,
+      23989
+    ],
+    "search": {
+      "id": "VMEdLP8Sp",
+      "complexity": 18,
+      "total": 9
+    },
     "builds": 3,
     "mods": [
       {
@@ -20531,6 +20593,13 @@
   {
     "item": "Thread of Hope",
     "stats": "#% reduced effect of curses on you, corrupted blood cannot be inflicted on you",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "gXWog9KFQ",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 3,
     "mods": [
       {
@@ -20550,6 +20619,13 @@
   {
     "item": "Thread of Hope",
     "stats": "#% increased reservation efficiency of skills, damage penetrates #% lightning resistance",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "VMEdYawUp",
+      "complexity": 30,
+      "total": 0
+    },
     "builds": 3,
     "mods": [
       {
@@ -20570,6 +20646,13 @@
   {
     "item": "Thread of Hope",
     "stats": "corrupted blood cannot be inflicted on you, #% reduced bleed duration on you",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "6ZkwKWqhG",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 3,
     "mods": [
       {
@@ -41636,6 +41719,25 @@
         "text": "#% increased maximum life",
         "trade_ids": [
           "implicit.stat_983749596"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Aegis Aurora",
+    "stats": "+#% to maximum chance to block attack damage, #% of physical damage from hits taken as lightning damage",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "+#% to maximum chance to block attack damage",
+        "trade_ids": [
+          "implicit.stat_4124805414"
+        ]
+      },
+      {
+        "text": "#% of physical damage from hits taken as lightning damage",
+        "trade_ids": [
+          "implicit.stat_425242359"
         ]
       }
     ]
