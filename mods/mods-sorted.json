@@ -7504,6 +7504,37 @@
     ]
   },
   {
+    "item": "Malachai's Loop",
+    "stats": "#% increased spell damage",
+    "average": 2.6666666666666665,
+    "prices": [
+      1,
+      2,
+      2,
+      2,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3
+    ],
+    "search": {
+      "id": "waPa4Kncb",
+      "complexity": 18,
+      "total": 158
+    },
+    "builds": 7,
+    "mods": [
+      {
+        "text": "#% increased spell damage",
+        "trade_ids": [
+          "implicit.stat_2974417149"
+        ]
+      }
+    ]
+  },
+  {
     "item": "Stormshroud",
     "stats": "#% increased damage",
     "average": null,
@@ -8821,37 +8852,6 @@
         "text": "corrupted blood cannot be inflicted on you",
         "trade_ids": [
           "implicit.stat_1658498488"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Malachai's Loop",
-    "stats": "#% increased spell damage",
-    "average": 2.6666666666666665,
-    "prices": [
-      1,
-      2,
-      2,
-      2,
-      3,
-      3,
-      3,
-      3,
-      3,
-      3
-    ],
-    "search": {
-      "id": "waPa4Kncb",
-      "complexity": 18,
-      "total": 158
-    },
-    "builds": 6,
-    "mods": [
-      {
-        "text": "#% increased spell damage",
-        "trade_ids": [
-          "implicit.stat_2974417149"
         ]
       }
     ]
@@ -25744,6 +25744,13 @@
   {
     "item": "Lightning Coil",
     "stats": "+# to level of socketed duration gems, +# to level of socketed projectile gems",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "pXjRJawu0",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 2,
     "mods": [
       {
@@ -25763,6 +25770,23 @@
   {
     "item": "Lightning Coil",
     "stats": "#% increased maximum life",
+    "average": 469.21777777777777,
+    "prices": [
+      70,
+      75,
+      479.76,
+      479.76,
+      479.76,
+      479.76,
+      479.76,
+      719.64,
+      959.52
+    ],
+    "search": {
+      "id": "rXjJP9RSQ",
+      "complexity": 18,
+      "total": 9
+    },
     "builds": 2,
     "mods": [
       {
@@ -25776,6 +25800,15 @@
   {
     "item": "Lightning Coil",
     "stats": "+# to level of socketed aoe gems, +# to level of socketed minion gems",
+    "average": 1919.04,
+    "prices": [
+      1919.04
+    ],
+    "search": {
+      "id": "Lmdygq2Tn",
+      "complexity": 29,
+      "total": 1
+    },
     "builds": 2,
     "mods": [
       {
@@ -34927,6 +34960,19 @@
         "text": "minions deal #% increased damage",
         "trade_ids": [
           "implicit.stat_1589917703"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "The Taming",
+    "stats": "+#% to all elemental resistances",
+    "builds": 2,
+    "mods": [
+      {
+        "text": "+#% to all elemental resistances",
+        "trade_ids": [
+          "implicit.stat_2901986750"
         ]
       }
     ]
@@ -86387,19 +86433,6 @@
         "text": "adds # to # lightning damage to spells and attacks",
         "trade_ids": [
           "implicit.stat_2885144362"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "The Taming",
-    "stats": "+#% to all elemental resistances",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "+#% to all elemental resistances",
-        "trade_ids": [
-          "implicit.stat_2901986750"
         ]
       }
     ]
