@@ -18174,6 +18174,22 @@
   {
     "item": "Goldwyrm",
     "stats": "#% increased maximum energy shield",
+    "average": 30.666666666666668,
+    "prices": [
+      20,
+      20,
+      20,
+      24,
+      50,
+      50,
+      120,
+      150
+    ],
+    "search": {
+      "id": "5okOd7nTa",
+      "complexity": 18,
+      "total": 8
+    },
     "builds": 3,
     "mods": [
       {
@@ -18187,6 +18203,24 @@
   {
     "item": "Goldwyrm",
     "stats": "+# to level of socketed duration gems",
+    "average": 54.285714285714285,
+    "prices": [
+      20,
+      20,
+      20,
+      50,
+      60,
+      100,
+      110,
+      180,
+      239.89,
+      479.78
+    ],
+    "search": {
+      "id": "RVBZ9gWh7",
+      "complexity": 18,
+      "total": 10
+    },
     "builds": 3,
     "mods": [
       {
@@ -18229,6 +18263,16 @@
   {
     "item": "Goldwyrm",
     "stats": "+# to maximum endurance charges, regenerate # life per second while moving",
+    "average": 314.89,
+    "prices": [
+      150,
+      479.78
+    ],
+    "search": {
+      "id": "JVdMn2WIl",
+      "complexity": 29,
+      "total": 2
+    },
     "builds": 3,
     "mods": [
       {
@@ -18248,6 +18292,13 @@
   {
     "item": "Dialla's Malefaction",
     "stats": "+# to level of socketed aoe gems, #% reduced chaos damage taken",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "jXj7RKLfX",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 3,
     "mods": [
       {
