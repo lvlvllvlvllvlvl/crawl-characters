@@ -1809,6 +1809,37 @@
     ]
   },
   {
+    "item": "Vixen's Entrapment",
+    "stats": "#% increased cast speed",
+    "average": 44,
+    "prices": [
+      15,
+      25,
+      30,
+      40,
+      50,
+      50,
+      50,
+      50,
+      60,
+      70
+    ],
+    "search": {
+      "id": "PK7l22JCL",
+      "complexity": 18,
+      "total": 52
+    },
+    "builds": 21,
+    "mods": [
+      {
+        "text": "#% increased cast speed",
+        "trade_ids": [
+          "implicit.stat_2891184298"
+        ]
+      }
+    ]
+  },
+  {
     "item": "The Fourth Vow",
     "stats": "+# to level of socketed gems",
     "average": 2197.96875,
@@ -2034,37 +2065,6 @@
         "text": "+# to level of socketed aoe gems",
         "trade_ids": [
           "implicit.stat_2551600084"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Vixen's Entrapment",
-    "stats": "#% increased cast speed",
-    "average": 44,
-    "prices": [
-      15,
-      25,
-      30,
-      40,
-      50,
-      50,
-      50,
-      50,
-      60,
-      70
-    ],
-    "search": {
-      "id": "PK7l22JCL",
-      "complexity": 18,
-      "total": 52
-    },
-    "builds": 20,
-    "mods": [
-      {
-        "text": "#% increased cast speed",
-        "trade_ids": [
-          "implicit.stat_2891184298"
         ]
       }
     ]
@@ -3295,6 +3295,37 @@
     ]
   },
   {
+    "item": "Dawnbreaker",
+    "stats": "#% of physical damage from hits taken as lightning damage",
+    "average": 194.744,
+    "prices": [
+      80,
+      80,
+      150,
+      233.92,
+      233.92,
+      233.92,
+      233.92,
+      233.92,
+      233.92,
+      233.92
+    ],
+    "search": {
+      "id": "bPZqk5dCL",
+      "complexity": 18,
+      "total": 42
+    },
+    "builds": 15,
+    "mods": [
+      {
+        "text": "#% of physical damage from hits taken as lightning damage",
+        "trade_ids": [
+          "implicit.stat_425242359"
+        ]
+      }
+    ]
+  },
+  {
     "item": "Marylene's Fallacy",
     "stats": "you can apply an additional curse",
     "average": 2159.0099999999998,
@@ -3525,37 +3556,6 @@
         "text": "corrupted blood cannot be inflicted on you",
         "trade_ids": [
           "implicit.stat_1658498488"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Dawnbreaker",
-    "stats": "#% of physical damage from hits taken as lightning damage",
-    "average": 194.744,
-    "prices": [
-      80,
-      80,
-      150,
-      233.92,
-      233.92,
-      233.92,
-      233.92,
-      233.92,
-      233.92,
-      233.92
-    ],
-    "search": {
-      "id": "bPZqk5dCL",
-      "complexity": 18,
-      "total": 42
-    },
-    "builds": 14,
-    "mods": [
-      {
-        "text": "#% of physical damage from hits taken as lightning damage",
-        "trade_ids": [
-          "implicit.stat_425242359"
         ]
       }
     ]
@@ -22627,6 +22627,13 @@
   {
     "item": "The Taming",
     "stats": "hatred has #% increased aura effect",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "qXjq9PLHg",
+      "complexity": 18,
+      "total": 0
+    },
     "builds": 3,
     "mods": [
       {
@@ -22640,6 +22647,17 @@
   {
     "item": "Primordial Harmony",
     "stats": "#% reduced effect of curses on you",
+    "average": 154.96333333333334,
+    "prices": [
+      100,
+      125,
+      239.89
+    ],
+    "search": {
+      "id": "oXjqpP4hl",
+      "complexity": 18,
+      "total": 3
+    },
     "builds": 3,
     "mods": [
       {
@@ -22653,6 +22671,16 @@
   {
     "item": "Pure Talent",
     "stats": "damage penetrates #% elemental resistances",
+    "average": 40,
+    "prices": [
+      25,
+      55
+    ],
+    "search": {
+      "id": "9Y2vz0RhK",
+      "complexity": 18,
+      "total": 2
+    },
     "builds": 3,
     "mods": [
       {
@@ -22690,6 +22718,19 @@
   {
     "item": "Timeclasp",
     "stats": "grace has #% increased aura effect",
+    "average": 127.445,
+    "prices": [
+      10,
+      20,
+      239.89,
+      239.89,
+      3598.35
+    ],
+    "search": {
+      "id": "3BrZq2GU5",
+      "complexity": 18,
+      "total": 5
+    },
     "builds": 3,
     "mods": [
       {
@@ -22754,6 +22795,13 @@
   {
     "item": "Annihilation's Approach",
     "stats": "+# to maximum endurance charges",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "waPqlJrib",
+      "complexity": 18,
+      "total": 0
+    },
     "builds": 3,
     "mods": [
       {
@@ -33115,6 +33163,25 @@
         "text": "#% increased area of effect",
         "trade_ids": [
           "implicit.stat_280731498"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Loreweave",
+    "stats": "+# to level of socketed aoe gems, #% increased maximum life",
+    "builds": 2,
+    "mods": [
+      {
+        "text": "+# to level of socketed aoe gems",
+        "trade_ids": [
+          "implicit.stat_2551600084"
+        ]
+      },
+      {
+        "text": "#% increased maximum life",
+        "trade_ids": [
+          "implicit.stat_983749596"
         ]
       }
     ]
@@ -79137,25 +79204,6 @@
         "text": "#% increased effect of non-damaging ailments",
         "trade_ids": [
           "implicit.stat_782230869"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Loreweave",
-    "stats": "+# to level of socketed aoe gems, #% increased maximum life",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "+# to level of socketed aoe gems",
-        "trade_ids": [
-          "implicit.stat_2551600084"
-        ]
-      },
-      {
-        "text": "#% increased maximum life",
-        "trade_ids": [
-          "implicit.stat_983749596"
         ]
       }
     ]
