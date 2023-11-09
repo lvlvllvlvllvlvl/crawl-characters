@@ -8955,6 +8955,37 @@
     ]
   },
   {
+    "item": "Replica Dreamfeather",
+    "stats": "resolute technique",
+    "average": 3972.05,
+    "prices": [
+      2336.5,
+      2336.5,
+      2336.5,
+      2570.15,
+      2803.8,
+      3504.75,
+      5841.25,
+      5841.25,
+      5841.25,
+      6308.55
+    ],
+    "search": {
+      "id": "gPeEo32hQ",
+      "complexity": 18,
+      "total": 22
+    },
+    "builds": 6,
+    "mods": [
+      {
+        "text": "resolute technique",
+        "trade_ids": [
+          "implicit.stat_3943945975"
+        ]
+      }
+    ]
+  },
+  {
     "item": "March of the Legion",
     "stats": "+# to level of socketed gems, +# to level of socketed duration gems",
     "average": 3034.4599999999996,
@@ -11020,37 +11051,6 @@
         "text": "#% increased movement speed",
         "trade_ids": [
           "implicit.stat_2250533757"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Replica Dreamfeather",
-    "stats": "resolute technique",
-    "average": 3972.05,
-    "prices": [
-      2336.5,
-      2336.5,
-      2336.5,
-      2570.15,
-      2803.8,
-      3504.75,
-      5841.25,
-      5841.25,
-      5841.25,
-      6308.55
-    ],
-    "search": {
-      "id": "gPeEo32hQ",
-      "complexity": 18,
-      "total": 22
-    },
-    "builds": 5,
-    "mods": [
-      {
-        "text": "resolute technique",
-        "trade_ids": [
-          "implicit.stat_3943945975"
         ]
       }
     ]
@@ -17388,6 +17388,32 @@
         "text": "#% increased maximum life",
         "trade_ids": [
           "implicit.stat_983749596"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Kaom's Spirit",
+    "stats": "+# to level of socketed gems, +# to level of socketed aoe gems",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "noEZmbzS0",
+      "complexity": 29,
+      "total": 0
+    },
+    "builds": 3,
+    "mods": [
+      {
+        "text": "+# to level of socketed gems",
+        "trade_ids": [
+          "implicit.stat_2843100721"
+        ]
+      },
+      {
+        "text": "+# to level of socketed aoe gems",
+        "trade_ids": [
+          "implicit.stat_2551600084"
         ]
       }
     ]
@@ -25156,6 +25182,21 @@
   {
     "item": "Yoke of Suffering",
     "stats": "+#% to all elemental resistances",
+    "average": 209.91357142857143,
+    "prices": [
+      50,
+      100,
+      239.89,
+      239.89,
+      239.89,
+      239.89,
+      359.835
+    ],
+    "search": {
+      "id": "pXjvBRJT0",
+      "complexity": 18,
+      "total": 7
+    },
     "builds": 2,
     "mods": [
       {
@@ -25169,6 +25210,13 @@
   {
     "item": "Farrul's Fur",
     "stats": "#% increased damage, +#% to all maximum resistances",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "eXW7gPbsL",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 2,
     "mods": [
       {
@@ -25188,6 +25236,22 @@
   {
     "item": "Farrul's Fur",
     "stats": "#% increased damage",
+    "average": 50466.85875,
+    "prices": [
+      7916.37,
+      10795.05,
+      13193.949999999999,
+      22789.55,
+      23989,
+      25188.449999999997,
+      143934,
+      155928.5
+    ],
+    "search": {
+      "id": "KJDGMWqF5",
+      "complexity": 18,
+      "total": 8
+    },
     "builds": 2,
     "mods": [
       {
@@ -25239,6 +25303,15 @@
   {
     "item": "Darkray Vectors",
     "stats": "+#% chance to suppress spell damage, regenerate # life per second while moving",
+    "average": 959.56,
+    "prices": [
+      959.56
+    ],
+    "search": {
+      "id": "5okeOgeUa",
+      "complexity": 30,
+      "total": 1
+    },
     "builds": 2,
     "mods": [
       {
@@ -26935,32 +27008,6 @@
         "text": "+#% to spell critical strike chance",
         "trade_ids": [
           "implicit.stat_791835907"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Kaom's Spirit",
-    "stats": "+# to level of socketed gems, +# to level of socketed aoe gems",
-    "average": null,
-    "prices": [],
-    "search": {
-      "id": "noEZmbzS0",
-      "complexity": 29,
-      "total": 0
-    },
-    "builds": 2,
-    "mods": [
-      {
-        "text": "+# to level of socketed gems",
-        "trade_ids": [
-          "implicit.stat_2843100721"
-        ]
-      },
-      {
-        "text": "+# to level of socketed aoe gems",
-        "trade_ids": [
-          "implicit.stat_2551600084"
         ]
       }
     ]
@@ -31962,6 +32009,26 @@
     ]
   },
   {
+    "item": "Replica Dreamfeather",
+    "stats": "#% increased attack speed, #% increased area of effect",
+    "builds": 2,
+    "mods": [
+      {
+        "text": "#% increased attack speed",
+        "trade_ids": [
+          "implicit.stat_681332047",
+          "implicit.stat_210067635"
+        ]
+      },
+      {
+        "text": "#% increased area of effect",
+        "trade_ids": [
+          "implicit.stat_280731498"
+        ]
+      }
+    ]
+  },
+  {
     "item": "March of the Legion",
     "stats": "+# to level of socketed projectile gems",
     "builds": 2,
@@ -32021,6 +32088,25 @@
         "trade_ids": [
           "implicit.stat_3680664274",
           "implicit.stat_492027537"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "March of the Legion",
+    "stats": "+# to level of socketed aoe gems, +# to level of socketed aura gems",
+    "builds": 2,
+    "mods": [
+      {
+        "text": "+# to level of socketed aoe gems",
+        "trade_ids": [
+          "implicit.stat_2551600084"
+        ]
+      },
+      {
+        "text": "+# to level of socketed aura gems",
+        "trade_ids": [
+          "implicit.stat_2452998583"
         ]
       }
     ]
@@ -69943,26 +70029,6 @@
   },
   {
     "item": "Replica Dreamfeather",
-    "stats": "#% increased attack speed, #% increased area of effect",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "#% increased attack speed",
-        "trade_ids": [
-          "implicit.stat_681332047",
-          "implicit.stat_210067635"
-        ]
-      },
-      {
-        "text": "#% increased area of effect",
-        "trade_ids": [
-          "implicit.stat_280731498"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Replica Dreamfeather",
     "stats": "melee hits have #% chance to fortify, resolute technique",
     "builds": 1,
     "mods": [
@@ -70071,25 +70137,6 @@
         "text": "+# armour while stationary",
         "trade_ids": [
           "implicit.stat_2551779822"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "March of the Legion",
-    "stats": "+# to level of socketed aoe gems, +# to level of socketed aura gems",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "+# to level of socketed aoe gems",
-        "trade_ids": [
-          "implicit.stat_2551600084"
-        ]
-      },
-      {
-        "text": "+# to level of socketed aura gems",
-        "trade_ids": [
-          "implicit.stat_2452998583"
         ]
       }
     ]
@@ -78704,6 +78751,19 @@
           "implicit.stat_656461285"
         ]
       },
+      {
+        "text": "+#% to all elemental resistances",
+        "trade_ids": [
+          "implicit.stat_2901986750"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Original Sin",
+    "stats": "+#% to all elemental resistances",
+    "builds": 1,
+    "mods": [
       {
         "text": "+#% to all elemental resistances",
         "trade_ids": [
