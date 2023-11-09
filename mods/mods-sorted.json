@@ -7063,6 +7063,38 @@
     ]
   },
   {
+    "item": "Unnatural Instinct",
+    "stats": "#% increased reservation efficiency of skills",
+    "average": 6374.219999999999,
+    "prices": [
+      4797.799999999999,
+      5517.469999999999,
+      5757.36,
+      6477.03,
+      6477.03,
+      6716.92,
+      6716.92,
+      6956.8099999999995,
+      9595.599999999999,
+      11994.5
+    ],
+    "search": {
+      "id": "pXjl08eT0",
+      "complexity": 19,
+      "total": 12
+    },
+    "builds": 7,
+    "mods": [
+      {
+        "text": "#% increased reservation efficiency of skills",
+        "trade_ids": [
+          "implicit.stat_2587176568",
+          "implicit.stat_4202507508"
+        ]
+      }
+    ]
+  },
+  {
     "item": "Aegis Aurora",
     "stats": "+#% chance to block",
     "average": 662.2028,
@@ -7884,38 +7916,6 @@
         "trade_ids": [
           "implicit.stat_3680664274",
           "implicit.stat_492027537"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Unnatural Instinct",
-    "stats": "#% increased reservation efficiency of skills",
-    "average": 6374.219999999999,
-    "prices": [
-      4797.799999999999,
-      5517.469999999999,
-      5757.36,
-      6477.03,
-      6477.03,
-      6716.92,
-      6716.92,
-      6956.8099999999995,
-      9595.599999999999,
-      11994.5
-    ],
-    "search": {
-      "id": "pXjl08eT0",
-      "complexity": 19,
-      "total": 12
-    },
-    "builds": 6,
-    "mods": [
-      {
-        "text": "#% increased reservation efficiency of skills",
-        "trade_ids": [
-          "implicit.stat_2587176568",
-          "implicit.stat_4202507508"
         ]
       }
     ]
@@ -16682,6 +16682,13 @@
   {
     "item": "Unnatural Instinct",
     "stats": "you cannot be maimed, corrupted blood cannot be inflicted on you",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "8a2EZDvtV",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 3,
     "mods": [
       {
@@ -16701,6 +16708,13 @@
   {
     "item": "Unnatural Instinct",
     "stats": "#% increased damage, #% increased global critical strike chance",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "y9RaJz8HR",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 3,
     "mods": [
       {
@@ -16720,6 +16734,13 @@
   {
     "item": "Unnatural Instinct",
     "stats": "#% reduced effect of curses on you, damage penetrates #% cold resistance",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "5okKzyjha",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 3,
     "mods": [
       {
@@ -16739,6 +16760,13 @@
   {
     "item": "Unnatural Instinct",
     "stats": "#% increased global critical strike chance, overwhelm #% physical damage reduction",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "DL8oEBvT5",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 3,
     "mods": [
       {
@@ -16758,6 +16786,13 @@
   {
     "item": "Unnatural Instinct",
     "stats": "damage penetrates #% cold resistance, #% reduced effect of shock on you",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "WVWDXPvSm",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 3,
     "mods": [
       {
@@ -62467,6 +62502,25 @@
         "text": "#% reduced ignite duration on you",
         "trade_ids": [
           "implicit.stat_986397080"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Thread of Hope",
+    "stats": "#% increased damage, corrupted blood cannot be inflicted on you",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "#% increased damage",
+        "trade_ids": [
+          "implicit.stat_2154246560"
+        ]
+      },
+      {
+        "text": "corrupted blood cannot be inflicted on you",
+        "trade_ids": [
+          "implicit.stat_1658498488"
         ]
       }
     ]
