@@ -10144,6 +10144,36 @@
     ]
   },
   {
+    "item": "Viridi's Veil",
+    "stats": "+# to maximum power charges",
+    "average": 90,
+    "prices": [
+      40,
+      50,
+      60,
+      100,
+      140,
+      150,
+      959.56,
+      1199.4499999999998,
+      14393.4
+    ],
+    "search": {
+      "id": "DL855G4H5",
+      "complexity": 18,
+      "total": 9
+    },
+    "builds": 5,
+    "mods": [
+      {
+        "text": "+# to maximum power charges",
+        "trade_ids": [
+          "implicit.stat_227523295"
+        ]
+      }
+    ]
+  },
+  {
     "item": "The Poet's Pen",
     "stats": "#% increased spell damage",
     "average": 20,
@@ -13286,36 +13316,6 @@
         "text": "#% reduced bleed duration on you",
         "trade_ids": [
           "implicit.stat_1692879867"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Viridi's Veil",
-    "stats": "+# to maximum power charges",
-    "average": 90,
-    "prices": [
-      40,
-      50,
-      60,
-      100,
-      140,
-      150,
-      959.56,
-      1199.4499999999998,
-      14393.4
-    ],
-    "search": {
-      "id": "DL855G4H5",
-      "complexity": 18,
-      "total": 9
-    },
-    "builds": 4,
-    "mods": [
-      {
-        "text": "+# to maximum power charges",
-        "trade_ids": [
-          "implicit.stat_227523295"
         ]
       }
     ]
@@ -23385,6 +23385,32 @@
   },
   {
     "item": "Mageblood",
+    "stats": "wrath has #% increased aura effect, grace has #% increased aura effect",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "jPpDJdouX",
+      "complexity": 29,
+      "total": 0
+    },
+    "builds": 2,
+    "mods": [
+      {
+        "text": "wrath has #% increased aura effect",
+        "trade_ids": [
+          "implicit.stat_2181791238"
+        ]
+      },
+      {
+        "text": "grace has #% increased aura effect",
+        "trade_ids": [
+          "implicit.stat_397427740"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Mageblood",
     "stats": "#% increased dexterity, #% increased intelligence, determination has #% increased aura effect",
     "average": null,
     "prices": [],
@@ -27554,6 +27580,13 @@
   {
     "item": "Hrimsorrow",
     "stats": "+# to level of socketed aura gems, #% increased maximum life",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "vlPJ4jDTE",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 2,
     "mods": [
       {
@@ -27601,6 +27634,13 @@
   {
     "item": "Hrimsorrow",
     "stats": "+# to level of socketed aoe gems, #% increased maximum life",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "3BrDXe9F5",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 2,
     "mods": [
       {
@@ -27620,6 +27660,13 @@
   {
     "item": "Hrimsorrow",
     "stats": "+# to level of socketed gems, +#% to spell critical strike chance",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "2BrkP9Ghk",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 2,
     "mods": [
       {
@@ -27639,6 +27686,13 @@
   {
     "item": "Hrimsorrow",
     "stats": "+# to level of socketed gems, +# to level of socketed curse gems",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "8a2JgdqUV",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 2,
     "mods": [
       {
@@ -27658,6 +27712,13 @@
   {
     "item": "Hrimsorrow",
     "stats": "+# to maximum frenzy charges, attacks have +#% to critical strike chance",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "Ey6Qb84F5",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 2,
     "mods": [
       {
@@ -27677,6 +27738,24 @@
   {
     "item": "Shaper's Touch",
     "stats": "+# to maximum frenzy charges",
+    "average": 63.125,
+    "prices": [
+      15,
+      40,
+      40,
+      50,
+      80,
+      80,
+      100,
+      100,
+      150,
+      239.89
+    ],
+    "search": {
+      "id": "LmdXbW5sn",
+      "complexity": 18,
+      "total": 10
+    },
     "builds": 2,
     "mods": [
       {
@@ -27690,6 +27769,24 @@
   {
     "item": "Mjölner",
     "stats": "#% increased attack speed",
+    "average": 1176.128888888889,
+    "prices": [
+      30,
+      719.67,
+      719.67,
+      719.67,
+      959.56,
+      1199.4499999999998,
+      1919.12,
+      1919.12,
+      2398.8999999999996,
+      4078.1299999999997
+    ],
+    "search": {
+      "id": "kXjE4KjF5",
+      "complexity": 19,
+      "total": 10
+    },
     "builds": 2,
     "mods": [
       {
@@ -37512,32 +37609,6 @@
   },
   {
     "item": "Mageblood",
-    "stats": "wrath has #% increased aura effect, grace has #% increased aura effect",
-    "average": null,
-    "prices": [],
-    "search": {
-      "id": "jPpDJdouX",
-      "complexity": 29,
-      "total": 0
-    },
-    "builds": 1,
-    "mods": [
-      {
-        "text": "wrath has #% increased aura effect",
-        "trade_ids": [
-          "implicit.stat_2181791238"
-        ]
-      },
-      {
-        "text": "grace has #% increased aura effect",
-        "trade_ids": [
-          "implicit.stat_397427740"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Mageblood",
     "stats": "#% increased movement speed during any flask effect, +#% to critical strike multiplier during any flask effect",
     "builds": 1,
     "mods": [
@@ -43775,6 +43846,19 @@
         "text": "you cannot be hindered",
         "trade_ids": [
           "implicit.stat_721014846"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Aegis Aurora",
+    "stats": "#% increased maximum energy shield",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "#% increased maximum energy shield",
+        "trade_ids": [
+          "implicit.stat_2482852589"
         ]
       }
     ]
