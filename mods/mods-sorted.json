@@ -28902,6 +28902,24 @@
   {
     "item": "Eyes of the Greatwolf",
     "stats": "#% increased global critical strike chance",
+    "average": 41,
+    "prices": [
+      10,
+      24,
+      25,
+      30,
+      40,
+      50,
+      50,
+      50,
+      50,
+      50
+    ],
+    "search": {
+      "id": "OVwXBV0fE",
+      "complexity": 18,
+      "total": 36
+    },
     "builds": 2,
     "mods": [
       {
@@ -28915,6 +28933,17 @@
   {
     "item": "Headhunter",
     "stats": "#% increased strength, #% increased dexterity",
+    "average": 35183.86666666666,
+    "prices": [
+      29986.25,
+      37182.95,
+      38382.399999999994
+    ],
+    "search": {
+      "id": "waP7Xanib",
+      "complexity": 29,
+      "total": 3
+    },
     "builds": 2,
     "mods": [
       {
@@ -28934,6 +28963,13 @@
   {
     "item": "Headhunter",
     "stats": "discipline has #% increased aura effect",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "qXjD6XvTg",
+      "complexity": 18,
+      "total": 0
+    },
     "builds": 2,
     "mods": [
       {
@@ -29050,6 +29086,13 @@
   {
     "item": "Headhunter",
     "stats": "hatred has #% increased aura effect, +#% to critical strike multiplier during any flask effect",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "Ey6Q8ZRi5",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 2,
     "mods": [
       {
@@ -29181,6 +29224,13 @@
   {
     "item": "Sadima's Touch",
     "stats": "+# to level of socketed gems, +# to level of socketed aura gems",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "5okWzKJha",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 2,
     "mods": [
       {
