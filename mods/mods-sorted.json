@@ -555,6 +555,37 @@
     ]
   },
   {
+    "item": "Vixen's Entrapment",
+    "stats": "+#% to spell critical strike chance",
+    "average": 186.19000000000003,
+    "prices": [
+      95,
+      100,
+      125,
+      140,
+      233.65,
+      233.65,
+      233.65,
+      233.65,
+      233.65,
+      233.65
+    ],
+    "search": {
+      "id": "ZPQdRm7uQ",
+      "complexity": 18,
+      "total": 78
+    },
+    "builds": 38,
+    "mods": [
+      {
+        "text": "+#% to spell critical strike chance",
+        "trade_ids": [
+          "implicit.stat_791835907"
+        ]
+      }
+    ]
+  },
+  {
     "item": "Rathpith Globe",
     "stats": "#% increased maximum life",
     "average": 3504.75,
@@ -605,37 +636,6 @@
         "text": "you can apply an additional curse",
         "trade_ids": [
           "implicit.stat_30642521"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Vixen's Entrapment",
-    "stats": "+#% to spell critical strike chance",
-    "average": 186.19000000000003,
-    "prices": [
-      95,
-      100,
-      125,
-      140,
-      233.65,
-      233.65,
-      233.65,
-      233.65,
-      233.65,
-      233.65
-    ],
-    "search": {
-      "id": "ZPQdRm7uQ",
-      "complexity": 18,
-      "total": 78
-    },
-    "builds": 37,
-    "mods": [
-      {
-        "text": "+#% to spell critical strike chance",
-        "trade_ids": [
-          "implicit.stat_791835907"
         ]
       }
     ]
@@ -5207,6 +5207,32 @@
     ]
   },
   {
+    "item": "Ralakesh's Impatience",
+    "stats": "+# to maximum endurance charges",
+    "average": 4631.616,
+    "prices": [
+      1403.52,
+      3508.7999999999997,
+      4678.4,
+      6549.759999999999,
+      7017.599999999999
+    ],
+    "search": {
+      "id": "wpRQMGQUb",
+      "complexity": 18,
+      "total": 5
+    },
+    "builds": 10,
+    "mods": [
+      {
+        "text": "+# to maximum endurance charges",
+        "trade_ids": [
+          "implicit.stat_1515657623"
+        ]
+      }
+    ]
+  },
+  {
     "item": "Ventor's Gamble",
     "stats": "#% increased rarity of items found",
     "average": 1,
@@ -6024,32 +6050,6 @@
         "text": "+# to level of socketed projectile gems",
         "trade_ids": [
           "implicit.stat_2176571093"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Ralakesh's Impatience",
-    "stats": "+# to maximum endurance charges",
-    "average": 4631.616,
-    "prices": [
-      1403.52,
-      3508.7999999999997,
-      4678.4,
-      6549.759999999999,
-      7017.599999999999
-    ],
-    "search": {
-      "id": "wpRQMGQUb",
-      "complexity": 18,
-      "total": 5
-    },
-    "builds": 9,
-    "mods": [
-      {
-        "text": "+# to maximum endurance charges",
-        "trade_ids": [
-          "implicit.stat_1515657623"
         ]
       }
     ]
@@ -16420,6 +16420,15 @@
   {
     "item": "Unnatural Instinct",
     "stats": "#% increased damage",
+    "average": 23989,
+    "prices": [
+      23989
+    ],
+    "search": {
+      "id": "bXWdanKtL",
+      "complexity": 18,
+      "total": 1
+    },
     "builds": 3,
     "mods": [
       {
@@ -16433,6 +16442,13 @@
   {
     "item": "Unnatural Instinct",
     "stats": "#% reduced effect of chill on you, corrupted blood cannot be inflicted on you",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "nXjdLnJH0",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 3,
     "mods": [
       {
@@ -16452,6 +16468,13 @@
   {
     "item": "Unnatural Instinct",
     "stats": "#% increased reservation efficiency of skills, damage penetrates #% fire resistance",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "mXjd8nrT6",
+      "complexity": 30,
+      "total": 0
+    },
     "builds": 3,
     "mods": [
       {
@@ -16472,6 +16495,15 @@
   {
     "item": "Unnatural Instinct",
     "stats": "#% increased area of effect, #% reduced bleed duration on you",
+    "average": 3598.35,
+    "prices": [
+      3598.35
+    ],
+    "search": {
+      "id": "oXjdyngIl",
+      "complexity": 29,
+      "total": 1
+    },
     "builds": 3,
     "mods": [
       {
@@ -16491,6 +16523,15 @@
   {
     "item": "Unnatural Instinct",
     "stats": "#% increased damage, #% increased reservation efficiency of skills",
+    "average": 23989,
+    "prices": [
+      23989
+    ],
+    "search": {
+      "id": "aqJdlnBHe",
+      "complexity": 30,
+      "total": 1
+    },
     "builds": 3,
     "mods": [
       {
@@ -16511,6 +16552,13 @@
   {
     "item": "Unnatural Instinct",
     "stats": "#% increased global critical strike chance, damage penetrates #% cold resistance",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "y9Ra00qFR",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 3,
     "mods": [
       {
@@ -16530,6 +16578,13 @@
   {
     "item": "Unnatural Instinct",
     "stats": "damage penetrates #% elemental resistances, #% reduced poison duration on you",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "kXjdgg5c5",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 3,
     "mods": [
       {
@@ -16549,6 +16604,13 @@
   {
     "item": "Unnatural Instinct",
     "stats": "#% increased damage, damage penetrates #% cold resistance",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "gXWbyyOsQ",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 3,
     "mods": [
       {
@@ -16568,6 +16630,13 @@
   {
     "item": "Unnatural Instinct",
     "stats": "you cannot be cursed with silence, corrupted blood cannot be inflicted on you",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "WVWDoo0Hm",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 3,
     "mods": [
       {
@@ -16587,6 +16656,13 @@
   {
     "item": "Unnatural Instinct",
     "stats": "#% reduced effect of curses on you, overwhelm #% physical damage reduction",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "RVB800gi7",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 3,
     "mods": [
       {
@@ -63700,6 +63776,25 @@
         "text": "#% increased quantity of items found",
         "trade_ids": [
           "implicit.stat_884586851"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Badge of the Brotherhood",
+    "stats": "#% increased rarity of items found, +#% to all maximum resistances",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "#% increased rarity of items found",
+        "trade_ids": [
+          "implicit.stat_3917489142"
+        ]
+      },
+      {
+        "text": "+#% to all maximum resistances",
+        "trade_ids": [
+          "implicit.stat_569299859"
         ]
       }
     ]
