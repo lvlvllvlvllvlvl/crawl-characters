@@ -16626,6 +16626,15 @@
   {
     "item": "Unnatural Instinct",
     "stats": "damage penetrates #% cold resistance, #% increased effect of non-damaging ailments",
+    "average": 1919.12,
+    "prices": [
+      1919.12
+    ],
+    "search": {
+      "id": "3BrYXk9I5",
+      "complexity": 29,
+      "total": 1
+    },
     "builds": 3,
     "mods": [
       {
@@ -24748,6 +24757,13 @@
   {
     "item": "Asenath's Gentle Touch",
     "stats": "+# to level of socketed trap or mine gems, #% increased cast speed",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "8a2pgzqsV",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 2,
     "mods": [
       {
@@ -24767,6 +24783,13 @@
   {
     "item": "Asenath's Gentle Touch",
     "stats": "+# to level of socketed aura gems, curse enemies with vulnerability on hit",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "vlPE4wLCE",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 2,
     "mods": [
       {
@@ -24786,6 +24809,24 @@
   {
     "item": "Asenath's Gentle Touch",
     "stats": "#% increased attack speed",
+    "average": 58.678,
+    "prices": [
+      23.799999999999997,
+      21.98,
+      30,
+      40,
+      50,
+      50,
+      70,
+      90,
+      100,
+      111
+    ],
+    "search": {
+      "id": "KJDG5mLc5",
+      "complexity": 19,
+      "total": 14
+    },
     "builds": 2,
     "mods": [
       {
