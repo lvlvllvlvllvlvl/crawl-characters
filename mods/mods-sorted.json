@@ -25668,6 +25668,25 @@
   },
   {
     "item": "Lightning Coil",
+    "stats": "+#% to all maximum resistances, #% reduced cold damage taken",
+    "builds": 2,
+    "mods": [
+      {
+        "text": "+#% to all maximum resistances",
+        "trade_ids": [
+          "implicit.stat_569299859"
+        ]
+      },
+      {
+        "text": "#% reduced cold damage taken",
+        "trade_ids": [
+          "implicit.stat_3303114033"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Lightning Coil",
     "stats": "+# to level of socketed aoe gems, +#% to all maximum resistances",
     "average": null,
     "prices": [],
@@ -33165,6 +33184,13 @@
   {
     "item": "Greed's Embrace",
     "stats": "+# to level of socketed gems, #% increased maximum life",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "qXjk6qLtg",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 2,
     "mods": [
       {
@@ -43864,25 +43890,6 @@
         "text": "+# to level of socketed curse gems",
         "trade_ids": [
           "implicit.stat_3691695237"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Lightning Coil",
-    "stats": "+#% to all maximum resistances, #% reduced cold damage taken",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "+#% to all maximum resistances",
-        "trade_ids": [
-          "implicit.stat_569299859"
-        ]
-      },
-      {
-        "text": "#% reduced cold damage taken",
-        "trade_ids": [
-          "implicit.stat_3303114033"
         ]
       }
     ]
