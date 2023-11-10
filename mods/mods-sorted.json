@@ -311,6 +311,37 @@
     ]
   },
   {
+    "item": "Kaom's Heart",
+    "stats": "#% increased damage",
+    "average": 120,
+    "prices": [
+      90,
+      100,
+      110,
+      119,
+      120,
+      120,
+      120,
+      120,
+      120,
+      120
+    ],
+    "search": {
+      "id": "PK7ayEgtL",
+      "complexity": 18,
+      "total": 57
+    },
+    "builds": 46,
+    "mods": [
+      {
+        "text": "#% increased damage",
+        "trade_ids": [
+          "implicit.stat_2154246560"
+        ]
+      }
+    ]
+  },
+  {
     "item": "Inspired Learning",
     "stats": "corrupted blood cannot be inflicted on you",
     "average": 3034.46,
@@ -337,37 +368,6 @@
         "text": "corrupted blood cannot be inflicted on you",
         "trade_ids": [
           "implicit.stat_1658498488"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Kaom's Heart",
-    "stats": "#% increased damage",
-    "average": 120,
-    "prices": [
-      90,
-      100,
-      110,
-      119,
-      120,
-      120,
-      120,
-      120,
-      120,
-      120
-    ],
-    "search": {
-      "id": "PK7ayEgtL",
-      "complexity": 18,
-      "total": 57
-    },
-    "builds": 45,
-    "mods": [
-      {
-        "text": "#% increased damage",
-        "trade_ids": [
-          "implicit.stat_2154246560"
         ]
       }
     ]
@@ -497,6 +497,30 @@
     ]
   },
   {
+    "item": "Rathpith Globe",
+    "stats": "#% increased maximum life",
+    "average": 3504.75,
+    "prices": [
+      3504.75,
+      3504.75,
+      4673
+    ],
+    "search": {
+      "id": "PK7amZvTL",
+      "complexity": 18,
+      "total": 3
+    },
+    "builds": 39,
+    "mods": [
+      {
+        "text": "#% increased maximum life",
+        "trade_ids": [
+          "implicit.stat_983749596"
+        ]
+      }
+    ]
+  },
+  {
     "item": "Ancestral Vision",
     "stats": "corrupted blood cannot be inflicted on you",
     "average": 16806.239999999998,
@@ -612,30 +636,6 @@
         "text": "+#% to spell critical strike chance",
         "trade_ids": [
           "implicit.stat_791835907"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Rathpith Globe",
-    "stats": "#% increased maximum life",
-    "average": 3504.75,
-    "prices": [
-      3504.75,
-      3504.75,
-      4673
-    ],
-    "search": {
-      "id": "PK7amZvTL",
-      "complexity": 18,
-      "total": 3
-    },
-    "builds": 38,
-    "mods": [
-      {
-        "text": "#% increased maximum life",
-        "trade_ids": [
-          "implicit.stat_983749596"
         ]
       }
     ]
@@ -34550,6 +34550,15 @@
   {
     "item": "Inpulsa's Broken Heart",
     "stats": "+# to level of socketed gems",
+    "average": 11994.5,
+    "prices": [
+      11994.5
+    ],
+    "search": {
+      "id": "pXjyXVvT0",
+      "complexity": 18,
+      "total": 1
+    },
     "builds": 2,
     "mods": [
       {
@@ -34583,6 +34592,17 @@
   {
     "item": "Zerphi's Heart",
     "stats": "#% increased movement speed",
+    "average": 599.7249999999999,
+    "prices": [
+      479.78,
+      719.67,
+      14393.4
+    ],
+    "search": {
+      "id": "Lmd8mvYtn",
+      "complexity": 18,
+      "total": 3
+    },
     "builds": 2,
     "mods": [
       {
@@ -34616,6 +34636,13 @@
   {
     "item": "Shadows and Dust",
     "stats": "+# to level of socketed gems, curse enemies with elemental weakness on hit",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "gXWvX6diQ",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 2,
     "mods": [
       {
