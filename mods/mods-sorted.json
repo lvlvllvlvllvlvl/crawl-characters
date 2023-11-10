@@ -641,6 +641,37 @@
     ]
   },
   {
+    "item": "Crown of the Inward Eye",
+    "stats": "+# to maximum power charges",
+    "average": 1239.6699999999998,
+    "prices": [
+      1169.5,
+      1169.5,
+      1169.5,
+      1169.5,
+      1169.5,
+      1169.5,
+      1169.5,
+      1403.4,
+      1403.4,
+      1403.4
+    ],
+    "search": {
+      "id": "oZ8MVMZIl",
+      "complexity": 18,
+      "total": 96
+    },
+    "builds": 38,
+    "mods": [
+      {
+        "text": "+# to maximum power charges",
+        "trade_ids": [
+          "implicit.stat_227523295"
+        ]
+      }
+    ]
+  },
+  {
     "item": "Matua Tupuna",
     "stats": "+# to level of socketed aura gems",
     "average": 233.42000000000002,
@@ -667,37 +698,6 @@
         "text": "+# to level of socketed aura gems",
         "trade_ids": [
           "implicit.stat_2452998583"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Crown of the Inward Eye",
-    "stats": "+# to maximum power charges",
-    "average": 1239.6699999999998,
-    "prices": [
-      1169.5,
-      1169.5,
-      1169.5,
-      1169.5,
-      1169.5,
-      1169.5,
-      1169.5,
-      1403.4,
-      1403.4,
-      1403.4
-    ],
-    "search": {
-      "id": "oZ8MVMZIl",
-      "complexity": 18,
-      "total": 96
-    },
-    "builds": 37,
-    "mods": [
-      {
-        "text": "+# to maximum power charges",
-        "trade_ids": [
-          "implicit.stat_227523295"
         ]
       }
     ]
@@ -1286,6 +1286,37 @@
     ]
   },
   {
+    "item": "Legacy of Fury",
+    "stats": "+# to maximum endurance charges",
+    "average": 39.5,
+    "prices": [
+      20,
+      30,
+      30,
+      30,
+      40,
+      45,
+      50,
+      50,
+      50,
+      50
+    ],
+    "search": {
+      "id": "0PQZ0g7Ig",
+      "complexity": 18,
+      "total": 47
+    },
+    "builds": 26,
+    "mods": [
+      {
+        "text": "+# to maximum endurance charges",
+        "trade_ids": [
+          "implicit.stat_1515657623"
+        ]
+      }
+    ]
+  },
+  {
     "item": "Heatshiver",
     "stats": "+# to level of socketed aoe gems",
     "average": 40,
@@ -1372,37 +1403,6 @@
         "text": "+# to level of socketed projectile gems",
         "trade_ids": [
           "implicit.stat_2176571093"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Legacy of Fury",
-    "stats": "+# to maximum endurance charges",
-    "average": 39.5,
-    "prices": [
-      20,
-      30,
-      30,
-      30,
-      40,
-      45,
-      50,
-      50,
-      50,
-      50
-    ],
-    "search": {
-      "id": "0PQZ0g7Ig",
-      "complexity": 18,
-      "total": 47
-    },
-    "builds": 25,
-    "mods": [
-      {
-        "text": "+# to maximum endurance charges",
-        "trade_ids": [
-          "implicit.stat_1515657623"
         ]
       }
     ]
@@ -12381,6 +12381,32 @@
   },
   {
     "item": "Unnatural Instinct",
+    "stats": "#% increased damage, #% reduced bleed duration on you",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "5okOq7Dia",
+      "complexity": 29,
+      "total": 0
+    },
+    "builds": 4,
+    "mods": [
+      {
+        "text": "#% increased damage",
+        "trade_ids": [
+          "implicit.stat_2154246560"
+        ]
+      },
+      {
+        "text": "#% reduced bleed duration on you",
+        "trade_ids": [
+          "implicit.stat_1692879867"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Unnatural Instinct",
     "stats": "#% reduced effect of curses on you, #% reduced effect of shock on you",
     "average": null,
     "prices": [],
@@ -17071,32 +17097,6 @@
         "trade_ids": [
           "implicit.stat_2587176568",
           "implicit.stat_4202507508"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Unnatural Instinct",
-    "stats": "#% increased damage, #% reduced bleed duration on you",
-    "average": null,
-    "prices": [],
-    "search": {
-      "id": "5okOq7Dia",
-      "complexity": 29,
-      "total": 0
-    },
-    "builds": 3,
-    "mods": [
-      {
-        "text": "#% increased damage",
-        "trade_ids": [
-          "implicit.stat_2154246560"
-        ]
-      },
-      {
-        "text": "#% reduced bleed duration on you",
-        "trade_ids": [
-          "implicit.stat_1692879867"
         ]
       }
     ]
@@ -22778,6 +22778,19 @@
         "text": "#% increased global critical strike chance",
         "trade_ids": [
           "implicit.stat_587431675"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Dyadian Dawn",
+    "stats": "malevolence has #% increased aura effect",
+    "builds": 3,
+    "mods": [
+      {
+        "text": "malevolence has #% increased aura effect",
+        "trade_ids": [
+          "implicit.stat_4175197580"
         ]
       }
     ]
@@ -32872,6 +32885,13 @@
   {
     "item": "Greed's Embrace",
     "stats": "+# to level of socketed minion gems, #% increased damage",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "4drVLjwt9",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 2,
     "mods": [
       {
@@ -32891,6 +32911,16 @@
   {
     "item": "Greed's Embrace",
     "stats": "+# to level of socketed gems, #% additional physical damage reduction while stationary",
+    "average": 1224.4,
+    "prices": [
+      50,
+      2398.8
+    ],
+    "search": {
+      "id": "jXjr0VZTX",
+      "complexity": 29,
+      "total": 2
+    },
     "builds": 2,
     "mods": [
       {
@@ -32910,6 +32940,13 @@
   {
     "item": "Greed's Embrace",
     "stats": "+# to level of socketed gems, +# to level of socketed warcry gems",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "BEJ0jbXI8",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 2,
     "mods": [
       {
@@ -32929,6 +32966,13 @@
   {
     "item": "Greed's Embrace",
     "stats": "+# to level of socketed duration gems, +# to level of socketed trap or mine gems",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "XqD0yJ7cP",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 2,
     "mods": [
       {
@@ -32974,6 +33018,13 @@
   {
     "item": "Greed's Embrace",
     "stats": "+# to level of socketed gems, you take #% reduced extra damage from critical strikes",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "MVD0g9DIJ",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 2,
     "mods": [
       {
@@ -32993,6 +33044,24 @@
   {
     "item": "Greed's Embrace",
     "stats": "#% increased maximum energy shield",
+    "average": 39.4,
+    "prices": [
+      2,
+      15,
+      55,
+      60,
+      65,
+      239.88,
+      959.52,
+      1199.4,
+      4797.6,
+      8395.8
+    ],
+    "search": {
+      "id": "mXj8yzJf6",
+      "complexity": 18,
+      "total": 11
+    },
     "builds": 2,
     "mods": [
       {
@@ -33006,6 +33075,15 @@
   {
     "item": "Greed's Embrace",
     "stats": "+# to level of socketed aoe gems, #% increased maximum energy shield",
+    "average": 8395.8,
+    "prices": [
+      8395.8
+    ],
+    "search": {
+      "id": "Zb50Ok9SQ",
+      "complexity": 29,
+      "total": 1
+    },
     "builds": 2,
     "mods": [
       {
@@ -33025,6 +33103,24 @@
   {
     "item": "Greed's Embrace",
     "stats": "+# to level of socketed warcry gems",
+    "average": 237.42499999999998,
+    "prices": [
+      20,
+      100,
+      100,
+      180,
+      239.88,
+      300,
+      479.76,
+      479.76,
+      719.64,
+      1199.4
+    ],
+    "search": {
+      "id": "YVqMX5kUY",
+      "complexity": 18,
+      "total": 13
+    },
     "builds": 2,
     "mods": [
       {
@@ -33038,6 +33134,24 @@
   {
     "item": "Greed's Embrace",
     "stats": "+# to level of socketed aura gems",
+    "average": 165.94,
+    "prices": [
+      10,
+      30,
+      120,
+      150,
+      150,
+      239.88,
+      239.88,
+      239.88,
+      239.88,
+      239.88
+    ],
+    "search": {
+      "id": "9Y2mogRTK",
+      "complexity": 18,
+      "total": 14
+    },
     "builds": 2,
     "mods": [
       {
@@ -35183,6 +35297,19 @@
   },
   {
     "item": "The Fourth Vow",
+    "stats": "+# to level of socketed projectile gems",
+    "builds": 2,
+    "mods": [
+      {
+        "text": "+# to level of socketed projectile gems",
+        "trade_ids": [
+          "implicit.stat_2176571093"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "The Fourth Vow",
     "stats": "+# to level of socketed gems, #% increased maximum life",
     "builds": 2,
     "mods": [
@@ -36936,19 +37063,6 @@
         "text": "corrupted blood cannot be inflicted on you",
         "trade_ids": [
           "implicit.stat_1658498488"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Dyadian Dawn",
-    "stats": "malevolence has #% increased aura effect",
-    "builds": 2,
-    "mods": [
-      {
-        "text": "malevolence has #% increased aura effect",
-        "trade_ids": [
-          "implicit.stat_4175197580"
         ]
       }
     ]
@@ -70899,6 +71013,25 @@
   },
   {
     "item": "Shadows and Dust",
+    "stats": "#% increased maximum life, attacks have +#% to critical strike chance",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "#% increased maximum life",
+        "trade_ids": [
+          "implicit.stat_983749596"
+        ]
+      },
+      {
+        "text": "attacks have +#% to critical strike chance",
+        "trade_ids": [
+          "implicit.stat_2572042788"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Shadows and Dust",
     "stats": "attacks have +#% to critical strike chance, +#% to spell critical strike chance",
     "builds": 1,
     "mods": [
@@ -76997,19 +77130,6 @@
         "text": "+# to level of socketed minion gems",
         "trade_ids": [
           "implicit.stat_3604946673"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "The Fourth Vow",
-    "stats": "+# to level of socketed projectile gems",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "+# to level of socketed projectile gems",
-        "trade_ids": [
-          "implicit.stat_2176571093"
         ]
       }
     ]
