@@ -792,6 +792,37 @@
     ]
   },
   {
+    "item": "Black Sun Crest",
+    "stats": "socketed skill gems get a #% cost & reservation multiplier",
+    "average": 14.9,
+    "prices": [
+      10,
+      10,
+      10,
+      10,
+      15,
+      15,
+      17,
+      20,
+      20,
+      22
+    ],
+    "search": {
+      "id": "Qr6G3Mpuw",
+      "complexity": 18,
+      "total": 254
+    },
+    "builds": 34,
+    "mods": [
+      {
+        "text": "socketed skill gems get a #% cost & reservation multiplier",
+        "trade_ids": [
+          "implicit.stat_2865550257"
+        ]
+      }
+    ]
+  },
+  {
     "item": "Heartbound Loop",
     "stats": "+#% to all elemental resistances",
     "average": 25.3,
@@ -818,37 +849,6 @@
         "text": "+#% to all elemental resistances",
         "trade_ids": [
           "implicit.stat_2901986750"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Black Sun Crest",
-    "stats": "socketed skill gems get a #% cost & reservation multiplier",
-    "average": 14.9,
-    "prices": [
-      10,
-      10,
-      10,
-      10,
-      15,
-      15,
-      17,
-      20,
-      20,
-      22
-    ],
-    "search": {
-      "id": "Qr6G3Mpuw",
-      "complexity": 18,
-      "total": 254
-    },
-    "builds": 33,
-    "mods": [
-      {
-        "text": "socketed skill gems get a #% cost & reservation multiplier",
-        "trade_ids": [
-          "implicit.stat_2865550257"
         ]
       }
     ]
@@ -34892,6 +34892,18 @@
   {
     "item": "Demon Stitcher",
     "stats": "+# to level of socketed aoe gems",
+    "average": 103.97,
+    "prices": [
+      5,
+      81,
+      90,
+      239.88
+    ],
+    "search": {
+      "id": "rXjkpKGuQ",
+      "complexity": 18,
+      "total": 4
+    },
     "builds": 2,
     "mods": [
       {
@@ -34905,6 +34917,19 @@
   {
     "item": "Demon Stitcher",
     "stats": "+# to level of socketed aura gems",
+    "average": 177.44,
+    "prices": [
+      50,
+      180,
+      239.88,
+      239.88,
+      3118.44
+    ],
+    "search": {
+      "id": "8a2GpmBIV",
+      "complexity": 18,
+      "total": 5
+    },
     "builds": 2,
     "mods": [
       {
@@ -34918,6 +34943,16 @@
   {
     "item": "Rainbowstride",
     "stats": "+#% chance to suppress spell damage",
+    "average": 299.85,
+    "prices": [
+      239.88,
+      359.82
+    ],
+    "search": {
+      "id": "9Y2jK4QSK",
+      "complexity": 19,
+      "total": 2
+    },
     "builds": 2,
     "mods": [
       {
@@ -34932,6 +34967,15 @@
   {
     "item": "Rainbowstride",
     "stats": "+# to level of socketed aoe gems",
+    "average": 239.88,
+    "prices": [
+      239.88
+    ],
+    "search": {
+      "id": "eXW97zWiL",
+      "complexity": 18,
+      "total": 1
+    },
     "builds": 2,
     "mods": [
       {
@@ -34945,6 +34989,13 @@
   {
     "item": "Rainbowstride",
     "stats": "+# to level of socketed aura gems, +# to global evasion rating while moving",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "3BrVYW5s5",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 2,
     "mods": [
       {
@@ -34964,6 +35015,13 @@
   {
     "item": "Rainbowstride",
     "stats": "+# to level of socketed gems, +# to level of socketed duration gems",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "zeB6OaOt4",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 2,
     "mods": [
       {
@@ -35015,6 +35073,20 @@
   {
     "item": "Tabula Rasa",
     "stats": "#% increased damage",
+    "average": 619.7,
+    "prices": [
+      120,
+      479.76,
+      479.76,
+      479.76,
+      959.52,
+      1199.4
+    ],
+    "search": {
+      "id": "lXj2OynFV",
+      "complexity": 18,
+      "total": 6
+    },
     "builds": 2,
     "mods": [
       {
@@ -35028,6 +35100,13 @@
   {
     "item": "Tabula Rasa",
     "stats": "you take #% reduced extra damage from critical strikes",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "vlPRO0WSE",
+      "complexity": 18,
+      "total": 0
+    },
     "builds": 2,
     "mods": [
       {
@@ -39170,6 +39249,25 @@
         "text": "#% increased area of effect",
         "trade_ids": [
           "implicit.stat_280731498"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Mageblood",
+    "stats": "#% increased attack speed during any flask effect, zealotry has #% increased aura effect",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "#% increased attack speed during any flask effect",
+        "trade_ids": [
+          "implicit.stat_1365052901"
+        ]
+      },
+      {
+        "text": "zealotry has #% increased aura effect",
+        "trade_ids": [
+          "implicit.stat_4096052153"
         ]
       }
     ]
