@@ -823,6 +823,37 @@
     ]
   },
   {
+    "item": "Black Sun Crest",
+    "stats": "socketed skill gems get a #% cost & reservation multiplier",
+    "average": 14.9,
+    "prices": [
+      10,
+      10,
+      10,
+      10,
+      15,
+      15,
+      17,
+      20,
+      20,
+      22
+    ],
+    "search": {
+      "id": "Qr6G3Mpuw",
+      "complexity": 18,
+      "total": 254
+    },
+    "builds": 33,
+    "mods": [
+      {
+        "text": "socketed skill gems get a #% cost & reservation multiplier",
+        "trade_ids": [
+          "implicit.stat_2865550257"
+        ]
+      }
+    ]
+  },
+  {
     "item": "Void Battery",
     "stats": "damage penetrates #% elemental resistances",
     "average": 2593.5150000000003,
@@ -849,37 +880,6 @@
         "text": "damage penetrates #% elemental resistances",
         "trade_ids": [
           "implicit.stat_2101383955"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Black Sun Crest",
-    "stats": "socketed skill gems get a #% cost & reservation multiplier",
-    "average": 14.9,
-    "prices": [
-      10,
-      10,
-      10,
-      10,
-      15,
-      15,
-      17,
-      20,
-      20,
-      22
-    ],
-    "search": {
-      "id": "Qr6G3Mpuw",
-      "complexity": 18,
-      "total": 254
-    },
-    "builds": 32,
-    "mods": [
-      {
-        "text": "socketed skill gems get a #% cost & reservation multiplier",
-        "trade_ids": [
-          "implicit.stat_2865550257"
         ]
       }
     ]
@@ -30613,6 +30613,16 @@
   {
     "item": "Ceinture of Benevolence",
     "stats": "determination has #% increased aura effect",
+    "average": 42.5,
+    "prices": [
+      35,
+      50
+    ],
+    "search": {
+      "id": "DL89vj2T5",
+      "complexity": 18,
+      "total": 2
+    },
     "builds": 2,
     "mods": [
       {
@@ -30650,6 +30660,17 @@
   {
     "item": "Surgebinders",
     "stats": "+# to level of socketed aura gems",
+    "average": 100,
+    "prices": [
+      50,
+      100,
+      100
+    ],
+    "search": {
+      "id": "RVBDQPqU7",
+      "complexity": 18,
+      "total": 3
+    },
     "builds": 2,
     "mods": [
       {
@@ -30689,6 +30710,16 @@
   {
     "item": "Surgebinders",
     "stats": "curse enemies with elemental weakness on hit",
+    "average": 2518.845,
+    "prices": [
+      719.67,
+      4318.0199999999995
+    ],
+    "search": {
+      "id": "YVqMpa6sY",
+      "complexity": 18,
+      "total": 2
+    },
     "builds": 2,
     "mods": [
       {
@@ -30721,6 +30752,13 @@
   {
     "item": "Dendrobate",
     "stats": "+# to level of socketed aoe gems, #% increased damage",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "vlPVe4zSE",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 2,
     "mods": [
       {
@@ -30740,6 +30778,15 @@
   {
     "item": "Dendrobate",
     "stats": "+# to level of socketed duration gems, +# to level of socketed trap or mine gems",
+    "average": 10555.16,
+    "prices": [
+      10555.16
+    ],
+    "search": {
+      "id": "3BrRqXPh5",
+      "complexity": 29,
+      "total": 1
+    },
     "builds": 2,
     "mods": [
       {
@@ -30759,6 +30806,13 @@
   {
     "item": "Dendrobate",
     "stats": "+# to level of socketed aoe gems, +#% to all maximum resistances",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "2BrWKPVck",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 2,
     "mods": [
       {
