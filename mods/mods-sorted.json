@@ -20583,6 +20583,31 @@
     ]
   },
   {
+    "item": "Severed in Sleep",
+    "stats": "#% increased attack speed",
+    "average": 119.96,
+    "prices": [
+      20,
+      100,
+      239.88
+    ],
+    "search": {
+      "id": "y9R7VBlSR",
+      "complexity": 19,
+      "total": 3
+    },
+    "builds": 3,
+    "mods": [
+      {
+        "text": "#% increased attack speed",
+        "trade_ids": [
+          "implicit.stat_681332047",
+          "implicit.stat_210067635"
+        ]
+      }
+    ]
+  },
+  {
     "item": "Dissolution of the Flesh",
     "stats": "#% increased reservation efficiency of skills",
     "average": null,
@@ -33582,31 +33607,6 @@
     ]
   },
   {
-    "item": "Severed in Sleep",
-    "stats": "#% increased attack speed",
-    "average": 119.96,
-    "prices": [
-      20,
-      100,
-      239.88
-    ],
-    "search": {
-      "id": "y9R7VBlSR",
-      "complexity": 19,
-      "total": 3
-    },
-    "builds": 2,
-    "mods": [
-      {
-        "text": "#% increased attack speed",
-        "trade_ids": [
-          "implicit.stat_681332047",
-          "implicit.stat_210067635"
-        ]
-      }
-    ]
-  },
-  {
     "item": "Dissolution of the Flesh",
     "stats": "damage penetrates #% fire resistance",
     "average": 200,
@@ -35541,6 +35541,19 @@
   {
     "item": "Meginord's Vise",
     "stats": "+# to level of socketed duration gems",
+    "average": 320.856,
+    "prices": [
+      80,
+      85,
+      479.76,
+      479.76,
+      479.76
+    ],
+    "search": {
+      "id": "Lmd84PZun",
+      "complexity": 18,
+      "total": 5
+    },
     "builds": 2,
     "mods": [
       {
@@ -35554,6 +35567,13 @@
   {
     "item": "Meginord's Vise",
     "stats": "+# to level of socketed gems, +# to level of socketed warcry gems",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "8a2GjXGtV",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 2,
     "mods": [
       {
@@ -35573,6 +35593,18 @@
   {
     "item": "Hyrri's Truth",
     "stats": "grace has #% increased aura effect",
+    "average": 119.96,
+    "prices": [
+      20,
+      100,
+      239.88,
+      1439.28
+    ],
+    "search": {
+      "id": "9Y2jPO4HK",
+      "complexity": 18,
+      "total": 4
+    },
     "builds": 2,
     "mods": [
       {
@@ -35586,6 +35618,13 @@
   {
     "item": "Dead Reckoning",
     "stats": "corrupted blood cannot be inflicted on you",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "vlPRr2BfE",
+      "complexity": 18,
+      "total": 0
+    },
     "builds": 2,
     "mods": [
       {
@@ -35644,6 +35683,13 @@
   {
     "item": "Zeel's Amplifier",
     "stats": "+# to level of socketed gems, #% of physical damage from hits taken as cold damage",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "y9R78JlUR",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 2,
     "mods": [
       {
