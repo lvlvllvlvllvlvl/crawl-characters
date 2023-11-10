@@ -14813,6 +14813,37 @@
     ]
   },
   {
+    "item": "Heartbound Loop",
+    "stats": "cannot be poisoned",
+    "average": 151.32,
+    "prices": [
+      13,
+      18,
+      20,
+      200,
+      239.89,
+      239.89,
+      239.89,
+      239.89,
+      479.78,
+      1199.4499999999998
+    ],
+    "search": {
+      "id": "VMEdMowHp",
+      "complexity": 18,
+      "total": 13
+    },
+    "builds": 4,
+    "mods": [
+      {
+        "text": "cannot be poisoned",
+        "trade_ids": [
+          "implicit.stat_3835551335"
+        ]
+      }
+    ]
+  },
+  {
     "item": "Kaom's Heart",
     "stats": "you take #% reduced extra damage from critical strikes",
     "average": 57.5,
@@ -21733,37 +21764,6 @@
         "text": "grace has #% increased aura effect",
         "trade_ids": [
           "implicit.stat_397427740"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Heartbound Loop",
-    "stats": "cannot be poisoned",
-    "average": 151.32,
-    "prices": [
-      13,
-      18,
-      20,
-      200,
-      239.89,
-      239.89,
-      239.89,
-      239.89,
-      479.78,
-      1199.4499999999998
-    ],
-    "search": {
-      "id": "VMEdMowHp",
-      "complexity": 18,
-      "total": 13
-    },
-    "builds": 3,
-    "mods": [
-      {
-        "text": "cannot be poisoned",
-        "trade_ids": [
-          "implicit.stat_3835551335"
         ]
       }
     ]
@@ -31665,6 +31665,13 @@
   {
     "item": "Inspired Learning",
     "stats": "#% increased global critical strike chance",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "8a24WEqfV",
+      "complexity": 18,
+      "total": 0
+    },
     "builds": 2,
     "mods": [
       {
@@ -31678,6 +31685,16 @@
   {
     "item": "Inspired Learning",
     "stats": "you cannot be cursed with silence",
+    "average": 251.904,
+    "prices": [
+      120,
+      383.808
+    ],
+    "search": {
+      "id": "Lmd073lfn",
+      "complexity": 18,
+      "total": 2
+    },
     "builds": 2,
     "mods": [
       {
@@ -31811,6 +31828,13 @@
   {
     "item": "Grand Spectrum",
     "stats": "#% reduced effect of chill on you",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "0B8DRl7hg",
+      "complexity": 18,
+      "total": 0
+    },
     "builds": 2,
     "mods": [
       {
@@ -31824,6 +31848,13 @@
   {
     "item": "Grand Spectrum",
     "stats": "#% reduced bleed duration on you",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "QVn0YBvSw",
+      "complexity": 18,
+      "total": 0
+    },
     "builds": 2,
     "mods": [
       {
@@ -31856,6 +31887,13 @@
   {
     "item": "Black Sun Crest",
     "stats": "+# to level of socketed aoe gems, +# to level of socketed aura gems",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "zeB4rgqc4",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 2,
     "mods": [
       {
@@ -31875,6 +31913,13 @@
   {
     "item": "Vixen's Entrapment",
     "stats": "+# to level of socketed duration gems, #% increased maximum life",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "qXjkl73Tg",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 2,
     "mods": [
       {
