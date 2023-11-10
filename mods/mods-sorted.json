@@ -2966,6 +2966,37 @@
     ]
   },
   {
+    "item": "Incandescent Heart",
+    "stats": "+# to level of socketed gems",
+    "average": 482.6175,
+    "prices": [
+      120,
+      150,
+      233.65,
+      233.65,
+      467.3,
+      467.3,
+      467.3,
+      817.775,
+      934.6,
+      934.6
+    ],
+    "search": {
+      "id": "kPK0blrU5",
+      "complexity": 18,
+      "total": 37
+    },
+    "builds": 16,
+    "mods": [
+      {
+        "text": "+# to level of socketed gems",
+        "trade_ids": [
+          "implicit.stat_2843100721"
+        ]
+      }
+    ]
+  },
+  {
     "item": "Greed's Embrace",
     "stats": "#% increased damage",
     "average": 374.2135,
@@ -3234,37 +3265,6 @@
         "text": "grants level # hatred skill",
         "trade_ids": [
           "implicit.stat_2429546158"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Incandescent Heart",
-    "stats": "+# to level of socketed gems",
-    "average": 482.6175,
-    "prices": [
-      120,
-      150,
-      233.65,
-      233.65,
-      467.3,
-      467.3,
-      467.3,
-      817.775,
-      934.6,
-      934.6
-    ],
-    "search": {
-      "id": "kPK0blrU5",
-      "complexity": 18,
-      "total": 37
-    },
-    "builds": 15,
-    "mods": [
-      {
-        "text": "+# to level of socketed gems",
-        "trade_ids": [
-          "implicit.stat_2843100721"
         ]
       }
     ]
@@ -8589,6 +8589,35 @@
     ]
   },
   {
+    "item": "Eber's Unification",
+    "stats": "socketed skill gems get a #% cost & reservation multiplier",
+    "average": 337.3625,
+    "prices": [
+      50,
+      50,
+      100,
+      100,
+      239.89,
+      719.67,
+      719.67,
+      719.67
+    ],
+    "search": {
+      "id": "vlPlEM9uE",
+      "complexity": 18,
+      "total": 8
+    },
+    "builds": 6,
+    "mods": [
+      {
+        "text": "socketed skill gems get a #% cost & reservation multiplier",
+        "trade_ids": [
+          "implicit.stat_2865550257"
+        ]
+      }
+    ]
+  },
+  {
     "item": "Inspired Learning",
     "stats": "#% reduced effect of curses on you",
     "average": 175.956,
@@ -10418,35 +10447,6 @@
         "text": "cannot be poisoned",
         "trade_ids": [
           "implicit.stat_3835551335"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Eber's Unification",
-    "stats": "socketed skill gems get a #% cost & reservation multiplier",
-    "average": 337.3625,
-    "prices": [
-      50,
-      50,
-      100,
-      100,
-      239.89,
-      719.67,
-      719.67,
-      719.67
-    ],
-    "search": {
-      "id": "vlPlEM9uE",
-      "complexity": 18,
-      "total": 8
-    },
-    "builds": 5,
-    "mods": [
-      {
-        "text": "socketed skill gems get a #% cost & reservation multiplier",
-        "trade_ids": [
-          "implicit.stat_2865550257"
         ]
       }
     ]
@@ -15817,6 +15817,28 @@
         "text": "grants level # haste skill",
         "trade_ids": [
           "implicit.stat_1188846263"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Corpsewalker",
+    "stats": "+# to level of socketed aura gems",
+    "average": 3598.35,
+    "prices": [
+      3598.35
+    ],
+    "search": {
+      "id": "rXjqaeMtQ",
+      "complexity": 18,
+      "total": 1
+    },
+    "builds": 3,
+    "mods": [
+      {
+        "text": "+# to level of socketed aura gems",
+        "trade_ids": [
+          "implicit.stat_2452998583"
         ]
       }
     ]
@@ -23379,28 +23401,6 @@
         "text": "#% increased maximum energy shield",
         "trade_ids": [
           "implicit.stat_2482852589"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Corpsewalker",
-    "stats": "+# to level of socketed aura gems",
-    "average": 3598.35,
-    "prices": [
-      3598.35
-    ],
-    "search": {
-      "id": "rXjqaeMtQ",
-      "complexity": 18,
-      "total": 1
-    },
-    "builds": 2,
-    "mods": [
-      {
-        "text": "+# to level of socketed aura gems",
-        "trade_ids": [
-          "implicit.stat_2452998583"
         ]
       }
     ]
@@ -32798,6 +32798,13 @@
   {
     "item": "Lioneye's Fall",
     "stats": "#% reduced effect of chill on you, corrupted blood cannot be inflicted on you",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "Zb5005btQ",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 2,
     "mods": [
       {
@@ -32837,6 +32844,15 @@
   {
     "item": "Greed's Embrace",
     "stats": "+# to level of socketed gems, #% reduced lightning damage taken",
+    "average": 20389.8,
+    "prices": [
+      20389.8
+    ],
+    "search": {
+      "id": "YVqMMqOIY",
+      "complexity": 29,
+      "total": 1
+    },
     "builds": 2,
     "mods": [
       {
@@ -32932,6 +32948,13 @@
   {
     "item": "Greed's Embrace",
     "stats": "+# to level of socketed duration gems, you take #% reduced extra damage from critical strikes",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "OVw0ve0CE",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 2,
     "mods": [
       {
@@ -63070,6 +63093,43 @@
   },
   {
     "item": "Hands of the High Templar",
+    "stats": "+# to level of socketed duration gems, +# to level of socketed aoe gems, curse enemies with temporal chains on hit, curse enemies with elemental weakness on hit, curse enemies with despair on hit",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "+# to level of socketed duration gems",
+        "trade_ids": [
+          "implicit.stat_2115168758"
+        ]
+      },
+      {
+        "text": "+# to level of socketed aoe gems",
+        "trade_ids": [
+          "implicit.stat_2551600084"
+        ]
+      },
+      {
+        "text": "curse enemies with temporal chains on hit",
+        "trade_ids": [
+          "implicit.stat_3433724931"
+        ]
+      },
+      {
+        "text": "curse enemies with elemental weakness on hit",
+        "trade_ids": [
+          "implicit.stat_2028847114"
+        ]
+      },
+      {
+        "text": "curse enemies with despair on hit",
+        "trade_ids": [
+          "implicit.stat_2764915899"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Hands of the High Templar",
     "stats": "+# to level of socketed gems, +# to level of socketed duration gems, +# to level of socketed minion gems, +# to level of socketed aura gems, +# to level of socketed trap or mine gems",
     "builds": 1,
     "mods": [
@@ -64926,6 +64986,25 @@
         "text": "+#% to global critical strike multiplier",
         "trade_ids": [
           "implicit.stat_3556824919"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "The Consuming Dark",
+    "stats": "#% increased damage over time, #% increased spell damage",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "#% increased damage over time",
+        "trade_ids": [
+          "implicit.stat_967627487"
+        ]
+      },
+      {
+        "text": "#% increased spell damage",
+        "trade_ids": [
+          "implicit.stat_2974417149"
         ]
       }
     ]
