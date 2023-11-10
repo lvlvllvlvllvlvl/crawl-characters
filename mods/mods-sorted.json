@@ -32198,6 +32198,13 @@
   {
     "item": "Rathpith Globe",
     "stats": "+#% chance to block",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "zeB4Pyvt4",
+      "complexity": 18,
+      "total": 0
+    },
     "builds": 2,
     "mods": [
       {
@@ -32347,6 +32354,24 @@
   {
     "item": "Watcher's Eye",
     "stats": "#% increased global critical strike chance",
+    "average": 447.29,
+    "prices": [
+      80,
+      140,
+      239.88,
+      479.76,
+      479.76,
+      479.76,
+      719.64,
+      959.52,
+      2398.8,
+      3118.44
+    ],
+    "search": {
+      "id": "WVW0D0rtm",
+      "complexity": 18,
+      "total": 11
+    },
     "builds": 2,
     "mods": [
       {
@@ -32360,6 +32385,19 @@
   {
     "item": "Watcher's Eye",
     "stats": "damage penetrates #% cold resistance",
+    "average": 217.41,
+    "prices": [
+      50,
+      100,
+      239.88,
+      479.76,
+      2158.92
+    ],
+    "search": {
+      "id": "RVBn8nRF7",
+      "complexity": 18,
+      "total": 5
+    },
     "builds": 2,
     "mods": [
       {
