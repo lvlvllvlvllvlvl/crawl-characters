@@ -393,7 +393,7 @@
       "complexity": 18,
       "total": 130
     },
-    "builds": 43,
+    "builds": 44,
     "mods": [
       {
         "text": "+#% to spell critical strike chance",
@@ -31691,6 +31691,15 @@
   {
     "item": "Inspired Learning",
     "stats": "damage penetrates #% lightning resistance",
+    "average": 239.88,
+    "prices": [
+      239.88
+    ],
+    "search": {
+      "id": "YVqMmWOhY",
+      "complexity": 18,
+      "total": 1
+    },
     "builds": 2,
     "mods": [
       {
@@ -31733,6 +31742,13 @@
   {
     "item": "The Siege",
     "stats": "damage penetrates #% fire resistance",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "vlPVDoLfE",
+      "complexity": 18,
+      "total": 0
+    },
     "builds": 2,
     "mods": [
       {
@@ -31770,6 +31786,18 @@
   {
     "item": "Grand Spectrum",
     "stats": "minions deal #% increased damage",
+    "average": 50,
+    "prices": [
+      50,
+      50,
+      180,
+      1679.1599999999999
+    ],
+    "search": {
+      "id": "3BrRE3Zh5",
+      "complexity": 18,
+      "total": 4
+    },
     "builds": 2,
     "mods": [
       {
