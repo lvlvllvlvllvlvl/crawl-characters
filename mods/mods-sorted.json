@@ -28203,6 +28203,25 @@
     ]
   },
   {
+    "item": "Kaom's Spirit",
+    "stats": "+# to level of socketed gems, +# to level of socketed minion gems",
+    "builds": 2,
+    "mods": [
+      {
+        "text": "+# to level of socketed gems",
+        "trade_ids": [
+          "implicit.stat_2843100721"
+        ]
+      },
+      {
+        "text": "+# to level of socketed minion gems",
+        "trade_ids": [
+          "implicit.stat_3604946673"
+        ]
+      }
+    ]
+  },
+  {
     "item": "Bubonic Trail",
     "stats": "+# to maximum endurance charges",
     "average": 167.92299999999997,
@@ -30430,6 +30449,17 @@
   {
     "item": "Southbound",
     "stats": "curse enemies with vulnerability on hit",
+    "average": 219.945,
+    "prices": [
+      200,
+      239.89,
+      719.67
+    ],
+    "search": {
+      "id": "4drWGEgH9",
+      "complexity": 18,
+      "total": 3
+    },
     "builds": 2,
     "mods": [
       {
@@ -30443,6 +30473,13 @@
   {
     "item": "Southbound",
     "stats": "+# to level of socketed aoe gems, +# to level of socketed aura gems",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "PdD5LbkhL",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 2,
     "mods": [
       {
@@ -30462,6 +30499,16 @@
   {
     "item": "Southbound",
     "stats": "#% increased maximum energy shield",
+    "average": 31,
+    "prices": [
+      12,
+      50
+    ],
+    "search": {
+      "id": "XqD7VoBhP",
+      "complexity": 18,
+      "total": 2
+    },
     "builds": 2,
     "mods": [
       {
@@ -36960,6 +37007,19 @@
         "text": "+# to level of socketed projectile gems",
         "trade_ids": [
           "implicit.stat_2176571093"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Mind of the Council",
+    "stats": "+# to maximum power charges",
+    "builds": 2,
+    "mods": [
+      {
+        "text": "+# to maximum power charges",
+        "trade_ids": [
+          "implicit.stat_227523295"
         ]
       }
     ]
@@ -47083,25 +47143,6 @@
         "text": "+# to maximum frenzy charges",
         "trade_ids": [
           "implicit.stat_4078695"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Kaom's Spirit",
-    "stats": "+# to level of socketed gems, +# to level of socketed minion gems",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "+# to level of socketed gems",
-        "trade_ids": [
-          "implicit.stat_2843100721"
-        ]
-      },
-      {
-        "text": "+# to level of socketed minion gems",
-        "trade_ids": [
-          "implicit.stat_3604946673"
         ]
       }
     ]
@@ -91606,19 +91647,6 @@
           "implicit.stat_4043416969"
         ]
       },
-      {
-        "text": "+# to maximum power charges",
-        "trade_ids": [
-          "implicit.stat_227523295"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Mind of the Council",
-    "stats": "+# to maximum power charges",
-    "builds": 1,
-    "mods": [
       {
         "text": "+# to maximum power charges",
         "trade_ids": [
