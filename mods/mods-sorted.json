@@ -51,7 +51,7 @@
       "complexity": 18,
       "total": 63
     },
-    "builds": 168,
+    "builds": 169,
     "mods": [
       {
         "text": "attacks have +#% to critical strike chance",
@@ -21552,6 +21552,20 @@
     ]
   },
   {
+    "item": "Hyrri's Truth",
+    "stats": "#% increased attack speed",
+    "builds": 3,
+    "mods": [
+      {
+        "text": "#% increased attack speed",
+        "trade_ids": [
+          "implicit.stat_681332047",
+          "implicit.stat_210067635"
+        ]
+      }
+    ]
+  },
+  {
     "item": "Ancestral Vision",
     "stats": "#% increased area of effect, corrupted blood cannot be inflicted on you",
     "average": null,
@@ -29972,6 +29986,13 @@
   {
     "item": "Warrior's Tale",
     "stats": "#% increased reservation efficiency of skills, corrupted blood cannot be inflicted on you",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "VMEVa3wHp",
+      "complexity": 30,
+      "total": 0
+    },
     "builds": 2,
     "mods": [
       {
@@ -29992,6 +30013,19 @@
   {
     "item": "Warrior's Tale",
     "stats": "minions deal #% increased damage",
+    "average": 455.77200000000005,
+    "prices": [
+      239.88,
+      359.82,
+      479.76,
+      479.76,
+      719.64
+    ],
+    "search": {
+      "id": "4drW8lkH9",
+      "complexity": 18,
+      "total": 5
+    },
     "builds": 2,
     "mods": [
       {
@@ -30031,6 +30065,13 @@
   {
     "item": "Warrior's Tale",
     "stats": "damage penetrates #% elemental resistances, you cannot be hindered",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "OVwy7aKfE",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 2,
     "mods": [
       {
@@ -30076,6 +30117,13 @@
   {
     "item": "Warrior's Tale",
     "stats": "#% increased damage, damage penetrates #% cold resistance",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "BEJmwRXF8",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 2,
     "mods": [
       {
@@ -30108,6 +30156,15 @@
   {
     "item": "Queen of the Forest",
     "stats": "+# to level of socketed aoe gems, #% increased damage",
+    "average": 3598.35,
+    "prices": [
+      3598.35
+    ],
+    "search": {
+      "id": "OVwymo0tE",
+      "complexity": 29,
+      "total": 1
+    },
     "builds": 2,
     "mods": [
       {
@@ -30183,6 +30240,16 @@
   {
     "item": "Anathema",
     "stats": "cannot be ignited",
+    "average": 239.89,
+    "prices": [
+      239.89,
+      239.89
+    ],
+    "search": {
+      "id": "dXWbj7vUJ",
+      "complexity": 18,
+      "total": 2
+    },
     "builds": 2,
     "mods": [
       {
@@ -33688,20 +33755,6 @@
         "text": "grace has #% increased aura effect",
         "trade_ids": [
           "implicit.stat_397427740"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Hyrri's Truth",
-    "stats": "#% increased attack speed",
-    "builds": 2,
-    "mods": [
-      {
-        "text": "#% increased attack speed",
-        "trade_ids": [
-          "implicit.stat_681332047",
-          "implicit.stat_210067635"
         ]
       }
     ]
