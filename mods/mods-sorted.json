@@ -20,7 +20,7 @@
       "complexity": 18,
       "total": 155
     },
-    "builds": 232,
+    "builds": 233,
     "mods": [
       {
         "text": "socketed skill gems get a #% cost & reservation multiplier",
@@ -750,7 +750,7 @@
       "complexity": 18,
       "total": 6
     },
-    "builds": 35,
+    "builds": 36,
     "mods": [
       {
         "text": "corrupted blood cannot be inflicted on you",
@@ -25680,6 +25680,13 @@
   {
     "item": "Lightning Coil",
     "stats": "+#% to all maximum resistances, #% reduced cold damage taken",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "7l56BQRT5",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 2,
     "mods": [
       {
