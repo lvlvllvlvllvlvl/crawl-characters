@@ -31868,6 +31868,13 @@
   {
     "item": "Black Sun Crest",
     "stats": "+# to level of socketed aura gems, socketed skill gems get a #% cost & reservation multiplier",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "dXW965oFJ",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 2,
     "mods": [
       {
@@ -31965,6 +31972,15 @@
   {
     "item": "Dawnbreaker",
     "stats": "you take #% reduced extra damage from critical strikes",
+    "average": 40,
+    "prices": [
+      40
+    ],
+    "search": {
+      "id": "WVW02qVtm",
+      "complexity": 18,
+      "total": 1
+    },
     "builds": 2,
     "mods": [
       {
@@ -31978,6 +31994,16 @@
   {
     "item": "Dawnbreaker",
     "stats": "#% chance to block spell damage",
+    "average": 1079.46,
+    "prices": [
+      239.88,
+      1919.04
+    ],
+    "search": {
+      "id": "RVBnvwqF7",
+      "complexity": 19,
+      "total": 2
+    },
     "builds": 2,
     "mods": [
       {
@@ -77042,6 +77068,19 @@
         "text": "#% reduced effect of chill on you",
         "trade_ids": [
           "implicit.stat_1478653032"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Transcendent Flesh",
+    "stats": "#% reduced effect of shock on you",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "#% reduced effect of shock on you",
+        "trade_ids": [
+          "implicit.stat_3801067695"
         ]
       }
     ]
