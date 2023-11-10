@@ -1561,6 +1561,37 @@
     ]
   },
   {
+    "item": "Vixen's Entrapment",
+    "stats": "#% increased cast speed",
+    "average": 44,
+    "prices": [
+      15,
+      25,
+      30,
+      40,
+      50,
+      50,
+      50,
+      50,
+      60,
+      70
+    ],
+    "search": {
+      "id": "PK7l22JCL",
+      "complexity": 18,
+      "total": 52
+    },
+    "builds": 23,
+    "mods": [
+      {
+        "text": "#% increased cast speed",
+        "trade_ids": [
+          "implicit.stat_2891184298"
+        ]
+      }
+    ]
+  },
+  {
     "item": "Meginord's Vise",
     "stats": "+# to level of socketed gems",
     "average": 233.17000000000002,
@@ -1649,37 +1680,6 @@
         "text": "attacks have +#% to critical strike chance",
         "trade_ids": [
           "implicit.stat_2572042788"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Vixen's Entrapment",
-    "stats": "#% increased cast speed",
-    "average": 44,
-    "prices": [
-      15,
-      25,
-      30,
-      40,
-      50,
-      50,
-      50,
-      50,
-      60,
-      70
-    ],
-    "search": {
-      "id": "PK7l22JCL",
-      "complexity": 18,
-      "total": 52
-    },
-    "builds": 22,
-    "mods": [
-      {
-        "text": "#% increased cast speed",
-        "trade_ids": [
-          "implicit.stat_2891184298"
         ]
       }
     ]
@@ -4535,6 +4535,30 @@
     ]
   },
   {
+    "item": "Shavronne's Wrappings",
+    "stats": "+# to level of socketed aoe gems",
+    "average": 2398.8999999999996,
+    "prices": [
+      1679.23,
+      2398.8999999999996,
+      2398.8999999999996
+    ],
+    "search": {
+      "id": "4drQg7gH9",
+      "complexity": 18,
+      "total": 3
+    },
+    "builds": 12,
+    "mods": [
+      {
+        "text": "+# to level of socketed aoe gems",
+        "trade_ids": [
+          "implicit.stat_2551600084"
+        ]
+      }
+    ]
+  },
+  {
     "item": "Fleshcrafter",
     "stats": "+# to level of socketed minion gems",
     "average": 2339,
@@ -4926,30 +4950,6 @@
         "text": "#% chance to gain onslaught for # seconds on kill",
         "trade_ids": [
           "implicit.stat_3023957681"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Shavronne's Wrappings",
-    "stats": "+# to level of socketed aoe gems",
-    "average": 2398.8999999999996,
-    "prices": [
-      1679.23,
-      2398.8999999999996,
-      2398.8999999999996
-    ],
-    "search": {
-      "id": "4drQg7gH9",
-      "complexity": 18,
-      "total": 3
-    },
-    "builds": 11,
-    "mods": [
-      {
-        "text": "+# to level of socketed aoe gems",
-        "trade_ids": [
-          "implicit.stat_2551600084"
         ]
       }
     ]
@@ -11002,6 +11002,37 @@
     ]
   },
   {
+    "item": "Malachai's Loop",
+    "stats": "+# to level of socketed aura gems",
+    "average": 294.87777777777774,
+    "prices": [
+      35,
+      50,
+      170,
+      239.89,
+      359.835,
+      359.835,
+      479.78,
+      479.78,
+      479.78,
+      1199.4499999999998
+    ],
+    "search": {
+      "id": "YVqOBVOsY",
+      "complexity": 18,
+      "total": 10
+    },
+    "builds": 5,
+    "mods": [
+      {
+        "text": "+# to level of socketed aura gems",
+        "trade_ids": [
+          "implicit.stat_2452998583"
+        ]
+      }
+    ]
+  },
+  {
     "item": "Badge of the Brotherhood",
     "stats": "zealotry has #% increased aura effect",
     "average": null,
@@ -14382,37 +14413,6 @@
         "text": "corrupted blood cannot be inflicted on you",
         "trade_ids": [
           "implicit.stat_1658498488"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Malachai's Loop",
-    "stats": "+# to level of socketed aura gems",
-    "average": 294.87777777777774,
-    "prices": [
-      35,
-      50,
-      170,
-      239.89,
-      359.835,
-      359.835,
-      479.78,
-      479.78,
-      479.78,
-      1199.4499999999998
-    ],
-    "search": {
-      "id": "YVqOBVOsY",
-      "complexity": 18,
-      "total": 10
-    },
-    "builds": 4,
-    "mods": [
-      {
-        "text": "+# to level of socketed aura gems",
-        "trade_ids": [
-          "implicit.stat_2452998583"
         ]
       }
     ]
@@ -33679,6 +33679,17 @@
   {
     "item": "The Magnate",
     "stats": "hatred has #% increased aura effect",
+    "average": 839.5799999999999,
+    "prices": [
+      719.64,
+      959.52,
+      3598.2
+    ],
+    "search": {
+      "id": "RVBg6k4I7",
+      "complexity": 18,
+      "total": 3
+    },
     "builds": 2,
     "mods": [
       {
@@ -33692,6 +33703,15 @@
   {
     "item": "The Magnate",
     "stats": "determination has #% increased aura effect",
+    "average": 239.88,
+    "prices": [
+      239.88
+    ],
+    "search": {
+      "id": "JVd23n9cl",
+      "complexity": 18,
+      "total": 1
+    },
     "builds": 2,
     "mods": [
       {
@@ -33725,6 +33745,15 @@
   {
     "item": "The Magnate",
     "stats": "#% increased area of effect",
+    "average": 479.76,
+    "prices": [
+      479.76
+    ],
+    "search": {
+      "id": "6Zk6LBjiG",
+      "complexity": 18,
+      "total": 1
+    },
     "builds": 2,
     "mods": [
       {
@@ -33761,6 +33790,13 @@
   {
     "item": "Void Battery",
     "stats": "#% increased critical strike chance, damage penetrates #% elemental resistances",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "mXjEb5zS6",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 2,
     "mods": [
       {
@@ -33780,6 +33816,13 @@
   {
     "item": "Doppelgänger Guise",
     "stats": "#% increased damage",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "oXjLbgkUl",
+      "complexity": 18,
+      "total": 0
+    },
     "builds": 2,
     "mods": [
       {
@@ -33824,6 +33867,16 @@
   {
     "item": "Bisco's Leash",
     "stats": "pride has #% increased aura effect",
+    "average": 614.7,
+    "prices": [
+      30,
+      1199.4
+    ],
+    "search": {
+      "id": "lXj2b5nFV",
+      "complexity": 18,
+      "total": 2
+    },
     "builds": 2,
     "mods": [
       {
@@ -33837,6 +33890,22 @@
   {
     "item": "Bisco's Leash",
     "stats": "#% increased movement speed during any flask effect",
+    "average": 37,
+    "prices": [
+      19,
+      20,
+      20,
+      50,
+      50,
+      50,
+      50,
+      839.5799999999999
+    ],
+    "search": {
+      "id": "aqJZm5KFe",
+      "complexity": 18,
+      "total": 8
+    },
     "builds": 2,
     "mods": [
       {
