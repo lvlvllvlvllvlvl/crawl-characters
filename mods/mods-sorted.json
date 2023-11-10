@@ -20,7 +20,7 @@
       "complexity": 18,
       "total": 155
     },
-    "builds": 233,
+    "builds": 234,
     "mods": [
       {
         "text": "socketed skill gems get a #% cost & reservation multiplier",
@@ -4955,6 +4955,26 @@
     ]
   },
   {
+    "item": "Zerphi's Heart",
+    "stats": "hatred has #% increased aura effect",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "QVnew8mCw",
+      "complexity": 18,
+      "total": 0
+    },
+    "builds": 11,
+    "mods": [
+      {
+        "text": "hatred has #% increased aura effect",
+        "trade_ids": [
+          "implicit.stat_3742945352"
+        ]
+      }
+    ]
+  },
+  {
     "item": "Aegis Aurora",
     "stats": "#% of physical damage from hits taken as lightning damage",
     "average": 8436.131666666666,
@@ -5152,26 +5172,6 @@
         "text": "you take #% reduced extra damage from critical strikes",
         "trade_ids": [
           "implicit.stat_3855016469"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Zerphi's Heart",
-    "stats": "hatred has #% increased aura effect",
-    "average": null,
-    "prices": [],
-    "search": {
-      "id": "QVnew8mCw",
-      "complexity": 18,
-      "total": 0
-    },
-    "builds": 10,
-    "mods": [
-      {
-        "text": "hatred has #% increased aura effect",
-        "trade_ids": [
-          "implicit.stat_3742945352"
         ]
       }
     ]
@@ -7262,6 +7262,30 @@
     ]
   },
   {
+    "item": "Warrior's Tale",
+    "stats": "you cannot be maimed",
+    "average": 479.78,
+    "prices": [
+      479.78,
+      479.78,
+      719.67
+    ],
+    "search": {
+      "id": "MVDvw5DIJ",
+      "complexity": 18,
+      "total": 3
+    },
+    "builds": 7,
+    "mods": [
+      {
+        "text": "you cannot be maimed",
+        "trade_ids": [
+          "implicit.stat_1126826428"
+        ]
+      }
+    ]
+  },
+  {
     "item": "Queen of the Forest",
     "stats": "#% increased damage",
     "average": 143.0528,
@@ -8409,30 +8433,6 @@
         "text": "#% reduced effect of shock on you",
         "trade_ids": [
           "implicit.stat_3801067695"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Warrior's Tale",
-    "stats": "you cannot be maimed",
-    "average": 479.78,
-    "prices": [
-      479.78,
-      479.78,
-      719.67
-    ],
-    "search": {
-      "id": "MVDvw5DIJ",
-      "complexity": 18,
-      "total": 3
-    },
-    "builds": 6,
-    "mods": [
-      {
-        "text": "you cannot be maimed",
-        "trade_ids": [
-          "implicit.stat_1126826428"
         ]
       }
     ]
@@ -26378,6 +26378,25 @@
   },
   {
     "item": "Unnatural Instinct",
+    "stats": "#% increased global critical strike chance, #% increased effect of non-damaging ailments",
+    "builds": 2,
+    "mods": [
+      {
+        "text": "#% increased global critical strike chance",
+        "trade_ids": [
+          "implicit.stat_587431675"
+        ]
+      },
+      {
+        "text": "#% increased effect of non-damaging ailments",
+        "trade_ids": [
+          "implicit.stat_782230869"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Unnatural Instinct",
     "stats": "#% increased global critical strike chance, #% reduced effect of curses on you",
     "average": null,
     "prices": [],
@@ -35744,6 +35763,13 @@
   {
     "item": "The Fledgling",
     "stats": "socketed skill gems get a #% cost & reservation multiplier",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "0B8gK9psg",
+      "complexity": 18,
+      "total": 0
+    },
     "builds": 2,
     "mods": [
       {
@@ -35779,6 +35805,13 @@
   {
     "item": "Ancestral Vision",
     "stats": "overwhelm #% physical damage reduction",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "bXWlJdKHL",
+      "complexity": 18,
+      "total": 0
+    },
     "builds": 2,
     "mods": [
       {
@@ -35792,6 +35825,15 @@
   {
     "item": "Ancestral Vision",
     "stats": "#% increased global critical strike chance",
+    "average": 2878.56,
+    "prices": [
+      2878.56
+    ],
+    "search": {
+      "id": "qXj5rdWTg",
+      "complexity": 18,
+      "total": 1
+    },
     "builds": 2,
     "mods": [
       {
@@ -35805,6 +35847,13 @@
   {
     "item": "Ancestral Vision",
     "stats": "damage penetrates #% fire resistance",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "lXj2Zd0sV",
+      "complexity": 18,
+      "total": 0
+    },
     "builds": 2,
     "mods": [
       {
@@ -35818,6 +35867,13 @@
   {
     "item": "Ancestral Vision",
     "stats": "#% reduced effect of curses on you, corrupted blood cannot be inflicted on you",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "eXWj66bcL",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 2,
     "mods": [
       {
@@ -35837,6 +35893,13 @@
   {
     "item": "Ancestral Vision",
     "stats": "#% reduced effect of shock on you",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "vlPzdd9SE",
+      "complexity": 18,
+      "total": 0
+    },
     "builds": 2,
     "mods": [
       {
@@ -35869,6 +35932,23 @@
   {
     "item": "The Ivory Tower",
     "stats": "#% increased damage",
+    "average": 409.8166666666666,
+    "prices": [
+      60,
+      239.89,
+      239.89,
+      239.89,
+      719.67,
+      959.56,
+      3598.35,
+      7196.7,
+      16792.3
+    ],
+    "search": {
+      "id": "rXjzllMtQ",
+      "complexity": 18,
+      "total": 9
+    },
     "builds": 2,
     "mods": [
       {
@@ -45220,25 +45300,6 @@
         "text": "#% reduced effect of shock on you",
         "trade_ids": [
           "implicit.stat_3801067695"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Unnatural Instinct",
-    "stats": "#% increased global critical strike chance, #% increased effect of non-damaging ailments",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "#% increased global critical strike chance",
-        "trade_ids": [
-          "implicit.stat_587431675"
-        ]
-      },
-      {
-        "text": "#% increased effect of non-damaging ailments",
-        "trade_ids": [
-          "implicit.stat_782230869"
         ]
       }
     ]
