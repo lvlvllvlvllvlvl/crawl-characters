@@ -32315,6 +32315,18 @@
   {
     "item": "Watcher's Eye",
     "stats": "minions deal #% increased damage",
+    "average": 1404.31,
+    "prices": [
+      100,
+      239.88,
+      2398.8,
+      2878.56
+    ],
+    "search": {
+      "id": "8a24E4qsV",
+      "complexity": 18,
+      "total": 4
+    },
     "builds": 2,
     "mods": [
       {
@@ -32328,6 +32340,16 @@
   {
     "item": "Watcher's Eye",
     "stats": "#% reduced ignite duration on you",
+    "average": 299.85,
+    "prices": [
+      239.88,
+      359.82
+    ],
+    "search": {
+      "id": "5okJKJKUa",
+      "complexity": 18,
+      "total": 2
+    },
     "builds": 2,
     "mods": [
       {
@@ -32341,6 +32363,20 @@
   {
     "item": "Watcher's Eye",
     "stats": "#% reduced effect of curses on you",
+    "average": 149.97,
+    "prices": [
+      80,
+      80,
+      200,
+      239.88,
+      1199.4,
+      2398.8
+    ],
+    "search": {
+      "id": "kXj2d2Qh5",
+      "complexity": 18,
+      "total": 6
+    },
     "builds": 2,
     "mods": [
       {
@@ -32411,6 +32447,15 @@
   {
     "item": "Lethal Pride",
     "stats": "#% reduced bleed duration on you",
+    "average": 1679.1599999999999,
+    "prices": [
+      1679.1599999999999
+    ],
+    "search": {
+      "id": "qXjkKqvfg",
+      "complexity": 18,
+      "total": 1
+    },
     "builds": 2,
     "mods": [
       {
@@ -32424,6 +32469,16 @@
   {
     "item": "Lethal Pride",
     "stats": "#% increased reservation efficiency of skills",
+    "average": 959.52,
+    "prices": [
+      239.88,
+      1679.1599999999999
+    ],
+    "search": {
+      "id": "MVD0n4RcJ",
+      "complexity": 19,
+      "total": 2
+    },
     "builds": 2,
     "mods": [
       {
@@ -32438,6 +32493,17 @@
   {
     "item": "Intuitive Leap",
     "stats": "you cannot be maimed",
+    "average": 266.56666666666666,
+    "prices": [
+      200,
+      239.88,
+      359.82
+    ],
+    "search": {
+      "id": "mXj8eqaT6",
+      "complexity": 18,
+      "total": 3
+    },
     "builds": 2,
     "mods": [
       {
@@ -32451,6 +32517,15 @@
   {
     "item": "Intuitive Leap",
     "stats": "damage penetrates #% fire resistance",
+    "average": 239.88,
+    "prices": [
+      239.88
+    ],
+    "search": {
+      "id": "oXjy3eKIl",
+      "complexity": 18,
+      "total": 1
+    },
     "builds": 2,
     "mods": [
       {
@@ -32464,6 +32539,15 @@
   {
     "item": "Intuitive Leap",
     "stats": "damage penetrates #% cold resistance",
+    "average": 239.88,
+    "prices": [
+      239.88
+    ],
+    "search": {
+      "id": "Zb50j86CQ",
+      "complexity": 18,
+      "total": 1
+    },
     "builds": 2,
     "mods": [
       {
@@ -48671,6 +48755,25 @@
         "text": "anger has #% increased aura effect",
         "trade_ids": [
           "implicit.stat_1592278124"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "The Torrent's Reclamation",
+    "stats": "#% increased area of effect, #% increased attack speed during any flask effect",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "#% increased area of effect",
+        "trade_ids": [
+          "implicit.stat_280731498"
+        ]
+      },
+      {
+        "text": "#% increased attack speed during any flask effect",
+        "trade_ids": [
+          "implicit.stat_1365052901"
         ]
       }
     ]
