@@ -6269,6 +6269,38 @@
   },
   {
     "item": "Unnatural Instinct",
+    "stats": "#% increased reservation efficiency of skills",
+    "average": 6374.219999999999,
+    "prices": [
+      4797.799999999999,
+      5517.469999999999,
+      5757.36,
+      6477.03,
+      6477.03,
+      6716.92,
+      6716.92,
+      6956.8099999999995,
+      9595.599999999999,
+      11994.5
+    ],
+    "search": {
+      "id": "pXjl08eT0",
+      "complexity": 19,
+      "total": 12
+    },
+    "builds": 8,
+    "mods": [
+      {
+        "text": "#% increased reservation efficiency of skills",
+        "trade_ids": [
+          "implicit.stat_2587176568",
+          "implicit.stat_4202507508"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Unnatural Instinct",
     "stats": "#% reduced effect of curses on you, corrupted blood cannot be inflicted on you",
     "average": null,
     "prices": [],
@@ -7089,38 +7121,6 @@
         "text": "corrupted blood cannot be inflicted on you",
         "trade_ids": [
           "implicit.stat_1658498488"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Unnatural Instinct",
-    "stats": "#% increased reservation efficiency of skills",
-    "average": 6374.219999999999,
-    "prices": [
-      4797.799999999999,
-      5517.469999999999,
-      5757.36,
-      6477.03,
-      6477.03,
-      6716.92,
-      6716.92,
-      6956.8099999999995,
-      9595.599999999999,
-      11994.5
-    ],
-    "search": {
-      "id": "pXjl08eT0",
-      "complexity": 19,
-      "total": 12
-    },
-    "builds": 7,
-    "mods": [
-      {
-        "text": "#% increased reservation efficiency of skills",
-        "trade_ids": [
-          "implicit.stat_2587176568",
-          "implicit.stat_4202507508"
         ]
       }
     ]
@@ -11188,6 +11188,27 @@
   },
   {
     "item": "Stormshroud",
+    "stats": "#% increased reservation efficiency of skills",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "jXjeByofX",
+      "complexity": 19,
+      "total": 0
+    },
+    "builds": 5,
+    "mods": [
+      {
+        "text": "#% increased reservation efficiency of skills",
+        "trade_ids": [
+          "implicit.stat_2587176568",
+          "implicit.stat_4202507508"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Stormshroud",
     "stats": "you cannot be maimed",
     "average": null,
     "prices": [],
@@ -11280,6 +11301,26 @@
         "text": "+# to level of socketed aoe gems",
         "trade_ids": [
           "implicit.stat_2551600084"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Melding of the Flesh",
+    "stats": "corrupted blood cannot be inflicted on you",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "Ey65XbYT5",
+      "complexity": 18,
+      "total": 0
+    },
+    "builds": 5,
+    "mods": [
+      {
+        "text": "corrupted blood cannot be inflicted on you",
+        "trade_ids": [
+          "implicit.stat_1658498488"
         ]
       }
     ]
@@ -14916,27 +14957,6 @@
   },
   {
     "item": "Stormshroud",
-    "stats": "#% increased reservation efficiency of skills",
-    "average": null,
-    "prices": [],
-    "search": {
-      "id": "jXjeByofX",
-      "complexity": 19,
-      "total": 0
-    },
-    "builds": 4,
-    "mods": [
-      {
-        "text": "#% increased reservation efficiency of skills",
-        "trade_ids": [
-          "implicit.stat_2587176568",
-          "implicit.stat_4202507508"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Stormshroud",
     "stats": "damage penetrates #% elemental resistances",
     "average": null,
     "prices": [],
@@ -15369,26 +15389,6 @@
         "text": "+# to level of socketed gems",
         "trade_ids": [
           "implicit.stat_2843100721"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Melding of the Flesh",
-    "stats": "corrupted blood cannot be inflicted on you",
-    "average": null,
-    "prices": [],
-    "search": {
-      "id": "Ey65XbYT5",
-      "complexity": 18,
-      "total": 0
-    },
-    "builds": 4,
-    "mods": [
-      {
-        "text": "corrupted blood cannot be inflicted on you",
-        "trade_ids": [
-          "implicit.stat_1658498488"
         ]
       }
     ]
@@ -33609,6 +33609,15 @@
   {
     "item": "Dissolution of the Flesh",
     "stats": "damage penetrates #% fire resistance",
+    "average": 200,
+    "prices": [
+      200
+    ],
+    "search": {
+      "id": "kXjrVG3s5",
+      "complexity": 18,
+      "total": 1
+    },
     "builds": 2,
     "mods": [
       {
@@ -33622,6 +33631,15 @@
   {
     "item": "Leash of Oblation",
     "stats": "zealotry has #% increased aura effect",
+    "average": 120,
+    "prices": [
+      120
+    ],
+    "search": {
+      "id": "gXWvVggUQ",
+      "complexity": 18,
+      "total": 1
+    },
     "builds": 2,
     "mods": [
       {
@@ -33687,6 +33705,13 @@
   {
     "item": "The Magnate",
     "stats": "#% increased movement speed during any flask effect",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "7l54LRnt5",
+      "complexity": 18,
+      "total": 0
+    },
     "builds": 2,
     "mods": [
       {
@@ -33713,6 +33738,16 @@
   {
     "item": "The Magnate",
     "stats": "zealotry has #% increased aura effect",
+    "average": 599.7,
+    "prices": [
+      479.76,
+      719.64
+    ],
+    "search": {
+      "id": "4drJEPMt9",
+      "complexity": 18,
+      "total": 2
+    },
     "builds": 2,
     "mods": [
       {
