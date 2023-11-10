@@ -2419,6 +2419,37 @@
   },
   {
     "item": "Call of the Brotherhood",
+    "stats": "zealotry has #% increased aura effect",
+    "average": 146.96800000000002,
+    "prices": [
+      49,
+      60,
+      75,
+      80,
+      120,
+      150,
+      233.92,
+      233.92,
+      233.92,
+      233.92
+    ],
+    "search": {
+      "id": "wpVlMn9ib",
+      "complexity": 18,
+      "total": 40
+    },
+    "builds": 18,
+    "mods": [
+      {
+        "text": "zealotry has #% increased aura effect",
+        "trade_ids": [
+          "implicit.stat_4096052153"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Call of the Brotherhood",
     "stats": "wrath has #% increased aura effect",
     "average": 3418.4325,
     "prices": [
@@ -2899,37 +2930,6 @@
         "text": "+# to level of socketed aoe gems",
         "trade_ids": [
           "implicit.stat_2551600084"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Call of the Brotherhood",
-    "stats": "zealotry has #% increased aura effect",
-    "average": 146.96800000000002,
-    "prices": [
-      49,
-      60,
-      75,
-      80,
-      120,
-      150,
-      233.92,
-      233.92,
-      233.92,
-      233.92
-    ],
-    "search": {
-      "id": "wpVlMn9ib",
-      "complexity": 18,
-      "total": 40
-    },
-    "builds": 16,
-    "mods": [
-      {
-        "text": "zealotry has #% increased aura effect",
-        "trade_ids": [
-          "implicit.stat_4096052153"
         ]
       }
     ]
@@ -4955,6 +4955,30 @@
     ]
   },
   {
+    "item": "Aegis Aurora",
+    "stats": "#% of physical damage from hits taken as lightning damage",
+    "average": 8436.131666666666,
+    "prices": [
+      1319.395,
+      4797.799999999999,
+      19191.199999999997
+    ],
+    "search": {
+      "id": "BEJKYQ3u8",
+      "complexity": 18,
+      "total": 3
+    },
+    "builds": 10,
+    "mods": [
+      {
+        "text": "#% of physical damage from hits taken as lightning damage",
+        "trade_ids": [
+          "implicit.stat_425242359"
+        ]
+      }
+    ]
+  },
+  {
     "item": "Cloak of Flame",
     "stats": "+# to level of socketed gems",
     "average": 795.3280000000002,
@@ -5367,30 +5391,6 @@
         "trade_ids": [
           "implicit.stat_2587176568",
           "implicit.stat_4202507508"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Aegis Aurora",
-    "stats": "#% of physical damage from hits taken as lightning damage",
-    "average": 8436.131666666666,
-    "prices": [
-      1319.395,
-      4797.799999999999,
-      19191.199999999997
-    ],
-    "search": {
-      "id": "BEJKYQ3u8",
-      "complexity": 18,
-      "total": 3
-    },
-    "builds": 9,
-    "mods": [
-      {
-        "text": "#% of physical damage from hits taken as lightning damage",
-        "trade_ids": [
-          "implicit.stat_425242359"
         ]
       }
     ]
@@ -33539,6 +33539,16 @@
   {
     "item": "Severed in Sleep",
     "stats": "adds # to # physical damage",
+    "average": 149.94,
+    "prices": [
+      60,
+      239.88
+    ],
+    "search": {
+      "id": "Ey6v4aBf5",
+      "complexity": 18,
+      "total": 2
+    },
     "builds": 2,
     "mods": [
       {
@@ -33552,6 +33562,15 @@
   {
     "item": "Severed in Sleep",
     "stats": "resolute technique",
+    "average": 20,
+    "prices": [
+      20
+    ],
+    "search": {
+      "id": "Lmd8KnBFn",
+      "complexity": 18,
+      "total": 1
+    },
     "builds": 2,
     "mods": [
       {
@@ -33565,6 +33584,17 @@
   {
     "item": "Severed in Sleep",
     "stats": "#% increased attack speed",
+    "average": 119.96,
+    "prices": [
+      20,
+      100,
+      239.88
+    ],
+    "search": {
+      "id": "y9R7VBlSR",
+      "complexity": 19,
+      "total": 3
+    },
     "builds": 2,
     "mods": [
       {
