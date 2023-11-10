@@ -1346,6 +1346,37 @@
     ]
   },
   {
+    "item": "Soul Mantle",
+    "stats": "+# to level of socketed projectile gems",
+    "average": 183.43600000000004,
+    "prices": [
+      100,
+      100,
+      116.825,
+      139,
+      210.285,
+      233.65,
+      233.65,
+      233.65,
+      233.65,
+      233.65
+    ],
+    "search": {
+      "id": "rY5anw7cQ",
+      "complexity": 18,
+      "total": 91
+    },
+    "builds": 25,
+    "mods": [
+      {
+        "text": "+# to level of socketed projectile gems",
+        "trade_ids": [
+          "implicit.stat_2176571093"
+        ]
+      }
+    ]
+  },
+  {
     "item": "Legacy of Fury",
     "stats": "+# to maximum endurance charges",
     "average": 39.5,
@@ -1434,37 +1465,6 @@
         "text": "curse enemies with vulnerability on hit",
         "trade_ids": [
           "implicit.stat_3967845372"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Soul Mantle",
-    "stats": "+# to level of socketed projectile gems",
-    "average": 183.43600000000004,
-    "prices": [
-      100,
-      100,
-      116.825,
-      139,
-      210.285,
-      233.65,
-      233.65,
-      233.65,
-      233.65,
-      233.65
-    ],
-    "search": {
-      "id": "rY5anw7cQ",
-      "complexity": 18,
-      "total": 91
-    },
-    "builds": 24,
-    "mods": [
-      {
-        "text": "+# to level of socketed projectile gems",
-        "trade_ids": [
-          "implicit.stat_2176571093"
         ]
       }
     ]
@@ -8439,6 +8439,26 @@
   },
   {
     "item": "Anathema",
+    "stats": "+#% to all elemental resistances",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "jXjMMPXSX",
+      "complexity": 18,
+      "total": 0
+    },
+    "builds": 6,
+    "mods": [
+      {
+        "text": "+#% to all elemental resistances",
+        "trade_ids": [
+          "implicit.stat_2901986750"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Anathema",
     "stats": "adds # to # fire damage to spells and attacks",
     "average": 999.5416666666666,
     "prices": [
@@ -8958,6 +8978,28 @@
         "text": "+# to level of socketed aoe gems",
         "trade_ids": [
           "implicit.stat_2551600084"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Rainbowstride",
+    "stats": "#% increased movement speed",
+    "average": 200,
+    "prices": [
+      200
+    ],
+    "search": {
+      "id": "0B87YyOsg",
+      "complexity": 18,
+      "total": 1
+    },
+    "builds": 6,
+    "mods": [
+      {
+        "text": "#% increased movement speed",
+        "trade_ids": [
+          "implicit.stat_2250533757"
         ]
       }
     ]
@@ -10233,26 +10275,6 @@
     ]
   },
   {
-    "item": "Anathema",
-    "stats": "+#% to all elemental resistances",
-    "average": null,
-    "prices": [],
-    "search": {
-      "id": "jXjMMPXSX",
-      "complexity": 18,
-      "total": 0
-    },
-    "builds": 5,
-    "mods": [
-      {
-        "text": "+#% to all elemental resistances",
-        "trade_ids": [
-          "implicit.stat_2901986750"
-        ]
-      }
-    ]
-  },
-  {
     "item": "Immortal Flesh",
     "stats": "grace has #% increased aura effect",
     "average": 376.5016666666666,
@@ -11079,28 +11101,6 @@
         "text": "curse enemies with elemental weakness on hit",
         "trade_ids": [
           "implicit.stat_2028847114"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Rainbowstride",
-    "stats": "#% increased movement speed",
-    "average": 200,
-    "prices": [
-      200
-    ],
-    "search": {
-      "id": "0B87YyOsg",
-      "complexity": 18,
-      "total": 1
-    },
-    "builds": 5,
-    "mods": [
-      {
-        "text": "#% increased movement speed",
-        "trade_ids": [
-          "implicit.stat_2250533757"
         ]
       }
     ]
@@ -32631,6 +32631,13 @@
   {
     "item": "Bisco's Collar",
     "stats": "#% increased quantity of items found",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "bXWa3OLTL",
+      "complexity": 18,
+      "total": 0
+    },
     "builds": 2,
     "mods": [
       {
@@ -32644,6 +32651,24 @@
   {
     "item": "String of Servitude",
     "stats": "#% increased skill effect duration",
+    "average": 13.142857142857142,
+    "prices": [
+      5,
+      8,
+      10,
+      15,
+      15,
+      19,
+      20,
+      40,
+      110,
+      239.88
+    ],
+    "search": {
+      "id": "MVD052PFJ",
+      "complexity": 18,
+      "total": 12
+    },
     "builds": 2,
     "mods": [
       {
@@ -32657,6 +32682,24 @@
   {
     "item": "String of Servitude",
     "stats": "#% increased dexterity, #% increased intelligence",
+    "average": 65.5,
+    "prices": [
+      20,
+      50,
+      50,
+      50,
+      50,
+      65,
+      70,
+      100,
+      100,
+      100
+    ],
+    "search": {
+      "id": "oXjyW9ZUl",
+      "complexity": 29,
+      "total": 26
+    },
     "builds": 2,
     "mods": [
       {
@@ -32676,6 +32719,24 @@
   {
     "item": "String of Servitude",
     "stats": "zealotry has #% increased aura effect",
+    "average": 27.875,
+    "prices": [
+      1,
+      2,
+      5,
+      10,
+      10,
+      50,
+      70,
+      75,
+      120,
+      239.88
+    ],
+    "search": {
+      "id": "qXjkkjlCg",
+      "complexity": 18,
+      "total": 12
+    },
     "builds": 2,
     "mods": [
       {
@@ -32715,6 +32776,15 @@
   {
     "item": "Null and Void",
     "stats": "curse enemies with temporal chains on hit",
+    "average": 70,
+    "prices": [
+      70
+    ],
+    "search": {
+      "id": "MVD00DPiJ",
+      "complexity": 18,
+      "total": 1
+    },
     "builds": 2,
     "mods": [
       {
@@ -32747,6 +32817,13 @@
   {
     "item": "Lioneye's Fall",
     "stats": "#% reduced poison duration on you",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "lXjEEjwUV",
+      "complexity": 18,
+      "total": 0
+    },
     "builds": 2,
     "mods": [
       {
@@ -69154,6 +69231,26 @@
   },
   {
     "item": "Willclash",
+    "stats": "#% of cold damage leeched as life, +# to maximum power charges",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "#% of cold damage leeched as life",
+        "trade_ids": [
+          "implicit.stat_3999401129",
+          "implicit.stat_2459451600"
+        ]
+      },
+      {
+        "text": "+# to maximum power charges",
+        "trade_ids": [
+          "implicit.stat_227523295"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Willclash",
     "stats": "+# to level of socketed trap or mine gems, +# to maximum power charges",
     "builds": 1,
     "mods": [
@@ -84471,6 +84568,25 @@
         "text": "#% increased attack speed during any flask effect",
         "trade_ids": [
           "implicit.stat_1365052901"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Coward's Legacy",
+    "stats": "anger has #% increased aura effect, +#% to critical strike multiplier during any flask effect",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "anger has #% increased aura effect",
+        "trade_ids": [
+          "implicit.stat_1592278124"
+        ]
+      },
+      {
+        "text": "+#% to critical strike multiplier during any flask effect",
+        "trade_ids": [
+          "implicit.stat_240289863"
         ]
       }
     ]
