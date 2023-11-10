@@ -4762,6 +4762,32 @@
     ]
   },
   {
+    "item": "Warrior's Tale",
+    "stats": "damage penetrates #% elemental resistances",
+    "average": 561.4079999999999,
+    "prices": [
+      444.448,
+      561.4079999999999,
+      561.4079999999999,
+      584.8,
+      35088
+    ],
+    "search": {
+      "id": "7zowk0Bu5",
+      "complexity": 18,
+      "total": 5
+    },
+    "builds": 11,
+    "mods": [
+      {
+        "text": "damage penetrates #% elemental resistances",
+        "trade_ids": [
+          "implicit.stat_2101383955"
+        ]
+      }
+    ]
+  },
+  {
     "item": "Southbound",
     "stats": "+#% to spell critical strike chance",
     "average": 35.56375,
@@ -4992,32 +5018,6 @@
         "text": "#% increased quantity of items found",
         "trade_ids": [
           "implicit.stat_884586851"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Warrior's Tale",
-    "stats": "damage penetrates #% elemental resistances",
-    "average": 561.4079999999999,
-    "prices": [
-      444.448,
-      561.4079999999999,
-      561.4079999999999,
-      584.8,
-      35088
-    ],
-    "search": {
-      "id": "7zowk0Bu5",
-      "complexity": 18,
-      "total": 5
-    },
-    "builds": 10,
-    "mods": [
-      {
-        "text": "damage penetrates #% elemental resistances",
-        "trade_ids": [
-          "implicit.stat_2101383955"
         ]
       }
     ]
@@ -33410,6 +33410,13 @@
   {
     "item": "The Covenant",
     "stats": "+# to level of socketed gems, +# to level of socketed aura gems",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "BEJYg6aI8",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 2,
     "mods": [
       {
@@ -33429,6 +33436,13 @@
   {
     "item": "The Covenant",
     "stats": "+# to level of socketed aoe gems, +# to level of socketed trap or mine gems",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "0B8g2zYIg",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 2,
     "mods": [
       {
@@ -33448,6 +33462,13 @@
   {
     "item": "The Covenant",
     "stats": "+# to level of socketed minion gems, +# to level of socketed aura gems",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "bXWlGL2SL",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 2,
     "mods": [
       {
@@ -33467,6 +33488,15 @@
   {
     "item": "The Covenant",
     "stats": "+# to level of socketed gems, +# to level of socketed projectile gems",
+    "average": 11994,
+    "prices": [
+      11994
+    ],
+    "search": {
+      "id": "nXj8rWRt0",
+      "complexity": 29,
+      "total": 1
+    },
     "builds": 2,
     "mods": [
       {
@@ -33486,6 +33516,16 @@
   {
     "item": "The Covenant",
     "stats": "#% increased damage",
+    "average": 5037.4800000000005,
+    "prices": [
+      479.76,
+      9595.2
+    ],
+    "search": {
+      "id": "zeB6bd0H4",
+      "complexity": 18,
+      "total": 2
+    },
     "builds": 2,
     "mods": [
       {
