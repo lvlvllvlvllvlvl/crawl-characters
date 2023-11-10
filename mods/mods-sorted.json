@@ -144,7 +144,7 @@
       "complexity": 18,
       "total": 106
     },
-    "builds": 83,
+    "builds": 84,
     "mods": [
       {
         "text": "curse enemies with elemental weakness on hit",
@@ -31304,6 +31304,17 @@
   {
     "item": "Incandescent Heart",
     "stats": "you take #% reduced extra damage from critical strikes",
+    "average": 71.66666666666667,
+    "prices": [
+      45,
+      80,
+      90
+    ],
+    "search": {
+      "id": "RVBnoyBU7",
+      "complexity": 18,
+      "total": 3
+    },
     "builds": 2,
     "mods": [
       {
@@ -31317,6 +31328,13 @@
   {
     "item": "Incandescent Heart",
     "stats": "+# to level of socketed projectile gems, #% reduced chaos damage taken",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "nXjLj7BS0",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 2,
     "mods": [
       {
@@ -31336,6 +31354,13 @@
   {
     "item": "Incandescent Heart",
     "stats": "+# to level of socketed aura gems, +#% to all maximum resistances",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "qXjkjPXtg",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 2,
     "mods": [
       {
@@ -31439,6 +31464,13 @@
   {
     "item": "Crystallised Omniscience",
     "stats": "hatred has #% increased aura effect, #% increased elemental damage with attack skills",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "lXjEjRQhV",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 2,
     "mods": [
       {
