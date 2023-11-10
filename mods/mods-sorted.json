@@ -30733,6 +30733,13 @@
   {
     "item": "Dendrobate",
     "stats": "+# to level of socketed duration gems, #% reduced cold damage taken",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "9Y2mzQmfK",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 2,
     "mods": [
       {
@@ -30832,6 +30839,15 @@
   {
     "item": "Belly of the Beast",
     "stats": "#% increased damage",
+    "average": 200,
+    "prices": [
+      200
+    ],
+    "search": {
+      "id": "kXj2760c5",
+      "complexity": 18,
+      "total": 1
+    },
     "builds": 2,
     "mods": [
       {
