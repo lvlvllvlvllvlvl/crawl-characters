@@ -155,6 +155,37 @@
     ]
   },
   {
+    "item": "Kaom's Spirit",
+    "stats": "+# to maximum frenzy charges",
+    "average": 1400.5200000000002,
+    "prices": [
+      1353.8359999999998,
+      1353.8359999999998,
+      1400.52,
+      1400.52,
+      1400.52,
+      1400.52,
+      1400.52,
+      1400.52,
+      1400.52,
+      1400.52
+    ],
+    "search": {
+      "id": "VyB7zXgIp",
+      "complexity": 18,
+      "total": 70
+    },
+    "builds": 67,
+    "mods": [
+      {
+        "text": "+# to maximum frenzy charges",
+        "trade_ids": [
+          "implicit.stat_4078695"
+        ]
+      }
+    ]
+  },
+  {
     "item": "Goldwyrm",
     "stats": "regenerate # life per second while moving",
     "average": 16.8,
@@ -181,37 +212,6 @@
         "text": "regenerate # life per second while moving",
         "trade_ids": [
           "implicit.stat_2841027131"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Kaom's Spirit",
-    "stats": "+# to maximum frenzy charges",
-    "average": 1400.5200000000002,
-    "prices": [
-      1353.8359999999998,
-      1353.8359999999998,
-      1400.52,
-      1400.52,
-      1400.52,
-      1400.52,
-      1400.52,
-      1400.52,
-      1400.52,
-      1400.52
-    ],
-    "search": {
-      "id": "VyB7zXgIp",
-      "complexity": 18,
-      "total": 70
-    },
-    "builds": 66,
-    "mods": [
-      {
-        "text": "+# to maximum frenzy charges",
-        "trade_ids": [
-          "implicit.stat_4078695"
         ]
       }
     ]
@@ -1902,6 +1902,36 @@
     ]
   },
   {
+    "item": "Darkray Vectors",
+    "stats": "+# to level of socketed gems",
+    "average": 1085.50225,
+    "prices": [
+      239.89,
+      287.868,
+      479.78,
+      719.67,
+      959.56,
+      1199.4499999999998,
+      2398.8999999999996,
+      2398.8999999999996,
+      3598.35
+    ],
+    "search": {
+      "id": "3BrQzW5s5",
+      "complexity": 18,
+      "total": 9
+    },
+    "builds": 20,
+    "mods": [
+      {
+        "text": "+# to level of socketed gems",
+        "trade_ids": [
+          "implicit.stat_2843100721"
+        ]
+      }
+    ]
+  },
+  {
     "item": "Lightning Coil",
     "stats": "#% increased damage",
     "average": 24.22222222222222,
@@ -2184,36 +2214,6 @@
         "text": "#% increased maximum life",
         "trade_ids": [
           "implicit.stat_983749596"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Darkray Vectors",
-    "stats": "+# to level of socketed gems",
-    "average": 1085.50225,
-    "prices": [
-      239.89,
-      287.868,
-      479.78,
-      719.67,
-      959.56,
-      1199.4499999999998,
-      2398.8999999999996,
-      2398.8999999999996,
-      3598.35
-    ],
-    "search": {
-      "id": "3BrQzW5s5",
-      "complexity": 18,
-      "total": 9
-    },
-    "builds": 19,
-    "mods": [
-      {
-        "text": "+# to level of socketed gems",
-        "trade_ids": [
-          "implicit.stat_2843100721"
         ]
       }
     ]
