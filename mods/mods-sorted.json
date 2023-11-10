@@ -1224,6 +1224,37 @@
     ]
   },
   {
+    "item": "Heatshiver",
+    "stats": "+# to level of socketed aoe gems",
+    "average": 40,
+    "prices": [
+      30,
+      35,
+      40,
+      40,
+      40,
+      40,
+      40,
+      40,
+      40,
+      40
+    ],
+    "search": {
+      "id": "K9gqBv6c5",
+      "complexity": 18,
+      "total": 179
+    },
+    "builds": 26,
+    "mods": [
+      {
+        "text": "+# to level of socketed aoe gems",
+        "trade_ids": [
+          "implicit.stat_2551600084"
+        ]
+      }
+    ]
+  },
+  {
     "item": "March of the Legion",
     "stats": "+# to level of socketed gems",
     "average": 12.571428571428571,
@@ -1312,37 +1343,6 @@
         "text": "+# to maximum endurance charges",
         "trade_ids": [
           "implicit.stat_1515657623"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Heatshiver",
-    "stats": "+# to level of socketed aoe gems",
-    "average": 40,
-    "prices": [
-      30,
-      35,
-      40,
-      40,
-      40,
-      40,
-      40,
-      40,
-      40,
-      40
-    ],
-    "search": {
-      "id": "K9gqBv6c5",
-      "complexity": 18,
-      "total": 179
-    },
-    "builds": 25,
-    "mods": [
-      {
-        "text": "+# to level of socketed aoe gems",
-        "trade_ids": [
-          "implicit.stat_2551600084"
         ]
       }
     ]
@@ -7317,6 +7317,32 @@
     ]
   },
   {
+    "item": "Call of the Brotherhood",
+    "stats": "adds # to # lightning damage to spells and attacks",
+    "average": 639.7066666666666,
+    "prices": [
+      239.89,
+      719.67,
+      959.56,
+      3598.35,
+      13193.949999999999
+    ],
+    "search": {
+      "id": "KJD9wVqi5",
+      "complexity": 18,
+      "total": 5
+    },
+    "builds": 7,
+    "mods": [
+      {
+        "text": "adds # to # lightning damage to spells and attacks",
+        "trade_ids": [
+          "implicit.stat_2885144362"
+        ]
+      }
+    ]
+  },
+  {
     "item": "Incandescent Heart",
     "stats": "+# to level of socketed aoe gems",
     "average": 2926.6580000000004,
@@ -8558,32 +8584,6 @@
         "text": "grants level # zealotry skill",
         "trade_ids": [
           "implicit.stat_3224664127"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Call of the Brotherhood",
-    "stats": "adds # to # lightning damage to spells and attacks",
-    "average": 639.7066666666666,
-    "prices": [
-      239.89,
-      719.67,
-      959.56,
-      3598.35,
-      13193.949999999999
-    ],
-    "search": {
-      "id": "KJD9wVqi5",
-      "complexity": 18,
-      "total": 5
-    },
-    "builds": 6,
-    "mods": [
-      {
-        "text": "adds # to # lightning damage to spells and attacks",
-        "trade_ids": [
-          "implicit.stat_2885144362"
         ]
       }
     ]
@@ -19398,6 +19398,43 @@
   },
   {
     "item": "Call of the Brotherhood",
+    "stats": "#% increased strength, #% increased intelligence",
+    "average": 59,
+    "prices": [
+      10,
+      10,
+      15,
+      35,
+      50,
+      70,
+      100,
+      100,
+      100,
+      100
+    ],
+    "search": {
+      "id": "XkOE08kIP",
+      "complexity": 29,
+      "total": 31
+    },
+    "builds": 3,
+    "mods": [
+      {
+        "text": "#% increased strength",
+        "trade_ids": [
+          "implicit.stat_4139681126"
+        ]
+      },
+      {
+        "text": "#% increased intelligence",
+        "trade_ids": [
+          "implicit.stat_656461285"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Call of the Brotherhood",
     "stats": "#% increased strength, #% increased dexterity",
     "average": 29,
     "prices": [
@@ -26379,6 +26416,13 @@
   {
     "item": "Unnatural Instinct",
     "stats": "#% increased global critical strike chance, #% increased effect of non-damaging ailments",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "waPzY0Kib",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 2,
     "mods": [
       {
@@ -27583,6 +27627,25 @@
         "text": "+# to level of socketed curse gems",
         "trade_ids": [
           "implicit.stat_3691695237"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Aegis Aurora",
+    "stats": "+# to level of socketed trap or mine gems, #% of physical damage from hits taken as lightning damage",
+    "builds": 2,
+    "mods": [
+      {
+        "text": "+# to level of socketed trap or mine gems",
+        "trade_ids": [
+          "implicit.stat_150668988"
+        ]
+      },
+      {
+        "text": "#% of physical damage from hits taken as lightning damage",
+        "trade_ids": [
+          "implicit.stat_425242359"
         ]
       }
     ]
@@ -31161,43 +31224,6 @@
         "text": "zealotry has #% increased aura effect",
         "trade_ids": [
           "implicit.stat_4096052153"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Call of the Brotherhood",
-    "stats": "#% increased strength, #% increased intelligence",
-    "average": 59,
-    "prices": [
-      10,
-      10,
-      15,
-      35,
-      50,
-      70,
-      100,
-      100,
-      100,
-      100
-    ],
-    "search": {
-      "id": "XkOE08kIP",
-      "complexity": 29,
-      "total": 31
-    },
-    "builds": 2,
-    "mods": [
-      {
-        "text": "#% increased strength",
-        "trade_ids": [
-          "implicit.stat_4139681126"
-        ]
-      },
-      {
-        "text": "#% increased intelligence",
-        "trade_ids": [
-          "implicit.stat_656461285"
         ]
       }
     ]
@@ -35913,6 +35939,15 @@
   {
     "item": "Lioneye's Vision",
     "stats": "+# to level of socketed gems, +# to level of socketed projectile gems",
+    "average": 9595.599999999999,
+    "prices": [
+      9595.599999999999
+    ],
+    "search": {
+      "id": "KJDannqs5",
+      "complexity": 29,
+      "total": 1
+    },
     "builds": 2,
     "mods": [
       {
@@ -35962,6 +35997,18 @@
   {
     "item": "Heartbound Loop",
     "stats": "anger has #% increased aura effect",
+    "average": 26.7,
+    "prices": [
+      10,
+      20.1,
+      50,
+      479.78
+    ],
+    "search": {
+      "id": "8a2DBBMTV",
+      "complexity": 18,
+      "total": 4
+    },
     "builds": 2,
     "mods": [
       {
@@ -35988,6 +36035,21 @@
   {
     "item": "Heartbound Loop",
     "stats": "grants level # zealotry skill",
+    "average": 483.3514285714285,
+    "prices": [
+      10,
+      15,
+      239.89,
+      239.89,
+      479.78,
+      1199.4499999999998,
+      1199.4499999999998
+    ],
+    "search": {
+      "id": "MVD9brMFJ",
+      "complexity": 18,
+      "total": 7
+    },
     "builds": 2,
     "mods": [
       {
@@ -36015,6 +36077,18 @@
   {
     "item": "Kikazaru",
     "stats": "wrath has #% increased aura effect",
+    "average": 22,
+    "prices": [
+      19,
+      25,
+      150,
+      1439.34
+    ],
+    "search": {
+      "id": "YVq5gQ6IY",
+      "complexity": 18,
+      "total": 4
+    },
     "builds": 2,
     "mods": [
       {
@@ -46761,25 +46835,6 @@
   },
   {
     "item": "Aegis Aurora",
-    "stats": "+# to level of socketed trap or mine gems, #% of physical damage from hits taken as lightning damage",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "+# to level of socketed trap or mine gems",
-        "trade_ids": [
-          "implicit.stat_150668988"
-        ]
-      },
-      {
-        "text": "#% of physical damage from hits taken as lightning damage",
-        "trade_ids": [
-          "implicit.stat_425242359"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Aegis Aurora",
     "stats": "#% increased maximum life, #% of physical damage from hits taken as fire damage",
     "builds": 1,
     "mods": [
@@ -50347,6 +50402,25 @@
         "text": "determination has #% increased aura effect",
         "trade_ids": [
           "implicit.stat_3653400807"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "The Torrent's Reclamation",
+    "stats": "anger has #% increased aura effect, pride has #% increased aura effect",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "anger has #% increased aura effect",
+        "trade_ids": [
+          "implicit.stat_1592278124"
+        ]
+      },
+      {
+        "text": "pride has #% increased aura effect",
+        "trade_ids": [
+          "implicit.stat_4247488219"
         ]
       }
     ]
@@ -61412,6 +61486,25 @@
         "text": "+#% to spell critical strike chance",
         "trade_ids": [
           "implicit.stat_791835907"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Vixen's Entrapment",
+    "stats": "+# to level of socketed curse gems, curse enemies with vulnerability on hit",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "+# to level of socketed curse gems",
+        "trade_ids": [
+          "implicit.stat_3691695237"
+        ]
+      },
+      {
+        "text": "curse enemies with vulnerability on hit",
+        "trade_ids": [
+          "implicit.stat_3967845372"
         ]
       }
     ]
