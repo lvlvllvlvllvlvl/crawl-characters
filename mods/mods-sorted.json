@@ -3326,6 +3326,37 @@
     ]
   },
   {
+    "item": "Rathpith Globe",
+    "stats": "+# to level of socketed aoe gems",
+    "average": 285.90222222222224,
+    "prices": [
+      233.92,
+      233.92,
+      233.92,
+      233.92,
+      233.92,
+      233.92,
+      233.92,
+      467.84,
+      467.84,
+      701.76
+    ],
+    "search": {
+      "id": "VyBwlJdTp",
+      "complexity": 18,
+      "total": 12
+    },
+    "builds": 15,
+    "mods": [
+      {
+        "text": "+# to level of socketed aoe gems",
+        "trade_ids": [
+          "implicit.stat_2551600084"
+        ]
+      }
+    ]
+  },
+  {
     "item": "Marylene's Fallacy",
     "stats": "you can apply an additional curse",
     "average": 2159.0099999999998,
@@ -3646,37 +3677,6 @@
         "text": "+# to level of socketed gems",
         "trade_ids": [
           "implicit.stat_2843100721"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Rathpith Globe",
-    "stats": "+# to level of socketed aoe gems",
-    "average": 285.90222222222224,
-    "prices": [
-      233.92,
-      233.92,
-      233.92,
-      233.92,
-      233.92,
-      233.92,
-      233.92,
-      467.84,
-      467.84,
-      701.76
-    ],
-    "search": {
-      "id": "VyBwlJdTp",
-      "complexity": 18,
-      "total": 12
-    },
-    "builds": 14,
-    "mods": [
-      {
-        "text": "+# to level of socketed aoe gems",
-        "trade_ids": [
-          "implicit.stat_2551600084"
         ]
       }
     ]
@@ -34250,6 +34250,21 @@
   {
     "item": "Thread of Hope",
     "stats": "#% reduced effect of curses on you",
+    "average": 239.88,
+    "prices": [
+      150,
+      239.88,
+      239.88,
+      479.76,
+      959.52,
+      1439.28,
+      19190.4
+    ],
+    "search": {
+      "id": "KJDEOkMs5",
+      "complexity": 18,
+      "total": 7
+    },
     "builds": 2,
     "mods": [
       {
