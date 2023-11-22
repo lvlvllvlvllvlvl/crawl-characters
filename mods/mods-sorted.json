@@ -3733,6 +3733,24 @@
   {
     "item": "Lightning Coil",
     "stats": "+# to level of socketed duration gems",
+    "average": 1859.7809999999997,
+    "prices": [
+      241.53,
+      241.53,
+      1207.65,
+      1207.65,
+      1690.71,
+      1932.24,
+      1932.24,
+      2415.3,
+      3622.95,
+      4106.01
+    ],
+    "search": {
+      "id": "waPeM2jtb",
+      "complexity": 18,
+      "total": 17
+    },
     "builds": 14,
     "mods": [
       {
@@ -3746,6 +3764,17 @@
   {
     "item": "Victario's Influence",
     "stats": "+# to level of socketed gems, +# to level of socketed aura gems",
+    "average": 5313.66,
+    "prices": [
+      4589.07,
+      6038.25,
+      40577.04
+    ],
+    "search": {
+      "id": "emYBeMnsL",
+      "complexity": 29,
+      "total": 3
+    },
     "builds": 14,
     "mods": [
       {
@@ -3765,6 +3794,19 @@
   {
     "item": "Eber's Unification",
     "stats": "+# to maximum power charges",
+    "average": 2009.5296000000003,
+    "prices": [
+      144.918,
+      241.53,
+      2415.3,
+      2415.3,
+      4830.6
+    ],
+    "search": {
+      "id": "jXjBMnXSX",
+      "complexity": 18,
+      "total": 5
+    },
     "builds": 14,
     "mods": [
       {
@@ -3778,6 +3820,16 @@
   {
     "item": "Wilma's Requital",
     "stats": "socketed skill gems get a #% cost & reservation multiplier",
+    "average": 2656.83,
+    "prices": [
+      1207.65,
+      4106.01
+    ],
+    "search": {
+      "id": "0B8MqWOsg",
+      "complexity": 18,
+      "total": 2
+    },
     "builds": 13,
     "mods": [
       {
@@ -3791,6 +3843,21 @@
   {
     "item": "Sadima's Touch",
     "stats": "curse enemies with vulnerability on hit",
+    "average": 241.53000000000003,
+    "prices": [
+      60,
+      241.53,
+      241.53,
+      241.53,
+      241.53,
+      241.53,
+      1207.65
+    ],
+    "search": {
+      "id": "JYmporJsl",
+      "complexity": 18,
+      "total": 7
+    },
     "builds": 13,
     "mods": [
       {
