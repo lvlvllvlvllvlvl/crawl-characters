@@ -18,12 +18,14 @@ jobs:
           then
             rm -rf previous-mods
             mv mods previous-mods
+            mkdir mods
           fi &
 
           if bun run src/crawler.ts
           then
             rm -rf previous
             mv data previous
+            mkdir data
           fi
 
           wait

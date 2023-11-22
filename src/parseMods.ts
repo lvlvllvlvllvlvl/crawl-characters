@@ -113,46 +113,50 @@ for (const fileName of await readdir("data")) {
   if (!fileName.startsWith("items-") && !fileName.startsWith("passives-")) {
     continue;
   }
-  const char = await Bun.file(path.join("data", fileName)).json();
-  for (const item of char.items || []) {
-    if (item.frameType === 3 && item.implicitMods && item.corrupted) {
-      let mods = [] as Mods;
-      for (const mod of item.implicitMods as string[]) {
-        const parser = new Parser(Grammar.fromCompiled(grammar));
-        const feed = mod
-          .toLowerCase()
-          .split(/\s+/)
-          .filter((s) => s);
-        try {
-          parser.feed(feed as any);
-          if (!parser.results?.length) {
-            // probably not a corrupted mod
-          } else if (!parser.results[0].text) {
-            console.log("unexpected results", parser.results);
-          } else {
-            mods.push(parser.results[0]);
-          }
-        } catch (e) {
-          console.error(feed, e);
-        }
-      }
-      if (mods.length) {
-        const stats = mods.map((m) => m.text).join(", ");
-        const result = (results[item.name] = results[item.name] || {});
-        if (!result[stats]) {
-          const file = Bun.file(
-            path.join("mods", `result-${item.name} ${stats}.json`)
-          );
-          result[stats] = { builds: 0, mods };
-          if (await file.exists()) {
-            const { average, prices, search } = await file.json();
-            delete search.result;
-            result[stats] = { average, prices, search, ...result[stats] };
+  try {
+    const char = await Bun.file(path.join("data", fileName)).json();
+    for (const item of char.items || []) {
+      if (item.frameType === 3 && item.implicitMods && item.corrupted) {
+        let mods = [] as Mods;
+        for (const mod of item.implicitMods as string[]) {
+          const parser = new Parser(Grammar.fromCompiled(grammar));
+          const feed = mod
+            .toLowerCase()
+            .split(/\s+/)
+            .filter((s) => s);
+          try {
+            parser.feed(feed as any);
+            if (!parser.results?.length) {
+              // probably not a corrupted mod
+            } else if (!parser.results[0].text) {
+              console.log("unexpected results", parser.results);
+            } else {
+              mods.push(parser.results[0]);
+            }
+          } catch (e) {
+            console.error(feed, e);
           }
         }
-        result[stats].builds++;
+        if (mods.length) {
+          const stats = mods.map((m) => m.text).join(", ");
+          const result = (results[item.name] = results[item.name] || {});
+          if (!result[stats]) {
+            const file = Bun.file(
+              path.join("mods", `result-${item.name} ${stats}.json`)
+            );
+            result[stats] = { builds: 0, mods };
+            if (await file.exists()) {
+              const { average, prices, search } = await file.json();
+              delete search.result;
+              result[stats] = { average, prices, search, ...result[stats] };
+            }
+          }
+          result[stats].builds++;
+        }
       }
     }
+  } catch (e) {
+    console.log("Error processing", fileName, e);
   }
 }
 
