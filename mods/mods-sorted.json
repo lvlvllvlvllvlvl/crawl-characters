@@ -4104,6 +4104,17 @@
   {
     "item": "Legacy of Fury",
     "stats": "#% increased movement speed",
+    "average": 241.55000000000004,
+    "prices": [
+      241.55,
+      241.55,
+      241.55
+    ],
+    "search": {
+      "id": "6Gqvl6XuG",
+      "complexity": 18,
+      "total": 3
+    },
     "builds": 12,
     "mods": [
       {
@@ -4117,6 +4128,17 @@
   {
     "item": "Redblade Banner",
     "stats": "you take #% reduced extra damage from critical strikes",
+    "average": 1690.8500000000001,
+    "prices": [
+      966.2,
+      1690.8500000000001,
+      2415.5
+    ],
+    "search": {
+      "id": "BEJKXnjC8",
+      "complexity": 18,
+      "total": 3
+    },
     "builds": 12,
     "mods": [
       {
@@ -4130,6 +4152,13 @@
   {
     "item": "Might of the Meek",
     "stats": "damage penetrates #% elemental resistances",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "wpR9lrdIb",
+      "complexity": 18,
+      "total": 0
+    },
     "builds": 12,
     "mods": [
       {
@@ -4143,6 +4172,18 @@
   {
     "item": "Queen of the Forest",
     "stats": "+# to level of socketed gems",
+    "average": 4529.0625,
+    "prices": [
+      483.1,
+      3623.25,
+      4347.900000000001,
+      9662
+    ],
+    "search": {
+      "id": "yrJQLgGsR",
+      "complexity": 18,
+      "total": 4
+    },
     "builds": 12,
     "mods": [
       {
@@ -4156,6 +4197,16 @@
   {
     "item": "Severed in Sleep",
     "stats": "#% chance to gain onslaught for # seconds on kill",
+    "average": 389.82500000000005,
+    "prices": [
+      55,
+      724.6500000000001
+    ],
+    "search": {
+      "id": "GkdLwRZHb",
+      "complexity": 18,
+      "total": 2
+    },
     "builds": 12,
     "mods": [
       {
