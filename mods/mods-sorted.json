@@ -7326,6 +7326,16 @@
   {
     "item": "Dawnstrider",
     "stats": "+# to maximum endurance charges",
+    "average": 22948.2,
+    "prices": [
+      2415.6,
+      43480.8
+    ],
+    "search": {
+      "id": "JVdVbv9cl",
+      "complexity": 18,
+      "total": 2
+    },
     "builds": 7,
     "mods": [
       {
@@ -7339,6 +7349,13 @@
   {
     "item": "Stormshroud",
     "stats": "#% increased damage",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "4drqyKQt9",
+      "complexity": 18,
+      "total": 0
+    },
     "builds": 7,
     "mods": [
       {
@@ -7352,6 +7369,17 @@
   {
     "item": "Saffell's Frame",
     "stats": "#% of physical damage from hits taken as fire damage",
+    "average": 288.2266666666667,
+    "prices": [
+      40,
+      100,
+      724.6800000000001
+    ],
+    "search": {
+      "id": "nXjZwyyu0",
+      "complexity": 18,
+      "total": 3
+    },
     "builds": 7,
     "mods": [
       {
@@ -7365,6 +7393,13 @@
   {
     "item": "Saffell's Frame",
     "stats": "#% of physical damage from hits taken as chaos damage",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "2BrBPO5hk",
+      "complexity": 18,
+      "total": 0
+    },
     "builds": 7,
     "mods": [
       {
@@ -7378,6 +7413,17 @@
   {
     "item": "Victario's Influence",
     "stats": "+# to level of socketed aoe gems, +# to level of socketed aura gems",
+    "average": 6844.2,
+    "prices": [
+      3623.4,
+      4831.2,
+      12078
+    ],
+    "search": {
+      "id": "YD03QoRIY",
+      "complexity": 29,
+      "total": 3
+    },
     "builds": 7,
     "mods": [
       {
@@ -7397,6 +7443,15 @@
   {
     "item": "Victario's Influence",
     "stats": "+# to level of socketed projectile gems, +# to level of socketed aura gems",
+    "average": 1449.3000000000002,
+    "prices": [
+      1449.3000000000002
+    ],
+    "search": {
+      "id": "bXWwyXdfL",
+      "complexity": 29,
+      "total": 1
+    },
     "builds": 7,
     "mods": [
       {
@@ -7416,6 +7471,15 @@
   {
     "item": "Fractal Thoughts",
     "stats": "socketed skill gems get a #% cost & reservation multiplier",
+    "average": 16666.95,
+    "prices": [
+      16666.95
+    ],
+    "search": {
+      "id": "4drd57Mt9",
+      "complexity": 18,
+      "total": 1
+    },
     "builds": 7,
     "mods": [
       {
