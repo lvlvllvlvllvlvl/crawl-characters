@@ -3987,6 +3987,13 @@
   {
     "item": "Aegis Aurora",
     "stats": "#% of physical damage from hits taken as chaos damage",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "qaykOzPtg",
+      "complexity": 18,
+      "total": 0
+    },
     "builds": 12,
     "mods": [
       {
@@ -4000,6 +4007,13 @@
   {
     "item": "Aegis Aurora",
     "stats": "+# to level of socketed gems",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "80Z8EzGsV",
+      "complexity": 18,
+      "total": 0
+    },
     "builds": 12,
     "mods": [
       {
@@ -4013,6 +4027,16 @@
   {
     "item": "The Covenant",
     "stats": "+# to level of socketed aoe gems",
+    "average": 6038.25,
+    "prices": [
+      4830.6,
+      7245.9
+    ],
+    "search": {
+      "id": "wpRa4kBcb",
+      "complexity": 18,
+      "total": 2
+    },
     "builds": 12,
     "mods": [
       {
@@ -4026,6 +4050,24 @@
   {
     "item": "Kaom's Spirit",
     "stats": "+# to level of socketed aura gems",
+    "average": 306.5888888888889,
+    "prices": [
+      70,
+      75,
+      99,
+      100,
+      241.53,
+      241.53,
+      483.06,
+      724.59,
+      724.59,
+      1207.65
+    ],
+    "search": {
+      "id": "80ZqdM2sV",
+      "complexity": 18,
+      "total": 13
+    },
     "builds": 12,
     "mods": [
       {
@@ -4039,6 +4081,16 @@
   {
     "item": "Fleshcrafter",
     "stats": "+# to level of socketed minion gems",
+    "average": 3502.185,
+    "prices": [
+      3381.42,
+      3622.95
+    ],
+    "search": {
+      "id": "4qnzvpvT9",
+      "complexity": 18,
+      "total": 2
+    },
     "builds": 12,
     "mods": [
       {
