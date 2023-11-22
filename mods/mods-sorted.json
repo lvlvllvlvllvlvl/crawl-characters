@@ -2664,6 +2664,13 @@
   {
     "item": "Warrior's Tale",
     "stats": "damage penetrates #% cold resistance",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "8a2oVm8HV",
+      "complexity": 18,
+      "total": 0
+    },
     "builds": 17,
     "mods": [
       {
@@ -2677,6 +2684,22 @@
   {
     "item": "Incandescent Heart",
     "stats": "+# to level of socketed gems",
+    "average": 6995.38,
+    "prices": [
+      241.22,
+      3618.3,
+      4341.96,
+      4824.4,
+      14473.2,
+      14473.2,
+      24122,
+      48244
+    ],
+    "search": {
+      "id": "kPK0blrU5",
+      "complexity": 18,
+      "total": 8
+    },
     "builds": 17,
     "mods": [
       {
@@ -2690,6 +2713,24 @@
   {
     "item": "Lightning Coil",
     "stats": "+# to level of socketed gems",
+    "average": 1125.6933333333334,
+    "prices": [
+      241.22,
+      241.22,
+      723.66,
+      723.66,
+      723.66,
+      964.88,
+      1688.54,
+      2412.2,
+      2412.2,
+      4824.4
+    ],
+    "search": {
+      "id": "2BrQXgYFk",
+      "complexity": 18,
+      "total": 15
+    },
     "builds": 17,
     "mods": [
       {
@@ -2703,6 +2744,16 @@
   {
     "item": "Alpha's Howl",
     "stats": "+# to level of socketed aura gems",
+    "average": 4221.35,
+    "prices": [
+      1206.1,
+      7236.6
+    ],
+    "search": {
+      "id": "EG8P4gyC5",
+      "complexity": 18,
+      "total": 2
+    },
     "builds": 17,
     "mods": [
       {
@@ -2716,6 +2767,17 @@
   {
     "item": "Aegis Aurora",
     "stats": "+# to level of socketed aura gems",
+    "average": 1326.71,
+    "prices": [
+      1206.1,
+      1447.32,
+      7236.6
+    ],
+    "search": {
+      "id": "gXWQmEOcQ",
+      "complexity": 18,
+      "total": 3
+    },
     "builds": 16,
     "mods": [
       {
