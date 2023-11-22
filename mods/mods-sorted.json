@@ -5873,6 +5873,13 @@
   {
     "item": "Badge of the Brotherhood",
     "stats": "you can apply an additional curse",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "80Z7lwnUV",
+      "complexity": 18,
+      "total": 0
+    },
     "builds": 9,
     "mods": [
       {
@@ -5886,6 +5893,17 @@
   {
     "item": "Call of the Brotherhood",
     "stats": "+#% to all elemental resistances",
+    "average": 2173.59,
+    "prices": [
+      2173.59,
+      2173.59,
+      4347.18
+    ],
+    "search": {
+      "id": "LeV9n8jHn",
+      "complexity": 18,
+      "total": 3
+    },
     "builds": 8,
     "mods": [
       {
@@ -5899,6 +5917,19 @@
   {
     "item": "Unnatural Instinct",
     "stats": "#% increased reservation efficiency of skills",
+    "average": 15987.962,
+    "prices": [
+      6520.7699999999995,
+      12075.5,
+      15698.15,
+      21735.899999999998,
+      23909.489999999998
+    ],
+    "search": {
+      "id": "pXjl08eT0",
+      "complexity": 19,
+      "total": 5
+    },
     "builds": 8,
     "mods": [
       {
@@ -5913,6 +5944,13 @@
   {
     "item": "Unnatural Instinct",
     "stats": "#% reduced effect of curses on you, corrupted blood cannot be inflicted on you",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "MVDlRl5iJ",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 8,
     "mods": [
       {
@@ -5932,6 +5970,13 @@
   {
     "item": "Unnatural Instinct",
     "stats": "damage penetrates #% cold resistance, corrupted blood cannot be inflicted on you",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "bXWbZbdfL",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 8,
     "mods": [
       {
