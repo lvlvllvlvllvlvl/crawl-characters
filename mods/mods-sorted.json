@@ -1373,6 +1373,24 @@
   {
     "item": "Kaom's Spirit",
     "stats": "+#% to spell critical strike chance",
+    "average": 470.826,
+    "prices": [
+      100,
+      120,
+      140,
+      241.57,
+      241.57,
+      241.57,
+      483.14,
+      966.28,
+      966.28,
+      1207.85
+    ],
+    "search": {
+      "id": "qaylYl9ug",
+      "complexity": 18,
+      "total": 13
+    },
     "builds": 24,
     "mods": [
       {
@@ -1386,6 +1404,20 @@
   {
     "item": "Kaom's Spirit",
     "stats": "+# to level of socketed gems",
+    "average": 241.57000000000002,
+    "prices": [
+      90,
+      241.57,
+      241.57,
+      241.57,
+      5797.68,
+      14494.199999999999
+    ],
+    "search": {
+      "id": "2Gb3jbVsk",
+      "complexity": 18,
+      "total": 6
+    },
     "builds": 24,
     "mods": [
       {
@@ -1399,6 +1431,13 @@
   {
     "item": "Vaal Caress",
     "stats": "+# to level of socketed aoe gems",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "mP2MqKJt6",
+      "complexity": 18,
+      "total": 0
+    },
     "builds": 24,
     "mods": [
       {
@@ -1412,6 +1451,20 @@
   {
     "item": "Willclash",
     "stats": "+# to maximum power charges",
+    "average": 374.855,
+    "prices": [
+      50,
+      241.57,
+      483.14,
+      724.71,
+      2898.84,
+      7247.099999999999
+    ],
+    "search": {
+      "id": "Qr6G5weSw",
+      "complexity": 18,
+      "total": 6
+    },
     "builds": 24,
     "mods": [
       {
@@ -1425,6 +1478,15 @@
   {
     "item": "Intuitive Leap",
     "stats": "corrupted blood cannot be inflicted on you",
+    "average": 10870.65,
+    "prices": [
+      10870.65
+    ],
+    "search": {
+      "id": "mP2eB7Zt6",
+      "complexity": 18,
+      "total": 1
+    },
     "builds": 23,
     "mods": [
       {
