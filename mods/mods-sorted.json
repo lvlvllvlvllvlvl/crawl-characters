@@ -2791,6 +2791,24 @@
   {
     "item": "Shaper's Touch",
     "stats": "+#% to spell critical strike chance",
+    "average": 285.22,
+    "prices": [
+      100,
+      140,
+      200,
+      241.22,
+      241.22,
+      241.22,
+      241.22,
+      482.44,
+      482.44,
+      482.44
+    ],
+    "search": {
+      "id": "ZPQ2Yg6TQ",
+      "complexity": 18,
+      "total": 16
+    },
     "builds": 16,
     "mods": [
       {
@@ -2804,6 +2822,20 @@
   {
     "item": "Shaper's Touch",
     "stats": "+# to level of socketed gems",
+    "average": 241.22,
+    "prices": [
+      100,
+      241.22,
+      241.22,
+      241.22,
+      265.34200000000004,
+      3618.3
+    ],
+    "search": {
+      "id": "LeWPLEVHn",
+      "complexity": 18,
+      "total": 6
+    },
     "builds": 16,
     "mods": [
       {
@@ -2817,6 +2849,21 @@
   {
     "item": "Heartbound Loop",
     "stats": "zealotry has #% increased aura effect",
+    "average": 497.2366666666667,
+    "prices": [
+      50,
+      100,
+      180,
+      241.22,
+      1206.1,
+      1206.1,
+      24122
+    ],
+    "search": {
+      "id": "XqDE8W4sP",
+      "complexity": 18,
+      "total": 7
+    },
     "builds": 16,
     "mods": [
       {
@@ -2830,6 +2877,18 @@
   {
     "item": "Eyes of the Greatwolf",
     "stats": "+#% to global critical strike multiplier, #% increased quantity of items found",
+    "average": 35519.645000000004,
+    "prices": [
+      9407.58,
+      14473.2,
+      48244,
+      69953.8
+    ],
+    "search": {
+      "id": "7lO7alyS5",
+      "complexity": 29,
+      "total": 4
+    },
     "builds": 16,
     "mods": [
       {
@@ -2849,6 +2908,17 @@
   {
     "item": "Eyes of the Greatwolf",
     "stats": "#% increased maximum life, #% increased quantity of items found",
+    "average": 13186.693333333335,
+    "prices": [
+      964.88,
+      4824.4,
+      33770.8
+    ],
+    "search": {
+      "id": "RVBvGRgc7",
+      "complexity": 29,
+      "total": 3
+    },
     "builds": 16,
     "mods": [
       {
