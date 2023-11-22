@@ -1107,6 +1107,22 @@
   {
     "item": "The Annihilating Light",
     "stats": "#% chance to gain a power charge on critical strike",
+    "average": 8932.15625,
+    "prices": [
+      100,
+      100,
+      1207.75,
+      3623.25,
+      7246.5,
+      10869.75,
+      24155,
+      24155
+    ],
+    "search": {
+      "id": "PK7GzpZhL",
+      "complexity": 18,
+      "total": 8
+    },
     "builds": 29,
     "mods": [
       {
@@ -1120,6 +1136,24 @@
   {
     "item": "Heatshiver",
     "stats": "+# to level of socketed aoe gems",
+    "average": 399.40250000000003,
+    "prices": [
+      50,
+      100,
+      100,
+      241.55,
+      483.1,
+      483.1,
+      483.1,
+      603.875,
+      724.6500000000001,
+      724.6500000000001
+    ],
+    "search": {
+      "id": "K9gqBv6c5",
+      "complexity": 18,
+      "total": 22
+    },
     "builds": 28,
     "mods": [
       {
@@ -1133,6 +1167,24 @@
   {
     "item": "March of the Legion",
     "stats": "+# to level of socketed gems",
+    "average": 241.55000000000004,
+    "prices": [
+      241.55,
+      241.55,
+      241.55,
+      265.70500000000004,
+      483.1,
+      724.6500000000001,
+      2657.05,
+      10628.2,
+      19324,
+      132852.5
+    ],
+    "search": {
+      "id": "jPpB8gdHX",
+      "complexity": 18,
+      "total": 10
+    },
     "builds": 27,
     "mods": [
       {
@@ -1146,6 +1198,13 @@
   {
     "item": "Prism Guardian",
     "stats": "+# to level of socketed aura gems",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "bPZDn0aCL",
+      "complexity": 18,
+      "total": 0
+    },
     "builds": 27,
     "mods": [
       {
@@ -1159,6 +1218,16 @@
   {
     "item": "Warrior's Tale",
     "stats": "#% increased reservation efficiency of skills",
+    "average": 44082.875,
+    "prices": [
+      24155,
+      64010.75
+    ],
+    "search": {
+      "id": "wpRyz6Phb",
+      "complexity": 19,
+      "total": 2
+    },
     "builds": 27,
     "mods": [
       {
