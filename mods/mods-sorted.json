@@ -694,6 +694,20 @@
   {
     "item": "Heartbound Loop",
     "stats": "+#% to all elemental resistances",
+    "average": 3131.44,
+    "prices": [
+      240.88,
+      722.64,
+      3613.2,
+      4094.96,
+      4817.6,
+      5299.36
+    ],
+    "search": {
+      "id": "80ZJoE2UV",
+      "complexity": 18,
+      "total": 6
+    },
     "builds": 35,
     "mods": [
       {
@@ -707,6 +721,16 @@
   {
     "item": "Kaom's Heart",
     "stats": "#% increased maximum life",
+    "average": 1083.96,
+    "prices": [
+      963.52,
+      1204.4
+    ],
+    "search": {
+      "id": "K9gPY8gt5",
+      "complexity": 18,
+      "total": 2
+    },
     "builds": 35,
     "mods": [
       {
@@ -720,6 +744,19 @@
   {
     "item": "Matua Tupuna",
     "stats": "+# to level of socketed aoe gems",
+    "average": 1138.048,
+    "prices": [
+      150,
+      240.88,
+      481.76,
+      1927.04,
+      2890.56
+    ],
+    "search": {
+      "id": "2GbYYzYHk",
+      "complexity": 18,
+      "total": 5
+    },
     "builds": 35,
     "mods": [
       {
@@ -733,6 +770,24 @@
   {
     "item": "Black Sun Crest",
     "stats": "socketed skill gems get a #% cost & reservation multiplier",
+    "average": 257.79200000000003,
+    "prices": [
+      50,
+      60,
+      150,
+      150,
+      240.88,
+      240.88,
+      240.88,
+      481.76,
+      481.76,
+      481.76
+    ],
+    "search": {
+      "id": "Qr6G3Mpuw",
+      "complexity": 18,
+      "total": 20
+    },
     "builds": 34,
     "mods": [
       {
@@ -746,6 +801,17 @@
   {
     "item": "Void Battery",
     "stats": "damage penetrates #% elemental resistances",
+    "average": 6985.5199999999995,
+    "prices": [
+      6985.5199999999995,
+      6985.5199999999995,
+      7226.4
+    ],
+    "search": {
+      "id": "mP20bDrt6",
+      "complexity": 18,
+      "total": 3
+    },
     "builds": 33,
     "mods": [
       {
