@@ -2005,6 +2005,18 @@
   {
     "item": "Kaom's Spirit",
     "stats": "#% increased attack speed",
+    "average": 241.21,
+    "prices": [
+      241.21,
+      241.21,
+      241.21,
+      482.42
+    ],
+    "search": {
+      "id": "3GwPDggf5",
+      "complexity": 19,
+      "total": 4
+    },
     "builds": 20,
     "mods": [
       {
@@ -2019,6 +2031,13 @@
   {
     "item": "Vaal Caress",
     "stats": "+# to level of socketed duration gems",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "abo0zLRHe",
+      "complexity": 18,
+      "total": 0
+    },
     "builds": 20,
     "mods": [
       {
@@ -2032,6 +2051,15 @@
   {
     "item": "Grand Spectrum",
     "stats": "#% increased reservation efficiency of skills",
+    "average": 21708.9,
+    "prices": [
+      21708.9
+    ],
+    "search": {
+      "id": "gPeQr25IQ",
+      "complexity": 19,
+      "total": 1
+    },
     "builds": 20,
     "mods": [
       {
@@ -2046,6 +2074,18 @@
   {
     "item": "Intuitive Leap",
     "stats": "#% increased reservation efficiency of skills",
+    "average": 2331.6966666666667,
+    "prices": [
+      1206.05,
+      2170.89,
+      3618.15,
+      24121
+    ],
+    "search": {
+      "id": "dPajBpOIJ",
+      "complexity": 19,
+      "total": 4
+    },
     "builds": 20,
     "mods": [
       {
@@ -2060,6 +2100,20 @@
   {
     "item": "Call of the Brotherhood",
     "stats": "zealotry has #% increased aura effect",
+    "average": 259.63466666666665,
+    "prices": [
+      200,
+      241.21,
+      337.694,
+      3376.94,
+      10854.45,
+      96484
+    ],
+    "search": {
+      "id": "wpVlMn9ib",
+      "complexity": 18,
+      "total": 6
+    },
     "builds": 19,
     "mods": [
       {
