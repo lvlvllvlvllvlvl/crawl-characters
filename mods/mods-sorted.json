@@ -2,6 +2,24 @@
   {
     "item": "Heatshiver",
     "stats": "socketed skill gems get a #% cost & reservation multiplier",
+    "average": 4817.799999999999,
+    "prices": [
+      4576.91,
+      4817.799999999999,
+      4817.799999999999,
+      4817.799999999999,
+      4817.799999999999,
+      4817.799999999999,
+      4817.799999999999,
+      5058.69,
+      5299.58,
+      5781.36
+    ],
+    "search": {
+      "id": "plLWklwf0",
+      "complexity": 18,
+      "total": 33
+    },
     "builds": 251,
     "mods": [
       {
@@ -15,6 +33,24 @@
   {
     "item": "Kaom's Spirit",
     "stats": "attacks have +#% to critical strike chance",
+    "average": 3324.2819999999992,
+    "prices": [
+      1927.12,
+      1927.12,
+      2408.8999999999996,
+      2408.8999999999996,
+      2890.68,
+      3613.35,
+      3854.24,
+      4576.91,
+      4817.799999999999,
+      4817.799999999999
+    ],
+    "search": {
+      "id": "aboQ2v3Se",
+      "complexity": 18,
+      "total": 20
+    },
     "builds": 178,
     "mods": [
       {
@@ -28,6 +64,24 @@
   {
     "item": "Eyes of the Greatwolf",
     "stats": "#% increased quantity of items found",
+    "average": 258.56888888888886,
+    "prices": [
+      200,
+      200,
+      240.89,
+      240.89,
+      240.89,
+      240.89,
+      240.89,
+      361.335,
+      361.335,
+      481.78
+    ],
+    "search": {
+      "id": "ZPQr9XbfQ",
+      "complexity": 18,
+      "total": 72
+    },
     "builds": 100,
     "mods": [
       {
@@ -41,6 +95,24 @@
   {
     "item": "Heatshiver",
     "stats": "+# to maximum power charges",
+    "average": 4255.723333333332,
+    "prices": [
+      3131.5699999999997,
+      3131.5699999999997,
+      3613.35,
+      4336.0199999999995,
+      4817.799999999999,
+      4817.799999999999,
+      4817.799999999999,
+      4817.799999999999,
+      4817.799999999999,
+      6263.139999999999
+    ],
+    "search": {
+      "id": "R24kzDqc7",
+      "complexity": 18,
+      "total": 19
+    },
     "builds": 96,
     "mods": [
       {
@@ -54,6 +126,24 @@
   {
     "item": "Kaom's Spirit",
     "stats": "curse enemies with elemental weakness on hit",
+    "average": 927.4264999999999,
+    "prices": [
+      481.78,
+      722.67,
+      722.67,
+      963.56,
+      963.56,
+      1156.272,
+      1204.4499999999998,
+      1204.4499999999998,
+      1686.23,
+      3613.35
+    ],
+    "search": {
+      "id": "gPeDJ0OsQ",
+      "complexity": 18,
+      "total": 15
+    },
     "builds": 94,
     "mods": [
       {
@@ -945,6 +1035,19 @@
     ]
   },
   {
+    "item": "Unnatural Instinct",
+    "stats": "corrupted blood cannot be inflicted on you",
+    "builds": 20,
+    "mods": [
+      {
+        "text": "corrupted blood cannot be inflicted on you",
+        "trade_ids": [
+          "implicit.stat_1658498488"
+        ]
+      }
+    ]
+  },
+  {
     "item": "Primordial Eminence",
     "stats": "#% increased reservation efficiency of skills",
     "builds": 20,
@@ -1048,19 +1151,6 @@
         "text": "#% increased maximum life",
         "trade_ids": [
           "implicit.stat_983749596"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Unnatural Instinct",
-    "stats": "corrupted blood cannot be inflicted on you",
-    "builds": 19,
-    "mods": [
-      {
-        "text": "corrupted blood cannot be inflicted on you",
-        "trade_ids": [
-          "implicit.stat_1658498488"
         ]
       }
     ]
