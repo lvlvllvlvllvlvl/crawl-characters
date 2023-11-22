@@ -4220,6 +4220,13 @@
   {
     "item": "Unnatural Instinct",
     "stats": "#% increased reservation efficiency of skills, corrupted blood cannot be inflicted on you",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "80Z8EB2cV",
+      "complexity": 30,
+      "total": 0
+    },
     "builds": 11,
     "mods": [
       {
@@ -4240,6 +4247,24 @@
   {
     "item": "Goldwyrm",
     "stats": "#% increased maximum life",
+    "average": 59.8,
+    "prices": [
+      5,
+      10,
+      20,
+      25,
+      35,
+      50,
+      88,
+      110,
+      125,
+      130
+    ],
+    "search": {
+      "id": "JVdkw7OIl",
+      "complexity": 18,
+      "total": 16
+    },
     "builds": 11,
     "mods": [
       {
@@ -4253,6 +4278,19 @@
   {
     "item": "Cloak of Flame",
     "stats": "+# to level of socketed gems",
+    "average": 26185.104,
+    "prices": [
+      1207.8,
+      1690.92,
+      19324.8,
+      48312,
+      60390
+    ],
+    "search": {
+      "id": "3Gwb5LGh5",
+      "complexity": 18,
+      "total": 5
+    },
     "builds": 11,
     "mods": [
       {
@@ -4266,6 +4304,20 @@
   {
     "item": "Eyes of the Greatwolf",
     "stats": "#% increased damage, #% increased quantity of items found",
+    "average": 16265.04,
+    "prices": [
+      1449.3600000000001,
+      7971.4800000000005,
+      8454.6,
+      19324.8,
+      24156,
+      36234
+    ],
+    "search": {
+      "id": "plLlQGdH0",
+      "complexity": 29,
+      "total": 6
+    },
     "builds": 11,
     "mods": [
       {
@@ -4285,6 +4337,18 @@
   {
     "item": "Southbound",
     "stats": "+#% to spell critical strike chance",
+    "average": 153.85333333333332,
+    "prices": [
+      40,
+      180,
+      241.56,
+      724.6800000000001
+    ],
+    "search": {
+      "id": "XkO2WqdSP",
+      "complexity": 18,
+      "total": 4
+    },
     "builds": 11,
     "mods": [
       {
