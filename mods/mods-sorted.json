@@ -5377,6 +5377,16 @@
   {
     "item": "Heartbound Loop",
     "stats": "adds # to # fire damage to spells and attacks",
+    "average": 1846.25,
+    "prices": [
+      70,
+      3622.5
+    ],
+    "search": {
+      "id": "JYmX05rsl",
+      "complexity": 18,
+      "total": 2
+    },
     "builds": 9,
     "mods": [
       {
@@ -5390,6 +5400,17 @@
   {
     "item": "Eyes of the Greatwolf",
     "stats": "#% increased quantity of items found, #% increased area of effect",
+    "average": 1690.5,
+    "prices": [
+      1207.5,
+      2173.5,
+      15697.5
+    ],
+    "search": {
+      "id": "QVneJqMTw",
+      "complexity": 29,
+      "total": 3
+    },
     "builds": 9,
     "mods": [
       {
@@ -5409,6 +5430,24 @@
   {
     "item": "Eyes of the Greatwolf",
     "stats": "#% increased maximum life",
+    "average": 116.1,
+    "prices": [
+      9,
+      50,
+      50,
+      69,
+      100,
+      100,
+      120,
+      180,
+      241.5,
+      241.5
+    ],
+    "search": {
+      "id": "Zb5LQL0uQ",
+      "complexity": 18,
+      "total": 28
+    },
     "builds": 9,
     "mods": [
       {
@@ -5422,6 +5461,13 @@
   {
     "item": "Dialla's Malefaction",
     "stats": "+# to level of socketed gems, +# to level of socketed duration gems",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "7l5zdbnT5",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 9,
     "mods": [
       {
@@ -5441,6 +5487,24 @@
   {
     "item": "String of Servitude",
     "stats": "discipline has #% increased aura effect",
+    "average": 14.285714285714286,
+    "prices": [
+      5,
+      5,
+      10,
+      10,
+      20,
+      20,
+      30,
+      50,
+      170,
+      241.5
+    ],
+    "search": {
+      "id": "0PQe4Kehg",
+      "complexity": 18,
+      "total": 12
+    },
     "builds": 9,
     "mods": [
       {
@@ -5493,6 +5557,15 @@
   {
     "item": "Warrior's Tale",
     "stats": "you cannot be hindered",
+    "average": 4830.2,
+    "prices": [
+      4830.2
+    ],
+    "search": {
+      "id": "waPe6KPcb",
+      "complexity": 18,
+      "total": 1
+    },
     "builds": 9,
     "mods": [
       {
