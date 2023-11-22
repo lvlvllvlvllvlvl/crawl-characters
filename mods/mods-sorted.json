@@ -6846,6 +6846,13 @@
   {
     "item": "Natural Affinity",
     "stats": "#% increased reservation efficiency of skills",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "pXjl833H0",
+      "complexity": 19,
+      "total": 0
+    },
     "builds": 7,
     "mods": [
       {
@@ -6880,6 +6887,23 @@
   {
     "item": "Dawnbreaker",
     "stats": "#% of physical damage from hits taken as chaos damage",
+    "average": 1331.135,
+    "prices": [
+      20,
+      241.57,
+      483.14,
+      483.14,
+      966.28,
+      1207.85,
+      3623.5499999999997,
+      3623.5499999999997,
+      6039.25
+    ],
+    "search": {
+      "id": "VMEyZGaCp",
+      "complexity": 18,
+      "total": 9
+    },
     "builds": 7,
     "mods": [
       {
@@ -6893,6 +6917,18 @@
   {
     "item": "Thread of Hope",
     "stats": "#% increased reservation efficiency of skills",
+    "average": 3714.1387499999996,
+    "prices": [
+      241.57,
+      603.925,
+      5556.11,
+      8454.949999999999
+    ],
+    "search": {
+      "id": "OpjgpEaSE",
+      "complexity": 19,
+      "total": 4
+    },
     "builds": 7,
     "mods": [
       {
@@ -6907,6 +6943,15 @@
   {
     "item": "Skin of the Loyal",
     "stats": "+# to level of socketed gems, +# to level of socketed aoe gems",
+    "average": 343171.92,
+    "prices": [
+      343171.92
+    ],
+    "search": {
+      "id": "MVDqyXLsJ",
+      "complexity": 29,
+      "total": 1
+    },
     "builds": 7,
     "mods": [
       {
@@ -6965,6 +7010,15 @@
   {
     "item": "Warrior's Tale",
     "stats": "you cannot be maimed",
+    "average": 4831.4,
+    "prices": [
+      4831.4
+    ],
+    "search": {
+      "id": "MVDvw5DIJ",
+      "complexity": 18,
+      "total": 1
+    },
     "builds": 7,
     "mods": [
       {
