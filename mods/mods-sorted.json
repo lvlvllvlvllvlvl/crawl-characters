@@ -1758,6 +1758,17 @@
   {
     "item": "Shaper's Touch",
     "stats": "#% increased attack speed",
+    "average": 483.06,
+    "prices": [
+      241.53,
+      483.06,
+      724.59
+    ],
+    "search": {
+      "id": "dPaPDgqFJ",
+      "complexity": 19,
+      "total": 3
+    },
     "builds": 21,
     "mods": [
       {
@@ -1772,6 +1783,17 @@
   {
     "item": "Belly of the Beast",
     "stats": "+# to level of socketed gems",
+    "average": 952.2766666666666,
+    "prices": [
+      200,
+      966.12,
+      1690.71
+    ],
+    "search": {
+      "id": "W5XGbPrSm",
+      "complexity": 18,
+      "total": 3
+    },
     "builds": 21,
     "mods": [
       {
@@ -1785,6 +1807,13 @@
   {
     "item": "Natural Affinity",
     "stats": "corrupted blood cannot be inflicted on you",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "9qlqMQYsK",
+      "complexity": 18,
+      "total": 0
+    },
     "builds": 21,
     "mods": [
       {
@@ -1798,6 +1827,24 @@
   {
     "item": "Hrimsorrow",
     "stats": "attacks have +#% to critical strike chance",
+    "average": 167.265,
+    "prices": [
+      20,
+      50,
+      100,
+      145,
+      150,
+      241.53,
+      241.53,
+      241.53,
+      241.53,
+      241.53
+    ],
+    "search": {
+      "id": "PdD9yvMhL",
+      "complexity": 18,
+      "total": 16
+    },
     "builds": 21,
     "mods": [
       {
@@ -1811,6 +1858,24 @@
   {
     "item": "Lightning Coil",
     "stats": "+# to level of socketed projectile gems",
+    "average": 1202.3337500000002,
+    "prices": [
+      199,
+      483.06,
+      724.59,
+      966.12,
+      1207.65,
+      1449.18,
+      2173.77,
+      2415.3,
+      16907.1,
+      19322.4
+    ],
+    "search": {
+      "id": "XkOrQZksP",
+      "complexity": 18,
+      "total": 12
+    },
     "builds": 21,
     "mods": [
       {
