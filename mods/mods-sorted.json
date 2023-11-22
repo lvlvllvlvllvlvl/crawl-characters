@@ -5754,6 +5754,13 @@
   {
     "item": "Grand Spectrum",
     "stats": "#% reduced effect of curses on you",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "VyBGo3atp",
+      "complexity": 18,
+      "total": 0
+    },
     "builds": 9,
     "mods": [
       {
@@ -5767,6 +5774,18 @@
   {
     "item": "Viridi's Veil",
     "stats": "+# to level of socketed aoe gems",
+    "average": 1490.43,
+    "prices": [
+      25,
+      140,
+      2415.3,
+      3381.42
+    ],
+    "search": {
+      "id": "BEJGbe4T8",
+      "complexity": 18,
+      "total": 4
+    },
     "builds": 9,
     "mods": [
       {
@@ -5780,6 +5799,15 @@
   {
     "item": "Corpsewalker",
     "stats": "+#% chance to suppress spell damage",
+    "average": 1449.18,
+    "prices": [
+      1449.18
+    ],
+    "search": {
+      "id": "oXjZPMwsl",
+      "complexity": 19,
+      "total": 1
+    },
     "builds": 9,
     "mods": [
       {
@@ -5794,6 +5822,24 @@
   {
     "item": "Victario's Influence",
     "stats": "+# to level of socketed gems",
+    "average": 97.389,
+    "prices": [
+      0.33,
+      5,
+      15.5,
+      40,
+      40,
+      100,
+      140,
+      150,
+      241.53,
+      241.53
+    ],
+    "search": {
+      "id": "MvRPYE5iJ",
+      "complexity": 18,
+      "total": 25
+    },
     "builds": 9,
     "mods": [
       {
@@ -5807,6 +5853,13 @@
   {
     "item": "Immutable Force",
     "stats": "corrupted blood cannot be inflicted on you",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "GZykB5Ysb",
+      "complexity": 18,
+      "total": 0
+    },
     "builds": 9,
     "mods": [
       {
