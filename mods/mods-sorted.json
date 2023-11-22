@@ -3076,6 +3076,16 @@
   {
     "item": "Call of the Brotherhood",
     "stats": "grants level # hatred skill",
+    "average": 11593.44,
+    "prices": [
+      3864.48,
+      19322.4
+    ],
+    "search": {
+      "id": "kPKdv73F5",
+      "complexity": 18,
+      "total": 2
+    },
     "builds": 15,
     "mods": [
       {
@@ -3089,6 +3099,17 @@
   {
     "item": "The Anima Stone",
     "stats": "corrupted blood cannot be inflicted on you",
+    "average": 2093.26,
+    "prices": [
+      241.53,
+      2415.3,
+      3622.95
+    ],
+    "search": {
+      "id": "K9gPvrPT5",
+      "complexity": 18,
+      "total": 3
+    },
     "builds": 15,
     "mods": [
       {
@@ -3102,6 +3123,17 @@
   {
     "item": "Eyes of the Greatwolf",
     "stats": "#% increased global critical strike chance, #% increased quantity of items found",
+    "average": 9500.18,
+    "prices": [
+      1932.24,
+      12076.5,
+      14491.8
+    ],
+    "search": {
+      "id": "KJDov6PI5",
+      "complexity": 29,
+      "total": 3
+    },
     "builds": 15,
     "mods": [
       {
@@ -3121,6 +3153,24 @@
   {
     "item": "Hrimsorrow",
     "stats": "#% increased maximum life",
+    "average": 60,
+    "prices": [
+      30,
+      50,
+      50,
+      50,
+      80,
+      100,
+      200,
+      241.53,
+      724.59,
+      724.59
+    ],
+    "search": {
+      "id": "jPp7k4XuX",
+      "complexity": 18,
+      "total": 11
+    },
     "builds": 15,
     "mods": [
       {
@@ -3134,6 +3184,22 @@
   {
     "item": "Dawnbreaker",
     "stats": "#% of physical damage from hits taken as lightning damage",
+    "average": 2475.6825,
+    "prices": [
+      483.06,
+      724.59,
+      1207.65,
+      1207.65,
+      1932.24,
+      3622.95,
+      4830.6,
+      5796.72
+    ],
+    "search": {
+      "id": "bPZqk5dCL",
+      "complexity": 18,
+      "total": 8
+    },
     "builds": 15,
     "mods": [
       {
