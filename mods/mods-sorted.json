@@ -5518,6 +5518,21 @@
   {
     "item": "Dawnbreaker",
     "stats": "#% of physical damage from hits taken as cold damage",
+    "average": 2725.6128571428567,
+    "prices": [
+      483.02,
+      483.02,
+      966.04,
+      2898.12,
+      3622.6499999999996,
+      4588.69,
+      6037.75
+    ],
+    "search": {
+      "id": "nXjol7Rt0",
+      "complexity": 18,
+      "total": 7
+    },
     "builds": 9,
     "mods": [
       {
@@ -5531,6 +5546,24 @@
   {
     "item": "Greed's Embrace",
     "stats": "you take #% reduced extra damage from critical strikes",
+    "average": 350.7555,
+    "prices": [
+      100,
+      193.208,
+      241.51,
+      483.02,
+      483.02,
+      603.775,
+      966.04,
+      1449.06,
+      2415.1,
+      6037.75
+    ],
+    "search": {
+      "id": "LeWjZQZSn",
+      "complexity": 18,
+      "total": 12
+    },
     "builds": 9,
     "mods": [
       {
@@ -5544,6 +5577,24 @@
   {
     "item": "Greed's Embrace",
     "stats": "+# to level of socketed projectile gems",
+    "average": 242.208,
+    "prices": [
+      80,
+      100,
+      150,
+      160,
+      241.51,
+      241.51,
+      241.51,
+      241.51,
+      483.02,
+      483.02
+    ],
+    "search": {
+      "id": "6Gqw55qsG",
+      "complexity": 18,
+      "total": 24
+    },
     "builds": 9,
     "mods": [
       {
@@ -5579,6 +5630,13 @@
   {
     "item": "Algor Mortis",
     "stats": "+#% to spell critical strike chance",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "qXjaPM9Cg",
+      "complexity": 18,
+      "total": 0
+    },
     "builds": 9,
     "mods": [
       {
