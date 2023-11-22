@@ -4497,6 +4497,21 @@
   {
     "item": "Incandescent Heart",
     "stats": "+# to level of socketed duration gems",
+    "average": 6384.349999999999,
+    "prices": [
+      483.14,
+      724.71,
+      2415.7,
+      2415.7,
+      9662.8,
+      12078.5,
+      16909.899999999998
+    ],
+    "search": {
+      "id": "OpJM878uE",
+      "complexity": 18,
+      "total": 7
+    },
     "builds": 11,
     "mods": [
       {
@@ -4510,6 +4525,16 @@
   {
     "item": "Zerphi's Heart",
     "stats": "hatred has #% increased aura effect",
+    "average": 3019.625,
+    "prices": [
+      2898.84,
+      3140.41
+    ],
+    "search": {
+      "id": "QVnew8mCw",
+      "complexity": 18,
+      "total": 2
+    },
     "builds": 11,
     "mods": [
       {
@@ -4523,6 +4548,24 @@
   {
     "item": "Dendrobate",
     "stats": "+# to level of socketed aoe gems",
+    "average": 229.12374999999997,
+    "prices": [
+      27,
+      40,
+      75,
+      241.57,
+      241.57,
+      241.57,
+      483.14,
+      483.14,
+      724.71,
+      1932.56
+    ],
+    "search": {
+      "id": "9qlK9m4FK",
+      "complexity": 18,
+      "total": 15
+    },
     "builds": 11,
     "mods": [
       {
@@ -4536,6 +4579,17 @@
   {
     "item": "Meginord's Vise",
     "stats": "curse enemies with temporal chains on hit",
+    "average": 241.57,
+    "prices": [
+      150,
+      241.57,
+      241.57
+    ],
+    "search": {
+      "id": "waPpl0BHb",
+      "complexity": 18,
+      "total": 3
+    },
     "builds": 11,
     "mods": [
       {
@@ -4549,6 +4603,13 @@
   {
     "item": "Might of the Meek",
     "stats": "#% increased reservation efficiency of skills",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "80Z8LV8hV",
+      "complexity": 19,
+      "total": 0
+    },
     "builds": 11,
     "mods": [
       {
