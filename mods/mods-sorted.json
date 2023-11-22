@@ -6244,6 +6244,15 @@
   {
     "item": "Vixen's Entrapment",
     "stats": "+# to level of socketed duration gems",
+    "average": 90,
+    "prices": [
+      90
+    ],
+    "search": {
+      "id": "plLqddvS0",
+      "complexity": 18,
+      "total": 1
+    },
     "builds": 8,
     "mods": [
       {
@@ -6257,6 +6266,16 @@
   {
     "item": "Arn's Anguish",
     "stats": "+#% to critical strike multiplier during any flask effect",
+    "average": 965.04,
+    "prices": [
+      723.78,
+      1206.3
+    ],
+    "search": {
+      "id": "BEJG3Bat8",
+      "complexity": 18,
+      "total": 2
+    },
     "builds": 8,
     "mods": [
       {
@@ -6270,6 +6289,13 @@
   {
     "item": "Headhunter",
     "stats": "#% increased rarity of items found",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "6ZkGkEqIG",
+      "complexity": 18,
+      "total": 0
+    },
     "builds": 8,
     "mods": [
       {
@@ -6283,6 +6309,16 @@
   {
     "item": "Rainbowstride",
     "stats": "#% increased movement speed",
+    "average": 1809.4499999999998,
+    "prices": [
+      723.78,
+      2895.12
+    ],
+    "search": {
+      "id": "0B87YyOsg",
+      "complexity": 18,
+      "total": 2
+    },
     "builds": 8,
     "mods": [
       {
@@ -6296,6 +6332,17 @@
   {
     "item": "Doryani's Prototype",
     "stats": "+# to level of socketed aoe gems",
+    "average": 11500.06,
+    "prices": [
+      965.04,
+      12063,
+      21472.14
+    ],
+    "search": {
+      "id": "PdDdwMgiL",
+      "complexity": 18,
+      "total": 3
+    },
     "builds": 8,
     "mods": [
       {
