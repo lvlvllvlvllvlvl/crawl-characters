@@ -3600,6 +3600,15 @@
   {
     "item": "Eyes of the Greatwolf",
     "stats": "#% increased quantity of items found, regenerate #% of life per second",
+    "average": 121318.56999999999,
+    "prices": [
+      121318.56999999999
+    ],
+    "search": {
+      "id": "DL82LDwS5",
+      "complexity": 29,
+      "total": 1
+    },
     "builds": 14,
     "mods": [
       {
@@ -3619,6 +3628,23 @@
   {
     "item": "Thread of Hope",
     "stats": "corrupted blood cannot be inflicted on you",
+    "average": 7868.8237500000005,
+    "prices": [
+      1688.33,
+      2411.9,
+      3617.85,
+      8441.65,
+      9647.6,
+      10853.55,
+      11818.31,
+      14471.4,
+      21707.1
+    ],
+    "search": {
+      "id": "abo4PP8te",
+      "complexity": 18,
+      "total": 9
+    },
     "builds": 14,
     "mods": [
       {
@@ -3632,6 +3658,13 @@
   {
     "item": "Rathpith Globe",
     "stats": "+# to level of socketed aura gems",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "PdD9eEqhL",
+      "complexity": 18,
+      "total": 0
+    },
     "builds": 14,
     "mods": [
       {
@@ -3645,6 +3678,17 @@
   {
     "item": "Incandescent Heart",
     "stats": "+# to level of socketed projectile gems",
+    "average": 4582.610000000001,
+    "prices": [
+      4341.42,
+      4823.8,
+      12059.5
+    ],
+    "search": {
+      "id": "JVdkP85sl",
+      "complexity": 18,
+      "total": 3
+    },
     "builds": 14,
     "mods": [
       {
@@ -3658,6 +3702,24 @@
   {
     "item": "Lightning Coil",
     "stats": "+#% to all maximum resistances",
+    "average": 1582.735,
+    "prices": [
+      120,
+      241.19,
+      241.19,
+      1447.1399999999999,
+      2170.71,
+      2411.9,
+      2411.9,
+      3617.85,
+      5306.18,
+      9647.6
+    ],
+    "search": {
+      "id": "80Z0zlZcV",
+      "complexity": 18,
+      "total": 11
+    },
     "builds": 14,
     "mods": [
       {
