@@ -306,6 +306,13 @@
   {
     "item": "Inspired Learning",
     "stats": "corrupted blood cannot be inflicted on you",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "wpR9W5jhb",
+      "complexity": 18,
+      "total": 0
+    },
     "builds": 52,
     "mods": [
       {
@@ -319,6 +326,17 @@
   {
     "item": "Kaom's Heart",
     "stats": "#% increased damage",
+    "average": 1927.04,
+    "prices": [
+      963.52,
+      1204.4,
+      3613.2
+    ],
+    "search": {
+      "id": "PK7ayEgtL",
+      "complexity": 18,
+      "total": 3
+    },
     "builds": 47,
     "mods": [
       {
@@ -332,6 +350,19 @@
   {
     "item": "Hrimsorrow",
     "stats": "+#% to spell critical strike chance",
+    "average": 240.88,
+    "prices": [
+      150,
+      240.88,
+      240.88,
+      722.64,
+      8430.8
+    ],
+    "search": {
+      "id": "mP2PGvrt6",
+      "complexity": 18,
+      "total": 5
+    },
     "builds": 47,
     "mods": [
       {
@@ -345,6 +376,16 @@
   {
     "item": "Cold Iron Point",
     "stats": "#% increased damage over time",
+    "average": 4215.4,
+    "prices": [
+      3613.2,
+      4817.6
+    ],
+    "search": {
+      "id": "z273V4RI4",
+      "complexity": 18,
+      "total": 2
+    },
     "builds": 46,
     "mods": [
       {
@@ -358,6 +399,24 @@
   {
     "item": "Greed's Embrace",
     "stats": "+# to level of socketed gems",
+    "average": 1168.2239999999997,
+    "prices": [
+      20,
+      100,
+      240.88,
+      722.64,
+      1204.4,
+      1204.4,
+      1686.1599999999999,
+      1927.04,
+      2167.92,
+      2408.8
+    ],
+    "search": {
+      "id": "3GwpXDPh5",
+      "complexity": 18,
+      "total": 30
+    },
     "builds": 45,
     "mods": [
       {
