@@ -4362,6 +4362,24 @@
   {
     "item": "String of Servitude",
     "stats": "#% increased area of effect",
+    "average": 51,
+    "prices": [
+      10,
+      20,
+      30,
+      30,
+      50,
+      50,
+      80,
+      80,
+      80,
+      80
+    ],
+    "search": {
+      "id": "YD0L9wOcY",
+      "complexity": 18,
+      "total": 18
+    },
     "builds": 11,
     "mods": [
       {
@@ -4375,6 +4393,15 @@
   {
     "item": "Warrior's Tale",
     "stats": "#% increased area of effect",
+    "average": 171599.7,
+    "prices": [
+      171599.7
+    ],
+    "search": {
+      "id": "dXWBvwqUJ",
+      "complexity": 18,
+      "total": 1
+    },
     "builds": 11,
     "mods": [
       {
@@ -4388,6 +4415,17 @@
   {
     "item": "Warrior's Tale",
     "stats": "damage penetrates #% elemental resistances",
+    "average": 15218.279999999999,
+    "prices": [
+      4831.2,
+      11836.44,
+      28987.2
+    ],
+    "search": {
+      "id": "7zowk0Bu5",
+      "complexity": 18,
+      "total": 3
+    },
     "builds": 11,
     "mods": [
       {
@@ -4401,6 +4439,24 @@
   {
     "item": "Blunderbore",
     "stats": "+#% to all elemental resistances",
+    "average": 3.2222222222222223,
+    "prices": [
+      1,
+      2,
+      2,
+      3,
+      3,
+      4,
+      4,
+      5,
+      5,
+      8
+    ],
+    "search": {
+      "id": "GkdLpmBUb",
+      "complexity": 18,
+      "total": 78
+    },
     "builds": 11,
     "mods": [
       {
@@ -4414,6 +4470,20 @@
   {
     "item": "Watcher's Eye",
     "stats": "corrupted blood cannot be inflicted on you",
+    "average": 1288.32,
+    "prices": [
+      241.56,
+      483.12,
+      966.24,
+      1207.8,
+      2415.6,
+      2415.6
+    ],
+    "search": {
+      "id": "6ZkQw92UG",
+      "complexity": 18,
+      "total": 6
+    },
     "builds": 11,
     "mods": [
       {
