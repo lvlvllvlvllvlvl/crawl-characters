@@ -6145,6 +6145,13 @@
   {
     "item": "Warrior's Tale",
     "stats": "you cannot be cursed with silence",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "GkdZBrofb",
+      "complexity": 18,
+      "total": 0
+    },
     "builds": 8,
     "mods": [
       {
@@ -6158,6 +6165,13 @@
   {
     "item": "Asenath's Gentle Touch",
     "stats": "+# to level of socketed gems, #% increased cast speed",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "emYrKprtL",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 8,
     "mods": [
       {
@@ -6177,6 +6191,16 @@
   {
     "item": "Meginord's Vise",
     "stats": "+# to level of socketed aoe gems",
+    "average": 14596.229999999998,
+    "prices": [
+      241.26,
+      28951.199999999997
+    ],
+    "search": {
+      "id": "dXWPkyZsJ",
+      "complexity": 18,
+      "total": 2
+    },
     "builds": 8,
     "mods": [
       {
@@ -6190,6 +6214,23 @@
   {
     "item": "Devoto's Devotion",
     "stats": "socketed skill gems get a #% cost & reservation multiplier",
+    "average": 154.50222222222223,
+    "prices": [
+      79,
+      79,
+      100,
+      100,
+      180,
+      185,
+      185,
+      241.26,
+      241.26
+    ],
+    "search": {
+      "id": "zeB2VPKF4",
+      "complexity": 18,
+      "total": 9
+    },
     "builds": 8,
     "mods": [
       {
