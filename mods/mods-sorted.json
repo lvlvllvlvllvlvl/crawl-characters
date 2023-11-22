@@ -5111,6 +5111,13 @@
   {
     "item": "Severed in Sleep",
     "stats": "#% increased area of effect",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "oZ8W3yqhl",
+      "complexity": 18,
+      "total": 0
+    },
     "builds": 10,
     "mods": [
       {
@@ -5124,6 +5131,24 @@
   {
     "item": "Ventor's Gamble",
     "stats": "#% increased rarity of items found",
+    "average": 2.3,
+    "prices": [
+      1,
+      1,
+      2,
+      2,
+      2,
+      3,
+      3,
+      3,
+      3,
+      3
+    ],
+    "search": {
+      "id": "v3mJV8DFE",
+      "complexity": 18,
+      "total": 1275
+    },
     "builds": 10,
     "mods": [
       {
@@ -5137,6 +5162,15 @@
   {
     "item": "Call of the Brotherhood",
     "stats": "bleeding cannot be inflicted on you",
+    "average": 7246.8,
+    "prices": [
+      7246.8
+    ],
+    "search": {
+      "id": "mXjByorT6",
+      "complexity": 18,
+      "total": 1
+    },
     "builds": 9,
     "mods": [
       {
@@ -5150,6 +5184,16 @@
   {
     "item": "Call of the Brotherhood",
     "stats": "#% increased cast speed",
+    "average": 7729.92,
+    "prices": [
+      966.24,
+      14493.6
+    ],
+    "search": {
+      "id": "PdDKrR7hL",
+      "complexity": 18,
+      "total": 2
+    },
     "builds": 9,
     "mods": [
       {
@@ -5163,6 +5207,13 @@
   {
     "item": "Unnatural Instinct",
     "stats": "#% reduced effect of curses on you, #% increased reservation efficiency of skills",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "bPZgZa2uL",
+      "complexity": 30,
+      "total": 0
+    },
     "builds": 9,
     "mods": [
       {
