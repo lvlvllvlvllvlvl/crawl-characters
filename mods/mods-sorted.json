@@ -12815,6 +12815,13 @@
   {
     "item": "Hrimsorrow",
     "stats": "+# to level of socketed minion gems, +#% to spell critical strike chance",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "DL8MY44C5",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 4,
     "mods": [
       {
@@ -12863,6 +12870,24 @@
   {
     "item": "String of Servitude",
     "stats": "+#% to critical strike multiplier during any flask effect",
+    "average": 5,
+    "prices": [
+      5,
+      5,
+      5,
+      5,
+      8,
+      10,
+      15,
+      20,
+      29,
+      40
+    ],
+    "search": {
+      "id": "vlPMzJLCE",
+      "complexity": 18,
+      "total": 15
+    },
     "builds": 4,
     "mods": [
       {
@@ -12876,6 +12901,17 @@
   {
     "item": "Sentari's Answer",
     "stats": "+# to level of socketed gems",
+    "average": 820.7333333333332,
+    "prices": [
+      50,
+      723.66,
+      1688.54
+    ],
+    "search": {
+      "id": "WVWEZVKTm",
+      "complexity": 18,
+      "total": 3
+    },
     "builds": 4,
     "mods": [
       {
@@ -12889,6 +12925,13 @@
   {
     "item": "Thread of Hope",
     "stats": "#% increased area of effect, corrupted blood cannot be inflicted on you",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "DGEyZZXC5",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 4,
     "mods": [
       {
@@ -12921,6 +12964,16 @@
   {
     "item": "Thread of Hope",
     "stats": "damage penetrates #% cold resistance, corrupted blood cannot be inflicted on you",
+    "average": 6633.55,
+    "prices": [
+      4824.4,
+      8442.7
+    ],
+    "search": {
+      "id": "lXj3VXwFV",
+      "complexity": 29,
+      "total": 2
+    },
     "builds": 4,
     "mods": [
       {
@@ -12940,6 +12993,13 @@
   {
     "item": "Thread of Hope",
     "stats": "damage penetrates #% lightning resistance, corrupted blood cannot be inflicted on you",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "LeWZ0qYin",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 4,
     "mods": [
       {
@@ -12959,6 +13019,15 @@
   {
     "item": "Thread of Hope",
     "stats": "corrupted blood cannot be inflicted on you, you cannot be hindered",
+    "average": 14473.2,
+    "prices": [
+      14473.2
+    ],
+    "search": {
+      "id": "2GbQW7DHk",
+      "complexity": 29,
+      "total": 1
+    },
     "builds": 4,
     "mods": [
       {
