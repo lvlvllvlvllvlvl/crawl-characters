@@ -15404,6 +15404,13 @@
   {
     "item": "Heatshiver",
     "stats": "socketed skill gems get a #% cost & reservation multiplier, #% of fire damage leeched as life",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "jXjdGQdHX",
+      "complexity": 30,
+      "total": 0
+    },
     "builds": 3,
     "mods": [
       {
@@ -15424,6 +15431,13 @@
   {
     "item": "Heatshiver",
     "stats": "socketed skill gems get a #% cost & reservation multiplier, #% increased maximum life",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "PdD2WGMhL",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 3,
     "mods": [
       {
@@ -15495,6 +15509,15 @@
   {
     "item": "Heatshiver",
     "stats": "socketed skill gems get a #% cost & reservation multiplier, regenerate #% of life per second",
+    "average": 36135,
+    "prices": [
+      36135
+    ],
+    "search": {
+      "id": "emYwJq9UL",
+      "complexity": 29,
+      "total": 1
+    },
     "builds": 3,
     "mods": [
       {
@@ -15565,6 +15588,18 @@
   {
     "item": "Aegis Aurora",
     "stats": "#% chance to block spell damage",
+    "average": 1445.4,
+    "prices": [
+      722.7,
+      963.6,
+      1686.3,
+      2409
+    ],
+    "search": {
+      "id": "BEJM9pLS8",
+      "complexity": 19,
+      "total": 4
+    },
     "builds": 3,
     "mods": [
       {
