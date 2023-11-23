@@ -10353,6 +10353,13 @@
   {
     "item": "Carcass Jack",
     "stats": "+# to level of socketed aoe gems",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "dXWoE63IJ",
+      "complexity": 18,
+      "total": 0
+    },
     "builds": 5,
     "mods": [
       {
@@ -10366,6 +10373,15 @@
   {
     "item": "Warrior's Tale",
     "stats": "damage penetrates #% fire resistance",
+    "average": null,
+    "prices": [
+      null
+    ],
+    "search": {
+      "id": "Zb5ppZESQ",
+      "complexity": 18,
+      "total": 1
+    },
     "builds": 5,
     "mods": [
       {
@@ -10379,6 +10395,16 @@
   {
     "item": "Warrior's Tale",
     "stats": "overwhelm #% physical damage reduction",
+    "average": 19419.82,
+    "prices": [
+      2653.6400000000003,
+      36186
+    ],
+    "search": {
+      "id": "bXW55pKHL",
+      "complexity": 18,
+      "total": 2
+    },
     "builds": 5,
     "mods": [
       {
@@ -10392,6 +10418,15 @@
   {
     "item": "Warrior's Tale",
     "stats": "damage penetrates #% lightning resistance",
+    "average": 2412.4,
+    "prices": [
+      2412.4
+    ],
+    "search": {
+      "id": "MVDVMd5FJ",
+      "complexity": 18,
+      "total": 1
+    },
     "builds": 5,
     "mods": [
       {
@@ -10405,6 +10440,16 @@
   {
     "item": "Blunderbore",
     "stats": "+# to level of socketed gems",
+    "average": 2050.54,
+    "prices": [
+      1688.68,
+      2412.4
+    ],
+    "search": {
+      "id": "GZy3k8Wsb",
+      "complexity": 18,
+      "total": 2
+    },
     "builds": 5,
     "mods": [
       {
