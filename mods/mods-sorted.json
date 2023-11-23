@@ -8420,6 +8420,13 @@
   {
     "item": "Anathema",
     "stats": "adds # to # fire damage to spells and attacks",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "aqJbj48fe",
+      "complexity": 18,
+      "total": 0
+    },
     "builds": 6,
     "mods": [
       {
@@ -8433,6 +8440,13 @@
   {
     "item": "Anathema",
     "stats": "+#% to all elemental resistances",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "jXjMMPXSX",
+      "complexity": 18,
+      "total": 0
+    },
     "builds": 6,
     "mods": [
       {
@@ -8446,6 +8460,15 @@
   {
     "item": "Ralakesh's Impatience",
     "stats": "+#% chance to suppress spell damage",
+    "average": 241.24,
+    "prices": [
+      241.24
+    ],
+    "search": {
+      "id": "YVqwBVXIY",
+      "complexity": 19,
+      "total": 1
+    },
     "builds": 6,
     "mods": [
       {
@@ -8460,6 +8483,17 @@
   {
     "item": "Watcher's Eye",
     "stats": "#% reduced poison duration on you",
+    "average": 69,
+    "prices": [
+      38,
+      100,
+      11579.52
+    ],
+    "search": {
+      "id": "jPpekPluX",
+      "complexity": 18,
+      "total": 3
+    },
     "builds": 6,
     "mods": [
       {
@@ -8473,6 +8507,22 @@
   {
     "item": "Asenath's Gentle Touch",
     "stats": "curse enemies with vulnerability on hit",
+    "average": 241.24,
+    "prices": [
+      150,
+      241.24,
+      241.24,
+      241.24,
+      241.24,
+      241.24,
+      241.24,
+      7237.200000000001
+    ],
+    "search": {
+      "id": "aqJb087Fe",
+      "complexity": 18,
+      "total": 8
+    },
     "builds": 6,
     "mods": [
       {
