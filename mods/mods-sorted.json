@@ -11157,6 +11157,15 @@
   {
     "item": "Dead Reckoning",
     "stats": "#% increased reservation efficiency of skills",
+    "average": 2412.5,
+    "prices": [
+      2412.5
+    ],
+    "search": {
+      "id": "ZPQ0D40TQ",
+      "complexity": 19,
+      "total": 1
+    },
     "builds": 5,
     "mods": [
       {
@@ -11171,6 +11180,13 @@
   {
     "item": "Mjölner",
     "stats": "melee hits have #% chance to fortify",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "vlPll5zHE",
+      "complexity": 18,
+      "total": 0
+    },
     "builds": 5,
     "mods": [
       {
@@ -11184,6 +11200,13 @@
   {
     "item": "Call of the Brotherhood",
     "stats": "wrath has #% increased aura effect, malevolence has #% increased aura effect",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "K9WYZ6ET5",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 4,
     "mods": [
       {
@@ -11203,6 +11226,17 @@
   {
     "item": "Call of the Brotherhood",
     "stats": "#% increased strength, #% increased intelligence",
+    "average": 723.75,
+    "prices": [
+      723.75,
+      723.75,
+      1085.625
+    ],
+    "search": {
+      "id": "XkOE08kIP",
+      "complexity": 29,
+      "total": 3
+    },
     "builds": 4,
     "mods": [
       {
@@ -11222,6 +11256,13 @@
   {
     "item": "Call of the Brotherhood",
     "stats": "+#% to all elemental resistances, wrath has #% increased aura effect",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "9qlM0DKcK",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 4,
     "mods": [
       {
@@ -11299,6 +11340,13 @@
   {
     "item": "Aegis Aurora",
     "stats": "+# to level of socketed aura gems, #% increased maximum energy shield",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "OVwq8kzuE",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 4,
     "mods": [
       {
