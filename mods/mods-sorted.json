@@ -14309,6 +14309,13 @@
   {
     "item": "Headhunter",
     "stats": "#% increased critical strike chance during any flask effect",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "kPKZZ90F5",
+      "complexity": 18,
+      "total": 0
+    },
     "builds": 4,
     "mods": [
       {
@@ -14322,6 +14329,15 @@
   {
     "item": "Headhunter",
     "stats": "#% increased strength, #% increased intelligence",
+    "average": 35940.29,
+    "prices": [
+      35940.29
+    ],
+    "search": {
+      "id": "DL85jL7H5",
+      "complexity": 29,
+      "total": 1
+    },
     "builds": 4,
     "mods": [
       {
@@ -14361,6 +14377,23 @@
   {
     "item": "Crown of Eyes",
     "stats": "socketed skill gems get a #% cost & reservation multiplier",
+    "average": 362.694,
+    "prices": [
+      150,
+      241.21,
+      241.21,
+      482.42,
+      482.42,
+      578.904,
+      964.84,
+      2412.1,
+      41005.700000000004
+    ],
+    "search": {
+      "id": "3Br0mJJs5",
+      "complexity": 18,
+      "total": 9
+    },
     "builds": 4,
     "mods": [
       {
