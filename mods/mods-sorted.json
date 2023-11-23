@@ -7977,6 +7977,13 @@
   {
     "item": "Cloak of Flame",
     "stats": "+# to level of socketed gems, +# to level of socketed aoe gems",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "2BrGB8YFk",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 6,
     "mods": [
       {
@@ -7996,6 +8003,13 @@
   {
     "item": "Melding of the Flesh",
     "stats": "corrupted blood cannot be inflicted on you",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "Ey65XbYT5",
+      "complexity": 18,
+      "total": 0
+    },
     "builds": 6,
     "mods": [
       {
@@ -8009,6 +8023,16 @@
   {
     "item": "Heartbound Loop",
     "stats": "adds # to # lightning damage to spells and attacks",
+    "average": 85,
+    "prices": [
+      70,
+      100
+    ],
+    "search": {
+      "id": "bXWwVYRCL",
+      "complexity": 18,
+      "total": 2
+    },
     "builds": 6,
     "mods": [
       {
@@ -8022,6 +8046,15 @@
   {
     "item": "Inpulsa's Broken Heart",
     "stats": "+# to level of socketed aoe gems",
+    "average": 1206.1,
+    "prices": [
+      1206.1
+    ],
+    "search": {
+      "id": "PdDdokqiL",
+      "complexity": 18,
+      "total": 1
+    },
     "builds": 6,
     "mods": [
       {
