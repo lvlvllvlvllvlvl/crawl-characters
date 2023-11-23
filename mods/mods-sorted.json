@@ -12312,6 +12312,21 @@
   {
     "item": "Heartbound Loop",
     "stats": "cannot be poisoned",
+    "average": 545.5840000000001,
+    "prices": [
+      80,
+      481.44,
+      481.44,
+      722.16,
+      962.88,
+      4332.96,
+      5777.28
+    ],
+    "search": {
+      "id": "VMEdMowHp",
+      "complexity": 18,
+      "total": 7
+    },
     "builds": 4,
     "mods": [
       {
@@ -12325,6 +12340,15 @@
   {
     "item": "Kaom's Heart",
     "stats": "you take #% reduced extra damage from critical strikes",
+    "average": 1685.04,
+    "prices": [
+      1685.04
+    ],
+    "search": {
+      "id": "WVWd240tm",
+      "complexity": 18,
+      "total": 1
+    },
     "builds": 4,
     "mods": [
       {
@@ -12338,6 +12362,13 @@
   {
     "item": "Eyes of the Greatwolf",
     "stats": "#% increased spell damage, #% increased quantity of items found",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "nXjMrbRt0",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 4,
     "mods": [
       {
@@ -12388,6 +12419,20 @@
   {
     "item": "Sadima's Touch",
     "stats": "+# to maximum frenzy charges",
+    "average": 54.166666666666664,
+    "prices": [
+      5,
+      35,
+      35,
+      70,
+      80,
+      100
+    ],
+    "search": {
+      "id": "Qr6GOj7Tw",
+      "complexity": 18,
+      "total": 6
+    },
     "builds": 4,
     "mods": [
       {
