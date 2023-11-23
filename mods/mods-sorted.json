@@ -16531,6 +16531,15 @@
   {
     "item": "The Anima Stone",
     "stats": "damage penetrates #% fire resistance",
+    "average": 241.26,
+    "prices": [
+      241.26
+    ],
+    "search": {
+      "id": "vlPLvLDHE",
+      "complexity": 18,
+      "total": 1
+    },
     "builds": 3,
     "mods": [
       {
@@ -16566,6 +16575,13 @@
   {
     "item": "Primordial Harmony",
     "stats": "#% reduced effect of curses on you",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "oXjqpP4hl",
+      "complexity": 18,
+      "total": 0
+    },
     "builds": 3,
     "mods": [
       {
@@ -16579,6 +16595,18 @@
   {
     "item": "Yoke of Suffering",
     "stats": "+#% to all elemental resistances",
+    "average": 241.26,
+    "prices": [
+      200,
+      241.26,
+      241.26,
+      1085.67
+    ],
+    "search": {
+      "id": "pXjvBRJT0",
+      "complexity": 18,
+      "total": 4
+    },
     "builds": 3,
     "mods": [
       {
@@ -16592,6 +16620,15 @@
   {
     "item": "Mageblood",
     "stats": "#% increased quantity of items found",
+    "average": 171346.43,
+    "prices": [
+      171346.43
+    ],
+    "search": {
+      "id": "QVnEZX7Tw",
+      "complexity": 18,
+      "total": 1
+    },
     "builds": 3,
     "mods": [
       {
@@ -16605,6 +16642,13 @@
   {
     "item": "Mageblood",
     "stats": "#% increased critical strike chance during any flask effect",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "oZ8JM4Ysl",
+      "complexity": 18,
+      "total": 0
+    },
     "builds": 3,
     "mods": [
       {
@@ -16618,6 +16662,15 @@
   {
     "item": "Mageblood",
     "stats": "#% increased dexterity, #% increased intelligence",
+    "average": 34931.95,
+    "prices": [
+      34931.95
+    ],
+    "search": {
+      "id": "OpJ2LzVCE",
+      "complexity": 29,
+      "total": 1
+    },
     "builds": 3,
     "mods": [
       {
@@ -16637,6 +16690,16 @@
   {
     "item": "Mageblood",
     "stats": "#% increased strength, #% increased dexterity",
+    "average": 145832.465,
+    "prices": [
+      34931.95,
+      256732.98
+    ],
+    "search": {
+      "id": "7l52DElC5",
+      "complexity": 29,
+      "total": 2
+    },
     "builds": 3,
     "mods": [
       {
@@ -16656,6 +16719,13 @@
   {
     "item": "Mageblood",
     "stats": "#% increased dexterity, #% increased intelligence, #% increased attack speed during any flask effect",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "6ZkrK20FG",
+      "complexity": 20,
+      "total": 0
+    },
     "builds": 3,
     "mods": [
       {
@@ -16681,6 +16751,13 @@
   {
     "item": "Mageblood",
     "stats": "#% increased movement speed during any flask effect, hatred has #% increased aura effect",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "XqDg5nbUP",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 3,
     "mods": [
       {
