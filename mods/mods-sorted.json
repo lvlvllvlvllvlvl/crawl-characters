@@ -10569,6 +10569,18 @@
   {
     "item": "Watcher's Eye",
     "stats": "#% reduced effect of chill on you",
+    "average": 1031.5866666666666,
+    "prices": [
+      200,
+      482.46,
+      2412.2999999999997,
+      16644.87
+    ],
+    "search": {
+      "id": "Zb5baJRTQ",
+      "complexity": 18,
+      "total": 4
+    },
     "builds": 5,
     "mods": [
       {
@@ -10582,6 +10594,17 @@
   {
     "item": "Watcher's Eye",
     "stats": "#% increased reservation efficiency of skills",
+    "average": 542.7674999999999,
+    "prices": [
+      482.46,
+      603.0749999999999,
+      2412.2999999999997
+    ],
+    "search": {
+      "id": "pXjMk5vC0",
+      "complexity": 19,
+      "total": 3
+    },
     "builds": 5,
     "mods": [
       {
@@ -10596,6 +10619,13 @@
   {
     "item": "Asenath's Gentle Touch",
     "stats": "+# to level of socketed gems, curse enemies with despair on hit",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "GkdqLj3Tb",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 5,
     "mods": [
       {
@@ -10615,6 +10645,13 @@
   {
     "item": "Asenath's Gentle Touch",
     "stats": "curse enemies with vulnerability on hit, attacks have +#% to critical strike chance",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "PdDqebqhL",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 5,
     "mods": [
       {
@@ -10634,6 +10671,13 @@
   {
     "item": "Asenath's Gentle Touch",
     "stats": "+# to maximum frenzy charges, curse enemies with despair on hit",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "Gkdqg5Zsb",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 5,
     "mods": [
       {
