@@ -14631,6 +14631,15 @@
   {
     "item": "The Fourth Vow",
     "stats": "+# to level of socketed aoe gems",
+    "average": 7236.9,
+    "prices": [
+      7236.9
+    ],
+    "search": {
+      "id": "zeBRPgRU4",
+      "complexity": 18,
+      "total": 1
+    },
     "builds": 4,
     "mods": [
       {
@@ -14644,6 +14653,13 @@
   {
     "item": "The Fourth Vow",
     "stats": "+# to level of socketed gems, +# to level of socketed duration gems",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "Zb5ByM8TQ",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 4,
     "mods": [
       {
@@ -14663,6 +14679,13 @@
   {
     "item": "Lioneye's Fall",
     "stats": "#% increased global critical strike chance",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "3Bro8DZh5",
+      "complexity": 18,
+      "total": 0
+    },
     "builds": 4,
     "mods": [
       {
@@ -14676,6 +14699,17 @@
   {
     "item": "Saffell's Frame",
     "stats": "you take #% reduced extra damage from critical strikes",
+    "average": 120,
+    "prices": [
+      60,
+      120,
+      120
+    ],
+    "search": {
+      "id": "PdD4gWZiL",
+      "complexity": 18,
+      "total": 3
+    },
     "builds": 4,
     "mods": [
       {
@@ -14689,6 +14723,19 @@
   {
     "item": "Cold Iron Point",
     "stats": "#% increased spell damage",
+    "average": 241.23,
+    "prices": [
+      100,
+      241.23,
+      241.23,
+      241.23,
+      2412.2999999999997
+    ],
+    "search": {
+      "id": "noEMlZ2i0",
+      "complexity": 18,
+      "total": 5
+    },
     "builds": 4,
     "mods": [
       {
