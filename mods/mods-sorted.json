@@ -8755,6 +8755,15 @@
   {
     "item": "Bisco's Leash",
     "stats": "#% increased quantity of items found",
+    "average": 1206.1499999999999,
+    "prices": [
+      1206.1499999999999
+    ],
+    "search": {
+      "id": "80ZXWR2UV",
+      "complexity": 18,
+      "total": 1
+    },
     "builds": 6,
     "mods": [
       {
@@ -8768,6 +8777,17 @@
   {
     "item": "Bisco's Leash",
     "stats": "#% increased rarity of items found",
+    "average": 241.23,
+    "prices": [
+      241.23,
+      241.23,
+      241.23
+    ],
+    "search": {
+      "id": "XqDqJw7fP",
+      "complexity": 18,
+      "total": 3
+    },
     "builds": 6,
     "mods": [
       {
@@ -8781,6 +8801,17 @@
   {
     "item": "Darkray Vectors",
     "stats": "+#% chance to suppress spell damage",
+    "average": 220.615,
+    "prices": [
+      200,
+      241.23,
+      2412.2999999999997
+    ],
+    "search": {
+      "id": "vlP3YDBuE",
+      "complexity": 19,
+      "total": 3
+    },
     "builds": 6,
     "mods": [
       {
@@ -8795,6 +8826,24 @@
   {
     "item": "Arakaali's Fang",
     "stats": "#% increased global critical strike chance",
+    "average": 45,
+    "prices": [
+      40,
+      40,
+      40,
+      40,
+      40,
+      50,
+      50,
+      50,
+      50,
+      50
+    ],
+    "search": {
+      "id": "JVdYj7Wil",
+      "complexity": 18,
+      "total": 23
+    },
     "builds": 6,
     "mods": [
       {
@@ -8808,6 +8857,13 @@
   {
     "item": "Arakaali's Fang",
     "stats": "#% chance to gain a frenzy charge on kill",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "oXjZ0EOsl",
+      "complexity": 18,
+      "total": 0
+    },
     "builds": 6,
     "mods": [
       {
