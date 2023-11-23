@@ -7690,6 +7690,15 @@
   {
     "item": "Unnatural Instinct",
     "stats": "damage penetrates #% fire resistance, corrupted blood cannot be inflicted on you",
+    "average": 24136,
+    "prices": [
+      24136
+    ],
+    "search": {
+      "id": "9Y2qYGQiK",
+      "complexity": 29,
+      "total": 1
+    },
     "builds": 6,
     "mods": [
       {
@@ -7709,6 +7718,13 @@
   {
     "item": "Unnatural Instinct",
     "stats": "corrupted blood cannot be inflicted on you, #% increased effect of non-damaging ailments",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "YVqDVevFY",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 6,
     "mods": [
       {
@@ -7728,6 +7744,13 @@
   {
     "item": "Unnatural Instinct",
     "stats": "#% reduced ignite duration on you, corrupted blood cannot be inflicted on you",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "zeBeedRU4",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 6,
     "mods": [
       {
@@ -7747,6 +7770,13 @@
   {
     "item": "Unnatural Instinct",
     "stats": "#% increased reservation efficiency of skills, #% reduced effect of shock on you",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "6Zk0JyMhG",
+      "complexity": 30,
+      "total": 0
+    },
     "builds": 6,
     "mods": [
       {
@@ -7767,6 +7797,24 @@
   {
     "item": "Goldwyrm",
     "stats": "+# to maximum endurance charges",
+    "average": 165.04888888888888,
+    "prices": [
+      30,
+      70,
+      70,
+      150,
+      200,
+      241.36,
+      241.36,
+      241.36,
+      241.36,
+      19308.800000000003
+    ],
+    "search": {
+      "id": "0B8P0wYcg",
+      "complexity": 18,
+      "total": 10
+    },
     "builds": 6,
     "mods": [
       {
