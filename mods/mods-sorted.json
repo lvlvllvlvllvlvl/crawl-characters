@@ -9022,6 +9022,17 @@
   {
     "item": "Replica Dreamfeather",
     "stats": "resolute technique",
+    "average": 3618.45,
+    "prices": [
+      3618.45,
+      3618.45,
+      4824.599999999999
+    ],
+    "search": {
+      "id": "gPeEo32hQ",
+      "complexity": 18,
+      "total": 3
+    },
     "builds": 6,
     "mods": [
       {
@@ -9066,6 +9077,15 @@
   {
     "item": "Call of the Brotherhood",
     "stats": "adds # to # cold damage to spells and attacks",
+    "average": 10,
+    "prices": [
+      10
+    ],
+    "search": {
+      "id": "KJDJGZDU5",
+      "complexity": 18,
+      "total": 1
+    },
     "builds": 5,
     "mods": [
       {
@@ -9079,6 +9099,23 @@
   {
     "item": "Heatshiver",
     "stats": "regenerate #% of life per second",
+    "average": 294.6658333333333,
+    "prices": [
+      80,
+      120,
+      241.23,
+      241.23,
+      482.46,
+      603.0749999999999,
+      1206.1499999999999,
+      24123,
+      36184.5
+    ],
+    "search": {
+      "id": "9qljDqzSK",
+      "complexity": 18,
+      "total": 9
+    },
     "builds": 5,
     "mods": [
       {
@@ -9111,6 +9148,13 @@
   {
     "item": "Heatshiver",
     "stats": "+# to level of socketed cold gems, socketed skill gems get a #% cost & reservation multiplier",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "nXjX4a2T0",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 5,
     "mods": [
       {
