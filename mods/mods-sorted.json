@@ -15661,6 +15661,17 @@
   {
     "item": "Shaper's Touch",
     "stats": "curse enemies with temporal chains on hit",
+    "average": 24.5,
+    "prices": [
+      20,
+      29,
+      240.9
+    ],
+    "search": {
+      "id": "gXWRrJjhQ",
+      "complexity": 18,
+      "total": 3
+    },
     "builds": 3,
     "mods": [
       {
@@ -15674,6 +15685,18 @@
   {
     "item": "Shaper's Touch",
     "stats": "#% increased maximum life",
+    "average": 172.95,
+    "prices": [
+      50,
+      160,
+      240.9,
+      240.9
+    ],
+    "search": {
+      "id": "RVBZWyaI7",
+      "complexity": 18,
+      "total": 4
+    },
     "builds": 3,
     "mods": [
       {
@@ -15687,6 +15710,13 @@
   {
     "item": "Infernal Mantle",
     "stats": "+# to level of socketed aoe gems",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "WVWjoPRCm",
+      "complexity": 18,
+      "total": 0
+    },
     "builds": 3,
     "mods": [
       {
