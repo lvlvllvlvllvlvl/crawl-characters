@@ -13226,6 +13226,13 @@
   {
     "item": "Rathpith Globe",
     "stats": "grants level # determination skill",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "6Zkaw7jFG",
+      "complexity": 18,
+      "total": 0
+    },
     "builds": 4,
     "mods": [
       {
@@ -13261,6 +13268,18 @@
   {
     "item": "Rearguard",
     "stats": "# to # added lightning damage with bow attacks",
+    "average": 367.83,
+    "prices": [
+      10,
+      14,
+      723.66,
+      723.66
+    ],
+    "search": {
+      "id": "PdD4XOmiL",
+      "complexity": 18,
+      "total": 4
+    },
     "builds": 4,
     "mods": [
       {
@@ -13274,6 +13293,16 @@
   {
     "item": "Winterweave",
     "stats": "cannot be ignited",
+    "average": 4824.4,
+    "prices": [
+      4824.4,
+      4824.4
+    ],
+    "search": {
+      "id": "waPDX3rsb",
+      "complexity": 18,
+      "total": 2
+    },
     "builds": 4,
     "mods": [
       {
@@ -13287,6 +13316,16 @@
   {
     "item": "Warrior's Tale",
     "stats": "#% reduced bleed duration on you",
+    "average": 8442.7,
+    "prices": [
+      4824.4,
+      12061
+    ],
+    "search": {
+      "id": "QVnvYzmuw",
+      "complexity": 18,
+      "total": 2
+    },
     "builds": 4,
     "mods": [
       {
