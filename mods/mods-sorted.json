@@ -7828,6 +7828,13 @@
   {
     "item": "Ancestral Vision",
     "stats": "damage penetrates #% elemental resistances",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "0B8BLgOcg",
+      "complexity": 18,
+      "total": 0
+    },
     "builds": 6,
     "mods": [
       {
@@ -7841,6 +7848,15 @@
   {
     "item": "March of the Legion",
     "stats": "+# to level of socketed gems, +# to level of socketed duration gems",
+    "average": 96604,
+    "prices": [
+      96604
+    ],
+    "search": {
+      "id": "v3mkrB9cE",
+      "complexity": 29,
+      "total": 1
+    },
     "builds": 6,
     "mods": [
       {
@@ -7860,6 +7876,21 @@
   {
     "item": "Kaom's Spirit",
     "stats": "+# to level of socketed aoe gems",
+    "average": 1384.9716666666666,
+    "prices": [
+      140,
+      200,
+      483.02,
+      1449.06,
+      2415.1,
+      3622.6499999999996,
+      9660.4
+    ],
+    "search": {
+      "id": "lPrYyEQUV",
+      "complexity": 18,
+      "total": 7
+    },
     "builds": 6,
     "mods": [
       {
@@ -7873,6 +7904,18 @@
   {
     "item": "Kaom's Spirit",
     "stats": "curse enemies with despair on hit",
+    "average": 2716.9875,
+    "prices": [
+      1207.55,
+      2415.1,
+      2415.1,
+      4830.2
+    ],
+    "search": {
+      "id": "noEekLBh0",
+      "complexity": 18,
+      "total": 4
+    },
     "builds": 6,
     "mods": [
       {
@@ -7886,6 +7929,13 @@
   {
     "item": "Kaom's Spirit",
     "stats": "+# to maximum frenzy charges, attacks have +#% to critical strike chance",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "0PQ7ZvwFg",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 6,
     "mods": [
       {
@@ -7905,6 +7955,15 @@
   {
     "item": "Fleshcrafter",
     "stats": "+# to level of socketed duration gems",
+    "average": 2170.98,
+    "prices": [
+      2170.98
+    ],
+    "search": {
+      "id": "GZypBposb",
+      "complexity": 18,
+      "total": 1
+    },
     "builds": 6,
     "mods": [
       {
