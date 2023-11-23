@@ -15261,6 +15261,17 @@
   {
     "item": "Call of the Brotherhood",
     "stats": "#% increased dexterity, #% increased intelligence",
+    "average": 723.66,
+    "prices": [
+      723.66,
+      723.66,
+      7236.6
+    ],
+    "search": {
+      "id": "XkOE08kIP",
+      "complexity": 29,
+      "total": 3
+    },
     "builds": 3,
     "mods": [
       {
@@ -15280,6 +15291,16 @@
   {
     "item": "Call of the Brotherhood",
     "stats": "#% increased rarity of items found",
+    "average": 95,
+    "prices": [
+      90,
+      100
+    ],
+    "search": {
+      "id": "gP0Yd9dsQ",
+      "complexity": 18,
+      "total": 2
+    },
     "builds": 3,
     "mods": [
       {
@@ -15357,6 +15378,13 @@
   {
     "item": "Call of the Brotherhood",
     "stats": "+#% to all elemental resistances, zealotry has #% increased aura effect",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "YDeyv3XhY",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 3,
     "mods": [
       {
@@ -15415,6 +15443,13 @@
   {
     "item": "Heatshiver",
     "stats": "+# to level of socketed aura gems, +# to maximum power charges",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "JYm2VGRsl",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 3,
     "mods": [
       {
@@ -15434,6 +15469,13 @@
   {
     "item": "Heatshiver",
     "stats": "+# to level of socketed duration gems, +# to level of socketed aoe gems",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "MvRLBlGcJ",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 3,
     "mods": [
       {
