@@ -10697,6 +10697,19 @@
   {
     "item": "Asphyxia's Wrath",
     "stats": "gain #% of physical damage as extra cold damage",
+    "average": 147.8075,
+    "prices": [
+      100,
+      100,
+      150,
+      241.23,
+      4824.599999999999
+    ],
+    "search": {
+      "id": "QVnqQZwCw",
+      "complexity": 18,
+      "total": 5
+    },
     "builds": 5,
     "mods": [
       {
@@ -10710,6 +10723,13 @@
   {
     "item": "Grand Spectrum",
     "stats": "overwhelm #% physical damage reduction",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "Ey6yepZc5",
+      "complexity": 18,
+      "total": 0
+    },
     "builds": 5,
     "mods": [
       {
@@ -10723,6 +10743,17 @@
   {
     "item": "Shadows and Dust",
     "stats": "attacks have +#% to critical strike chance",
+    "average": 246.82000000000002,
+    "prices": [
+      69,
+      189,
+      482.46
+    ],
+    "search": {
+      "id": "2BrO0y5sk",
+      "complexity": 18,
+      "total": 3
+    },
     "builds": 5,
     "mods": [
       {
@@ -10736,6 +10767,24 @@
   {
     "item": "The Poet's Pen",
     "stats": "#% increased spell damage",
+    "average": 58,
+    "prices": [
+      30,
+      30,
+      50,
+      50,
+      50,
+      50,
+      60,
+      60,
+      100,
+      100
+    ],
+    "search": {
+      "id": "XkYJjGKtP",
+      "complexity": 18,
+      "total": 16
+    },
     "builds": 5,
     "mods": [
       {
@@ -10749,6 +10798,15 @@
   {
     "item": "Headhunter",
     "stats": "#% increased area of effect",
+    "average": 47763.54,
+    "prices": [
+      47763.54
+    ],
+    "search": {
+      "id": "OVwVMgVTE",
+      "complexity": 18,
+      "total": 1
+    },
     "builds": 5,
     "mods": [
       {
@@ -10788,6 +10846,15 @@
   {
     "item": "Rainbowstride",
     "stats": "+# to level of socketed aura gems",
+    "average": 100,
+    "prices": [
+      100
+    ],
+    "search": {
+      "id": "RVBMBPZh7",
+      "complexity": 18,
+      "total": 1
+    },
     "builds": 5,
     "mods": [
       {
