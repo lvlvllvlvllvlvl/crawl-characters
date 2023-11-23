@@ -11282,6 +11282,15 @@
   {
     "item": "Heatshiver",
     "stats": "+# to level of socketed aoe gems, +# to level of socketed aura gems",
+    "average": 66220,
+    "prices": [
+      66220
+    ],
+    "search": {
+      "id": "Qr6DRewCw",
+      "complexity": 29,
+      "total": 1
+    },
     "builds": 4,
     "mods": [
       {
@@ -11301,6 +11310,19 @@
   {
     "item": "Heatshiver",
     "stats": "#% increased effect of cold ailments",
+    "average": 240.80000000000004,
+    "prices": [
+      200,
+      240.8,
+      240.8,
+      240.8,
+      2408
+    ],
+    "search": {
+      "id": "4drzQXgt9",
+      "complexity": 18,
+      "total": 5
+    },
     "builds": 4,
     "mods": [
       {
@@ -11314,6 +11336,13 @@
   {
     "item": "Aegis Aurora",
     "stats": "grants level # discipline skill",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "kPK2323c5",
+      "complexity": 18,
+      "total": 0
+    },
     "builds": 4,
     "mods": [
       {
@@ -11327,6 +11356,16 @@
   {
     "item": "Aegis Aurora",
     "stats": "#% of physical damage from hits taken as cold damage",
+    "average": 2648.8,
+    "prices": [
+      2408,
+      2889.6000000000004
+    ],
+    "search": {
+      "id": "BGr0mYku8",
+      "complexity": 18,
+      "total": 2
+    },
     "builds": 4,
     "mods": [
       {
