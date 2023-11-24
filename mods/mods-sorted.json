@@ -22194,6 +22194,15 @@
   {
     "item": "The Ivory Tower",
     "stats": "+# to level of socketed projectile gems",
+    "average": 4831.2,
+    "prices": [
+      4831.2
+    ],
+    "search": {
+      "id": "3BrMQldc5",
+      "complexity": 18,
+      "total": 1
+    },
     "builds": 3,
     "mods": [
       {
@@ -22233,6 +22242,13 @@
   {
     "item": "Cherrubim's Maleficence",
     "stats": "+# to level of socketed gems, +# to level of socketed aoe gems",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "BGrm5KLf8",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 3,
     "mods": [
       {
@@ -22252,6 +22268,13 @@
   {
     "item": "Doomfletch",
     "stats": "bow attacks fire an additional arrow",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "8a2wYgBUV",
+      "complexity": 18,
+      "total": 0
+    },
     "builds": 3,
     "mods": [
       {
@@ -22265,6 +22288,13 @@
   {
     "item": "Pure Talent",
     "stats": "damage penetrates #% elemental resistances",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "9Y2vz0RhK",
+      "complexity": 18,
+      "total": 0
+    },
     "builds": 3,
     "mods": [
       {
@@ -22278,6 +22308,18 @@
   {
     "item": "Pure Talent",
     "stats": "corrupted blood cannot be inflicted on you",
+    "average": 241.56000000000003,
+    "prices": [
+      241.56,
+      241.56,
+      241.56,
+      483.12
+    ],
+    "search": {
+      "id": "8a2vlBMHV",
+      "complexity": 18,
+      "total": 4
+    },
     "builds": 3,
     "mods": [
       {
@@ -22291,6 +22333,21 @@
   {
     "item": "Perandus Blazon",
     "stats": "#% increased rarity of items found",
+    "average": 550.0466666666666,
+    "prices": [
+      70,
+      90,
+      241.56,
+      483.12,
+      1207.8,
+      1207.8,
+      2174.04
+    ],
+    "search": {
+      "id": "y9RklMqSR",
+      "complexity": 18,
+      "total": 7
+    },
     "builds": 3,
     "mods": [
       {
