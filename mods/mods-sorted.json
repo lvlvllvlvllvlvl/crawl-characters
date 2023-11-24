@@ -18662,6 +18662,13 @@
   {
     "item": "Hrimsorrow",
     "stats": "curse enemies with elemental weakness on hit, +#% to spell critical strike chance",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "bXW5V9RTL",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 3,
     "mods": [
       {
@@ -18681,6 +18688,13 @@
   {
     "item": "Hrimsorrow",
     "stats": "+# to level of socketed aoe gems, +# to maximum frenzy charges",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "qarR8dvIg",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 3,
     "mods": [
       {
@@ -18700,6 +18714,24 @@
   {
     "item": "String of Servitude",
     "stats": "#% increased movement speed during any flask effect",
+    "average": 55.611555555555555,
+    "prices": [
+      10,
+      30,
+      35,
+      50,
+      50,
+      50,
+      80,
+      96.504,
+      99,
+      241.26
+    ],
+    "search": {
+      "id": "OpJzQ6VfE",
+      "complexity": 18,
+      "total": 13
+    },
     "builds": 3,
     "mods": [
       {
@@ -18713,6 +18745,18 @@
   {
     "item": "String of Servitude",
     "stats": "grace has #% increased aura effect",
+    "average": 301.825,
+    "prices": [
+      1,
+      241.26,
+      241.26,
+      723.78
+    ],
+    "search": {
+      "id": "MVDMKoyIJ",
+      "complexity": 18,
+      "total": 4
+    },
     "builds": 3,
     "mods": [
       {
@@ -18726,6 +18770,16 @@
   {
     "item": "Sentari's Answer",
     "stats": "+# to level of socketed aura gems",
+    "average": 241.26,
+    "prices": [
+      241.26,
+      241.26
+    ],
+    "search": {
+      "id": "LmdMk0Vcn",
+      "complexity": 18,
+      "total": 2
+    },
     "builds": 3,
     "mods": [
       {
