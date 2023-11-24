@@ -17801,6 +17801,15 @@
   {
     "item": "Malachai's Loop",
     "stats": "#% of physical damage from hits taken as chaos damage",
+    "average": 60,
+    "prices": [
+      60
+    ],
+    "search": {
+      "id": "jXjaG5WTX",
+      "complexity": 18,
+      "total": 1
+    },
     "builds": 3,
     "mods": [
       {
@@ -17814,6 +17823,13 @@
   {
     "item": "Heartbound Loop",
     "stats": "bleeding cannot be inflicted on you",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "gXWoX0KFQ",
+      "complexity": 18,
+      "total": 0
+    },
     "builds": 3,
     "mods": [
       {
@@ -17827,6 +17843,21 @@
   {
     "item": "Heartbound Loop",
     "stats": "grace has #% increased aura effect",
+    "average": 98.21142857142857,
+    "prices": [
+      15,
+      40,
+      40,
+      50,
+      60,
+      241.24,
+      241.24
+    ],
+    "search": {
+      "id": "RVBjVQOc7",
+      "complexity": 18,
+      "total": 7
+    },
     "builds": 3,
     "mods": [
       {
@@ -17840,6 +17871,16 @@
   {
     "item": "Heartbound Loop",
     "stats": "cannot be ignited",
+    "average": 1206.1999999999998,
+    "prices": [
+      241.24,
+      2171.16
+    ],
+    "search": {
+      "id": "3GwDRP9S5",
+      "complexity": 18,
+      "total": 2
+    },
     "builds": 3,
     "mods": [
       {
@@ -17853,6 +17894,13 @@
   {
     "item": "Inpulsa's Broken Heart",
     "stats": "#% increased damage",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "BEJw6PWI8",
+      "complexity": 18,
+      "total": 0
+    },
     "builds": 3,
     "mods": [
       {
@@ -17866,6 +17914,13 @@
   {
     "item": "Kaom's Heart",
     "stats": "+#% to all maximum resistances",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "GkdwqBBSb",
+      "complexity": 18,
+      "total": 0
+    },
     "builds": 3,
     "mods": [
       {
