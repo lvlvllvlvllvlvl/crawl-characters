@@ -21512,6 +21512,13 @@
   {
     "item": "Cold Iron Point",
     "stats": "#% increased damage over time, #% increased spell damage",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "aqJjlakue",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 3,
     "mods": [
       {
@@ -21531,6 +21538,16 @@
   {
     "item": "Cold Iron Point",
     "stats": "#% chance to gain unholy might for 3 seconds on kill",
+    "average": 135.66500000000002,
+    "prices": [
+      30,
+      241.33
+    ],
+    "search": {
+      "id": "9Y2wm70uK",
+      "complexity": 18,
+      "total": 2
+    },
     "builds": 3,
     "mods": [
       {
@@ -21544,6 +21561,13 @@
   {
     "item": "Victario's Influence",
     "stats": "+# to level of socketed aura gems, +# to level of socketed trap or mine gems",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "WVWPWyrCm",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 3,
     "mods": [
       {
@@ -21563,6 +21587,13 @@
   {
     "item": "Victario's Influence",
     "stats": "+# to level of socketed aoe gems, +# to level of socketed trap or mine gems",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "7zJjD47f5",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 3,
     "mods": [
       {
@@ -21623,6 +21654,13 @@
   {
     "item": "The Stampede",
     "stats": "+# to level of socketed gems",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "pXj3QnWf0",
+      "complexity": 18,
+      "total": 0
+    },
     "builds": 3,
     "mods": [
       {
@@ -21636,6 +21674,16 @@
   {
     "item": "Haemophilia",
     "stats": "+# to maximum frenzy charges",
+    "average": 45,
+    "prices": [
+      40,
+      50
+    ],
+    "search": {
+      "id": "Ey6wDZKF5",
+      "complexity": 18,
+      "total": 2
+    },
     "builds": 3,
     "mods": [
       {
@@ -21662,6 +21710,17 @@
   {
     "item": "Severed in Sleep",
     "stats": "#% increased attack speed",
+    "average": 241.4,
+    "prices": [
+      95,
+      241.4,
+      241.4
+    ],
+    "search": {
+      "id": "y9R7VBlSR",
+      "complexity": 19,
+      "total": 3
+    },
     "builds": 3,
     "mods": [
       {
