@@ -19317,6 +19317,19 @@
   {
     "item": "Eye of Malice",
     "stats": "+# to maximum power charges",
+    "average": 2894.6400000000003,
+    "prices": [
+      241.22,
+      241.22,
+      723.66,
+      6030.5,
+      7236.6
+    ],
+    "search": {
+      "id": "Lmdj637un",
+      "complexity": 18,
+      "total": 5
+    },
     "builds": 3,
     "mods": [
       {
@@ -19330,6 +19343,15 @@
   {
     "item": "Rearguard",
     "stats": "#% of lightning damage leeched as life",
+    "average": 241.22,
+    "prices": [
+      241.22
+    ],
+    "search": {
+      "id": "OVwmBzOTE",
+      "complexity": 19,
+      "total": 1
+    },
     "builds": 3,
     "mods": [
       {
@@ -19384,6 +19406,13 @@
   {
     "item": "Warrior's Tale",
     "stats": "minions deal #% increased damage",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "4drW8lkH9",
+      "complexity": 18,
+      "total": 0
+    },
     "builds": 3,
     "mods": [
       {
@@ -19397,6 +19426,13 @@
   {
     "item": "Warrior's Tale",
     "stats": "#% reduced ignite duration on you",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "2GboPm5tk",
+      "complexity": 18,
+      "total": 0
+    },
     "builds": 3,
     "mods": [
       {
@@ -19410,6 +19446,13 @@
   {
     "item": "Warrior's Tale",
     "stats": "#% increased reservation efficiency of skills, you cannot be hindered",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "nXjQQJJf0",
+      "complexity": 30,
+      "total": 0
+    },
     "builds": 3,
     "mods": [
       {
