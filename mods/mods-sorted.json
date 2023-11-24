@@ -19825,6 +19825,13 @@
   {
     "item": "The Poised Prism",
     "stats": "bow attacks fire an additional arrow, point blank",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "RVB7v3gh7",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 3,
     "mods": [
       {
@@ -19844,6 +19851,19 @@
   {
     "item": "Watcher's Eye",
     "stats": "damage penetrates #% elemental resistances",
+    "average": 724.62,
+    "prices": [
+      241.54,
+      241.54,
+      1207.7,
+      1207.7,
+      3634.5
+    ],
+    "search": {
+      "id": "dXWDzRPsJ",
+      "complexity": 18,
+      "total": 5
+    },
     "builds": 3,
     "mods": [
       {
@@ -19870,6 +19890,21 @@
   {
     "item": "Watcher's Eye",
     "stats": "#% increased area of effect",
+    "average": 188.72600000000003,
+    "prices": [
+      100,
+      120,
+      241.21,
+      241.21,
+      241.21,
+      1206.05,
+      2412.1
+    ],
+    "search": {
+      "id": "kPKoa8Qc5",
+      "complexity": 18,
+      "total": 7
+    },
     "builds": 3,
     "mods": [
       {
