@@ -19473,6 +19473,15 @@
   {
     "item": "Bubonic Trail",
     "stats": "+# to level of socketed aura gems",
+    "average": 20,
+    "prices": [
+      20
+    ],
+    "search": {
+      "id": "lXjQjypIV",
+      "complexity": 18,
+      "total": 1
+    },
     "builds": 3,
     "mods": [
       {
@@ -19486,6 +19495,13 @@
   {
     "item": "Bubonic Trail",
     "stats": "+# to level of socketed aoe gems",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "oXjQjwKhl",
+      "complexity": 18,
+      "total": 0
+    },
     "builds": 3,
     "mods": [
       {
@@ -19499,6 +19515,21 @@
   {
     "item": "The Annihilating Light",
     "stats": "#% increased area of effect",
+    "average": 1929.76,
+    "prices": [
+      241.22,
+      241.22,
+      241.22,
+      482.44,
+      2653.42,
+      4824.4,
+      4824.4
+    ],
+    "search": {
+      "id": "2BrwkLVck",
+      "complexity": 18,
+      "total": 7
+    },
     "builds": 3,
     "mods": [
       {
