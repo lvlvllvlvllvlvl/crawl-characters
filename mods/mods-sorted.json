@@ -21641,6 +21641,19 @@
   {
     "item": "Doedre's Tenure",
     "stats": "+# to maximum frenzy charges",
+    "average": 228.55,
+    "prices": [
+      70,
+      120,
+      241.4,
+      482.8,
+      1689.8
+    ],
+    "search": {
+      "id": "nXjvE09T0",
+      "complexity": 18,
+      "total": 5
+    },
     "builds": 3,
     "mods": [
       {
@@ -21697,6 +21710,13 @@
   {
     "item": "Bloodnotch",
     "stats": "you cannot be hindered",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "9Y2wZ3zUK",
+      "complexity": 18,
+      "total": 0
+    },
     "builds": 3,
     "mods": [
       {
@@ -21735,6 +21755,21 @@
   {
     "item": "Hands of the High Templar",
     "stats": "+# to level of socketed gems, +# to level of socketed aoe gems",
+    "average": 18748.733333333334,
+    "prices": [
+      1689.8,
+      2172.6,
+      9656,
+      14484,
+      36210,
+      48280,
+      171457.85
+    ],
+    "search": {
+      "id": "QVn0WyRCw",
+      "complexity": 29,
+      "total": 7
+    },
     "builds": 3,
     "mods": [
       {
@@ -21754,6 +21789,16 @@
   {
     "item": "Hands of the High Templar",
     "stats": "+# to level of socketed gems, +# to level of socketed aoe gems, curse enemies with temporal chains on hit",
+    "average": 12070,
+    "prices": [
+      9656,
+      14484
+    ],
+    "search": {
+      "id": "zeBwLrKt4",
+      "complexity": 20,
+      "total": 2
+    },
     "builds": 3,
     "mods": [
       {
@@ -21779,6 +21824,17 @@
   {
     "item": "Death's Oath",
     "stats": "+# to level of socketed gems",
+    "average": 1796.7,
+    "prices": [
+      200,
+      1689.8,
+      3500.3
+    ],
+    "search": {
+      "id": "YVqPX3rsY",
+      "complexity": 18,
+      "total": 3
+    },
     "builds": 3,
     "mods": [
       {
@@ -21792,6 +21848,15 @@
   {
     "item": "Gravebind",
     "stats": "curse enemies with temporal chains on hit",
+    "average": 1931.2,
+    "prices": [
+      1931.2
+    ],
+    "search": {
+      "id": "jXjawVWTX",
+      "complexity": 18,
+      "total": 1
+    },
     "builds": 3,
     "mods": [
       {
