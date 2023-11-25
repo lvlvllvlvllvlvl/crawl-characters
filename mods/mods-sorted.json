@@ -35877,6 +35877,15 @@
   {
     "item": "Empire's Grasp",
     "stats": "+# to level of socketed gems, +# to level of socketed aura gems",
+    "average": 99,
+    "prices": [
+      99
+    ],
+    "search": {
+      "id": "9Y238k4cK",
+      "complexity": 29,
+      "total": 1
+    },
     "builds": 2,
     "mods": [
       {
@@ -35896,6 +35905,13 @@
   {
     "item": "Rainbowstride",
     "stats": "+# to level of socketed gems, +# to level of socketed duration gems",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "zeB6OaOt4",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 2,
     "mods": [
       {
@@ -35941,6 +35957,18 @@
   {
     "item": "Rainbowstride",
     "stats": "+# to level of socketed aoe gems",
+    "average": 442.6425,
+    "prices": [
+      80,
+      241.51,
+      483.02,
+      966.04
+    ],
+    "search": {
+      "id": "eXW97zWiL",
+      "complexity": 18,
+      "total": 4
+    },
     "builds": 2,
     "mods": [
       {
@@ -35954,6 +35982,16 @@
   {
     "item": "Rainbowstride",
     "stats": "+#% chance to suppress spell damage",
+    "average": 724.53,
+    "prices": [
+      241.51,
+      1207.55
+    ],
+    "search": {
+      "id": "9Y2jK4QSK",
+      "complexity": 19,
+      "total": 2
+    },
     "builds": 2,
     "mods": [
       {
