@@ -30332,6 +30332,18 @@
   {
     "item": "Natural Affinity",
     "stats": "you cannot be hindered",
+    "average": 241.51,
+    "prices": [
+      100,
+      241.51,
+      241.51,
+      241.51
+    ],
+    "search": {
+      "id": "zeonzJqU4",
+      "complexity": 18,
+      "total": 4
+    },
     "builds": 2,
     "mods": [
       {
@@ -30387,6 +30399,13 @@
   {
     "item": "Natural Affinity",
     "stats": "damage penetrates #% fire resistance",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "0B84YDecg",
+      "complexity": 18,
+      "total": 0
+    },
     "builds": 2,
     "mods": [
       {
