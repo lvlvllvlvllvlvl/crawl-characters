@@ -37898,6 +37898,13 @@
   {
     "item": "Hands of the High Templar",
     "stats": "+# to level of socketed gems, +# to level of socketed aoe gems, +# to level of socketed aura gems, +# to level of socketed trap or mine gems",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "XqD0GVehP",
+      "complexity": 21,
+      "total": 0
+    },
     "builds": 2,
     "mods": [
       {
@@ -37929,6 +37936,13 @@
   {
     "item": "Death's Oath",
     "stats": "#% increased damage, +#% to all maximum resistances",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "waPLvdPub",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 2,
     "mods": [
       {
@@ -37948,6 +37962,24 @@
   {
     "item": "Death's Oath",
     "stats": "+#% to all elemental resistances",
+    "average": 3.9,
+    "prices": [
+      2,
+      3,
+      3,
+      3,
+      4,
+      4,
+      5,
+      5,
+      5,
+      5
+    ],
+    "search": {
+      "id": "qXjp9wWfg",
+      "complexity": 18,
+      "total": 84
+    },
     "builds": 2,
     "mods": [
       {
@@ -37961,6 +37993,17 @@
   {
     "item": "Death's Oath",
     "stats": "you take #% reduced extra damage from critical strikes",
+    "average": 57.5,
+    "prices": [
+      15,
+      100,
+      1690.78
+    ],
+    "search": {
+      "id": "MVDzd66iJ",
+      "complexity": 18,
+      "total": 3
+    },
     "builds": 2,
     "mods": [
       {
@@ -37974,6 +38017,15 @@
   {
     "item": "Death's Oath",
     "stats": "+# to level of socketed duration gems",
+    "average": 483.08,
+    "prices": [
+      483.08
+    ],
+    "search": {
+      "id": "Zb5z6rETQ",
+      "complexity": 18,
+      "total": 1
+    },
     "builds": 2,
     "mods": [
       {
@@ -37987,6 +38039,13 @@
   {
     "item": "Gravebind",
     "stats": "#% increased maximum life",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "XqDykPbSP",
+      "complexity": 18,
+      "total": 0
+    },
     "builds": 2,
     "mods": [
       {
@@ -38013,6 +38072,13 @@
   {
     "item": "Primordial Might",
     "stats": "corrupted blood cannot be inflicted on you",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "6ZkOyOdcG",
+      "complexity": 18,
+      "total": 0
+    },
     "builds": 2,
     "mods": [
       {
