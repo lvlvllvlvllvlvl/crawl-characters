@@ -33326,6 +33326,13 @@
   {
     "item": "The Siege",
     "stats": "damage penetrates #% fire resistance",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "vlPVDoLfE",
+      "complexity": 18,
+      "total": 0
+    },
     "builds": 2,
     "mods": [
       {
@@ -33409,6 +33416,21 @@
   {
     "item": "Watcher's Eye",
     "stats": "#% reduced effect of curses on you",
+    "average": 386.4,
+    "prices": [
+      241.5,
+      241.5,
+      241.5,
+      483,
+      724.5,
+      2173.5,
+      6037.5
+    ],
+    "search": {
+      "id": "kXj2d2Qh5",
+      "complexity": 18,
+      "total": 7
+    },
     "builds": 2,
     "mods": [
       {
