@@ -39658,6 +39658,13 @@
   {
     "item": "Cyclopean Coil",
     "stats": "#% increased strength, #% increased intelligence",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "PdDVQVghL",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 2,
     "mods": [
       {
@@ -39677,6 +39684,13 @@
   {
     "item": "Combat Focus",
     "stats": "#% increased reservation efficiency of skills",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "YVYakjRhY",
+      "complexity": 19,
+      "total": 0
+    },
     "builds": 2,
     "mods": [
       {
@@ -39691,6 +39705,19 @@
   {
     "item": "Mjölner",
     "stats": "#% increased attack speed",
+    "average": 200,
+    "prices": [
+      150,
+      200,
+      200,
+      200,
+      200
+    ],
+    "search": {
+      "id": "kXjE4KjF5",
+      "complexity": 19,
+      "total": 5
+    },
     "builds": 2,
     "mods": [
       {
