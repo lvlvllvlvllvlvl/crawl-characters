@@ -32143,6 +32143,17 @@
   {
     "item": "Carcass Jack",
     "stats": "+# to level of socketed gems",
+    "average": 9177.38,
+    "prices": [
+      1207.55,
+      9660.4,
+      16664.19
+    ],
+    "search": {
+      "id": "rXjKK8zSQ",
+      "complexity": 18,
+      "total": 3
+    },
     "builds": 2,
     "mods": [
       {
@@ -32156,6 +32167,17 @@
   {
     "item": "Carcass Jack",
     "stats": "+# to level of socketed duration gems",
+    "average": 5635.233333333334,
+    "prices": [
+      1207.55,
+      6037.75,
+      9660.4
+    ],
+    "search": {
+      "id": "0BXn8pQUg",
+      "complexity": 18,
+      "total": 3
+    },
     "builds": 2,
     "mods": [
       {
@@ -32182,6 +32204,15 @@
   {
     "item": "Winterweave",
     "stats": "wrath has #% increased aura effect",
+    "average": 2415,
+    "prices": [
+      2415
+    ],
+    "search": {
+      "id": "LmdzzwGIn",
+      "complexity": 18,
+      "total": 1
+    },
     "builds": 2,
     "mods": [
       {
@@ -32195,6 +32226,13 @@
   {
     "item": "Winterweave",
     "stats": "bleeding cannot be inflicted on you",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "9Y2449OCK",
+      "complexity": 18,
+      "total": 0
+    },
     "builds": 2,
     "mods": [
       {
