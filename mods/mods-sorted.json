@@ -30665,6 +30665,17 @@
   {
     "item": "String of Servitude",
     "stats": "zealotry has #% increased aura effect",
+    "average": 32.666666666666664,
+    "prices": [
+      8,
+      20,
+      70
+    ],
+    "search": {
+      "id": "qXjkkjlCg",
+      "complexity": 18,
+      "total": 3
+    },
     "builds": 2,
     "mods": [
       {
@@ -30678,6 +30689,13 @@
   {
     "item": "String of Servitude",
     "stats": "anger has #% increased aura effect, zealotry has #% increased aura effect",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "9ql4YRYuK",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 2,
     "mods": [
       {
@@ -30731,6 +30749,16 @@
   {
     "item": "Dawnbreaker",
     "stats": "#% increased maximum life",
+    "average": 845.18,
+    "prices": [
+      724.4399999999999,
+      965.92
+    ],
+    "search": {
+      "id": "eXJBaP4IL",
+      "complexity": 18,
+      "total": 2
+    },
     "builds": 2,
     "mods": [
       {
@@ -30744,6 +30772,15 @@
   {
     "item": "Dawnbreaker",
     "stats": "#% chance to block spell damage",
+    "average": 200,
+    "prices": [
+      200
+    ],
+    "search": {
+      "id": "RVBnvwqF7",
+      "complexity": 19,
+      "total": 1
+    },
     "builds": 2,
     "mods": [
       {
@@ -30758,6 +30795,15 @@
   {
     "item": "Dawnbreaker",
     "stats": "+#% chance to block",
+    "average": 160,
+    "prices": [
+      160
+    ],
+    "search": {
+      "id": "5okJQ8dia",
+      "complexity": 18,
+      "total": 1
+    },
     "builds": 2,
     "mods": [
       {
@@ -30771,6 +30817,18 @@
   {
     "item": "Dawnbreaker",
     "stats": "+# to level of socketed aoe gems",
+    "average": 724.4399999999999,
+    "prices": [
+      241.48,
+      724.4399999999999,
+      1207.3999999999999,
+      12074
+    ],
+    "search": {
+      "id": "DL802m2H5",
+      "complexity": 18,
+      "total": 4
+    },
     "builds": 2,
     "mods": [
       {
@@ -30784,6 +30842,18 @@
   {
     "item": "Dawnbreaker",
     "stats": "you take #% reduced extra damage from critical strikes",
+    "average": 1207.3999999999999,
+    "prices": [
+      1207.3999999999999,
+      1207.3999999999999,
+      1931.84,
+      54333
+    ],
+    "search": {
+      "id": "WVW02qVtm",
+      "complexity": 18,
+      "total": 4
+    },
     "builds": 2,
     "mods": [
       {
