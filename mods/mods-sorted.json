@@ -29405,6 +29405,15 @@
   {
     "item": "Vaal Caress",
     "stats": "#% increased maximum energy shield",
+    "average": 100,
+    "prices": [
+      100
+    ],
+    "search": {
+      "id": "JVdXY8bFl",
+      "complexity": 18,
+      "total": 1
+    },
     "builds": 2,
     "mods": [
       {
@@ -29418,6 +29427,15 @@
   {
     "item": "Matua Tupuna",
     "stats": "#% of physical damage from hits taken as chaos damage",
+    "average": 1931.92,
+    "prices": [
+      1931.92
+    ],
+    "search": {
+      "id": "3GwWyB5u5",
+      "complexity": 18,
+      "total": 1
+    },
     "builds": 2,
     "mods": [
       {
@@ -29431,6 +29449,13 @@
   {
     "item": "Matua Tupuna",
     "stats": "+# to level of socketed aoe gems, grants level # determination skill",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "Ey6DpzVI5",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 2,
     "mods": [
       {
@@ -29450,6 +29475,13 @@
   {
     "item": "Matua Tupuna",
     "stats": "+# to level of socketed duration gems, +# to level of socketed aura gems",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "WVWg29vfm",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 2,
     "mods": [
       {
@@ -29469,6 +29501,13 @@
   {
     "item": "Matua Tupuna",
     "stats": "+# to level of socketed aura gems, #% of physical damage from hits taken as lightning damage",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "Lmd6VzZin",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 2,
     "mods": [
       {
@@ -29488,6 +29527,13 @@
   {
     "item": "Matua Tupuna",
     "stats": "+# to level of socketed aura gems, +#% chance to block",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "VMEKlO8Tp",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 2,
     "mods": [
       {
@@ -29507,6 +29553,17 @@
   {
     "item": "Matua Tupuna",
     "stats": "+# to level of socketed minion gems",
+    "average": 320.99333333333334,
+    "prices": [
+      140,
+      340,
+      482.98
+    ],
+    "search": {
+      "id": "9ql3kg0IK",
+      "complexity": 18,
+      "total": 3
+    },
     "builds": 2,
     "mods": [
       {
