@@ -36257,6 +36257,15 @@
   {
     "item": "Dawnstrider",
     "stats": "+#% chance to suppress spell damage",
+    "average": 49,
+    "prices": [
+      49
+    ],
+    "search": {
+      "id": "3BrWeb9c5",
+      "complexity": 19,
+      "total": 1
+    },
     "builds": 2,
     "mods": [
       {
@@ -36271,6 +36280,15 @@
   {
     "item": "The Interrogation",
     "stats": "damage penetrates #% elemental resistances",
+    "average": 241.52,
+    "prices": [
+      241.52
+    ],
+    "search": {
+      "id": "8ad3BBvcV",
+      "complexity": 18,
+      "total": 1
+    },
     "builds": 2,
     "mods": [
       {
@@ -36284,6 +36302,13 @@
   {
     "item": "The Interrogation",
     "stats": "damage penetrates #% lightning resistance",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "qXjgZ39Cg",
+      "complexity": 18,
+      "total": 0
+    },
     "builds": 2,
     "mods": [
       {
@@ -36342,6 +36367,13 @@
   {
     "item": "Corpsewalker",
     "stats": "+# to level of socketed minion gems",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "YVqr27ksY",
+      "complexity": 18,
+      "total": 0
+    },
     "builds": 2,
     "mods": [
       {
@@ -36355,6 +36387,13 @@
   {
     "item": "Corpsewalker",
     "stats": "+# to level of socketed curse gems, +#% chance to suppress spell damage",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "3BrZeZdi5",
+      "complexity": 30,
+      "total": 0
+    },
     "builds": 2,
     "mods": [
       {
