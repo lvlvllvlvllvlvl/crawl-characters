@@ -39871,6 +39871,13 @@
   {
     "item": "Brutus' Lead Sprinkler",
     "stats": "#% increased attack speed, #% increased area of effect",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "eXWnWwbcL",
+      "complexity": 30,
+      "total": 0
+    },
     "builds": 2,
     "mods": [
       {
@@ -39891,6 +39898,13 @@
   {
     "item": "Dance of the Offered",
     "stats": "+# to level of socketed gems",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "GkdRWoWCb",
+      "complexity": 18,
+      "total": 0
+    },
     "builds": 2,
     "mods": [
       {
@@ -39930,6 +39944,17 @@
   {
     "item": "Mind of the Council",
     "stats": "+# to maximum power charges",
+    "average": 40,
+    "prices": [
+      30,
+      50,
+      2414.7
+    ],
+    "search": {
+      "id": "Ey6gq3VS5",
+      "complexity": 18,
+      "total": 3
+    },
     "builds": 2,
     "mods": [
       {
