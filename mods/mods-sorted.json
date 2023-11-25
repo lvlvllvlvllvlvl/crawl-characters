@@ -38121,6 +38121,16 @@
   {
     "item": "Lethal Pride",
     "stats": "#% increased reservation efficiency of skills",
+    "average": 362.31,
+    "prices": [
+      241.54,
+      483.08
+    ],
+    "search": {
+      "id": "MVD0n4RcJ",
+      "complexity": 19,
+      "total": 2
+    },
     "builds": 2,
     "mods": [
       {
@@ -38135,6 +38145,16 @@
   {
     "item": "Lethal Pride",
     "stats": "#% reduced poison duration on you",
+    "average": 170.76999999999998,
+    "prices": [
+      100,
+      241.54
+    ],
+    "search": {
+      "id": "RVyVa7WF7",
+      "complexity": 18,
+      "total": 2
+    },
     "builds": 2,
     "mods": [
       {
@@ -38148,6 +38168,15 @@
   {
     "item": "Lethal Pride",
     "stats": "#% reduced bleed duration on you",
+    "average": 483.08,
+    "prices": [
+      483.08
+    ],
+    "search": {
+      "id": "qXjkKqvfg",
+      "complexity": 18,
+      "total": 1
+    },
     "builds": 2,
     "mods": [
       {
@@ -38161,6 +38190,15 @@
   {
     "item": "Immutable Force",
     "stats": "minions deal #% increased damage",
+    "average": 1207.7,
+    "prices": [
+      1207.7
+    ],
+    "search": {
+      "id": "oXjmW0Yil",
+      "complexity": 18,
+      "total": 1
+    },
     "builds": 2,
     "mods": [
       {
@@ -38174,6 +38212,23 @@
   {
     "item": "Immortal Flesh",
     "stats": "hatred has #% increased aura effect",
+    "average": 265.7157142857142,
+    "prices": [
+      10,
+      40,
+      100,
+      140,
+      483.08,
+      483.08,
+      603.85,
+      966.16,
+      1207.7
+    ],
+    "search": {
+      "id": "kXjO826I5",
+      "complexity": 18,
+      "total": 9
+    },
     "builds": 2,
     "mods": [
       {
@@ -38187,6 +38242,24 @@
   {
     "item": "Immortal Flesh",
     "stats": "#% increased movement speed during any flask effect",
+    "average": 100,
+    "prices": [
+      80,
+      95,
+      100,
+      100,
+      100,
+      100,
+      150,
+      200,
+      241.54,
+      483.08
+    ],
+    "search": {
+      "id": "VMEVj0rUp",
+      "complexity": 18,
+      "total": 14
+    },
     "builds": 2,
     "mods": [
       {
@@ -38220,6 +38293,13 @@
   {
     "item": "Breath of the Council",
     "stats": "#% increased area of effect, #% chance to gain an endurance charge when you stun an enemy",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "7l56Qj2f5",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 2,
     "mods": [
       {
