@@ -36435,6 +36435,16 @@
   {
     "item": "Leash of Oblation",
     "stats": "zealotry has #% increased aura effect",
+    "average": 180.75,
+    "prices": [
+      120,
+      241.5
+    ],
+    "search": {
+      "id": "gXWvVggUQ",
+      "complexity": 18,
+      "total": 2
+    },
     "builds": 2,
     "mods": [
       {
@@ -36448,6 +36458,17 @@
   {
     "item": "Bisco's Leash",
     "stats": "#% increased movement speed during any flask effect",
+    "average": 294.8333333333333,
+    "prices": [
+      160,
+      241.5,
+      483
+    ],
+    "search": {
+      "id": "aqJZm5KFe",
+      "complexity": 18,
+      "total": 3
+    },
     "builds": 2,
     "mods": [
       {
@@ -36461,6 +36482,18 @@
   {
     "item": "Bisco's Leash",
     "stats": "+#% to all elemental resistances",
+    "average": 58.75,
+    "prices": [
+      10,
+      30,
+      95,
+      100
+    ],
+    "search": {
+      "id": "ZPQBmbYSQ",
+      "complexity": 18,
+      "total": 4
+    },
     "builds": 2,
     "mods": [
       {
@@ -36474,6 +36507,17 @@
   {
     "item": "Bisco's Leash",
     "stats": "pride has #% increased aura effect",
+    "average": 45,
+    "prices": [
+      30,
+      45,
+      45
+    ],
+    "search": {
+      "id": "lXj2b5nFV",
+      "complexity": 18,
+      "total": 3
+    },
     "builds": 2,
     "mods": [
       {
@@ -36487,6 +36531,13 @@
   {
     "item": "Darkray Vectors",
     "stats": "+# to level of socketed gems, +# to maximum endurance charges",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "8a2pJp8SV",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 2,
     "mods": [
       {
@@ -36544,6 +36595,13 @@
   {
     "item": "Darkray Vectors",
     "stats": "+# to level of socketed gems, +# to level of socketed aura gems",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "2BraO80Fk",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 2,
     "mods": [
       {
@@ -36563,6 +36621,13 @@
   {
     "item": "Darkray Vectors",
     "stats": "+#% chance to suppress spell damage, regenerate # life per second while moving",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "5okeOgeUa",
+      "complexity": 30,
+      "total": 0
+    },
     "builds": 2,
     "mods": [
       {
