@@ -36935,6 +36935,13 @@
   {
     "item": "Utula's Hunger",
     "stats": "+# to level of socketed duration gems, +# to level of socketed projectile gems",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "vlP807ZCE",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 2,
     "mods": [
       {
@@ -37000,6 +37007,13 @@
   {
     "item": "Kitava's Teachings",
     "stats": "corrupted blood cannot be inflicted on you",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "WVWnYZDum",
+      "complexity": 18,
+      "total": 0
+    },
     "builds": 2,
     "mods": [
       {
@@ -37013,6 +37027,15 @@
   {
     "item": "Maligaro's Virtuosity",
     "stats": "attacks have +#% to critical strike chance",
+    "average": 241.5,
+    "prices": [
+      241.5
+    ],
+    "search": {
+      "id": "eXKpoX6UL",
+      "complexity": 18,
+      "total": 1
+    },
     "builds": 2,
     "mods": [
       {
@@ -37026,6 +37049,15 @@
   {
     "item": "Doppelgänger Guise",
     "stats": "#% increased damage",
+    "average": 3622.5,
+    "prices": [
+      3622.5
+    ],
+    "search": {
+      "id": "oXjLbgkUl",
+      "complexity": 18,
+      "total": 1
+    },
     "builds": 2,
     "mods": [
       {
