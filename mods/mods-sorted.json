@@ -31761,6 +31761,13 @@
   {
     "item": "Rathpith Globe",
     "stats": "+#% chance to block",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "zeB4Pyvt4",
+      "complexity": 18,
+      "total": 0
+    },
     "builds": 2,
     "mods": [
       {
@@ -31816,6 +31823,13 @@
   {
     "item": "Rathpith Globe",
     "stats": "+# to level of socketed aura gems, #% increased maximum life",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "Zb50y7EfQ",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 2,
     "mods": [
       {
@@ -31835,6 +31849,13 @@
   {
     "item": "Rathpith Globe",
     "stats": "+# to level of socketed aoe gems, #% of physical damage from hits taken as cold damage",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "qXjkMvWTg",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 2,
     "mods": [
       {
@@ -31867,6 +31888,17 @@
   {
     "item": "Eye of Malice",
     "stats": "regenerate #% of life per second",
+    "average": 53.333333333333336,
+    "prices": [
+      10,
+      50,
+      100
+    ],
+    "search": {
+      "id": "LmdYYb5Fn",
+      "complexity": 18,
+      "total": 3
+    },
     "builds": 2,
     "mods": [
       {
@@ -31880,6 +31912,13 @@
   {
     "item": "Eye of Malice",
     "stats": "+# to level of socketed aoe gems, socketed skill gems get a #% cost & reservation multiplier",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "2BrEE5dik",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 2,
     "mods": [
       {
