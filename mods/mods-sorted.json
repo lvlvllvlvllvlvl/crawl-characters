@@ -32873,6 +32873,17 @@
   {
     "item": "Tabula Rasa",
     "stats": "#% increased damage",
+    "average": 241.49,
+    "prices": [
+      241.49,
+      241.49,
+      482.98
+    ],
+    "search": {
+      "id": "lXj2OynFV",
+      "complexity": 18,
+      "total": 3
+    },
     "builds": 2,
     "mods": [
       {
@@ -32886,6 +32897,15 @@
   {
     "item": "Tabula Rasa",
     "stats": "+# to level of socketed aoe gems",
+    "average": 200,
+    "prices": [
+      200
+    ],
+    "search": {
+      "id": "oXjLOwkUl",
+      "complexity": 18,
+      "total": 1
+    },
     "builds": 2,
     "mods": [
       {
@@ -32899,6 +32919,16 @@
   {
     "item": "Tabula Rasa",
     "stats": "you take #% reduced extra damage from critical strikes",
+    "average": 145.745,
+    "prices": [
+      50,
+      241.49
+    ],
+    "search": {
+      "id": "vlPRO0WSE",
+      "complexity": 18,
+      "total": 2
+    },
     "builds": 2,
     "mods": [
       {
@@ -32912,6 +32942,15 @@
   {
     "item": "Blunderbore",
     "stats": "+# to level of socketed aoe gems, +#% to all maximum resistances",
+    "average": 4829.8,
+    "prices": [
+      4829.8
+    ],
+    "search": {
+      "id": "ZbZ76W9SQ",
+      "complexity": 29,
+      "total": 1
+    },
     "builds": 2,
     "mods": [
       {
@@ -32969,6 +33008,13 @@
   {
     "item": "Blunderbore",
     "stats": "+# to level of socketed aoe gems, +# to level of socketed warcry gems",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "kXj8dj5I5",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 2,
     "mods": [
       {
@@ -32988,6 +33034,13 @@
   {
     "item": "Blunderbore",
     "stats": "+# to level of socketed projectile gems, +# to level of socketed trap or mine gems",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "gXWKbWOcQ",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 2,
     "mods": [
       {
