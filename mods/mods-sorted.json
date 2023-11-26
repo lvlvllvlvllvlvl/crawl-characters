@@ -43521,6 +43521,22 @@
   {
     "item": "Heatshiver",
     "stats": "+# to level of socketed cold gems",
+    "average": 2725.4500000000003,
+    "prices": [
+      20,
+      45,
+      724.62,
+      1690.78,
+      2415.4,
+      2415.4,
+      7246.2,
+      7246.2
+    ],
+    "search": {
+      "id": "rXjv65gCQ",
+      "complexity": 18,
+      "total": 8
+    },
     "builds": 1,
     "mods": [
       {
@@ -43534,6 +43550,13 @@
   {
     "item": "Heatshiver",
     "stats": "socketed skill gems get a #% cost & reservation multiplier, #% increased effect of cold ailments",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "y9R8oJGsR",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
