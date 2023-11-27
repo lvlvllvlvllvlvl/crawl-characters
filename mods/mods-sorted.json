@@ -59745,6 +59745,13 @@
   {
     "item": "Malachai's Loop",
     "stats": "you take #% reduced extra damage from critical strikes, #% of physical damage from hits taken as chaos damage",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "JVyJElaIl",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -59764,6 +59771,13 @@
   {
     "item": "Malachai's Loop",
     "stats": "+# to level of socketed duration gems, #% chance to block spell damage",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "WVyjRWKfm",
+      "complexity": 30,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -59784,6 +59798,17 @@
   {
     "item": "Malachai's Loop",
     "stats": "#% increased maximum life",
+    "average": 242.52,
+    "prices": [
+      22,
+      242.52,
+      242.52
+    ],
+    "search": {
+      "id": "DL4kVevS5",
+      "complexity": 18,
+      "total": 3
+    },
     "builds": 1,
     "mods": [
       {
@@ -59797,6 +59822,17 @@
   {
     "item": "Malachai's Loop",
     "stats": "+#% chance to block",
+    "average": 11,
+    "prices": [
+      2,
+      20,
+      1455.1200000000001
+    ],
+    "search": {
+      "id": "GkmwRE8cb",
+      "complexity": 18,
+      "total": 3
+    },
     "builds": 1,
     "mods": [
       {
