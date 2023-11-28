@@ -67434,6 +67434,13 @@
   {
     "item": "Thread of Hope",
     "stats": "#% reduced effect of curses on you, overwhelm #% physical damage reduction",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "9YDw2RQUK",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -67453,6 +67460,13 @@
   {
     "item": "Thread of Hope",
     "stats": "#% increased damage, overwhelm #% physical damage reduction",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "RVyjd64F7",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -67472,6 +67486,13 @@
   {
     "item": "Thread of Hope",
     "stats": "#% reduced effect of curses on you, #% reduced bleed duration on you",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "bXLbYlDCL",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -67491,6 +67512,18 @@
   {
     "item": "Thread of Hope",
     "stats": "#% reduced ignite duration on you",
+    "average": 242.92,
+    "prices": [
+      180,
+      242.92,
+      242.92,
+      728.76
+    ],
+    "search": {
+      "id": "jXJaGbLTX",
+      "complexity": 18,
+      "total": 4
+    },
     "builds": 1,
     "mods": [
       {
@@ -67504,6 +67537,18 @@
   {
     "item": "Thread of Hope",
     "stats": "damage penetrates #% fire resistance",
+    "average": 165.97333333333333,
+    "prices": [
+      75,
+      180,
+      242.92,
+      8502.199999999999
+    ],
+    "search": {
+      "id": "JVywqvvcl",
+      "complexity": 18,
+      "total": 4
+    },
     "builds": 1,
     "mods": [
       {
