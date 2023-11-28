@@ -71210,6 +71210,15 @@
   {
     "item": "Replica Dragonfang's Flight",
     "stats": "#% increased elemental damage with attack skills",
+    "average": 88,
+    "prices": [
+      88
+    ],
+    "search": {
+      "id": "bPJeznXfL",
+      "complexity": 18,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -71223,6 +71232,13 @@
   {
     "item": "Replica Dragonfang's Flight",
     "stats": "#% chance to block attack damage, #% chance to block spell damage",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "EybBKBBC5",
+      "complexity": 30,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -71243,6 +71259,16 @@
   {
     "item": "Replica Dragonfang's Flight",
     "stats": "#% increased attack speed",
+    "average": 242.93,
+    "prices": [
+      242.93,
+      242.93
+    ],
+    "search": {
+      "id": "3GyKWlPi5",
+      "complexity": 19,
+      "total": 2
+    },
     "builds": 1,
     "mods": [
       {
@@ -71276,6 +71302,18 @@
   {
     "item": "Rearguard",
     "stats": "gain #% of physical damage as extra fire damage",
+    "average": 56.673333333333325,
+    "prices": [
+      40.019999999999996,
+      50,
+      80,
+      242.93
+    ],
+    "search": {
+      "id": "0BzB84dIg",
+      "complexity": 18,
+      "total": 4
+    },
     "builds": 1,
     "mods": [
       {
