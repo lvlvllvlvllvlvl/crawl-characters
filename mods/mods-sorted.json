@@ -66287,6 +66287,13 @@
   {
     "item": "String of Servitude",
     "stats": "#% increased dexterity, #% increased intelligence, malevolence has #% increased aura effect",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "XqaEpdduP",
+      "complexity": 20,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -66312,6 +66319,13 @@
   {
     "item": "String of Servitude",
     "stats": "#% increased maximum energy shield, wrath has #% increased aura effect",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "Eydkp94f5",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -66331,6 +66345,24 @@
   {
     "item": "String of Servitude",
     "stats": "#% increased strength, #% increased dexterity",
+    "average": 58.5,
+    "prices": [
+      40,
+      40,
+      50,
+      50,
+      50,
+      55,
+      60,
+      80,
+      80,
+      80
+    ],
+    "search": {
+      "id": "Qr6zDVMfw",
+      "complexity": 29,
+      "total": 28
+    },
     "builds": 1,
     "mods": [
       {
@@ -66350,6 +66382,24 @@
   {
     "item": "String of Servitude",
     "stats": "#% increased strength, #% increased intelligence",
+    "average": 56.111111111111114,
+    "prices": [
+      40,
+      40,
+      50,
+      50,
+      50,
+      55,
+      60,
+      80,
+      80,
+      100
+    ],
+    "search": {
+      "id": "oXjyW9ZUl",
+      "complexity": 29,
+      "total": 15
+    },
     "builds": 1,
     "mods": [
       {
