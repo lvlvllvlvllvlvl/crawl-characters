@@ -74114,6 +74114,16 @@
   {
     "item": "Tabula Rasa",
     "stats": "#% increased maximum energy shield",
+    "average": 100,
+    "prices": [
+      100,
+      100
+    ],
+    "search": {
+      "id": "WVyM9eVum",
+      "complexity": 18,
+      "total": 2
+    },
     "builds": 1,
     "mods": [
       {
@@ -74127,6 +74137,16 @@
   {
     "item": "Tabula Rasa",
     "stats": "+# to level of socketed aura gems",
+    "average": 90,
+    "prices": [
+      80,
+      100
+    ],
+    "search": {
+      "id": "Lm2XnM7tn",
+      "complexity": 18,
+      "total": 2
+    },
     "builds": 1,
     "mods": [
       {
@@ -74140,6 +74160,16 @@
   {
     "item": "Tabula Rasa",
     "stats": "+# to level of socketed curse gems",
+    "average": 342.97,
+    "prices": [
+      200,
+      485.94
+    ],
+    "search": {
+      "id": "eXJvlawFL",
+      "complexity": 18,
+      "total": 2
+    },
     "builds": 1,
     "mods": [
       {
@@ -74153,6 +74183,19 @@
   {
     "item": "Tabula Rasa",
     "stats": "+# to level of socketed gems",
+    "average": 631.722,
+    "prices": [
+      485.94,
+      485.94,
+      728.91,
+      728.91,
+      728.91
+    ],
+    "search": {
+      "id": "KJBXejMh5",
+      "complexity": 18,
+      "total": 5
+    },
     "builds": 1,
     "mods": [
       {
@@ -74166,6 +74209,13 @@
   {
     "item": "Tabula Rasa",
     "stats": "+# to level of socketed projectile gems, +# to level of socketed aura gems",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "0Bz7dYbFg",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -74198,6 +74248,21 @@
   {
     "item": "Tabula Rasa",
     "stats": "+# to level of socketed minion gems",
+    "average": 168.985,
+    "prices": [
+      45,
+      90,
+      150,
+      242.97,
+      242.97,
+      242.97,
+      971.88
+    ],
+    "search": {
+      "id": "2B9kpO5sk",
+      "complexity": 18,
+      "total": 7
+    },
     "builds": 1,
     "mods": [
       {
@@ -74211,6 +74276,13 @@
   {
     "item": "Tabula Rasa",
     "stats": "+# to level of socketed duration gems, +# to level of socketed trap or mine gems",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "YVodbm6hY",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
