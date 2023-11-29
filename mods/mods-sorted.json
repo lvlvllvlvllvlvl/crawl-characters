@@ -74235,6 +74235,19 @@
   {
     "item": "Tabula Rasa",
     "stats": "+# to level of socketed duration gems",
+    "average": 50,
+    "prices": [
+      50,
+      50,
+      100,
+      242.97,
+      121485
+    ],
+    "search": {
+      "id": "VMgXY92sp",
+      "complexity": 18,
+      "total": 5
+    },
     "builds": 1,
     "mods": [
       {
@@ -74302,6 +74315,13 @@
   {
     "item": "Blunderbore",
     "stats": "+# to level of socketed aoe gems, #% reduced chaos damage taken",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "bXLw7VOfL",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -74321,6 +74341,13 @@
   {
     "item": "Blunderbore",
     "stats": "+#% to all maximum resistances, #% additional physical damage reduction while stationary",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "zeoyb80I4",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
