@@ -89530,6 +89530,13 @@
   {
     "item": "Ancient Skull",
     "stats": "socketed skill gems get a #% cost & reservation multiplier, cannot be blinded",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "2BrZDyYIk",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -89690,6 +89697,13 @@
   {
     "item": "Soulthirst",
     "stats": "grace has #% increased aura effect, +#% to critical strike multiplier during any flask effect",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "bXpkaeauL",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -89709,6 +89723,15 @@
   {
     "item": "Soulthirst",
     "stats": "+#% to all elemental resistances",
+    "average": 1726.0600000000002,
+    "prices": [
+      1726.0600000000002
+    ],
+    "search": {
+      "id": "9YDdmzzHK",
+      "complexity": 18,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -89722,6 +89745,16 @@
   {
     "item": "Soulthirst",
     "stats": "#% increased maximum life",
+    "average": 739.74,
+    "prices": [
+      246.58,
+      1232.9
+    ],
+    "search": {
+      "id": "KJBY0lnF5",
+      "complexity": 18,
+      "total": 2
+    },
     "builds": 1,
     "mods": [
       {
