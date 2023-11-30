@@ -89665,6 +89665,15 @@
   {
     "item": "Soulthirst",
     "stats": "grace has #% increased aura effect",
+    "average": 150,
+    "prices": [
+      150
+    ],
+    "search": {
+      "id": "ZbZK0e7tQ",
+      "complexity": 18,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -89678,6 +89687,13 @@
   {
     "item": "Soulthirst",
     "stats": "#% increased maximum life, #% increased movement speed during any flask effect",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "VMglwaotp",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -89768,6 +89784,15 @@
   {
     "item": "Soulthirst",
     "stats": "+#% to critical strike multiplier during any flask effect",
+    "average": 369.855,
+    "prices": [
+      369.855
+    ],
+    "search": {
+      "id": "JVyE6O9cl",
+      "complexity": 18,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -89781,6 +89806,13 @@
   {
     "item": "Soulthirst",
     "stats": "#% increased strength, #% increased intelligence, #% increased maximum life",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "7lKZvpnC5",
+      "complexity": 20,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -89840,6 +89872,16 @@
   {
     "item": "Frostbreath",
     "stats": "#% increased area of effect",
+    "average": 369.855,
+    "prices": [
+      246.57,
+      493.14
+    ],
+    "search": {
+      "id": "Pd8vmdDiL",
+      "complexity": 18,
+      "total": 2
+    },
     "builds": 1,
     "mods": [
       {
