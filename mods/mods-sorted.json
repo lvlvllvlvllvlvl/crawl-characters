@@ -112133,6 +112133,15 @@
   {
     "item": "Tasalio's Sign",
     "stats": "bleeding cannot be inflicted on you",
+    "average": 99,
+    "prices": [
+      99
+    ],
+    "search": {
+      "id": "7lO8kGlu5",
+      "complexity": 18,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -112146,6 +112155,15 @@
   {
     "item": "Tasalio's Sign",
     "stats": "#% increased dexterity, #% increased intelligence",
+    "average": 50,
+    "prices": [
+      50
+    ],
+    "search": {
+      "id": "Gkbv0YDIb",
+      "complexity": 29,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -112188,6 +112206,13 @@
   {
     "item": "Dead Reckoning",
     "stats": "#% reduced effect of chill on you",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "6Zp7kl2sG",
+      "complexity": 18,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -112201,6 +112226,13 @@
   {
     "item": "Dead Reckoning",
     "stats": "damage penetrates #% cold resistance",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "JVy0dROIl",
+      "complexity": 18,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -112214,6 +112246,13 @@
   {
     "item": "Dead Reckoning",
     "stats": "you cannot be hindered",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "dX49lwvUJ",
+      "complexity": 18,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -112227,6 +112266,13 @@
   {
     "item": "Dead Reckoning",
     "stats": "minions deal #% increased damage",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "nXJL2ZVH0",
+      "complexity": 18,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
