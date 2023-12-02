@@ -110522,6 +110522,13 @@
   {
     "item": "Wake of Destruction",
     "stats": "+# to level of socketed gems, +# to level of socketed aura gems",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "y9eBmQWhR",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -110541,6 +110548,17 @@
   {
     "item": "Ventor's Gamble",
     "stats": "malevolence has #% increased aura effect",
+    "average": 250,
+    "prices": [
+      120,
+      250,
+      250
+    ],
+    "search": {
+      "id": "9YXdlRYhK",
+      "complexity": 18,
+      "total": 3
+    },
     "builds": 1,
     "mods": [
       {
@@ -110554,6 +110572,13 @@
   {
     "item": "Ventor's Gamble",
     "stats": "#% increased strength, #% increased dexterity, bleeding cannot be inflicted on you",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "rXw2Pw4HQ",
+      "complexity": 20,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -110605,6 +110630,16 @@
   {
     "item": "Ventor's Gamble",
     "stats": "bleeding cannot be inflicted on you",
+    "average": 1375,
+    "prices": [
+      250,
+      2500
+    ],
+    "search": {
+      "id": "YVg902DIY",
+      "complexity": 18,
+      "total": 2
+    },
     "builds": 1,
     "mods": [
       {
@@ -110618,6 +110653,16 @@
   {
     "item": "Ventor's Gamble",
     "stats": "adds # to # lightning damage to spells and attacks",
+    "average": 250.37,
+    "prices": [
+      250.37,
+      250.37
+    ],
+    "search": {
+      "id": "eXKGYDwFL",
+      "complexity": 18,
+      "total": 2
+    },
     "builds": 1,
     "mods": [
       {
