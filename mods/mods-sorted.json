@@ -108088,6 +108088,17 @@
   {
     "item": "The Restless Ward",
     "stats": "+# to level of socketed duration gems",
+    "average": 500,
+    "prices": [
+      500,
+      500,
+      2250
+    ],
+    "search": {
+      "id": "YVgboBXcY",
+      "complexity": 18,
+      "total": 3
+    },
     "builds": 1,
     "mods": [
       {
@@ -108163,6 +108174,15 @@
   {
     "item": "Thief's Torment",
     "stats": "adds # to # cold damage to spells and attacks",
+    "average": 100,
+    "prices": [
+      100
+    ],
+    "search": {
+      "id": "WV86eWRCm",
+      "complexity": 18,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -108214,6 +108234,13 @@
   {
     "item": "Stranglegasp",
     "stats": "grace has #% increased aura effect",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "QVRRLavtw",
+      "complexity": 18,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
