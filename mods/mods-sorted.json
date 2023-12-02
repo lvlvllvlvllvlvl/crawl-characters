@@ -110386,6 +110386,13 @@
   {
     "item": "Machina Mitts",
     "stats": "+# to level of socketed minion gems",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "lXJW25wUV",
+      "complexity": 18,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -110418,6 +110425,15 @@
   {
     "item": "Timeclasp",
     "stats": "#% increased strength, #% increased intelligence",
+    "average": 2500,
+    "prices": [
+      2500
+    ],
+    "search": {
+      "id": "DLbmjPdC5",
+      "complexity": 29,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -110437,6 +110453,13 @@
   {
     "item": "Timeclasp",
     "stats": "#% increased strength, #% increased intelligence, discipline has #% increased aura effect",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "WV8qZGZCm",
+      "complexity": 20,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -110462,6 +110485,17 @@
   {
     "item": "Timeclasp",
     "stats": "#% increased strength, #% increased dexterity",
+    "average": 70,
+    "prices": [
+      50,
+      90,
+      2500
+    ],
+    "search": {
+      "id": "kX47375I5",
+      "complexity": 29,
+      "total": 3
+    },
     "builds": 1,
     "mods": [
       {
