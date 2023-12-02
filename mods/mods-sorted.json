@@ -114116,6 +114116,13 @@
   {
     "item": "Kalandra's Touch",
     "stats": "#% increased dexterity, #% increased intelligence",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "KJBkPXDc5",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -114213,6 +114220,16 @@
   {
     "item": "Mjölner",
     "stats": "#% chance to gain onslaught for # seconds on kill",
+    "average": 434.78000000000003,
+    "prices": [
+      115,
+      754.5600000000001
+    ],
+    "search": {
+      "id": "rXmGqBrfQ",
+      "complexity": 18,
+      "total": 2
+    },
     "builds": 1,
     "mods": [
       {
@@ -114226,6 +114243,13 @@
   {
     "item": "Mjölner",
     "stats": "#% increased attack speed, #% chance to gain onslaught for # seconds on kill",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "eXJGV5wUL",
+      "complexity": 30,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -114246,6 +114270,16 @@
   {
     "item": "Mjölner",
     "stats": "#% increased area of effect",
+    "average": 754.5600000000001,
+    "prices": [
+      251.52,
+      1257.6000000000001
+    ],
+    "search": {
+      "id": "0BanD3wUg",
+      "complexity": 18,
+      "total": 2
+    },
     "builds": 1,
     "mods": [
       {
