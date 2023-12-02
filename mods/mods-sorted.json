@@ -108040,6 +108040,15 @@
   {
     "item": "Shavronne's Revelation",
     "stats": "adds # to # cold damage to spells and attacks",
+    "average": 750,
+    "prices": [
+      750
+    ],
+    "search": {
+      "id": "7lOZeoBu5",
+      "complexity": 18,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -108053,6 +108062,13 @@
   {
     "item": "Shavronne's Revelation",
     "stats": "#% increased cast speed, +#% to all elemental resistances",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "EyboXZRi5",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -108085,6 +108101,16 @@
   {
     "item": "The Restless Ward",
     "stats": "#% reduced chaos damage taken",
+    "average": 1375,
+    "prices": [
+      500,
+      2250
+    ],
+    "search": {
+      "id": "pX4rEoef0",
+      "complexity": 18,
+      "total": 2
+    },
     "builds": 1,
     "mods": [
       {
@@ -108098,6 +108124,13 @@
   {
     "item": "The Restless Ward",
     "stats": "+# to level of socketed duration gems, +# to level of socketed aoe gems",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "eXKlJ6nFL",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
