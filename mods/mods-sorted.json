@@ -117840,6 +117840,13 @@
   {
     "item": "Fenumus' Toxins",
     "stats": "#% increased effect of cold ailments",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "ZbJgZr6SQ",
+      "complexity": 18,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -117853,6 +117860,15 @@
   {
     "item": "Ichimonji",
     "stats": "melee hits have #% chance to fortify",
+    "average": 251.55,
+    "prices": [
+      251.55
+    ],
+    "search": {
+      "id": "y9eV62WiR",
+      "complexity": 18,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -117866,6 +117882,13 @@
   {
     "item": "Ichimonji",
     "stats": "#% increased area of effect, resolute technique",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "5o52J0KIa",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -117885,6 +117908,18 @@
   {
     "item": "Ichimonji",
     "stats": "#% chance to gain onslaught for # seconds on kill",
+    "average": 112.18333333333334,
+    "prices": [
+      20,
+      65,
+      251.55,
+      8301.15
+    ],
+    "search": {
+      "id": "DLbK0qwT5",
+      "complexity": 18,
+      "total": 4
+    },
     "builds": 1,
     "mods": [
       {
@@ -117898,6 +117933,13 @@
   {
     "item": "Shadowstitch",
     "stats": "+# to level of socketed duration gems, +# to level of socketed projectile gems",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "8aPzJMqcV",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
