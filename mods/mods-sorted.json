@@ -123462,6 +123462,17 @@
   {
     "item": "Snakepit",
     "stats": "#% increased dexterity, #% increased intelligence",
+    "average": 120,
+    "prices": [
+      120,
+      120,
+      253.6
+    ],
+    "search": {
+      "id": "jX48kpltX",
+      "complexity": 29,
+      "total": 3
+    },
     "builds": 1,
     "mods": [
       {
@@ -123481,6 +123492,13 @@
   {
     "item": "Warped Timepiece",
     "stats": "#% increased movement speed, malevolence has #% increased aura effect",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "waYkZYKUb",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -123500,6 +123518,13 @@
   {
     "item": "Warped Timepiece",
     "stats": "grants level # purity of lightning skill, #% increased movement speed",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "nX4Gd4Mt0",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -123519,6 +123544,15 @@
   {
     "item": "Tempered Spirit",
     "stats": "corrupted blood cannot be inflicted on you",
+    "average": 253.6,
+    "prices": [
+      253.6
+    ],
+    "search": {
+      "id": "vlaw9dLHE",
+      "complexity": 18,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -123532,6 +123566,13 @@
   {
     "item": "Memory Vault",
     "stats": "#% of lightning damage leeched as life",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "QVbP85RTw",
+      "complexity": 19,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
