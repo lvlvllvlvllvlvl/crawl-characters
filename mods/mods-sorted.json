@@ -119821,6 +119821,15 @@
   {
     "item": "Clayshaper",
     "stats": "adds # to # physical damage",
+    "average": 200,
+    "prices": [
+      200
+    ],
+    "search": {
+      "id": "kX4VV80c5",
+      "complexity": 18,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -119887,6 +119896,13 @@
   {
     "item": "Razor of the Seventh Sun",
     "stats": "#% increased physical damage, adds # to # physical damage",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "KJbpX2Mc5",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -119906,6 +119922,13 @@
   {
     "item": "The Warden's Brand",
     "stats": "adds # to # lightning damage to spells and attacks, hatred has #% increased aura effect",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "VMQnw68Tp",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -119925,6 +119948,24 @@
   {
     "item": "Rigwald's Curse",
     "stats": "+#% to global critical strike multiplier",
+    "average": 7.7,
+    "prices": [
+      1,
+      1,
+      1,
+      1,
+      2,
+      5,
+      10,
+      16,
+      20,
+      20
+    ],
+    "search": {
+      "id": "7lOXvb7T5",
+      "complexity": 18,
+      "total": 17
+    },
     "builds": 1,
     "mods": [
       {
@@ -119938,6 +119979,13 @@
   {
     "item": "The Red Trail",
     "stats": "#% increased maximum life",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "QVb3LDpSw",
+      "complexity": 18,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -119951,6 +119999,13 @@
   {
     "item": "The Red Trail",
     "stats": "+# to maximum endurance charges",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "dXpk8YvUJ",
+      "complexity": 18,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -119983,6 +120038,13 @@
   {
     "item": "Magna Eclipsis",
     "stats": "+# to level of socketed gems, +# to level of socketed projectile gems",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "mX4G5pMt6",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
