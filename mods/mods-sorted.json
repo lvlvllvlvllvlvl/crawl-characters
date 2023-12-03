@@ -119582,6 +119582,15 @@
   {
     "item": "Bisco's Collar",
     "stats": "you can apply an additional curse",
+    "average": 2525.2000000000003,
+    "prices": [
+      2525.2000000000003
+    ],
+    "search": {
+      "id": "9YDeKmysK",
+      "complexity": 18,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -119595,6 +119604,24 @@
   {
     "item": "Bisco's Collar",
     "stats": "#% increased rarity of items found",
+    "average": 1.7777777777777777,
+    "prices": [
+      1,
+      1,
+      1,
+      1,
+      2,
+      2,
+      2,
+      3,
+      3,
+      4
+    ],
+    "search": {
+      "id": "8ad9p42UV",
+      "complexity": 18,
+      "total": 64
+    },
     "builds": 1,
     "mods": [
       {
@@ -119634,6 +119661,13 @@
   {
     "item": "Sunblast",
     "stats": "#% increased strength, #% increased intelligence, #% increased movement speed during any flask effect",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "zev08Mgs4",
+      "complexity": 20,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
