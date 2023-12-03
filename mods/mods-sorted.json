@@ -121309,6 +121309,18 @@
   {
     "item": "Karui Ward",
     "stats": "#% increased dexterity, #% increased intelligence",
+    "average": 48.75,
+    "prices": [
+      20,
+      50,
+      50,
+      75
+    ],
+    "search": {
+      "id": "XqQBj4dSP",
+      "complexity": 29,
+      "total": 4
+    },
     "builds": 1,
     "mods": [
       {
@@ -121328,6 +121340,13 @@
   {
     "item": "Ashrend",
     "stats": "+# to level of socketed aoe gems, +# to level of socketed trap or mine gems",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "YVgvVVXsY",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -121380,6 +121399,13 @@
   {
     "item": "Rakiata's Dance",
     "stats": "socketed gems are supported by level # fortify, #% increased area of effect",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "EybrkkKT5",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
