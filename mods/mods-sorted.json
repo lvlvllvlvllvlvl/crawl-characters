@@ -122022,6 +122022,13 @@
   {
     "item": "Cane of Kulemak",
     "stats": "adds # to # fire damage, #% increased critical strike chance",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "aqepVqkUe",
+      "complexity": 30,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -122042,6 +122049,16 @@
   {
     "item": "Nomic's Storm",
     "stats": "+#% chance to suppress spell damage",
+    "average": 1278.9,
+    "prices": [
+      30,
+      2527.8
+    ],
+    "search": {
+      "id": "gXjV3q7hQ",
+      "complexity": 19,
+      "total": 2
+    },
     "builds": 1,
     "mods": [
       {
@@ -122056,6 +122073,18 @@
   {
     "item": "The Broken Crown",
     "stats": "+# to maximum power charges",
+    "average": 252.78,
+    "prices": [
+      200,
+      252.78,
+      252.78,
+      1011.12
+    ],
+    "search": {
+      "id": "kX4eaQQi5",
+      "complexity": 18,
+      "total": 4
+    },
     "builds": 1,
     "mods": [
       {
@@ -122069,6 +122098,16 @@
   {
     "item": "The Broken Crown",
     "stats": "socketed skill gems get a #% cost & reservation multiplier",
+    "average": 641.95,
+    "prices": [
+      20,
+      1263.9
+    ],
+    "search": {
+      "id": "RVbpzZRi7",
+      "complexity": 18,
+      "total": 2
+    },
     "builds": 1,
     "mods": [
       {
@@ -122082,6 +122121,16 @@
   {
     "item": "Chain of Endurance",
     "stats": "#% increased critical strike chance during any flask effect",
+    "average": 262.78,
+    "prices": [
+      20,
+      505.56
+    ],
+    "search": {
+      "id": "WV8OX2Ztm",
+      "complexity": 18,
+      "total": 2
+    },
     "builds": 1,
     "mods": [
       {
