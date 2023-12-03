@@ -123100,6 +123100,13 @@
   {
     "item": "Belt of the Deceiver",
     "stats": "determination has #% increased aura effect, pride has #% increased aura effect",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "rXwPpbzSQ",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -123119,6 +123126,15 @@
   {
     "item": "Belt of the Deceiver",
     "stats": "discipline has #% increased aura effect",
+    "average": 80,
+    "prices": [
+      80
+    ],
+    "search": {
+      "id": "2B5Ka4jhk",
+      "complexity": 18,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -123132,6 +123148,15 @@
   {
     "item": "Ascent From Flesh",
     "stats": "grace has #% increased aura effect",
+    "average": 507.22,
+    "prices": [
+      507.22
+    ],
+    "search": {
+      "id": "PdyBJeMiL",
+      "complexity": 18,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -123145,6 +123170,13 @@
   {
     "item": "Ascent From Flesh",
     "stats": "#% increased movement speed during any flask effect",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "GkmEngDib",
+      "complexity": 18,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -123158,6 +123190,17 @@
   {
     "item": "Ascent From Flesh",
     "stats": "wrath has #% increased aura effect",
+    "average": 192.40666666666667,
+    "prices": [
+      10,
+      60,
+      507.22
+    ],
+    "search": {
+      "id": "vljWa7DSE",
+      "complexity": 18,
+      "total": 3
+    },
     "builds": 1,
     "mods": [
       {
