@@ -1195,6 +1195,24 @@
   {
     "item": "Hrimsorrow",
     "stats": "+# to maximum frenzy charges",
+    "average": 82.49600000000001,
+    "prices": [
+      50,
+      65,
+      65,
+      65,
+      70,
+      100,
+      102.49,
+      102.49,
+      102.49,
+      102.49
+    ],
+    "search": {
+      "id": "XqDE6QRuP",
+      "complexity": 18,
+      "total": 16
+    },
     "builds": 1,
     "mods": [
       {
@@ -1208,6 +1226,24 @@
   {
     "item": "Hrimsorrow",
     "stats": "#% increased maximum life",
+    "average": 3,
+    "prices": [
+      1,
+      2,
+      2,
+      3,
+      3,
+      3,
+      3,
+      4,
+      4,
+      5
+    ],
+    "search": {
+      "id": "jPp7k4XuX",
+      "complexity": 18,
+      "total": 19
+    },
     "builds": 1,
     "mods": [
       {
@@ -1272,8 +1308,71 @@
     ]
   },
   {
+    "item": "Inspired Learning",
+    "stats": "#% reduced effect of curses on you",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "#% reduced effect of curses on you",
+        "trade_ids": [
+          "implicit.stat_3407849389"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Inspired Learning",
+    "stats": "#% reduced bleed duration on you",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "#% reduced bleed duration on you",
+        "trade_ids": [
+          "implicit.stat_1692879867"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Inspired Learning",
+    "stats": "you cannot be maimed",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "you cannot be maimed",
+        "trade_ids": [
+          "implicit.stat_1126826428"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Inspired Learning",
+    "stats": "#% reduced poison duration on you",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "#% reduced poison duration on you",
+        "trade_ids": [
+          "implicit.stat_3301100256"
+        ]
+      }
+    ]
+  },
+  {
     "item": "Bated Breath",
     "stats": "zealotry has #% increased aura effect",
+    "average": 31.666666666666668,
+    "prices": [
+      20,
+      25,
+      50
+    ],
+    "search": {
+      "id": "gXDl2naFQ",
+      "complexity": 18,
+      "total": 3
+    },
     "builds": 1,
     "mods": [
       {
@@ -1287,6 +1386,13 @@
   {
     "item": "Bated Breath",
     "stats": "#% increased dexterity, #% increased intelligence, #% increased maximum energy shield",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "7lKm9nlu5",
+      "complexity": 20,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -1357,6 +1463,13 @@
   {
     "item": "Heatshiver",
     "stats": "+# to level of socketed duration gems, +# to level of socketed aoe gems",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "MvRLBlGcJ",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -1400,40 +1513,14 @@
     ]
   },
   {
-    "item": "String of Servitude",
-    "stats": "discipline has #% increased aura effect",
+    "item": "Sadima's Touch",
+    "stats": "curse enemies with despair on hit",
     "builds": 1,
     "mods": [
       {
-        "text": "discipline has #% increased aura effect",
+        "text": "curse enemies with despair on hit",
         "trade_ids": [
-          "implicit.stat_788317702"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Sentari's Answer",
-    "stats": "#% of physical damage from hits taken as fire damage",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "#% of physical damage from hits taken as fire damage",
-        "trade_ids": [
-          "implicit.stat_3342989455"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Bisco's Leash",
-    "stats": "#% increased rarity of items found",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "#% increased rarity of items found",
-        "trade_ids": [
-          "implicit.stat_3917489142"
+          "implicit.stat_2764915899"
         ]
       }
     ]
@@ -1473,6 +1560,77 @@
         "text": "attacks have +#% to critical strike chance",
         "trade_ids": [
           "implicit.stat_2572042788"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Hyrri's Ire",
+    "stats": "+# to level of socketed minion gems",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "+# to level of socketed minion gems",
+        "trade_ids": [
+          "implicit.stat_3604946673"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Hyrri's Ire",
+    "stats": "+# to level of socketed gems, +# to level of socketed projectile gems",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "+# to level of socketed gems",
+        "trade_ids": [
+          "implicit.stat_2843100721"
+        ]
+      },
+      {
+        "text": "+# to level of socketed projectile gems",
+        "trade_ids": [
+          "implicit.stat_2176571093"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "String of Servitude",
+    "stats": "discipline has #% increased aura effect",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "discipline has #% increased aura effect",
+        "trade_ids": [
+          "implicit.stat_788317702"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Sentari's Answer",
+    "stats": "#% of physical damage from hits taken as fire damage",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "#% of physical damage from hits taken as fire damage",
+        "trade_ids": [
+          "implicit.stat_3342989455"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Bisco's Leash",
+    "stats": "#% increased rarity of items found",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "#% increased rarity of items found",
+        "trade_ids": [
+          "implicit.stat_3917489142"
         ]
       }
     ]
@@ -1523,40 +1681,14 @@
     ]
   },
   {
-    "item": "Inspired Learning",
-    "stats": "#% reduced bleed duration on you",
+    "item": "Daresso's Defiance",
+    "stats": "+# to level of socketed duration gems",
     "builds": 1,
     "mods": [
       {
-        "text": "#% reduced bleed duration on you",
+        "text": "+# to level of socketed duration gems",
         "trade_ids": [
-          "implicit.stat_1692879867"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Inspired Learning",
-    "stats": "you cannot be maimed",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "you cannot be maimed",
-        "trade_ids": [
-          "implicit.stat_1126826428"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Inspired Learning",
-    "stats": "#% reduced poison duration on you",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "#% reduced poison duration on you",
-        "trade_ids": [
-          "implicit.stat_3301100256"
+          "implicit.stat_2115168758"
         ]
       }
     ]
@@ -2645,25 +2777,6 @@
         "text": "#% increased maximum life",
         "trade_ids": [
           "implicit.stat_983749596"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Hyrri's Ire",
-    "stats": "+# to level of socketed gems, +# to level of socketed projectile gems",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "+# to level of socketed gems",
-        "trade_ids": [
-          "implicit.stat_2843100721"
-        ]
-      },
-      {
-        "text": "+# to level of socketed projectile gems",
-        "trade_ids": [
-          "implicit.stat_2176571093"
         ]
       }
     ]
