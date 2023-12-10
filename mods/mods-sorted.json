@@ -106,6 +106,15 @@
   {
     "item": "The Poet's Pen",
     "stats": "damage penetrates #% elemental resistances",
+    "average": 120,
+    "prices": [
+      120
+    ],
+    "search": {
+      "id": "LeWk24Bin",
+      "complexity": 18,
+      "total": 1
+    },
     "builds": 2,
     "mods": [
       {
@@ -170,6 +179,15 @@
   {
     "item": "Victario's Influence",
     "stats": "+# to level of socketed gems, +# to level of socketed aura gems",
+    "average": 720.93,
+    "prices": [
+      720.93
+    ],
+    "search": {
+      "id": "emYBeMnsL",
+      "complexity": 29,
+      "total": 1
+    },
     "builds": 2,
     "mods": [
       {
@@ -189,6 +207,24 @@
   {
     "item": "Goldwyrm",
     "stats": "regenerate # life per second while moving",
+    "average": 5,
+    "prices": [
+      4,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      6,
+      15
+    ],
+    "search": {
+      "id": "qay7pV3hg",
+      "complexity": 18,
+      "total": 16
+    },
     "builds": 2,
     "mods": [
       {
@@ -228,12 +264,34 @@
   {
     "item": "Matua Tupuna",
     "stats": "+# to level of socketed aura gems",
+    "average": 102.99,
+    "prices": [
+      102.99
+    ],
+    "search": {
+      "id": "0PQlkZ8ig",
+      "complexity": 18,
+      "total": 1
+    },
     "builds": 2,
     "mods": [
       {
         "text": "+# to level of socketed aura gems",
         "trade_ids": [
           "implicit.stat_2452998583"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Shadows and Dust",
+    "stats": "attacks have +#% to critical strike chance",
+    "builds": 2,
+    "mods": [
+      {
+        "text": "attacks have +#% to critical strike chance",
+        "trade_ids": [
+          "implicit.stat_2572042788"
         ]
       }
     ]
@@ -260,6 +318,25 @@
         "text": "determination has #% increased aura effect",
         "trade_ids": [
           "implicit.stat_3653400807"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "The Torrent's Reclamation",
+    "stats": "+#% to all elemental resistances, discipline has #% increased aura effect",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "+#% to all elemental resistances",
+        "trade_ids": [
+          "implicit.stat_2901986750"
+        ]
+      },
+      {
+        "text": "discipline has #% increased aura effect",
+        "trade_ids": [
+          "implicit.stat_788317702"
         ]
       }
     ]
@@ -313,6 +390,13 @@
   {
     "item": "Queen of the Forest",
     "stats": "+# to level of socketed aoe gems, #% increased damage",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "OVwymo0tE",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -1223,13 +1307,13 @@
   },
   {
     "item": "Shadows and Dust",
-    "stats": "attacks have +#% to critical strike chance",
+    "stats": "+# to maximum frenzy charges",
     "builds": 1,
     "mods": [
       {
-        "text": "attacks have +#% to critical strike chance",
+        "text": "+# to maximum frenzy charges",
         "trade_ids": [
-          "implicit.stat_2572042788"
+          "implicit.stat_4078695"
         ]
       }
     ]
@@ -1925,6 +2009,32 @@
         "text": "+# to level of socketed duration gems",
         "trade_ids": [
           "implicit.stat_2115168758"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Hrimsorrow",
+    "stats": "#% increased maximum life",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "#% increased maximum life",
+        "trade_ids": [
+          "implicit.stat_983749596"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Kaom's Heart",
+    "stats": "#% increased maximum life",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "#% increased maximum life",
+        "trade_ids": [
+          "implicit.stat_983749596"
         ]
       }
     ]
