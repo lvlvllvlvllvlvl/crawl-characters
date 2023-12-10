@@ -915,6 +915,13 @@
   {
     "item": "Inspired Learning",
     "stats": "damage penetrates #% lightning resistance",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "kXD66RnF5",
+      "complexity": 19,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -1348,6 +1355,24 @@
   {
     "item": "Eyes of the Greatwolf",
     "stats": "#% increased quantity of items found",
+    "average": 484.053,
+    "prices": [
+      205.98,
+      205.98,
+      205.98,
+      308.96999999999997,
+      514.9499999999999,
+      514.9499999999999,
+      617.9399999999999,
+      617.9399999999999,
+      823.92,
+      823.92
+    ],
+    "search": {
+      "id": "ZPQr9XbfQ",
+      "complexity": 18,
+      "total": 13
+    },
     "builds": 1,
     "mods": [
       {
@@ -1498,6 +1523,13 @@
   {
     "item": "Shadows and Dust",
     "stats": "#% increased maximum energy shield, attacks have +#% to critical strike chance",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "EyVjjPBH5",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -1517,6 +1549,24 @@
   {
     "item": "Shadows and Dust",
     "stats": "+#% to spell critical strike chance",
+    "average": 10,
+    "prices": [
+      5,
+      7,
+      8,
+      10,
+      10,
+      10,
+      10,
+      10,
+      10,
+      10
+    ],
+    "search": {
+      "id": "ZbErrd0uQ",
+      "complexity": 18,
+      "total": 21
+    },
     "builds": 1,
     "mods": [
       {
@@ -1583,6 +1633,20 @@
   {
     "item": "Null and Void",
     "stats": "+# to maximum frenzy charges",
+    "average": 73.49666666666667,
+    "prices": [
+      40,
+      45,
+      50,
+      100,
+      102.99,
+      102.99
+    ],
+    "search": {
+      "id": "PdaZZ9GhL",
+      "complexity": 18,
+      "total": 6
+    },
     "builds": 1,
     "mods": [
       {
