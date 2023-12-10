@@ -782,6 +782,85 @@
     ]
   },
   {
+    "item": "Inspired Learning",
+    "stats": "#% reduced effect of shock on you",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "#% reduced effect of shock on you",
+        "trade_ids": [
+          "implicit.stat_3801067695"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Inspired Learning",
+    "stats": "damage penetrates #% cold resistance",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "damage penetrates #% cold resistance",
+        "trade_ids": [
+          "implicit.stat_3417711605",
+          "implicit.stat_1211769158"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Inspired Learning",
+    "stats": "#% reduced effect of curses on you",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "#% reduced effect of curses on you",
+        "trade_ids": [
+          "implicit.stat_3407849389"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Inspired Learning",
+    "stats": "#% reduced bleed duration on you",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "#% reduced bleed duration on you",
+        "trade_ids": [
+          "implicit.stat_1692879867"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Inspired Learning",
+    "stats": "you cannot be maimed",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "you cannot be maimed",
+        "trade_ids": [
+          "implicit.stat_1126826428"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Inspired Learning",
+    "stats": "#% reduced poison duration on you",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "#% reduced poison duration on you",
+        "trade_ids": [
+          "implicit.stat_3301100256"
+        ]
+      }
+    ]
+  },
+  {
     "item": "Transcendent Mind",
     "stats": "corrupted blood cannot be inflicted on you",
     "average": null,
@@ -1308,58 +1387,6 @@
     ]
   },
   {
-    "item": "Inspired Learning",
-    "stats": "#% reduced effect of curses on you",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "#% reduced effect of curses on you",
-        "trade_ids": [
-          "implicit.stat_3407849389"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Inspired Learning",
-    "stats": "#% reduced bleed duration on you",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "#% reduced bleed duration on you",
-        "trade_ids": [
-          "implicit.stat_1692879867"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Inspired Learning",
-    "stats": "you cannot be maimed",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "you cannot be maimed",
-        "trade_ids": [
-          "implicit.stat_1126826428"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Inspired Learning",
-    "stats": "#% reduced poison duration on you",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "#% reduced poison duration on you",
-        "trade_ids": [
-          "implicit.stat_3301100256"
-        ]
-      }
-    ]
-  },
-  {
     "item": "Bated Breath",
     "stats": "zealotry has #% increased aura effect",
     "average": 31.666666666666668,
@@ -1489,6 +1516,13 @@
   {
     "item": "The Stampede",
     "stats": "regenerate # life per second while moving",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "kX4ygJ5c5",
+      "complexity": 18,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -1502,6 +1536,15 @@
   {
     "item": "Crown of the Inward Eye",
     "stats": "regenerate #% of life per second",
+    "average": 15,
+    "prices": [
+      15
+    ],
+    "search": {
+      "id": "qayp5XWsg",
+      "complexity": 18,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -1599,6 +1642,24 @@
   {
     "item": "String of Servitude",
     "stats": "discipline has #% increased aura effect",
+    "average": 34.111111111111114,
+    "prices": [
+      19,
+      20,
+      20,
+      25,
+      28,
+      40,
+      40,
+      55,
+      60,
+      1024.8999999999999
+    ],
+    "search": {
+      "id": "0PQe4Kehg",
+      "complexity": 18,
+      "total": 10
+    },
     "builds": 1,
     "mods": [
       {
@@ -1612,6 +1673,21 @@
   {
     "item": "Sentari's Answer",
     "stats": "#% of physical damage from hits taken as fire damage",
+    "average": 7,
+    "prices": [
+      3,
+      5,
+      5,
+      10,
+      12,
+      25,
+      50
+    ],
+    "search": {
+      "id": "LeWraOlFn",
+      "complexity": 18,
+      "total": 7
+    },
     "builds": 1,
     "mods": [
       {
@@ -1625,6 +1701,16 @@
   {
     "item": "Bisco's Leash",
     "stats": "#% increased rarity of items found",
+    "average": 486.8275,
+    "prices": [
+      461.205,
+      512.4499999999999
+    ],
+    "search": {
+      "id": "XqDqJw7fP",
+      "complexity": 18,
+      "total": 2
+    },
     "builds": 1,
     "mods": [
       {
@@ -2635,6 +2721,19 @@
         "text": "+# to level of socketed warcry gems",
         "trade_ids": [
           "implicit.stat_1672793731"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Lori's Lantern",
+    "stats": "discipline has #% increased aura effect",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "discipline has #% increased aura effect",
+        "trade_ids": [
+          "implicit.stat_788317702"
         ]
       }
     ]
