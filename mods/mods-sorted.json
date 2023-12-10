@@ -3443,6 +3443,24 @@
   {
     "item": "Obliteration",
     "stats": "#% increased area of effect",
+    "average": 19.333333333333332,
+    "prices": [
+      10,
+      15,
+      15,
+      15,
+      19,
+      20,
+      20,
+      30,
+      30,
+      40
+    ],
+    "search": {
+      "id": "dX4QqW3hJ",
+      "complexity": 18,
+      "total": 13
+    },
     "builds": 1,
     "mods": [
       {
@@ -3456,6 +3474,15 @@
   {
     "item": "Oskarm",
     "stats": "curse enemies with vulnerability on hit",
+    "average": 105.18,
+    "prices": [
+      105.18
+    ],
+    "search": {
+      "id": "Ey658Gzh5",
+      "complexity": 18,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -3469,6 +3496,13 @@
   {
     "item": "Redblade Banner",
     "stats": "you take #% reduced extra damage from critical strikes",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "BEJKXnjC8",
+      "complexity": 18,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -3482,6 +3516,13 @@
   {
     "item": "Dendrobate",
     "stats": "+# to level of socketed gems, +# to level of socketed duration gems",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "yrJqJ6qhR",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -3501,6 +3542,13 @@
   {
     "item": "Invictus Solaris",
     "stats": "+# to level of socketed minion gems",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "jXR7WqltX",
+      "complexity": 18,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
