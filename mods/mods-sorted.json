@@ -1,5 +1,31 @@
 [
   {
+    "item": "Soul Mantle",
+    "stats": "+# to level of socketed projectile gems",
+    "builds": 2,
+    "mods": [
+      {
+        "text": "+# to level of socketed projectile gems",
+        "trade_ids": [
+          "implicit.stat_2176571093"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "The Annihilating Light",
+    "stats": "#% increased cast speed",
+    "builds": 2,
+    "mods": [
+      {
+        "text": "#% increased cast speed",
+        "trade_ids": [
+          "implicit.stat_2891184298"
+        ]
+      }
+    ]
+  },
+  {
     "item": "Heatshiver",
     "stats": "socketed skill gems get a #% cost & reservation multiplier",
     "builds": 2,
@@ -8,6 +34,95 @@
         "text": "socketed skill gems get a #% cost & reservation multiplier",
         "trade_ids": [
           "implicit.stat_2865550257"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Kaom's Spirit",
+    "stats": "attacks have +#% to critical strike chance",
+    "builds": 2,
+    "mods": [
+      {
+        "text": "attacks have +#% to critical strike chance",
+        "trade_ids": [
+          "implicit.stat_2572042788"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "The Torrent's Reclamation",
+    "stats": "#% increased maximum energy shield, determination has #% increased aura effect",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "#% increased maximum energy shield",
+        "trade_ids": [
+          "implicit.stat_2482852589"
+        ]
+      },
+      {
+        "text": "determination has #% increased aura effect",
+        "trade_ids": [
+          "implicit.stat_3653400807"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "The Torrent's Reclamation",
+    "stats": "#% increased maximum energy shield, discipline has #% increased aura effect",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "#% increased maximum energy shield",
+        "trade_ids": [
+          "implicit.stat_2482852589"
+        ]
+      },
+      {
+        "text": "discipline has #% increased aura effect",
+        "trade_ids": [
+          "implicit.stat_788317702"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Soul Mantle",
+    "stats": "+# to level of socketed gems, +# to level of socketed projectile gems",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "+# to level of socketed gems",
+        "trade_ids": [
+          "implicit.stat_2843100721"
+        ]
+      },
+      {
+        "text": "+# to level of socketed projectile gems",
+        "trade_ids": [
+          "implicit.stat_2176571093"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "The Annihilating Light",
+    "stats": "#% increased cast speed, #% increased critical strike chance",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "#% increased cast speed",
+        "trade_ids": [
+          "implicit.stat_2891184298"
+        ]
+      },
+      {
+        "text": "#% increased critical strike chance",
+        "trade_ids": [
+          "implicit.stat_2375316951"
         ]
       }
     ]
@@ -46,6 +161,25 @@
   },
   {
     "item": "Victario's Influence",
+    "stats": "+# to level of socketed minion gems, +# to level of socketed aura gems",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "+# to level of socketed minion gems",
+        "trade_ids": [
+          "implicit.stat_3604946673"
+        ]
+      },
+      {
+        "text": "+# to level of socketed aura gems",
+        "trade_ids": [
+          "implicit.stat_2452998583"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Victario's Influence",
     "stats": "+# to level of socketed duration gems, +# to level of socketed aura gems",
     "builds": 1,
     "mods": [
@@ -59,6 +193,19 @@
         "text": "+# to level of socketed aura gems",
         "trade_ids": [
           "implicit.stat_2452998583"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Transcendent Mind",
+    "stats": "corrupted blood cannot be inflicted on you",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "corrupted blood cannot be inflicted on you",
+        "trade_ids": [
+          "implicit.stat_1658498488"
         ]
       }
     ]
@@ -174,6 +321,19 @@
     ]
   },
   {
+    "item": "Bloodnotch",
+    "stats": "#% increased damage",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "#% increased damage",
+        "trade_ids": [
+          "implicit.stat_2154246560"
+        ]
+      }
+    ]
+  },
+  {
     "item": "Inspired Learning",
     "stats": "#% reduced bleed duration on you",
     "builds": 1,
@@ -200,19 +360,6 @@
     ]
   },
   {
-    "item": "Kaom's Spirit",
-    "stats": "attacks have +#% to critical strike chance",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "attacks have +#% to critical strike chance",
-        "trade_ids": [
-          "implicit.stat_2572042788"
-        ]
-      }
-    ]
-  },
-  {
     "item": "Shaper's Touch",
     "stats": "+# to level of socketed aoe gems",
     "builds": 1,
@@ -234,6 +381,32 @@
         "text": "+# to level of socketed aura gems",
         "trade_ids": [
           "implicit.stat_2452998583"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Matua Tupuna",
+    "stats": "+# to level of socketed gems",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "+# to level of socketed gems",
+        "trade_ids": [
+          "implicit.stat_2843100721"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Matua Tupuna",
+    "stats": "#% increased maximum energy shield",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "#% increased maximum energy shield",
+        "trade_ids": [
+          "implicit.stat_2482852589"
         ]
       }
     ]
@@ -277,6 +450,71 @@
     ]
   },
   {
+    "item": "Bubonic Trail",
+    "stats": "+# to level of socketed duration gems",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "+# to level of socketed duration gems",
+        "trade_ids": [
+          "implicit.stat_2115168758"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Bubonic Trail",
+    "stats": "+# to level of socketed gems",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "+# to level of socketed gems",
+        "trade_ids": [
+          "implicit.stat_2843100721"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Lightpoacher",
+    "stats": "regenerate #% of life per second",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "regenerate #% of life per second",
+        "trade_ids": [
+          "implicit.stat_836936635"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Shadows and Dust",
+    "stats": "attacks have +#% to critical strike chance",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "attacks have +#% to critical strike chance",
+        "trade_ids": [
+          "implicit.stat_2572042788"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Ancestral Vision",
+    "stats": "corrupted blood cannot be inflicted on you",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "corrupted blood cannot be inflicted on you",
+        "trade_ids": [
+          "implicit.stat_1658498488"
+        ]
+      }
+    ]
+  },
+  {
     "item": "Snakebite",
     "stats": "curse enemies with temporal chains on hit",
     "builds": 1,
@@ -303,25 +541,6 @@
     ]
   },
   {
-    "item": "The Torrent's Reclamation",
-    "stats": "#% increased maximum energy shield, discipline has #% increased aura effect",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "#% increased maximum energy shield",
-        "trade_ids": [
-          "implicit.stat_2482852589"
-        ]
-      },
-      {
-        "text": "discipline has #% increased aura effect",
-        "trade_ids": [
-          "implicit.stat_788317702"
-        ]
-      }
-    ]
-  },
-  {
     "item": "Vaal Caress",
     "stats": "+# to level of socketed duration gems, +# to level of socketed aura gems",
     "builds": 1,
@@ -336,19 +555,6 @@
         "text": "+# to level of socketed aura gems",
         "trade_ids": [
           "implicit.stat_2452998583"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Bubonic Trail",
-    "stats": "+# to level of socketed gems",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "+# to level of socketed gems",
-        "trade_ids": [
-          "implicit.stat_2843100721"
         ]
       }
     ]
@@ -386,6 +592,19 @@
     ]
   },
   {
+    "item": "Lightning Coil",
+    "stats": "+# to level of socketed aoe gems",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "+# to level of socketed aoe gems",
+        "trade_ids": [
+          "implicit.stat_2551600084"
+        ]
+      }
+    ]
+  },
+  {
     "item": "Black Zenith",
     "stats": "curse enemies with temporal chains on hit",
     "builds": 1,
@@ -394,6 +613,32 @@
         "text": "curse enemies with temporal chains on hit",
         "trade_ids": [
           "implicit.stat_3433724931"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Carcass Jack",
+    "stats": "+# to level of socketed trap or mine gems",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "+# to level of socketed trap or mine gems",
+        "trade_ids": [
+          "implicit.stat_150668988"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Winterweave",
+    "stats": "hatred has #% increased aura effect",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "hatred has #% increased aura effect",
+        "trade_ids": [
+          "implicit.stat_3742945352"
         ]
       }
     ]
@@ -432,19 +677,6 @@
         "text": "+# to level of socketed aura gems",
         "trade_ids": [
           "implicit.stat_2452998583"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Matua Tupuna",
-    "stats": "#% increased maximum energy shield",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "#% increased maximum energy shield",
-        "trade_ids": [
-          "implicit.stat_2482852589"
         ]
       }
     ]
@@ -529,6 +761,19 @@
     ]
   },
   {
+    "item": "Vixen's Entrapment",
+    "stats": "#% increased cast speed",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "#% increased cast speed",
+        "trade_ids": [
+          "implicit.stat_2891184298"
+        ]
+      }
+    ]
+  },
+  {
     "item": "Anathema",
     "stats": "+#% to all elemental resistances",
     "builds": 1,
@@ -537,38 +782,6 @@
         "text": "+#% to all elemental resistances",
         "trade_ids": [
           "implicit.stat_2901986750"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "The Annihilating Light",
-    "stats": "#% increased cast speed, #% increased critical strike chance",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "#% increased cast speed",
-        "trade_ids": [
-          "implicit.stat_2891184298"
-        ]
-      },
-      {
-        "text": "#% increased critical strike chance",
-        "trade_ids": [
-          "implicit.stat_2375316951"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "The Annihilating Light",
-    "stats": "#% increased cast speed",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "#% increased cast speed",
-        "trade_ids": [
-          "implicit.stat_2891184298"
         ]
       }
     ]
@@ -588,38 +801,6 @@
         "text": "zealotry has #% increased aura effect",
         "trade_ids": [
           "implicit.stat_4096052153"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Soul Mantle",
-    "stats": "+# to level of socketed gems, +# to level of socketed projectile gems",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "+# to level of socketed gems",
-        "trade_ids": [
-          "implicit.stat_2843100721"
-        ]
-      },
-      {
-        "text": "+# to level of socketed projectile gems",
-        "trade_ids": [
-          "implicit.stat_2176571093"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Soul Mantle",
-    "stats": "+# to level of socketed projectile gems",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "+# to level of socketed projectile gems",
-        "trade_ids": [
-          "implicit.stat_2176571093"
         ]
       }
     ]
@@ -782,6 +963,38 @@
         "text": "you cannot be hindered",
         "trade_ids": [
           "implicit.stat_721014846"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Legacy of Fury",
+    "stats": "#% increased movement speed",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "#% increased movement speed",
+        "trade_ids": [
+          "implicit.stat_2250533757"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Hyrri's Ire",
+    "stats": "+# to level of socketed gems, +# to level of socketed projectile gems",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "+# to level of socketed gems",
+        "trade_ids": [
+          "implicit.stat_2843100721"
+        ]
+      },
+      {
+        "text": "+# to level of socketed projectile gems",
+        "trade_ids": [
+          "implicit.stat_2176571093"
         ]
       }
     ]
