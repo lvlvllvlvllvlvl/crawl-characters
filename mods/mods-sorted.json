@@ -2,7 +2,17 @@
   {
     "item": "Heatshiver",
     "stats": "socketed skill gems get a #% cost & reservation multiplier",
-    "builds": 3,
+    "average": 617.9399999999999,
+    "prices": [
+      514.9499999999999,
+      720.93
+    ],
+    "search": {
+      "id": "plLWklwf0",
+      "complexity": 18,
+      "total": 2
+    },
+    "builds": 4,
     "mods": [
       {
         "text": "socketed skill gems get a #% cost & reservation multiplier",
@@ -15,6 +25,24 @@
   {
     "item": "String of Servitude",
     "stats": "hatred has #% increased aura effect",
+    "average": 75.40788888888888,
+    "prices": [
+      25,
+      35,
+      40,
+      50,
+      60,
+      80,
+      90,
+      144.18599999999998,
+      154.48499999999999,
+      205.98
+    ],
+    "search": {
+      "id": "OpJoQXOSE",
+      "complexity": 18,
+      "total": 11
+    },
     "builds": 3,
     "mods": [
       {
@@ -28,6 +56,21 @@
   {
     "item": "Soul Mantle",
     "stats": "+# to level of socketed projectile gems",
+    "average": 246.83428571428573,
+    "prices": [
+      80,
+      102.99,
+      102.99,
+      205.98,
+      308.96999999999997,
+      411.96,
+      514.9499999999999
+    ],
+    "search": {
+      "id": "rY5anw7cQ",
+      "complexity": 18,
+      "total": 7
+    },
     "builds": 2,
     "mods": [
       {
@@ -41,6 +84,16 @@
   {
     "item": "The Annihilating Light",
     "stats": "#% increased cast speed",
+    "average": 22.5,
+    "prices": [
+      5,
+      40
+    ],
+    "search": {
+      "id": "EG8PzJYF5",
+      "complexity": 18,
+      "total": 2
+    },
     "builds": 2,
     "mods": [
       {
@@ -54,6 +107,18 @@
   {
     "item": "Matua Tupuna",
     "stats": "+# to level of socketed gems",
+    "average": 109.24,
+    "prices": [
+      25,
+      102.99,
+      102.99,
+      205.98
+    ],
+    "search": {
+      "id": "jPpRJKlTX",
+      "complexity": 18,
+      "total": 4
+    },
     "builds": 2,
     "mods": [
       {
@@ -120,6 +185,19 @@
           "implicit.stat_2482852589"
         ]
       },
+      {
+        "text": "discipline has #% increased aura effect",
+        "trade_ids": [
+          "implicit.stat_788317702"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "The Jinxed Juju",
+    "stats": "discipline has #% increased aura effect",
+    "builds": 1,
+    "mods": [
       {
         "text": "discipline has #% increased aura effect",
         "trade_ids": [
@@ -600,6 +678,69 @@
     ]
   },
   {
+    "item": "Call of the Brotherhood",
+    "stats": "#% increased strength, #% increased intelligence",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "#% increased strength",
+        "trade_ids": [
+          "implicit.stat_4139681126"
+        ]
+      },
+      {
+        "text": "#% increased intelligence",
+        "trade_ids": [
+          "implicit.stat_656461285"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Call of the Brotherhood",
+    "stats": "grants level # hatred skill, #% increased strength, #% increased intelligence",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "grants level # hatred skill",
+        "trade_ids": [
+          "implicit.stat_2429546158"
+        ]
+      },
+      {
+        "text": "#% increased strength",
+        "trade_ids": [
+          "implicit.stat_4139681126"
+        ]
+      },
+      {
+        "text": "#% increased intelligence",
+        "trade_ids": [
+          "implicit.stat_656461285"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Call of the Brotherhood",
+    "stats": "anger has #% increased aura effect, determination has #% increased aura effect",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "anger has #% increased aura effect",
+        "trade_ids": [
+          "implicit.stat_1592278124"
+        ]
+      },
+      {
+        "text": "determination has #% increased aura effect",
+        "trade_ids": [
+          "implicit.stat_3653400807"
+        ]
+      }
+    ]
+  },
+  {
     "item": "Bubonic Trail",
     "stats": "+# to level of socketed duration gems",
     "builds": 1,
@@ -665,6 +806,19 @@
     ]
   },
   {
+    "item": "Ancestral Vision",
+    "stats": "#% increased damage",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "#% increased damage",
+        "trade_ids": [
+          "implicit.stat_2154246560"
+        ]
+      }
+    ]
+  },
+  {
     "item": "Snakebite",
     "stats": "curse enemies with temporal chains on hit",
     "builds": 1,
@@ -686,6 +840,25 @@
         "text": "+#% to global critical strike multiplier",
         "trade_ids": [
           "implicit.stat_3556824919"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "The Squire",
+    "stats": "you take #% reduced extra damage from critical strikes, #% increased maximum life",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "you take #% reduced extra damage from critical strikes",
+        "trade_ids": [
+          "implicit.stat_3855016469"
+        ]
+      },
+      {
+        "text": "#% increased maximum life",
+        "trade_ids": [
+          "implicit.stat_983749596"
         ]
       }
     ]
@@ -852,6 +1025,51 @@
     ]
   },
   {
+    "item": "Aegis Aurora",
+    "stats": "+# to level of socketed gems",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "+# to level of socketed gems",
+        "trade_ids": [
+          "implicit.stat_2843100721"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Mageblood",
+    "stats": "#% increased maximum energy shield, #% increased cast speed during any flask effect",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "#% increased maximum energy shield",
+        "trade_ids": [
+          "implicit.stat_2482852589"
+        ]
+      },
+      {
+        "text": "#% increased cast speed during any flask effect",
+        "trade_ids": [
+          "implicit.stat_252194507"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Heartbound Loop",
+    "stats": "cannot be ignited",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "cannot be ignited",
+        "trade_ids": [
+          "implicit.stat_331731406"
+        ]
+      }
+    ]
+  },
+  {
     "item": "Bated Breath",
     "stats": "#% increased dexterity, #% increased intelligence, #% increased maximum energy shield",
     "builds": 1,
@@ -904,6 +1122,26 @@
         "text": "corrupted blood cannot be inflicted on you",
         "trade_ids": [
           "implicit.stat_1658498488"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Unnatural Instinct",
+    "stats": "#% increased global critical strike chance, damage penetrates #% cold resistance",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "#% increased global critical strike chance",
+        "trade_ids": [
+          "implicit.stat_587431675"
+        ]
+      },
+      {
+        "text": "damage penetrates #% cold resistance",
+        "trade_ids": [
+          "implicit.stat_3417711605",
+          "implicit.stat_1211769158"
         ]
       }
     ]
