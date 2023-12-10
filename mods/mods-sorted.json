@@ -1,28 +1,5 @@
 [
   {
-    "item": "Heatshiver",
-    "stats": "socketed skill gems get a #% cost & reservation multiplier",
-    "average": 617.9399999999999,
-    "prices": [
-      514.9499999999999,
-      720.93
-    ],
-    "search": {
-      "id": "plLWklwf0",
-      "complexity": 18,
-      "total": 2
-    },
-    "builds": 4,
-    "mods": [
-      {
-        "text": "socketed skill gems get a #% cost & reservation multiplier",
-        "trade_ids": [
-          "implicit.stat_2865550257"
-        ]
-      }
-    ]
-  },
-  {
     "item": "String of Servitude",
     "stats": "hatred has #% increased aura effect",
     "average": 75.40788888888888,
@@ -43,12 +20,35 @@
       "complexity": 18,
       "total": 11
     },
-    "builds": 4,
+    "builds": 5,
     "mods": [
       {
         "text": "hatred has #% increased aura effect",
         "trade_ids": [
           "implicit.stat_3742945352"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Heatshiver",
+    "stats": "socketed skill gems get a #% cost & reservation multiplier",
+    "average": 617.9399999999999,
+    "prices": [
+      514.9499999999999,
+      720.93
+    ],
+    "search": {
+      "id": "plLWklwf0",
+      "complexity": 18,
+      "total": 2
+    },
+    "builds": 4,
+    "mods": [
+      {
+        "text": "socketed skill gems get a #% cost & reservation multiplier",
+        "trade_ids": [
+          "implicit.stat_2865550257"
         ]
       }
     ]
@@ -310,6 +310,19 @@
         "text": "attacks have +#% to critical strike chance",
         "trade_ids": [
           "implicit.stat_2572042788"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Shadows and Dust",
+    "stats": "+# to maximum frenzy charges",
+    "builds": 2,
+    "mods": [
+      {
+        "text": "+# to maximum frenzy charges",
+        "trade_ids": [
+          "implicit.stat_4078695"
         ]
       }
     ]
@@ -906,6 +919,13 @@
   {
     "item": "Unnatural Instinct",
     "stats": "#% increased reservation efficiency of skills, corrupted blood cannot be inflicted on you",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "80Z8EB2cV",
+      "complexity": 30,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -926,6 +946,13 @@
   {
     "item": "Warrior's Tale",
     "stats": "damage penetrates #% fire resistance",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "wagX6rmsb",
+      "complexity": 19,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -940,6 +967,13 @@
   {
     "item": "Warrior's Tale",
     "stats": "#% reduced ignite duration on you, you cannot be cursed with silence",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "BEQQX3kF8",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -959,6 +993,13 @@
   {
     "item": "Warrior's Tale",
     "stats": "#% increased reservation efficiency of skills, you cannot be hindered",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "nXjQQJJf0",
+      "complexity": 30,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -979,6 +1020,24 @@
   {
     "item": "Goldwyrm",
     "stats": "+# to level of socketed curse gems",
+    "average": 8.222222222222221,
+    "prices": [
+      2,
+      5,
+      5,
+      5,
+      9,
+      10,
+      10,
+      10,
+      10,
+      10
+    ],
+    "search": {
+      "id": "oZ89EgYsl",
+      "complexity": 18,
+      "total": 18
+    },
     "builds": 1,
     "mods": [
       {
@@ -1231,6 +1290,25 @@
         "text": "attacks have +#% to critical strike chance",
         "trade_ids": [
           "implicit.stat_2572042788"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Matua Tupuna",
+    "stats": "+# to level of socketed aoe gems, +# to level of socketed trap or mine gems",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "+# to level of socketed aoe gems",
+        "trade_ids": [
+          "implicit.stat_2551600084"
+        ]
+      },
+      {
+        "text": "+# to level of socketed trap or mine gems",
+        "trade_ids": [
+          "implicit.stat_150668988"
         ]
       }
     ]
@@ -1551,6 +1629,83 @@
     ]
   },
   {
+    "item": "Lightning Coil",
+    "stats": "#% additional physical damage reduction while stationary",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "#% additional physical damage reduction while stationary",
+        "trade_ids": [
+          "implicit.stat_2181129193"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Lightning Coil",
+    "stats": "#% increased damage, #% reduced lightning damage taken",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "#% increased damage",
+        "trade_ids": [
+          "implicit.stat_2154246560"
+        ]
+      },
+      {
+        "text": "#% reduced lightning damage taken",
+        "trade_ids": [
+          "implicit.stat_1276918229"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Lightning Coil",
+    "stats": "+# to level of socketed aoe gems",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "+# to level of socketed aoe gems",
+        "trade_ids": [
+          "implicit.stat_2551600084"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Lightning Coil",
+    "stats": "+#% to all maximum resistances",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "+#% to all maximum resistances",
+        "trade_ids": [
+          "implicit.stat_569299859"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Lightning Coil",
+    "stats": "+# to level of socketed aoe gems, +# to level of socketed projectile gems",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "+# to level of socketed aoe gems",
+        "trade_ids": [
+          "implicit.stat_2551600084"
+        ]
+      },
+      {
+        "text": "+# to level of socketed projectile gems",
+        "trade_ids": [
+          "implicit.stat_2176571093"
+        ]
+      }
+    ]
+  },
+  {
     "item": "Bubonic Trail",
     "stats": "+# to level of socketed duration gems",
     "builds": 1,
@@ -1591,13 +1746,13 @@
   },
   {
     "item": "Shadows and Dust",
-    "stats": "+# to maximum frenzy charges",
+    "stats": "+#% to spell critical strike chance",
     "builds": 1,
     "mods": [
       {
-        "text": "+# to maximum frenzy charges",
+        "text": "+#% to spell critical strike chance",
         "trade_ids": [
-          "implicit.stat_4078695"
+          "implicit.stat_791835907"
         ]
       }
     ]
@@ -1732,70 +1887,6 @@
     ]
   },
   {
-    "item": "Lightning Coil",
-    "stats": "#% increased damage, #% reduced lightning damage taken",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "#% increased damage",
-        "trade_ids": [
-          "implicit.stat_2154246560"
-        ]
-      },
-      {
-        "text": "#% reduced lightning damage taken",
-        "trade_ids": [
-          "implicit.stat_1276918229"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Lightning Coil",
-    "stats": "+# to level of socketed aoe gems",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "+# to level of socketed aoe gems",
-        "trade_ids": [
-          "implicit.stat_2551600084"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Lightning Coil",
-    "stats": "+#% to all maximum resistances",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "+#% to all maximum resistances",
-        "trade_ids": [
-          "implicit.stat_569299859"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Lightning Coil",
-    "stats": "+# to level of socketed aoe gems, +# to level of socketed projectile gems",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "+# to level of socketed aoe gems",
-        "trade_ids": [
-          "implicit.stat_2551600084"
-        ]
-      },
-      {
-        "text": "+# to level of socketed projectile gems",
-        "trade_ids": [
-          "implicit.stat_2176571093"
-        ]
-      }
-    ]
-  },
-  {
     "item": "Black Zenith",
     "stats": "curse enemies with temporal chains on hit",
     "builds": 1,
@@ -1875,6 +1966,51 @@
         "text": "cannot be ignited",
         "trade_ids": [
           "implicit.stat_331731406"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Obliteration",
+    "stats": "#% increased area of effect",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "#% increased area of effect",
+        "trade_ids": [
+          "implicit.stat_280731498"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "March of the Legion",
+    "stats": "+# to level of socketed gems",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "+# to level of socketed gems",
+        "trade_ids": [
+          "implicit.stat_2843100721"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "March of the Legion",
+    "stats": "#% increased maximum energy shield, #% increased maximum life",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "#% increased maximum energy shield",
+        "trade_ids": [
+          "implicit.stat_2482852589"
+        ]
+      },
+      {
+        "text": "#% increased maximum life",
+        "trade_ids": [
+          "implicit.stat_983749596"
         ]
       }
     ]
@@ -2158,25 +2294,6 @@
         "text": "you can apply an additional curse",
         "trade_ids": [
           "implicit.stat_30642521"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "March of the Legion",
-    "stats": "#% increased maximum energy shield, #% increased maximum life",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "#% increased maximum energy shield",
-        "trade_ids": [
-          "implicit.stat_2482852589"
-        ]
-      },
-      {
-        "text": "#% increased maximum life",
-        "trade_ids": [
-          "implicit.stat_983749596"
         ]
       }
     ]
