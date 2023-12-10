@@ -3,7 +3,7 @@ import { FetchRateLimiter } from "rate-limit-rules/lib/rate-limiters/fetch";
 import { filterOutliers } from "./filterOutliers";
 import { BunFile } from "bun";
 
-const league = process.env.LEAGUE || "Ancestor";
+const league = process.env.LEAGUE || "Affliction";
 
 const sorted: {
   item: string;

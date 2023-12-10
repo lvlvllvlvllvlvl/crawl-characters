@@ -8,7 +8,7 @@ let error = false;
 let offset = 0;
 const limit = 100;
 
-const league = process.env.LEAGUE || "Ancestor";
+const league = process.env.LEAGUE || "Affliction";
 const realm = process.env.REALM || "pc";
 
 await mkdir("data", { recursive: true });
@@ -24,9 +24,6 @@ interface LadderEntry {
     level: number;
     class: string;
     experience: number;
-    ancestor?: {
-      rank: number;
-    };
     depth?: {
       default: number;
       solo: number;
