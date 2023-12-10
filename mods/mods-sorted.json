@@ -488,6 +488,13 @@
   {
     "item": "The Covenant",
     "stats": "#% increased maximum energy shield",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "YVoWm0RiY",
+      "complexity": 18,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -501,6 +508,13 @@
   {
     "item": "The Covenant",
     "stats": "+# to level of socketed aura gems",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "7lRgXeBS5",
+      "complexity": 18,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -514,6 +528,13 @@
   {
     "item": "The Covenant",
     "stats": "+# to level of socketed duration gems, +# to level of socketed warcry gems",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "lXjEWq6hV",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -2071,6 +2092,96 @@
     ]
   },
   {
+    "item": "Lightning Coil",
+    "stats": "#% increased damage",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "#% increased damage",
+        "trade_ids": [
+          "implicit.stat_2154246560"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Lightning Coil",
+    "stats": "#% additional physical damage reduction while stationary",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "#% additional physical damage reduction while stationary",
+        "trade_ids": [
+          "implicit.stat_2181129193"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Lightning Coil",
+    "stats": "#% increased damage, #% reduced lightning damage taken",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "#% increased damage",
+        "trade_ids": [
+          "implicit.stat_2154246560"
+        ]
+      },
+      {
+        "text": "#% reduced lightning damage taken",
+        "trade_ids": [
+          "implicit.stat_1276918229"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Lightning Coil",
+    "stats": "+# to level of socketed aoe gems",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "+# to level of socketed aoe gems",
+        "trade_ids": [
+          "implicit.stat_2551600084"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Lightning Coil",
+    "stats": "+#% to all maximum resistances",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "+#% to all maximum resistances",
+        "trade_ids": [
+          "implicit.stat_569299859"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Lightning Coil",
+    "stats": "+# to level of socketed aoe gems, +# to level of socketed projectile gems",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "+# to level of socketed aoe gems",
+        "trade_ids": [
+          "implicit.stat_2551600084"
+        ]
+      },
+      {
+        "text": "+# to level of socketed projectile gems",
+        "trade_ids": [
+          "implicit.stat_2176571093"
+        ]
+      }
+    ]
+  },
+  {
     "item": "Asenath's Gentle Touch",
     "stats": "+# to level of socketed minion gems, attacks have +#% to critical strike chance",
     "average": null,
@@ -2099,6 +2210,13 @@
   {
     "item": "Asenath's Gentle Touch",
     "stats": "+# to level of socketed trap or mine gems, curse enemies with vulnerability on hit",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "mXgb3lrT6",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -2118,6 +2236,16 @@
   {
     "item": "Asenath's Gentle Touch",
     "stats": "+# to level of socketed aura gems, #% increased cast speed",
+    "average": 358.715,
+    "prices": [
+      204.98,
+      512.4499999999999
+    ],
+    "search": {
+      "id": "9Y2KZKOIK",
+      "complexity": 29,
+      "total": 2
+    },
     "builds": 1,
     "mods": [
       {
@@ -2304,6 +2432,64 @@
     ]
   },
   {
+    "item": "March of the Legion",
+    "stats": "+# to level of socketed projectile gems",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "+# to level of socketed projectile gems",
+        "trade_ids": [
+          "implicit.stat_2176571093"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "March of the Legion",
+    "stats": "+# to level of socketed duration gems",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "+# to level of socketed duration gems",
+        "trade_ids": [
+          "implicit.stat_2115168758"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "March of the Legion",
+    "stats": "+# to level of socketed gems",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "+# to level of socketed gems",
+        "trade_ids": [
+          "implicit.stat_2843100721"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "March of the Legion",
+    "stats": "#% increased maximum energy shield, #% increased maximum life",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "#% increased maximum energy shield",
+        "trade_ids": [
+          "implicit.stat_2482852589"
+        ]
+      },
+      {
+        "text": "#% increased maximum life",
+        "trade_ids": [
+          "implicit.stat_983749596"
+        ]
+      }
+    ]
+  },
+  {
     "item": "Call of the Brotherhood",
     "stats": "adds # to # lightning damage to spells and attacks, hatred has #% increased aura effect",
     "builds": 1,
@@ -2437,83 +2623,6 @@
     ]
   },
   {
-    "item": "Lightning Coil",
-    "stats": "#% additional physical damage reduction while stationary",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "#% additional physical damage reduction while stationary",
-        "trade_ids": [
-          "implicit.stat_2181129193"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Lightning Coil",
-    "stats": "#% increased damage, #% reduced lightning damage taken",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "#% increased damage",
-        "trade_ids": [
-          "implicit.stat_2154246560"
-        ]
-      },
-      {
-        "text": "#% reduced lightning damage taken",
-        "trade_ids": [
-          "implicit.stat_1276918229"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Lightning Coil",
-    "stats": "+# to level of socketed aoe gems",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "+# to level of socketed aoe gems",
-        "trade_ids": [
-          "implicit.stat_2551600084"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Lightning Coil",
-    "stats": "+#% to all maximum resistances",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "+#% to all maximum resistances",
-        "trade_ids": [
-          "implicit.stat_569299859"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Lightning Coil",
-    "stats": "+# to level of socketed aoe gems, +# to level of socketed projectile gems",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "+# to level of socketed aoe gems",
-        "trade_ids": [
-          "implicit.stat_2551600084"
-        ]
-      },
-      {
-        "text": "+# to level of socketed projectile gems",
-        "trade_ids": [
-          "implicit.stat_2176571093"
-        ]
-      }
-    ]
-  },
-  {
     "item": "Bubonic Trail",
     "stats": "+# to level of socketed duration gems",
     "builds": 1,
@@ -2613,51 +2722,6 @@
         "text": "you take #% reduced extra damage from critical strikes",
         "trade_ids": [
           "implicit.stat_3855016469"
-        ]
-      },
-      {
-        "text": "#% increased maximum life",
-        "trade_ids": [
-          "implicit.stat_983749596"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "March of the Legion",
-    "stats": "+# to level of socketed duration gems",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "+# to level of socketed duration gems",
-        "trade_ids": [
-          "implicit.stat_2115168758"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "March of the Legion",
-    "stats": "+# to level of socketed gems",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "+# to level of socketed gems",
-        "trade_ids": [
-          "implicit.stat_2843100721"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "March of the Legion",
-    "stats": "#% increased maximum energy shield, #% increased maximum life",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "#% increased maximum energy shield",
-        "trade_ids": [
-          "implicit.stat_2482852589"
         ]
       },
       {
@@ -3149,6 +3213,19 @@
         "text": "#% increased elemental damage with attack skills",
         "trade_ids": [
           "implicit.stat_387439868"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Tanu Ahi",
+    "stats": "attacks have +#% to critical strike chance",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "attacks have +#% to critical strike chance",
+        "trade_ids": [
+          "implicit.stat_2572042788"
         ]
       }
     ]
