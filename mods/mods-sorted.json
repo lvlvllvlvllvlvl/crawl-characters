@@ -286,6 +286,24 @@
   {
     "item": "Shadows and Dust",
     "stats": "attacks have +#% to critical strike chance",
+    "average": 202.93019999999999,
+    "prices": [
+      143.486,
+      153.73499999999999,
+      153.73499999999999,
+      153.73499999999999,
+      153.73499999999999,
+      204.98,
+      204.98,
+      256.22499999999997,
+      297.221,
+      307.46999999999997
+    ],
+    "search": {
+      "id": "2BrO0y5sk",
+      "complexity": 18,
+      "total": 10
+    },
     "builds": 2,
     "mods": [
       {
@@ -325,6 +343,13 @@
   {
     "item": "The Torrent's Reclamation",
     "stats": "+#% to all elemental resistances, discipline has #% increased aura effect",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "3Bm9ryKh5",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -416,6 +441,13 @@
   {
     "item": "Queen of the Forest",
     "stats": "+# to level of socketed gems, +# to level of socketed projectile gems",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "BEOXnMaH8",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -435,6 +467,13 @@
   {
     "item": "Queen of the Forest",
     "stats": "+# to level of socketed gems",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "yrJQLgGsR",
+      "complexity": 18,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -448,6 +487,13 @@
   {
     "item": "Anathema",
     "stats": "bleeding cannot be inflicted on you",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "rY5MGMECQ",
+      "complexity": 18,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -1912,6 +1958,19 @@
         "text": "+# to level of socketed warcry gems",
         "trade_ids": [
           "implicit.stat_1672793731"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Doomfletch",
+    "stats": "#% increased elemental damage with attack skills",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "#% increased elemental damage with attack skills",
+        "trade_ids": [
+          "implicit.stat_387439868"
         ]
       }
     ]
