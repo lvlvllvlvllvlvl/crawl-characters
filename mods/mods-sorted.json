@@ -393,6 +393,31 @@
     ]
   },
   {
+    "item": "The Torrent's Reclamation",
+    "stats": "#% increased strength, #% increased dexterity, #% increased maximum life",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "#% increased strength",
+        "trade_ids": [
+          "implicit.stat_4139681126"
+        ]
+      },
+      {
+        "text": "#% increased dexterity",
+        "trade_ids": [
+          "implicit.stat_4139681126"
+        ]
+      },
+      {
+        "text": "#% increased maximum life",
+        "trade_ids": [
+          "implicit.stat_983749596"
+        ]
+      }
+    ]
+  },
+  {
     "item": "The Jinxed Juju",
     "stats": "discipline has #% increased aura effect",
     "average": null,
@@ -507,6 +532,13 @@
   {
     "item": "Anathema",
     "stats": "+#% to all elemental resistances",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "jXjMMPXSX",
+      "complexity": 18,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -520,6 +552,13 @@
   {
     "item": "Soul Mantle",
     "stats": "+# to level of socketed gems, +# to level of socketed projectile gems",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "0PQbWp7Ig",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -539,6 +578,13 @@
   {
     "item": "The Annihilating Light",
     "stats": "#% increased cast speed, #% increased critical strike chance",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "DGEDdB2f5",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -558,6 +604,24 @@
   {
     "item": "Victario's Influence",
     "stats": "+# to level of socketed aura gems",
+    "average": 6.2,
+    "prices": [
+      3,
+      3,
+      4,
+      5,
+      5,
+      5,
+      7,
+      10,
+      10,
+      10
+    ],
+    "search": {
+      "id": "806kqWnUV",
+      "complexity": 18,
+      "total": 27
+    },
     "builds": 1,
     "mods": [
       {
@@ -571,6 +635,13 @@
   {
     "item": "Victario's Influence",
     "stats": "+# to level of socketed gems, +# to level of socketed aoe gems",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "emYDwLYsL",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -901,6 +972,32 @@
     ]
   },
   {
+    "item": "Alpha's Howl",
+    "stats": "+# to maximum power charges",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "+# to maximum power charges",
+        "trade_ids": [
+          "implicit.stat_227523295"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Alpha's Howl",
+    "stats": "+# to level of socketed aura gems",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "+# to level of socketed aura gems",
+        "trade_ids": [
+          "implicit.stat_2452998583"
+        ]
+      }
+    ]
+  },
+  {
     "item": "Yoke of Suffering",
     "stats": "you can apply an additional curse",
     "builds": 1,
@@ -1032,6 +1129,19 @@
         "text": "#% increased cast speed",
         "trade_ids": [
           "implicit.stat_2891184298"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Sadima's Touch",
+    "stats": "attacks have +#% to critical strike chance",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "attacks have +#% to critical strike chance",
+        "trade_ids": [
+          "implicit.stat_2572042788"
         ]
       }
     ]
@@ -1667,19 +1777,6 @@
     ]
   },
   {
-    "item": "Alpha's Howl",
-    "stats": "+# to level of socketed aura gems",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "+# to level of socketed aura gems",
-        "trade_ids": [
-          "implicit.stat_2452998583"
-        ]
-      }
-    ]
-  },
-  {
     "item": "Dendrobate",
     "stats": "+# to level of socketed gems, +# to level of socketed duration gems",
     "builds": 1,
@@ -1726,6 +1823,32 @@
         "text": "bleeding cannot be inflicted on you",
         "trade_ids": [
           "implicit.stat_1901158930"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Tabula Rasa",
+    "stats": "#% increased damage",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "#% increased damage",
+        "trade_ids": [
+          "implicit.stat_2154246560"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Tabula Rasa",
+    "stats": "+# to level of socketed duration gems",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "+# to level of socketed duration gems",
+        "trade_ids": [
+          "implicit.stat_2115168758"
         ]
       }
     ]
@@ -2047,6 +2170,25 @@
     ]
   },
   {
+    "item": "Leper's Alms",
+    "stats": "#% of physical damage from hits taken as lightning damage, #% reduced damage taken from projectile hits",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "#% of physical damage from hits taken as lightning damage",
+        "trade_ids": [
+          "implicit.stat_425242359"
+        ]
+      },
+      {
+        "text": "#% reduced damage taken from projectile hits",
+        "trade_ids": [
+          "implicit.stat_1425651005"
+        ]
+      }
+    ]
+  },
+  {
     "item": "Lioneye's Fall",
     "stats": "corrupted blood cannot be inflicted on you",
     "builds": 1,
@@ -2055,19 +2197,6 @@
         "text": "corrupted blood cannot be inflicted on you",
         "trade_ids": [
           "implicit.stat_1658498488"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Tabula Rasa",
-    "stats": "+# to level of socketed duration gems",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "+# to level of socketed duration gems",
-        "trade_ids": [
-          "implicit.stat_2115168758"
         ]
       }
     ]
