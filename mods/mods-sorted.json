@@ -104,6 +104,64 @@
     ]
   },
   {
+    "item": "Shadows and Dust",
+    "stats": "+# to maximum frenzy charges",
+    "average": 139.3864,
+    "prices": [
+      102.49,
+      102.49,
+      133.237,
+      153.73499999999999,
+      204.98,
+      1024.8999999999999
+    ],
+    "search": {
+      "id": "eXWQDQ4IL",
+      "complexity": 18,
+      "total": 6
+    },
+    "builds": 3,
+    "mods": [
+      {
+        "text": "+# to maximum frenzy charges",
+        "trade_ids": [
+          "implicit.stat_4078695"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Shadows and Dust",
+    "stats": "attacks have +#% to critical strike chance",
+    "average": 202.93019999999999,
+    "prices": [
+      143.486,
+      153.73499999999999,
+      153.73499999999999,
+      153.73499999999999,
+      153.73499999999999,
+      204.98,
+      204.98,
+      256.22499999999997,
+      297.221,
+      307.46999999999997
+    ],
+    "search": {
+      "id": "2BrO0y5sk",
+      "complexity": 18,
+      "total": 10
+    },
+    "builds": 3,
+    "mods": [
+      {
+        "text": "attacks have +#% to critical strike chance",
+        "trade_ids": [
+          "implicit.stat_2572042788"
+        ]
+      }
+    ]
+  },
+  {
     "item": "The Poet's Pen",
     "stats": "damage penetrates #% elemental resistances",
     "average": 120,
@@ -279,64 +337,6 @@
         "text": "+# to level of socketed aura gems",
         "trade_ids": [
           "implicit.stat_2452998583"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Shadows and Dust",
-    "stats": "attacks have +#% to critical strike chance",
-    "average": 202.93019999999999,
-    "prices": [
-      143.486,
-      153.73499999999999,
-      153.73499999999999,
-      153.73499999999999,
-      153.73499999999999,
-      204.98,
-      204.98,
-      256.22499999999997,
-      297.221,
-      307.46999999999997
-    ],
-    "search": {
-      "id": "2BrO0y5sk",
-      "complexity": 18,
-      "total": 10
-    },
-    "builds": 2,
-    "mods": [
-      {
-        "text": "attacks have +#% to critical strike chance",
-        "trade_ids": [
-          "implicit.stat_2572042788"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Shadows and Dust",
-    "stats": "+# to maximum frenzy charges",
-    "average": 139.3864,
-    "prices": [
-      102.49,
-      102.49,
-      133.237,
-      153.73499999999999,
-      204.98,
-      1024.8999999999999
-    ],
-    "search": {
-      "id": "eXWQDQ4IL",
-      "complexity": 18,
-      "total": 6
-    },
-    "builds": 2,
-    "mods": [
-      {
-        "text": "+# to maximum frenzy charges",
-        "trade_ids": [
-          "implicit.stat_4078695"
         ]
       }
     ]
@@ -1186,6 +1186,32 @@
     ]
   },
   {
+    "item": "Hrimsorrow",
+    "stats": "+# to maximum frenzy charges",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "+# to maximum frenzy charges",
+        "trade_ids": [
+          "implicit.stat_4078695"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Hrimsorrow",
+    "stats": "#% increased maximum life",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "#% increased maximum life",
+        "trade_ids": [
+          "implicit.stat_983749596"
+        ]
+      }
+    ]
+  },
+  {
     "item": "Alpha's Howl",
     "stats": "+# to maximum power charges",
     "builds": 1,
@@ -1445,6 +1471,44 @@
     ]
   },
   {
+    "item": "Asenath's Gentle Touch",
+    "stats": "+# to level of socketed minion gems, attacks have +#% to critical strike chance",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "+# to level of socketed minion gems",
+        "trade_ids": [
+          "implicit.stat_3604946673"
+        ]
+      },
+      {
+        "text": "attacks have +#% to critical strike chance",
+        "trade_ids": [
+          "implicit.stat_2572042788"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Asenath's Gentle Touch",
+    "stats": "+# to level of socketed aura gems, #% increased cast speed",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "+# to level of socketed aura gems",
+        "trade_ids": [
+          "implicit.stat_2452998583"
+        ]
+      },
+      {
+        "text": "#% increased cast speed",
+        "trade_ids": [
+          "implicit.stat_2891184298"
+        ]
+      }
+    ]
+  },
+  {
     "item": "Shaper's Touch",
     "stats": "+# to level of socketed aoe gems",
     "builds": 1,
@@ -1695,6 +1759,19 @@
     ]
   },
   {
+    "item": "Shadows and Dust",
+    "stats": "+#% to spell critical strike chance",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "+#% to spell critical strike chance",
+        "trade_ids": [
+          "implicit.stat_791835907"
+        ]
+      }
+    ]
+  },
+  {
     "item": "Lightning Coil",
     "stats": "#% additional physical damage reduction while stationary",
     "builds": 1,
@@ -1806,19 +1883,6 @@
         "text": "regenerate #% of life per second",
         "trade_ids": [
           "implicit.stat_836936635"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Shadows and Dust",
-    "stats": "+#% to spell critical strike chance",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "+#% to spell critical strike chance",
-        "trade_ids": [
-          "implicit.stat_791835907"
         ]
       }
     ]
@@ -2121,25 +2185,6 @@
         "text": "+# to level of socketed duration gems",
         "trade_ids": [
           "implicit.stat_2115168758"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Asenath's Gentle Touch",
-    "stats": "+# to level of socketed aura gems, #% increased cast speed",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "+# to level of socketed aura gems",
-        "trade_ids": [
-          "implicit.stat_2452998583"
-        ]
-      },
-      {
-        "text": "#% increased cast speed",
-        "trade_ids": [
-          "implicit.stat_2891184298"
         ]
       }
     ]
@@ -2481,6 +2526,19 @@
     ]
   },
   {
+    "item": "Blunderbore",
+    "stats": "+# to level of socketed gems",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "+# to level of socketed gems",
+        "trade_ids": [
+          "implicit.stat_2843100721"
+        ]
+      }
+    ]
+  },
+  {
     "item": "Leper's Alms",
     "stats": "#% of physical damage from hits taken as lightning damage, #% reduced damage taken from projectile hits",
     "builds": 1,
@@ -2508,19 +2566,6 @@
         "text": "corrupted blood cannot be inflicted on you",
         "trade_ids": [
           "implicit.stat_1658498488"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Hrimsorrow",
-    "stats": "#% increased maximum life",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "#% increased maximum life",
-        "trade_ids": [
-          "implicit.stat_983749596"
         ]
       }
     ]
