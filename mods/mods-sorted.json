@@ -914,6 +914,20 @@
   },
   {
     "item": "Inspired Learning",
+    "stats": "damage penetrates #% lightning resistance",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "damage penetrates #% lightning resistance",
+        "trade_ids": [
+          "implicit.stat_818778753",
+          "implicit.stat_3301510262"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Inspired Learning",
     "stats": "#% reduced bleed duration on you",
     "average": null,
     "prices": [],
@@ -1323,6 +1337,19 @@
           "implicit.stat_2154246560"
         ]
       },
+      {
+        "text": "#% increased quantity of items found",
+        "trade_ids": [
+          "implicit.stat_884586851"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Eyes of the Greatwolf",
+    "stats": "#% increased quantity of items found",
+    "builds": 1,
+    "mods": [
       {
         "text": "#% increased quantity of items found",
         "trade_ids": [
@@ -2265,6 +2292,13 @@
   {
     "item": "Asenath's Gentle Touch",
     "stats": "+# to level of socketed warcry gems, #% increased attack speed",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "5odkd22Sa",
+      "complexity": 30,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -2285,6 +2319,16 @@
   {
     "item": "Shaper's Touch",
     "stats": "+# to level of socketed aoe gems",
+    "average": 257.47499999999997,
+    "prices": [
+      205.98,
+      308.96999999999997
+    ],
+    "search": {
+      "id": "EG8Vq7VU5",
+      "complexity": 18,
+      "total": 2
+    },
     "builds": 1,
     "mods": [
       {
@@ -2298,6 +2342,13 @@
   {
     "item": "Shaper's Touch",
     "stats": "+# to level of socketed aura gems",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "0PQ6vEghg",
+      "complexity": 18,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -2311,6 +2362,20 @@
   {
     "item": "Ephemeral Edge",
     "stats": "#% increased area of effect",
+    "average": 26.666666666666668,
+    "prices": [
+      5,
+      5,
+      10,
+      30,
+      50,
+      60
+    ],
+    "search": {
+      "id": "vlP9onDSE",
+      "complexity": 18,
+      "total": 6
+    },
     "builds": 1,
     "mods": [
       {
@@ -2324,6 +2389,18 @@
   {
     "item": "Ephemeral Edge",
     "stats": "#% chance to gain onslaught for # seconds on kill",
+    "average": 5,
+    "prices": [
+      3,
+      4,
+      5,
+      8
+    ],
+    "search": {
+      "id": "z27GpRRI4",
+      "complexity": 18,
+      "total": 4
+    },
     "builds": 1,
     "mods": [
       {
