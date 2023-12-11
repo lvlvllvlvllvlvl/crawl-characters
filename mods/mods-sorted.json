@@ -2133,6 +2133,24 @@
   {
     "item": "The Consuming Dark",
     "stats": "#% chance to gain a frenzy charge on kill",
+    "average": 3.6666666666666665,
+    "prices": [
+      2,
+      2,
+      3,
+      3,
+      3,
+      5,
+      5,
+      5,
+      5,
+      10
+    ],
+    "search": {
+      "id": "0BRpybYFg",
+      "complexity": 18,
+      "total": 16
+    },
     "builds": 1,
     "mods": [
       {
@@ -2146,6 +2164,24 @@
   {
     "item": "Sentari's Answer",
     "stats": "#% of physical damage from hits taken as fire damage",
+    "average": 6.2,
+    "prices": [
+      2,
+      4,
+      5,
+      5,
+      5,
+      5,
+      5,
+      10,
+      10,
+      11
+    ],
+    "search": {
+      "id": "LeWraOlFn",
+      "complexity": 18,
+      "total": 15
+    },
     "builds": 1,
     "mods": [
       {
@@ -2159,6 +2195,19 @@
   {
     "item": "Bisco's Leash",
     "stats": "#% increased rarity of items found",
+    "average": 520.566,
+    "prices": [
+      392.88,
+      510.744,
+      523.84,
+      654.8000000000001,
+      1309.6000000000001
+    ],
+    "search": {
+      "id": "XqDqJw7fP",
+      "complexity": 18,
+      "total": 5
+    },
     "builds": 1,
     "mods": [
       {
@@ -2172,6 +2221,13 @@
   {
     "item": "Matua Tupuna",
     "stats": "+# to level of socketed aoe gems, +# to level of socketed trap or mine gems",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "Ey6lVBVu5",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -2191,6 +2247,24 @@
   {
     "item": "Matua Tupuna",
     "stats": "#% increased maximum energy shield",
+    "average": 7,
+    "prices": [
+      4,
+      5,
+      5,
+      5,
+      10,
+      10,
+      10,
+      20,
+      30,
+      130.96
+    ],
+    "search": {
+      "id": "LeW45Y7sn",
+      "complexity": 18,
+      "total": 11
+    },
     "builds": 1,
     "mods": [
       {
