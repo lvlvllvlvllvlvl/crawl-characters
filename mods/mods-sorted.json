@@ -2340,6 +2340,24 @@
   {
     "item": "Lightning Coil",
     "stats": "+# to level of socketed aoe gems",
+    "average": 257.5628,
+    "prices": [
+      144,
+      170,
+      157.788,
+      262.98,
+      262.98,
+      262.98,
+      262.98,
+      328.725,
+      328.725,
+      394.47
+    ],
+    "search": {
+      "id": "YD0Dv96UY",
+      "complexity": 18,
+      "total": 13
+    },
     "builds": 1,
     "mods": [
       {
@@ -2353,6 +2371,19 @@
   {
     "item": "Lightning Coil",
     "stats": "+#% to all maximum resistances",
+    "average": 78.596,
+    "prices": [
+      30,
+      50,
+      50,
+      131.49,
+      131.49
+    ],
+    "search": {
+      "id": "80Z0zlZcV",
+      "complexity": 18,
+      "total": 5
+    },
     "builds": 1,
     "mods": [
       {
@@ -2366,6 +2397,13 @@
   {
     "item": "Lightning Coil",
     "stats": "+# to level of socketed aoe gems, +# to level of socketed projectile gems",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "zeBjrpvH4",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -2385,6 +2423,16 @@
   {
     "item": "Asenath's Gentle Touch",
     "stats": "+# to level of socketed minion gems, attacks have +#% to critical strike chance",
+    "average": 90,
+    "prices": [
+      80,
+      100
+    ],
+    "search": {
+      "id": "VMpPDK2tp",
+      "complexity": 29,
+      "total": 2
+    },
     "builds": 1,
     "mods": [
       {
@@ -2404,6 +2452,13 @@
   {
     "item": "Asenath's Gentle Touch",
     "stats": "+# to level of socketed trap or mine gems, curse enemies with vulnerability on hit",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "mXgb3lrT6",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
