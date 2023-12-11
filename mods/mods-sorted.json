@@ -3383,6 +3383,23 @@
   {
     "item": "Carcass Jack",
     "stats": "+# to level of socketed trap or mine gems",
+    "average": 87.51666666666665,
+    "prices": [
+      20,
+      33,
+      42,
+      45,
+      129.53,
+      129.53,
+      129.53,
+      129.53,
+      129.53
+    ],
+    "search": {
+      "id": "XqbmDMWTP",
+      "complexity": 18,
+      "total": 9
+    },
     "builds": 1,
     "mods": [
       {
@@ -3396,6 +3413,15 @@
   {
     "item": "Winterweave",
     "stats": "hatred has #% increased aura effect",
+    "average": 10,
+    "prices": [
+      10
+    ],
+    "search": {
+      "id": "Ey6zz5zc5",
+      "complexity": 18,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -3409,6 +3435,13 @@
   {
     "item": "Aegis Aurora",
     "stats": "+# to level of socketed gems",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "80Z8EzGsV",
+      "complexity": 18,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -3422,6 +3455,13 @@
   {
     "item": "Mageblood",
     "stats": "#% increased maximum energy shield, #% increased cast speed during any flask effect",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "dPaOkzoFJ",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -3441,6 +3481,24 @@
   {
     "item": "Heartbound Loop",
     "stats": "cannot be ignited",
+    "average": 11.6,
+    "prices": [
+      2,
+      4,
+      5,
+      5,
+      10,
+      10,
+      15,
+      20,
+      20,
+      25
+    ],
+    "search": {
+      "id": "3GwDRP9S5",
+      "complexity": 18,
+      "total": 11
+    },
     "builds": 1,
     "mods": [
       {
