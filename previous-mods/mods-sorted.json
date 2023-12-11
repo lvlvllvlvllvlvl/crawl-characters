@@ -2,23 +2,23 @@
   {
     "item": "String of Servitude",
     "stats": "hatred has #% increased aura effect",
-    "average": 75.40788888888888,
+    "average": 24.2,
     "prices": [
+      5,
+      11,
+      12,
+      14,
+      15,
+      15,
       25,
-      35,
-      40,
+      45,
       50,
-      60,
-      80,
-      90,
-      144.18599999999998,
-      154.48499999999999,
-      205.98
+      50
     ],
     "search": {
       "id": "OpJoQXOSE",
       "complexity": 18,
-      "total": 11
+      "total": 22
     },
     "builds": 5,
     "mods": [
@@ -33,14 +33,14 @@
   {
     "item": "Shadows and Dust",
     "stats": "+# to maximum frenzy charges",
-    "average": 139.3864,
+    "average": 209.20319999999998,
     "prices": [
-      102.49,
-      102.49,
-      133.237,
-      153.73499999999999,
-      204.98,
-      1024.8999999999999
+      196.128,
+      207.02399999999997,
+      207.02399999999997,
+      217.92,
+      217.92,
+      544.8
     ],
     "search": {
       "id": "eXWQDQ4IL",
@@ -60,23 +60,20 @@
   {
     "item": "Shadows and Dust",
     "stats": "attacks have +#% to critical strike chance",
-    "average": 202.93019999999999,
+    "average": 364.2377142857143,
     "prices": [
-      143.486,
-      153.73499999999999,
-      153.73499999999999,
-      153.73499999999999,
-      153.73499999999999,
-      204.98,
-      204.98,
-      256.22499999999997,
-      297.221,
-      307.46999999999997
+      217.92,
+      217.92,
+      261.50399999999996,
+      435.84,
+      435.84,
+      435.84,
+      544.8
     ],
     "search": {
       "id": "2BrO0y5sk",
       "complexity": 18,
-      "total": 10
+      "total": 7
     },
     "builds": 4,
     "mods": [
@@ -91,15 +88,22 @@
   {
     "item": "Heatshiver",
     "stats": "socketed skill gems get a #% cost & reservation multiplier",
-    "average": 617.9399999999999,
+    "average": 399.52000000000004,
     "prices": [
-      514.9499999999999,
-      720.93
+      326.88,
+      326.88,
+      326.88,
+      435.84,
+      435.84,
+      435.84,
+      435.84,
+      435.84,
+      435.84
     ],
     "search": {
       "id": "plLWklwf0",
       "complexity": 18,
-      "total": 2
+      "total": 9
     },
     "builds": 4,
     "mods": [
@@ -114,20 +118,23 @@
   {
     "item": "Soul Mantle",
     "stats": "+# to level of socketed projectile gems",
-    "average": 246.83428571428573,
+    "average": 217.92000000000002,
     "prices": [
-      80,
-      102.99,
-      102.99,
-      205.98,
-      308.96999999999997,
-      411.96,
-      514.9499999999999
+      217.92,
+      217.92,
+      217.92,
+      217.92,
+      217.92,
+      217.92,
+      217.92,
+      217.92,
+      217.92,
+      326.88
     ],
     "search": {
       "id": "rY5anw7cQ",
       "complexity": 18,
-      "total": 7
+      "total": 12
     },
     "builds": 3,
     "mods": [
@@ -142,17 +149,19 @@
   {
     "item": "Kaom's Spirit",
     "stats": "attacks have +#% to critical strike chance",
-    "average": 102.99,
+    "average": 63.276666666666664,
     "prices": [
-      18,
-      102.99,
-      102.99,
-      102.99
+      20,
+      50,
+      50,
+      70,
+      80,
+      109.66
     ],
     "search": {
       "id": "aboQ2v3Se",
       "complexity": 18,
-      "total": 4
+      "total": 6
     },
     "builds": 3,
     "mods": [
@@ -167,17 +176,19 @@
   {
     "item": "Matua Tupuna",
     "stats": "+# to level of socketed gems",
-    "average": 109.24,
+    "average": 33.25,
     "prices": [
-      25,
-      102.99,
-      102.99,
-      205.98
+      20,
+      28,
+      35,
+      50,
+      109.66,
+      219.32
     ],
     "search": {
       "id": "jPpRJKlTX",
       "complexity": 18,
-      "total": 4
+      "total": 6
     },
     "builds": 3,
     "mods": [
@@ -192,14 +203,12 @@
   {
     "item": "The Poet's Pen",
     "stats": "damage penetrates #% elemental resistances",
-    "average": 120,
-    "prices": [
-      120
-    ],
+    "average": null,
+    "prices": [],
     "search": {
       "id": "LeWk24Bin",
       "complexity": 18,
-      "total": 1
+      "total": 0
     },
     "builds": 2,
     "mods": [
@@ -214,15 +223,17 @@
   {
     "item": "The Annihilating Light",
     "stats": "#% increased cast speed",
-    "average": 22.5,
+    "average": 56.553333333333335,
     "prices": [
-      5,
-      40
+      10,
+      50,
+      109.66,
+      328.98
     ],
     "search": {
       "id": "EG8PzJYF5",
       "complexity": 18,
-      "total": 2
+      "total": 4
     },
     "builds": 2,
     "mods": [
@@ -237,23 +248,23 @@
   {
     "item": "Victario's Influence",
     "stats": "+# to level of socketed aura gems",
-    "average": 6.2,
+    "average": 5.2,
     "prices": [
+      1,
       3,
-      3,
+      4,
       4,
       5,
       5,
       5,
-      7,
-      10,
+      5,
       10,
       10
     ],
     "search": {
       "id": "806kqWnUV",
       "complexity": 18,
-      "total": 27
+      "total": 39
     },
     "builds": 2,
     "mods": [
@@ -268,9 +279,9 @@
   {
     "item": "Victario's Influence",
     "stats": "+# to level of socketed gems, +# to level of socketed aura gems",
-    "average": 720.93,
+    "average": 1648.0500000000002,
     "prices": [
-      720.93
+      1648.0500000000002
     ],
     "search": {
       "id": "emYBeMnsL",
@@ -296,23 +307,23 @@
   {
     "item": "Goldwyrm",
     "stats": "regenerate # life per second while moving",
-    "average": 5,
+    "average": 3.6,
     "prices": [
+      1,
+      1,
+      3,
+      3,
+      4,
       4,
       5,
       5,
       5,
-      5,
-      5,
-      5,
-      5,
-      6,
-      15
+      5
     ],
     "search": {
       "id": "qay7pV3hg",
       "complexity": 18,
-      "total": 16
+      "total": 26
     },
     "builds": 2,
     "mods": [
@@ -327,18 +338,21 @@
   {
     "item": "Kaom's Spirit",
     "stats": "+# to maximum frenzy charges",
-    "average": 214.73,
+    "average": 182.65285714285716,
     "prices": [
-      35,
-      102.99,
-      205.98,
-      514.9499999999999,
-      3089.7
+      70,
+      109.87,
+      109.87,
+      109.87,
+      219.74,
+      329.61,
+      329.61,
+      1648.0500000000002
     ],
     "search": {
       "id": "VyB7zXgIp",
       "complexity": 18,
-      "total": 5
+      "total": 8
     },
     "builds": 2,
     "mods": [
@@ -353,14 +367,15 @@
   {
     "item": "Matua Tupuna",
     "stats": "+# to level of socketed aura gems",
-    "average": 102.99,
+    "average": 329.61,
     "prices": [
-      102.99
+      329.61,
+      329.61
     ],
     "search": {
       "id": "0PQlkZ8ig",
       "complexity": 18,
-      "total": 1
+      "total": 2
     },
     "builds": 2,
     "mods": [
@@ -453,15 +468,12 @@
   {
     "item": "The Torrent's Reclamation",
     "stats": "#% increased strength, #% increased dexterity, #% increased maximum life",
-    "average": 281.84749999999997,
-    "prices": [
-      256.22499999999997,
-      307.46999999999997
-    ],
+    "average": null,
+    "prices": [],
     "search": {
       "id": "KJOkOXyU5",
       "complexity": 20,
-      "total": 2
+      "total": 0
     },
     "builds": 1,
     "mods": [
@@ -554,12 +566,14 @@
   {
     "item": "The Jinxed Juju",
     "stats": "discipline has #% increased aura effect",
-    "average": null,
-    "prices": [],
+    "average": 70,
+    "prices": [
+      70
+    ],
     "search": {
       "id": "qXJRJvkSg",
       "complexity": 18,
-      "total": 0
+      "total": 1
     },
     "builds": 1,
     "mods": [
@@ -626,12 +640,15 @@
   {
     "item": "Queen of the Forest",
     "stats": "+# to level of socketed gems",
-    "average": null,
-    "prices": [],
+    "average": 165.405,
+    "prices": [
+      110.27,
+      220.54
+    ],
     "search": {
       "id": "yrJQLgGsR",
       "complexity": 18,
-      "total": 0
+      "total": 2
     },
     "builds": 1,
     "mods": [
@@ -738,23 +755,23 @@
   {
     "item": "Victario's Influence",
     "stats": "+# to level of socketed aoe gems",
-    "average": 11.444444444444445,
+    "average": 6.9,
     "prices": [
-      4,
+      2,
+      2,
+      5,
+      5,
       5,
       10,
       10,
       10,
       10,
-      14,
-      20,
-      20,
-      30
+      10
     ],
     "search": {
       "id": "waPDjkKfb",
       "complexity": 18,
-      "total": 20
+      "total": 28
     },
     "builds": 1,
     "mods": [
@@ -821,10 +838,10 @@
   {
     "item": "Victario's Influence",
     "stats": "+# to level of socketed duration gems, +# to level of socketed aura gems",
-    "average": 461.2049999999999,
+    "average": 385.805,
     "prices": [
-      409.96,
-      512.4499999999999
+      330.69,
+      440.92
     ],
     "search": {
       "id": "DGvmrmvI5",
@@ -870,9 +887,9 @@
   {
     "item": "Inspired Learning",
     "stats": "damage penetrates #% cold resistance",
-    "average": 819.92,
+    "average": 749.564,
     "prices": [
-      819.92
+      749.564
     ],
     "search": {
       "id": "KJdeLGqs5",
@@ -893,14 +910,12 @@
   {
     "item": "Inspired Learning",
     "stats": "#% reduced effect of curses on you",
-    "average": 768.675,
-    "prices": [
-      768.675
-    ],
+    "average": null,
+    "prices": [],
     "search": {
       "id": "LmdejwjHn",
       "complexity": 18,
-      "total": 1
+      "total": 0
     },
     "builds": 1,
     "mods": [
@@ -1264,23 +1279,23 @@
   {
     "item": "Goldwyrm",
     "stats": "+# to level of socketed curse gems",
-    "average": 8.222222222222221,
+    "average": 5.333333333333333,
     "prices": [
-      2,
+      1,
+      4,
       5,
       5,
       5,
-      9,
-      10,
-      10,
-      10,
-      10,
-      10
+      5,
+      5,
+      5,
+      7,
+      7
     ],
     "search": {
       "id": "oZ89EgYsl",
       "complexity": 18,
-      "total": 18
+      "total": 32
     },
     "builds": 1,
     "mods": [
@@ -1295,23 +1310,23 @@
   {
     "item": "Goldwyrm",
     "stats": "+#% chance to suppress spell damage",
-    "average": 33.998000000000005,
+    "average": 16.444444444444443,
     "prices": [
-      2,
+      1,
       3,
       5,
       5,
+      19,
       20,
-      30,
+      25,
       30,
       40,
-      102.49,
-      102.49
+      112.15
     ],
     "search": {
       "id": "EG8VqLZU5",
       "complexity": 19,
-      "total": 13
+      "total": 17
     },
     "builds": 1,
     "mods": [
@@ -1327,14 +1342,12 @@
   {
     "item": "Eyes of the Greatwolf",
     "stats": "#% increased damage, #% increased quantity of items found",
-    "average": 614.9399999999999,
-    "prices": [
-      614.9399999999999
-    ],
+    "average": null,
+    "prices": [],
     "search": {
       "id": "plLlQGdH0",
       "complexity": 29,
-      "total": 1
+      "total": 0
     },
     "builds": 1,
     "mods": [
@@ -1355,23 +1368,23 @@
   {
     "item": "Eyes of the Greatwolf",
     "stats": "#% increased quantity of items found",
-    "average": 484.053,
+    "average": 549.5350000000001,
     "prices": [
-      205.98,
-      205.98,
-      205.98,
-      308.96999999999997,
-      514.9499999999999,
-      514.9499999999999,
-      617.9399999999999,
-      617.9399999999999,
-      823.92,
-      823.92
+      224.3,
+      224.3,
+      336.45000000000005,
+      560.75,
+      560.75,
+      560.75,
+      560.75,
+      672.9000000000001,
+      897.2,
+      897.2
     ],
     "search": {
       "id": "ZPQr9XbfQ",
       "complexity": 18,
-      "total": 13
+      "total": 23
     },
     "builds": 1,
     "mods": [
@@ -1386,15 +1399,18 @@
   {
     "item": "Kaom's Spirit",
     "stats": "curse enemies with elemental weakness on hit",
-    "average": 256.22499999999997,
+    "average": 363.366,
     "prices": [
-      204.98,
-      307.46999999999997
+      257.945,
+      269.16,
+      280.375,
+      448.6,
+      560.75
     ],
     "search": {
       "id": "gPeDJ0OsQ",
       "complexity": 18,
-      "total": 2
+      "total": 5
     },
     "builds": 1,
     "mods": [
@@ -1461,23 +1477,23 @@
   {
     "item": "Hrimsorrow",
     "stats": "+# to maximum frenzy charges",
-    "average": 82.49600000000001,
+    "average": 145.48333333333332,
     "prices": [
-      50,
-      65,
-      65,
-      65,
-      70,
       100,
-      102.49,
-      102.49,
-      102.49,
-      102.49
+      100,
+      100,
+      112.15,
+      112.15,
+      112.15,
+      224.3,
+      224.3,
+      224.3,
+      336.45000000000005
     ],
     "search": {
       "id": "XqDE6QRuP",
       "complexity": 18,
-      "total": 16
+      "total": 11
     },
     "builds": 1,
     "mods": [
@@ -1492,23 +1508,23 @@
   {
     "item": "Hrimsorrow",
     "stats": "#% increased maximum life",
-    "average": 3,
+    "average": 3.4,
     "prices": [
       1,
       2,
       2,
       3,
       3,
-      3,
-      3,
       4,
       4,
+      5,
+      5,
       5
     ],
     "search": {
       "id": "jPp7k4XuX",
       "complexity": 18,
-      "total": 19
+      "total": 23
     },
     "builds": 1,
     "mods": [
@@ -1549,14 +1565,14 @@
   {
     "item": "Shadows and Dust",
     "stats": "+#% to spell critical strike chance",
-    "average": 10,
+    "average": 8.666666666666666,
     "prices": [
-      5,
+      4,
+      7,
+      7,
       7,
       8,
-      10,
-      10,
-      10,
+      9,
       10,
       10,
       10,
@@ -1565,7 +1581,7 @@
     "search": {
       "id": "ZbErrd0uQ",
       "complexity": 18,
-      "total": 21
+      "total": 26
     },
     "builds": 1,
     "mods": [
@@ -1580,19 +1596,23 @@
   {
     "item": "Alpha's Howl",
     "stats": "+# to maximum power charges",
-    "average": 295.474,
+    "average": 83.33166666666666,
     "prices": [
-      45,
-      100,
-      102.49,
-      614.9399999999999,
-      614.9399999999999,
-      5124.5
+      40,
+      50,
+      70,
+      113.33,
+      113.33,
+      113.33,
+      226.66,
+      339.99,
+      566.65,
+      3966.5499999999997
     ],
     "search": {
       "id": "lXjLVaVUV",
       "complexity": 18,
-      "total": 6
+      "total": 11
     },
     "builds": 1,
     "mods": [
@@ -1607,18 +1627,17 @@
   {
     "item": "Alpha's Howl",
     "stats": "+# to level of socketed aura gems",
-    "average": 79.995,
+    "average": 127.99674999999999,
     "prices": [
-      45,
       70,
-      102.49,
-      102.49,
-      194.731
+      113.33,
+      113.33,
+      215.327
     ],
     "search": {
       "id": "EG8P4gyC5",
       "complexity": 18,
-      "total": 5
+      "total": 4
     },
     "builds": 1,
     "mods": [
@@ -1633,19 +1652,23 @@
   {
     "item": "Null and Void",
     "stats": "+# to maximum frenzy charges",
-    "average": 73.49666666666667,
+    "average": 50.998999999999995,
     "prices": [
+      5,
+      10,
+      15,
+      20,
+      30,
       40,
-      45,
       50,
-      100,
-      102.99,
-      102.99
+      113.33,
+      113.33,
+      113.33
     ],
     "search": {
       "id": "PdaZZ9GhL",
       "complexity": 18,
-      "total": 6
+      "total": 10
     },
     "builds": 1,
     "mods": [
@@ -1660,16 +1683,17 @@
   {
     "item": "Bated Breath",
     "stats": "zealotry has #% increased aura effect",
-    "average": 31.666666666666668,
+    "average": 20,
     "prices": [
       20,
+      20,
       25,
-      50
+      70
     ],
     "search": {
       "id": "gXDl2naFQ",
       "complexity": 18,
-      "total": 3
+      "total": 4
     },
     "builds": 1,
     "mods": [
@@ -1716,14 +1740,17 @@
   {
     "item": "Yoke of Suffering",
     "stats": "you can apply an additional curse",
-    "average": 973.655,
+    "average": 999.3375,
     "prices": [
-      973.655
+      913.68,
+      913.68,
+      1027.8899999999999,
+      1142.1
     ],
     "search": {
       "id": "W5Xeb8mcm",
       "complexity": 18,
-      "total": 1
+      "total": 4
     },
     "builds": 1,
     "mods": [
@@ -1738,15 +1765,16 @@
   {
     "item": "Yoke of Suffering",
     "stats": "hatred has #% increased aura effect",
-    "average": 358.715,
+    "average": 168.94666666666666,
     "prices": [
-      307.46999999999997,
-      409.96
+      50,
+      114.21,
+      342.63
     ],
     "search": {
       "id": "yrJvMDrsR",
       "complexity": 18,
-      "total": 2
+      "total": 3
     },
     "builds": 1,
     "mods": [
@@ -1787,14 +1815,12 @@
   {
     "item": "Heatshiver",
     "stats": "+# to level of socketed projectile gems, #% increased maximum life",
-    "average": 50,
-    "prices": [
-      50
-    ],
+    "average": null,
+    "prices": [],
     "search": {
       "id": "gXDZdRgUQ",
       "complexity": 29,
-      "total": 1
+      "total": 0
     },
     "builds": 1,
     "mods": [
@@ -1835,14 +1861,12 @@
   {
     "item": "Crown of the Inward Eye",
     "stats": "regenerate #% of life per second",
-    "average": 15,
-    "prices": [
-      15
-    ],
+    "average": null,
+    "prices": [],
     "search": {
       "id": "qayp5XWsg",
       "complexity": 18,
-      "total": 1
+      "total": 0
     },
     "builds": 1,
     "mods": [
@@ -1857,18 +1881,18 @@
   {
     "item": "Sadima's Touch",
     "stats": "curse enemies with despair on hit",
-    "average": 84.7181,
+    "average": 29.428571428571427,
     "prices": [
+      23,
+      23,
+      25,
+      25,
+      35,
+      35,
       40,
       50,
-      50,
-      92.241,
-      102.49,
-      102.49,
-      102.49,
-      102.49,
-      102.49,
-      102.49
+      105.156,
+      116.84
     ],
     "search": {
       "id": "v3mvnDMCE",
@@ -1888,23 +1912,23 @@
   {
     "item": "Sadima's Touch",
     "stats": "curse enemies with elemental weakness on hit",
-    "average": 9.333333333333334,
+    "average": 10,
     "prices": [
-      8,
-      8,
-      9,
       9,
       10,
       10,
       10,
       10,
       10,
+      10,
+      12,
+      14,
       15
     ],
     "search": {
       "id": "mP2gJyBu6",
       "complexity": 18,
-      "total": 35
+      "total": 33
     },
     "builds": 1,
     "mods": [
@@ -1919,23 +1943,23 @@
   {
     "item": "Sadima's Touch",
     "stats": "#% increased cast speed",
-    "average": 3.5,
+    "average": 3.4,
     "prices": [
       2,
-      2,
+      3,
+      3,
       3,
       3,
       3,
       3,
       4,
       5,
-      5,
       5
     ],
     "search": {
       "id": "K9gKZ2RC5",
       "complexity": 18,
-      "total": 28
+      "total": 26
     },
     "builds": 1,
     "mods": [
@@ -1950,18 +1974,18 @@
   {
     "item": "Sadima's Touch",
     "stats": "attacks have +#% to critical strike chance",
-    "average": 38.1,
+    "average": 62.05200000000001,
     "prices": [
-      10,
       15,
-      20,
-      22,
+      25,
+      30,
       30,
       40,
-      49,
-      60,
-      65,
-      70
+      50,
+      80,
+      116.84,
+      116.84,
+      116.84
     ],
     "search": {
       "id": "2Gb38wjTk",
@@ -2027,23 +2051,23 @@
   {
     "item": "String of Servitude",
     "stats": "discipline has #% increased aura effect",
-    "average": 34.111111111111114,
+    "average": 20.77777777777778,
     "prices": [
+      8,
+      15,
+      15,
+      15,
       19,
       20,
-      20,
       25,
-      28,
-      40,
-      40,
-      55,
-      60,
-      1024.8999999999999
+      25,
+      25,
+      28
     ],
     "search": {
       "id": "0PQe4Kehg",
       "complexity": 18,
-      "total": 10
+      "total": 19
     },
     "builds": 1,
     "mods": [
@@ -2058,14 +2082,14 @@
   {
     "item": "The Consuming Dark",
     "stats": "#% chance to gain a frenzy charge on kill",
-    "average": 3,
+    "average": 3.25,
     "prices": [
+      2,
       3,
       3,
       5,
       10,
-      20,
-      102.49
+      20
     ],
     "search": {
       "id": "0BRpybYFg",
@@ -2085,20 +2109,19 @@
   {
     "item": "Sentari's Answer",
     "stats": "#% of physical damage from hits taken as fire damage",
-    "average": 7,
+    "average": 9,
     "prices": [
-      3,
       5,
       5,
-      10,
-      12,
-      25,
+      5,
+      15,
+      15,
       50
     ],
     "search": {
       "id": "LeWraOlFn",
       "complexity": 18,
-      "total": 7
+      "total": 6
     },
     "builds": 1,
     "mods": [
@@ -2113,15 +2136,14 @@
   {
     "item": "Bisco's Leash",
     "stats": "#% increased rarity of items found",
-    "average": 486.8275,
+    "average": 1173,
     "prices": [
-      461.205,
-      512.4499999999999
+      1173
     ],
     "search": {
       "id": "XqDqJw7fP",
       "complexity": 18,
-      "total": 2
+      "total": 1
     },
     "builds": 1,
     "mods": [
@@ -2162,17 +2184,22 @@
   {
     "item": "Matua Tupuna",
     "stats": "#% increased maximum energy shield",
-    "average": 5,
+    "average": 7.142857142857143,
     "prices": [
       5,
       5,
+      5,
+      5,
       10,
+      10,
+      10,
+      20,
       45
     ],
     "search": {
       "id": "LeW45Y7sn",
       "complexity": 18,
-      "total": 4
+      "total": 9
     },
     "builds": 1,
     "mods": [
@@ -2207,15 +2234,12 @@
   {
     "item": "Daresso's Defiance",
     "stats": "+# to level of socketed duration gems",
-    "average": 67,
-    "prices": [
-      44,
-      90
-    ],
+    "average": null,
+    "prices": [],
     "search": {
       "id": "zerWLqLc4",
       "complexity": 18,
-      "total": 2
+      "total": 0
     },
     "builds": 1,
     "mods": [
@@ -2230,19 +2254,18 @@
   {
     "item": "Lightning Coil",
     "stats": "#% increased damage",
-    "average": 142.12619999999998,
+    "average": 832.5712000000001,
     "prices": [
-      102.99,
-      102.99,
-      144.18599999999998,
-      154.48499999999999,
-      205.98,
-      1544.85
+      60,
+      491.36,
+      786.176,
+      982.72,
+      1842.6000000000001
     ],
     "search": {
       "id": "DGEGlVVc5",
       "complexity": 18,
-      "total": 6
+      "total": 5
     },
     "builds": 1,
     "mods": [
@@ -2257,16 +2280,21 @@
   {
     "item": "Lightning Coil",
     "stats": "#% additional physical damage reduction while stationary",
-    "average": 6.333333333333333,
+    "average": 8,
     "prices": [
       5,
-      6,
-      8
+      7,
+      9,
+      9,
+      10,
+      15,
+      20,
+      122.84
     ],
     "search": {
       "id": "6ZBDYWkFG",
       "complexity": 18,
-      "total": 3
+      "total": 8
     },
     "builds": 1,
     "mods": [
@@ -2307,20 +2335,19 @@
   {
     "item": "Lightning Coil",
     "stats": "+# to level of socketed aoe gems",
-    "average": 331.0392857142857,
+    "average": 208.879,
     "prices": [
-      205.98,
-      205.98,
-      257.47499999999997,
-      308.96999999999997,
-      411.96,
-      411.96,
-      514.9499999999999
+      122.87,
+      184.305,
+      245.74,
+      245.74,
+      245.74,
+      614.35
     ],
     "search": {
       "id": "YD0Dv96UY",
       "complexity": 18,
-      "total": 7
+      "total": 6
     },
     "builds": 1,
     "mods": [
@@ -2335,18 +2362,19 @@
   {
     "item": "Lightning Coil",
     "stats": "+#% to all maximum resistances",
-    "average": 78.5,
+    "average": 57.5,
     "prices": [
-      77,
+      25,
+      25,
       80,
-      205.98,
-      1544.85,
-      6900.33
+      100,
+      1843.0500000000002,
+      8232.29
     ],
     "search": {
       "id": "80Z0zlZcV",
       "complexity": 18,
-      "total": 5
+      "total": 6
     },
     "builds": 1,
     "mods": [
@@ -2439,15 +2467,12 @@
   {
     "item": "Asenath's Gentle Touch",
     "stats": "+# to level of socketed aura gems, #% increased cast speed",
-    "average": 358.715,
-    "prices": [
-      204.98,
-      512.4499999999999
-    ],
+    "average": null,
+    "prices": [],
     "search": {
       "id": "9Y2KZKOIK",
       "complexity": 29,
-      "total": 2
+      "total": 0
     },
     "builds": 1,
     "mods": [
@@ -2468,12 +2493,14 @@
   {
     "item": "Asenath's Gentle Touch",
     "stats": "+# to level of socketed warcry gems, #% increased attack speed",
-    "average": null,
-    "prices": [],
+    "average": 122.87,
+    "prices": [
+      122.87
+    ],
     "search": {
       "id": "5odkd22Sa",
       "complexity": 30,
-      "total": 0
+      "total": 1
     },
     "builds": 1,
     "mods": [
@@ -2495,15 +2522,17 @@
   {
     "item": "Shaper's Touch",
     "stats": "+# to level of socketed aoe gems",
-    "average": 257.47499999999997,
+    "average": 73.2175,
     "prices": [
-      205.98,
-      308.96999999999997
+      40,
+      60,
+      70,
+      122.87
     ],
     "search": {
       "id": "EG8Vq7VU5",
       "complexity": 18,
-      "total": 2
+      "total": 4
     },
     "builds": 1,
     "mods": [
@@ -2518,12 +2547,17 @@
   {
     "item": "Shaper's Touch",
     "stats": "+# to level of socketed aura gems",
-    "average": null,
-    "prices": [],
+    "average": 122.87,
+    "prices": [
+      122.87,
+      122.87,
+      122.87,
+      245.74
+    ],
     "search": {
       "id": "0PQ6vEghg",
       "complexity": 18,
-      "total": 0
+      "total": 4
     },
     "builds": 1,
     "mods": [
@@ -2538,19 +2572,17 @@
   {
     "item": "Ephemeral Edge",
     "stats": "#% increased area of effect",
-    "average": 26.666666666666668,
+    "average": 28.5,
     "prices": [
       5,
-      5,
-      10,
-      30,
-      50,
-      60
+      19,
+      40,
+      50
     ],
     "search": {
       "id": "vlP9onDSE",
       "complexity": 18,
-      "total": 6
+      "total": 4
     },
     "builds": 1,
     "mods": [
@@ -2565,17 +2597,19 @@
   {
     "item": "Ephemeral Edge",
     "stats": "#% chance to gain onslaught for # seconds on kill",
-    "average": 5,
+    "average": 6.4,
     "prices": [
-      3,
+      2,
       4,
-      5,
-      8
+      6,
+      10,
+      10,
+      19
     ],
     "search": {
       "id": "z27GpRRI4",
       "complexity": 18,
-      "total": 4
+      "total": 6
     },
     "builds": 1,
     "mods": [
@@ -2590,14 +2624,14 @@
   {
     "item": "Vixen's Entrapment",
     "stats": "+# to level of socketed gems",
-    "average": 10,
+    "average": 9.333333333333334,
     "prices": [
+      5,
+      8,
       10,
       10,
       10,
-      10,
-      13,
-      50
+      13
     ],
     "search": {
       "id": "bPZgddLTL",
@@ -2617,15 +2651,18 @@
   {
     "item": "Vixen's Entrapment",
     "stats": "#% increased cast speed",
-    "average": 6,
+    "average": 9.6,
     "prices": [
-      2,
-      10
+      3,
+      10,
+      10,
+      10,
+      15
     ],
     "search": {
       "id": "PK7l22JCL",
       "complexity": 18,
-      "total": 2
+      "total": 5
     },
     "builds": 1,
     "mods": [
@@ -2640,19 +2677,17 @@
   {
     "item": "Eye of Malice",
     "stats": "regenerate #% of life per second",
-    "average": 40.99666666666667,
+    "average": 5.666666666666667,
     "prices": [
-      5,
+      2,
       5,
       10,
-      20,
-      102.99,
-      102.99
+      124.98
     ],
     "search": {
       "id": "LmdYYb5Fn",
       "complexity": 18,
-      "total": 6
+      "total": 4
     },
     "builds": 1,
     "mods": [
@@ -2667,14 +2702,15 @@
   {
     "item": "Perquil's Toe",
     "stats": "you can apply an additional curse",
-    "average": 514.9499999999999,
+    "average": 374.94,
     "prices": [
-      514.9499999999999
+      124.98,
+      624.9
     ],
     "search": {
       "id": "aboaB4aSe",
       "complexity": 18,
-      "total": 1
+      "total": 2
     },
     "builds": 1,
     "mods": [
@@ -2689,18 +2725,14 @@
   {
     "item": "Doedre's Damning",
     "stats": "bleeding cannot be inflicted on you",
-    "average": 37,
+    "average": 128.03,
     "prices": [
-      20,
-      25,
-      40,
-      50,
-      50
+      128.03
     ],
     "search": {
       "id": "aqe6VnKue",
       "complexity": 18,
-      "total": 5
+      "total": 1
     },
     "builds": 1,
     "mods": [
@@ -2741,16 +2773,14 @@
   {
     "item": "The Gull",
     "stats": "socketed skill gems get a #% cost & reservation multiplier",
-    "average": 102.99,
+    "average": 128.03,
     "prices": [
-      102.99,
-      102.99,
-      102.99
+      128.03
     ],
     "search": {
       "id": "y9EGvmgSR",
       "complexity": 18,
-      "total": 3
+      "total": 1
     },
     "builds": 1,
     "mods": [
@@ -2765,17 +2795,20 @@
   {
     "item": "March of the Legion",
     "stats": "+# to level of socketed projectile gems",
-    "average": 52.663333333333334,
+    "average": 15,
     "prices": [
+      10,
+      10,
+      15,
       20,
-      35,
-      102.99,
-      1544.85
+      20,
+      50,
+      128.03
     ],
     "search": {
       "id": "rXjkzWgCQ",
       "complexity": 18,
-      "total": 4
+      "total": 7
     },
     "builds": 1,
     "mods": [
@@ -2790,11 +2823,11 @@
   {
     "item": "March of the Legion",
     "stats": "+# to level of socketed duration gems",
-    "average": 4.777777777777778,
+    "average": 5,
     "prices": [
       3,
       4,
-      4,
+      5,
       5,
       5,
       5,
@@ -2806,7 +2839,7 @@
     "search": {
       "id": "rXjkno7TQ",
       "complexity": 18,
-      "total": 39
+      "total": 27
     },
     "builds": 1,
     "mods": [
@@ -2821,23 +2854,23 @@
   {
     "item": "March of the Legion",
     "stats": "+# to level of socketed gems",
-    "average": 6.4,
+    "average": 42.4,
     "prices": [
       4,
-      4,
       5,
       5,
-      5,
-      5,
-      7,
-      9,
       10,
-      10
+      50,
+      50,
+      60,
+      80,
+      80,
+      80
     ],
     "search": {
       "id": "jPpB8gdHX",
       "complexity": 18,
-      "total": 20
+      "total": 22
     },
     "builds": 1,
     "mods": [
@@ -2930,21 +2963,18 @@
   {
     "item": "Call of the Brotherhood",
     "stats": "#% increased strength, #% increased intelligence",
-    "average": 21.142857142857142,
+    "average": 62.160000000000004,
     "prices": [
-      8,
-      15,
+      4,
       20,
-      20,
-      25,
       30,
-      30,
-      103.51
+      128.4,
+      128.4
     ],
     "search": {
       "id": "XkOE08kIP",
       "complexity": 29,
-      "total": 8
+      "total": 5
     },
     "builds": 1,
     "mods": [
@@ -3123,23 +3153,20 @@
   {
     "item": "Snakebite",
     "stats": "curse enemies with temporal chains on hit",
-    "average": 54.02000000000001,
+    "average": 156.85857142857142,
     "prices": [
-      38,
       40,
-      40,
-      40,
-      40,
-      40,
-      40,
-      104.09,
-      104.09,
-      208.18
+      70,
+      75,
+      130.43,
+      260.86,
+      260.86,
+      260.86
     ],
     "search": {
       "id": "PK7gj0ZCL",
       "complexity": 18,
-      "total": 12
+      "total": 7
     },
     "builds": 1,
     "mods": [
@@ -3154,15 +3181,15 @@
   {
     "item": "Darkscorn",
     "stats": "+#% to global critical strike multiplier",
-    "average": 7.333333333333333,
+    "average": 7.5,
     "prices": [
-      6,
       7,
       7,
       7,
       7,
       7,
-      7,
+      8,
+      8,
       8,
       8,
       8
@@ -3170,7 +3197,7 @@
     "search": {
       "id": "mXjqZ8wt6",
       "complexity": 18,
-      "total": 209
+      "total": 138
     },
     "builds": 1,
     "mods": [
@@ -3211,15 +3238,14 @@
   {
     "item": "Vaal Caress",
     "stats": "+# to level of socketed duration gems",
-    "average": 468.36,
+    "average": 264.96,
     "prices": [
-      416.32,
-      520.4
+      264.96
     ],
     "search": {
       "id": "abo0zLRHe",
       "complexity": 18,
-      "total": 2
+      "total": 1
     },
     "builds": 1,
     "mods": [
@@ -3260,12 +3286,14 @@
   {
     "item": "Prism Guardian",
     "stats": "#% of physical damage from hits taken as lightning damage",
-    "average": null,
-    "prices": [],
+    "average": 70,
+    "prices": [
+      70
+    ],
     "search": {
       "id": "lPrrL90UV",
       "complexity": 18,
-      "total": 0
+      "total": 1
     },
     "builds": 1,
     "mods": [
@@ -3320,19 +3348,16 @@
   {
     "item": "Carcass Jack",
     "stats": "+# to level of socketed trap or mine gems",
-    "average": 76.25666666666667,
+    "average": 70.82666666666667,
     "prices": [
-      42,
-      45,
-      55,
-      105.18,
-      105.18,
-      105.18
+      30,
+      50,
+      132.48
     ],
     "search": {
       "id": "XqbmDMWTP",
       "complexity": 18,
-      "total": 6
+      "total": 3
     },
     "builds": 1,
     "mods": [
@@ -3413,22 +3438,16 @@
   {
     "item": "Heartbound Loop",
     "stats": "cannot be ignited",
-    "average": 6.285714285714286,
+    "average": 3,
     "prices": [
+      2,
       4,
-      5,
-      5,
-      5,
-      5,
-      10,
-      10,
-      15,
-      30
+      50
     ],
     "search": {
       "id": "3GwDRP9S5",
       "complexity": 18,
-      "total": 9
+      "total": 3
     },
     "builds": 1,
     "mods": [
@@ -3443,23 +3462,23 @@
   {
     "item": "Obliteration",
     "stats": "#% increased area of effect",
-    "average": 19.333333333333332,
+    "average": 17.555555555555557,
     "prices": [
-      10,
+      12,
+      14,
       15,
       15,
-      15,
-      19,
+      18,
+      18,
       20,
-      20,
-      30,
-      30,
-      40
+      22,
+      24,
+      30
     ],
     "search": {
       "id": "dX4QqW3hJ",
       "complexity": 18,
-      "total": 13
+      "total": 23
     },
     "builds": 1,
     "mods": [
@@ -3474,14 +3493,12 @@
   {
     "item": "Oskarm",
     "stats": "curse enemies with vulnerability on hit",
-    "average": 105.18,
-    "prices": [
-      105.18
-    ],
+    "average": null,
+    "prices": [],
     "search": {
       "id": "Ey658Gzh5",
       "complexity": 18,
-      "total": 1
+      "total": 0
     },
     "builds": 1,
     "mods": [
@@ -3562,16 +3579,14 @@
   {
     "item": "Ventor's Gamble",
     "stats": "bleeding cannot be inflicted on you",
-    "average": 22.5,
+    "average": 10,
     "prices": [
-      20,
-      25,
-      107.33
+      10
     ],
     "search": {
       "id": "YVg902DIY",
       "complexity": 18,
-      "total": 3
+      "total": 1
     },
     "builds": 1,
     "mods": [
@@ -3586,21 +3601,18 @@
   {
     "item": "Tabula Rasa",
     "stats": "#% increased damage",
-    "average": 104.41499999999999,
+    "average": 95.604,
     "prices": [
-      48,
       55,
-      60,
-      60,
-      80,
-      103,
-      214.66,
-      214.66
+      89,
+      100,
+      100,
+      134.02
     ],
     "search": {
       "id": "lXj2OynFV",
       "complexity": 18,
-      "total": 8
+      "total": 5
     },
     "builds": 1,
     "mods": [
@@ -3615,17 +3627,16 @@
   {
     "item": "Tabula Rasa",
     "stats": "+# to level of socketed aoe gems",
-    "average": 107.33,
+    "average": 134.02,
     "prices": [
-      107.33,
-      107.33,
-      107.33,
-      107.33
+      90,
+      134.02,
+      134.02
     ],
     "search": {
       "id": "oXjLOwkUl",
       "complexity": 18,
-      "total": 4
+      "total": 3
     },
     "builds": 1,
     "mods": [
@@ -3640,18 +3651,16 @@
   {
     "item": "Tabula Rasa",
     "stats": "+# to level of socketed duration gems",
-    "average": 80,
+    "average": 134.02,
     "prices": [
-      80,
-      80,
-      80,
-      84,
-      107.33
+      100,
+      134.02,
+      134.02
     ],
     "search": {
       "id": "VMgXY92sp",
       "complexity": 18,
-      "total": 5
+      "total": 3
     },
     "builds": 1,
     "mods": [
@@ -3686,10 +3695,10 @@
   {
     "item": "Atziri's Foible",
     "stats": "you can apply an additional curse",
-    "average": 321.99,
+    "average": 402.06000000000006,
     "prices": [
-      321.99,
-      321.99
+      402.06000000000006,
+      402.06000000000006
     ],
     "search": {
       "id": "dX4J9ObcJ",
@@ -3709,15 +3718,14 @@
   {
     "item": "Cloak of Defiance",
     "stats": "#% increased damage",
-    "average": 214.66,
+    "average": 20,
     "prices": [
-      214.66,
-      214.66
+      20
     ],
     "search": {
       "id": "3GwWVB0I5",
       "complexity": 18,
-      "total": 2
+      "total": 1
     },
     "builds": 1,
     "mods": [
@@ -3779,21 +3787,19 @@
   {
     "item": "Demon Stitcher",
     "stats": "+# to level of socketed aura gems",
-    "average": 18.5,
+    "average": 7.4,
     "prices": [
+      2,
       5,
-      7,
+      5,
+      10,
       15,
-      22,
-      27,
-      35,
-      107.33,
-      160.995
+      268.04
     ],
     "search": {
       "id": "8a2GpmBIV",
       "complexity": 18,
-      "total": 8
+      "total": 6
     },
     "builds": 1,
     "mods": [
@@ -3932,14 +3938,12 @@
   {
     "item": "Legacy of Fury",
     "stats": "#% increased movement speed",
-    "average": 108.66,
-    "prices": [
-      108.66
-    ],
+    "average": null,
+    "prices": [],
     "search": {
       "id": "6Gqvl6XuG",
       "complexity": 18,
-      "total": 1
+      "total": 0
     },
     "builds": 1,
     "mods": [
@@ -4006,15 +4010,14 @@
   {
     "item": "Replica Dragonfang's Flight",
     "stats": "you can apply an additional curse",
-    "average": 325.97999999999996,
+    "average": 403.43999999999994,
     "prices": [
-      108.66,
-      543.3
+      403.43999999999994
     ],
     "search": {
       "id": "no9rlYyH0",
       "complexity": 18,
-      "total": 2
+      "total": 1
     },
     "builds": 1,
     "mods": [
@@ -4031,13 +4034,12 @@
     "stats": "+#% chance to block",
     "average": 5,
     "prices": [
-      5,
       5
     ],
     "search": {
       "id": "5okJQ8dia",
       "complexity": 18,
-      "total": 2
+      "total": 1
     },
     "builds": 1,
     "mods": [
@@ -4052,18 +4054,15 @@
   {
     "item": "Lori's Lantern",
     "stats": "discipline has #% increased aura effect",
-    "average": 11,
+    "average": 2,
     "prices": [
-      2,
-      5,
-      10,
-      18,
-      20
+      1,
+      3
     ],
     "search": {
       "id": "QVYkJBMTw",
       "complexity": 18,
-      "total": 5
+      "total": 2
     },
     "builds": 1,
     "mods": [
@@ -4078,7 +4077,7 @@
   {
     "item": "Doomfletch",
     "stats": "#% increased elemental damage with attack skills",
-    "average": 1,
+    "average": 1.4,
     "prices": [
       1,
       1,
@@ -4086,15 +4085,15 @@
       1,
       1,
       1,
-      1,
-      1,
-      1,
-      1
+      2,
+      2,
+      2,
+      2
     ],
     "search": {
       "id": "Eyd2PQKc5",
       "complexity": 18,
-      "total": 365
+      "total": 201
     },
     "builds": 1,
     "mods": [
@@ -4109,23 +4108,15 @@
   {
     "item": "Tanu Ahi",
     "stats": "attacks have +#% to critical strike chance",
-    "average": 62.59799999999999,
+    "average": 1205.82,
     "prices": [
-      30,
-      30,
-      40,
-      40,
-      50,
-      50,
-      60,
-      108.66,
-      108.66,
-      108.66
+      1071.84,
+      1339.8
     ],
     "search": {
       "id": "nXJBg42T0",
       "complexity": 18,
-      "total": 11
+      "total": 2
     },
     "builds": 1,
     "mods": [
@@ -4160,9 +4151,9 @@
   {
     "item": "Hyrri's Truth",
     "stats": "you can apply an additional curse",
-    "average": 1086.6,
+    "average": 937.8599999999999,
     "prices": [
-      1086.6
+      937.8599999999999
     ],
     "search": {
       "id": "rY5YQ07CQ",
