@@ -3110,6 +3110,13 @@
   {
     "item": "Call of the Brotherhood",
     "stats": "grants level # hatred skill, #% increased strength, #% increased intelligence",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "DLp8K6vu5",
+      "complexity": 20,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -3135,6 +3142,13 @@
   {
     "item": "Call of the Brotherhood",
     "stats": "anger has #% increased aura effect, determination has #% increased aura effect",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "oZvaGQOFl",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -3154,6 +3168,13 @@
   {
     "item": "Bubonic Trail",
     "stats": "+# to level of socketed duration gems",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "vljKgqZCE",
+      "complexity": 18,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -3167,6 +3188,13 @@
   {
     "item": "Bubonic Trail",
     "stats": "+# to level of socketed gems",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "4dv3yQYt9",
+      "complexity": 18,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -3180,6 +3208,15 @@
   {
     "item": "Lightpoacher",
     "stats": "regenerate #% of life per second",
+    "average": 10,
+    "prices": [
+      10
+    ],
+    "search": {
+      "id": "3B6QJKgF5",
+      "complexity": 18,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
