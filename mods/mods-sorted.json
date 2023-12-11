@@ -2615,6 +2615,20 @@
   {
     "item": "Ephemeral Edge",
     "stats": "#% chance to gain onslaught for # seconds on kill",
+    "average": 6.333333333333333,
+    "prices": [
+      3,
+      5,
+      5,
+      5,
+      10,
+      10
+    ],
+    "search": {
+      "id": "z27GpRRI4",
+      "complexity": 18,
+      "total": 6
+    },
     "builds": 1,
     "mods": [
       {
@@ -2628,6 +2642,21 @@
   {
     "item": "Vixen's Entrapment",
     "stats": "+# to level of socketed gems",
+    "average": 9.5,
+    "prices": [
+      5,
+      10,
+      10,
+      13,
+      55,
+      261.98,
+      589.455
+    ],
+    "search": {
+      "id": "bPZgddLTL",
+      "complexity": 18,
+      "total": 7
+    },
     "builds": 1,
     "mods": [
       {
@@ -2641,6 +2670,16 @@
   {
     "item": "Vixen's Entrapment",
     "stats": "#% increased cast speed",
+    "average": 10,
+    "prices": [
+      10,
+      10
+    ],
+    "search": {
+      "id": "PK7l22JCL",
+      "complexity": 18,
+      "total": 2
+    },
     "builds": 1,
     "mods": [
       {
@@ -2654,6 +2693,20 @@
   {
     "item": "Eye of Malice",
     "stats": "regenerate #% of life per second",
+    "average": 48.663333333333334,
+    "prices": [
+      5,
+      5,
+      10,
+      10,
+      130.99,
+      130.99
+    ],
+    "search": {
+      "id": "LmdYYb5Fn",
+      "complexity": 18,
+      "total": 6
+    },
     "builds": 1,
     "mods": [
       {
@@ -2667,6 +2720,17 @@
   {
     "item": "Perquil's Toe",
     "stats": "you can apply an additional curse",
+    "average": 130.99,
+    "prices": [
+      50,
+      130.99,
+      130.99
+    ],
+    "search": {
+      "id": "aboaB4aSe",
+      "complexity": 18,
+      "total": 3
+    },
     "builds": 1,
     "mods": [
       {
