@@ -3138,6 +3138,13 @@
   {
     "item": "Ancestral Vision",
     "stats": "corrupted blood cannot be inflicted on you",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "plLZELbt0",
+      "complexity": 18,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -3151,6 +3158,13 @@
   {
     "item": "Ancestral Vision",
     "stats": "#% increased damage",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "LmdwQrBHn",
+      "complexity": 18,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -3164,6 +3178,24 @@
   {
     "item": "Snakebite",
     "stats": "curse enemies with temporal chains on hit",
+    "average": 95,
+    "prices": [
+      10,
+      90,
+      90,
+      90,
+      90,
+      100,
+      100,
+      100,
+      100,
+      110
+    ],
+    "search": {
+      "id": "PK7gj0ZCL",
+      "complexity": 18,
+      "total": 16
+    },
     "builds": 1,
     "mods": [
       {
@@ -3177,6 +3209,24 @@
   {
     "item": "Darkscorn",
     "stats": "+#% to global critical strike multiplier",
+    "average": 6,
+    "prices": [
+      2,
+      5,
+      5,
+      5,
+      6,
+      6,
+      6,
+      7,
+      7,
+      7
+    ],
+    "search": {
+      "id": "mXjqZ8wt6",
+      "complexity": 18,
+      "total": 248
+    },
     "builds": 1,
     "mods": [
       {
@@ -3190,6 +3240,13 @@
   {
     "item": "The Squire",
     "stats": "you take #% reduced extra damage from critical strikes, #% increased maximum life",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "Pd8pwJMhL",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
