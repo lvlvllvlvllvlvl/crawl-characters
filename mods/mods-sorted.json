@@ -1574,6 +1574,13 @@
   {
     "item": "Shadows and Dust",
     "stats": "#% increased maximum energy shield, attacks have +#% to critical strike chance",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "EyVjjPBH5",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -1593,6 +1600,24 @@
   {
     "item": "Shadows and Dust",
     "stats": "+#% to spell critical strike chance",
+    "average": 6.7,
+    "prices": [
+      4,
+      5,
+      5,
+      5,
+      7,
+      7,
+      7,
+      8,
+      9,
+      10
+    ],
+    "search": {
+      "id": "ZbErrd0uQ",
+      "complexity": 18,
+      "total": 32
+    },
     "builds": 1,
     "mods": [
       {
@@ -1606,6 +1631,23 @@
   {
     "item": "Alpha's Howl",
     "stats": "+# to maximum power charges",
+    "average": 83.79857142857142,
+    "prices": [
+      15,
+      30,
+      70,
+      80,
+      130.53,
+      130.53,
+      130.53,
+      261.06,
+      4568.55
+    ],
+    "search": {
+      "id": "lXjLVaVUV",
+      "complexity": 18,
+      "total": 9
+    },
     "builds": 1,
     "mods": [
       {
@@ -1619,6 +1661,17 @@
   {
     "item": "Alpha's Howl",
     "stats": "+# to level of socketed aura gems",
+    "average": 147.1966666666667,
+    "prices": [
+      50,
+      130.53,
+      261.06
+    ],
+    "search": {
+      "id": "EG8P4gyC5",
+      "complexity": 18,
+      "total": 3
+    },
     "builds": 1,
     "mods": [
       {
@@ -1632,6 +1685,24 @@
   {
     "item": "Null and Void",
     "stats": "+# to maximum frenzy charges",
+    "average": 18.2,
+    "prices": [
+      5,
+      14,
+      15,
+      15,
+      15,
+      15,
+      20,
+      25,
+      29,
+      29
+    ],
+    "search": {
+      "id": "PdaZZ9GhL",
+      "complexity": 18,
+      "total": 14
+    },
     "builds": 1,
     "mods": [
       {
