@@ -3695,6 +3695,16 @@
   {
     "item": "Atziri's Foible",
     "stats": "you can apply an additional curse",
+    "average": 402.06000000000006,
+    "prices": [
+      402.06000000000006,
+      402.06000000000006
+    ],
+    "search": {
+      "id": "dX4J9ObcJ",
+      "complexity": 18,
+      "total": 2
+    },
     "builds": 1,
     "mods": [
       {
@@ -3708,6 +3718,15 @@
   {
     "item": "Cloak of Defiance",
     "stats": "#% increased damage",
+    "average": 20,
+    "prices": [
+      20
+    ],
+    "search": {
+      "id": "3GwWVB0I5",
+      "complexity": 18,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -3721,6 +3740,13 @@
   {
     "item": "Dance of the Offered",
     "stats": "+# to level of socketed gems",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "GkdRWoWCb",
+      "complexity": 18,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -3734,6 +3760,13 @@
   {
     "item": "Rearguard",
     "stats": "#% of fire damage leeched as life, bow attacks fire an additional arrow",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "JVnJRBRIl",
+      "complexity": 30,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -3754,6 +3787,20 @@
   {
     "item": "Demon Stitcher",
     "stats": "+# to level of socketed aura gems",
+    "average": 7.4,
+    "prices": [
+      2,
+      5,
+      5,
+      10,
+      15,
+      268.04
+    ],
+    "search": {
+      "id": "8a2GpmBIV",
+      "complexity": 18,
+      "total": 6
+    },
     "builds": 1,
     "mods": [
       {
