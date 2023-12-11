@@ -1248,6 +1248,13 @@
   {
     "item": "Warrior's Tale",
     "stats": "#% increased reservation efficiency of skills, you cannot be hindered",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "nXjQQJJf0",
+      "complexity": 30,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -1268,6 +1275,24 @@
   {
     "item": "Goldwyrm",
     "stats": "+# to level of socketed curse gems",
+    "average": 5,
+    "prices": [
+      1,
+      2,
+      4,
+      5,
+      5,
+      5,
+      5,
+      5,
+      6,
+      8
+    ],
+    "search": {
+      "id": "oZ89EgYsl",
+      "complexity": 18,
+      "total": 23
+    },
     "builds": 1,
     "mods": [
       {
@@ -1281,6 +1306,24 @@
   {
     "item": "Goldwyrm",
     "stats": "+#% chance to suppress spell damage",
+    "average": 15.9,
+    "prices": [
+      3,
+      3,
+      5,
+      8,
+      20,
+      20,
+      20,
+      20,
+      30,
+      30
+    ],
+    "search": {
+      "id": "EG8VqLZU5",
+      "complexity": 19,
+      "total": 25
+    },
     "builds": 1,
     "mods": [
       {
@@ -1295,6 +1338,15 @@
   {
     "item": "Eyes of the Greatwolf",
     "stats": "#% increased damage, #% increased quantity of items found",
+    "average": 1599.2400000000002,
+    "prices": [
+      1599.2400000000002
+    ],
+    "search": {
+      "id": "plLlQGdH0",
+      "complexity": 29,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -1314,6 +1366,24 @@
   {
     "item": "Eyes of the Greatwolf",
     "stats": "#% increased quantity of items found",
+    "average": 474.44500000000005,
+    "prices": [
+      80,
+      266.54,
+      266.54,
+      266.54,
+      266.54,
+      266.54,
+      666.35,
+      799.6200000000001,
+      932.8900000000001,
+      932.8900000000001
+    ],
+    "search": {
+      "id": "ZPQr9XbfQ",
+      "complexity": 18,
+      "total": 31
+    },
     "builds": 1,
     "mods": [
       {
