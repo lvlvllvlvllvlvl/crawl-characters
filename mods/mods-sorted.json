@@ -1814,6 +1814,15 @@
   {
     "item": "Heatshiver",
     "stats": "+# to level of socketed projectile gems, #% increased maximum life",
+    "average": 20,
+    "prices": [
+      20
+    ],
+    "search": {
+      "id": "gXDZdRgUQ",
+      "complexity": 29,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -1833,6 +1842,13 @@
   {
     "item": "The Stampede",
     "stats": "regenerate # life per second while moving",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "kX4ygJ5c5",
+      "complexity": 18,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -1846,6 +1862,15 @@
   {
     "item": "Crown of the Inward Eye",
     "stats": "regenerate #% of life per second",
+    "average": 40,
+    "prices": [
+      40
+    ],
+    "search": {
+      "id": "qayp5XWsg",
+      "complexity": 18,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -1859,6 +1884,24 @@
   {
     "item": "Sadima's Touch",
     "stats": "curse enemies with despair on hit",
+    "average": 167.88960000000003,
+    "prices": [
+      23,
+      68,
+      100,
+      110,
+      132.49,
+      198.735,
+      251.731,
+      264.98,
+      264.98,
+      264.98
+    ],
+    "search": {
+      "id": "v3mvnDMCE",
+      "complexity": 18,
+      "total": 21
+    },
     "builds": 1,
     "mods": [
       {
@@ -1872,6 +1915,24 @@
   {
     "item": "Sadima's Touch",
     "stats": "curse enemies with elemental weakness on hit",
+    "average": 10,
+    "prices": [
+      7,
+      7,
+      9,
+      10,
+      10,
+      10,
+      10,
+      10,
+      10,
+      10
+    ],
+    "search": {
+      "id": "mP2gJyBu6",
+      "complexity": 18,
+      "total": 29
+    },
     "builds": 1,
     "mods": [
       {
