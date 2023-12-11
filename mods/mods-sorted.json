@@ -779,6 +779,13 @@
   {
     "item": "Victario's Influence",
     "stats": "+# to level of socketed gems, +# to level of socketed aoe gems",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "emYDwLYsL",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -798,6 +805,13 @@
   {
     "item": "Victario's Influence",
     "stats": "+# to level of socketed minion gems, +# to level of socketed aura gems",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "y9E0KkrhR",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -817,6 +831,17 @@
   {
     "item": "Victario's Influence",
     "stats": "+# to level of socketed duration gems, +# to level of socketed aura gems",
+    "average": 400.5600000000001,
+    "prices": [
+      267.04,
+      400.56000000000006,
+      534.08
+    ],
+    "search": {
+      "id": "DGvmrmvI5",
+      "complexity": 29,
+      "total": 3
+    },
     "builds": 1,
     "mods": [
       {
@@ -836,6 +861,13 @@
   {
     "item": "Inspired Learning",
     "stats": "#% reduced effect of shock on you",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "lPrZWRnFV",
+      "complexity": 18,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -849,6 +881,15 @@
   {
     "item": "Inspired Learning",
     "stats": "damage penetrates #% cold resistance",
+    "average": 1068.16,
+    "prices": [
+      1068.16
+    ],
+    "search": {
+      "id": "KJdeLGqs5",
+      "complexity": 19,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
