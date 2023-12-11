@@ -295,6 +295,16 @@
   {
     "item": "Victario's Influence",
     "stats": "+# to level of socketed gems, +# to level of socketed aura gems",
+    "average": 1435.83,
+    "prices": [
+      1305.3,
+      1566.3600000000001
+    ],
+    "search": {
+      "id": "emYBeMnsL",
+      "complexity": 29,
+      "total": 2
+    },
     "builds": 2,
     "mods": [
       {
@@ -314,6 +324,24 @@
   {
     "item": "Goldwyrm",
     "stats": "regenerate # life per second while moving",
+    "average": 4,
+    "prices": [
+      1,
+      2,
+      3,
+      3,
+      3,
+      5,
+      5,
+      5,
+      5,
+      5
+    ],
+    "search": {
+      "id": "qay7pV3hg",
+      "complexity": 18,
+      "total": 41
+    },
     "builds": 2,
     "mods": [
       {
@@ -327,6 +355,24 @@
   {
     "item": "Kaom's Spirit",
     "stats": "+# to maximum frenzy charges",
+    "average": 130.53,
+    "prices": [
+      50,
+      91.371,
+      130.53,
+      130.53,
+      130.53,
+      130.53,
+      130.53,
+      130.53,
+      130.53,
+      130.53
+    ],
+    "search": {
+      "id": "VyB7zXgIp",
+      "complexity": 18,
+      "total": 12
+    },
     "builds": 2,
     "mods": [
       {
@@ -340,6 +386,19 @@
   {
     "item": "Matua Tupuna",
     "stats": "+# to level of socketed aura gems",
+    "average": 186.00525000000002,
+    "prices": [
+      130.53,
+      195.79500000000002,
+      195.79500000000002,
+      221.90099999999998,
+      652.65
+    ],
+    "search": {
+      "id": "0PQlkZ8ig",
+      "complexity": 18,
+      "total": 5
+    },
     "builds": 2,
     "mods": [
       {
@@ -353,6 +412,13 @@
   {
     "item": "The Torrent's Reclamation",
     "stats": "#% increased maximum energy shield, determination has #% increased aura effect",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "EGp4v04S5",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
