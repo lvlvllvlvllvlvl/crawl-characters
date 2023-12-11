@@ -149,6 +149,17 @@
   {
     "item": "Kaom's Spirit",
     "stats": "attacks have +#% to critical strike chance",
+    "average": 134.48,
+    "prices": [
+      90,
+      134.48,
+      134.48
+    ],
+    "search": {
+      "id": "aboQ2v3Se",
+      "complexity": 18,
+      "total": 3
+    },
     "builds": 3,
     "mods": [
       {
@@ -162,6 +173,17 @@
   {
     "item": "Matua Tupuna",
     "stats": "+# to level of socketed gems",
+    "average": 68.16,
+    "prices": [
+      20,
+      50,
+      134.48
+    ],
+    "search": {
+      "id": "jPpRJKlTX",
+      "complexity": 18,
+      "total": 3
+    },
     "builds": 3,
     "mods": [
       {
@@ -175,6 +197,13 @@
   {
     "item": "The Poet's Pen",
     "stats": "damage penetrates #% elemental resistances",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "LeWk24Bin",
+      "complexity": 18,
+      "total": 0
+    },
     "builds": 2,
     "mods": [
       {
@@ -188,6 +217,17 @@
   {
     "item": "The Annihilating Light",
     "stats": "#% increased cast speed",
+    "average": 381.02666666666664,
+    "prices": [
+      201.71999999999997,
+      268.96,
+      672.4
+    ],
+    "search": {
+      "id": "EG8PzJYF5",
+      "complexity": 18,
+      "total": 3
+    },
     "builds": 2,
     "mods": [
       {
@@ -201,6 +241,24 @@
   {
     "item": "Victario's Influence",
     "stats": "+# to level of socketed aura gems",
+    "average": 58.144000000000005,
+    "prices": [
+      4,
+      14,
+      20,
+      20,
+      20,
+      50,
+      50,
+      134.48,
+      134.48,
+      134.48
+    ],
+    "search": {
+      "id": "806kqWnUV",
+      "complexity": 18,
+      "total": 21
+    },
     "builds": 2,
     "mods": [
       {
