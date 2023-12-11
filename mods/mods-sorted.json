@@ -1716,6 +1716,24 @@
   {
     "item": "Bated Breath",
     "stats": "zealotry has #% increased aura effect",
+    "average": 21.285714285714285,
+    "prices": [
+      19,
+      20,
+      20,
+      20,
+      20,
+      25,
+      25,
+      30,
+      50,
+      50
+    ],
+    "search": {
+      "id": "gXDl2naFQ",
+      "complexity": 18,
+      "total": 13
+    },
     "builds": 1,
     "mods": [
       {
@@ -1729,6 +1747,13 @@
   {
     "item": "Bated Breath",
     "stats": "#% increased dexterity, #% increased intelligence, #% increased maximum energy shield",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "7lKm9nlu5",
+      "complexity": 20,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -1754,6 +1779,21 @@
   {
     "item": "Yoke of Suffering",
     "stats": "you can apply an additional curse",
+    "average": 718.4091428571429,
+    "prices": [
+      445.264,
+      523.84,
+      654.8000000000001,
+      785.76,
+      785.76,
+      785.76,
+      1047.68
+    ],
+    "search": {
+      "id": "W5Xeb8mcm",
+      "complexity": 18,
+      "total": 7
+    },
     "builds": 1,
     "mods": [
       {
@@ -1767,6 +1807,20 @@
   {
     "item": "Yoke of Suffering",
     "stats": "hatred has #% increased aura effect",
+    "average": 130.96,
+    "prices": [
+      130.96,
+      130.96,
+      130.96,
+      130.96,
+      130.96,
+      261.92
+    ],
+    "search": {
+      "id": "yrJvMDrsR",
+      "complexity": 18,
+      "total": 6
+    },
     "builds": 1,
     "mods": [
       {
@@ -1780,6 +1834,13 @@
   {
     "item": "Heatshiver",
     "stats": "+# to level of socketed duration gems, +# to level of socketed aoe gems",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "MvRLBlGcJ",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
