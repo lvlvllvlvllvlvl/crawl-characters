@@ -2478,6 +2478,13 @@
   {
     "item": "Asenath's Gentle Touch",
     "stats": "+# to level of socketed aura gems, #% increased cast speed",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "9Y2KZKOIK",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -2497,6 +2504,13 @@
   {
     "item": "Asenath's Gentle Touch",
     "stats": "+# to level of socketed warcry gems, #% increased attack speed",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "5odkd22Sa",
+      "complexity": 30,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -2517,6 +2531,24 @@
   {
     "item": "Shaper's Touch",
     "stats": "+# to level of socketed aoe gems",
+    "average": 68,
+    "prices": [
+      55,
+      60,
+      60,
+      70,
+      70,
+      70,
+      79,
+      80,
+      131.49,
+      131.49
+    ],
+    "search": {
+      "id": "EG8Vq7VU5",
+      "complexity": 18,
+      "total": 12
+    },
     "builds": 1,
     "mods": [
       {
@@ -2530,6 +2562,21 @@
   {
     "item": "Shaper's Touch",
     "stats": "+# to level of socketed aura gems",
+    "average": 94.71142857142857,
+    "prices": [
+      60,
+      70,
+      80,
+      90,
+      100,
+      131.49,
+      131.49
+    ],
+    "search": {
+      "id": "0PQ6vEghg",
+      "complexity": 18,
+      "total": 7
+    },
     "builds": 1,
     "mods": [
       {
@@ -2543,6 +2590,18 @@
   {
     "item": "Ephemeral Edge",
     "stats": "#% increased area of effect",
+    "average": 23.75,
+    "prices": [
+      5,
+      10,
+      30,
+      50
+    ],
+    "search": {
+      "id": "vlP9onDSE",
+      "complexity": 18,
+      "total": 4
+    },
     "builds": 1,
     "mods": [
       {
