@@ -2744,6 +2744,15 @@
   {
     "item": "Doedre's Damning",
     "stats": "bleeding cannot be inflicted on you",
+    "average": 130.99,
+    "prices": [
+      130.99
+    ],
+    "search": {
+      "id": "aqe6VnKue",
+      "complexity": 18,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -2757,6 +2766,13 @@
   {
     "item": "Windscream",
     "stats": "+# to level of socketed gems, +# to level of socketed minion gems",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "5o5MOmoua",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -2776,6 +2792,13 @@
   {
     "item": "The Gull",
     "stats": "socketed skill gems get a #% cost & reservation multiplier",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "y9EGvmgSR",
+      "complexity": 18,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -2789,6 +2812,24 @@
   {
     "item": "March of the Legion",
     "stats": "+# to level of socketed projectile gems",
+    "average": 120.3326,
+    "prices": [
+      9,
+      10,
+      15,
+      20,
+      80,
+      100,
+      183.386,
+      261.98,
+      261.98,
+      261.98
+    ],
+    "search": {
+      "id": "rXjkzWgCQ",
+      "complexity": 18,
+      "total": 15
+    },
     "builds": 1,
     "mods": [
       {
@@ -2802,6 +2843,24 @@
   {
     "item": "March of the Legion",
     "stats": "+# to level of socketed duration gems",
+    "average": 4.777777777777778,
+    "prices": [
+      4,
+      4,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      10
+    ],
+    "search": {
+      "id": "rXjkno7TQ",
+      "complexity": 18,
+      "total": 41
+    },
     "builds": 1,
     "mods": [
       {
