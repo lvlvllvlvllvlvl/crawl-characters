@@ -3722,6 +3722,17 @@
   {
     "item": "Ventor's Gamble",
     "stats": "bleeding cannot be inflicted on you",
+    "average": 12.5,
+    "prices": [
+      10,
+      15,
+      80
+    ],
+    "search": {
+      "id": "YVg902DIY",
+      "complexity": 18,
+      "total": 3
+    },
     "builds": 1,
     "mods": [
       {
@@ -3735,6 +3746,17 @@
   {
     "item": "Tabula Rasa",
     "stats": "#% increased damage",
+    "average": 100,
+    "prices": [
+      100,
+      100,
+      132.98
+    ],
+    "search": {
+      "id": "lXj2OynFV",
+      "complexity": 18,
+      "total": 3
+    },
     "builds": 1,
     "mods": [
       {
@@ -3748,6 +3770,20 @@
   {
     "item": "Tabula Rasa",
     "stats": "+# to level of socketed aoe gems",
+    "average": 82,
+    "prices": [
+      75,
+      76,
+      80,
+      89,
+      90,
+      132.98
+    ],
+    "search": {
+      "id": "oXjLOwkUl",
+      "complexity": 18,
+      "total": 6
+    },
     "builds": 1,
     "mods": [
       {
@@ -3761,6 +3797,17 @@
   {
     "item": "Tabula Rasa",
     "stats": "+# to level of socketed duration gems",
+    "average": 144.14999999999998,
+    "prices": [
+      100,
+      132.98,
+      199.46999999999997
+    ],
+    "search": {
+      "id": "VMgXY92sp",
+      "complexity": 18,
+      "total": 3
+    },
     "builds": 1,
     "mods": [
       {
@@ -3774,6 +3821,13 @@
   {
     "item": "Indigon",
     "stats": "+# to maximum power charges",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "jXJ9MZbHX",
+      "complexity": 18,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
