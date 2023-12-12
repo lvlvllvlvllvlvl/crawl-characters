@@ -1970,6 +1970,24 @@
   {
     "item": "Sadima's Touch",
     "stats": "#% increased cast speed",
+    "average": 3.3,
+    "prices": [
+      2,
+      2,
+      2,
+      2,
+      3,
+      3,
+      4,
+      5,
+      5,
+      5
+    ],
+    "search": {
+      "id": "K9gKZ2RC5",
+      "complexity": 18,
+      "total": 28
+    },
     "builds": 1,
     "mods": [
       {
@@ -1983,6 +2001,24 @@
   {
     "item": "Sadima's Touch",
     "stats": "attacks have +#% to critical strike chance",
+    "average": 21,
+    "prices": [
+      14,
+      15,
+      15,
+      17,
+      20,
+      24,
+      25,
+      25,
+      25,
+      30
+    ],
+    "search": {
+      "id": "2Gb38wjTk",
+      "complexity": 18,
+      "total": 27
+    },
     "builds": 1,
     "mods": [
       {
@@ -1996,6 +2032,13 @@
   {
     "item": "Hyrri's Ire",
     "stats": "+# to level of socketed minion gems",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "qXlZDzvTg",
+      "complexity": 18,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -2009,6 +2052,13 @@
   {
     "item": "Hyrri's Ire",
     "stats": "+# to level of socketed gems, +# to level of socketed projectile gems",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "OVnvVyOTE",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -2028,6 +2078,24 @@
   {
     "item": "String of Servitude",
     "stats": "discipline has #% increased aura effect",
+    "average": 7.6,
+    "prices": [
+      1,
+      3,
+      4,
+      7,
+      8,
+      10,
+      10,
+      10,
+      11,
+      12
+    ],
+    "search": {
+      "id": "0PQe4Kehg",
+      "complexity": 18,
+      "total": 20
+    },
     "builds": 1,
     "mods": [
       {
