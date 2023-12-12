@@ -2,6 +2,24 @@
   {
     "item": "String of Servitude",
     "stats": "hatred has #% increased aura effect",
+    "average": 12.5,
+    "prices": [
+      3,
+      5,
+      8,
+      10,
+      12,
+      14,
+      15,
+      19,
+      19,
+      20
+    ],
+    "search": {
+      "id": "OpJoQXOSE",
+      "complexity": 18,
+      "total": 26
+    },
     "builds": 5,
     "mods": [
       {
@@ -15,6 +33,18 @@
   {
     "item": "Shadows and Dust",
     "stats": "+# to maximum frenzy charges",
+    "average": 1149.5524999999998,
+    "prices": [
+      205.89,
+      274.52,
+      1372.6,
+      2745.2
+    ],
+    "search": {
+      "id": "eXWQDQ4IL",
+      "complexity": 18,
+      "total": 4
+    },
     "builds": 4,
     "mods": [
       {
@@ -28,6 +58,16 @@
   {
     "item": "Shadows and Dust",
     "stats": "attacks have +#% to critical strike chance",
+    "average": 549.04,
+    "prices": [
+      549.04,
+      549.04
+    ],
+    "search": {
+      "id": "2BrO0y5sk",
+      "complexity": 18,
+      "total": 2
+    },
     "builds": 4,
     "mods": [
       {
@@ -41,6 +81,24 @@
   {
     "item": "Heatshiver",
     "stats": "socketed skill gems get a #% cost & reservation multiplier",
+    "average": 332.4742222222221,
+    "prices": [
+      205.89,
+      247.06799999999998,
+      274.52,
+      274.52,
+      343.15,
+      411.78,
+      411.78,
+      411.78,
+      411.78,
+      686.3
+    ],
+    "search": {
+      "id": "plLWklwf0",
+      "complexity": 18,
+      "total": 11
+    },
     "builds": 4,
     "mods": [
       {
@@ -54,6 +112,24 @@
   {
     "item": "Soul Mantle",
     "stats": "+# to level of socketed projectile gems",
+    "average": 253.93099999999998,
+    "prices": [
+      205.89,
+      205.89,
+      247.06799999999998,
+      274.52,
+      274.52,
+      274.52,
+      274.52,
+      274.52,
+      411.78,
+      549.04
+    ],
+    "search": {
+      "id": "rY5anw7cQ",
+      "complexity": 18,
+      "total": 16
+    },
     "builds": 3,
     "mods": [
       {
