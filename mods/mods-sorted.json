@@ -1412,6 +1412,22 @@
   {
     "item": "Kaom's Spirit",
     "stats": "curse enemies with elemental weakness on hit",
+    "average": 182.03900000000002,
+    "prices": [
+      140.03,
+      154.03300000000002,
+      182.03900000000002,
+      196.042,
+      210.04500000000002,
+      210.04500000000002,
+      280.06,
+      700.15
+    ],
+    "search": {
+      "id": "gPeDJ0OsQ",
+      "complexity": 18,
+      "total": 8
+    },
     "builds": 1,
     "mods": [
       {
@@ -1425,6 +1441,13 @@
   {
     "item": "Headhunter",
     "stats": "#% increased movement speed during any flask effect, #% increased critical strike chance during any flask effect",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "9qllWp0hK",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -1444,6 +1467,13 @@
   {
     "item": "Greed's Embrace",
     "stats": "+# to level of socketed aoe gems, #% reduced lightning damage taken",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "jXJd8wdHX",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -1463,6 +1493,23 @@
   {
     "item": "Hrimsorrow",
     "stats": "+# to maximum frenzy charges",
+    "average": 98,
+    "prices": [
+      89,
+      90,
+      99,
+      100,
+      100,
+      110,
+      130,
+      140.03,
+      280.06
+    ],
+    "search": {
+      "id": "XqDE6QRuP",
+      "complexity": 18,
+      "total": 9
+    },
     "builds": 1,
     "mods": [
       {
@@ -1476,6 +1523,24 @@
   {
     "item": "Hrimsorrow",
     "stats": "#% increased maximum life",
+    "average": 7.5,
+    "prices": [
+      2,
+      3,
+      3,
+      5,
+      5,
+      10,
+      10,
+      10,
+      12,
+      15
+    ],
+    "search": {
+      "id": "jPp7k4XuX",
+      "complexity": 18,
+      "total": 19
+    },
     "builds": 1,
     "mods": [
       {
