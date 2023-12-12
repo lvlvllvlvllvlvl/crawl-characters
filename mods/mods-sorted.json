@@ -4214,6 +4214,22 @@
   {
     "item": "Lori's Lantern",
     "stats": "discipline has #% increased aura effect",
+    "average": 21.333333333333332,
+    "prices": [
+      1,
+      2,
+      10,
+      15,
+      50,
+      50,
+      100,
+      135.99
+    ],
+    "search": {
+      "id": "QVYkJBMTw",
+      "complexity": 18,
+      "total": 8
+    },
     "builds": 1,
     "mods": [
       {
@@ -4227,6 +4243,24 @@
   {
     "item": "Doomfletch",
     "stats": "#% increased elemental damage with attack skills",
+    "average": 1.5,
+    "prices": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      2,
+      2,
+      2,
+      2,
+      2
+    ],
+    "search": {
+      "id": "Eyd2PQKc5",
+      "complexity": 18,
+      "total": 260
+    },
     "builds": 1,
     "mods": [
       {
@@ -4240,6 +4274,23 @@
   {
     "item": "Tanu Ahi",
     "stats": "attacks have +#% to critical strike chance",
+    "average": 695.4917142857142,
+    "prices": [
+      339.975,
+      584.7570000000001,
+      611.955,
+      679.95,
+      679.95,
+      679.95,
+      815.94,
+      815.94,
+      951.9300000000001
+    ],
+    "search": {
+      "id": "nXJBg42T0",
+      "complexity": 18,
+      "total": 9
+    },
     "builds": 1,
     "mods": [
       {
@@ -4253,6 +4304,13 @@
   {
     "item": "Gravebind",
     "stats": "curse enemies with temporal chains on hit",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "jXjawVWTX",
+      "complexity": 18,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -4266,6 +4324,16 @@
   {
     "item": "Hyrri's Truth",
     "stats": "you can apply an additional curse",
+    "average": 1223.91,
+    "prices": [
+      1087.92,
+      1359.9
+    ],
+    "search": {
+      "id": "rY5YQ07CQ",
+      "complexity": 18,
+      "total": 2
+    },
     "builds": 1,
     "mods": [
       {
