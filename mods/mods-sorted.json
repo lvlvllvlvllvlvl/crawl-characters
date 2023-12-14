@@ -2609,6 +2609,13 @@
   {
     "item": "Leper's Alms",
     "stats": "#% of physical damage from hits taken as lightning damage, #% reduced damage taken from projectile hits",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "VMpJL9whp",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -2628,6 +2635,24 @@
   {
     "item": "Alpha's Howl",
     "stats": "+# to maximum power charges",
+    "average": 120.25,
+    "prices": [
+      70,
+      80,
+      85,
+      90,
+      100,
+      155.5,
+      155.5,
+      155.5,
+      155.5,
+      155.5
+    ],
+    "search": {
+      "id": "lXjLVaVUV",
+      "complexity": 18,
+      "total": 16
+    },
     "builds": 1,
     "mods": [
       {
@@ -2641,6 +2666,21 @@
   {
     "item": "Alpha's Howl",
     "stats": "+# to level of socketed aura gems",
+    "average": 505.375,
+    "prices": [
+      311,
+      388.75,
+      466.5,
+      466.5,
+      622,
+      777.5,
+      1555
+    ],
+    "search": {
+      "id": "EG8P4gyC5",
+      "complexity": 18,
+      "total": 7
+    },
     "builds": 1,
     "mods": [
       {
@@ -2654,6 +2694,17 @@
   {
     "item": "Vixen's Entrapment",
     "stats": "#% increased cast speed",
+    "average": 311,
+    "prices": [
+      311,
+      311,
+      777.5
+    ],
+    "search": {
+      "id": "PK7l22JCL",
+      "complexity": 18,
+      "total": 3
+    },
     "builds": 1,
     "mods": [
       {
@@ -2667,6 +2718,21 @@
   {
     "item": "Vixen's Entrapment",
     "stats": "+# to level of socketed gems",
+    "average": 20,
+    "prices": [
+      20,
+      20,
+      20,
+      20,
+      75,
+      155.5,
+      311
+    ],
+    "search": {
+      "id": "bPZgddLTL",
+      "complexity": 18,
+      "total": 7
+    },
     "builds": 1,
     "mods": [
       {
