@@ -4364,6 +4364,13 @@
   {
     "item": "Hyrri's Ire",
     "stats": "+# to level of socketed minion gems",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "qXlZDzvTg",
+      "complexity": 18,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -4377,6 +4384,13 @@
   {
     "item": "Hyrri's Ire",
     "stats": "+# to level of socketed gems, +# to level of socketed projectile gems",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "OVnvVyOTE",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -4479,6 +4493,13 @@
   {
     "item": "Rearguard",
     "stats": "#% of fire damage leeched as life, bow attacks fire an additional arrow",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "JVnJRBRIl",
+      "complexity": 30,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -4499,6 +4520,15 @@
   {
     "item": "Gifts from Above",
     "stats": "#% increased strength, #% increased dexterity, #% increased cast speed",
+    "average": 60,
+    "prices": [
+      60
+    ],
+    "search": {
+      "id": "QVYWQVjTw",
+      "complexity": 20,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -4524,6 +4554,24 @@
   {
     "item": "Heartbound Loop",
     "stats": "cannot be ignited",
+    "average": 6.3,
+    "prices": [
+      1,
+      3,
+      4,
+      5,
+      5,
+      5,
+      10,
+      10,
+      10,
+      10
+    ],
+    "search": {
+      "id": "3GwDRP9S5",
+      "complexity": 18,
+      "total": 30
+    },
     "builds": 1,
     "mods": [
       {
