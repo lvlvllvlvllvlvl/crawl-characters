@@ -1042,6 +1042,24 @@
   {
     "item": "Hrimsorrow",
     "stats": "+# to maximum frenzy charges",
+    "average": 48.7,
+    "prices": [
+      40,
+      40,
+      42,
+      45,
+      45,
+      50,
+      50,
+      55,
+      60,
+      60
+    ],
+    "search": {
+      "id": "XqDE6QRuP",
+      "complexity": 18,
+      "total": 44
+    },
     "builds": 1,
     "mods": [
       {
@@ -1055,6 +1073,18 @@
   {
     "item": "Kaom's Heart",
     "stats": "#% increased maximum life",
+    "average": 317.8,
+    "prices": [
+      158.9,
+      317.8,
+      476.70000000000005,
+      1271.2
+    ],
+    "search": {
+      "id": "K9gPY8gt5",
+      "complexity": 18,
+      "total": 4
+    },
     "builds": 1,
     "mods": [
       {
@@ -1068,6 +1098,24 @@
   {
     "item": "Null and Void",
     "stats": "+# to maximum frenzy charges",
+    "average": 11.555555555555555,
+    "prices": [
+      5,
+      10,
+      10,
+      10,
+      10,
+      10,
+      10,
+      14,
+      15,
+      15
+    ],
+    "search": {
+      "id": "PdaZZ9GhL",
+      "complexity": 18,
+      "total": 24
+    },
     "builds": 1,
     "mods": [
       {
@@ -1081,6 +1129,13 @@
   {
     "item": "Inspired Learning",
     "stats": "#% reduced effect of shock on you",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "lPrZWRnFV",
+      "complexity": 18,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -1094,6 +1149,15 @@
   {
     "item": "Inspired Learning",
     "stats": "damage penetrates #% cold resistance",
+    "average": 635.6,
+    "prices": [
+      635.6
+    ],
+    "search": {
+      "id": "KJdeLGqs5",
+      "complexity": 19,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
