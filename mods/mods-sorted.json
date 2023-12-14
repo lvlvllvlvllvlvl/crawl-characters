@@ -751,6 +751,24 @@
   {
     "item": "Shaper's Touch",
     "stats": "+# to level of socketed aoe gems",
+    "average": 41,
+    "prices": [
+      30,
+      30,
+      35,
+      40,
+      40,
+      40,
+      45,
+      45,
+      50,
+      55
+    ],
+    "search": {
+      "id": "EG8Vq7VU5",
+      "complexity": 18,
+      "total": 38
+    },
     "builds": 1,
     "mods": [
       {
@@ -764,6 +782,24 @@
   {
     "item": "Shaper's Touch",
     "stats": "+# to level of socketed aura gems",
+    "average": 53.1,
+    "prices": [
+      45,
+      45,
+      46,
+      50,
+      50,
+      50,
+      60,
+      60,
+      60,
+      65
+    ],
+    "search": {
+      "id": "0PQ6vEghg",
+      "complexity": 18,
+      "total": 32
+    },
     "builds": 1,
     "mods": [
       {
@@ -777,6 +813,24 @@
   {
     "item": "String of Servitude",
     "stats": "discipline has #% increased aura effect",
+    "average": 4.375,
+    "prices": [
+      1,
+      2,
+      3,
+      3,
+      4,
+      5,
+      5,
+      5,
+      5,
+      5
+    ],
+    "search": {
+      "id": "0PQe4Kehg",
+      "complexity": 18,
+      "total": 77
+    },
     "builds": 1,
     "mods": [
       {
@@ -790,6 +844,15 @@
   {
     "item": "Soul Mantle",
     "stats": "+# to level of socketed gems, +# to level of socketed projectile gems",
+    "average": 9479.400000000001,
+    "prices": [
+      9479.400000000001
+    ],
+    "search": {
+      "id": "0PQbWp7Ig",
+      "complexity": 29,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -809,6 +872,13 @@
   {
     "item": "The Annihilating Light",
     "stats": "#% increased cast speed, #% increased critical strike chance",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "DGEDdB2f5",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
