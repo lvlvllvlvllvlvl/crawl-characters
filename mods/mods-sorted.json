@@ -31,32 +31,28 @@
     ]
   },
   {
-    "item": "Heatshiver",
-    "stats": "socketed skill gems get a #% cost & reservation multiplier",
-    "average": 554.9716000000001,
+    "item": "Shadows and Dust",
+    "stats": "+# to maximum frenzy charges",
+    "average": 558.072,
     "prices": [
       465.06000000000006,
       465.06000000000006,
       465.06000000000006,
-      465.06000000000006,
-      604.578,
-      604.578,
       620.08,
-      620.08,
-      620.08,
-      620.08
+      775.1,
+      1550.2
     ],
     "search": {
-      "id": "plLWklwf0",
+      "id": "eXWQDQ4IL",
       "complexity": 18,
-      "total": 17
+      "total": 6
     },
     "builds": 4,
     "mods": [
       {
-        "text": "socketed skill gems get a #% cost & reservation multiplier",
+        "text": "+# to maximum frenzy charges",
         "trade_ids": [
-          "implicit.stat_2865550257"
+          "implicit.stat_4078695"
         ]
       }
     ]
@@ -93,59 +89,32 @@
     ]
   },
   {
-    "item": "Shadows and Dust",
-    "stats": "+# to maximum frenzy charges",
-    "average": 558.072,
+    "item": "Heatshiver",
+    "stats": "socketed skill gems get a #% cost & reservation multiplier",
+    "average": 554.9716000000001,
     "prices": [
       465.06000000000006,
       465.06000000000006,
       465.06000000000006,
+      465.06000000000006,
+      604.578,
+      604.578,
       620.08,
-      775.1,
-      1550.2
+      620.08,
+      620.08,
+      620.08
     ],
     "search": {
-      "id": "eXWQDQ4IL",
+      "id": "plLWklwf0",
       "complexity": 18,
-      "total": 6
+      "total": 17
     },
     "builds": 4,
     "mods": [
       {
-        "text": "+# to maximum frenzy charges",
+        "text": "socketed skill gems get a #% cost & reservation multiplier",
         "trade_ids": [
-          "implicit.stat_4078695"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Matua Tupuna",
-    "stats": "+# to level of socketed gems",
-    "average": 129.3875,
-    "prices": [
-      30,
-      80,
-      80,
-      100,
-      155.02,
-      155.02,
-      155.02,
-      155.02,
-      155.02,
-      620.08
-    ],
-    "search": {
-      "id": "jPpRJKlTX",
-      "complexity": 18,
-      "total": 10
-    },
-    "builds": 3,
-    "mods": [
-      {
-        "text": "+# to level of socketed gems",
-        "trade_ids": [
-          "implicit.stat_2843100721"
+          "implicit.stat_2865550257"
         ]
       }
     ]
@@ -214,31 +183,55 @@
   },
   {
     "item": "Matua Tupuna",
-    "stats": "+# to level of socketed aura gems",
-    "average": 485.7293333333333,
+    "stats": "+# to level of socketed gems",
+    "average": 129.3875,
     "prices": [
-      310.04,
-      449.558,
-      465.06000000000006,
-      465.06000000000006,
-      465.06000000000006,
-      465.06000000000006,
-      465.06000000000006,
-      620.08,
-      666.586,
-      1860.2400000000002
+      30,
+      80,
+      80,
+      100,
+      155.02,
+      155.02,
+      155.02,
+      155.02,
+      155.02,
+      620.08
     ],
     "search": {
-      "id": "0PQlkZ8ig",
+      "id": "jPpRJKlTX",
       "complexity": 18,
       "total": 10
+    },
+    "builds": 3,
+    "mods": [
+      {
+        "text": "+# to level of socketed gems",
+        "trade_ids": [
+          "implicit.stat_2843100721"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "The Poet's Pen",
+    "stats": "damage penetrates #% elemental resistances",
+    "average": 188.35333333333335,
+    "prices": [
+      100,
+      155.02,
+      310.04
+    ],
+    "search": {
+      "id": "LeWk24Bin",
+      "complexity": 18,
+      "total": 3
     },
     "builds": 2,
     "mods": [
       {
-        "text": "+# to level of socketed aura gems",
+        "text": "damage penetrates #% elemental resistances",
         "trade_ids": [
-          "implicit.stat_2452998583"
+          "implicit.stat_2101383955"
         ]
       }
     ]
@@ -270,6 +263,65 @@
         "text": "#% increased cast speed",
         "trade_ids": [
           "implicit.stat_2891184298"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Victario's Influence",
+    "stats": "+# to level of socketed aura gems",
+    "average": 6.4,
+    "prices": [
+      1,
+      4,
+      4,
+      5,
+      5,
+      5,
+      10,
+      10,
+      10,
+      10
+    ],
+    "search": {
+      "id": "806kqWnUV",
+      "complexity": 18,
+      "total": 76
+    },
+    "builds": 2,
+    "mods": [
+      {
+        "text": "+# to level of socketed aura gems",
+        "trade_ids": [
+          "implicit.stat_2452998583"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Victario's Influence",
+    "stats": "+# to level of socketed gems, +# to level of socketed aura gems",
+    "average": 2325.3,
+    "prices": [
+      2325.3
+    ],
+    "search": {
+      "id": "emYBeMnsL",
+      "complexity": 29,
+      "total": 1
+    },
+    "builds": 2,
+    "mods": [
+      {
+        "text": "+# to level of socketed gems",
+        "trade_ids": [
+          "implicit.stat_2843100721"
+        ]
+      },
+      {
+        "text": "+# to level of socketed aura gems",
+        "trade_ids": [
+          "implicit.stat_2452998583"
         ]
       }
     ]
@@ -337,721 +389,43 @@
     ]
   },
   {
-    "item": "Victario's Influence",
-    "stats": "+# to level of socketed gems, +# to level of socketed aura gems",
-    "average": 2325.3,
-    "prices": [
-      2325.3
-    ],
-    "search": {
-      "id": "emYBeMnsL",
-      "complexity": 29,
-      "total": 1
-    },
-    "builds": 2,
-    "mods": [
-      {
-        "text": "+# to level of socketed gems",
-        "trade_ids": [
-          "implicit.stat_2843100721"
-        ]
-      },
-      {
-        "text": "+# to level of socketed aura gems",
-        "trade_ids": [
-          "implicit.stat_2452998583"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Victario's Influence",
-    "stats": "+# to level of socketed aura gems",
-    "average": 6.4,
-    "prices": [
-      1,
-      4,
-      4,
-      5,
-      5,
-      5,
-      10,
-      10,
-      10,
-      10
-    ],
-    "search": {
-      "id": "806kqWnUV",
-      "complexity": 18,
-      "total": 76
-    },
-    "builds": 2,
-    "mods": [
-      {
-        "text": "+# to level of socketed aura gems",
-        "trade_ids": [
-          "implicit.stat_2452998583"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "The Poet's Pen",
-    "stats": "damage penetrates #% elemental resistances",
-    "average": 188.35333333333335,
-    "prices": [
-      100,
-      155.02,
-      310.04
-    ],
-    "search": {
-      "id": "LeWk24Bin",
-      "complexity": 18,
-      "total": 3
-    },
-    "builds": 2,
-    "mods": [
-      {
-        "text": "damage penetrates #% elemental resistances",
-        "trade_ids": [
-          "implicit.stat_2101383955"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Demon Stitcher",
-    "stats": "+# to level of socketed aura gems",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "+# to level of socketed aura gems",
-        "trade_ids": [
-          "implicit.stat_2452998583"
-        ]
-      }
-    ]
-  },
-  {
     "item": "Matua Tupuna",
-    "stats": "+# to level of socketed aoe gems, +# to level of socketed trap or mine gems",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "+# to level of socketed aoe gems",
-        "trade_ids": [
-          "implicit.stat_2551600084"
-        ]
-      },
-      {
-        "text": "+# to level of socketed trap or mine gems",
-        "trade_ids": [
-          "implicit.stat_150668988"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Matua Tupuna",
-    "stats": "#% increased maximum energy shield",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "#% increased maximum energy shield",
-        "trade_ids": [
-          "implicit.stat_2482852589"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Sin Trek",
-    "stats": "+# to level of socketed aura gems, +# to global evasion rating while moving",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "+# to level of socketed aura gems",
-        "trade_ids": [
-          "implicit.stat_2452998583"
-        ]
-      },
-      {
-        "text": "+# to global evasion rating while moving",
-        "trade_ids": [
-          "implicit.stat_3825877290"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Call of the Brotherhood",
-    "stats": "adds # to # lightning damage to spells and attacks, hatred has #% increased aura effect",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "adds # to # lightning damage to spells and attacks",
-        "trade_ids": [
-          "implicit.stat_2885144362"
-        ]
-      },
-      {
-        "text": "hatred has #% increased aura effect",
-        "trade_ids": [
-          "implicit.stat_3742945352"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Call of the Brotherhood",
-    "stats": "adds # to # lightning damage to spells and attacks, bleeding cannot be inflicted on you",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "adds # to # lightning damage to spells and attacks",
-        "trade_ids": [
-          "implicit.stat_2885144362"
-        ]
-      },
-      {
-        "text": "bleeding cannot be inflicted on you",
-        "trade_ids": [
-          "implicit.stat_1901158930"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Call of the Brotherhood",
-    "stats": "anger has #% increased aura effect, determination has #% increased aura effect",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "anger has #% increased aura effect",
-        "trade_ids": [
-          "implicit.stat_1592278124"
-        ]
-      },
-      {
-        "text": "determination has #% increased aura effect",
-        "trade_ids": [
-          "implicit.stat_3653400807"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Call of the Brotherhood",
-    "stats": "#% increased strength, #% increased intelligence",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "#% increased strength",
-        "trade_ids": [
-          "implicit.stat_4139681126"
-        ]
-      },
-      {
-        "text": "#% increased intelligence",
-        "trade_ids": [
-          "implicit.stat_656461285"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Call of the Brotherhood",
-    "stats": "grants level # hatred skill, #% increased strength, #% increased intelligence",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "grants level # hatred skill",
-        "trade_ids": [
-          "implicit.stat_2429546158"
-        ]
-      },
-      {
-        "text": "#% increased strength",
-        "trade_ids": [
-          "implicit.stat_4139681126"
-        ]
-      },
-      {
-        "text": "#% increased intelligence",
-        "trade_ids": [
-          "implicit.stat_656461285"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Heatshiver",
-    "stats": "+# to level of socketed duration gems, +# to level of socketed aoe gems",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "+# to level of socketed duration gems",
-        "trade_ids": [
-          "implicit.stat_2115168758"
-        ]
-      },
-      {
-        "text": "+# to level of socketed aoe gems",
-        "trade_ids": [
-          "implicit.stat_2551600084"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Heatshiver",
-    "stats": "+# to level of socketed projectile gems, #% increased maximum life",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "+# to level of socketed projectile gems",
-        "trade_ids": [
-          "implicit.stat_2176571093"
-        ]
-      },
-      {
-        "text": "#% increased maximum life",
-        "trade_ids": [
-          "implicit.stat_983749596"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Shaper's Touch",
-    "stats": "+# to level of socketed aoe gems",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "+# to level of socketed aoe gems",
-        "trade_ids": [
-          "implicit.stat_2551600084"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Shaper's Touch",
     "stats": "+# to level of socketed aura gems",
-    "builds": 1,
+    "average": 485.7293333333333,
+    "prices": [
+      310.04,
+      449.558,
+      465.06000000000006,
+      465.06000000000006,
+      465.06000000000006,
+      465.06000000000006,
+      465.06000000000006,
+      620.08,
+      666.586,
+      1860.2400000000002
+    ],
+    "search": {
+      "id": "0PQlkZ8ig",
+      "complexity": 18,
+      "total": 10
+    },
+    "builds": 2,
     "mods": [
       {
         "text": "+# to level of socketed aura gems",
         "trade_ids": [
           "implicit.stat_2452998583"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "String of Servitude",
-    "stats": "discipline has #% increased aura effect",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "discipline has #% increased aura effect",
-        "trade_ids": [
-          "implicit.stat_788317702"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Soul Mantle",
-    "stats": "+# to level of socketed gems, +# to level of socketed projectile gems",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "+# to level of socketed gems",
-        "trade_ids": [
-          "implicit.stat_2843100721"
-        ]
-      },
-      {
-        "text": "+# to level of socketed projectile gems",
-        "trade_ids": [
-          "implicit.stat_2176571093"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "The Annihilating Light",
-    "stats": "#% increased cast speed, #% increased critical strike chance",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "#% increased cast speed",
-        "trade_ids": [
-          "implicit.stat_2891184298"
-        ]
-      },
-      {
-        "text": "#% increased critical strike chance",
-        "trade_ids": [
-          "implicit.stat_2375316951"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Invictus Solaris",
-    "stats": "+# to level of socketed minion gems",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "+# to level of socketed minion gems",
-        "trade_ids": [
-          "implicit.stat_3604946673"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Hyrri's Truth",
-    "stats": "you can apply an additional curse",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "you can apply an additional curse",
-        "trade_ids": [
-          "implicit.stat_30642521"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Rat's Nest",
-    "stats": "socketed skill gems get a #% cost & reservation multiplier",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "socketed skill gems get a #% cost & reservation multiplier",
-        "trade_ids": [
-          "implicit.stat_2865550257"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Aurseize",
-    "stats": "curse enemies with elemental weakness on hit",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "curse enemies with elemental weakness on hit",
-        "trade_ids": [
-          "implicit.stat_2028847114"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Hrimsorrow",
-    "stats": "#% increased maximum life",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "#% increased maximum life",
-        "trade_ids": [
-          "implicit.stat_983749596"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Hrimsorrow",
-    "stats": "+# to maximum frenzy charges",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "+# to maximum frenzy charges",
-        "trade_ids": [
-          "implicit.stat_4078695"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Kaom's Heart",
-    "stats": "#% increased maximum life",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "#% increased maximum life",
-        "trade_ids": [
-          "implicit.stat_983749596"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Null and Void",
-    "stats": "+# to maximum frenzy charges",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "+# to maximum frenzy charges",
-        "trade_ids": [
-          "implicit.stat_4078695"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Inspired Learning",
-    "stats": "#% reduced effect of shock on you",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "#% reduced effect of shock on you",
-        "trade_ids": [
-          "implicit.stat_3801067695"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Inspired Learning",
-    "stats": "damage penetrates #% cold resistance",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "damage penetrates #% cold resistance",
-        "trade_ids": [
-          "implicit.stat_3417711605",
-          "implicit.stat_1211769158"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Inspired Learning",
-    "stats": "you cannot be maimed",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "you cannot be maimed",
-        "trade_ids": [
-          "implicit.stat_1126826428"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Inspired Learning",
-    "stats": "#% reduced poison duration on you",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "#% reduced poison duration on you",
-        "trade_ids": [
-          "implicit.stat_3301100256"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Inspired Learning",
-    "stats": "#% reduced bleed duration on you",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "#% reduced bleed duration on you",
-        "trade_ids": [
-          "implicit.stat_1692879867"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Inspired Learning",
-    "stats": "#% reduced effect of curses on you",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "#% reduced effect of curses on you",
-        "trade_ids": [
-          "implicit.stat_3407849389"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Inspired Learning",
-    "stats": "damage penetrates #% lightning resistance",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "damage penetrates #% lightning resistance",
-        "trade_ids": [
-          "implicit.stat_818778753",
-          "implicit.stat_3301510262"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "The Jinxed Juju",
-    "stats": "discipline has #% increased aura effect",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "discipline has #% increased aura effect",
-        "trade_ids": [
-          "implicit.stat_788317702"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Sadima's Touch",
-    "stats": "curse enemies with despair on hit",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "curse enemies with despair on hit",
-        "trade_ids": [
-          "implicit.stat_2764915899"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Sadima's Touch",
-    "stats": "#% increased cast speed",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "#% increased cast speed",
-        "trade_ids": [
-          "implicit.stat_2891184298"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Sadima's Touch",
-    "stats": "curse enemies with elemental weakness on hit",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "curse enemies with elemental weakness on hit",
-        "trade_ids": [
-          "implicit.stat_2028847114"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Sadima's Touch",
-    "stats": "attacks have +#% to critical strike chance",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "attacks have +#% to critical strike chance",
-        "trade_ids": [
-          "implicit.stat_2572042788"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Shadows and Dust",
-    "stats": "#% increased maximum energy shield, attacks have +#% to critical strike chance",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "#% increased maximum energy shield",
-        "trade_ids": [
-          "implicit.stat_2482852589"
-        ]
-      },
-      {
-        "text": "attacks have +#% to critical strike chance",
-        "trade_ids": [
-          "implicit.stat_2572042788"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Shadows and Dust",
-    "stats": "+#% to spell critical strike chance",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "+#% to spell critical strike chance",
-        "trade_ids": [
-          "implicit.stat_791835907"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Lori's Lantern",
-    "stats": "discipline has #% increased aura effect",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "discipline has #% increased aura effect",
-        "trade_ids": [
-          "implicit.stat_788317702"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Tabula Rasa",
-    "stats": "+# to level of socketed aoe gems",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "+# to level of socketed aoe gems",
-        "trade_ids": [
-          "implicit.stat_2551600084"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Tabula Rasa",
-    "stats": "#% increased damage",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "#% increased damage",
-        "trade_ids": [
-          "implicit.stat_2154246560"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Tabula Rasa",
-    "stats": "+# to level of socketed duration gems",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "+# to level of socketed duration gems",
-        "trade_ids": [
-          "implicit.stat_2115168758"
         ]
       }
     ]
   },
   {
     "item": "The Torrent's Reclamation",
-    "stats": "#% increased maximum energy shield, discipline has #% increased aura effect",
+    "stats": "#% increased maximum energy shield, determination has #% increased aura effect",
     "average": null,
     "prices": [],
     "search": {
-      "id": "plLQw4JC0",
+      "id": "EGp4v04S5",
       "complexity": 29,
       "total": 0
     },
@@ -1064,9 +438,9 @@
         ]
       },
       {
-        "text": "discipline has #% increased aura effect",
+        "text": "determination has #% increased aura effect",
         "trade_ids": [
-          "implicit.stat_788317702"
+          "implicit.stat_3653400807"
         ]
       }
     ]
@@ -1087,6 +461,32 @@
         "text": "+#% to all elemental resistances",
         "trade_ids": [
           "implicit.stat_2901986750"
+        ]
+      },
+      {
+        "text": "discipline has #% increased aura effect",
+        "trade_ids": [
+          "implicit.stat_788317702"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "The Torrent's Reclamation",
+    "stats": "#% increased maximum energy shield, discipline has #% increased aura effect",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "plLQw4JC0",
+      "complexity": 29,
+      "total": 0
+    },
+    "builds": 1,
+    "mods": [
+      {
+        "text": "#% increased maximum energy shield",
+        "trade_ids": [
+          "implicit.stat_2482852589"
         ]
       },
       {
@@ -1130,14 +530,17 @@
     ]
   },
   {
-    "item": "The Torrent's Reclamation",
-    "stats": "#% increased maximum energy shield, determination has #% increased aura effect",
-    "average": null,
-    "prices": [],
+    "item": "The Covenant",
+    "stats": "#% increased maximum energy shield",
+    "average": 1705.22,
+    "prices": [
+      775.1,
+      2635.34
+    ],
     "search": {
-      "id": "EGp4v04S5",
-      "complexity": 29,
-      "total": 0
+      "id": "YVoWm0RiY",
+      "complexity": 18,
+      "total": 2
     },
     "builds": 1,
     "mods": [
@@ -1146,17 +549,286 @@
         "trade_ids": [
           "implicit.stat_2482852589"
         ]
-      },
+      }
+    ]
+  },
+  {
+    "item": "The Covenant",
+    "stats": "+# to level of socketed aura gems",
+    "average": 852.6100000000001,
+    "prices": [
+      775.1,
+      930.1200000000001
+    ],
+    "search": {
+      "id": "7lRgXeBS5",
+      "complexity": 18,
+      "total": 2
+    },
+    "builds": 1,
+    "mods": [
       {
-        "text": "determination has #% increased aura effect",
+        "text": "+# to level of socketed aura gems",
         "trade_ids": [
-          "implicit.stat_3653400807"
+          "implicit.stat_2452998583"
         ]
       }
     ]
   },
   {
-    "item": "Vaal Caress",
+    "item": "The Covenant",
+    "stats": "+# to level of socketed duration gems, +# to level of socketed warcry gems",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "lXjEWq6hV",
+      "complexity": 29,
+      "total": 0
+    },
+    "builds": 1,
+    "mods": [
+      {
+        "text": "+# to level of socketed duration gems",
+        "trade_ids": [
+          "implicit.stat_2115168758"
+        ]
+      },
+      {
+        "text": "+# to level of socketed warcry gems",
+        "trade_ids": [
+          "implicit.stat_1672793731"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "The Jinxed Juju",
+    "stats": "discipline has #% increased aura effect",
+    "average": 83.86571428571428,
+    "prices": [
+      10,
+      12,
+      20,
+      80,
+      155.02,
+      155.02,
+      155.02
+    ],
+    "search": {
+      "id": "qXJRJvkSg",
+      "complexity": 18,
+      "total": 7
+    },
+    "builds": 1,
+    "mods": [
+      {
+        "text": "discipline has #% increased aura effect",
+        "trade_ids": [
+          "implicit.stat_788317702"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Queen of the Forest",
+    "stats": "+# to level of socketed aoe gems, #% increased damage",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "OVwymo0tE",
+      "complexity": 29,
+      "total": 0
+    },
+    "builds": 1,
+    "mods": [
+      {
+        "text": "+# to level of socketed aoe gems",
+        "trade_ids": [
+          "implicit.stat_2551600084"
+        ]
+      },
+      {
+        "text": "#% increased damage",
+        "trade_ids": [
+          "implicit.stat_2154246560"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Queen of the Forest",
+    "stats": "+# to level of socketed gems, +# to level of socketed projectile gems",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "BEOXnMaH8",
+      "complexity": 29,
+      "total": 0
+    },
+    "builds": 1,
+    "mods": [
+      {
+        "text": "+# to level of socketed gems",
+        "trade_ids": [
+          "implicit.stat_2843100721"
+        ]
+      },
+      {
+        "text": "+# to level of socketed projectile gems",
+        "trade_ids": [
+          "implicit.stat_2176571093"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Queen of the Forest",
+    "stats": "+# to level of socketed gems",
+    "average": 155.02,
+    "prices": [
+      49,
+      50,
+      120,
+      150,
+      155.02,
+      155.02,
+      155.02,
+      155.02,
+      155.02,
+      155.02
+    ],
+    "search": {
+      "id": "yrJQLgGsR",
+      "complexity": 18,
+      "total": 12
+    },
+    "builds": 1,
+    "mods": [
+      {
+        "text": "+# to level of socketed gems",
+        "trade_ids": [
+          "implicit.stat_2843100721"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Anathema",
+    "stats": "bleeding cannot be inflicted on you",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "bleeding cannot be inflicted on you",
+        "trade_ids": [
+          "implicit.stat_1901158930"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Anathema",
+    "stats": "+#% to all elemental resistances",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "+#% to all elemental resistances",
+        "trade_ids": [
+          "implicit.stat_2901986750"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Soul Mantle",
+    "stats": "+# to level of socketed gems, +# to level of socketed projectile gems",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "+# to level of socketed gems",
+        "trade_ids": [
+          "implicit.stat_2843100721"
+        ]
+      },
+      {
+        "text": "+# to level of socketed projectile gems",
+        "trade_ids": [
+          "implicit.stat_2176571093"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "The Annihilating Light",
+    "stats": "#% increased cast speed, #% increased critical strike chance",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "#% increased cast speed",
+        "trade_ids": [
+          "implicit.stat_2891184298"
+        ]
+      },
+      {
+        "text": "#% increased critical strike chance",
+        "trade_ids": [
+          "implicit.stat_2375316951"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Victario's Influence",
+    "stats": "+# to level of socketed aoe gems",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "+# to level of socketed aoe gems",
+        "trade_ids": [
+          "implicit.stat_2551600084"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Victario's Influence",
+    "stats": "+# to level of socketed gems, +# to level of socketed aoe gems",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "+# to level of socketed gems",
+        "trade_ids": [
+          "implicit.stat_2843100721"
+        ]
+      },
+      {
+        "text": "+# to level of socketed aoe gems",
+        "trade_ids": [
+          "implicit.stat_2551600084"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Victario's Influence",
+    "stats": "+# to level of socketed minion gems, +# to level of socketed aura gems",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "+# to level of socketed minion gems",
+        "trade_ids": [
+          "implicit.stat_3604946673"
+        ]
+      },
+      {
+        "text": "+# to level of socketed aura gems",
+        "trade_ids": [
+          "implicit.stat_2452998583"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Victario's Influence",
     "stats": "+# to level of socketed duration gems, +# to level of socketed aura gems",
     "builds": 1,
     "mods": [
@@ -1175,66 +847,285 @@
     ]
   },
   {
-    "item": "Vaal Caress",
-    "stats": "+# to level of socketed duration gems",
+    "item": "Inspired Learning",
+    "stats": "#% reduced effect of shock on you",
     "builds": 1,
     "mods": [
       {
-        "text": "+# to level of socketed duration gems",
+        "text": "#% reduced effect of shock on you",
         "trade_ids": [
-          "implicit.stat_2115168758"
+          "implicit.stat_3801067695"
         ]
       }
     ]
   },
   {
-    "item": "Bubonic Trail",
-    "stats": "+# to level of socketed gems",
+    "item": "Inspired Learning",
+    "stats": "damage penetrates #% cold resistance",
     "builds": 1,
     "mods": [
       {
-        "text": "+# to level of socketed gems",
+        "text": "damage penetrates #% cold resistance",
         "trade_ids": [
-          "implicit.stat_2843100721"
+          "implicit.stat_3417711605",
+          "implicit.stat_1211769158"
         ]
       }
     ]
   },
   {
-    "item": "Bubonic Trail",
-    "stats": "+# to level of socketed duration gems",
+    "item": "Inspired Learning",
+    "stats": "#% reduced effect of curses on you",
     "builds": 1,
     "mods": [
       {
-        "text": "+# to level of socketed duration gems",
+        "text": "#% reduced effect of curses on you",
         "trade_ids": [
-          "implicit.stat_2115168758"
+          "implicit.stat_3407849389"
         ]
       }
     ]
   },
   {
-    "item": "Prism Guardian",
-    "stats": "+# to level of socketed gems",
+    "item": "Inspired Learning",
+    "stats": "damage penetrates #% lightning resistance",
     "builds": 1,
     "mods": [
       {
-        "text": "+# to level of socketed gems",
+        "text": "damage penetrates #% lightning resistance",
         "trade_ids": [
-          "implicit.stat_2843100721"
+          "implicit.stat_818778753",
+          "implicit.stat_3301510262"
         ]
       }
     ]
   },
   {
-    "item": "Prism Guardian",
-    "stats": "#% of physical damage from hits taken as lightning damage",
+    "item": "Inspired Learning",
+    "stats": "#% reduced bleed duration on you",
     "builds": 1,
     "mods": [
       {
-        "text": "#% of physical damage from hits taken as lightning damage",
+        "text": "#% reduced bleed duration on you",
         "trade_ids": [
-          "implicit.stat_425242359"
+          "implicit.stat_1692879867"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Inspired Learning",
+    "stats": "you cannot be maimed",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "you cannot be maimed",
+        "trade_ids": [
+          "implicit.stat_1126826428"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Inspired Learning",
+    "stats": "#% reduced poison duration on you",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "#% reduced poison duration on you",
+        "trade_ids": [
+          "implicit.stat_3301100256"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Transcendent Mind",
+    "stats": "corrupted blood cannot be inflicted on you",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "corrupted blood cannot be inflicted on you",
+        "trade_ids": [
+          "implicit.stat_1658498488"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Natural Affinity",
+    "stats": "damage penetrates #% elemental resistances",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "damage penetrates #% elemental resistances",
+        "trade_ids": [
+          "implicit.stat_2101383955"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Pure Talent",
+    "stats": "corrupted blood cannot be inflicted on you",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "corrupted blood cannot be inflicted on you",
+        "trade_ids": [
+          "implicit.stat_1658498488"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Unnatural Instinct",
+    "stats": "damage penetrates #% cold resistance, damage penetrates #% lightning resistance",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "damage penetrates #% cold resistance",
+        "trade_ids": [
+          "implicit.stat_3417711605",
+          "implicit.stat_1211769158"
+        ]
+      },
+      {
+        "text": "damage penetrates #% lightning resistance",
+        "trade_ids": [
+          "implicit.stat_818778753",
+          "implicit.stat_3301510262"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Unnatural Instinct",
+    "stats": "damage penetrates #% elemental resistances, corrupted blood cannot be inflicted on you",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "damage penetrates #% elemental resistances",
+        "trade_ids": [
+          "implicit.stat_2101383955"
+        ]
+      },
+      {
+        "text": "corrupted blood cannot be inflicted on you",
+        "trade_ids": [
+          "implicit.stat_1658498488"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Unnatural Instinct",
+    "stats": "#% increased global critical strike chance, damage penetrates #% cold resistance",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "#% increased global critical strike chance",
+        "trade_ids": [
+          "implicit.stat_587431675"
+        ]
+      },
+      {
+        "text": "damage penetrates #% cold resistance",
+        "trade_ids": [
+          "implicit.stat_3417711605",
+          "implicit.stat_1211769158"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Unnatural Instinct",
+    "stats": "#% increased damage, #% increased area of effect",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "#% increased damage",
+        "trade_ids": [
+          "implicit.stat_2154246560"
+        ]
+      },
+      {
+        "text": "#% increased area of effect",
+        "trade_ids": [
+          "implicit.stat_280731498"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Unnatural Instinct",
+    "stats": "#% increased reservation efficiency of skills, corrupted blood cannot be inflicted on you",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "#% increased reservation efficiency of skills",
+        "trade_ids": [
+          "implicit.stat_2587176568",
+          "implicit.stat_4202507508"
+        ]
+      },
+      {
+        "text": "corrupted blood cannot be inflicted on you",
+        "trade_ids": [
+          "implicit.stat_1658498488"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Warrior's Tale",
+    "stats": "damage penetrates #% fire resistance",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "damage penetrates #% fire resistance",
+        "trade_ids": [
+          "implicit.stat_2653955271",
+          "implicit.stat_1123291426"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Warrior's Tale",
+    "stats": "#% reduced ignite duration on you, you cannot be cursed with silence",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "#% reduced ignite duration on you",
+        "trade_ids": [
+          "implicit.stat_986397080"
+        ]
+      },
+      {
+        "text": "you cannot be cursed with silence",
+        "trade_ids": [
+          "implicit.stat_1654414582"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Warrior's Tale",
+    "stats": "#% increased reservation efficiency of skills, you cannot be hindered",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "#% increased reservation efficiency of skills",
+        "trade_ids": [
+          "implicit.stat_2587176568",
+          "implicit.stat_4202507508"
+        ]
+      },
+      {
+        "text": "you cannot be hindered",
+        "trade_ids": [
+          "implicit.stat_721014846"
         ]
       }
     ]
@@ -1350,331 +1241,59 @@
     ]
   },
   {
-    "item": "Victario's Influence",
-    "stats": "+# to level of socketed gems, +# to level of socketed aoe gems",
+    "item": "Hrimsorrow",
+    "stats": "+# to maximum frenzy charges",
     "builds": 1,
     "mods": [
       {
-        "text": "+# to level of socketed gems",
+        "text": "+# to maximum frenzy charges",
         "trade_ids": [
-          "implicit.stat_2843100721"
+          "implicit.stat_4078695"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Hrimsorrow",
+    "stats": "#% increased maximum life",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "#% increased maximum life",
+        "trade_ids": [
+          "implicit.stat_983749596"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Shadows and Dust",
+    "stats": "#% increased maximum energy shield, attacks have +#% to critical strike chance",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "#% increased maximum energy shield",
+        "trade_ids": [
+          "implicit.stat_2482852589"
         ]
       },
       {
-        "text": "+# to level of socketed aoe gems",
+        "text": "attacks have +#% to critical strike chance",
         "trade_ids": [
-          "implicit.stat_2551600084"
+          "implicit.stat_2572042788"
         ]
       }
     ]
   },
   {
-    "item": "Victario's Influence",
-    "stats": "+# to level of socketed aoe gems",
+    "item": "Shadows and Dust",
+    "stats": "+#% to spell critical strike chance",
     "builds": 1,
     "mods": [
       {
-        "text": "+# to level of socketed aoe gems",
+        "text": "+#% to spell critical strike chance",
         "trade_ids": [
-          "implicit.stat_2551600084"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Victario's Influence",
-    "stats": "+# to level of socketed duration gems, +# to level of socketed aura gems",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "+# to level of socketed duration gems",
-        "trade_ids": [
-          "implicit.stat_2115168758"
-        ]
-      },
-      {
-        "text": "+# to level of socketed aura gems",
-        "trade_ids": [
-          "implicit.stat_2452998583"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Victario's Influence",
-    "stats": "+# to level of socketed minion gems, +# to level of socketed aura gems",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "+# to level of socketed minion gems",
-        "trade_ids": [
-          "implicit.stat_3604946673"
-        ]
-      },
-      {
-        "text": "+# to level of socketed aura gems",
-        "trade_ids": [
-          "implicit.stat_2452998583"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Transcendent Mind",
-    "stats": "corrupted blood cannot be inflicted on you",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "corrupted blood cannot be inflicted on you",
-        "trade_ids": [
-          "implicit.stat_1658498488"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Oskarm",
-    "stats": "curse enemies with vulnerability on hit",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "curse enemies with vulnerability on hit",
-        "trade_ids": [
-          "implicit.stat_3967845372"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Redblade Banner",
-    "stats": "you take #% reduced extra damage from critical strikes",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "you take #% reduced extra damage from critical strikes",
-        "trade_ids": [
-          "implicit.stat_3855016469"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Lightning Coil",
-    "stats": "+# to level of socketed aoe gems, +# to level of socketed projectile gems",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "+# to level of socketed aoe gems",
-        "trade_ids": [
-          "implicit.stat_2551600084"
-        ]
-      },
-      {
-        "text": "+# to level of socketed projectile gems",
-        "trade_ids": [
-          "implicit.stat_2176571093"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Lightning Coil",
-    "stats": "#% additional physical damage reduction while stationary",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "#% additional physical damage reduction while stationary",
-        "trade_ids": [
-          "implicit.stat_2181129193"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Lightning Coil",
-    "stats": "+# to level of socketed aoe gems",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "+# to level of socketed aoe gems",
-        "trade_ids": [
-          "implicit.stat_2551600084"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Lightning Coil",
-    "stats": "#% increased damage, #% reduced lightning damage taken",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "#% increased damage",
-        "trade_ids": [
-          "implicit.stat_2154246560"
-        ]
-      },
-      {
-        "text": "#% reduced lightning damage taken",
-        "trade_ids": [
-          "implicit.stat_1276918229"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Lightning Coil",
-    "stats": "#% increased damage",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "#% increased damage",
-        "trade_ids": [
-          "implicit.stat_2154246560"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Lightning Coil",
-    "stats": "+#% to all maximum resistances",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "+#% to all maximum resistances",
-        "trade_ids": [
-          "implicit.stat_569299859"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Lightpoacher",
-    "stats": "regenerate #% of life per second",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "regenerate #% of life per second",
-        "trade_ids": [
-          "implicit.stat_836936635"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Unnatural Instinct",
-    "stats": "#% increased global critical strike chance, damage penetrates #% cold resistance",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "#% increased global critical strike chance",
-        "trade_ids": [
-          "implicit.stat_587431675"
-        ]
-      },
-      {
-        "text": "damage penetrates #% cold resistance",
-        "trade_ids": [
-          "implicit.stat_3417711605",
-          "implicit.stat_1211769158"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Unnatural Instinct",
-    "stats": "damage penetrates #% cold resistance, damage penetrates #% lightning resistance",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "damage penetrates #% cold resistance",
-        "trade_ids": [
-          "implicit.stat_3417711605",
-          "implicit.stat_1211769158"
-        ]
-      },
-      {
-        "text": "damage penetrates #% lightning resistance",
-        "trade_ids": [
-          "implicit.stat_818778753",
-          "implicit.stat_3301510262"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Unnatural Instinct",
-    "stats": "#% increased reservation efficiency of skills, corrupted blood cannot be inflicted on you",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "#% increased reservation efficiency of skills",
-        "trade_ids": [
-          "implicit.stat_2587176568",
-          "implicit.stat_4202507508"
-        ]
-      },
-      {
-        "text": "corrupted blood cannot be inflicted on you",
-        "trade_ids": [
-          "implicit.stat_1658498488"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Unnatural Instinct",
-    "stats": "#% increased damage, #% increased area of effect",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "#% increased damage",
-        "trade_ids": [
-          "implicit.stat_2154246560"
-        ]
-      },
-      {
-        "text": "#% increased area of effect",
-        "trade_ids": [
-          "implicit.stat_280731498"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Unnatural Instinct",
-    "stats": "damage penetrates #% elemental resistances, corrupted blood cannot be inflicted on you",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "damage penetrates #% elemental resistances",
-        "trade_ids": [
-          "implicit.stat_2101383955"
-        ]
-      },
-      {
-        "text": "corrupted blood cannot be inflicted on you",
-        "trade_ids": [
-          "implicit.stat_1658498488"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Leper's Alms",
-    "stats": "#% of physical damage from hits taken as lightning damage, #% reduced damage taken from projectile hits",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "#% of physical damage from hits taken as lightning damage",
-        "trade_ids": [
-          "implicit.stat_425242359"
-        ]
-      },
-      {
-        "text": "#% reduced damage taken from projectile hits",
-        "trade_ids": [
-          "implicit.stat_1425651005"
+          "implicit.stat_791835907"
         ]
       }
     ]
@@ -1706,216 +1325,85 @@
     ]
   },
   {
-    "item": "Vixen's Entrapment",
-    "stats": "#% increased cast speed",
+    "item": "Null and Void",
+    "stats": "+# to maximum frenzy charges",
     "builds": 1,
     "mods": [
       {
-        "text": "#% increased cast speed",
+        "text": "+# to maximum frenzy charges",
         "trade_ids": [
-          "implicit.stat_2891184298"
+          "implicit.stat_4078695"
         ]
       }
     ]
   },
   {
-    "item": "Vixen's Entrapment",
-    "stats": "+# to level of socketed gems",
+    "item": "Bated Breath",
+    "stats": "zealotry has #% increased aura effect",
     "builds": 1,
     "mods": [
       {
-        "text": "+# to level of socketed gems",
+        "text": "zealotry has #% increased aura effect",
         "trade_ids": [
-          "implicit.stat_2843100721"
+          "implicit.stat_4096052153"
         ]
       }
     ]
   },
   {
-    "item": "Natural Affinity",
-    "stats": "damage penetrates #% elemental resistances",
+    "item": "Bated Breath",
+    "stats": "#% increased dexterity, #% increased intelligence, #% increased maximum energy shield",
     "builds": 1,
     "mods": [
       {
-        "text": "damage penetrates #% elemental resistances",
+        "text": "#% increased dexterity",
         "trade_ids": [
-          "implicit.stat_2101383955"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Pure Talent",
-    "stats": "corrupted blood cannot be inflicted on you",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "corrupted blood cannot be inflicted on you",
-        "trade_ids": [
-          "implicit.stat_1658498488"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Warrior's Tale",
-    "stats": "damage penetrates #% fire resistance",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "damage penetrates #% fire resistance",
-        "trade_ids": [
-          "implicit.stat_2653955271",
-          "implicit.stat_1123291426"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Warrior's Tale",
-    "stats": "#% increased reservation efficiency of skills, you cannot be hindered",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "#% increased reservation efficiency of skills",
-        "trade_ids": [
-          "implicit.stat_2587176568",
-          "implicit.stat_4202507508"
+          "implicit.stat_4139681126"
         ]
       },
       {
-        "text": "you cannot be hindered",
+        "text": "#% increased intelligence",
         "trade_ids": [
-          "implicit.stat_721014846"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Warrior's Tale",
-    "stats": "#% reduced ignite duration on you, you cannot be cursed with silence",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "#% reduced ignite duration on you",
-        "trade_ids": [
-          "implicit.stat_986397080"
+          "implicit.stat_656461285"
         ]
       },
       {
-        "text": "you cannot be cursed with silence",
+        "text": "#% increased maximum energy shield",
         "trade_ids": [
-          "implicit.stat_1654414582"
+          "implicit.stat_2482852589"
         ]
       }
     ]
   },
   {
-    "item": "Obliteration",
-    "stats": "#% increased area of effect",
+    "item": "Yoke of Suffering",
+    "stats": "you can apply an additional curse",
     "builds": 1,
     "mods": [
       {
-        "text": "#% increased area of effect",
+        "text": "you can apply an additional curse",
         "trade_ids": [
-          "implicit.stat_280731498"
+          "implicit.stat_30642521"
         ]
       }
     ]
   },
   {
-    "item": "Asenath's Gentle Touch",
-    "stats": "+# to level of socketed warcry gems, #% increased attack speed",
+    "item": "Yoke of Suffering",
+    "stats": "hatred has #% increased aura effect",
     "builds": 1,
     "mods": [
       {
-        "text": "+# to level of socketed warcry gems",
+        "text": "hatred has #% increased aura effect",
         "trade_ids": [
-          "implicit.stat_1672793731"
-        ]
-      },
-      {
-        "text": "#% increased attack speed",
-        "trade_ids": [
-          "implicit.stat_681332047",
-          "implicit.stat_210067635"
+          "implicit.stat_3742945352"
         ]
       }
     ]
   },
   {
-    "item": "Asenath's Gentle Touch",
-    "stats": "+# to level of socketed aura gems, #% increased cast speed",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "+# to level of socketed aura gems",
-        "trade_ids": [
-          "implicit.stat_2452998583"
-        ]
-      },
-      {
-        "text": "#% increased cast speed",
-        "trade_ids": [
-          "implicit.stat_2891184298"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Asenath's Gentle Touch",
-    "stats": "+# to level of socketed trap or mine gems, curse enemies with vulnerability on hit",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "+# to level of socketed trap or mine gems",
-        "trade_ids": [
-          "implicit.stat_150668988"
-        ]
-      },
-      {
-        "text": "curse enemies with vulnerability on hit",
-        "trade_ids": [
-          "implicit.stat_3967845372"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Asenath's Gentle Touch",
-    "stats": "+# to level of socketed minion gems, attacks have +#% to critical strike chance",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "+# to level of socketed minion gems",
-        "trade_ids": [
-          "implicit.stat_3604946673"
-        ]
-      },
-      {
-        "text": "attacks have +#% to critical strike chance",
-        "trade_ids": [
-          "implicit.stat_2572042788"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Black Zenith",
-    "stats": "curse enemies with temporal chains on hit",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "curse enemies with temporal chains on hit",
-        "trade_ids": [
-          "implicit.stat_3433724931"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Daresso's Defiance",
-    "stats": "+# to level of socketed duration gems",
+    "item": "Heatshiver",
+    "stats": "+# to level of socketed duration gems, +# to level of socketed aoe gems",
     "builds": 1,
     "mods": [
       {
@@ -1923,69 +1411,30 @@
         "trade_ids": [
           "implicit.stat_2115168758"
         ]
+      },
+      {
+        "text": "+# to level of socketed aoe gems",
+        "trade_ids": [
+          "implicit.stat_2551600084"
+        ]
       }
     ]
   },
   {
-    "item": "The Squire",
-    "stats": "you take #% reduced extra damage from critical strikes, #% increased maximum life",
+    "item": "Heatshiver",
+    "stats": "+# to level of socketed projectile gems, #% increased maximum life",
     "builds": 1,
     "mods": [
       {
-        "text": "you take #% reduced extra damage from critical strikes",
+        "text": "+# to level of socketed projectile gems",
         "trade_ids": [
-          "implicit.stat_3855016469"
+          "implicit.stat_2176571093"
         ]
       },
       {
         "text": "#% increased maximum life",
         "trade_ids": [
           "implicit.stat_983749596"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Legacy of Fury",
-    "stats": "+# to maximum endurance charges",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "+# to maximum endurance charges",
-        "trade_ids": [
-          "implicit.stat_1515657623"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Legacy of Fury",
-    "stats": "#% increased movement speed",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "#% increased movement speed",
-        "trade_ids": [
-          "implicit.stat_2250533757"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "The Brass Dome",
-    "stats": "+# to level of socketed trap or mine gems, #% reduced lightning damage taken",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "+# to level of socketed trap or mine gems",
-        "trade_ids": [
-          "implicit.stat_150668988"
-        ]
-      },
-      {
-        "text": "#% reduced lightning damage taken",
-        "trade_ids": [
-          "implicit.stat_1276918229"
         ]
       }
     ]
@@ -2017,8 +1466,73 @@
     ]
   },
   {
-    "item": "Dendrobate",
-    "stats": "+# to level of socketed gems, +# to level of socketed duration gems",
+    "item": "Sadima's Touch",
+    "stats": "curse enemies with despair on hit",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "curse enemies with despair on hit",
+        "trade_ids": [
+          "implicit.stat_2764915899"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Sadima's Touch",
+    "stats": "curse enemies with elemental weakness on hit",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "curse enemies with elemental weakness on hit",
+        "trade_ids": [
+          "implicit.stat_2028847114"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Sadima's Touch",
+    "stats": "#% increased cast speed",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "#% increased cast speed",
+        "trade_ids": [
+          "implicit.stat_2891184298"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Sadima's Touch",
+    "stats": "attacks have +#% to critical strike chance",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "attacks have +#% to critical strike chance",
+        "trade_ids": [
+          "implicit.stat_2572042788"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Hyrri's Ire",
+    "stats": "+# to level of socketed minion gems",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "+# to level of socketed minion gems",
+        "trade_ids": [
+          "implicit.stat_3604946673"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Hyrri's Ire",
+    "stats": "+# to level of socketed gems, +# to level of socketed projectile gems",
     "builds": 1,
     "mods": [
       {
@@ -2028,9 +1542,312 @@
         ]
       },
       {
+        "text": "+# to level of socketed projectile gems",
+        "trade_ids": [
+          "implicit.stat_2176571093"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "String of Servitude",
+    "stats": "discipline has #% increased aura effect",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "discipline has #% increased aura effect",
+        "trade_ids": [
+          "implicit.stat_788317702"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "The Consuming Dark",
+    "stats": "#% chance to gain a frenzy charge on kill",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "#% chance to gain a frenzy charge on kill",
+        "trade_ids": [
+          "implicit.stat_1826802197"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Sentari's Answer",
+    "stats": "#% of physical damage from hits taken as fire damage",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "#% of physical damage from hits taken as fire damage",
+        "trade_ids": [
+          "implicit.stat_3342989455"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Bisco's Leash",
+    "stats": "#% increased rarity of items found",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "#% increased rarity of items found",
+        "trade_ids": [
+          "implicit.stat_3917489142"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Matua Tupuna",
+    "stats": "+# to level of socketed aoe gems, +# to level of socketed trap or mine gems",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "+# to level of socketed aoe gems",
+        "trade_ids": [
+          "implicit.stat_2551600084"
+        ]
+      },
+      {
+        "text": "+# to level of socketed trap or mine gems",
+        "trade_ids": [
+          "implicit.stat_150668988"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Matua Tupuna",
+    "stats": "#% increased maximum energy shield",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "#% increased maximum energy shield",
+        "trade_ids": [
+          "implicit.stat_2482852589"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Bloodnotch",
+    "stats": "#% increased damage",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "#% increased damage",
+        "trade_ids": [
+          "implicit.stat_2154246560"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Daresso's Defiance",
+    "stats": "+# to level of socketed duration gems",
+    "builds": 1,
+    "mods": [
+      {
         "text": "+# to level of socketed duration gems",
         "trade_ids": [
           "implicit.stat_2115168758"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Lightning Coil",
+    "stats": "#% increased damage",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "#% increased damage",
+        "trade_ids": [
+          "implicit.stat_2154246560"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Lightning Coil",
+    "stats": "#% additional physical damage reduction while stationary",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "#% additional physical damage reduction while stationary",
+        "trade_ids": [
+          "implicit.stat_2181129193"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Lightning Coil",
+    "stats": "#% increased damage, #% reduced lightning damage taken",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "#% increased damage",
+        "trade_ids": [
+          "implicit.stat_2154246560"
+        ]
+      },
+      {
+        "text": "#% reduced lightning damage taken",
+        "trade_ids": [
+          "implicit.stat_1276918229"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Lightning Coil",
+    "stats": "+# to level of socketed aoe gems",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "+# to level of socketed aoe gems",
+        "trade_ids": [
+          "implicit.stat_2551600084"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Lightning Coil",
+    "stats": "+#% to all maximum resistances",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "+#% to all maximum resistances",
+        "trade_ids": [
+          "implicit.stat_569299859"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Lightning Coil",
+    "stats": "+# to level of socketed aoe gems, +# to level of socketed projectile gems",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "+# to level of socketed aoe gems",
+        "trade_ids": [
+          "implicit.stat_2551600084"
+        ]
+      },
+      {
+        "text": "+# to level of socketed projectile gems",
+        "trade_ids": [
+          "implicit.stat_2176571093"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Asenath's Gentle Touch",
+    "stats": "+# to level of socketed minion gems, attacks have +#% to critical strike chance",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "+# to level of socketed minion gems",
+        "trade_ids": [
+          "implicit.stat_3604946673"
+        ]
+      },
+      {
+        "text": "attacks have +#% to critical strike chance",
+        "trade_ids": [
+          "implicit.stat_2572042788"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Asenath's Gentle Touch",
+    "stats": "+# to level of socketed trap or mine gems, curse enemies with vulnerability on hit",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "+# to level of socketed trap or mine gems",
+        "trade_ids": [
+          "implicit.stat_150668988"
+        ]
+      },
+      {
+        "text": "curse enemies with vulnerability on hit",
+        "trade_ids": [
+          "implicit.stat_3967845372"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Asenath's Gentle Touch",
+    "stats": "+# to level of socketed aura gems, #% increased cast speed",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "+# to level of socketed aura gems",
+        "trade_ids": [
+          "implicit.stat_2452998583"
+        ]
+      },
+      {
+        "text": "#% increased cast speed",
+        "trade_ids": [
+          "implicit.stat_2891184298"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Asenath's Gentle Touch",
+    "stats": "+# to level of socketed warcry gems, #% increased attack speed",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "+# to level of socketed warcry gems",
+        "trade_ids": [
+          "implicit.stat_1672793731"
+        ]
+      },
+      {
+        "text": "#% increased attack speed",
+        "trade_ids": [
+          "implicit.stat_681332047",
+          "implicit.stat_210067635"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Shaper's Touch",
+    "stats": "+# to level of socketed aoe gems",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "+# to level of socketed aoe gems",
+        "trade_ids": [
+          "implicit.stat_2551600084"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Shaper's Touch",
+    "stats": "+# to level of socketed aura gems",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "+# to level of socketed aura gems",
+        "trade_ids": [
+          "implicit.stat_2452998583"
         ]
       }
     ]
@@ -2057,6 +1874,32 @@
         "text": "#% chance to gain onslaught for # seconds on kill",
         "trade_ids": [
           "implicit.stat_3023957681"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Vixen's Entrapment",
+    "stats": "+# to level of socketed gems",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "+# to level of socketed gems",
+        "trade_ids": [
+          "implicit.stat_2843100721"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Vixen's Entrapment",
+    "stats": "#% increased cast speed",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "#% increased cast speed",
+        "trade_ids": [
+          "implicit.stat_2891184298"
         ]
       }
     ]
@@ -2120,136 +1963,6 @@
     ]
   },
   {
-    "item": "Dawnbreaker",
-    "stats": "+#% chance to block",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "+#% chance to block",
-        "trade_ids": [
-          "implicit.stat_4253454700"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "The Covenant",
-    "stats": "+# to level of socketed duration gems, +# to level of socketed warcry gems",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "+# to level of socketed duration gems",
-        "trade_ids": [
-          "implicit.stat_2115168758"
-        ]
-      },
-      {
-        "text": "+# to level of socketed warcry gems",
-        "trade_ids": [
-          "implicit.stat_1672793731"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "The Covenant",
-    "stats": "+# to level of socketed aura gems",
-    "average": 852.6100000000001,
-    "prices": [
-      775.1,
-      930.1200000000001
-    ],
-    "search": {
-      "id": "7lRgXeBS5",
-      "complexity": 18,
-      "total": 2
-    },
-    "builds": 1,
-    "mods": [
-      {
-        "text": "+# to level of socketed aura gems",
-        "trade_ids": [
-          "implicit.stat_2452998583"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "The Covenant",
-    "stats": "#% increased maximum energy shield",
-    "average": 1705.22,
-    "prices": [
-      775.1,
-      2635.34
-    ],
-    "search": {
-      "id": "YVoWm0RiY",
-      "complexity": 18,
-      "total": 2
-    },
-    "builds": 1,
-    "mods": [
-      {
-        "text": "#% increased maximum energy shield",
-        "trade_ids": [
-          "implicit.stat_2482852589"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Gravebind",
-    "stats": "curse enemies with temporal chains on hit",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "curse enemies with temporal chains on hit",
-        "trade_ids": [
-          "implicit.stat_3433724931"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Doomfletch",
-    "stats": "#% increased elemental damage with attack skills",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "#% increased elemental damage with attack skills",
-        "trade_ids": [
-          "implicit.stat_387439868"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Yoke of Suffering",
-    "stats": "hatred has #% increased aura effect",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "hatred has #% increased aura effect",
-        "trade_ids": [
-          "implicit.stat_3742945352"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Yoke of Suffering",
-    "stats": "you can apply an additional curse",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "you can apply an additional curse",
-        "trade_ids": [
-          "implicit.stat_30642521"
-        ]
-      }
-    ]
-  },
-  {
     "item": "The Gull",
     "stats": "socketed skill gems get a #% cost & reservation multiplier",
     "builds": 1,
@@ -2263,46 +1976,27 @@
     ]
   },
   {
-    "item": "Lioneye's Fall",
-    "stats": "corrupted blood cannot be inflicted on you",
+    "item": "March of the Legion",
+    "stats": "+# to level of socketed projectile gems",
     "builds": 1,
     "mods": [
       {
-        "text": "corrupted blood cannot be inflicted on you",
+        "text": "+# to level of socketed projectile gems",
         "trade_ids": [
-          "implicit.stat_1658498488"
+          "implicit.stat_2176571093"
         ]
       }
     ]
   },
   {
-    "item": "Aegis Aurora",
-    "stats": "+# to level of socketed gems",
+    "item": "March of the Legion",
+    "stats": "+# to level of socketed duration gems",
     "builds": 1,
     "mods": [
       {
-        "text": "+# to level of socketed gems",
+        "text": "+# to level of socketed duration gems",
         "trade_ids": [
-          "implicit.stat_2843100721"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Mageblood",
-    "stats": "#% increased maximum energy shield, #% increased cast speed during any flask effect",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "#% increased maximum energy shield",
-        "trade_ids": [
-          "implicit.stat_2482852589"
-        ]
-      },
-      {
-        "text": "#% increased cast speed during any flask effect",
-        "trade_ids": [
-          "implicit.stat_252194507"
+          "implicit.stat_2115168758"
         ]
       }
     ]
@@ -2340,20 +2034,108 @@
     ]
   },
   {
-    "item": "March of the Legion",
-    "stats": "+# to level of socketed projectile gems",
+    "item": "Call of the Brotherhood",
+    "stats": "adds # to # lightning damage to spells and attacks, hatred has #% increased aura effect",
     "builds": 1,
     "mods": [
       {
-        "text": "+# to level of socketed projectile gems",
+        "text": "adds # to # lightning damage to spells and attacks",
         "trade_ids": [
-          "implicit.stat_2176571093"
+          "implicit.stat_2885144362"
+        ]
+      },
+      {
+        "text": "hatred has #% increased aura effect",
+        "trade_ids": [
+          "implicit.stat_3742945352"
         ]
       }
     ]
   },
   {
-    "item": "March of the Legion",
+    "item": "Call of the Brotherhood",
+    "stats": "adds # to # lightning damage to spells and attacks, bleeding cannot be inflicted on you",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "adds # to # lightning damage to spells and attacks",
+        "trade_ids": [
+          "implicit.stat_2885144362"
+        ]
+      },
+      {
+        "text": "bleeding cannot be inflicted on you",
+        "trade_ids": [
+          "implicit.stat_1901158930"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Call of the Brotherhood",
+    "stats": "#% increased strength, #% increased intelligence",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "#% increased strength",
+        "trade_ids": [
+          "implicit.stat_4139681126"
+        ]
+      },
+      {
+        "text": "#% increased intelligence",
+        "trade_ids": [
+          "implicit.stat_656461285"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Call of the Brotherhood",
+    "stats": "grants level # hatred skill, #% increased strength, #% increased intelligence",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "grants level # hatred skill",
+        "trade_ids": [
+          "implicit.stat_2429546158"
+        ]
+      },
+      {
+        "text": "#% increased strength",
+        "trade_ids": [
+          "implicit.stat_4139681126"
+        ]
+      },
+      {
+        "text": "#% increased intelligence",
+        "trade_ids": [
+          "implicit.stat_656461285"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Call of the Brotherhood",
+    "stats": "anger has #% increased aura effect, determination has #% increased aura effect",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "anger has #% increased aura effect",
+        "trade_ids": [
+          "implicit.stat_1592278124"
+        ]
+      },
+      {
+        "text": "determination has #% increased aura effect",
+        "trade_ids": [
+          "implicit.stat_3653400807"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Bubonic Trail",
     "stats": "+# to level of socketed duration gems",
     "builds": 1,
     "mods": [
@@ -2366,16 +2148,49 @@
     ]
   },
   {
-    "item": "Inpulsa's Broken Heart",
-    "stats": "+# to level of socketed minion gems, #% increased damage",
+    "item": "Bubonic Trail",
+    "stats": "+# to level of socketed gems",
     "builds": 1,
     "mods": [
       {
-        "text": "+# to level of socketed minion gems",
+        "text": "+# to level of socketed gems",
         "trade_ids": [
-          "implicit.stat_3604946673"
+          "implicit.stat_2843100721"
         ]
-      },
+      }
+    ]
+  },
+  {
+    "item": "Lightpoacher",
+    "stats": "regenerate #% of life per second",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "regenerate #% of life per second",
+        "trade_ids": [
+          "implicit.stat_836936635"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Ancestral Vision",
+    "stats": "corrupted blood cannot be inflicted on you",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "corrupted blood cannot be inflicted on you",
+        "trade_ids": [
+          "implicit.stat_1658498488"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Ancestral Vision",
+    "stats": "#% increased damage",
+    "builds": 1,
+    "mods": [
       {
         "text": "#% increased damage",
         "trade_ids": [
@@ -2385,40 +2200,311 @@
     ]
   },
   {
-    "item": "Inpulsa's Broken Heart",
-    "stats": "#% reduced cold damage taken",
+    "item": "Snakebite",
+    "stats": "curse enemies with temporal chains on hit",
     "builds": 1,
     "mods": [
       {
-        "text": "#% reduced cold damage taken",
+        "text": "curse enemies with temporal chains on hit",
         "trade_ids": [
-          "implicit.stat_3303114033"
+          "implicit.stat_3433724931"
         ]
       }
     ]
   },
   {
-    "item": "Sentari's Answer",
-    "stats": "#% of physical damage from hits taken as fire damage",
+    "item": "Darkscorn",
+    "stats": "+#% to global critical strike multiplier",
     "builds": 1,
     "mods": [
       {
-        "text": "#% of physical damage from hits taken as fire damage",
+        "text": "+#% to global critical strike multiplier",
         "trade_ids": [
-          "implicit.stat_3342989455"
+          "implicit.stat_3556824919"
         ]
       }
     ]
   },
   {
-    "item": "Bisco's Leash",
-    "stats": "#% increased rarity of items found",
+    "item": "The Squire",
+    "stats": "you take #% reduced extra damage from critical strikes, #% increased maximum life",
     "builds": 1,
     "mods": [
       {
-        "text": "#% increased rarity of items found",
+        "text": "you take #% reduced extra damage from critical strikes",
         "trade_ids": [
-          "implicit.stat_3917489142"
+          "implicit.stat_3855016469"
+        ]
+      },
+      {
+        "text": "#% increased maximum life",
+        "trade_ids": [
+          "implicit.stat_983749596"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Vaal Caress",
+    "stats": "+# to level of socketed duration gems",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "+# to level of socketed duration gems",
+        "trade_ids": [
+          "implicit.stat_2115168758"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Vaal Caress",
+    "stats": "+# to level of socketed duration gems, +# to level of socketed aura gems",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "+# to level of socketed duration gems",
+        "trade_ids": [
+          "implicit.stat_2115168758"
+        ]
+      },
+      {
+        "text": "+# to level of socketed aura gems",
+        "trade_ids": [
+          "implicit.stat_2452998583"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Prism Guardian",
+    "stats": "#% of physical damage from hits taken as lightning damage",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "#% of physical damage from hits taken as lightning damage",
+        "trade_ids": [
+          "implicit.stat_425242359"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Prism Guardian",
+    "stats": "+# to level of socketed gems",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "+# to level of socketed gems",
+        "trade_ids": [
+          "implicit.stat_2843100721"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Black Zenith",
+    "stats": "curse enemies with temporal chains on hit",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "curse enemies with temporal chains on hit",
+        "trade_ids": [
+          "implicit.stat_3433724931"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Carcass Jack",
+    "stats": "+# to level of socketed trap or mine gems",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "+# to level of socketed trap or mine gems",
+        "trade_ids": [
+          "implicit.stat_150668988"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Winterweave",
+    "stats": "hatred has #% increased aura effect",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "hatred has #% increased aura effect",
+        "trade_ids": [
+          "implicit.stat_3742945352"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Aegis Aurora",
+    "stats": "+# to level of socketed gems",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "+# to level of socketed gems",
+        "trade_ids": [
+          "implicit.stat_2843100721"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Mageblood",
+    "stats": "#% increased maximum energy shield, #% increased cast speed during any flask effect",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "#% increased maximum energy shield",
+        "trade_ids": [
+          "implicit.stat_2482852589"
+        ]
+      },
+      {
+        "text": "#% increased cast speed during any flask effect",
+        "trade_ids": [
+          "implicit.stat_252194507"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Heartbound Loop",
+    "stats": "cannot be ignited",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "cannot be ignited",
+        "trade_ids": [
+          "implicit.stat_331731406"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Obliteration",
+    "stats": "#% increased area of effect",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "#% increased area of effect",
+        "trade_ids": [
+          "implicit.stat_280731498"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Oskarm",
+    "stats": "curse enemies with vulnerability on hit",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "curse enemies with vulnerability on hit",
+        "trade_ids": [
+          "implicit.stat_3967845372"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Redblade Banner",
+    "stats": "you take #% reduced extra damage from critical strikes",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "you take #% reduced extra damage from critical strikes",
+        "trade_ids": [
+          "implicit.stat_3855016469"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Dendrobate",
+    "stats": "+# to level of socketed gems, +# to level of socketed duration gems",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "+# to level of socketed gems",
+        "trade_ids": [
+          "implicit.stat_2843100721"
+        ]
+      },
+      {
+        "text": "+# to level of socketed duration gems",
+        "trade_ids": [
+          "implicit.stat_2115168758"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Invictus Solaris",
+    "stats": "+# to level of socketed minion gems",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "+# to level of socketed minion gems",
+        "trade_ids": [
+          "implicit.stat_3604946673"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Ventor's Gamble",
+    "stats": "bleeding cannot be inflicted on you",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "bleeding cannot be inflicted on you",
+        "trade_ids": [
+          "implicit.stat_1901158930"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Tabula Rasa",
+    "stats": "#% increased damage",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "#% increased damage",
+        "trade_ids": [
+          "implicit.stat_2154246560"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Tabula Rasa",
+    "stats": "+# to level of socketed aoe gems",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "+# to level of socketed aoe gems",
+        "trade_ids": [
+          "implicit.stat_2551600084"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Tabula Rasa",
+    "stats": "+# to level of socketed duration gems",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "+# to level of socketed duration gems",
+        "trade_ids": [
+          "implicit.stat_2115168758"
         ]
       }
     ]
@@ -2476,250 +2562,6 @@
     ]
   },
   {
-    "item": "Tanu Ahi",
-    "stats": "attacks have +#% to critical strike chance",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "attacks have +#% to critical strike chance",
-        "trade_ids": [
-          "implicit.stat_2572042788"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Anathema",
-    "stats": "+#% to all elemental resistances",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "+#% to all elemental resistances",
-        "trade_ids": [
-          "implicit.stat_2901986750"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Anathema",
-    "stats": "bleeding cannot be inflicted on you",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "bleeding cannot be inflicted on you",
-        "trade_ids": [
-          "implicit.stat_1901158930"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Coward's Legacy",
-    "stats": "#% increased maximum life, zealotry has #% increased aura effect",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "#% increased maximum life",
-        "trade_ids": [
-          "implicit.stat_983749596"
-        ]
-      },
-      {
-        "text": "zealotry has #% increased aura effect",
-        "trade_ids": [
-          "implicit.stat_4096052153"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Bated Breath",
-    "stats": "zealotry has #% increased aura effect",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "zealotry has #% increased aura effect",
-        "trade_ids": [
-          "implicit.stat_4096052153"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Bated Breath",
-    "stats": "#% increased dexterity, #% increased intelligence, #% increased maximum energy shield",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "#% increased dexterity",
-        "trade_ids": [
-          "implicit.stat_4139681126"
-        ]
-      },
-      {
-        "text": "#% increased intelligence",
-        "trade_ids": [
-          "implicit.stat_656461285"
-        ]
-      },
-      {
-        "text": "#% increased maximum energy shield",
-        "trade_ids": [
-          "implicit.stat_2482852589"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Replica Dragonfang's Flight",
-    "stats": "you can apply an additional curse",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "you can apply an additional curse",
-        "trade_ids": [
-          "implicit.stat_30642521"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Snakebite",
-    "stats": "curse enemies with temporal chains on hit",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "curse enemies with temporal chains on hit",
-        "trade_ids": [
-          "implicit.stat_3433724931"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Darkscorn",
-    "stats": "+#% to global critical strike multiplier",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "+#% to global critical strike multiplier",
-        "trade_ids": [
-          "implicit.stat_3556824919"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Carcass Jack",
-    "stats": "+# to level of socketed trap or mine gems",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "+# to level of socketed trap or mine gems",
-        "trade_ids": [
-          "implicit.stat_150668988"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Winterweave",
-    "stats": "hatred has #% increased aura effect",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "hatred has #% increased aura effect",
-        "trade_ids": [
-          "implicit.stat_3742945352"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Hyrri's Ire",
-    "stats": "+# to level of socketed minion gems",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "+# to level of socketed minion gems",
-        "trade_ids": [
-          "implicit.stat_3604946673"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Hyrri's Ire",
-    "stats": "+# to level of socketed gems, +# to level of socketed projectile gems",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "+# to level of socketed gems",
-        "trade_ids": [
-          "implicit.stat_2843100721"
-        ]
-      },
-      {
-        "text": "+# to level of socketed projectile gems",
-        "trade_ids": [
-          "implicit.stat_2176571093"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Queen of the Forest",
-    "stats": "+# to level of socketed gems, +# to level of socketed projectile gems",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "+# to level of socketed gems",
-        "trade_ids": [
-          "implicit.stat_2843100721"
-        ]
-      },
-      {
-        "text": "+# to level of socketed projectile gems",
-        "trade_ids": [
-          "implicit.stat_2176571093"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Queen of the Forest",
-    "stats": "+# to level of socketed aoe gems, #% increased damage",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "+# to level of socketed aoe gems",
-        "trade_ids": [
-          "implicit.stat_2551600084"
-        ]
-      },
-      {
-        "text": "#% increased damage",
-        "trade_ids": [
-          "implicit.stat_2154246560"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Queen of the Forest",
-    "stats": "+# to level of socketed gems",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "+# to level of socketed gems",
-        "trade_ids": [
-          "implicit.stat_2843100721"
-        ]
-      }
-    ]
-  },
-  {
     "item": "Rearguard",
     "stats": "#% of fire damage leeched as life, bow attacks fire an additional arrow",
     "builds": 1,
@@ -2735,6 +2577,38 @@
         "text": "bow attacks fire an additional arrow",
         "trade_ids": [
           "implicit.stat_3885405204"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Demon Stitcher",
+    "stats": "+# to level of socketed aura gems",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "+# to level of socketed aura gems",
+        "trade_ids": [
+          "implicit.stat_2452998583"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Sin Trek",
+    "stats": "+# to level of socketed aura gems, +# to global evasion rating while moving",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "+# to level of socketed aura gems",
+        "trade_ids": [
+          "implicit.stat_2452998583"
+        ]
+      },
+      {
+        "text": "+# to global evasion rating while moving",
+        "trade_ids": [
+          "implicit.stat_3825877290"
         ]
       }
     ]
@@ -2765,27 +2639,214 @@
     ]
   },
   {
-    "item": "Heartbound Loop",
-    "stats": "cannot be ignited",
+    "item": "Inpulsa's Broken Heart",
+    "stats": "#% reduced cold damage taken",
     "builds": 1,
     "mods": [
       {
-        "text": "cannot be ignited",
+        "text": "#% reduced cold damage taken",
         "trade_ids": [
-          "implicit.stat_331731406"
+          "implicit.stat_3303114033"
         ]
       }
     ]
   },
   {
-    "item": "The Consuming Dark",
-    "stats": "#% chance to gain a frenzy charge on kill",
+    "item": "Inpulsa's Broken Heart",
+    "stats": "+# to level of socketed minion gems, #% increased damage",
     "builds": 1,
     "mods": [
       {
-        "text": "#% chance to gain a frenzy charge on kill",
+        "text": "+# to level of socketed minion gems",
         "trade_ids": [
-          "implicit.stat_1826802197"
+          "implicit.stat_3604946673"
+        ]
+      },
+      {
+        "text": "#% increased damage",
+        "trade_ids": [
+          "implicit.stat_2154246560"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Legacy of Fury",
+    "stats": "+# to maximum endurance charges",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "+# to maximum endurance charges",
+        "trade_ids": [
+          "implicit.stat_1515657623"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Legacy of Fury",
+    "stats": "#% increased movement speed",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "#% increased movement speed",
+        "trade_ids": [
+          "implicit.stat_2250533757"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "The Brass Dome",
+    "stats": "+# to level of socketed trap or mine gems, #% reduced lightning damage taken",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "+# to level of socketed trap or mine gems",
+        "trade_ids": [
+          "implicit.stat_150668988"
+        ]
+      },
+      {
+        "text": "#% reduced lightning damage taken",
+        "trade_ids": [
+          "implicit.stat_1276918229"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Coward's Legacy",
+    "stats": "#% increased maximum life, zealotry has #% increased aura effect",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "#% increased maximum life",
+        "trade_ids": [
+          "implicit.stat_983749596"
+        ]
+      },
+      {
+        "text": "zealotry has #% increased aura effect",
+        "trade_ids": [
+          "implicit.stat_4096052153"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Replica Dragonfang's Flight",
+    "stats": "you can apply an additional curse",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "you can apply an additional curse",
+        "trade_ids": [
+          "implicit.stat_30642521"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Dawnbreaker",
+    "stats": "+#% chance to block",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "+#% chance to block",
+        "trade_ids": [
+          "implicit.stat_4253454700"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Lori's Lantern",
+    "stats": "discipline has #% increased aura effect",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "discipline has #% increased aura effect",
+        "trade_ids": [
+          "implicit.stat_788317702"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Doomfletch",
+    "stats": "#% increased elemental damage with attack skills",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "#% increased elemental damage with attack skills",
+        "trade_ids": [
+          "implicit.stat_387439868"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Tanu Ahi",
+    "stats": "attacks have +#% to critical strike chance",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "attacks have +#% to critical strike chance",
+        "trade_ids": [
+          "implicit.stat_2572042788"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Gravebind",
+    "stats": "curse enemies with temporal chains on hit",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "curse enemies with temporal chains on hit",
+        "trade_ids": [
+          "implicit.stat_3433724931"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Hyrri's Truth",
+    "stats": "you can apply an additional curse",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "you can apply an additional curse",
+        "trade_ids": [
+          "implicit.stat_30642521"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Rat's Nest",
+    "stats": "socketed skill gems get a #% cost & reservation multiplier",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "socketed skill gems get a #% cost & reservation multiplier",
+        "trade_ids": [
+          "implicit.stat_2865550257"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Aurseize",
+    "stats": "curse enemies with elemental weakness on hit",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "curse enemies with elemental weakness on hit",
+        "trade_ids": [
+          "implicit.stat_2028847114"
         ]
       }
     ]
@@ -2804,33 +2865,26 @@
     ]
   },
   {
-    "item": "Ventor's Gamble",
-    "stats": "bleeding cannot be inflicted on you",
+    "item": "Leper's Alms",
+    "stats": "#% of physical damage from hits taken as lightning damage, #% reduced damage taken from projectile hits",
     "builds": 1,
     "mods": [
       {
-        "text": "bleeding cannot be inflicted on you",
+        "text": "#% of physical damage from hits taken as lightning damage",
         "trade_ids": [
-          "implicit.stat_1901158930"
+          "implicit.stat_425242359"
+        ]
+      },
+      {
+        "text": "#% reduced damage taken from projectile hits",
+        "trade_ids": [
+          "implicit.stat_1425651005"
         ]
       }
     ]
   },
   {
-    "item": "Ancestral Vision",
-    "stats": "#% increased damage",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "#% increased damage",
-        "trade_ids": [
-          "implicit.stat_2154246560"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Ancestral Vision",
+    "item": "Lioneye's Fall",
     "stats": "corrupted blood cannot be inflicted on you",
     "builds": 1,
     "mods": [
@@ -2843,14 +2897,14 @@
     ]
   },
   {
-    "item": "Bloodnotch",
-    "stats": "#% increased damage",
+    "item": "Kaom's Heart",
+    "stats": "#% increased maximum life",
     "builds": 1,
     "mods": [
       {
-        "text": "#% increased damage",
+        "text": "#% increased maximum life",
         "trade_ids": [
-          "implicit.stat_2154246560"
+          "implicit.stat_983749596"
         ]
       }
     ]
