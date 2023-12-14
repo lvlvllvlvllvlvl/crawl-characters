@@ -422,6 +422,24 @@
   {
     "item": "Demon Stitcher",
     "stats": "+# to level of socketed aura gems",
+    "average": 19.5,
+    "prices": [
+      5,
+      5,
+      10,
+      10,
+      10,
+      10,
+      20,
+      40,
+      40,
+      45
+    ],
+    "search": {
+      "id": "8a2GpmBIV",
+      "complexity": 18,
+      "total": 14
+    },
     "builds": 1,
     "mods": [
       {
@@ -435,6 +453,13 @@
   {
     "item": "Matua Tupuna",
     "stats": "+# to level of socketed aoe gems, +# to level of socketed trap or mine gems",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "Ey6lVBVu5",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -454,6 +479,24 @@
   {
     "item": "Matua Tupuna",
     "stats": "#% increased maximum energy shield",
+    "average": 12.444444444444445,
+    "prices": [
+      2,
+      5,
+      5,
+      5,
+      5,
+      10,
+      20,
+      30,
+      30,
+      45
+    ],
+    "search": {
+      "id": "LeW45Y7sn",
+      "complexity": 18,
+      "total": 14
+    },
     "builds": 1,
     "mods": [
       {
@@ -467,6 +510,15 @@
   {
     "item": "Sin Trek",
     "stats": "+# to level of socketed aura gems, +# to global evasion rating while moving",
+    "average": 40,
+    "prices": [
+      40
+    ],
+    "search": {
+      "id": "JVn8QVOcl",
+      "complexity": 29,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -486,6 +538,13 @@
   {
     "item": "Call of the Brotherhood",
     "stats": "adds # to # lightning damage to spells and attacks, hatred has #% increased aura effect",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "mPakm7at6",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
