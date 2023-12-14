@@ -1228,6 +1228,15 @@
   {
     "item": "Inspired Learning",
     "stats": "#% reduced effect of curses on you",
+    "average": 499,
+    "prices": [
+      499
+    ],
+    "search": {
+      "id": "LmdejwjHn",
+      "complexity": 18,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -1241,6 +1250,15 @@
   {
     "item": "Inspired Learning",
     "stats": "damage penetrates #% lightning resistance",
+    "average": 499,
+    "prices": [
+      499
+    ],
+    "search": {
+      "id": "kXD66RnF5",
+      "complexity": 19,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -1283,6 +1301,24 @@
   {
     "item": "Sadima's Touch",
     "stats": "curse enemies with despair on hit",
+    "average": 65.5,
+    "prices": [
+      30,
+      40,
+      50,
+      50,
+      55,
+      70,
+      70,
+      80,
+      100,
+      110
+    ],
+    "search": {
+      "id": "v3mvnDMCE",
+      "complexity": 18,
+      "total": 60
+    },
     "builds": 1,
     "mods": [
       {
@@ -1296,6 +1332,24 @@
   {
     "item": "Sadima's Touch",
     "stats": "#% increased cast speed",
+    "average": 2.6,
+    "prices": [
+      2,
+      2,
+      2,
+      2,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3
+    ],
+    "search": {
+      "id": "K9gKZ2RC5",
+      "complexity": 18,
+      "total": 48
+    },
     "builds": 1,
     "mods": [
       {
@@ -1309,6 +1363,24 @@
   {
     "item": "Sadima's Touch",
     "stats": "curse enemies with elemental weakness on hit",
+    "average": 18.625,
+    "prices": [
+      8,
+      10,
+      15,
+      15,
+      19,
+      20,
+      20,
+      20,
+      20,
+      20
+    ],
+    "search": {
+      "id": "mP2gJyBu6",
+      "complexity": 18,
+      "total": 55
+    },
     "builds": 1,
     "mods": [
       {
