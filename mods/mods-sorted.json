@@ -1394,6 +1394,24 @@
   {
     "item": "Sadima's Touch",
     "stats": "attacks have +#% to critical strike chance",
+    "average": 38.57142857142857,
+    "prices": [
+      10,
+      25,
+      30,
+      35,
+      35,
+      40,
+      40,
+      40,
+      40,
+      40
+    ],
+    "search": {
+      "id": "2Gb38wjTk",
+      "complexity": 18,
+      "total": 48
+    },
     "builds": 1,
     "mods": [
       {
@@ -1407,6 +1425,13 @@
   {
     "item": "Shadows and Dust",
     "stats": "#% increased maximum energy shield, attacks have +#% to critical strike chance",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "EyVjjPBH5",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -1426,6 +1451,24 @@
   {
     "item": "Shadows and Dust",
     "stats": "+#% to spell critical strike chance",
+    "average": 5,
+    "prices": [
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5
+    ],
+    "search": {
+      "id": "ZbErrd0uQ",
+      "complexity": 18,
+      "total": 52
+    },
     "builds": 1,
     "mods": [
       {
@@ -1439,6 +1482,22 @@
   {
     "item": "Lori's Lantern",
     "stats": "discipline has #% increased aura effect",
+    "average": 28.142857142857142,
+    "prices": [
+      2,
+      10,
+      20,
+      30,
+      40,
+      45,
+      50,
+      776.3
+    ],
+    "search": {
+      "id": "QVYkJBMTw",
+      "complexity": 18,
+      "total": 8
+    },
     "builds": 1,
     "mods": [
       {
@@ -1452,6 +1511,24 @@
   {
     "item": "Tabula Rasa",
     "stats": "+# to level of socketed aoe gems",
+    "average": 67.33333333333333,
+    "prices": [
+      42,
+      49,
+      55,
+      60,
+      60,
+      70,
+      70,
+      100,
+      100,
+      155.26
+    ],
+    "search": {
+      "id": "oXjLOwkUl",
+      "complexity": 18,
+      "total": 11
+    },
     "builds": 1,
     "mods": [
       {
