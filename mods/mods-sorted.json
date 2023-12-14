@@ -2580,6 +2580,13 @@
   {
     "item": "Unnatural Instinct",
     "stats": "#% increased damage, #% increased area of effect",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "KJDLoqRi5",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -2599,6 +2606,13 @@
   {
     "item": "Unnatural Instinct",
     "stats": "damage penetrates #% elemental resistances, corrupted blood cannot be inflicted on you",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "rXj9DVMHQ",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -2618,6 +2632,13 @@
   {
     "item": "Leper's Alms",
     "stats": "#% of physical damage from hits taken as lightning damage, #% reduced damage taken from projectile hits",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "VMpJL9whp",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -2637,6 +2658,24 @@
   {
     "item": "Alpha's Howl",
     "stats": "+# to maximum power charges",
+    "average": 118.33777777777777,
+    "prices": [
+      55,
+      60,
+      80,
+      100,
+      120,
+      162.51,
+      162.51,
+      162.51,
+      162.51,
+      325.02
+    ],
+    "search": {
+      "id": "lXjLVaVUV",
+      "complexity": 18,
+      "total": 11
+    },
     "builds": 1,
     "mods": [
       {
@@ -2650,6 +2689,24 @@
   {
     "item": "Alpha's Howl",
     "stats": "+# to level of socketed aura gems",
+    "average": 398.1494999999999,
+    "prices": [
+      325.02,
+      325.02,
+      325.02,
+      325.02,
+      325.02,
+      406.275,
+      487.53,
+      487.53,
+      487.53,
+      487.53
+    ],
+    "search": {
+      "id": "EG8P4gyC5",
+      "complexity": 18,
+      "total": 13
+    },
     "builds": 1,
     "mods": [
       {
