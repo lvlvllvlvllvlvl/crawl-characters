@@ -2334,6 +2334,24 @@
   {
     "item": "Lightning Coil",
     "stats": "+# to level of socketed aoe gems",
+    "average": 61.8,
+    "prices": [
+      49,
+      50,
+      60,
+      60,
+      60,
+      65,
+      65,
+      69,
+      70,
+      70
+    ],
+    "search": {
+      "id": "YD0Dv96UY",
+      "complexity": 18,
+      "total": 60
+    },
     "builds": 1,
     "mods": [
       {
@@ -2347,6 +2365,13 @@
   {
     "item": "Lightning Coil",
     "stats": "#% increased damage, #% reduced lightning damage taken",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "XqDYal7CP",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -2366,6 +2391,24 @@
   {
     "item": "Lightning Coil",
     "stats": "#% increased damage",
+    "average": 60.4,
+    "prices": [
+      49,
+      50,
+      50,
+      50,
+      55,
+      60,
+      60,
+      70,
+      80,
+      80
+    ],
+    "search": {
+      "id": "DGEGlVVc5",
+      "complexity": 18,
+      "total": 37
+    },
     "builds": 1,
     "mods": [
       {
@@ -2379,6 +2422,24 @@
   {
     "item": "Lightning Coil",
     "stats": "+#% to all maximum resistances",
+    "average": 24.333333333333332,
+    "prices": [
+      20,
+      20,
+      20,
+      20,
+      20,
+      29,
+      30,
+      30,
+      30,
+      40
+    ],
+    "search": {
+      "id": "80Z0zlZcV",
+      "complexity": 18,
+      "total": 33
+    },
     "builds": 1,
     "mods": [
       {
@@ -2392,6 +2453,13 @@
   {
     "item": "Lightpoacher",
     "stats": "regenerate #% of life per second",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "3B6QJKgF5",
+      "complexity": 18,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
