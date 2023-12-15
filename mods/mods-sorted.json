@@ -120,6 +120,37 @@
     ]
   },
   {
+    "item": "Matua Tupuna",
+    "stats": "+# to level of socketed aura gems",
+    "average": 714.8056666666666,
+    "prices": [
+      503.90999999999997,
+      503.90999999999997,
+      671.88,
+      722.271,
+      755.865,
+      755.865,
+      839.85,
+      839.85,
+      839.85,
+      1175.79
+    ],
+    "search": {
+      "id": "0PQlkZ8ig",
+      "complexity": 18,
+      "total": 12
+    },
+    "builds": 4,
+    "mods": [
+      {
+        "text": "+# to level of socketed aura gems",
+        "trade_ids": [
+          "implicit.stat_2452998583"
+        ]
+      }
+    ]
+  },
+  {
     "item": "String of Servitude",
     "stats": "#% increased rarity of items found",
     "average": 3.7,
@@ -213,37 +244,6 @@
     ]
   },
   {
-    "item": "Matua Tupuna",
-    "stats": "+# to level of socketed aura gems",
-    "average": 714.8056666666666,
-    "prices": [
-      503.90999999999997,
-      503.90999999999997,
-      671.88,
-      722.271,
-      755.865,
-      755.865,
-      839.85,
-      839.85,
-      839.85,
-      1175.79
-    ],
-    "search": {
-      "id": "0PQlkZ8ig",
-      "complexity": 18,
-      "total": 12
-    },
-    "builds": 3,
-    "mods": [
-      {
-        "text": "+# to level of socketed aura gems",
-        "trade_ids": [
-          "implicit.stat_2452998583"
-        ]
-      }
-    ]
-  },
-  {
     "item": "Call of the Brotherhood",
     "stats": "#% increased rarity of items found",
     "average": 11.7,
@@ -270,6 +270,37 @@
         "text": "#% increased rarity of items found",
         "trade_ids": [
           "implicit.stat_3917489142"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Southbound",
+    "stats": "+#% to spell critical strike chance",
+    "average": 150.4226,
+    "prices": [
+      70,
+      85,
+      90,
+      140,
+      145,
+      167.97,
+      167.97,
+      167.97,
+      235.158,
+      235.158
+    ],
+    "search": {
+      "id": "XkO2WqdSP",
+      "complexity": 18,
+      "total": 14
+    },
+    "builds": 3,
+    "mods": [
+      {
+        "text": "+#% to spell critical strike chance",
+        "trade_ids": [
+          "implicit.stat_791835907"
         ]
       }
     ]
@@ -446,37 +477,6 @@
         "text": "+# to maximum power charges",
         "trade_ids": [
           "implicit.stat_227523295"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Southbound",
-    "stats": "+#% to spell critical strike chance",
-    "average": 150.4226,
-    "prices": [
-      70,
-      85,
-      90,
-      140,
-      145,
-      167.97,
-      167.97,
-      167.97,
-      235.158,
-      235.158
-    ],
-    "search": {
-      "id": "XkO2WqdSP",
-      "complexity": 18,
-      "total": 14
-    },
-    "builds": 2,
-    "mods": [
-      {
-        "text": "+#% to spell critical strike chance",
-        "trade_ids": [
-          "implicit.stat_791835907"
         ]
       }
     ]
@@ -994,6 +994,19 @@
         "text": "#% increased area of effect",
         "trade_ids": [
           "implicit.stat_280731498"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Willclash",
+    "stats": "+# to maximum power charges",
+    "builds": 2,
+    "mods": [
+      {
+        "text": "+# to maximum power charges",
+        "trade_ids": [
+          "implicit.stat_227523295"
         ]
       }
     ]
@@ -2151,7 +2164,38 @@
   },
   {
     "item": "String of Servitude",
+    "stats": "#% increased quantity of items found",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "#% increased quantity of items found",
+        "trade_ids": [
+          "implicit.stat_884586851"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "String of Servitude",
     "stats": "wrath has #% increased aura effect",
+    "average": 3.1,
+    "prices": [
+      1,
+      1,
+      3,
+      3,
+      3,
+      3,
+      4,
+      4,
+      4,
+      5
+    ],
+    "search": {
+      "id": "GZyglgohb",
+      "complexity": 18,
+      "total": 55
+    },
     "builds": 1,
     "mods": [
       {
@@ -2165,6 +2209,13 @@
   {
     "item": "String of Servitude",
     "stats": "#% increased maximum energy shield, hatred has #% increased aura effect",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "MV4KYqDFJ",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -2184,6 +2235,24 @@
   {
     "item": "String of Servitude",
     "stats": "zealotry has #% increased aura effect",
+    "average": 3.3600000000000003,
+    "prices": [
+      1,
+      1,
+      0.6,
+      2,
+      4,
+      5,
+      5,
+      5,
+      5,
+      5
+    ],
+    "search": {
+      "id": "qXjkkjlCg",
+      "complexity": 18,
+      "total": 38
+    },
     "builds": 1,
     "mods": [
       {
@@ -2197,6 +2266,16 @@
   {
     "item": "Greed's Embrace",
     "stats": "+# to level of socketed aoe gems, +# to level of socketed aura gems",
+    "average": 921.5250000000001,
+    "prices": [
+      502.65000000000003,
+      1340.4
+    ],
+    "search": {
+      "id": "9YD9l8yIK",
+      "complexity": 29,
+      "total": 2
+    },
     "builds": 1,
     "mods": [
       {
@@ -2216,6 +2295,15 @@
   {
     "item": "Greed's Embrace",
     "stats": "+# to level of socketed aoe gems, #% reduced lightning damage taken",
+    "average": 167.55,
+    "prices": [
+      167.55
+    ],
+    "search": {
+      "id": "jXJd8wdHX",
+      "complexity": 29,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -2235,6 +2323,24 @@
   {
     "item": "Greed's Embrace",
     "stats": "#% reduced fire damage taken",
+    "average": 11.777777777777779,
+    "prices": [
+      1,
+      5,
+      5,
+      10,
+      10,
+      15,
+      20,
+      20,
+      20,
+      35
+    ],
+    "search": {
+      "id": "VMg46mgfp",
+      "complexity": 18,
+      "total": 26
+    },
     "builds": 1,
     "mods": [
       {
@@ -2261,6 +2367,24 @@
   {
     "item": "Sadima's Touch",
     "stats": "curse enemies with despair on hit",
+    "average": 40.333333333333336,
+    "prices": [
+      15,
+      25,
+      25,
+      30,
+      30,
+      33,
+      50,
+      75,
+      80,
+      99
+    ],
+    "search": {
+      "id": "v3mvnDMCE",
+      "complexity": 18,
+      "total": 29
+    },
     "builds": 1,
     "mods": [
       {
@@ -2274,6 +2398,24 @@
   {
     "item": "Sadima's Touch",
     "stats": "#% increased cast speed",
+    "average": 3.2,
+    "prices": [
+      2,
+      2,
+      2,
+      3,
+      3,
+      3,
+      3,
+      4,
+      5,
+      5
+    ],
+    "search": {
+      "id": "K9gKZ2RC5",
+      "complexity": 18,
+      "total": 31
+    },
     "builds": 1,
     "mods": [
       {
@@ -2287,6 +2429,24 @@
   {
     "item": "Sadima's Touch",
     "stats": "+# to level of socketed minion gems",
+    "average": 6.111111111111111,
+    "prices": [
+      1,
+      3,
+      5,
+      5,
+      5,
+      5,
+      10,
+      10,
+      11,
+      15
+    ],
+    "search": {
+      "id": "YD0JL6vhY",
+      "complexity": 18,
+      "total": 15
+    },
     "builds": 1,
     "mods": [
       {
@@ -2300,6 +2460,24 @@
   {
     "item": "Goldwyrm",
     "stats": "+# to level of socketed curse gems",
+    "average": 4.4,
+    "prices": [
+      3,
+      3,
+      4,
+      4,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5
+    ],
+    "search": {
+      "id": "oZ89EgYsl",
+      "complexity": 18,
+      "total": 42
+    },
     "builds": 1,
     "mods": [
       {
@@ -2313,6 +2491,24 @@
   {
     "item": "Goldwyrm",
     "stats": "+# to level of socketed gems",
+    "average": 8.6,
+    "prices": [
+      5,
+      5,
+      8,
+      8,
+      10,
+      10,
+      10,
+      10,
+      10,
+      10
+    ],
+    "search": {
+      "id": "DGEnq8vf5",
+      "complexity": 18,
+      "total": 45
+    },
     "builds": 1,
     "mods": [
       {
@@ -2326,6 +2522,13 @@
   {
     "item": "Soul Mantle",
     "stats": "+# to level of socketed gems, +# to level of socketed projectile gems",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "0PQbWp7Ig",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -2345,6 +2548,13 @@
   {
     "item": "The Annihilating Light",
     "stats": "#% increased cast speed, #% increased critical strike chance",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "DGEDdB2f5",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -2364,6 +2574,13 @@
   {
     "item": "Invictus Solaris",
     "stats": "+# to level of socketed minion gems",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "jXR7WqltX",
+      "complexity": 18,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -2377,6 +2594,24 @@
   {
     "item": "Rat's Nest",
     "stats": "socketed skill gems get a #% cost & reservation multiplier",
+    "average": 32.5,
+    "prices": [
+      15,
+      15,
+      25,
+      30,
+      30,
+      45,
+      50,
+      50,
+      85,
+      167.55
+    ],
+    "search": {
+      "id": "6ZDz0ZkcG",
+      "complexity": 18,
+      "total": 19
+    },
     "builds": 1,
     "mods": [
       {
@@ -3005,6 +3240,25 @@
         "text": "#% increased maximum life",
         "trade_ids": [
           "implicit.stat_983749596"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "The Torrent's Reclamation",
+    "stats": "#% increased maximum life, +#% to critical strike multiplier during any flask effect",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "#% increased maximum life",
+        "trade_ids": [
+          "implicit.stat_983749596"
+        ]
+      },
+      {
+        "text": "+#% to critical strike multiplier during any flask effect",
+        "trade_ids": [
+          "implicit.stat_240289863"
         ]
       }
     ]
@@ -3722,6 +3976,26 @@
   },
   {
     "item": "Unnatural Instinct",
+    "stats": "damage penetrates #% lightning resistance, #% reduced effect of shock on you",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "damage penetrates #% lightning resistance",
+        "trade_ids": [
+          "implicit.stat_818778753",
+          "implicit.stat_3301510262"
+        ]
+      },
+      {
+        "text": "#% reduced effect of shock on you",
+        "trade_ids": [
+          "implicit.stat_3801067695"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Unnatural Instinct",
     "stats": "damage penetrates #% elemental resistances, corrupted blood cannot be inflicted on you",
     "builds": 1,
     "mods": [
@@ -4283,6 +4557,19 @@
     ]
   },
   {
+    "item": "Ephemeral Edge",
+    "stats": "resolute technique",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "resolute technique",
+        "trade_ids": [
+          "implicit.stat_3943945975"
+        ]
+      }
+    ]
+  },
+  {
     "item": "Eye of Malice",
     "stats": "regenerate #% of life per second",
     "builds": 1,
@@ -4680,6 +4967,19 @@
     ]
   },
   {
+    "item": "Voidwalker",
+    "stats": "+# to maximum endurance charges",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "+# to maximum endurance charges",
+        "trade_ids": [
+          "implicit.stat_1515657623"
+        ]
+      }
+    ]
+  },
+  {
     "item": "Inpulsa's Broken Heart",
     "stats": "#% additional physical damage reduction while stationary",
     "builds": 1,
@@ -4739,19 +5039,6 @@
         "text": "+#% to spell critical strike chance",
         "trade_ids": [
           "implicit.stat_791835907"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Willclash",
-    "stats": "+# to maximum power charges",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "+# to maximum power charges",
-        "trade_ids": [
-          "implicit.stat_227523295"
         ]
       }
     ]
