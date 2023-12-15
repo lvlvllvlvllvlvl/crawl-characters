@@ -206,6 +206,37 @@
     ]
   },
   {
+    "item": "Heatshiver",
+    "stats": "socketed skill gems get a #% cost & reservation multiplier",
+    "average": 340.68,
+    "prices": [
+      323.646,
+      340.68,
+      340.68,
+      340.68,
+      340.68,
+      340.68,
+      340.68,
+      340.68,
+      340.68,
+      340.68
+    ],
+    "search": {
+      "id": "plLWklwf0",
+      "complexity": 18,
+      "total": 37
+    },
+    "builds": 6,
+    "mods": [
+      {
+        "text": "socketed skill gems get a #% cost & reservation multiplier",
+        "trade_ids": [
+          "implicit.stat_2865550257"
+        ]
+      }
+    ]
+  },
+  {
     "item": "Vaal Caress",
     "stats": "+# to level of socketed duration gems",
     "average": 594.4866,
@@ -263,37 +294,6 @@
         "text": "+# to maximum frenzy charges",
         "trade_ids": [
           "implicit.stat_4078695"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Heatshiver",
-    "stats": "socketed skill gems get a #% cost & reservation multiplier",
-    "average": 340.68,
-    "prices": [
-      323.646,
-      340.68,
-      340.68,
-      340.68,
-      340.68,
-      340.68,
-      340.68,
-      340.68,
-      340.68,
-      340.68
-    ],
-    "search": {
-      "id": "plLWklwf0",
-      "complexity": 18,
-      "total": 37
-    },
-    "builds": 5,
-    "mods": [
-      {
-        "text": "socketed skill gems get a #% cost & reservation multiplier",
-        "trade_ids": [
-          "implicit.stat_2865550257"
         ]
       }
     ]
@@ -4655,6 +4655,19 @@
     ]
   },
   {
+    "item": "Bated Breath",
+    "stats": "wrath has #% increased aura effect",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "wrath has #% increased aura effect",
+        "trade_ids": [
+          "implicit.stat_2181791238"
+        ]
+      }
+    ]
+  },
+  {
     "item": "Shaper's Touch",
     "stats": "+# to level of socketed gems",
     "average": 851.7000000000002,
@@ -4773,6 +4786,24 @@
   {
     "item": "Greed's Embrace",
     "stats": "#% reduced cold damage taken",
+    "average": 5.444444444444445,
+    "prices": [
+      1,
+      2,
+      5,
+      5,
+      5,
+      5,
+      6,
+      10,
+      10,
+      14
+    ],
+    "search": {
+      "id": "vlG5Ew9fE",
+      "complexity": 18,
+      "total": 59
+    },
     "builds": 1,
     "mods": [
       {
@@ -4967,6 +4998,24 @@
   {
     "item": "Sadima's Touch",
     "stats": "curse enemies with enfeeble on hit",
+    "average": 4,
+    "prices": [
+      2,
+      2,
+      3,
+      4,
+      4,
+      5,
+      5,
+      5,
+      5,
+      5
+    ],
+    "search": {
+      "id": "JVdY989Fl",
+      "complexity": 18,
+      "total": 71
+    },
     "builds": 1,
     "mods": [
       {
@@ -5344,6 +5393,25 @@
         "text": "+# to level of socketed aoe gems",
         "trade_ids": [
           "implicit.stat_2551600084"
+        ]
+      },
+      {
+        "text": "+# to level of socketed aura gems",
+        "trade_ids": [
+          "implicit.stat_2452998583"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "March of the Legion",
+    "stats": "+# to level of socketed projectile gems, +# to level of socketed aura gems",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "+# to level of socketed projectile gems",
+        "trade_ids": [
+          "implicit.stat_2176571093"
         ]
       },
       {
@@ -8983,6 +9051,13 @@
   {
     "item": "Perandus Blazon",
     "stats": "#% increased rarity of items found, #% increased cast speed during any flask effect",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "mXD7YjMt6",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -12414,6 +12489,24 @@
   {
     "item": "Darkscorn",
     "stats": "+#% to global critical strike multiplier",
+    "average": 5,
+    "prices": [
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      6,
+      6
+    ],
+    "search": {
+      "id": "mXjqZ8wt6",
+      "complexity": 18,
+      "total": 385
+    },
     "builds": 1,
     "mods": [
       {
@@ -12427,6 +12520,24 @@
   {
     "item": "Carcass Jack",
     "stats": "+# to level of socketed trap or mine gems",
+    "average": 21.3,
+    "prices": [
+      3,
+      10,
+      10,
+      10,
+      20,
+      20,
+      30,
+      35,
+      35,
+      40
+    ],
+    "search": {
+      "id": "XqbmDMWTP",
+      "complexity": 18,
+      "total": 21
+    },
     "builds": 1,
     "mods": [
       {
@@ -12440,6 +12551,16 @@
   {
     "item": "Winterweave",
     "stats": "hatred has #% increased aura effect",
+    "average": 170.93,
+    "prices": [
+      170.93,
+      170.93
+    ],
+    "search": {
+      "id": "Ey6zz5zc5",
+      "complexity": 18,
+      "total": 2
+    },
     "builds": 1,
     "mods": [
       {
@@ -12453,6 +12574,15 @@
   {
     "item": "Hyrri's Ire",
     "stats": "+# to level of socketed minion gems",
+    "average": 512.79,
+    "prices": [
+      512.79
+    ],
+    "search": {
+      "id": "qXlZDzvTg",
+      "complexity": 18,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -12466,6 +12596,13 @@
   {
     "item": "Hyrri's Ire",
     "stats": "+# to level of socketed gems, +# to level of socketed projectile gems",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "OVnvVyOTE",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -12485,6 +12622,13 @@
   {
     "item": "Queen of the Forest",
     "stats": "+# to level of socketed trap or mine gems, #% increased maximum life",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "8abybkqhV",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -12504,6 +12648,13 @@
   {
     "item": "Queen of the Forest",
     "stats": "+# to level of socketed gems, +# to level of socketed projectile gems",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "BEOXnMaH8",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -12523,6 +12674,13 @@
   {
     "item": "Queen of the Forest",
     "stats": "+# to level of socketed aoe gems, #% increased damage",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "OVwymo0tE",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -12542,6 +12700,24 @@
   {
     "item": "Queen of the Forest",
     "stats": "+# to level of socketed gems",
+    "average": 113.8255,
+    "prices": [
+      50,
+      70,
+      70,
+      100,
+      100,
+      85.465,
+      150,
+      170.93,
+      170.93,
+      170.93
+    ],
+    "search": {
+      "id": "yrJQLgGsR",
+      "complexity": 18,
+      "total": 23
+    },
     "builds": 1,
     "mods": [
       {
@@ -12555,6 +12731,13 @@
   {
     "item": "Rearguard",
     "stats": "#% of fire damage leeched as life, bow attacks fire an additional arrow",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "JVnJRBRIl",
+      "complexity": 30,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -12575,6 +12758,13 @@
   {
     "item": "Gifts from Above",
     "stats": "#% increased strength, #% increased dexterity, #% increased cast speed",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "QVYWQVjTw",
+      "complexity": 20,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -12600,6 +12790,24 @@
   {
     "item": "Cold Iron Point",
     "stats": "#% increased global critical strike chance",
+    "average": 2.4,
+    "prices": [
+      1,
+      1,
+      1,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3
+    ],
+    "search": {
+      "id": "LeWqod2sn",
+      "complexity": 18,
+      "total": 1389
+    },
     "builds": 1,
     "mods": [
       {
