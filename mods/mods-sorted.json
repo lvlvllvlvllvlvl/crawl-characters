@@ -151,6 +151,37 @@
     ]
   },
   {
+    "item": "Southbound",
+    "stats": "+#% to spell critical strike chance",
+    "average": 150.4226,
+    "prices": [
+      70,
+      85,
+      90,
+      140,
+      145,
+      167.97,
+      167.97,
+      167.97,
+      235.158,
+      235.158
+    ],
+    "search": {
+      "id": "XkO2WqdSP",
+      "complexity": 18,
+      "total": 14
+    },
+    "builds": 4,
+    "mods": [
+      {
+        "text": "+#% to spell critical strike chance",
+        "trade_ids": [
+          "implicit.stat_791835907"
+        ]
+      }
+    ]
+  },
+  {
     "item": "Matua Tupuna",
     "stats": "+# to level of socketed gems",
     "average": 62.857142857142854,
@@ -265,37 +296,6 @@
         "text": "+# to level of socketed aura gems",
         "trade_ids": [
           "implicit.stat_2452998583"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Southbound",
-    "stats": "+#% to spell critical strike chance",
-    "average": 150.4226,
-    "prices": [
-      70,
-      85,
-      90,
-      140,
-      145,
-      167.97,
-      167.97,
-      167.97,
-      235.158,
-      235.158
-    ],
-    "search": {
-      "id": "XkO2WqdSP",
-      "complexity": 18,
-      "total": 14
-    },
-    "builds": 3,
-    "mods": [
-      {
-        "text": "+#% to spell critical strike chance",
-        "trade_ids": [
-          "implicit.stat_791835907"
         ]
       }
     ]
@@ -569,6 +569,37 @@
         "text": "+# to level of socketed aura gems",
         "trade_ids": [
           "implicit.stat_2452998583"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Incandescent Heart",
+    "stats": "+# to level of socketed projectile gems",
+    "average": 474.15389999999996,
+    "prices": [
+      0.44,
+      167.53,
+      167.53,
+      167.53,
+      335.06,
+      670.12,
+      753.885,
+      820.897,
+      820.897,
+      837.65
+    ],
+    "search": {
+      "id": "JVdkP85sl",
+      "complexity": 18,
+      "total": 17
+    },
+    "builds": 2,
+    "mods": [
+      {
+        "text": "+# to level of socketed projectile gems",
+        "trade_ids": [
+          "implicit.stat_2176571093"
         ]
       }
     ]
@@ -923,6 +954,29 @@
         "text": "+# to level of socketed duration gems",
         "trade_ids": [
           "implicit.stat_2115168758"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Prism Guardian",
+    "stats": "+# to level of socketed aoe gems",
+    "average": 584.8785,
+    "prices": [
+      576.402,
+      593.355
+    ],
+    "search": {
+      "id": "XkO48P4IP",
+      "complexity": 18,
+      "total": 2
+    },
+    "builds": 2,
+    "mods": [
+      {
+        "text": "+# to level of socketed aoe gems",
+        "trade_ids": [
+          "implicit.stat_2551600084"
         ]
       }
     ]
@@ -1388,6 +1442,24 @@
   {
     "item": "Null and Void",
     "stats": "curse enemies with vulnerability on hit",
+    "average": 7.2,
+    "prices": [
+      4,
+      5,
+      5,
+      5,
+      5,
+      8,
+      10,
+      10,
+      10,
+      10
+    ],
+    "search": {
+      "id": "BEDbEmKu8",
+      "complexity": 18,
+      "total": 22
+    },
     "builds": 1,
     "mods": [
       {
@@ -2438,37 +2510,6 @@
   },
   {
     "item": "Incandescent Heart",
-    "stats": "+# to level of socketed projectile gems",
-    "average": 474.15389999999996,
-    "prices": [
-      0.44,
-      167.53,
-      167.53,
-      167.53,
-      335.06,
-      670.12,
-      753.885,
-      820.897,
-      820.897,
-      837.65
-    ],
-    "search": {
-      "id": "JVdkP85sl",
-      "complexity": 18,
-      "total": 17
-    },
-    "builds": 1,
-    "mods": [
-      {
-        "text": "+# to level of socketed projectile gems",
-        "trade_ids": [
-          "implicit.stat_2176571093"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Incandescent Heart",
     "stats": "#% reduced lightning damage taken",
     "average": 56.666666666666664,
     "prices": [
@@ -3147,6 +3188,24 @@
   {
     "item": "Hyrri's Truth",
     "stats": "#% increased movement speed",
+    "average": 22.8,
+    "prices": [
+      10,
+      13,
+      15,
+      20,
+      20,
+      20,
+      25,
+      25,
+      40,
+      40
+    ],
+    "search": {
+      "id": "y9E6RWBhR",
+      "complexity": 18,
+      "total": 25
+    },
     "builds": 1,
     "mods": [
       {
@@ -3428,6 +3487,17 @@
   {
     "item": "Asenath's Gentle Touch",
     "stats": "#% increased maximum energy shield, attacks have +#% to critical strike chance",
+    "average": 89.50999999999999,
+    "prices": [
+      20,
+      79,
+      169.53
+    ],
+    "search": {
+      "id": "2BaeBW5hk",
+      "complexity": 29,
+      "total": 3
+    },
     "builds": 1,
     "mods": [
       {
@@ -3856,6 +3926,24 @@
   {
     "item": "Shadows and Dust",
     "stats": "+# to level of socketed minion gems",
+    "average": 8.9,
+    "prices": [
+      2,
+      3,
+      4,
+      10,
+      10,
+      10,
+      10,
+      10,
+      15,
+      15
+    ],
+    "search": {
+      "id": "KJGpJKyU5",
+      "complexity": 18,
+      "total": 14
+    },
     "builds": 1,
     "mods": [
       {
@@ -4266,6 +4354,13 @@
   {
     "item": "The Torrent's Reclamation",
     "stats": "#% increased strength, #% increased dexterity, malevolence has #% increased aura effect",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "RVepV5ai7",
+      "complexity": 20,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -4291,6 +4386,13 @@
   {
     "item": "Vaal Caress",
     "stats": "+# to level of socketed duration gems, +# to level of socketed aura gems",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "yrJ0p7rhR",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -4310,6 +4412,19 @@
   {
     "item": "Bubonic Trail",
     "stats": "+# to level of socketed gems",
+    "average": 73.20599999999999,
+    "prices": [
+      7.5,
+      20,
+      49,
+      120,
+      169.53
+    ],
+    "search": {
+      "id": "4dv3yQYt9",
+      "complexity": 18,
+      "total": 5
+    },
     "builds": 1,
     "mods": [
       {
@@ -4323,6 +4438,17 @@
   {
     "item": "Bubonic Trail",
     "stats": "+# to level of socketed duration gems",
+    "average": 50,
+    "prices": [
+      50,
+      50,
+      169.53
+    ],
+    "search": {
+      "id": "vljKgqZCE",
+      "complexity": 18,
+      "total": 3
+    },
     "builds": 1,
     "mods": [
       {
@@ -4336,6 +4462,18 @@
   {
     "item": "Prism Guardian",
     "stats": "+# to level of socketed gems",
+    "average": 169.53,
+    "prices": [
+      120,
+      169.53,
+      169.53,
+      339.06
+    ],
+    "search": {
+      "id": "gPemZjjsQ",
+      "complexity": 18,
+      "total": 4
+    },
     "builds": 1,
     "mods": [
       {
@@ -4348,20 +4486,25 @@
   },
   {
     "item": "Prism Guardian",
-    "stats": "+# to level of socketed aoe gems",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "+# to level of socketed aoe gems",
-        "trade_ids": [
-          "implicit.stat_2551600084"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Prism Guardian",
     "stats": "#% of physical damage from hits taken as lightning damage",
+    "average": 267.79499999999996,
+    "prices": [
+      20,
+      25,
+      90,
+      169.53,
+      169.53,
+      169.53,
+      339.06,
+      508.59000000000003,
+      508.59000000000003,
+      678.12
+    ],
+    "search": {
+      "id": "lPrrL90UV",
+      "complexity": 18,
+      "total": 11
+    },
     "builds": 1,
     "mods": [
       {
@@ -4375,6 +4518,22 @@
   {
     "item": "Prism Guardian",
     "stats": "#% of physical damage from hits taken as fire damage",
+    "average": 37,
+    "prices": [
+      30,
+      35,
+      40,
+      40,
+      40,
+      60,
+      90,
+      169.53
+    ],
+    "search": {
+      "id": "WVpJWBVfm",
+      "complexity": 18,
+      "total": 8
+    },
     "builds": 1,
     "mods": [
       {
@@ -4388,6 +4547,19 @@
   {
     "item": "Prism Guardian",
     "stats": "+# to level of socketed aura gems",
+    "average": 691.8824000000001,
+    "prices": [
+      1,
+      661.167,
+      678.12,
+      762.885,
+      1356.24
+    ],
+    "search": {
+      "id": "bPZDn0aCL",
+      "complexity": 18,
+      "total": 5
+    },
     "builds": 1,
     "mods": [
       {
@@ -4401,6 +4573,17 @@
   {
     "item": "Eyes of the Greatwolf",
     "stats": "#% increased damage, #% increased quantity of items found",
+    "average": 4464.29,
+    "prices": [
+      1186.71,
+      2034.3600000000001,
+      10171.8
+    ],
+    "search": {
+      "id": "plLlQGdH0",
+      "complexity": 29,
+      "total": 3
+    },
     "builds": 1,
     "mods": [
       {
@@ -4420,6 +4603,24 @@
   {
     "item": "Eyes of the Greatwolf",
     "stats": "#% increased quantity of items found",
+    "average": 145.771,
+    "prices": [
+      80,
+      80,
+      111,
+      169.53,
+      169.53,
+      169.53,
+      169.53,
+      169.53,
+      169.53,
+      169.53
+    ],
+    "search": {
+      "id": "ZPQr9XbfQ",
+      "complexity": 18,
+      "total": 148
+    },
     "builds": 1,
     "mods": [
       {
@@ -4779,6 +4980,19 @@
   },
   {
     "item": "Lightning Coil",
+    "stats": "+# to level of socketed minion gems",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "+# to level of socketed minion gems",
+        "trade_ids": [
+          "implicit.stat_3604946673"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Lightning Coil",
     "stats": "+#% to all maximum resistances",
     "builds": 1,
     "mods": [
@@ -5111,6 +5325,19 @@
         "text": "#% increased quantity of items found",
         "trade_ids": [
           "implicit.stat_884586851"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Might of the Meek",
+    "stats": "#% increased effect of non-damaging ailments",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "#% increased effect of non-damaging ailments",
+        "trade_ids": [
+          "implicit.stat_782230869"
         ]
       }
     ]
@@ -6287,6 +6514,19 @@
     ]
   },
   {
+    "item": "Rainbowstride",
+    "stats": "+# to level of socketed aura gems",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "+# to level of socketed aura gems",
+        "trade_ids": [
+          "implicit.stat_2452998583"
+        ]
+      }
+    ]
+  },
+  {
     "item": "Intuitive Leap",
     "stats": "#% increased reservation efficiency of skills",
     "builds": 1,
@@ -6768,6 +7008,38 @@
         "text": "+# to level of socketed aoe gems",
         "trade_ids": [
           "implicit.stat_2551600084"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Windripper",
+    "stats": "socketed gems are supported by level # momentum",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "socketed gems are supported by level # momentum",
+        "trade_ids": [
+          "implicit.stat_3237923082"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Perandus Blazon",
+    "stats": "#% increased rarity of items found, zealotry has #% increased aura effect",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "#% increased rarity of items found",
+        "trade_ids": [
+          "implicit.stat_3917489142"
+        ]
+      },
+      {
+        "text": "zealotry has #% increased aura effect",
+        "trade_ids": [
+          "implicit.stat_4096052153"
         ]
       }
     ]
