@@ -147,6 +147,34 @@
     ]
   },
   {
+    "item": "Vaal Caress",
+    "stats": "+# to level of socketed aura gems",
+    "average": 897.1239999999999,
+    "prices": [
+      681.36,
+      681.36,
+      936.87,
+      936.87,
+      953.904,
+      1192.38,
+      1703.4
+    ],
+    "search": {
+      "id": "lPr5YawFV",
+      "complexity": 18,
+      "total": 7
+    },
+    "builds": 7,
+    "mods": [
+      {
+        "text": "+# to level of socketed aura gems",
+        "trade_ids": [
+          "implicit.stat_2452998583"
+        ]
+      }
+    ]
+  },
+  {
     "item": "Eber's Unification",
     "stats": "+# to maximum power charges",
     "average": 255.51000000000002,
@@ -173,34 +201,6 @@
         "text": "+# to maximum power charges",
         "trade_ids": [
           "implicit.stat_227523295"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Vaal Caress",
-    "stats": "+# to level of socketed aura gems",
-    "average": 897.1239999999999,
-    "prices": [
-      681.36,
-      681.36,
-      936.87,
-      936.87,
-      953.904,
-      1192.38,
-      1703.4
-    ],
-    "search": {
-      "id": "lPr5YawFV",
-      "complexity": 18,
-      "total": 7
-    },
-    "builds": 6,
-    "mods": [
-      {
-        "text": "+# to level of socketed aura gems",
-        "trade_ids": [
-          "implicit.stat_2452998583"
         ]
       }
     ]
@@ -796,6 +796,38 @@
     ]
   },
   {
+    "item": "Goldwyrm",
+    "stats": "+#% chance to suppress spell damage",
+    "average": 6.5,
+    "prices": [
+      3,
+      4,
+      5,
+      5,
+      5,
+      5,
+      9,
+      9,
+      10,
+      10
+    ],
+    "search": {
+      "id": "EG8VqLZU5",
+      "complexity": 19,
+      "total": 104
+    },
+    "builds": 3,
+    "mods": [
+      {
+        "text": "+#% chance to suppress spell damage",
+        "trade_ids": [
+          "implicit.stat_3680664274",
+          "implicit.stat_492027537"
+        ]
+      }
+    ]
+  },
+  {
     "item": "Vaal Caress",
     "stats": "+# to level of socketed aoe gems",
     "average": 1059.3492857142858,
@@ -850,6 +882,30 @@
         "text": "attacks have +#% to critical strike chance",
         "trade_ids": [
           "implicit.stat_2572042788"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Prism Guardian",
+    "stats": "+# to level of socketed aoe gems",
+    "average": 578.102,
+    "prices": [
+      578.102,
+      578.102,
+      850.15
+    ],
+    "search": {
+      "id": "XkO48P4IP",
+      "complexity": 18,
+      "total": 3
+    },
+    "builds": 3,
+    "mods": [
+      {
+        "text": "+# to level of socketed aoe gems",
+        "trade_ids": [
+          "implicit.stat_2551600084"
         ]
       }
     ]
@@ -1341,38 +1397,6 @@
   },
   {
     "item": "Goldwyrm",
-    "stats": "+#% chance to suppress spell damage",
-    "average": 6.5,
-    "prices": [
-      3,
-      4,
-      5,
-      5,
-      5,
-      5,
-      9,
-      9,
-      10,
-      10
-    ],
-    "search": {
-      "id": "EG8VqLZU5",
-      "complexity": 19,
-      "total": 104
-    },
-    "builds": 2,
-    "mods": [
-      {
-        "text": "+#% chance to suppress spell damage",
-        "trade_ids": [
-          "implicit.stat_3680664274",
-          "implicit.stat_492027537"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Goldwyrm",
     "stats": "+# to level of socketed curse gems",
     "average": 3.75,
     "prices": [
@@ -1728,30 +1752,6 @@
         "text": "+# to level of socketed gems",
         "trade_ids": [
           "implicit.stat_2843100721"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Prism Guardian",
-    "stats": "+# to level of socketed aoe gems",
-    "average": 578.102,
-    "prices": [
-      578.102,
-      578.102,
-      850.15
-    ],
-    "search": {
-      "id": "XkO48P4IP",
-      "complexity": 18,
-      "total": 3
-    },
-    "builds": 2,
-    "mods": [
-      {
-        "text": "+# to level of socketed aoe gems",
-        "trade_ids": [
-          "implicit.stat_2551600084"
         ]
       }
     ]
@@ -9518,6 +9518,18 @@
   {
     "item": "Arakaali's Fang",
     "stats": "#% chance to gain a frenzy charge on kill",
+    "average": 96.44,
+    "prices": [
+      45,
+      50,
+      120,
+      170.76
+    ],
+    "search": {
+      "id": "oXjZ0EOsl",
+      "complexity": 18,
+      "total": 4
+    },
     "builds": 1,
     "mods": [
       {
@@ -9531,6 +9543,15 @@
   {
     "item": "Black Zenith",
     "stats": "curse enemies with temporal chains on hit",
+    "average": 10,
+    "prices": [
+      10
+    ],
+    "search": {
+      "id": "VMQOgQrcp",
+      "complexity": 18,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -9544,6 +9565,24 @@
   {
     "item": "Daresso's Defiance",
     "stats": "+# to level of socketed duration gems",
+    "average": 313.06,
+    "prices": [
+      170.76,
+      170.76,
+      170.76,
+      170.76,
+      256.14,
+      341.52,
+      512.28,
+      512.28,
+      512.28,
+      1707.6
+    ],
+    "search": {
+      "id": "zerWLqLc4",
+      "complexity": 18,
+      "total": 13
+    },
     "builds": 1,
     "mods": [
       {
@@ -9557,6 +9596,13 @@
   {
     "item": "Skin of the Loyal",
     "stats": "+# to level of socketed duration gems, #% increased maximum energy shield",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "DL3Vd74H5",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -9576,6 +9622,24 @@
   {
     "item": "Cloak of Flame",
     "stats": "+# to level of socketed gems",
+    "average": 425.0026666666666,
+    "prices": [
+      324.44399999999996,
+      341.52,
+      341.52,
+      341.52,
+      426.9,
+      512.28,
+      512.28,
+      512.28,
+      512.28,
+      683.04
+    ],
+    "search": {
+      "id": "3Gwb5LGh5",
+      "complexity": 18,
+      "total": 17
+    },
     "builds": 1,
     "mods": [
       {
@@ -9589,6 +9653,13 @@
   {
     "item": "The Squire",
     "stats": "you take #% reduced extra damage from critical strikes, #% increased maximum life",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "Pd8pwJMhL",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -9608,6 +9679,24 @@
   {
     "item": "Severed in Sleep",
     "stats": "#% increased attack speed",
+    "average": 11.125,
+    "prices": [
+      9,
+      10,
+      10,
+      10,
+      10,
+      10,
+      15,
+      15,
+      20,
+      28
+    ],
+    "search": {
+      "id": "y9R7VBlSR",
+      "complexity": 19,
+      "total": 14
+    },
     "builds": 1,
     "mods": [
       {
@@ -9622,6 +9711,24 @@
   {
     "item": "Severed in Sleep",
     "stats": "#% chance to gain onslaught for # seconds on kill",
+    "average": 26.2,
+    "prices": [
+      9,
+      14,
+      15,
+      15,
+      15,
+      20,
+      35,
+      45,
+      45,
+      49
+    ],
+    "search": {
+      "id": "GkdLwRZHb",
+      "complexity": 18,
+      "total": 18
+    },
     "builds": 1,
     "mods": [
       {
@@ -9635,6 +9742,24 @@
   {
     "item": "Severed in Sleep",
     "stats": "#% increased physical damage",
+    "average": 14.1,
+    "prices": [
+      6,
+      9,
+      9,
+      10,
+      10,
+      17,
+      20,
+      20,
+      20,
+      20
+    ],
+    "search": {
+      "id": "4d95MJZt9",
+      "complexity": 18,
+      "total": 14
+    },
     "builds": 1,
     "mods": [
       {
@@ -9648,6 +9773,18 @@
   {
     "item": "Umbilicus Immortalis",
     "stats": "#% increased strength, #% increased intelligence",
+    "average": 88.13,
+    "prices": [
+      1,
+      10,
+      170.76,
+      170.76
+    ],
+    "search": {
+      "id": "MV5YWYMsJ",
+      "complexity": 29,
+      "total": 4
+    },
     "builds": 1,
     "mods": [
       {
@@ -9667,6 +9804,13 @@
   {
     "item": "Umbilicus Immortalis",
     "stats": "#% increased strength, #% increased dexterity, +#% to all elemental resistances",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "GkJ5moZcb",
+      "complexity": 20,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -9692,6 +9836,17 @@
   {
     "item": "Umbilicus Immortalis",
     "stats": "#% increased maximum energy shield",
+    "average": 136.58666666666667,
+    "prices": [
+      99,
+      140,
+      170.76
+    ],
+    "search": {
+      "id": "MVZbYLGUJ",
+      "complexity": 18,
+      "total": 3
+    },
     "builds": 1,
     "mods": [
       {
@@ -9705,6 +9860,18 @@
   {
     "item": "Saffell's Frame",
     "stats": "#% of physical damage from hits taken as chaos damage",
+    "average": 853.8,
+    "prices": [
+      683.04,
+      683.04,
+      853.8,
+      1195.32
+    ],
+    "search": {
+      "id": "2BrBPO5hk",
+      "complexity": 18,
+      "total": 4
+    },
     "builds": 1,
     "mods": [
       {
@@ -9718,6 +9885,24 @@
   {
     "item": "Saffell's Frame",
     "stats": "#% of physical damage from hits taken as cold damage",
+    "average": 170.76,
+    "prices": [
+      90,
+      100,
+      150,
+      136.608,
+      170.76,
+      170.76,
+      170.76,
+      170.76,
+      170.76,
+      341.52
+    ],
+    "search": {
+      "id": "LmdmLM7tn",
+      "complexity": 18,
+      "total": 11
+    },
     "builds": 1,
     "mods": [
       {
@@ -9731,6 +9916,24 @@
   {
     "item": "Legacy of Fury",
     "stats": "+# to maximum endurance charges",
+    "average": 33.8,
+    "prices": [
+      25,
+      30,
+      30,
+      30,
+      30,
+      35,
+      39,
+      39,
+      40,
+      40
+    ],
+    "search": {
+      "id": "0PQZ0g7Ig",
+      "complexity": 18,
+      "total": 41
+    },
     "builds": 1,
     "mods": [
       {
