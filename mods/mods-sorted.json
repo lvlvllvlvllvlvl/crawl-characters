@@ -1094,6 +1094,24 @@
   {
     "item": "March of the Legion",
     "stats": "+# to level of socketed gems",
+    "average": 5.6,
+    "prices": [
+      3,
+      4,
+      4,
+      4,
+      5,
+      5,
+      5,
+      6,
+      10,
+      10
+    ],
+    "search": {
+      "id": "jPpB8gdHX",
+      "complexity": 18,
+      "total": 58
+    },
     "builds": 2,
     "mods": [
       {
@@ -1361,6 +1379,15 @@
   {
     "item": "Dialla's Malefaction",
     "stats": "+# to level of socketed duration gems, +# to level of socketed warcry gems",
+    "average": 3230.57,
+    "prices": [
+      3230.57
+    ],
+    "search": {
+      "id": "BEQJ2oku8",
+      "complexity": 29,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -1648,6 +1675,25 @@
         "text": "+# to level of socketed curse gems",
         "trade_ids": [
           "implicit.stat_3691695237"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Victario's Influence",
+    "stats": "+# to level of socketed trap or mine gems, #% increased damage",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "+# to level of socketed trap or mine gems",
+        "trade_ids": [
+          "implicit.stat_150668988"
+        ]
+      },
+      {
+        "text": "#% increased damage",
+        "trade_ids": [
+          "implicit.stat_2154246560"
         ]
       }
     ]
@@ -2734,6 +2780,76 @@
     ]
   },
   {
+    "item": "Bated Breath",
+    "stats": "#% increased maximum energy shield",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "#% increased maximum energy shield",
+        "trade_ids": [
+          "implicit.stat_2482852589"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Bated Breath",
+    "stats": "wrath has #% increased aura effect, discipline has #% increased aura effect",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "wrath has #% increased aura effect",
+        "trade_ids": [
+          "implicit.stat_2181791238"
+        ]
+      },
+      {
+        "text": "discipline has #% increased aura effect",
+        "trade_ids": [
+          "implicit.stat_788317702"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Bated Breath",
+    "stats": "zealotry has #% increased aura effect",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "zealotry has #% increased aura effect",
+        "trade_ids": [
+          "implicit.stat_4096052153"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Bated Breath",
+    "stats": "#% increased dexterity, #% increased intelligence, #% increased maximum energy shield",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "#% increased dexterity",
+        "trade_ids": [
+          "implicit.stat_4139681126"
+        ]
+      },
+      {
+        "text": "#% increased intelligence",
+        "trade_ids": [
+          "implicit.stat_656461285"
+        ]
+      },
+      {
+        "text": "#% increased maximum energy shield",
+        "trade_ids": [
+          "implicit.stat_2482852589"
+        ]
+      }
+    ]
+  },
+  {
     "item": "Shaper's Touch",
     "stats": "+# to level of socketed aoe gems",
     "average": 57.5,
@@ -2848,6 +2964,24 @@
   {
     "item": "String of Servitude",
     "stats": "+#% to all elemental resistances",
+    "average": 157.29814285714286,
+    "prices": [
+      149,
+      149,
+      150,
+      160,
+      153.02700000000002,
+      170.03,
+      170.03,
+      187.03300000000002,
+      204.036,
+      221.03900000000002
+    ],
+    "search": {
+      "id": "XqQ8n9eIP",
+      "complexity": 18,
+      "total": 13
+    },
     "builds": 1,
     "mods": [
       {
@@ -3434,6 +3568,19 @@
         "text": "#% increased maximum life",
         "trade_ids": [
           "implicit.stat_983749596"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Kaom's Heart",
+    "stats": "#% increased damage",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "#% increased damage",
+        "trade_ids": [
+          "implicit.stat_2154246560"
         ]
       }
     ]
@@ -5514,6 +5661,20 @@
   {
     "item": "Ceinture of Benevolence",
     "stats": "hatred has #% increased aura effect",
+    "average": 535.89,
+    "prices": [
+      30,
+      99,
+      170.03,
+      1190.21,
+      1190.21,
+      13432.37
+    ],
+    "search": {
+      "id": "oX7Dn3Osl",
+      "complexity": 18,
+      "total": 6
+    },
     "builds": 1,
     "mods": [
       {
@@ -5527,6 +5688,13 @@
   {
     "item": "Lightpoacher",
     "stats": "regenerate #% of life per second",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "3B6QJKgF5",
+      "complexity": 18,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -5540,6 +5708,13 @@
   {
     "item": "Unnatural Instinct",
     "stats": "#% increased global critical strike chance, damage penetrates #% cold resistance",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "WVkzPqRfm",
+      "complexity": 30,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -5560,6 +5735,13 @@
   {
     "item": "Unnatural Instinct",
     "stats": "damage penetrates #% cold resistance, damage penetrates #% lightning resistance",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "GkOz8ooub",
+      "complexity": 31,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -5581,6 +5763,13 @@
   {
     "item": "Unnatural Instinct",
     "stats": "#% increased reservation efficiency of skills, corrupted blood cannot be inflicted on you",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "80Z8EB2cV",
+      "complexity": 30,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -5601,6 +5790,13 @@
   {
     "item": "Unnatural Instinct",
     "stats": "#% reduced bleed duration on you, you cannot be hindered",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "6ZY69bbhG",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -5620,6 +5816,13 @@
   {
     "item": "Unnatural Instinct",
     "stats": "#% increased damage, #% increased area of effect",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "KJDLoqRi5",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -5639,6 +5842,13 @@
   {
     "item": "Unnatural Instinct",
     "stats": "damage penetrates #% lightning resistance, #% reduced effect of shock on you",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "dXJVXvvUJ",
+      "complexity": 30,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -5659,6 +5869,13 @@
   {
     "item": "Unnatural Instinct",
     "stats": "damage penetrates #% elemental resistances, corrupted blood cannot be inflicted on you",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "rXj9DVMHQ",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -5678,6 +5895,13 @@
   {
     "item": "Leper's Alms",
     "stats": "#% of physical damage from hits taken as lightning damage, #% reduced damage taken from projectile hits",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "VMpJL9whp",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -5697,6 +5921,13 @@
   {
     "item": "Primordial Eminence",
     "stats": "corrupted blood cannot be inflicted on you",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "80ZJ5VZcV",
+      "complexity": 18,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -5710,6 +5941,13 @@
   {
     "item": "Dissolution of the Flesh",
     "stats": "damage penetrates #% elemental resistances",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "vlqGP3BTE",
+      "complexity": 18,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -6480,6 +6718,57 @@
     ]
   },
   {
+    "item": "Severed in Sleep",
+    "stats": "#% chance to gain onslaught for # seconds on kill",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "#% chance to gain onslaught for # seconds on kill",
+        "trade_ids": [
+          "implicit.stat_3023957681"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Speaker's Wreath",
+    "stats": "+# to level of socketed minion gems",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "+# to level of socketed minion gems",
+        "trade_ids": [
+          "implicit.stat_3604946673"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Umbilicus Immortalis",
+    "stats": "#% increased strength, #% increased dexterity, +#% to all elemental resistances",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "#% increased strength",
+        "trade_ids": [
+          "implicit.stat_4139681126"
+        ]
+      },
+      {
+        "text": "#% increased dexterity",
+        "trade_ids": [
+          "implicit.stat_4139681126"
+        ]
+      },
+      {
+        "text": "+#% to all elemental resistances",
+        "trade_ids": [
+          "implicit.stat_2901986750"
+        ]
+      }
+    ]
+  },
+  {
     "item": "Sandstorm Visage",
     "stats": "+# to level of socketed minion gems, +# to level of socketed trap or mine gems",
     "builds": 1,
@@ -7029,63 +7318,6 @@
         "trade_ids": [
           "implicit.stat_2587176568",
           "implicit.stat_4202507508"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Bated Breath",
-    "stats": "wrath has #% increased aura effect, discipline has #% increased aura effect",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "wrath has #% increased aura effect",
-        "trade_ids": [
-          "implicit.stat_2181791238"
-        ]
-      },
-      {
-        "text": "discipline has #% increased aura effect",
-        "trade_ids": [
-          "implicit.stat_788317702"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Bated Breath",
-    "stats": "zealotry has #% increased aura effect",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "zealotry has #% increased aura effect",
-        "trade_ids": [
-          "implicit.stat_4096052153"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Bated Breath",
-    "stats": "#% increased dexterity, #% increased intelligence, #% increased maximum energy shield",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "#% increased dexterity",
-        "trade_ids": [
-          "implicit.stat_4139681126"
-        ]
-      },
-      {
-        "text": "#% increased intelligence",
-        "trade_ids": [
-          "implicit.stat_656461285"
-        ]
-      },
-      {
-        "text": "#% increased maximum energy shield",
-        "trade_ids": [
-          "implicit.stat_2482852589"
         ]
       }
     ]
