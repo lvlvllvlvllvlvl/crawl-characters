@@ -318,6 +318,19 @@
     ]
   },
   {
+    "item": "Doedre's Tenure",
+    "stats": "curse enemies with elemental weakness on hit",
+    "builds": 3,
+    "mods": [
+      {
+        "text": "curse enemies with elemental weakness on hit",
+        "trade_ids": [
+          "implicit.stat_2028847114"
+        ]
+      }
+    ]
+  },
+  {
     "item": "Pure Talent",
     "stats": "corrupted blood cannot be inflicted on you",
     "builds": 2,
@@ -676,6 +689,19 @@
     ]
   },
   {
+    "item": "Devoto's Devotion",
+    "stats": "+# to maximum power charges",
+    "builds": 2,
+    "mods": [
+      {
+        "text": "+# to maximum power charges",
+        "trade_ids": [
+          "implicit.stat_227523295"
+        ]
+      }
+    ]
+  },
+  {
     "item": "Obliteration",
     "stats": "#% increased area of effect",
     "builds": 2,
@@ -697,19 +723,6 @@
         "text": "+# to level of socketed minion gems",
         "trade_ids": [
           "implicit.stat_3604946673"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Doedre's Tenure",
-    "stats": "curse enemies with elemental weakness on hit",
-    "builds": 2,
-    "mods": [
-      {
-        "text": "curse enemies with elemental weakness on hit",
-        "trade_ids": [
-          "implicit.stat_2028847114"
         ]
       }
     ]
@@ -762,6 +775,19 @@
         "text": "+# to level of socketed gems",
         "trade_ids": [
           "implicit.stat_2843100721"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Malachai's Loop",
+    "stats": "#% of physical damage from hits taken as fire damage",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "#% of physical damage from hits taken as fire damage",
+        "trade_ids": [
+          "implicit.stat_3342989455"
         ]
       }
     ]
@@ -1637,6 +1663,19 @@
         "text": "#% reduced lightning damage taken",
         "trade_ids": [
           "implicit.stat_1276918229"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Incandescent Heart",
+    "stats": "you take #% reduced extra damage from critical strikes",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "you take #% reduced extra damage from critical strikes",
+        "trade_ids": [
+          "implicit.stat_3855016469"
         ]
       }
     ]
@@ -3139,6 +3178,25 @@
   },
   {
     "item": "Headhunter",
+    "stats": "#% increased area of effect, wrath has #% increased aura effect",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "#% increased area of effect",
+        "trade_ids": [
+          "implicit.stat_280731498"
+        ]
+      },
+      {
+        "text": "wrath has #% increased aura effect",
+        "trade_ids": [
+          "implicit.stat_2181791238"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Headhunter",
     "stats": "#% increased dexterity, #% increased intelligence",
     "builds": 1,
     "mods": [
@@ -3241,6 +3299,25 @@
   },
   {
     "item": "The Covenant",
+    "stats": "+# to level of socketed aoe gems, you take #% reduced extra damage from critical strikes",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "+# to level of socketed aoe gems",
+        "trade_ids": [
+          "implicit.stat_2551600084"
+        ]
+      },
+      {
+        "text": "you take #% reduced extra damage from critical strikes",
+        "trade_ids": [
+          "implicit.stat_3855016469"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "The Covenant",
     "stats": "+# to level of socketed curse gems",
     "builds": 1,
     "mods": [
@@ -3287,6 +3364,32 @@
         "text": "corrupted blood cannot be inflicted on you",
         "trade_ids": [
           "implicit.stat_1658498488"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Viridi's Veil",
+    "stats": "+# to level of socketed aoe gems",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "+# to level of socketed aoe gems",
+        "trade_ids": [
+          "implicit.stat_2551600084"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Viridi's Veil",
+    "stats": "socketed skill gems get a #% cost & reservation multiplier",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "socketed skill gems get a #% cost & reservation multiplier",
+        "trade_ids": [
+          "implicit.stat_2865550257"
         ]
       }
     ]
@@ -4103,19 +4206,6 @@
   },
   {
     "item": "Devoto's Devotion",
-    "stats": "+# to maximum power charges",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "+# to maximum power charges",
-        "trade_ids": [
-          "implicit.stat_227523295"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Devoto's Devotion",
     "stats": "#% of fire damage leeched as life, +# to maximum power charges",
     "builds": 1,
     "mods": [
@@ -4758,6 +4848,25 @@
         "text": "curse enemies with temporal chains on hit",
         "trade_ids": [
           "implicit.stat_3433724931"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Willclash",
+    "stats": "+# to maximum power charges, #% increased effect of shock",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "+# to maximum power charges",
+        "trade_ids": [
+          "implicit.stat_227523295"
+        ]
+      },
+      {
+        "text": "#% increased effect of shock",
+        "trade_ids": [
+          "implicit.stat_2527686725"
         ]
       }
     ]
@@ -5566,6 +5675,38 @@
     ]
   },
   {
+    "item": "Zeel's Amplifier",
+    "stats": "+# to level of socketed gems, #% of physical damage from hits taken as lightning damage",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "+# to level of socketed gems",
+        "trade_ids": [
+          "implicit.stat_2843100721"
+        ]
+      },
+      {
+        "text": "#% of physical damage from hits taken as lightning damage",
+        "trade_ids": [
+          "implicit.stat_425242359"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "The Fledgling",
+    "stats": "+# to level of socketed aoe gems",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "+# to level of socketed aoe gems",
+        "trade_ids": [
+          "implicit.stat_2551600084"
+        ]
+      }
+    ]
+  },
+  {
     "item": "Memory Vault",
     "stats": "+# to level of socketed projectile gems",
     "builds": 1,
@@ -5678,19 +5819,6 @@
         "text": "#% increased maximum life",
         "trade_ids": [
           "implicit.stat_983749596"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Viridi's Veil",
-    "stats": "socketed skill gems get a #% cost & reservation multiplier",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "socketed skill gems get a #% cost & reservation multiplier",
-        "trade_ids": [
-          "implicit.stat_2865550257"
         ]
       }
     ]
