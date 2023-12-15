@@ -454,6 +454,37 @@
     ]
   },
   {
+    "item": "Oskarm",
+    "stats": "curse enemies with vulnerability on hit",
+    "average": 538.8389999999999,
+    "prices": [
+      342.12,
+      342.12,
+      342.12,
+      513.1800000000001,
+      513.1800000000001,
+      598.71,
+      684.24,
+      684.24,
+      684.24,
+      684.24
+    ],
+    "search": {
+      "id": "Ey658Gzh5",
+      "complexity": 18,
+      "total": 16
+    },
+    "builds": 5,
+    "mods": [
+      {
+        "text": "curse enemies with vulnerability on hit",
+        "trade_ids": [
+          "implicit.stat_3967845372"
+        ]
+      }
+    ]
+  },
+  {
     "item": "Victario's Influence",
     "stats": "+# to level of socketed aura gems",
     "average": 6.6,
@@ -610,6 +641,38 @@
   },
   {
     "item": "Goldwyrm",
+    "stats": "+#% chance to suppress spell damage",
+    "average": 5.444444444444445,
+    "prices": [
+      3,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      7,
+      7
+    ],
+    "search": {
+      "id": "EG8VqLZU5",
+      "complexity": 19,
+      "total": 167
+    },
+    "builds": 4,
+    "mods": [
+      {
+        "text": "+#% chance to suppress spell damage",
+        "trade_ids": [
+          "implicit.stat_3680664274",
+          "implicit.stat_492027537"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Goldwyrm",
     "stats": "regenerate # life per second while moving",
     "average": 4.1,
     "prices": [
@@ -697,37 +760,6 @@
         "text": "attacks have +#% to critical strike chance",
         "trade_ids": [
           "implicit.stat_2572042788"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Oskarm",
-    "stats": "curse enemies with vulnerability on hit",
-    "average": 538.8389999999999,
-    "prices": [
-      342.12,
-      342.12,
-      342.12,
-      513.1800000000001,
-      513.1800000000001,
-      598.71,
-      684.24,
-      684.24,
-      684.24,
-      684.24
-    ],
-    "search": {
-      "id": "Ey658Gzh5",
-      "complexity": 18,
-      "total": 16
-    },
-    "builds": 4,
-    "mods": [
-      {
-        "text": "curse enemies with vulnerability on hit",
-        "trade_ids": [
-          "implicit.stat_3967845372"
         ]
       }
     ]
@@ -824,10 +856,11 @@
     ]
   },
   {
-    "item": "Goldwyrm",
-    "stats": "+#% chance to suppress spell damage",
-    "average": 5.444444444444445,
+    "item": "Sadima's Touch",
+    "stats": "+#% to spell critical strike chance",
+    "average": 5,
     "prices": [
+      2,
       3,
       5,
       5,
@@ -835,22 +868,20 @@
       5,
       5,
       5,
-      5,
       7,
-      7
+      8
     ],
     "search": {
-      "id": "EG8VqLZU5",
-      "complexity": 19,
-      "total": 167
+      "id": "plL0P4Jt0",
+      "complexity": 18,
+      "total": 144
     },
     "builds": 3,
     "mods": [
       {
-        "text": "+#% chance to suppress spell damage",
+        "text": "+#% to spell critical strike chance",
         "trade_ids": [
-          "implicit.stat_3680664274",
-          "implicit.stat_492027537"
+          "implicit.stat_791835907"
         ]
       }
     ]
@@ -1293,6 +1324,19 @@
   },
   {
     "item": "Incandescent Heart",
+    "stats": "#% increased damage",
+    "builds": 2,
+    "mods": [
+      {
+        "text": "#% increased damage",
+        "trade_ids": [
+          "implicit.stat_2154246560"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Incandescent Heart",
     "stats": "+# to level of socketed gems",
     "average": 96.21199999999999,
     "prices": [
@@ -1504,37 +1548,6 @@
         "text": "curse enemies with elemental weakness on hit",
         "trade_ids": [
           "implicit.stat_2028847114"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Sadima's Touch",
-    "stats": "+#% to spell critical strike chance",
-    "average": 5,
-    "prices": [
-      2,
-      3,
-      5,
-      5,
-      5,
-      5,
-      5,
-      5,
-      7,
-      8
-    ],
-    "search": {
-      "id": "plL0P4Jt0",
-      "complexity": 18,
-      "total": 144
-    },
-    "builds": 2,
-    "mods": [
-      {
-        "text": "+#% to spell critical strike chance",
-        "trade_ids": [
-          "implicit.stat_791835907"
         ]
       }
     ]
@@ -3970,6 +3983,24 @@
   {
     "item": "Call of the Brotherhood",
     "stats": "wrath has #% increased aura effect",
+    "average": 10.2,
+    "prices": [
+      5,
+      5,
+      5,
+      10,
+      10,
+      10,
+      13,
+      14,
+      15,
+      15
+    ],
+    "search": {
+      "id": "OVwYd2VtE",
+      "complexity": 18,
+      "total": 34
+    },
     "builds": 1,
     "mods": [
       {
@@ -3983,6 +4014,24 @@
   {
     "item": "Call of the Brotherhood",
     "stats": "hatred has #% increased aura effect",
+    "average": 67.22222222222223,
+    "prices": [
+      50,
+      50,
+      60,
+      60,
+      70,
+      75,
+      80,
+      80,
+      80,
+      100
+    ],
+    "search": {
+      "id": "JYDZWMbUl",
+      "complexity": 18,
+      "total": 27
+    },
     "builds": 1,
     "mods": [
       {
@@ -3996,6 +4045,13 @@
   {
     "item": "Heatshiver",
     "stats": "+# to level of socketed duration gems, +# to level of socketed aoe gems",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "MvRLBlGcJ",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -4015,6 +4071,13 @@
   {
     "item": "Heatshiver",
     "stats": "+# to level of socketed projectile gems, #% increased maximum life",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "gXDZdRgUQ",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -4033,7 +4096,38 @@
   },
   {
     "item": "Heatshiver",
+    "stats": "#% increased effect of cold ailments",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "#% increased effect of cold ailments",
+        "trade_ids": [
+          "implicit.stat_1793818220"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Heatshiver",
     "stats": "#% increased maximum life",
+    "average": 13.11111111111111,
+    "prices": [
+      5,
+      9,
+      10,
+      10,
+      14,
+      15,
+      15,
+      15,
+      15,
+      15
+    ],
+    "search": {
+      "id": "PK7qy2ZCL",
+      "complexity": 18,
+      "total": 58
+    },
     "builds": 1,
     "mods": [
       {
@@ -4047,6 +4141,13 @@
   {
     "item": "Heatshiver",
     "stats": "+# to level of socketed duration gems, #% increased maximum life",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "kXjobJQh5",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -4066,6 +4167,24 @@
   {
     "item": "Heatshiver",
     "stats": "+# to level of socketed aura gems",
+    "average": 27.2,
+    "prices": [
+      20,
+      20,
+      25,
+      25,
+      25,
+      30,
+      30,
+      30,
+      33,
+      34
+    ],
+    "search": {
+      "id": "9Y2Z83ysK",
+      "complexity": 18,
+      "total": 55
+    },
     "builds": 1,
     "mods": [
       {
@@ -4079,6 +4198,24 @@
   {
     "item": "Heatshiver",
     "stats": "#% increased effect of shock",
+    "average": 7.3,
+    "prices": [
+      4,
+      5,
+      5,
+      5,
+      7,
+      7,
+      10,
+      10,
+      10,
+      10
+    ],
+    "search": {
+      "id": "KJLypO6i5",
+      "complexity": 18,
+      "total": 39
+    },
     "builds": 1,
     "mods": [
       {
@@ -4092,6 +4229,23 @@
   {
     "item": "Watcher's Eye",
     "stats": "#% reduced effect of chill on you",
+    "average": 97.61714285714285,
+    "prices": [
+      30,
+      50,
+      70,
+      90,
+      100,
+      171.66,
+      171.66,
+      600.81,
+      1201.62
+    ],
+    "search": {
+      "id": "Zb5baJRTQ",
+      "complexity": 18,
+      "total": 9
+    },
     "builds": 1,
     "mods": [
       {
@@ -4105,6 +4259,24 @@
   {
     "item": "Watcher's Eye",
     "stats": "damage penetrates #% lightning resistance",
+    "average": 638.393,
+    "prices": [
+      90,
+      100,
+      100,
+      171.66,
+      171.66,
+      257.49,
+      858.3,
+      1201.62,
+      1716.6,
+      1716.6
+    ],
+    "search": {
+      "id": "6ZbVbrXIG",
+      "complexity": 19,
+      "total": 11
+    },
     "builds": 1,
     "mods": [
       {
@@ -4119,6 +4291,21 @@
   {
     "item": "Watcher's Eye",
     "stats": "minions deal #% increased damage",
+    "average": 176.13366666666664,
+    "prices": [
+      50,
+      100,
+      100,
+      171.66,
+      291.822,
+      343.32,
+      42915
+    ],
+    "search": {
+      "id": "8a24E4qsV",
+      "complexity": 18,
+      "total": 7
+    },
     "builds": 1,
     "mods": [
       {
@@ -4132,6 +4319,13 @@
   {
     "item": "Watcher's Eye",
     "stats": "#% increased global critical strike chance, #% reduced poison duration on you",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "vlEXWkjHE",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -4151,6 +4345,24 @@
   {
     "item": "Incandescent Heart",
     "stats": "#% reduced chaos damage taken",
+    "average": 19.444444444444443,
+    "prices": [
+      10,
+      10,
+      15,
+      15,
+      20,
+      20,
+      25,
+      30,
+      30,
+      171.66
+    ],
+    "search": {
+      "id": "pXvdEoJT0",
+      "complexity": 18,
+      "total": 15
+    },
     "builds": 1,
     "mods": [
       {
@@ -4164,6 +4376,21 @@
   {
     "item": "Incandescent Heart",
     "stats": "#% reduced lightning damage taken",
+    "average": 23.666666666666668,
+    "prices": [
+      7,
+      10,
+      20,
+      30,
+      35,
+      40,
+      90
+    ],
+    "search": {
+      "id": "eXVr4oYhL",
+      "complexity": 18,
+      "total": 7
+    },
     "builds": 1,
     "mods": [
       {
@@ -4177,6 +4404,23 @@
   {
     "item": "Incandescent Heart",
     "stats": "you take #% reduced extra damage from critical strikes",
+    "average": 394.61555555555555,
+    "prices": [
+      30,
+      80,
+      80,
+      100,
+      171.66,
+      171.66,
+      171.66,
+      1373.28,
+      1373.28
+    ],
+    "search": {
+      "id": "RVBnoyBU7",
+      "complexity": 18,
+      "total": 9
+    },
     "builds": 1,
     "mods": [
       {
@@ -4222,19 +4466,6 @@
         "text": "+# to level of socketed minion gems",
         "trade_ids": [
           "implicit.stat_3604946673"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Incandescent Heart",
-    "stats": "#% increased damage",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "#% increased damage",
-        "trade_ids": [
-          "implicit.stat_2154246560"
         ]
       }
     ]
@@ -4517,6 +4748,19 @@
         "text": "+# to level of socketed aura gems",
         "trade_ids": [
           "implicit.stat_2452998583"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Greed's Embrace",
+    "stats": "you take #% reduced extra damage from critical strikes",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "you take #% reduced extra damage from critical strikes",
+        "trade_ids": [
+          "implicit.stat_3855016469"
         ]
       }
     ]
