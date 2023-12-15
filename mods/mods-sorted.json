@@ -570,6 +570,37 @@
     ]
   },
   {
+    "item": "Obliteration",
+    "stats": "#% increased area of effect",
+    "average": 9.75,
+    "prices": [
+      5,
+      8,
+      9,
+      9,
+      10,
+      10,
+      10,
+      10,
+      10,
+      10
+    ],
+    "search": {
+      "id": "dX4QqW3hJ",
+      "complexity": 18,
+      "total": 70
+    },
+    "builds": 2,
+    "mods": [
+      {
+        "text": "#% increased area of effect",
+        "trade_ids": [
+          "implicit.stat_280731498"
+        ]
+      }
+    ]
+  },
+  {
     "item": "March of the Legion",
     "stats": "+# to level of socketed duration gems",
     "average": 4.5,
@@ -947,6 +978,32 @@
         "text": "#% increased intelligence",
         "trade_ids": [
           "implicit.stat_656461285"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Call of the Brotherhood",
+    "stats": "wrath has #% increased aura effect",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "wrath has #% increased aura effect",
+        "trade_ids": [
+          "implicit.stat_2181791238"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Call of the Brotherhood",
+    "stats": "hatred has #% increased aura effect",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "hatred has #% increased aura effect",
+        "trade_ids": [
+          "implicit.stat_3742945352"
         ]
       }
     ]
@@ -1656,6 +1713,19 @@
         "text": "you cannot be maimed",
         "trade_ids": [
           "implicit.stat_1126826428"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Inspired Learning",
+    "stats": "minions deal #% increased damage",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "minions deal #% increased damage",
+        "trade_ids": [
+          "implicit.stat_1589917703"
         ]
       }
     ]
@@ -2387,7 +2457,33 @@
   },
   {
     "item": "Headhunter",
+    "stats": "#% increased dexterity, #% increased intelligence",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "#% increased dexterity",
+        "trade_ids": [
+          "implicit.stat_4139681126"
+        ]
+      },
+      {
+        "text": "#% increased intelligence",
+        "trade_ids": [
+          "implicit.stat_656461285"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Headhunter",
     "stats": "anger has #% increased aura effect, #% increased cast speed during any flask effect",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "bXg3WPdHL",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -2980,6 +3076,13 @@
   {
     "item": "Dissolution of the Flesh",
     "stats": "damage penetrates #% elemental resistances",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "vlqGP3BTE",
+      "complexity": 18,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -2993,6 +3096,13 @@
   {
     "item": "Bisco's Leash",
     "stats": "#% increased rarity of items found, discipline has #% increased aura effect",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "3BZbrBkF5",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -3012,6 +3122,24 @@
   {
     "item": "Bisco's Leash",
     "stats": "#% increased rarity of items found",
+    "average": 454.5566666666666,
+    "prices": [
+      333.96,
+      384.054,
+      417.45,
+      417.45,
+      417.45,
+      467.5439999999999,
+      484.24199999999996,
+      500.93999999999994,
+      500.93999999999994,
+      500.93999999999994
+    ],
+    "search": {
+      "id": "XqDqJw7fP",
+      "complexity": 18,
+      "total": 27
+    },
     "builds": 1,
     "mods": [
       {
@@ -3025,6 +3153,18 @@
   {
     "item": "Bisco's Leash",
     "stats": "#% increased quantity of items found",
+    "average": 2059.4199999999996,
+    "prices": [
+      1335.84,
+      2337.72,
+      2504.7,
+      41522.15
+    ],
+    "search": {
+      "id": "80ZXWR2UV",
+      "complexity": 18,
+      "total": 4
+    },
     "builds": 1,
     "mods": [
       {
@@ -3283,37 +3423,6 @@
         "text": "you cannot be cursed with silence",
         "trade_ids": [
           "implicit.stat_1654414582"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Obliteration",
-    "stats": "#% increased area of effect",
-    "average": 9.75,
-    "prices": [
-      5,
-      8,
-      9,
-      9,
-      10,
-      10,
-      10,
-      10,
-      10,
-      10
-    ],
-    "search": {
-      "id": "dX4QqW3hJ",
-      "complexity": 18,
-      "total": 70
-    },
-    "builds": 1,
-    "mods": [
-      {
-        "text": "#% increased area of effect",
-        "trade_ids": [
-          "implicit.stat_280731498"
         ]
       }
     ]
@@ -3744,6 +3853,25 @@
     ]
   },
   {
+    "item": "Dendrobate",
+    "stats": "+# to level of socketed aoe gems, #% increased damage",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "+# to level of socketed aoe gems",
+        "trade_ids": [
+          "implicit.stat_2551600084"
+        ]
+      },
+      {
+        "text": "#% increased damage",
+        "trade_ids": [
+          "implicit.stat_2154246560"
+        ]
+      }
+    ]
+  },
+  {
     "item": "Ephemeral Edge",
     "stats": "#% increased area of effect",
     "average": 17.444444444444443,
@@ -4080,6 +4208,64 @@
     ]
   },
   {
+    "item": "Chains of Command",
+    "stats": "+#% to all maximum resistances",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "+#% to all maximum resistances",
+        "trade_ids": [
+          "implicit.stat_569299859"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Leash of Oblation",
+    "stats": "discipline has #% increased aura effect",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "discipline has #% increased aura effect",
+        "trade_ids": [
+          "implicit.stat_788317702"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Ancient Skull",
+    "stats": "socketed skill gems get a #% cost & reservation multiplier",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "socketed skill gems get a #% cost & reservation multiplier",
+        "trade_ids": [
+          "implicit.stat_2865550257"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Triad Grip",
+    "stats": "+# to level of socketed aura gems, #% increased maximum energy shield",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "+# to level of socketed aura gems",
+        "trade_ids": [
+          "implicit.stat_2452998583"
+        ]
+      },
+      {
+        "text": "#% increased maximum energy shield",
+        "trade_ids": [
+          "implicit.stat_2482852589"
+        ]
+      }
+    ]
+  },
+  {
     "item": "Yoke of Suffering",
     "stats": "hatred has #% increased aura effect",
     "builds": 1,
@@ -4185,6 +4371,19 @@
         "text": "+# to level of socketed gems",
         "trade_ids": [
           "implicit.stat_2843100721"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Aegis Aurora",
+    "stats": "#% of physical damage from hits taken as fire damage",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "#% of physical damage from hits taken as fire damage",
+        "trade_ids": [
+          "implicit.stat_3342989455"
         ]
       }
     ]
@@ -4742,6 +4941,32 @@
         "text": "bleeding cannot be inflicted on you",
         "trade_ids": [
           "implicit.stat_1901158930"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Viridi's Veil",
+    "stats": "socketed skill gems get a #% cost & reservation multiplier",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "socketed skill gems get a #% cost & reservation multiplier",
+        "trade_ids": [
+          "implicit.stat_2865550257"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Corpsewalker",
+    "stats": "+# to level of socketed aoe gems",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "+# to level of socketed aoe gems",
+        "trade_ids": [
+          "implicit.stat_2551600084"
         ]
       }
     ]
