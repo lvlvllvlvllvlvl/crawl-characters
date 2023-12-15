@@ -784,6 +784,19 @@
     ]
   },
   {
+    "item": "Eber's Unification",
+    "stats": "+# to maximum power charges",
+    "builds": 2,
+    "mods": [
+      {
+        "text": "+# to maximum power charges",
+        "trade_ids": [
+          "implicit.stat_227523295"
+        ]
+      }
+    ]
+  },
+  {
     "item": "The Poet's Pen",
     "stats": "damage penetrates #% elemental resistances",
     "average": 157.49,
@@ -1524,6 +1537,24 @@
   {
     "item": "Goldwyrm",
     "stats": "+# to level of socketed gems",
+    "average": 11.1,
+    "prices": [
+      8,
+      8,
+      10,
+      10,
+      10,
+      10,
+      10,
+      15,
+      15,
+      15
+    ],
+    "search": {
+      "id": "DGEnq8vf5",
+      "complexity": 18,
+      "total": 42
+    },
     "builds": 1,
     "mods": [
       {
@@ -2217,6 +2248,20 @@
   },
   {
     "item": "Shadows and Dust",
+    "stats": "#% increased attack speed",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "#% increased attack speed",
+        "trade_ids": [
+          "implicit.stat_681332047",
+          "implicit.stat_210067635"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Shadows and Dust",
     "stats": "+#% to spell critical strike chance",
     "average": 3.5,
     "prices": [
@@ -2746,6 +2791,19 @@
         "text": "#% reduced lightning damage taken",
         "trade_ids": [
           "implicit.stat_1276918229"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Incandescent Heart",
+    "stats": "+# to level of socketed gems",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "+# to level of socketed gems",
+        "trade_ids": [
+          "implicit.stat_2843100721"
         ]
       }
     ]
@@ -3529,6 +3587,19 @@
     ]
   },
   {
+    "item": "Primordial Eminence",
+    "stats": "corrupted blood cannot be inflicted on you",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "corrupted blood cannot be inflicted on you",
+        "trade_ids": [
+          "implicit.stat_1658498488"
+        ]
+      }
+    ]
+  },
+  {
     "item": "Dissolution of the Flesh",
     "stats": "damage penetrates #% elemental resistances",
     "average": null,
@@ -3721,6 +3792,13 @@
   {
     "item": "Devoto's Devotion",
     "stats": "+# to maximum power charges, regenerate #% of life per second",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "lXqEQlniV",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -3911,6 +3989,39 @@
         "text": "you cannot be cursed with silence",
         "trade_ids": [
           "implicit.stat_1654414582"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Painseeker",
+    "stats": "+# to maximum frenzy charges, curse enemies with elemental weakness on hit",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "+# to maximum frenzy charges",
+        "trade_ids": [
+          "implicit.stat_4078695"
+        ]
+      },
+      {
+        "text": "curse enemies with elemental weakness on hit",
+        "trade_ids": [
+          "implicit.stat_2028847114"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "The Primordial Chain",
+    "stats": "#% of lightning damage leeched as life",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "#% of lightning damage leeched as life",
+        "trade_ids": [
+          "implicit.stat_80079005",
+          "implicit.stat_2696663331"
         ]
       }
     ]
@@ -4871,6 +4982,45 @@
     ]
   },
   {
+    "item": "Ancestral Vision",
+    "stats": "you cannot be cursed with silence",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "you cannot be cursed with silence",
+        "trade_ids": [
+          "implicit.stat_1654414582"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Ancestral Vision",
+    "stats": "#% increased damage",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "#% increased damage",
+        "trade_ids": [
+          "implicit.stat_2154246560"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Ancestral Vision",
+    "stats": "corrupted blood cannot be inflicted on you",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "corrupted blood cannot be inflicted on you",
+        "trade_ids": [
+          "implicit.stat_1658498488"
+        ]
+      }
+    ]
+  },
+  {
     "item": "Chains of Command",
     "stats": "+#% to all maximum resistances",
     "average": 78.99333333333333,
@@ -5194,6 +5344,38 @@
         "text": "#% reduced cold damage taken",
         "trade_ids": [
           "implicit.stat_3303114033"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Machina Mitts",
+    "stats": "#% increased maximum life, +#% to spell critical strike chance",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "#% increased maximum life",
+        "trade_ids": [
+          "implicit.stat_983749596"
+        ]
+      },
+      {
+        "text": "+#% to spell critical strike chance",
+        "trade_ids": [
+          "implicit.stat_791835907"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Willclash",
+    "stats": "+# to maximum power charges",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "+# to maximum power charges",
+        "trade_ids": [
+          "implicit.stat_227523295"
         ]
       }
     ]
@@ -5654,6 +5836,21 @@
   {
     "item": "Replica Dragonfang's Flight",
     "stats": "you can apply an additional curse",
+    "average": 67.5,
+    "prices": [
+      40,
+      60,
+      70,
+      100,
+      167.53,
+      837.65,
+      1675.3
+    ],
+    "search": {
+      "id": "no9rlYyH0",
+      "complexity": 18,
+      "total": 7
+    },
     "builds": 1,
     "mods": [
       {
@@ -5667,6 +5864,16 @@
   {
     "item": "Breathstealer",
     "stats": "+# to level of socketed gems",
+    "average": 1172.71,
+    "prices": [
+      670.12,
+      1675.3
+    ],
+    "search": {
+      "id": "WVWz0XZtm",
+      "complexity": 18,
+      "total": 2
+    },
     "builds": 1,
     "mods": [
       {
@@ -5680,6 +5887,24 @@
   {
     "item": "Snakebite",
     "stats": "curse enemies with temporal chains on hit",
+    "average": 114.76499999999999,
+    "prices": [
+      30,
+      50,
+      60,
+      70,
+      100,
+      167.53,
+      167.53,
+      167.53,
+      167.53,
+      167.53
+    ],
+    "search": {
+      "id": "PK7gj0ZCL",
+      "complexity": 18,
+      "total": 17
+    },
     "builds": 1,
     "mods": [
       {
@@ -5693,6 +5918,24 @@
   {
     "item": "Darkscorn",
     "stats": "+#% to global critical strike multiplier",
+    "average": 5.75,
+    "prices": [
+      1,
+      4,
+      5,
+      5,
+      6,
+      6,
+      6,
+      6,
+      6,
+      6
+    ],
+    "search": {
+      "id": "mXjqZ8wt6",
+      "complexity": 18,
+      "total": 228
+    },
     "builds": 1,
     "mods": [
       {
@@ -5706,6 +5949,24 @@
   {
     "item": "Carcass Jack",
     "stats": "+# to level of socketed trap or mine gems",
+    "average": 96.51199999999999,
+    "prices": [
+      6,
+      22,
+      25,
+      42,
+      80,
+      120,
+      167.53,
+      167.53,
+      167.53,
+      167.53
+    ],
+    "search": {
+      "id": "XqbmDMWTP",
+      "complexity": 18,
+      "total": 13
+    },
     "builds": 1,
     "mods": [
       {
@@ -5719,6 +5980,15 @@
   {
     "item": "Winterweave",
     "stats": "hatred has #% increased aura effect",
+    "average": 167.53,
+    "prices": [
+      167.53
+    ],
+    "search": {
+      "id": "Ey6zz5zc5",
+      "complexity": 18,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -5732,6 +6002,13 @@
   {
     "item": "Hyrri's Ire",
     "stats": "+# to level of socketed minion gems",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "qXlZDzvTg",
+      "complexity": 18,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -5745,6 +6022,13 @@
   {
     "item": "Hyrri's Ire",
     "stats": "+# to level of socketed gems, +# to level of socketed projectile gems",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "OVnvVyOTE",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -5764,6 +6048,13 @@
   {
     "item": "Southbound",
     "stats": "+# to level of socketed duration gems, +# to level of socketed aura gems",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "nXqLvmMH0",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -5782,7 +6073,44 @@
   },
   {
     "item": "Southbound",
+    "stats": "+# to level of socketed projectile gems, +#% to spell critical strike chance",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "+# to level of socketed projectile gems",
+        "trade_ids": [
+          "implicit.stat_2176571093"
+        ]
+      },
+      {
+        "text": "+#% to spell critical strike chance",
+        "trade_ids": [
+          "implicit.stat_791835907"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Southbound",
     "stats": "+#% to spell critical strike chance",
+    "average": 126.39888888888888,
+    "prices": [
+      70,
+      90,
+      90,
+      100,
+      140,
+      145,
+      167.53,
+      167.53,
+      167.53,
+      234.54199999999997
+    ],
+    "search": {
+      "id": "XkO2WqdSP",
+      "complexity": 18,
+      "total": 19
+    },
     "builds": 1,
     "mods": [
       {
@@ -5796,6 +6124,13 @@
   {
     "item": "Queen of the Forest",
     "stats": "+# to level of socketed gems, +# to level of socketed projectile gems",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "BEOXnMaH8",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -5815,6 +6150,13 @@
   {
     "item": "Queen of the Forest",
     "stats": "+# to level of socketed aoe gems, #% increased damage",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "OVwymo0tE",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -5834,6 +6176,24 @@
   {
     "item": "Queen of the Forest",
     "stats": "+# to level of socketed gems",
+    "average": 308.42449999999997,
+    "prices": [
+      100,
+      100,
+      83.765,
+      120,
+      167.53,
+      167.53,
+      167.53,
+      502.59000000000003,
+      837.65,
+      837.65
+    ],
+    "search": {
+      "id": "yrJQLgGsR",
+      "complexity": 18,
+      "total": 12
+    },
     "builds": 1,
     "mods": [
       {
@@ -5890,14 +6250,14 @@
     ]
   },
   {
-    "item": "Eber's Unification",
-    "stats": "+# to maximum power charges",
+    "item": "Cold Iron Point",
+    "stats": "#% increased global critical strike chance",
     "builds": 1,
     "mods": [
       {
-        "text": "+# to maximum power charges",
+        "text": "#% increased global critical strike chance",
         "trade_ids": [
-          "implicit.stat_227523295"
+          "implicit.stat_587431675"
         ]
       }
     ]
@@ -6029,32 +6389,6 @@
         "text": "+# to level of socketed aoe gems",
         "trade_ids": [
           "implicit.stat_2551600084"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Ancestral Vision",
-    "stats": "#% increased damage",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "#% increased damage",
-        "trade_ids": [
-          "implicit.stat_2154246560"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Ancestral Vision",
-    "stats": "corrupted blood cannot be inflicted on you",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "corrupted blood cannot be inflicted on you",
-        "trade_ids": [
-          "implicit.stat_1658498488"
         ]
       }
     ]
