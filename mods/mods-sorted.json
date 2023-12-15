@@ -116,6 +116,37 @@
     ]
   },
   {
+    "item": "Eber's Unification",
+    "stats": "+# to maximum power charges",
+    "average": 255.51000000000002,
+    "prices": [
+      170.34,
+      170.34,
+      170.34,
+      170.34,
+      255.51,
+      340.68,
+      340.68,
+      340.68,
+      340.68,
+      511.02
+    ],
+    "search": {
+      "id": "jXjBMnXSX",
+      "complexity": 18,
+      "total": 10
+    },
+    "builds": 7,
+    "mods": [
+      {
+        "text": "+# to maximum power charges",
+        "trade_ids": [
+          "implicit.stat_227523295"
+        ]
+      }
+    ]
+  },
+  {
     "item": "Vaal Caress",
     "stats": "+# to level of socketed aura gems",
     "average": 897.1239999999999,
@@ -170,37 +201,6 @@
         "text": "+# to maximum frenzy charges",
         "trade_ids": [
           "implicit.stat_4078695"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Eber's Unification",
-    "stats": "+# to maximum power charges",
-    "average": 255.51000000000002,
-    "prices": [
-      170.34,
-      170.34,
-      170.34,
-      170.34,
-      255.51,
-      340.68,
-      340.68,
-      340.68,
-      340.68,
-      511.02
-    ],
-    "search": {
-      "id": "jXjBMnXSX",
-      "complexity": 18,
-      "total": 10
-    },
-    "builds": 6,
-    "mods": [
-      {
-        "text": "+# to maximum power charges",
-        "trade_ids": [
-          "implicit.stat_227523295"
         ]
       }
     ]
@@ -356,6 +356,37 @@
         "text": "+# to level of socketed gems",
         "trade_ids": [
           "implicit.stat_2843100721"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Incandescent Heart",
+    "stats": "+# to level of socketed projectile gems",
+    "average": 516.6132,
+    "prices": [
+      90,
+      170.34,
+      170.34,
+      340.68,
+      511.02,
+      511.02,
+      834.666,
+      834.666,
+      851.7,
+      851.7
+    ],
+    "search": {
+      "id": "JVdkP85sl",
+      "complexity": 18,
+      "total": 16
+    },
+    "builds": 4,
+    "mods": [
+      {
+        "text": "+# to level of socketed projectile gems",
+        "trade_ids": [
+          "implicit.stat_2176571093"
         ]
       }
     ]
@@ -636,37 +667,6 @@
         "text": "+# to maximum power charges",
         "trade_ids": [
           "implicit.stat_227523295"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Incandescent Heart",
-    "stats": "+# to level of socketed projectile gems",
-    "average": 516.6132,
-    "prices": [
-      90,
-      170.34,
-      170.34,
-      340.68,
-      511.02,
-      511.02,
-      834.666,
-      834.666,
-      851.7,
-      851.7
-    ],
-    "search": {
-      "id": "JVdkP85sl",
-      "complexity": 18,
-      "total": 16
-    },
-    "builds": 3,
-    "mods": [
-      {
-        "text": "+# to level of socketed projectile gems",
-        "trade_ids": [
-          "implicit.stat_2176571093"
         ]
       }
     ]
@@ -2753,6 +2753,25 @@
         "text": "+# to level of socketed aura gems",
         "trade_ids": [
           "implicit.stat_2452998583"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Victario's Influence",
+    "stats": "+# to level of socketed aura gems, +# to level of socketed trap or mine gems",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "+# to level of socketed aura gems",
+        "trade_ids": [
+          "implicit.stat_2452998583"
+        ]
+      },
+      {
+        "text": "+# to level of socketed trap or mine gems",
+        "trade_ids": [
+          "implicit.stat_150668988"
         ]
       }
     ]
@@ -5062,6 +5081,31 @@
   },
   {
     "item": "The Torrent's Reclamation",
+    "stats": "#% increased strength, #% increased intelligence, +#% to critical strike multiplier during any flask effect",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "#% increased strength",
+        "trade_ids": [
+          "implicit.stat_4139681126"
+        ]
+      },
+      {
+        "text": "#% increased intelligence",
+        "trade_ids": [
+          "implicit.stat_656461285"
+        ]
+      },
+      {
+        "text": "+#% to critical strike multiplier during any flask effect",
+        "trade_ids": [
+          "implicit.stat_240289863"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "The Torrent's Reclamation",
     "stats": "#% increased strength, #% increased dexterity, #% increased maximum life",
     "average": null,
     "prices": [],
@@ -5267,6 +5311,13 @@
   {
     "item": "Ancestral Vision",
     "stats": "you cannot be cursed with silence",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "kXJ2YOWI5",
+      "complexity": 18,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -5280,6 +5331,15 @@
   {
     "item": "Ancestral Vision",
     "stats": "#% increased damage",
+    "average": 1704.7,
+    "prices": [
+      1704.7
+    ],
+    "search": {
+      "id": "LmdwQrBHn",
+      "complexity": 18,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -5293,6 +5353,13 @@
   {
     "item": "Cherrubim's Maleficence",
     "stats": "+# to level of socketed gems, +# to level of socketed aoe gems",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "BGrm5KLf8",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -5312,6 +5379,13 @@
   {
     "item": "Bisco's Leash",
     "stats": "#% increased rarity of items found, discipline has #% increased aura effect",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "3BZbrBkF5",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -5331,6 +5405,23 @@
   {
     "item": "Bisco's Leash",
     "stats": "#% increased quantity of items found",
+    "average": 1818.3466666666666,
+    "prices": [
+      1704.7,
+      1704.7,
+      1704.7,
+      1875.17,
+      1875.17,
+      2045.6399999999999,
+      4261.75,
+      4773.16,
+      5966.45
+    ],
+    "search": {
+      "id": "80ZXWR2UV",
+      "complexity": 18,
+      "total": 9
+    },
     "builds": 1,
     "mods": [
       {
@@ -5344,6 +5435,13 @@
   {
     "item": "Asenath's Gentle Touch",
     "stats": "#% increased attack speed, curse enemies with enfeeble on hit",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "5okjk8Dia",
+      "complexity": 30,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -5364,6 +5462,17 @@
   {
     "item": "Asenath's Gentle Touch",
     "stats": "+# to level of socketed aura gems, curse enemies with vulnerability on hit",
+    "average": 255.705,
+    "prices": [
+      170.47,
+      255.70499999999998,
+      340.94
+    ],
+    "search": {
+      "id": "vlPE4wLCE",
+      "complexity": 29,
+      "total": 3
+    },
     "builds": 1,
     "mods": [
       {
@@ -5383,6 +5492,15 @@
   {
     "item": "Asenath's Gentle Touch",
     "stats": "+# to level of socketed warcry gems, #% increased attack speed",
+    "average": 60,
+    "prices": [
+      60
+    ],
+    "search": {
+      "id": "5odkd22Sa",
+      "complexity": 30,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -5403,6 +5521,17 @@
   {
     "item": "Asenath's Gentle Touch",
     "stats": "#% increased maximum energy shield, attacks have +#% to critical strike chance",
+    "average": 89.82333333333334,
+    "prices": [
+      20,
+      79,
+      170.47
+    ],
+    "search": {
+      "id": "2BaeBW5hk",
+      "complexity": 29,
+      "total": 3
+    },
     "builds": 1,
     "mods": [
       {
@@ -5422,6 +5551,13 @@
   {
     "item": "Asenath's Gentle Touch",
     "stats": "#% increased attack speed, #% increased cast speed",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "y9RLrPguR",
+      "complexity": 30,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -5442,6 +5578,13 @@
   {
     "item": "Asenath's Gentle Touch",
     "stats": "+# to level of socketed aura gems, #% increased cast speed",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "9Y2KZKOIK",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -5461,6 +5604,24 @@
   {
     "item": "Asenath's Gentle Touch",
     "stats": "curse enemies with despair on hit",
+    "average": 1218.8605000000002,
+    "prices": [
+      1108.055,
+      1108.055,
+      1193.29,
+      1193.29,
+      1193.29,
+      1193.29,
+      1193.29,
+      1278.525,
+      1363.76,
+      1363.76
+    ],
+    "search": {
+      "id": "XkOGbebuP",
+      "complexity": 18,
+      "total": 16
+    },
     "builds": 1,
     "mods": [
       {
@@ -5474,6 +5635,15 @@
   {
     "item": "Asenath's Gentle Touch",
     "stats": "+# to level of socketed minion gems, attacks have +#% to critical strike chance",
+    "average": 60,
+    "prices": [
+      60
+    ],
+    "search": {
+      "id": "VMpPDK2tp",
+      "complexity": 29,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -5493,6 +5663,17 @@
   {
     "item": "Asenath's Gentle Touch",
     "stats": "+# to level of socketed aoe gems, curse enemies with vulnerability on hit",
+    "average": 100,
+    "prices": [
+      100,
+      100,
+      323.893
+    ],
+    "search": {
+      "id": "GkJjeOBUb",
+      "complexity": 29,
+      "total": 3
+    },
     "builds": 1,
     "mods": [
       {
@@ -5512,6 +5693,16 @@
   {
     "item": "Anathema",
     "stats": "adds # to # lightning damage to spells and attacks",
+    "average": 77.5,
+    "prices": [
+      75,
+      80
+    ],
+    "search": {
+      "id": "0B8O6p8Fg",
+      "complexity": 18,
+      "total": 2
+    },
     "builds": 1,
     "mods": [
       {
