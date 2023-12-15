@@ -856,6 +856,37 @@
     ]
   },
   {
+    "item": "Eyes of the Greatwolf",
+    "stats": "#% increased quantity of items found",
+    "average": 170.03,
+    "prices": [
+      130,
+      153.02700000000002,
+      170.03,
+      170.03,
+      170.03,
+      170.03,
+      170.03,
+      170.03,
+      170.03,
+      170.03
+    ],
+    "search": {
+      "id": "ZPQr9XbfQ",
+      "complexity": 18,
+      "total": 201
+    },
+    "builds": 3,
+    "mods": [
+      {
+        "text": "#% increased quantity of items found",
+        "trade_ids": [
+          "implicit.stat_884586851"
+        ]
+      }
+    ]
+  },
+  {
     "item": "Kaom's Spirit",
     "stats": "attacks have +#% to critical strike chance",
     "average": 488.87579999999997,
@@ -906,37 +937,6 @@
         "text": "+# to level of socketed aoe gems",
         "trade_ids": [
           "implicit.stat_2551600084"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Eyes of the Greatwolf",
-    "stats": "#% increased quantity of items found",
-    "average": 170.03,
-    "prices": [
-      130,
-      153.02700000000002,
-      170.03,
-      170.03,
-      170.03,
-      170.03,
-      170.03,
-      170.03,
-      170.03,
-      170.03
-    ],
-    "search": {
-      "id": "ZPQr9XbfQ",
-      "complexity": 18,
-      "total": 201
-    },
-    "builds": 3,
-    "mods": [
-      {
-        "text": "#% increased quantity of items found",
-        "trade_ids": [
-          "implicit.stat_884586851"
         ]
       }
     ]
@@ -2953,6 +2953,17 @@
   {
     "item": "Victario's Influence",
     "stats": "+# to level of socketed aoe gems, +# to level of socketed projectile gems",
+    "average": 2220.27,
+    "prices": [
+      683.16,
+      1707.8999999999999,
+      4269.75
+    ],
+    "search": {
+      "id": "jXjEjJlHX",
+      "complexity": 29,
+      "total": 3
+    },
     "builds": 1,
     "mods": [
       {
@@ -3818,6 +3829,13 @@
   {
     "item": "Heatshiver",
     "stats": "+# to level of socketed duration gems, #% increased maximum life",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "kXjobJQh5",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -5758,6 +5776,24 @@
   {
     "item": "Hrimsorrow",
     "stats": "+#% to spell critical strike chance",
+    "average": 128.90019999999998,
+    "prices": [
+      100,
+      100,
+      100,
+      100,
+      110,
+      130,
+      136.632,
+      170.79,
+      170.79,
+      170.79
+    ],
+    "search": {
+      "id": "mP2PGvrt6",
+      "complexity": 18,
+      "total": 35
+    },
     "builds": 1,
     "mods": [
       {
@@ -6609,6 +6645,52 @@
     ]
   },
   {
+    "item": "Eyes of the Greatwolf",
+    "stats": "+#% to global critical strike multiplier",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "+#% to global critical strike multiplier",
+        "trade_ids": [
+          "implicit.stat_3556824919"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Eyes of the Greatwolf",
+    "stats": "#% increased damage, #% increased quantity of items found",
+    "average": 3045.22,
+    "prices": [
+      341.52,
+      2049.12,
+      2561.3999999999996,
+      4269,
+      4269,
+      4781.28
+    ],
+    "search": {
+      "id": "plLlQGdH0",
+      "complexity": 29,
+      "total": 6
+    },
+    "builds": 1,
+    "mods": [
+      {
+        "text": "#% increased damage",
+        "trade_ids": [
+          "implicit.stat_2154246560"
+        ]
+      },
+      {
+        "text": "#% increased quantity of items found",
+        "trade_ids": [
+          "implicit.stat_884586851"
+        ]
+      }
+    ]
+  },
+  {
     "item": "Shadows and Dust",
     "stats": "#% increased maximum energy shield, attacks have +#% to critical strike chance",
     "average": null,
@@ -7166,39 +7248,6 @@
         "text": "+# to level of socketed aura gems",
         "trade_ids": [
           "implicit.stat_2452998583"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Eyes of the Greatwolf",
-    "stats": "#% increased damage, #% increased quantity of items found",
-    "average": 3045.22,
-    "prices": [
-      341.52,
-      2049.12,
-      2561.3999999999996,
-      4269,
-      4269,
-      4781.28
-    ],
-    "search": {
-      "id": "plLlQGdH0",
-      "complexity": 29,
-      "total": 6
-    },
-    "builds": 1,
-    "mods": [
-      {
-        "text": "#% increased damage",
-        "trade_ids": [
-          "implicit.stat_2154246560"
-        ]
-      },
-      {
-        "text": "#% increased quantity of items found",
-        "trade_ids": [
-          "implicit.stat_884586851"
         ]
       }
     ]
@@ -8000,6 +8049,24 @@
   {
     "item": "The Magnate",
     "stats": "hatred has #% increased aura effect",
+    "average": 218.94799999999995,
+    "prices": [
+      140,
+      170.79,
+      170.79,
+      170.79,
+      170.79,
+      170.79,
+      170.79,
+      341.58,
+      341.58,
+      341.58
+    ],
+    "search": {
+      "id": "RVBg6k4I7",
+      "complexity": 18,
+      "total": 12
+    },
     "builds": 1,
     "mods": [
       {
@@ -11235,6 +11302,13 @@
   {
     "item": "Perandus Blazon",
     "stats": "#% increased rarity of items found, zealotry has #% increased aura effect",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "LmonEMVhn",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -11254,6 +11328,24 @@
   {
     "item": "Sentari's Answer",
     "stats": "#% increased maximum life",
+    "average": 10.8,
+    "prices": [
+      4,
+      5,
+      5,
+      9,
+      10,
+      10,
+      15,
+      15,
+      15,
+      20
+    ],
+    "search": {
+      "id": "mXYGO9aC6",
+      "complexity": 18,
+      "total": 21
+    },
     "builds": 1,
     "mods": [
       {
@@ -11267,6 +11359,24 @@
   {
     "item": "Sentari's Answer",
     "stats": "#% of physical damage from hits taken as fire damage",
+    "average": 17,
+    "prices": [
+      2,
+      5,
+      12,
+      13,
+      15,
+      15,
+      20,
+      20,
+      20,
+      21
+    ],
+    "search": {
+      "id": "LeWraOlFn",
+      "complexity": 18,
+      "total": 27
+    },
     "builds": 1,
     "mods": [
       {
@@ -11280,6 +11390,24 @@
   {
     "item": "Sentari's Answer",
     "stats": "you take #% reduced extra damage from critical strikes",
+    "average": 8.7,
+    "prices": [
+      2,
+      3,
+      4,
+      5,
+      5,
+      8,
+      10,
+      10,
+      20,
+      20
+    ],
+    "search": {
+      "id": "8adzGlqCV",
+      "complexity": 18,
+      "total": 26
+    },
     "builds": 1,
     "mods": [
       {
@@ -11293,6 +11421,24 @@
   {
     "item": "Sentari's Answer",
     "stats": "#% increased maximum energy shield",
+    "average": 6.5,
+    "prices": [
+      2,
+      2,
+      2,
+      5,
+      5,
+      9,
+      10,
+      10,
+      10,
+      10
+    ],
+    "search": {
+      "id": "EydaRLzh5",
+      "complexity": 18,
+      "total": 22
+    },
     "builds": 1,
     "mods": [
       {
@@ -11306,6 +11452,16 @@
   {
     "item": "The Red Dream",
     "stats": "#% reduced effect of curses on you",
+    "average": 27.5,
+    "prices": [
+      20,
+      35
+    ],
+    "search": {
+      "id": "MV5koWLsJ",
+      "complexity": 18,
+      "total": 2
+    },
     "builds": 1,
     "mods": [
       {
@@ -11319,6 +11475,24 @@
   {
     "item": "Voidwalker",
     "stats": "+# to maximum endurance charges",
+    "average": 18.428571428571427,
+    "prices": [
+      12,
+      15,
+      15,
+      19,
+      20,
+      20,
+      20,
+      20,
+      28,
+      30
+    ],
+    "search": {
+      "id": "rXmqqpmfQ",
+      "complexity": 18,
+      "total": 17
+    },
     "builds": 1,
     "mods": [
       {
@@ -11332,6 +11506,16 @@
   {
     "item": "Inpulsa's Broken Heart",
     "stats": "#% additional physical damage reduction while stationary",
+    "average": 65,
+    "prices": [
+      50,
+      80
+    ],
+    "search": {
+      "id": "zeqGP0aI4",
+      "complexity": 18,
+      "total": 2
+    },
     "builds": 1,
     "mods": [
       {
@@ -11345,6 +11529,13 @@
   {
     "item": "Inpulsa's Broken Heart",
     "stats": "+# to level of socketed minion gems, #% increased damage",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "BEzevqjT8",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -11364,6 +11555,22 @@
   {
     "item": "Inpulsa's Broken Heart",
     "stats": "#% reduced cold damage taken",
+    "average": 24.166666666666668,
+    "prices": [
+      20,
+      20,
+      20,
+      25,
+      30,
+      30,
+      222.027,
+      1024.74
+    ],
+    "search": {
+      "id": "eXDrLwWFL",
+      "complexity": 18,
+      "total": 8
+    },
     "builds": 1,
     "mods": [
       {
@@ -11377,6 +11584,13 @@
   {
     "item": "Machina Mitts",
     "stats": "#% increased maximum life, +#% to spell critical strike chance",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "RVYKX9qi7",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -12126,6 +12340,19 @@
         "text": "#% increased maximum life",
         "trade_ids": [
           "implicit.stat_983749596"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Replica Heatshiver",
+    "stats": "+# to maximum power charges",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "+# to maximum power charges",
+        "trade_ids": [
+          "implicit.stat_227523295"
         ]
       }
     ]
