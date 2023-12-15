@@ -1,5 +1,36 @@
 [
   {
+    "item": "Southbound",
+    "stats": "+#% to spell critical strike chance",
+    "average": 150.4226,
+    "prices": [
+      70,
+      85,
+      90,
+      140,
+      145,
+      167.97,
+      167.97,
+      167.97,
+      235.158,
+      235.158
+    ],
+    "search": {
+      "id": "XkO2WqdSP",
+      "complexity": 18,
+      "total": 14
+    },
+    "builds": 6,
+    "mods": [
+      {
+        "text": "+#% to spell critical strike chance",
+        "trade_ids": [
+          "implicit.stat_791835907"
+        ]
+      }
+    ]
+  },
+  {
     "item": "String of Servitude",
     "stats": "hatred has #% increased aura effect",
     "average": 7.7,
@@ -26,37 +57,6 @@
         "text": "hatred has #% increased aura effect",
         "trade_ids": [
           "implicit.stat_3742945352"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Southbound",
-    "stats": "+#% to spell critical strike chance",
-    "average": 150.4226,
-    "prices": [
-      70,
-      85,
-      90,
-      140,
-      145,
-      167.97,
-      167.97,
-      167.97,
-      235.158,
-      235.158
-    ],
-    "search": {
-      "id": "XkO2WqdSP",
-      "complexity": 18,
-      "total": 14
-    },
-    "builds": 5,
-    "mods": [
-      {
-        "text": "+#% to spell critical strike chance",
-        "trade_ids": [
-          "implicit.stat_791835907"
         ]
       }
     ]
@@ -301,6 +301,36 @@
     ]
   },
   {
+    "item": "Eber's Unification",
+    "stats": "+# to maximum power charges",
+    "average": 225.1484444444444,
+    "prices": [
+      150,
+      167.53,
+      167.53,
+      167.53,
+      167.53,
+      201.036,
+      335.06,
+      335.06,
+      335.06
+    ],
+    "search": {
+      "id": "jXjBMnXSX",
+      "complexity": 18,
+      "total": 9
+    },
+    "builds": 4,
+    "mods": [
+      {
+        "text": "+# to maximum power charges",
+        "trade_ids": [
+          "implicit.stat_227523295"
+        ]
+      }
+    ]
+  },
+  {
     "item": "Call of the Brotherhood",
     "stats": "#% increased rarity of items found",
     "average": 11.7,
@@ -509,36 +539,6 @@
         "text": "+# to level of socketed aoe gems",
         "trade_ids": [
           "implicit.stat_2551600084"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Eber's Unification",
-    "stats": "+# to maximum power charges",
-    "average": 225.1484444444444,
-    "prices": [
-      150,
-      167.53,
-      167.53,
-      167.53,
-      167.53,
-      201.036,
-      335.06,
-      335.06,
-      335.06
-    ],
-    "search": {
-      "id": "jXjBMnXSX",
-      "complexity": 18,
-      "total": 9
-    },
-    "builds": 3,
-    "mods": [
-      {
-        "text": "+# to maximum power charges",
-        "trade_ids": [
-          "implicit.stat_227523295"
         ]
       }
     ]
@@ -1621,6 +1621,25 @@
   },
   {
     "item": "The Fourth Vow",
+    "stats": "+# to level of socketed gems, #% increased damage",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "+# to level of socketed gems",
+        "trade_ids": [
+          "implicit.stat_2843100721"
+        ]
+      },
+      {
+        "text": "#% increased damage",
+        "trade_ids": [
+          "implicit.stat_2154246560"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "The Fourth Vow",
     "stats": "+# to level of socketed projectile gems",
     "average": 738.38,
     "prices": [
@@ -1877,6 +1896,25 @@
         "text": "+# to level of socketed aura gems",
         "trade_ids": [
           "implicit.stat_2452998583"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Victario's Influence",
+    "stats": "+# to level of socketed aoe gems, +# to level of socketed curse gems",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "+# to level of socketed aoe gems",
+        "trade_ids": [
+          "implicit.stat_2551600084"
+        ]
+      },
+      {
+        "text": "+# to level of socketed curse gems",
+        "trade_ids": [
+          "implicit.stat_3691695237"
         ]
       }
     ]
@@ -2699,6 +2737,19 @@
         "text": "+# to level of socketed gems",
         "trade_ids": [
           "implicit.stat_2843100721"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Incandescent Heart",
+    "stats": "#% increased damage",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "#% increased damage",
+        "trade_ids": [
+          "implicit.stat_2154246560"
         ]
       }
     ]
@@ -5961,6 +6012,13 @@
   {
     "item": "March of the Legion",
     "stats": "+# to level of socketed gems, +# to level of socketed aura gems",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "GZyEJaBhb",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -5980,6 +6038,13 @@
   {
     "item": "March of the Legion",
     "stats": "#% increased maximum energy shield, #% increased maximum life",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "jPpzDkXSX",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -5999,6 +6064,24 @@
   {
     "item": "March of the Legion",
     "stats": "+# to level of socketed projectile gems",
+    "average": 5.8,
+    "prices": [
+      2,
+      2,
+      4,
+      5,
+      5,
+      5,
+      5,
+      10,
+      10,
+      10
+    ],
+    "search": {
+      "id": "rXjkzWgCQ",
+      "complexity": 18,
+      "total": 42
+    },
     "builds": 1,
     "mods": [
       {
@@ -6012,6 +6095,15 @@
   {
     "item": "March of the Legion",
     "stats": "+# to level of socketed aoe gems, +# to level of socketed aura gems",
+    "average": 42507.5,
+    "prices": [
+      42507.5
+    ],
+    "search": {
+      "id": "eXW9nbWFL",
+      "complexity": 29,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -6031,6 +6123,24 @@
   {
     "item": "March of the Legion",
     "stats": "+# to level of socketed aura gems",
+    "average": 16.5,
+    "prices": [
+      5,
+      5,
+      10,
+      11,
+      20,
+      20,
+      20,
+      20,
+      25,
+      29
+    ],
+    "search": {
+      "id": "LeWwpGjFn",
+      "complexity": 18,
+      "total": 33
+    },
     "builds": 1,
     "mods": [
       {
@@ -6044,6 +6154,15 @@
   {
     "item": "March of the Legion",
     "stats": "+# to level of socketed aoe gems, +# to level of socketed projectile gems",
+    "average": 5100.9,
+    "prices": [
+      5100.9
+    ],
+    "search": {
+      "id": "VMKlbvwhp",
+      "complexity": 29,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -6063,6 +6182,23 @@
   {
     "item": "Hands of the High Templar",
     "stats": "+# to level of socketed gems, +# to level of socketed aoe gems",
+    "average": 850.15,
+    "prices": [
+      510.09000000000003,
+      680.12,
+      850.15,
+      850.15,
+      850.15,
+      850.15,
+      850.15,
+      2550.45,
+      3400.6
+    ],
+    "search": {
+      "id": "QVn0WyRCw",
+      "complexity": 29,
+      "total": 9
+    },
     "builds": 1,
     "mods": [
       {
@@ -6082,6 +6218,15 @@
   {
     "item": "Hands of the High Templar",
     "stats": "+# to level of socketed duration gems, +# to level of socketed projectile gems, +# to level of socketed curse gems",
+    "average": 850.15,
+    "prices": [
+      850.15
+    ],
+    "search": {
+      "id": "3BYjl0Js5",
+      "complexity": 20,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -6107,6 +6252,17 @@
   {
     "item": "Hands of the High Templar",
     "stats": "+# to level of socketed aoe gems, +# to level of socketed aura gems",
+    "average": 736.7966666666666,
+    "prices": [
+      170.03,
+      680.12,
+      1360.24
+    ],
+    "search": {
+      "id": "ze59nYqf4",
+      "complexity": 29,
+      "total": 3
+    },
     "builds": 1,
     "mods": [
       {
@@ -6126,6 +6282,13 @@
   {
     "item": "Hands of the High Templar",
     "stats": "+# to level of socketed gems, +# to level of socketed curse gems, +# to level of socketed warcry gems, curse enemies with enfeeble on hit, attacks have +#% to critical strike chance",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "waqOP7jsb",
+      "complexity": 22,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -6163,6 +6326,13 @@
   {
     "item": "Crown of Thorns",
     "stats": "#% increased area of effect",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "BED35jLs8",
+      "complexity": 18,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -6176,6 +6346,13 @@
   {
     "item": "Bisco's Leash",
     "stats": "#% increased rarity of items found, discipline has #% increased aura effect",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "3BZbrBkF5",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -6195,6 +6372,24 @@
   {
     "item": "Bisco's Leash",
     "stats": "#% increased rarity of items found",
+    "average": 470.9831000000001,
+    "prices": [
+      391.06899999999996,
+      425.075,
+      425.075,
+      425.075,
+      493.087,
+      510.09000000000003,
+      510.09000000000003,
+      510.09000000000003,
+      510.09000000000003,
+      510.09000000000003
+    ],
+    "search": {
+      "id": "XqDqJw7fP",
+      "complexity": 18,
+      "total": 32
+    },
     "builds": 1,
     "mods": [
       {
@@ -6208,6 +6403,20 @@
   {
     "item": "Bisco's Leash",
     "stats": "#% increased quantity of items found",
+    "average": 3995.7050000000004,
+    "prices": [
+      1530.27,
+      1700.3,
+      4845.8550000000005,
+      5440.96,
+      6461.14,
+      43297.27
+    ],
+    "search": {
+      "id": "80ZXWR2UV",
+      "complexity": 18,
+      "total": 6
+    },
     "builds": 1,
     "mods": [
       {
@@ -6221,6 +6430,17 @@
   {
     "item": "Might of the Meek",
     "stats": "#% increased effect of non-damaging ailments",
+    "average": 15,
+    "prices": [
+      15,
+      15,
+      25
+    ],
+    "search": {
+      "id": "qXjDDjWfg",
+      "complexity": 18,
+      "total": 3
+    },
     "builds": 1,
     "mods": [
       {
@@ -6475,6 +6695,19 @@
         "text": "#% increased maximum life",
         "trade_ids": [
           "implicit.stat_983749596"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Saffell's Frame",
+    "stats": "#% of physical damage from hits taken as chaos damage",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "#% of physical damage from hits taken as chaos damage",
+        "trade_ids": [
+          "implicit.stat_4129825612"
         ]
       }
     ]
@@ -6801,6 +7034,19 @@
     ]
   },
   {
+    "item": "Mind of the Council",
+    "stats": "+# to maximum power charges",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "+# to maximum power charges",
+        "trade_ids": [
+          "implicit.stat_227523295"
+        ]
+      }
+    ]
+  },
+  {
     "item": "Dawnbreaker",
     "stats": "+#% chance to block",
     "builds": 1,
@@ -6873,6 +7119,27 @@
         "text": "#% increased elemental damage with attack skills",
         "trade_ids": [
           "implicit.stat_387439868"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Thread of Hope",
+    "stats": "damage penetrates #% cold resistance, damage penetrates #% lightning resistance",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "damage penetrates #% cold resistance",
+        "trade_ids": [
+          "implicit.stat_3417711605",
+          "implicit.stat_1211769158"
+        ]
+      },
+      {
+        "text": "damage penetrates #% lightning resistance",
+        "trade_ids": [
+          "implicit.stat_818778753",
+          "implicit.stat_3301510262"
         ]
       }
     ]
