@@ -82,7 +82,7 @@
       "complexity": 18,
       "total": 48
     },
-    "builds": 8,
+    "builds": 9,
     "mods": [
       {
         "text": "+#% to spell critical strike chance",
@@ -1207,6 +1207,19 @@
   },
   {
     "item": "Incandescent Heart",
+    "stats": "+# to level of socketed aoe gems",
+    "builds": 2,
+    "mods": [
+      {
+        "text": "+# to level of socketed aoe gems",
+        "trade_ids": [
+          "implicit.stat_2551600084"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Incandescent Heart",
     "stats": "+# to level of socketed gems",
     "average": 96.21199999999999,
     "prices": [
@@ -1363,6 +1376,24 @@
   {
     "item": "Shaper's Touch",
     "stats": "+# to level of socketed aura gems",
+    "average": 56.5,
+    "prices": [
+      50,
+      50,
+      55,
+      55,
+      55,
+      60,
+      60,
+      60,
+      60,
+      60
+    ],
+    "search": {
+      "id": "0PQ6vEghg",
+      "complexity": 18,
+      "total": 33
+    },
     "builds": 2,
     "mods": [
       {
@@ -1376,6 +1407,24 @@
   {
     "item": "Sadima's Touch",
     "stats": "curse enemies with elemental weakness on hit",
+    "average": 9.666666666666666,
+    "prices": [
+      8,
+      9,
+      9,
+      9,
+      10,
+      10,
+      10,
+      10,
+      10,
+      10
+    ],
+    "search": {
+      "id": "mP2gJyBu6",
+      "complexity": 18,
+      "total": 95
+    },
     "builds": 2,
     "mods": [
       {
@@ -1389,6 +1438,24 @@
   {
     "item": "Sadima's Touch",
     "stats": "+#% to spell critical strike chance",
+    "average": 5,
+    "prices": [
+      2,
+      3,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      7,
+      8
+    ],
+    "search": {
+      "id": "plL0P4Jt0",
+      "complexity": 18,
+      "total": 144
+    },
     "builds": 2,
     "mods": [
       {
@@ -1402,6 +1469,24 @@
   {
     "item": "Goldwyrm",
     "stats": "#% increased maximum energy shield",
+    "average": 3.6,
+    "prices": [
+      2,
+      2,
+      3,
+      3,
+      4,
+      4,
+      4,
+      4,
+      5,
+      5
+    ],
+    "search": {
+      "id": "5okOd7nTa",
+      "complexity": 18,
+      "total": 72
+    },
     "builds": 2,
     "mods": [
       {
@@ -1415,6 +1500,24 @@
   {
     "item": "Goldwyrm",
     "stats": "+# to level of socketed curse gems",
+    "average": 4.666666666666667,
+    "prices": [
+      3,
+      4,
+      4,
+      4,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5
+    ],
+    "search": {
+      "id": "oZ89EgYsl",
+      "complexity": 18,
+      "total": 97
+    },
     "builds": 2,
     "mods": [
       {
@@ -1428,6 +1531,24 @@
   {
     "item": "March of the Legion",
     "stats": "+# to level of socketed aura gems",
+    "average": 11.444444444444445,
+    "prices": [
+      5,
+      9,
+      10,
+      10,
+      10,
+      10,
+      10,
+      14,
+      15,
+      15
+    ],
+    "search": {
+      "id": "LeWwpGjFn",
+      "complexity": 18,
+      "total": 95
+    },
     "builds": 2,
     "mods": [
       {
@@ -1441,6 +1562,24 @@
   {
     "item": "March of the Legion",
     "stats": "+# to level of socketed gems",
+    "average": 4.7,
+    "prices": [
+      4,
+      4,
+      4,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5
+    ],
+    "search": {
+      "id": "jPpB8gdHX",
+      "complexity": 18,
+      "total": 79
+    },
     "builds": 2,
     "mods": [
       {
@@ -1454,6 +1593,24 @@
   {
     "item": "March of the Legion",
     "stats": "+# to level of socketed duration gems",
+    "average": 5,
+    "prices": [
+      2,
+      3,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5
+    ],
+    "search": {
+      "id": "rXjkno7TQ",
+      "complexity": 18,
+      "total": 103
+    },
     "builds": 2,
     "mods": [
       {
@@ -1467,6 +1624,24 @@
   {
     "item": "Hyrri's Truth",
     "stats": "you can apply an additional curse",
+    "average": 1684.9410000000003,
+    "prices": [
+      1197.42,
+      1282.95,
+      1368.48,
+      1539.54,
+      1539.54,
+      1539.54,
+      1710.6,
+      2052.7200000000003,
+      2223.78,
+      2394.84
+    ],
+    "search": {
+      "id": "rY5YQ07CQ",
+      "complexity": 18,
+      "total": 14
+    },
     "builds": 2,
     "mods": [
       {
@@ -1480,6 +1655,24 @@
   {
     "item": "Hrimsorrow",
     "stats": "#% increased maximum life",
+    "average": 3.9,
+    "prices": [
+      2,
+      2,
+      3,
+      4,
+      4,
+      4,
+      5,
+      5,
+      5,
+      5
+    ],
+    "search": {
+      "id": "jPp7k4XuX",
+      "complexity": 18,
+      "total": 48
+    },
     "builds": 2,
     "mods": [
       {
@@ -1493,6 +1686,16 @@
   {
     "item": "Ancestral Vision",
     "stats": "corrupted blood cannot be inflicted on you",
+    "average": 6927.93,
+    "prices": [
+      3592.26,
+      10263.6
+    ],
+    "search": {
+      "id": "plLZELbt0",
+      "complexity": 18,
+      "total": 2
+    },
     "builds": 2,
     "mods": [
       {
@@ -1506,6 +1709,15 @@
   {
     "item": "Asenath's Gentle Touch",
     "stats": "+# to level of socketed aoe gems, curse enemies with vulnerability on hit",
+    "average": 325.014,
+    "prices": [
+      325.014
+    ],
+    "search": {
+      "id": "GkJjeOBUb",
+      "complexity": 29,
+      "total": 1
+    },
     "builds": 2,
     "mods": [
       {
@@ -1525,6 +1737,13 @@
   {
     "item": "Asenath's Gentle Touch",
     "stats": "+# to level of socketed trap or mine gems, curse enemies with vulnerability on hit",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "mXgb3lrT6",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 2,
     "mods": [
       {
@@ -1544,6 +1763,15 @@
   {
     "item": "Anathema",
     "stats": "+#% to all elemental resistances",
+    "average": 855.3,
+    "prices": [
+      855.3
+    ],
+    "search": {
+      "id": "jXjMMPXSX",
+      "complexity": 18,
+      "total": 1
+    },
     "builds": 2,
     "mods": [
       {
@@ -1557,6 +1785,24 @@
   {
     "item": "Kaom's Spirit",
     "stats": "+# to maximum frenzy charges",
+    "average": 159.64199999999997,
+    "prices": [
+      129,
+      130,
+      140,
+      171.06,
+      171.06,
+      171.06,
+      171.06,
+      171.06,
+      171.06,
+      171.06
+    ],
+    "search": {
+      "id": "VyB7zXgIp",
+      "complexity": 18,
+      "total": 18
+    },
     "builds": 2,
     "mods": [
       {
@@ -2935,19 +3181,6 @@
         "text": "+# to level of socketed aura gems",
         "trade_ids": [
           "implicit.stat_2452998583"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Incandescent Heart",
-    "stats": "+# to level of socketed aoe gems",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "+# to level of socketed aoe gems",
-        "trade_ids": [
-          "implicit.stat_2551600084"
         ]
       }
     ]
