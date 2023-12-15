@@ -2262,6 +2262,24 @@
   {
     "item": "Black Sun Crest",
     "stats": "socketed skill gems get a #% cost & reservation multiplier",
+    "average": 10,
+    "prices": [
+      4,
+      7,
+      8,
+      10,
+      10,
+      10,
+      10,
+      10,
+      10,
+      10
+    ],
+    "search": {
+      "id": "Qr6G3Mpuw",
+      "complexity": 18,
+      "total": 115
+    },
     "builds": 2,
     "mods": [
       {
@@ -2275,6 +2293,24 @@
   {
     "item": "The Poet's Pen",
     "stats": "damage penetrates #% elemental resistances",
+    "average": 148.48444444444442,
+    "prices": [
+      20,
+      80,
+      80,
+      150,
+      171.06,
+      171.06,
+      171.06,
+      171.06,
+      171.06,
+      171.06
+    ],
+    "search": {
+      "id": "LeWk24Bin",
+      "complexity": 18,
+      "total": 16
+    },
     "builds": 2,
     "mods": [
       {
@@ -2288,6 +2324,24 @@
   {
     "item": "Malachai's Loop",
     "stats": "+# to level of socketed gems",
+    "average": 165.795,
+    "prices": [
+      100,
+      150,
+      150,
+      171.06,
+      171.06,
+      171.06,
+      171.06,
+      171.06,
+      171.06,
+      205.272
+    ],
+    "search": {
+      "id": "rXjkBWrfQ",
+      "complexity": 18,
+      "total": 22
+    },
     "builds": 1,
     "mods": [
       {
@@ -2301,6 +2355,13 @@
   {
     "item": "Malachai's Loop",
     "stats": "+# to level of socketed gems, #% of physical damage from hits taken as chaos damage",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "WV4aBkbCm",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -2320,6 +2381,24 @@
   {
     "item": "Malachai's Loop",
     "stats": "#% of physical damage from hits taken as fire damage",
+    "average": 14.3,
+    "prices": [
+      5,
+      10,
+      10,
+      10,
+      15,
+      15,
+      19,
+      19,
+      20,
+      20
+    ],
+    "search": {
+      "id": "0BaGbKQhg",
+      "complexity": 18,
+      "total": 21
+    },
     "builds": 1,
     "mods": [
       {
@@ -2333,6 +2412,13 @@
   {
     "item": "Dialla's Malefaction",
     "stats": "+# to level of socketed gems, +#% to all maximum resistances",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "Ey6M5KKC5",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -2352,6 +2438,21 @@
   {
     "item": "Dialla's Malefaction",
     "stats": "+#% to all maximum resistances",
+    "average": 269.7566666666667,
+    "prices": [
+      79,
+      171.06,
+      171.06,
+      342.12,
+      342.12,
+      513.1800000000001,
+      1197.42
+    ],
+    "search": {
+      "id": "qX3PwlXtg",
+      "complexity": 18,
+      "total": 7
+    },
     "builds": 1,
     "mods": [
       {
@@ -2365,6 +2466,13 @@
   {
     "item": "Dialla's Malefaction",
     "stats": "+# to level of socketed aura gems, +#% to all maximum resistances",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "RVYOWygF7",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -2384,6 +2492,13 @@
   {
     "item": "Dialla's Malefaction",
     "stats": "+# to level of socketed aoe gems, #% additional physical damage reduction while stationary",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "mXjQBqBu6",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -2403,6 +2518,15 @@
   {
     "item": "Dialla's Malefaction",
     "stats": "+# to level of socketed aoe gems, +# to level of socketed projectile gems",
+    "average": 13684.8,
+    "prices": [
+      13684.8
+    ],
+    "search": {
+      "id": "QVnkP97Tw",
+      "complexity": 29,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -2422,6 +2546,13 @@
   {
     "item": "Dialla's Malefaction",
     "stats": "+# to level of socketed duration gems, +# to level of socketed warcry gems",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "BEQJ2oku8",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -2441,6 +2572,13 @@
   {
     "item": "Dialla's Malefaction",
     "stats": "+# to level of socketed gems, +# to level of socketed aura gems",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "3Brgqp5i5",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -2460,6 +2598,13 @@
   {
     "item": "Dialla's Malefaction",
     "stats": "+# to level of socketed projectile gems, #% increased maximum life",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "Zb2nDbEtQ",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -2479,6 +2624,24 @@
   {
     "item": "Ixchel's Temptation",
     "stats": "#% increased rarity of items found",
+    "average": 16.555555555555557,
+    "prices": [
+      10,
+      13,
+      15,
+      15,
+      15,
+      15,
+      19,
+      19,
+      19,
+      19
+    ],
+    "search": {
+      "id": "y9qnw9OiR",
+      "complexity": 18,
+      "total": 196
+    },
     "builds": 1,
     "mods": [
       {
@@ -2492,6 +2655,13 @@
   {
     "item": "Ralakesh's Impatience",
     "stats": "#% increased movement speed",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "mP2QMJLu6",
+      "complexity": 18,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
