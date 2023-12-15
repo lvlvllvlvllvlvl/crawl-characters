@@ -1397,6 +1397,37 @@
   },
   {
     "item": "Goldwyrm",
+    "stats": "#% increased maximum energy shield",
+    "average": 4,
+    "prices": [
+      2,
+      2,
+      3,
+      4,
+      4,
+      5,
+      5,
+      5,
+      5,
+      5
+    ],
+    "search": {
+      "id": "5okOd7nTa",
+      "complexity": 18,
+      "total": 80
+    },
+    "builds": 2,
+    "mods": [
+      {
+        "text": "#% increased maximum energy shield",
+        "trade_ids": [
+          "implicit.stat_2482852589"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Goldwyrm",
     "stats": "+# to level of socketed curse gems",
     "average": 3.75,
     "prices": [
@@ -1931,6 +1962,37 @@
         "text": "+# to level of socketed gems",
         "trade_ids": [
           "implicit.stat_2843100721"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Sentari's Answer",
+    "stats": "#% increased maximum energy shield",
+    "average": 6.5,
+    "prices": [
+      2,
+      2,
+      2,
+      5,
+      5,
+      9,
+      10,
+      10,
+      10,
+      10
+    ],
+    "search": {
+      "id": "EydaRLzh5",
+      "complexity": 18,
+      "total": 22
+    },
+    "builds": 2,
+    "mods": [
+      {
+        "text": "#% increased maximum energy shield",
+        "trade_ids": [
+          "implicit.stat_2482852589"
         ]
       }
     ]
@@ -4118,6 +4180,24 @@
   {
     "item": "Incandescent Heart",
     "stats": "+# to level of socketed aoe gems",
+    "average": 364.35780000000005,
+    "prices": [
+      171.06,
+      256.59000000000003,
+      256.59000000000003,
+      342.12,
+      342.12,
+      342.12,
+      427.65,
+      478.96799999999996,
+      513.1800000000001,
+      513.1800000000001
+    ],
+    "search": {
+      "id": "4drqr3kH9",
+      "complexity": 18,
+      "total": 20
+    },
     "builds": 1,
     "mods": [
       {
@@ -4655,6 +4735,19 @@
   },
   {
     "item": "Greed's Embrace",
+    "stats": "#% reduced cold damage taken",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "#% reduced cold damage taken",
+        "trade_ids": [
+          "implicit.stat_3303114033"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Greed's Embrace",
     "stats": "+# to level of socketed projectile gems",
     "average": 8.2,
     "prices": [
@@ -4836,6 +4929,19 @@
   },
   {
     "item": "Sadima's Touch",
+    "stats": "curse enemies with enfeeble on hit",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "curse enemies with enfeeble on hit",
+        "trade_ids": [
+          "implicit.stat_1625819882"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Sadima's Touch",
     "stats": "+# to level of socketed minion gems",
     "average": 3,
     "prices": [
@@ -4986,37 +5092,6 @@
         "text": "+# to level of socketed gems",
         "trade_ids": [
           "implicit.stat_2843100721"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Goldwyrm",
-    "stats": "#% increased maximum energy shield",
-    "average": 4,
-    "prices": [
-      2,
-      2,
-      3,
-      4,
-      4,
-      5,
-      5,
-      5,
-      5,
-      5
-    ],
-    "search": {
-      "id": "5okOd7nTa",
-      "complexity": 18,
-      "total": 80
-    },
-    "builds": 1,
-    "mods": [
-      {
-        "text": "#% increased maximum energy shield",
-        "trade_ids": [
-          "implicit.stat_2482852589"
         ]
       }
     ]
@@ -8875,6 +8950,170 @@
     ]
   },
   {
+    "item": "Perandus Blazon",
+    "stats": "#% increased rarity of items found, #% increased cast speed during any flask effect",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "#% increased rarity of items found",
+        "trade_ids": [
+          "implicit.stat_3917489142"
+        ]
+      },
+      {
+        "text": "#% increased cast speed during any flask effect",
+        "trade_ids": [
+          "implicit.stat_252194507"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Perandus Blazon",
+    "stats": "#% increased rarity of items found, #% increased critical strike chance during any flask effect",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "7l3DmMgS5",
+      "complexity": 29,
+      "total": 0
+    },
+    "builds": 1,
+    "mods": [
+      {
+        "text": "#% increased rarity of items found",
+        "trade_ids": [
+          "implicit.stat_3917489142"
+        ]
+      },
+      {
+        "text": "#% increased critical strike chance during any flask effect",
+        "trade_ids": [
+          "implicit.stat_2898434123"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Perandus Blazon",
+    "stats": "#% increased rarity of items found, zealotry has #% increased aura effect",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "LmonEMVhn",
+      "complexity": 29,
+      "total": 0
+    },
+    "builds": 1,
+    "mods": [
+      {
+        "text": "#% increased rarity of items found",
+        "trade_ids": [
+          "implicit.stat_3917489142"
+        ]
+      },
+      {
+        "text": "zealotry has #% increased aura effect",
+        "trade_ids": [
+          "implicit.stat_4096052153"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Sentari's Answer",
+    "stats": "#% increased maximum life",
+    "average": 10.8,
+    "prices": [
+      4,
+      5,
+      5,
+      9,
+      10,
+      10,
+      15,
+      15,
+      15,
+      20
+    ],
+    "search": {
+      "id": "mXYGO9aC6",
+      "complexity": 18,
+      "total": 21
+    },
+    "builds": 1,
+    "mods": [
+      {
+        "text": "#% increased maximum life",
+        "trade_ids": [
+          "implicit.stat_983749596"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Sentari's Answer",
+    "stats": "#% of physical damage from hits taken as fire damage",
+    "average": 17,
+    "prices": [
+      2,
+      5,
+      12,
+      13,
+      15,
+      15,
+      20,
+      20,
+      20,
+      21
+    ],
+    "search": {
+      "id": "LeWraOlFn",
+      "complexity": 18,
+      "total": 27
+    },
+    "builds": 1,
+    "mods": [
+      {
+        "text": "#% of physical damage from hits taken as fire damage",
+        "trade_ids": [
+          "implicit.stat_3342989455"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Sentari's Answer",
+    "stats": "you take #% reduced extra damage from critical strikes",
+    "average": 8.7,
+    "prices": [
+      2,
+      3,
+      4,
+      5,
+      5,
+      8,
+      10,
+      10,
+      20,
+      20
+    ],
+    "search": {
+      "id": "8adzGlqCV",
+      "complexity": 18,
+      "total": 26
+    },
+    "builds": 1,
+    "mods": [
+      {
+        "text": "you take #% reduced extra damage from critical strikes",
+        "trade_ids": [
+          "implicit.stat_3855016469"
+        ]
+      }
+    ]
+  },
+  {
     "item": "Primordial Eminence",
     "stats": "corrupted blood cannot be inflicted on you",
     "average": 683.04,
@@ -9195,6 +9434,17 @@
   {
     "item": "Corpsewalker",
     "stats": "+# to maximum endurance charges",
+    "average": 1140.3999999999999,
+    "prices": [
+      342.12,
+      1368.48,
+      1710.6
+    ],
+    "search": {
+      "id": "lXjqDv6hV",
+      "complexity": 18,
+      "total": 3
+    },
     "builds": 1,
     "mods": [
       {
@@ -11274,182 +11524,6 @@
     ]
   },
   {
-    "item": "Perandus Blazon",
-    "stats": "#% increased rarity of items found, #% increased critical strike chance during any flask effect",
-    "average": null,
-    "prices": [],
-    "search": {
-      "id": "7l3DmMgS5",
-      "complexity": 29,
-      "total": 0
-    },
-    "builds": 1,
-    "mods": [
-      {
-        "text": "#% increased rarity of items found",
-        "trade_ids": [
-          "implicit.stat_3917489142"
-        ]
-      },
-      {
-        "text": "#% increased critical strike chance during any flask effect",
-        "trade_ids": [
-          "implicit.stat_2898434123"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Perandus Blazon",
-    "stats": "#% increased rarity of items found, zealotry has #% increased aura effect",
-    "average": null,
-    "prices": [],
-    "search": {
-      "id": "LmonEMVhn",
-      "complexity": 29,
-      "total": 0
-    },
-    "builds": 1,
-    "mods": [
-      {
-        "text": "#% increased rarity of items found",
-        "trade_ids": [
-          "implicit.stat_3917489142"
-        ]
-      },
-      {
-        "text": "zealotry has #% increased aura effect",
-        "trade_ids": [
-          "implicit.stat_4096052153"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Sentari's Answer",
-    "stats": "#% increased maximum life",
-    "average": 10.8,
-    "prices": [
-      4,
-      5,
-      5,
-      9,
-      10,
-      10,
-      15,
-      15,
-      15,
-      20
-    ],
-    "search": {
-      "id": "mXYGO9aC6",
-      "complexity": 18,
-      "total": 21
-    },
-    "builds": 1,
-    "mods": [
-      {
-        "text": "#% increased maximum life",
-        "trade_ids": [
-          "implicit.stat_983749596"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Sentari's Answer",
-    "stats": "#% of physical damage from hits taken as fire damage",
-    "average": 17,
-    "prices": [
-      2,
-      5,
-      12,
-      13,
-      15,
-      15,
-      20,
-      20,
-      20,
-      21
-    ],
-    "search": {
-      "id": "LeWraOlFn",
-      "complexity": 18,
-      "total": 27
-    },
-    "builds": 1,
-    "mods": [
-      {
-        "text": "#% of physical damage from hits taken as fire damage",
-        "trade_ids": [
-          "implicit.stat_3342989455"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Sentari's Answer",
-    "stats": "you take #% reduced extra damage from critical strikes",
-    "average": 8.7,
-    "prices": [
-      2,
-      3,
-      4,
-      5,
-      5,
-      8,
-      10,
-      10,
-      20,
-      20
-    ],
-    "search": {
-      "id": "8adzGlqCV",
-      "complexity": 18,
-      "total": 26
-    },
-    "builds": 1,
-    "mods": [
-      {
-        "text": "you take #% reduced extra damage from critical strikes",
-        "trade_ids": [
-          "implicit.stat_3855016469"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Sentari's Answer",
-    "stats": "#% increased maximum energy shield",
-    "average": 6.5,
-    "prices": [
-      2,
-      2,
-      2,
-      5,
-      5,
-      9,
-      10,
-      10,
-      10,
-      10
-    ],
-    "search": {
-      "id": "EydaRLzh5",
-      "complexity": 18,
-      "total": 22
-    },
-    "builds": 1,
-    "mods": [
-      {
-        "text": "#% increased maximum energy shield",
-        "trade_ids": [
-          "implicit.stat_2482852589"
-        ]
-      }
-    ]
-  },
-  {
     "item": "The Red Dream",
     "stats": "#% reduced effect of curses on you",
     "average": 27.5,
@@ -11610,6 +11684,22 @@
   {
     "item": "Machina Mitts",
     "stats": "curse enemies with enfeeble on hit",
+    "average": 57.142857142857146,
+    "prices": [
+      35,
+      40,
+      40,
+      45,
+      50,
+      90,
+      100,
+      342.12
+    ],
+    "search": {
+      "id": "WV4WDGvum",
+      "complexity": 18,
+      "total": 8
+    },
     "builds": 1,
     "mods": [
       {
@@ -11623,6 +11713,16 @@
   {
     "item": "The Gull",
     "stats": "socketed skill gems get a #% cost & reservation multiplier",
+    "average": 2908.02,
+    "prices": [
+      1539.54,
+      4276.5
+    ],
+    "search": {
+      "id": "y9EGvmgSR",
+      "complexity": 18,
+      "total": 2
+    },
     "builds": 1,
     "mods": [
       {
@@ -11636,6 +11736,23 @@
   {
     "item": "Lioneye's Fall",
     "stats": "corrupted blood cannot be inflicted on you",
+    "average": 1032.77475,
+    "prices": [
+      855.3,
+      923.724,
+      1009.254,
+      1026.3600000000001,
+      1026.3600000000001,
+      1026.3600000000001,
+      1197.42,
+      1197.42,
+      1710.6
+    ],
+    "search": {
+      "id": "EG8yMgKs5",
+      "complexity": 18,
+      "total": 9
+    },
     "builds": 1,
     "mods": [
       {
@@ -11649,6 +11766,23 @@
   {
     "item": "Aegis Aurora",
     "stats": "+# to level of socketed gems",
+    "average": 682.10175,
+    "prices": [
+      427.65,
+      496.074,
+      513.1800000000001,
+      513.1800000000001,
+      684.24,
+      855.3,
+      940.83,
+      1026.3600000000001,
+      1368.48
+    ],
+    "search": {
+      "id": "80Z8EzGsV",
+      "complexity": 18,
+      "total": 9
+    },
     "builds": 1,
     "mods": [
       {
@@ -11662,6 +11796,22 @@
   {
     "item": "Aegis Aurora",
     "stats": "#% of physical damage from hits taken as fire damage",
+    "average": 472.82666666666665,
+    "prices": [
+      100,
+      171.06,
+      256.59000000000003,
+      684.24,
+      769.77,
+      855.3,
+      1454.01,
+      3763.32
+    ],
+    "search": {
+      "id": "lXjXX7kcV",
+      "complexity": 18,
+      "total": 8
+    },
     "builds": 1,
     "mods": [
       {
@@ -11675,6 +11825,15 @@
   {
     "item": "Indigon",
     "stats": "+# to maximum power charges",
+    "average": 1197.42,
+    "prices": [
+      1197.42
+    ],
+    "search": {
+      "id": "jXJ9MZbHX",
+      "complexity": 18,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -11688,6 +11847,13 @@
   {
     "item": "Atziri's Foible",
     "stats": "you can apply an additional curse",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "dX4J9ObcJ",
+      "complexity": 18,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -11701,6 +11867,22 @@
   {
     "item": "Cloak of Defiance",
     "stats": "#% increased damage",
+    "average": 100.35333333333334,
+    "prices": [
+      20,
+      30,
+      80,
+      130,
+      171.06,
+      171.06,
+      513.1800000000001,
+      1111.89
+    ],
+    "search": {
+      "id": "3GwWVB0I5",
+      "complexity": 18,
+      "total": 8
+    },
     "builds": 1,
     "mods": [
       {
@@ -11714,6 +11896,15 @@
   {
     "item": "Dance of the Offered",
     "stats": "+# to level of socketed gems",
+    "average": 855.3,
+    "prices": [
+      855.3
+    ],
+    "search": {
+      "id": "GkdRWoWCb",
+      "complexity": 18,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -11727,6 +11918,23 @@
   {
     "item": "Void Battery",
     "stats": "damage penetrates #% elemental resistances",
+    "average": 1254.4399999999998,
+    "prices": [
+      684.24,
+      684.24,
+      1026.3600000000001,
+      1026.3600000000001,
+      1368.48,
+      1368.48,
+      1368.48,
+      1710.6,
+      2052.7200000000003
+    ],
+    "search": {
+      "id": "mP20bDrt6",
+      "complexity": 18,
+      "total": 9
+    },
     "builds": 1,
     "mods": [
       {
@@ -11740,6 +11948,23 @@
   {
     "item": "Void Battery",
     "stats": "#% increased critical strike chance",
+    "average": 513.1800000000001,
+    "prices": [
+      20,
+      171.06,
+      342.12,
+      427.65,
+      513.1800000000001,
+      513.1800000000001,
+      513.1800000000001,
+      513.1800000000001,
+      1454.01
+    ],
+    "search": {
+      "id": "LmydjKGIn",
+      "complexity": 18,
+      "total": 9
+    },
     "builds": 1,
     "mods": [
       {
@@ -11753,6 +11978,13 @@
   {
     "item": "Replica Inya's Epiphany",
     "stats": "+# to level of socketed gems",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "aq37vaRFe",
+      "complexity": 18,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -11766,6 +11998,21 @@
   {
     "item": "Rainbowstride",
     "stats": "+# to level of socketed duration gems",
+    "average": 18.166666666666668,
+    "prices": [
+      10,
+      11,
+      11,
+      18,
+      29,
+      30,
+      150
+    ],
+    "search": {
+      "id": "BEymZ6aI8",
+      "complexity": 18,
+      "total": 7
+    },
     "builds": 1,
     "mods": [
       {
