@@ -41,12 +41,17 @@ const currencyValue = Object.fromEntries(
 
 const rateLimiter = new FetchRateLimiter({ maxWaitMs: 5000 });
 
-const headers = {
+const headers: HeadersInit = {
   "User-Agent":
     "OAuth crawl-characters/1.0.0 (contact: https://github.com/lvlvllvlvllvlvl/)",
   "Content-Type": "application/json",
   Accept: "application/json",
 };
+
+if (process.env.POESESSID) {
+  console.debug("found POESESSID")
+  headers.Cookie = `POESESSID=${process.env.POESESSID}`
+}
 
 let error = false;
 async function fetchAndSave(name: string, stats: any, file: BunFile) {

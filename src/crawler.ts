@@ -36,10 +36,15 @@ interface LadderEntry {
   public?: boolean;
 }
 
-const headers = {
+const headers: HeadersInit = {
   "User-Agent":
     "OAuth crawl-characters/1.0.0 (contact: https://github.com/lvlvllvlvllvlvl/)",
 };
+
+if (process.env.POESESSID) {
+  console.debug("found POESESSID")
+  headers.Cookie = `POESESSID=${process.env.POESESSID}`
+}
 
 async function fetchAndSave(
   type: "ladder" | "items" | "passives",

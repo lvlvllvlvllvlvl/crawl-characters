@@ -8,6 +8,8 @@ on:
 jobs:
   crawl:
     runs-on: ubuntu-latest
+    env:
+      super_secret: ${{ secrets.POESESSID }}
     steps:
       - uses: actions/checkout@v3
       - uses: oven-sh/setup-bun@v1
