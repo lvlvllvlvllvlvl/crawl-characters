@@ -211,6 +211,37 @@
   },
   {
     "item": "Heatshiver",
+    "stats": "+# to maximum power charges",
+    "average": 2349.9367500000003,
+    "prices": [
+      2035.614,
+      2223.78,
+      2223.78,
+      2394.84,
+      2394.84,
+      2394.84,
+      2565.9,
+      2565.9,
+      5131.8,
+      5131.8
+    ],
+    "search": {
+      "id": "R24kzDqc7",
+      "complexity": 18,
+      "total": 11
+    },
+    "builds": 6,
+    "mods": [
+      {
+        "text": "+# to maximum power charges",
+        "trade_ids": [
+          "implicit.stat_227523295"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Heatshiver",
     "stats": "socketed skill gems get a #% cost & reservation multiplier",
     "average": 332.6166666666666,
     "prices": [
@@ -236,6 +267,37 @@
         "text": "socketed skill gems get a #% cost & reservation multiplier",
         "trade_ids": [
           "implicit.stat_2865550257"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "String of Servitude",
+    "stats": "wrath has #% increased aura effect",
+    "average": 2,
+    "prices": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      2,
+      3,
+      3,
+      3,
+      4
+    ],
+    "search": {
+      "id": "GZyglgohb",
+      "complexity": 18,
+      "total": 88
+    },
+    "builds": 6,
+    "mods": [
+      {
+        "text": "wrath has #% increased aura effect",
+        "trade_ids": [
+          "implicit.stat_2181791238"
         ]
       }
     ]
@@ -330,63 +392,32 @@
     ]
   },
   {
-    "item": "Heatshiver",
-    "stats": "+# to maximum power charges",
-    "average": 2349.9367500000003,
+    "item": "Victario's Influence",
+    "stats": "+# to level of socketed aura gems",
+    "average": 6.6,
     "prices": [
-      2035.614,
-      2223.78,
-      2223.78,
-      2394.84,
-      2394.84,
-      2394.84,
-      2565.9,
-      2565.9,
-      5131.8,
-      5131.8
+      4,
+      4,
+      5,
+      5,
+      5,
+      5,
+      8,
+      10,
+      10,
+      10
     ],
     "search": {
-      "id": "R24kzDqc7",
+      "id": "806kqWnUV",
       "complexity": 18,
-      "total": 11
+      "total": 135
     },
     "builds": 5,
     "mods": [
       {
-        "text": "+# to maximum power charges",
+        "text": "+# to level of socketed aura gems",
         "trade_ids": [
-          "implicit.stat_227523295"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "String of Servitude",
-    "stats": "wrath has #% increased aura effect",
-    "average": 2,
-    "prices": [
-      1,
-      1,
-      1,
-      1,
-      1,
-      2,
-      3,
-      3,
-      3,
-      4
-    ],
-    "search": {
-      "id": "GZyglgohb",
-      "complexity": 18,
-      "total": 88
-    },
-    "builds": 5,
-    "mods": [
-      {
-        "text": "wrath has #% increased aura effect",
-        "trade_ids": [
-          "implicit.stat_2181791238"
+          "implicit.stat_2452998583"
         ]
       }
     ]
@@ -480,37 +511,6 @@
         "text": "curse enemies with vulnerability on hit",
         "trade_ids": [
           "implicit.stat_3967845372"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Victario's Influence",
-    "stats": "+# to level of socketed aura gems",
-    "average": 6.6,
-    "prices": [
-      4,
-      4,
-      5,
-      5,
-      5,
-      5,
-      8,
-      10,
-      10,
-      10
-    ],
-    "search": {
-      "id": "806kqWnUV",
-      "complexity": 18,
-      "total": 135
-    },
-    "builds": 4,
-    "mods": [
-      {
-        "text": "+# to level of socketed aura gems",
-        "trade_ids": [
-          "implicit.stat_2452998583"
         ]
       }
     ]
@@ -760,6 +760,37 @@
         "text": "attacks have +#% to critical strike chance",
         "trade_ids": [
           "implicit.stat_2572042788"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Alpha's Howl",
+    "stats": "socketed skill gems get a #% cost & reservation multiplier",
+    "average": 380.60850000000005,
+    "prices": [
+      307.908,
+      342.12,
+      342.12,
+      342.12,
+      342.12,
+      342.12,
+      513.1800000000001,
+      513.1800000000001,
+      598.71,
+      855.3
+    ],
+    "search": {
+      "id": "DGEZWG2t5",
+      "complexity": 18,
+      "total": 10
+    },
+    "builds": 4,
+    "mods": [
+      {
+        "text": "socketed skill gems get a #% cost & reservation multiplier",
+        "trade_ids": [
+          "implicit.stat_2865550257"
         ]
       }
     ]
@@ -1027,37 +1058,6 @@
         "text": "+# to level of socketed aoe gems",
         "trade_ids": [
           "implicit.stat_2551600084"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Alpha's Howl",
-    "stats": "socketed skill gems get a #% cost & reservation multiplier",
-    "average": 380.60850000000005,
-    "prices": [
-      307.908,
-      342.12,
-      342.12,
-      342.12,
-      342.12,
-      342.12,
-      513.1800000000001,
-      513.1800000000001,
-      598.71,
-      855.3
-    ],
-    "search": {
-      "id": "DGEZWG2t5",
-      "complexity": 18,
-      "total": 10
-    },
-    "builds": 3,
-    "mods": [
-      {
-        "text": "socketed skill gems get a #% cost & reservation multiplier",
-        "trade_ids": [
-          "implicit.stat_2865550257"
         ]
       }
     ]
@@ -2171,6 +2171,25 @@
   },
   {
     "item": "Ceinture of Benevolence",
+    "stats": "#% increased strength, #% increased intelligence",
+    "builds": 2,
+    "mods": [
+      {
+        "text": "#% increased strength",
+        "trade_ids": [
+          "implicit.stat_4139681126"
+        ]
+      },
+      {
+        "text": "#% increased intelligence",
+        "trade_ids": [
+          "implicit.stat_656461285"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Ceinture of Benevolence",
     "stats": "wrath has #% increased aura effect",
     "average": 34.3,
     "prices": [
@@ -2447,6 +2466,25 @@
   },
   {
     "item": "Malachai's Loop",
+    "stats": "#% increased maximum life, #% reduced area damage taken from hits",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "#% increased maximum life",
+        "trade_ids": [
+          "implicit.stat_983749596"
+        ]
+      },
+      {
+        "text": "#% reduced area damage taken from hits",
+        "trade_ids": [
+          "implicit.stat_3001376862"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Malachai's Loop",
     "stats": "+# to level of socketed gems, #% of physical damage from hits taken as chaos damage",
     "average": null,
     "prices": [],
@@ -2552,6 +2590,19 @@
         "text": "+#% to all maximum resistances",
         "trade_ids": [
           "implicit.stat_569299859"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Dialla's Malefaction",
+    "stats": "+# to level of socketed gems",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "+# to level of socketed gems",
+        "trade_ids": [
+          "implicit.stat_2843100721"
         ]
       }
     ]
@@ -4141,6 +4192,24 @@
   {
     "item": "Heatshiver",
     "stats": "#% increased effect of cold ailments",
+    "average": 18.625,
+    "prices": [
+      10,
+      15,
+      15,
+      19,
+      20,
+      20,
+      20,
+      20,
+      20,
+      25
+    ],
+    "search": {
+      "id": "4drzQXgt9",
+      "complexity": 18,
+      "total": 64
+    },
     "builds": 1,
     "mods": [
       {
@@ -4857,6 +4926,24 @@
   {
     "item": "Bated Breath",
     "stats": "zealotry has #% increased aura effect",
+    "average": 13,
+    "prices": [
+      0.22,
+      9,
+      10,
+      10,
+      10,
+      11,
+      15,
+      15,
+      18,
+      19
+    ],
+    "search": {
+      "id": "gXDl2naFQ",
+      "complexity": 18,
+      "total": 27
+    },
     "builds": 1,
     "mods": [
       {
@@ -4870,6 +4957,15 @@
   {
     "item": "Bated Breath",
     "stats": "#% increased dexterity, #% increased intelligence, #% increased maximum energy shield",
+    "average": 100,
+    "prices": [
+      100
+    ],
+    "search": {
+      "id": "7lKm9nlu5",
+      "complexity": 20,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -4895,6 +4991,24 @@
   {
     "item": "Bated Breath",
     "stats": "anger has #% increased aura effect",
+    "average": 10.5,
+    "prices": [
+      5,
+      6,
+      9,
+      10,
+      10,
+      10,
+      10,
+      15,
+      15,
+      15
+    ],
+    "search": {
+      "id": "jXZk6lZCX",
+      "complexity": 18,
+      "total": 26
+    },
     "builds": 1,
     "mods": [
       {
@@ -4908,6 +5022,24 @@
   {
     "item": "Bated Breath",
     "stats": "wrath has #% increased aura effect",
+    "average": 23,
+    "prices": [
+      10,
+      10,
+      15,
+      20,
+      20,
+      25,
+      30,
+      30,
+      30,
+      40
+    ],
+    "search": {
+      "id": "3Bb9LVZs5",
+      "complexity": 18,
+      "total": 17
+    },
     "builds": 1,
     "mods": [
       {
@@ -4921,6 +5053,20 @@
   {
     "item": "Shaper's Touch",
     "stats": "+# to level of socketed gems",
+    "average": 912.32,
+    "prices": [
+      684.24,
+      684.24,
+      855.3,
+      855.3,
+      1197.42,
+      1197.42
+    ],
+    "search": {
+      "id": "LeWPLEVHn",
+      "complexity": 18,
+      "total": 6
+    },
     "builds": 1,
     "mods": [
       {
@@ -4934,6 +5080,24 @@
   {
     "item": "Shaper's Touch",
     "stats": "curse enemies with temporal chains on hit",
+    "average": 15,
+    "prices": [
+      9,
+      15,
+      15,
+      15,
+      15,
+      15,
+      15,
+      17,
+      18,
+      19
+    ],
+    "search": {
+      "id": "gXWRrJjhQ",
+      "complexity": 18,
+      "total": 70
+    },
     "builds": 1,
     "mods": [
       {
@@ -4947,6 +5111,21 @@
   {
     "item": "Greed's Embrace",
     "stats": "+# to level of socketed aoe gems, +# to level of socketed aura gems",
+    "average": 547.392,
+    "prices": [
+      342.12,
+      342.12,
+      513.1800000000001,
+      684.24,
+      855.3,
+      1368.48,
+      1881.66
+    ],
+    "search": {
+      "id": "9YD9l8yIK",
+      "complexity": 29,
+      "total": 7
+    },
     "builds": 1,
     "mods": [
       {
@@ -4966,6 +5145,24 @@
   {
     "item": "Greed's Embrace",
     "stats": "you take #% reduced extra damage from critical strikes",
+    "average": 7.3,
+    "prices": [
+      2,
+      2,
+      4,
+      5,
+      10,
+      10,
+      10,
+      10,
+      10,
+      10
+    ],
+    "search": {
+      "id": "LeWjZQZSn",
+      "complexity": 18,
+      "total": 89
+    },
     "builds": 1,
     "mods": [
       {
@@ -4979,6 +5176,13 @@
   {
     "item": "Greed's Embrace",
     "stats": "+# to level of socketed aoe gems, #% reduced lightning damage taken",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "jXJd8wdHX",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -4998,6 +5202,24 @@
   {
     "item": "Greed's Embrace",
     "stats": "#% reduced cold damage taken",
+    "average": 3.9,
+    "prices": [
+      1,
+      2,
+      2,
+      4,
+      4,
+      5,
+      5,
+      5,
+      5,
+      6
+    ],
+    "search": {
+      "id": "vlG5Ew9fE",
+      "complexity": 18,
+      "total": 55
+    },
     "builds": 1,
     "mods": [
       {
@@ -5011,6 +5233,24 @@
   {
     "item": "Greed's Embrace",
     "stats": "+# to level of socketed projectile gems",
+    "average": 10,
+    "prices": [
+      8,
+      9,
+      10,
+      10,
+      10,
+      10,
+      10,
+      10,
+      10,
+      10
+    ],
+    "search": {
+      "id": "6Gqw55qsG",
+      "complexity": 18,
+      "total": 161
+    },
     "builds": 1,
     "mods": [
       {
@@ -5024,6 +5264,24 @@
   {
     "item": "Greed's Embrace",
     "stats": "#% reduced fire damage taken",
+    "average": 7.9,
+    "prices": [
+      5,
+      5,
+      5,
+      7,
+      8,
+      9,
+      10,
+      10,
+      10,
+      10
+    ],
+    "search": {
+      "id": "VMg46mgfp",
+      "complexity": 18,
+      "total": 55
+    },
     "builds": 1,
     "mods": [
       {
@@ -5037,6 +5295,16 @@
   {
     "item": "Greed's Embrace",
     "stats": "+# to level of socketed minion gems, #% reduced lightning damage taken",
+    "average": 5,
+    "prices": [
+      5,
+      5
+    ],
+    "search": {
+      "id": "EymnKQBs5",
+      "complexity": 29,
+      "total": 2
+    },
     "builds": 1,
     "mods": [
       {
@@ -5056,6 +5324,24 @@
   {
     "item": "Greed's Embrace",
     "stats": "+# to level of socketed warcry gems",
+    "average": 8.222222222222221,
+    "prices": [
+      1,
+      4,
+      5,
+      5,
+      10,
+      10,
+      10,
+      10,
+      10,
+      10
+    ],
+    "search": {
+      "id": "YVqMX5kUY",
+      "complexity": 18,
+      "total": 58
+    },
     "builds": 1,
     "mods": [
       {
@@ -6930,6 +7216,19 @@
   },
   {
     "item": "Ceinture of Benevolence",
+    "stats": "discipline has #% increased aura effect",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "discipline has #% increased aura effect",
+        "trade_ids": [
+          "implicit.stat_788317702"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Ceinture of Benevolence",
     "stats": "#% increased area of effect",
     "builds": 1,
     "mods": [
@@ -6969,25 +7268,6 @@
         "text": "anger has #% increased aura effect",
         "trade_ids": [
           "implicit.stat_1592278124"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Ceinture of Benevolence",
-    "stats": "#% increased strength, #% increased intelligence",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "#% increased strength",
-        "trade_ids": [
-          "implicit.stat_4139681126"
-        ]
-      },
-      {
-        "text": "#% increased intelligence",
-        "trade_ids": [
-          "implicit.stat_656461285"
         ]
       }
     ]
@@ -7103,6 +7383,25 @@
         "text": "+# to level of socketed aoe gems",
         "trade_ids": [
           "implicit.stat_2551600084"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Le Heup of All",
+    "stats": "anger has #% increased aura effect, wrath has #% increased aura effect",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "anger has #% increased aura effect",
+        "trade_ids": [
+          "implicit.stat_1592278124"
+        ]
+      },
+      {
+        "text": "wrath has #% increased aura effect",
+        "trade_ids": [
+          "implicit.stat_2181791238"
         ]
       }
     ]
@@ -8040,6 +8339,38 @@
         "text": "+# to level of socketed duration gems",
         "trade_ids": [
           "implicit.stat_2115168758"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Surgebinders",
+    "stats": "curse enemies with elemental weakness on hit",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "curse enemies with elemental weakness on hit",
+        "trade_ids": [
+          "implicit.stat_2028847114"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Surgebinders",
+    "stats": "+# to level of socketed aura gems, curse enemies with elemental weakness on hit",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "+# to level of socketed aura gems",
+        "trade_ids": [
+          "implicit.stat_2452998583"
+        ]
+      },
+      {
+        "text": "curse enemies with elemental weakness on hit",
+        "trade_ids": [
+          "implicit.stat_2028847114"
         ]
       }
     ]
@@ -9602,25 +9933,6 @@
         "text": "+# to level of socketed gems",
         "trade_ids": [
           "implicit.stat_2843100721"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Surgebinders",
-    "stats": "+# to level of socketed aura gems, curse enemies with elemental weakness on hit",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "+# to level of socketed aura gems",
-        "trade_ids": [
-          "implicit.stat_2452998583"
-        ]
-      },
-      {
-        "text": "curse enemies with elemental weakness on hit",
-        "trade_ids": [
-          "implicit.stat_2028847114"
         ]
       }
     ]
