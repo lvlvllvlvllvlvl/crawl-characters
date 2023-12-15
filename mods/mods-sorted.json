@@ -557,6 +557,19 @@
     ]
   },
   {
+    "item": "Fractal Thoughts",
+    "stats": "socketed skill gems get a #% cost & reservation multiplier",
+    "builds": 2,
+    "mods": [
+      {
+        "text": "socketed skill gems get a #% cost & reservation multiplier",
+        "trade_ids": [
+          "implicit.stat_2865550257"
+        ]
+      }
+    ]
+  },
+  {
     "item": "March of the Legion",
     "stats": "+# to level of socketed duration gems",
     "average": 4.5,
@@ -652,6 +665,13 @@
   {
     "item": "Matua Tupuna",
     "stats": "+# to level of socketed gems, #% increased maximum energy shield",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "RVYRokac7",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -697,6 +717,22 @@
   {
     "item": "Matua Tupuna",
     "stats": "+# to level of socketed aoe gems",
+    "average": 473.10999999999996,
+    "prices": [
+      417.45,
+      417.45,
+      417.45,
+      500.93999999999994,
+      500.93999999999994,
+      584.43,
+      834.9,
+      1502.82
+    ],
+    "search": {
+      "id": "2GbYYzYHk",
+      "complexity": 18,
+      "total": 8
+    },
     "builds": 1,
     "mods": [
       {
@@ -1032,6 +1068,24 @@
   {
     "item": "Shaper's Touch",
     "stats": "curse enemies with elemental weakness on hit",
+    "average": 615.9706666666666,
+    "prices": [
+      500.93999999999994,
+      500.93999999999994,
+      584.43,
+      617.826,
+      667.92,
+      667.92,
+      667.92,
+      667.92,
+      667.92,
+      834.9
+    ],
+    "search": {
+      "id": "8a2odn2hV",
+      "complexity": 18,
+      "total": 12
+    },
     "builds": 1,
     "mods": [
       {
@@ -1076,6 +1130,24 @@
   {
     "item": "String of Servitude",
     "stats": "wrath has #% increased aura effect",
+    "average": 2.7142857142857144,
+    "prices": [
+      1,
+      2,
+      2,
+      3,
+      3,
+      3,
+      3,
+      3,
+      4,
+      5
+    ],
+    "search": {
+      "id": "GZyglgohb",
+      "complexity": 18,
+      "total": 51
+    },
     "builds": 1,
     "mods": [
       {
@@ -1089,6 +1161,16 @@
   {
     "item": "Greed's Embrace",
     "stats": "+# to level of socketed aoe gems, +# to level of socketed aura gems",
+    "average": 918.3899999999999,
+    "prices": [
+      500.93999999999994,
+      1335.84
+    ],
+    "search": {
+      "id": "9YD9l8yIK",
+      "complexity": 29,
+      "total": 2
+    },
     "builds": 1,
     "mods": [
       {
@@ -2155,6 +2237,38 @@
     ]
   },
   {
+    "item": "Incandescent Heart",
+    "stats": "#% reduced lightning damage taken",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "#% reduced lightning damage taken",
+        "trade_ids": [
+          "implicit.stat_1276918229"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Incandescent Heart",
+    "stats": "+# to level of socketed aoe gems, +# to level of socketed aura gems",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "+# to level of socketed aoe gems",
+        "trade_ids": [
+          "implicit.stat_2551600084"
+        ]
+      },
+      {
+        "text": "+# to level of socketed aura gems",
+        "trade_ids": [
+          "implicit.stat_2452998583"
+        ]
+      }
+    ]
+  },
+  {
     "item": "Eyes of the Greatwolf",
     "stats": "#% increased damage, #% increased quantity of items found",
     "average": 1606.6000000000001,
@@ -2315,6 +2429,25 @@
         "text": "+# to level of socketed aoe gems",
         "trade_ids": [
           "implicit.stat_2551600084"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Victario's Influence",
+    "stats": "+# to level of socketed aura gems, #% increased damage",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "+# to level of socketed aura gems",
+        "trade_ids": [
+          "implicit.stat_2452998583"
+        ]
+      },
+      {
+        "text": "#% increased damage",
+        "trade_ids": [
+          "implicit.stat_2154246560"
         ]
       }
     ]
@@ -3429,6 +3562,25 @@
     ]
   },
   {
+    "item": "March of the Legion",
+    "stats": "+# to level of socketed aoe gems, +# to level of socketed aura gems",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "+# to level of socketed aoe gems",
+        "trade_ids": [
+          "implicit.stat_2551600084"
+        ]
+      },
+      {
+        "text": "+# to level of socketed aura gems",
+        "trade_ids": [
+          "implicit.stat_2452998583"
+        ]
+      }
+    ]
+  },
+  {
     "item": "Legacy of Fury",
     "stats": "+# to maximum endurance charges",
     "average": 40,
@@ -3882,6 +4034,26 @@
     ]
   },
   {
+    "item": "Devoto's Devotion",
+    "stats": "#% of fire damage leeched as life, +# to maximum power charges",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "#% of fire damage leeched as life",
+        "trade_ids": [
+          "implicit.stat_3848282610",
+          "implicit.stat_1743742391"
+        ]
+      },
+      {
+        "text": "+# to maximum power charges",
+        "trade_ids": [
+          "implicit.stat_227523295"
+        ]
+      }
+    ]
+  },
+  {
     "item": "Gravebind",
     "stats": "curse enemies with temporal chains on hit",
     "builds": 1,
@@ -3929,6 +4101,51 @@
         "text": "you can apply an additional curse",
         "trade_ids": [
           "implicit.stat_30642521"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Inpulsa's Broken Heart",
+    "stats": "#% additional physical damage reduction while stationary",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "#% additional physical damage reduction while stationary",
+        "trade_ids": [
+          "implicit.stat_2181129193"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Inpulsa's Broken Heart",
+    "stats": "+# to level of socketed minion gems, #% increased damage",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "+# to level of socketed minion gems",
+        "trade_ids": [
+          "implicit.stat_3604946673"
+        ]
+      },
+      {
+        "text": "#% increased damage",
+        "trade_ids": [
+          "implicit.stat_2154246560"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Inpulsa's Broken Heart",
+    "stats": "#% reduced cold damage taken",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "#% reduced cold damage taken",
+        "trade_ids": [
+          "implicit.stat_3303114033"
         ]
       }
     ]
@@ -3987,38 +4204,6 @@
         "text": "#% increased cast speed during any flask effect",
         "trade_ids": [
           "implicit.stat_252194507"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Inpulsa's Broken Heart",
-    "stats": "+# to level of socketed minion gems, #% increased damage",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "+# to level of socketed minion gems",
-        "trade_ids": [
-          "implicit.stat_3604946673"
-        ]
-      },
-      {
-        "text": "#% increased damage",
-        "trade_ids": [
-          "implicit.stat_2154246560"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Inpulsa's Broken Heart",
-    "stats": "#% reduced cold damage taken",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "#% reduced cold damage taken",
-        "trade_ids": [
-          "implicit.stat_3303114033"
         ]
       }
     ]
@@ -4084,6 +4269,63 @@
         "text": "+# to level of socketed gems",
         "trade_ids": [
           "implicit.stat_2843100721"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Bated Breath",
+    "stats": "wrath has #% increased aura effect, discipline has #% increased aura effect",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "wrath has #% increased aura effect",
+        "trade_ids": [
+          "implicit.stat_2181791238"
+        ]
+      },
+      {
+        "text": "discipline has #% increased aura effect",
+        "trade_ids": [
+          "implicit.stat_788317702"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Bated Breath",
+    "stats": "zealotry has #% increased aura effect",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "zealotry has #% increased aura effect",
+        "trade_ids": [
+          "implicit.stat_4096052153"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Bated Breath",
+    "stats": "#% increased dexterity, #% increased intelligence, #% increased maximum energy shield",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "#% increased dexterity",
+        "trade_ids": [
+          "implicit.stat_4139681126"
+        ]
+      },
+      {
+        "text": "#% increased intelligence",
+        "trade_ids": [
+          "implicit.stat_656461285"
+        ]
+      },
+      {
+        "text": "#% increased maximum energy shield",
+        "trade_ids": [
+          "implicit.stat_2482852589"
         ]
       }
     ]
@@ -4168,44 +4410,6 @@
     ]
   },
   {
-    "item": "Bated Breath",
-    "stats": "zealotry has #% increased aura effect",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "zealotry has #% increased aura effect",
-        "trade_ids": [
-          "implicit.stat_4096052153"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Bated Breath",
-    "stats": "#% increased dexterity, #% increased intelligence, #% increased maximum energy shield",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "#% increased dexterity",
-        "trade_ids": [
-          "implicit.stat_4139681126"
-        ]
-      },
-      {
-        "text": "#% increased intelligence",
-        "trade_ids": [
-          "implicit.stat_656461285"
-        ]
-      },
-      {
-        "text": "#% increased maximum energy shield",
-        "trade_ids": [
-          "implicit.stat_2482852589"
-        ]
-      }
-    ]
-  },
-  {
     "item": "Replica Dragonfang's Flight",
     "stats": "you can apply an additional curse",
     "builds": 1,
@@ -4227,19 +4431,6 @@
         "text": "+# to level of socketed gems",
         "trade_ids": [
           "implicit.stat_2843100721"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Fractal Thoughts",
-    "stats": "socketed skill gems get a #% cost & reservation multiplier",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "socketed skill gems get a #% cost & reservation multiplier",
-        "trade_ids": [
-          "implicit.stat_2865550257"
         ]
       }
     ]
@@ -4464,20 +4655,14 @@
     ]
   },
   {
-    "item": "Incandescent Heart",
-    "stats": "+# to level of socketed aoe gems, +# to level of socketed aura gems",
+    "item": "Black Sun Crest",
+    "stats": "socketed skill gems get a #% cost & reservation multiplier",
     "builds": 1,
     "mods": [
       {
-        "text": "+# to level of socketed aoe gems",
+        "text": "socketed skill gems get a #% cost & reservation multiplier",
         "trade_ids": [
-          "implicit.stat_2551600084"
-        ]
-      },
-      {
-        "text": "+# to level of socketed aura gems",
-        "trade_ids": [
-          "implicit.stat_2452998583"
+          "implicit.stat_2865550257"
         ]
       }
     ]
