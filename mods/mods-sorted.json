@@ -31,6 +31,35 @@
     ]
   },
   {
+    "item": "Matua Tupuna",
+    "stats": "+# to level of socketed aura gems",
+    "average": 846.8331428571428,
+    "prices": [
+      681.36,
+      732.462,
+      851.7,
+      851.7,
+      851.7,
+      936.87,
+      1022.04,
+      1703.4
+    ],
+    "search": {
+      "id": "0PQlkZ8ig",
+      "complexity": 18,
+      "total": 8
+    },
+    "builds": 9,
+    "mods": [
+      {
+        "text": "+# to level of socketed aura gems",
+        "trade_ids": [
+          "implicit.stat_2452998583"
+        ]
+      }
+    ]
+  },
+  {
     "item": "Southbound",
     "stats": "+#% to spell critical strike chance",
     "average": 116.18666666666667,
@@ -82,35 +111,6 @@
         "text": "+# to level of socketed aoe gems",
         "trade_ids": [
           "implicit.stat_2551600084"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Matua Tupuna",
-    "stats": "+# to level of socketed aura gems",
-    "average": 846.8331428571428,
-    "prices": [
-      681.36,
-      732.462,
-      851.7,
-      851.7,
-      851.7,
-      936.87,
-      1022.04,
-      1703.4
-    ],
-    "search": {
-      "id": "0PQlkZ8ig",
-      "complexity": 18,
-      "total": 8
-    },
-    "builds": 8,
-    "mods": [
-      {
-        "text": "+# to level of socketed aura gems",
-        "trade_ids": [
-          "implicit.stat_2452998583"
         ]
       }
     ]
@@ -201,6 +201,37 @@
         "text": "+# to maximum power charges",
         "trade_ids": [
           "implicit.stat_227523295"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Vaal Caress",
+    "stats": "+# to level of socketed duration gems",
+    "average": 594.4866,
+    "prices": [
+      374.74800000000005,
+      374.74800000000005,
+      511.02,
+      511.02,
+      511.02,
+      596.19,
+      681.36,
+      681.36,
+      851.7,
+      851.7
+    ],
+    "search": {
+      "id": "abo0zLRHe",
+      "complexity": 18,
+      "total": 10
+    },
+    "builds": 6,
+    "mods": [
+      {
+        "text": "+# to level of socketed duration gems",
+        "trade_ids": [
+          "implicit.stat_2115168758"
         ]
       }
     ]
@@ -299,32 +330,32 @@
     ]
   },
   {
-    "item": "Vaal Caress",
-    "stats": "+# to level of socketed duration gems",
-    "average": 594.4866,
+    "item": "March of the Legion",
+    "stats": "+# to level of socketed aoe gems",
+    "average": 8.2,
     "prices": [
-      374.74800000000005,
-      374.74800000000005,
-      511.02,
-      511.02,
-      511.02,
-      596.19,
-      681.36,
-      681.36,
-      851.7,
-      851.7
+      5,
+      5,
+      5,
+      7,
+      10,
+      10,
+      10,
+      10,
+      10,
+      10
     ],
     "search": {
-      "id": "abo0zLRHe",
+      "id": "MVDlG4qFJ",
       "complexity": 18,
-      "total": 10
+      "total": 64
     },
     "builds": 5,
     "mods": [
       {
-        "text": "+# to level of socketed duration gems",
+        "text": "+# to level of socketed aoe gems",
         "trade_ids": [
-          "implicit.stat_2115168758"
+          "implicit.stat_2551600084"
         ]
       }
     ]
@@ -573,37 +604,6 @@
         "text": "+# to level of socketed projectile gems",
         "trade_ids": [
           "implicit.stat_2176571093"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "March of the Legion",
-    "stats": "+# to level of socketed aoe gems",
-    "average": 8.2,
-    "prices": [
-      5,
-      5,
-      5,
-      7,
-      10,
-      10,
-      10,
-      10,
-      10,
-      10
-    ],
-    "search": {
-      "id": "MVDlG4qFJ",
-      "complexity": 18,
-      "total": 64
-    },
-    "builds": 4,
-    "mods": [
-      {
-        "text": "+# to level of socketed aoe gems",
-        "trade_ids": [
-          "implicit.stat_2551600084"
         ]
       }
     ]
@@ -4649,6 +4649,13 @@
   {
     "item": "Greed's Embrace",
     "stats": "+# to level of socketed minion gems, #% reduced lightning damage taken",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "EymnKQBs5",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -4824,6 +4831,24 @@
   {
     "item": "Sadima's Touch",
     "stats": "#% increased maximum energy shield",
+    "average": 4.111111111111111,
+    "prices": [
+      1,
+      2,
+      2,
+      4,
+      4,
+      5,
+      5,
+      5,
+      5,
+      5
+    ],
+    "search": {
+      "id": "PdDK4Y7iL",
+      "complexity": 18,
+      "total": 41
+    },
     "builds": 1,
     "mods": [
       {
@@ -4899,6 +4924,24 @@
   {
     "item": "Goldwyrm",
     "stats": "#% increased maximum energy shield",
+    "average": 4,
+    "prices": [
+      2,
+      2,
+      3,
+      4,
+      4,
+      5,
+      5,
+      5,
+      5,
+      5
+    ],
+    "search": {
+      "id": "5okOd7nTa",
+      "complexity": 18,
+      "total": 80
+    },
     "builds": 1,
     "mods": [
       {
@@ -9947,6 +9990,23 @@
   {
     "item": "Legacy of Fury",
     "stats": "#% increased movement speed",
+    "average": 170.76,
+    "prices": [
+      170.76,
+      170.76,
+      170.76,
+      170.76,
+      170.76,
+      170.76,
+      170.76,
+      170.76,
+      341.52
+    ],
+    "search": {
+      "id": "6Gqvl6XuG",
+      "complexity": 18,
+      "total": 9
+    },
     "builds": 1,
     "mods": [
       {
@@ -9960,6 +10020,13 @@
   {
     "item": "The Brass Dome",
     "stats": "+# to level of socketed trap or mine gems, #% reduced lightning damage taken",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "XqDVoE7UP",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -9979,6 +10046,13 @@
   {
     "item": "The Stampede",
     "stats": "regenerate # life per second while moving",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "kX4ygJ5c5",
+      "complexity": 18,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -9992,6 +10066,24 @@
   {
     "item": "Crown of the Inward Eye",
     "stats": "regenerate #% of life per second",
+    "average": 25.2,
+    "prices": [
+      8,
+      10,
+      10,
+      15,
+      20,
+      29,
+      30,
+      30,
+      50,
+      50
+    ],
+    "search": {
+      "id": "qayp5XWsg",
+      "complexity": 18,
+      "total": 13
+    },
     "builds": 1,
     "mods": [
       {
@@ -10005,6 +10097,24 @@
   {
     "item": "Ephemeral Edge",
     "stats": "#% chance to gain onslaught for # seconds on kill",
+    "average": 6.666666666666667,
+    "prices": [
+      3,
+      5,
+      5,
+      5,
+      5,
+      7,
+      9,
+      10,
+      11,
+      55
+    ],
+    "search": {
+      "id": "z27GpRRI4",
+      "complexity": 18,
+      "total": 14
+    },
     "builds": 1,
     "mods": [
       {
@@ -10018,6 +10128,13 @@
   {
     "item": "Ephemeral Edge",
     "stats": "resolute technique",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "3BrQ3l9c5",
+      "complexity": 18,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -10031,6 +10148,13 @@
   {
     "item": "Dendrobate",
     "stats": "+# to level of socketed gems, +# to level of socketed duration gems",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "yrJqJ6qhR",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -10050,6 +10174,13 @@
   {
     "item": "Dendrobate",
     "stats": "+# to level of socketed aoe gems, #% increased damage",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "vlPVe4zSE",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -10069,6 +10200,24 @@
   {
     "item": "Eye of Malice",
     "stats": "regenerate #% of life per second",
+    "average": 6.1,
+    "prices": [
+      1,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      10,
+      10,
+      10
+    ],
+    "search": {
+      "id": "LmdYYb5Fn",
+      "complexity": 18,
+      "total": 26
+    },
     "builds": 1,
     "mods": [
       {
@@ -10082,6 +10231,24 @@
   {
     "item": "Eye of Malice",
     "stats": "+# to level of socketed aoe gems",
+    "average": 6.4,
+    "prices": [
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      6,
+      8,
+      10,
+      10
+    ],
+    "search": {
+      "id": "YVozYvgIY",
+      "complexity": 18,
+      "total": 36
+    },
     "builds": 1,
     "mods": [
       {
@@ -10095,6 +10262,24 @@
   {
     "item": "Eye of Malice",
     "stats": "+# to maximum power charges",
+    "average": 170.76,
+    "prices": [
+      170.76,
+      170.76,
+      170.76,
+      170.76,
+      170.76,
+      170.76,
+      170.76,
+      170.76,
+      187.836,
+      204.91199999999998
+    ],
+    "search": {
+      "id": "Lmdj637un",
+      "complexity": 18,
+      "total": 22
+    },
     "builds": 1,
     "mods": [
       {
@@ -10108,6 +10293,23 @@
   {
     "item": "Perquil's Toe",
     "stats": "you can apply an additional curse",
+    "average": 136.535,
+    "prices": [
+      100,
+      100,
+      100,
+      100,
+      180,
+      170.76,
+      170.76,
+      170.76,
+      512.28
+    ],
+    "search": {
+      "id": "aboaB4aSe",
+      "complexity": 18,
+      "total": 9
+    },
     "builds": 1,
     "mods": [
       {
@@ -10908,6 +11110,19 @@
         "text": "+# to level of socketed aura gems",
         "trade_ids": [
           "implicit.stat_2452998583"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Rainbowstride",
+    "stats": "+# to level of socketed gems",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "+# to level of socketed gems",
+        "trade_ids": [
+          "implicit.stat_2843100721"
         ]
       }
     ]
