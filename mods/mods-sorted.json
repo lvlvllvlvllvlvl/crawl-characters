@@ -917,6 +917,61 @@
     ]
   },
   {
+    "item": "Oskarm",
+    "stats": "curse enemies with vulnerability on hit",
+    "average": 476.084,
+    "prices": [
+      340.06,
+      340.06,
+      340.06,
+      510.09000000000003,
+      510.09000000000003,
+      510.09000000000003,
+      510.09000000000003,
+      510.09000000000003,
+      595.105,
+      595.105
+    ],
+    "search": {
+      "id": "Ey658Gzh5",
+      "complexity": 18,
+      "total": 17
+    },
+    "builds": 3,
+    "mods": [
+      {
+        "text": "curse enemies with vulnerability on hit",
+        "trade_ids": [
+          "implicit.stat_3967845372"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Speaker's Wreath",
+    "stats": "+# to level of socketed minion gems",
+    "average": 850.15,
+    "prices": [
+      340.06,
+      850.15,
+      1360.24
+    ],
+    "search": {
+      "id": "Xq2oDnkTP",
+      "complexity": 18,
+      "total": 3
+    },
+    "builds": 3,
+    "mods": [
+      {
+        "text": "+# to level of socketed minion gems",
+        "trade_ids": [
+          "implicit.stat_3604946673"
+        ]
+      }
+    ]
+  },
+  {
     "item": "Doedre's Tenure",
     "stats": "curse enemies with elemental weakness on hit",
     "average": 106.502,
@@ -1734,6 +1789,37 @@
   },
   {
     "item": "Alpha's Howl",
+    "stats": "+# to maximum power charges",
+    "average": 125.804,
+    "prices": [
+      80,
+      80,
+      90,
+      100,
+      105,
+      120,
+      170.76,
+      170.76,
+      170.76,
+      170.76
+    ],
+    "search": {
+      "id": "lXjLVaVUV",
+      "complexity": 18,
+      "total": 18
+    },
+    "builds": 2,
+    "mods": [
+      {
+        "text": "+# to maximum power charges",
+        "trade_ids": [
+          "implicit.stat_227523295"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Alpha's Howl",
     "stats": "+# to level of socketed aura gems",
     "average": 377.8444444444445,
     "prices": [
@@ -1819,37 +1905,6 @@
     ]
   },
   {
-    "item": "Oskarm",
-    "stats": "curse enemies with vulnerability on hit",
-    "average": 476.084,
-    "prices": [
-      340.06,
-      340.06,
-      340.06,
-      510.09000000000003,
-      510.09000000000003,
-      510.09000000000003,
-      510.09000000000003,
-      510.09000000000003,
-      595.105,
-      595.105
-    ],
-    "search": {
-      "id": "Ey658Gzh5",
-      "complexity": 18,
-      "total": 17
-    },
-    "builds": 2,
-    "mods": [
-      {
-        "text": "curse enemies with vulnerability on hit",
-        "trade_ids": [
-          "implicit.stat_3967845372"
-        ]
-      }
-    ]
-  },
-  {
     "item": "Darkray Vectors",
     "stats": "+# to level of socketed gems",
     "average": 5.5,
@@ -1914,6 +1969,20 @@
   {
     "item": "Ancient Skull",
     "stats": "socketed skill gems get a #% cost & reservation multiplier",
+    "average": 683.04,
+    "prices": [
+      256.14,
+      256.14,
+      341.52,
+      683.04,
+      1195.32,
+      1366.08
+    ],
+    "search": {
+      "id": "9Y2Zr48UK",
+      "complexity": 18,
+      "total": 6
+    },
     "builds": 2,
     "mods": [
       {
@@ -1951,30 +2020,6 @@
         "text": "#% increased area of effect",
         "trade_ids": [
           "implicit.stat_280731498"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Speaker's Wreath",
-    "stats": "+# to level of socketed minion gems",
-    "average": 850.15,
-    "prices": [
-      340.06,
-      850.15,
-      1360.24
-    ],
-    "search": {
-      "id": "Xq2oDnkTP",
-      "complexity": 18,
-      "total": 3
-    },
-    "builds": 2,
-    "mods": [
-      {
-        "text": "+# to level of socketed minion gems",
-        "trade_ids": [
-          "implicit.stat_3604946673"
         ]
       }
     ]
@@ -2125,6 +2170,25 @@
         "text": "+# to level of socketed gems",
         "trade_ids": [
           "implicit.stat_2843100721"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Malachai's Loop",
+    "stats": "+# to level of socketed gems, #% of physical damage from hits taken as chaos damage",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "+# to level of socketed gems",
+        "trade_ids": [
+          "implicit.stat_2843100721"
+        ]
+      },
+      {
+        "text": "#% of physical damage from hits taken as chaos damage",
+        "trade_ids": [
+          "implicit.stat_4129825612"
         ]
       }
     ]
@@ -7273,6 +7337,24 @@
   {
     "item": "Viridi's Veil",
     "stats": "+# to level of socketed projectile gems",
+    "average": 93.104,
+    "prices": [
+      5,
+      12,
+      14,
+      33,
+      49,
+      135,
+      170.76,
+      170.76,
+      170.76,
+      170.76
+    ],
+    "search": {
+      "id": "MVDlgq6UJ",
+      "complexity": 18,
+      "total": 19
+    },
     "builds": 1,
     "mods": [
       {
@@ -7310,37 +7392,6 @@
         "text": "socketed skill gems get a #% cost & reservation multiplier",
         "trade_ids": [
           "implicit.stat_2865550257"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Alpha's Howl",
-    "stats": "+# to maximum power charges",
-    "average": 125.804,
-    "prices": [
-      80,
-      80,
-      90,
-      100,
-      105,
-      120,
-      170.76,
-      170.76,
-      170.76,
-      170.76
-    ],
-    "search": {
-      "id": "lXjLVaVUV",
-      "complexity": 18,
-      "total": 18
-    },
-    "builds": 1,
-    "mods": [
-      {
-        "text": "+# to maximum power charges",
-        "trade_ids": [
-          "implicit.stat_227523295"
         ]
       }
     ]
@@ -8240,6 +8291,13 @@
   {
     "item": "Unnatural Instinct",
     "stats": "#% increased global critical strike chance, #% reduced bleed duration on you",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "gX4ea72cQ",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -8259,6 +8317,13 @@
   {
     "item": "Unnatural Instinct",
     "stats": "damage penetrates #% elemental resistances, corrupted blood cannot be inflicted on you",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "rXj9DVMHQ",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -8278,6 +8343,13 @@
   {
     "item": "Leper's Alms",
     "stats": "#% of physical damage from hits taken as lightning damage, #% reduced damage taken from projectile hits",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "VMpJL9whp",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -8297,6 +8369,24 @@
   {
     "item": "Vixen's Entrapment",
     "stats": "+# to level of socketed aoe gems",
+    "average": 16.6,
+    "prices": [
+      9,
+      9,
+      10,
+      15,
+      19,
+      20,
+      20,
+      20,
+      20,
+      24
+    ],
+    "search": {
+      "id": "JVdkbvbhl",
+      "complexity": 18,
+      "total": 18
+    },
     "builds": 1,
     "mods": [
       {
@@ -8310,6 +8400,24 @@
   {
     "item": "Vixen's Entrapment",
     "stats": "#% increased cast speed",
+    "average": 70.452,
+    "prices": [
+      8,
+      25,
+      30,
+      50,
+      50,
+      50,
+      50,
+      100,
+      170.76,
+      170.76
+    ],
+    "search": {
+      "id": "PK7l22JCL",
+      "complexity": 18,
+      "total": 13
+    },
     "builds": 1,
     "mods": [
       {
@@ -8323,6 +8431,24 @@
   {
     "item": "Vixen's Entrapment",
     "stats": "+# to level of socketed gems",
+    "average": 16.444444444444443,
+    "prices": [
+      10,
+      10,
+      13,
+      15,
+      20,
+      20,
+      20,
+      20,
+      20,
+      29
+    ],
+    "search": {
+      "id": "bPZgddLTL",
+      "complexity": 18,
+      "total": 17
+    },
     "builds": 1,
     "mods": [
       {
@@ -8336,6 +8462,15 @@
   {
     "item": "Primordial Eminence",
     "stats": "corrupted blood cannot be inflicted on you",
+    "average": 683.04,
+    "prices": [
+      683.04
+    ],
+    "search": {
+      "id": "80ZJ5VZcV",
+      "complexity": 18,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -8349,6 +8484,13 @@
   {
     "item": "Thread of Hope",
     "stats": "damage penetrates #% fire resistance, you cannot be cursed with silence",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "kXlKda6I5",
+      "complexity": 30,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -8369,6 +8511,15 @@
   {
     "item": "Thread of Hope",
     "stats": "#% increased damage, #% increased reservation efficiency of skills",
+    "average": 88,
+    "prices": [
+      88
+    ],
+    "search": {
+      "id": "MVBnn6qUJ",
+      "complexity": 30,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -8389,6 +8540,13 @@
   {
     "item": "Thread of Hope",
     "stats": "damage penetrates #% cold resistance, damage penetrates #% lightning resistance",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "vlEwbeWtE",
+      "complexity": 31,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -8410,6 +8568,13 @@
   {
     "item": "Dissolution of the Flesh",
     "stats": "damage penetrates #% elemental resistances",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "vlqGP3BTE",
+      "complexity": 18,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -8423,6 +8588,23 @@
   {
     "item": "Hands of the High Templar",
     "stats": "+# to level of socketed gems, +# to level of socketed aoe gems",
+    "average": 756.2228571428572,
+    "prices": [
+      512.28,
+      512.28,
+      853.8,
+      853.8,
+      853.8,
+      853.8,
+      853.8,
+      3415.2,
+      6830.4
+    ],
+    "search": {
+      "id": "QVn0WyRCw",
+      "complexity": 29,
+      "total": 9
+    },
     "builds": 1,
     "mods": [
       {
@@ -8442,6 +8624,13 @@
   {
     "item": "Hands of the High Templar",
     "stats": "+# to level of socketed duration gems, +# to level of socketed projectile gems, +# to level of socketed curse gems",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "3BYjl0Js5",
+      "complexity": 20,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -8529,6 +8718,38 @@
         "text": "#% increased area of effect",
         "trade_ids": [
           "implicit.stat_280731498"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Corpsewalker",
+    "stats": "#% increased maximum energy shield, #% increased movement speed",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "#% increased maximum energy shield",
+        "trade_ids": [
+          "implicit.stat_2482852589"
+        ]
+      },
+      {
+        "text": "#% increased movement speed",
+        "trade_ids": [
+          "implicit.stat_2250533757"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Corpsewalker",
+    "stats": "+# to level of socketed aoe gems",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "+# to level of socketed aoe gems",
+        "trade_ids": [
+          "implicit.stat_2551600084"
         ]
       }
     ]
@@ -8940,6 +9161,103 @@
     ]
   },
   {
+    "item": "Severed in Sleep",
+    "stats": "#% increased attack speed",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "#% increased attack speed",
+        "trade_ids": [
+          "implicit.stat_681332047",
+          "implicit.stat_210067635"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Severed in Sleep",
+    "stats": "#% chance to gain onslaught for # seconds on kill",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "#% chance to gain onslaught for # seconds on kill",
+        "trade_ids": [
+          "implicit.stat_3023957681"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Severed in Sleep",
+    "stats": "#% increased physical damage",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "#% increased physical damage",
+        "trade_ids": [
+          "implicit.stat_1509134228"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Umbilicus Immortalis",
+    "stats": "#% increased strength, #% increased intelligence",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "#% increased strength",
+        "trade_ids": [
+          "implicit.stat_4139681126"
+        ]
+      },
+      {
+        "text": "#% increased intelligence",
+        "trade_ids": [
+          "implicit.stat_656461285"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Umbilicus Immortalis",
+    "stats": "#% increased strength, #% increased dexterity, +#% to all elemental resistances",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "#% increased strength",
+        "trade_ids": [
+          "implicit.stat_4139681126"
+        ]
+      },
+      {
+        "text": "#% increased dexterity",
+        "trade_ids": [
+          "implicit.stat_4139681126"
+        ]
+      },
+      {
+        "text": "+#% to all elemental resistances",
+        "trade_ids": [
+          "implicit.stat_2901986750"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Umbilicus Immortalis",
+    "stats": "#% increased maximum energy shield",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "#% increased maximum energy shield",
+        "trade_ids": [
+          "implicit.stat_2482852589"
+        ]
+      }
+    ]
+  },
+  {
     "item": "Saffell's Frame",
     "stats": "#% of physical damage from hits taken as chaos damage",
     "builds": 1,
@@ -9289,70 +9607,6 @@
         "text": "+# to level of socketed projectile gems",
         "trade_ids": [
           "implicit.stat_2176571093"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Severed in Sleep",
-    "stats": "#% chance to gain onslaught for # seconds on kill",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "#% chance to gain onslaught for # seconds on kill",
-        "trade_ids": [
-          "implicit.stat_3023957681"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Severed in Sleep",
-    "stats": "#% increased physical damage",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "#% increased physical damage",
-        "trade_ids": [
-          "implicit.stat_1509134228"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Umbilicus Immortalis",
-    "stats": "#% increased strength, #% increased dexterity, +#% to all elemental resistances",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "#% increased strength",
-        "trade_ids": [
-          "implicit.stat_4139681126"
-        ]
-      },
-      {
-        "text": "#% increased dexterity",
-        "trade_ids": [
-          "implicit.stat_4139681126"
-        ]
-      },
-      {
-        "text": "+#% to all elemental resistances",
-        "trade_ids": [
-          "implicit.stat_2901986750"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Umbilicus Immortalis",
-    "stats": "#% increased maximum energy shield",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "#% increased maximum energy shield",
-        "trade_ids": [
-          "implicit.stat_2482852589"
         ]
       }
     ]
@@ -10567,19 +10821,6 @@
         "text": "#% increased maximum life",
         "trade_ids": [
           "implicit.stat_983749596"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Corpsewalker",
-    "stats": "+# to level of socketed aoe gems",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "+# to level of socketed aoe gems",
-        "trade_ids": [
-          "implicit.stat_2551600084"
         ]
       }
     ]
