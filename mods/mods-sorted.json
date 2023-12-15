@@ -1,5 +1,36 @@
 [
   {
+    "item": "String of Servitude",
+    "stats": "hatred has #% increased aura effect",
+    "average": 7.7,
+    "prices": [
+      4,
+      4,
+      5,
+      7,
+      8,
+      9,
+      10,
+      10,
+      10,
+      10
+    ],
+    "search": {
+      "id": "OpJoQXOSE",
+      "complexity": 18,
+      "total": 51
+    },
+    "builds": 7,
+    "mods": [
+      {
+        "text": "hatred has #% increased aura effect",
+        "trade_ids": [
+          "implicit.stat_3742945352"
+        ]
+      }
+    ]
+  },
+  {
     "item": "Southbound",
     "stats": "+#% to spell critical strike chance",
     "average": 150.4226,
@@ -53,37 +84,6 @@
         "text": "+# to level of socketed aoe gems",
         "trade_ids": [
           "implicit.stat_2551600084"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "String of Servitude",
-    "stats": "hatred has #% increased aura effect",
-    "average": 7.7,
-    "prices": [
-      4,
-      4,
-      5,
-      7,
-      8,
-      9,
-      10,
-      10,
-      10,
-      10
-    ],
-    "search": {
-      "id": "OpJoQXOSE",
-      "complexity": 18,
-      "total": 51
-    },
-    "builds": 6,
-    "mods": [
-      {
-        "text": "hatred has #% increased aura effect",
-        "trade_ids": [
-          "implicit.stat_3742945352"
         ]
       }
     ]
@@ -382,6 +382,37 @@
         "text": "#% increased rarity of items found",
         "trade_ids": [
           "implicit.stat_3917489142"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Heatshiver",
+    "stats": "+# to maximum power charges",
+    "average": 1700.2999999999997,
+    "prices": [
+      1530.27,
+      1700.3,
+      1700.3,
+      1700.3,
+      1700.3,
+      1700.3,
+      1700.3,
+      1700.3,
+      1700.3,
+      1870.33
+    ],
+    "search": {
+      "id": "R24kzDqc7",
+      "complexity": 18,
+      "total": 16
+    },
+    "builds": 3,
+    "mods": [
+      {
+        "text": "+# to maximum power charges",
+        "trade_ids": [
+          "implicit.stat_227523295"
         ]
       }
     ]
@@ -804,37 +835,6 @@
         "text": "+# to level of socketed aoe gems",
         "trade_ids": [
           "implicit.stat_2551600084"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Heatshiver",
-    "stats": "+# to maximum power charges",
-    "average": 1700.2999999999997,
-    "prices": [
-      1530.27,
-      1700.3,
-      1700.3,
-      1700.3,
-      1700.3,
-      1700.3,
-      1700.3,
-      1700.3,
-      1700.3,
-      1870.33
-    ],
-    "search": {
-      "id": "R24kzDqc7",
-      "complexity": 18,
-      "total": 16
-    },
-    "builds": 2,
-    "mods": [
-      {
-        "text": "+# to maximum power charges",
-        "trade_ids": [
-          "implicit.stat_227523295"
         ]
       }
     ]
@@ -1594,6 +1594,24 @@
   {
     "item": "Black Sun Crest",
     "stats": "socketed skill gems get a #% cost & reservation multiplier",
+    "average": 12.5,
+    "prices": [
+      10,
+      10,
+      10,
+      10,
+      10,
+      10,
+      10,
+      15,
+      20,
+      20
+    ],
+    "search": {
+      "id": "Qr6G3Mpuw",
+      "complexity": 18,
+      "total": 81
+    },
     "builds": 2,
     "mods": [
       {
@@ -2586,6 +2604,25 @@
   },
   {
     "item": "Matua Tupuna",
+    "stats": "+# to level of socketed aura gems, #% reduced area damage taken from hits",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "+# to level of socketed aura gems",
+        "trade_ids": [
+          "implicit.stat_2452998583"
+        ]
+      },
+      {
+        "text": "#% reduced area damage taken from hits",
+        "trade_ids": [
+          "implicit.stat_3001376862"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Matua Tupuna",
     "stats": "#% increased maximum energy shield",
     "average": 6,
     "prices": [
@@ -3436,6 +3473,19 @@
         "text": "+# to level of socketed aoe gems",
         "trade_ids": [
           "implicit.stat_2551600084"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Shaper's Touch",
+    "stats": "+# to level of socketed gems",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "+# to level of socketed gems",
+        "trade_ids": [
+          "implicit.stat_2843100721"
         ]
       }
     ]
@@ -4617,6 +4667,24 @@
   {
     "item": "Asenath's Gentle Touch",
     "stats": "curse enemies with despair on hit",
+    "average": 1114.641111111111,
+    "prices": [
+      765.135,
+      850.15,
+      1020.1800000000001,
+      1020.1800000000001,
+      1105.195,
+      1190.21,
+      1190.21,
+      1360.24,
+      1530.27,
+      2040.3600000000001
+    ],
+    "search": {
+      "id": "XkOGbebuP",
+      "complexity": 18,
+      "total": 12
+    },
     "builds": 1,
     "mods": [
       {
@@ -8393,6 +8461,16 @@
   {
     "item": "The Supreme Truth",
     "stats": "adds # to # lightning damage",
+    "average": 135.015,
+    "prices": [
+      100,
+      170.03
+    ],
+    "search": {
+      "id": "EybrLryC5",
+      "complexity": 19,
+      "total": 2
+    },
     "builds": 1,
     "mods": [
       {
@@ -8407,6 +8485,16 @@
   {
     "item": "The Supreme Truth",
     "stats": "adds # to # fire damage",
+    "average": 20,
+    "prices": [
+      20,
+      20
+    ],
+    "search": {
+      "id": "EyRdbkYT5",
+      "complexity": 19,
+      "total": 2
+    },
     "builds": 1,
     "mods": [
       {
@@ -9128,6 +9216,32 @@
     ]
   },
   {
+    "item": "Void Battery",
+    "stats": "damage penetrates #% elemental resistances",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "damage penetrates #% elemental resistances",
+        "trade_ids": [
+          "implicit.stat_2101383955"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Replica Inya's Epiphany",
+    "stats": "+# to level of socketed gems",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "+# to level of socketed gems",
+        "trade_ids": [
+          "implicit.stat_2843100721"
+        ]
+      }
+    ]
+  },
+  {
     "item": "Rainbowstride",
     "stats": "+# to level of socketed duration gems",
     "average": 30,
@@ -9258,6 +9372,16 @@
   {
     "item": "Breathstealer",
     "stats": "+# to level of socketed gems",
+    "average": 1190.21,
+    "prices": [
+      680.12,
+      1700.3
+    ],
+    "search": {
+      "id": "WVWz0XZtm",
+      "complexity": 18,
+      "total": 2
+    },
     "builds": 1,
     "mods": [
       {
@@ -9271,6 +9395,13 @@
   {
     "item": "Coward's Legacy",
     "stats": "#% increased maximum life, zealotry has #% increased aura effect",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "LeW47p5tn",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -9290,6 +9421,19 @@
   {
     "item": "Fleshcrafter",
     "stats": "+# to level of socketed minion gems",
+    "average": 15541.86,
+    "prices": [
+      1700.3,
+      1700.3,
+      5100.9,
+      25504.5,
+      43703.3
+    ],
+    "search": {
+      "id": "4qnzvpvT9",
+      "complexity": 18,
+      "total": 5
+    },
     "builds": 1,
     "mods": [
       {
@@ -9303,6 +9447,23 @@
   {
     "item": "Replica Dragonfang's Flight",
     "stats": "you can apply an additional curse",
+    "average": 363.81,
+    "prices": [
+      90,
+      100,
+      170.03,
+      170.03,
+      340.06,
+      340.06,
+      850.15,
+      850.15,
+      1700.3
+    ],
+    "search": {
+      "id": "no9rlYyH0",
+      "complexity": 18,
+      "total": 9
+    },
     "builds": 1,
     "mods": [
       {
@@ -9316,6 +9477,13 @@
   {
     "item": "Karui Ward",
     "stats": "#% increased movement speed, you can apply an additional curse",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "JV4yb55Il",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -9348,6 +9516,13 @@
   {
     "item": "Seven-League Step",
     "stats": "+# to level of socketed aura gems, #% increased maximum life",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "YVEoYy6UY",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -9367,6 +9542,24 @@
   {
     "item": "Snakebite",
     "stats": "curse enemies with temporal chains on hit",
+    "average": 73.9,
+    "prices": [
+      50,
+      55,
+      60,
+      60,
+      70,
+      80,
+      80,
+      89,
+      95,
+      100
+    ],
+    "search": {
+      "id": "PK7gj0ZCL",
+      "complexity": 18,
+      "total": 28
+    },
     "builds": 1,
     "mods": [
       {
@@ -9380,6 +9573,24 @@
   {
     "item": "Darkscorn",
     "stats": "+#% to global critical strike multiplier",
+    "average": 5,
+    "prices": [
+      1,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5
+    ],
+    "search": {
+      "id": "mXjqZ8wt6",
+      "complexity": 18,
+      "total": 294
+    },
     "builds": 1,
     "mods": [
       {
@@ -9393,6 +9604,24 @@
   {
     "item": "Carcass Jack",
     "stats": "+# to level of socketed trap or mine gems",
+    "average": 22.125,
+    "prices": [
+      5,
+      10,
+      10,
+      10,
+      25,
+      35,
+      40,
+      42,
+      170.03,
+      170.03
+    ],
+    "search": {
+      "id": "XqbmDMWTP",
+      "complexity": 18,
+      "total": 19
+    },
     "builds": 1,
     "mods": [
       {
@@ -9406,6 +9635,17 @@
   {
     "item": "Winterweave",
     "stats": "hatred has #% increased aura effect",
+    "average": 356.7266666666667,
+    "prices": [
+      50,
+      170.03,
+      850.15
+    ],
+    "search": {
+      "id": "Ey6zz5zc5",
+      "complexity": 18,
+      "total": 3
+    },
     "builds": 1,
     "mods": [
       {
@@ -9419,6 +9659,15 @@
   {
     "item": "Hyrri's Ire",
     "stats": "+# to level of socketed minion gems",
+    "average": 1156.204,
+    "prices": [
+      1156.204
+    ],
+    "search": {
+      "id": "qXlZDzvTg",
+      "complexity": 18,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
