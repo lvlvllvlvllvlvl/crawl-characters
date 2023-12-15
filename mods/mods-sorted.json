@@ -513,6 +513,37 @@
     ]
   },
   {
+    "item": "String of Servitude",
+    "stats": "wrath has #% increased aura effect",
+    "average": 3.1,
+    "prices": [
+      1,
+      1,
+      3,
+      3,
+      3,
+      3,
+      4,
+      4,
+      4,
+      5
+    ],
+    "search": {
+      "id": "GZyglgohb",
+      "complexity": 18,
+      "total": 55
+    },
+    "builds": 2,
+    "mods": [
+      {
+        "text": "wrath has #% increased aura effect",
+        "trade_ids": [
+          "implicit.stat_2181791238"
+        ]
+      }
+    ]
+  },
+  {
     "item": "Sadima's Touch",
     "stats": "curse enemies with elemental weakness on hit",
     "average": 14.4,
@@ -723,6 +754,19 @@
         "text": "#% increased maximum life",
         "trade_ids": [
           "implicit.stat_983749596"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Ancestral Vision",
+    "stats": "corrupted blood cannot be inflicted on you",
+    "builds": 2,
+    "mods": [
+      {
+        "text": "corrupted blood cannot be inflicted on you",
+        "trade_ids": [
+          "implicit.stat_1658498488"
         ]
       }
     ]
@@ -988,6 +1032,24 @@
   {
     "item": "Ephemeral Edge",
     "stats": "#% increased area of effect",
+    "average": 108.48799999999999,
+    "prices": [
+      3,
+      15,
+      20,
+      30,
+      169.48,
+      169.48,
+      169.48,
+      169.48,
+      169.48,
+      169.48
+    ],
+    "search": {
+      "id": "vlP9onDSE",
+      "complexity": 18,
+      "total": 14
+    },
     "builds": 2,
     "mods": [
       {
@@ -1293,6 +1355,19 @@
         "text": "#% additional physical damage reduction while stationary",
         "trade_ids": [
           "implicit.stat_2181129193"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "The Fourth Vow",
+    "stats": "+# to level of socketed projectile gems",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "+# to level of socketed projectile gems",
+        "trade_ids": [
+          "implicit.stat_2176571093"
         ]
       }
     ]
@@ -1781,6 +1856,19 @@
     ]
   },
   {
+    "item": "Heatshiver",
+    "stats": "+# to level of socketed aura gems",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "+# to level of socketed aura gems",
+        "trade_ids": [
+          "implicit.stat_2452998583"
+        ]
+      }
+    ]
+  },
+  {
     "item": "Watcher's Eye",
     "stats": "#% reduced effect of chill on you",
     "average": 3099.305,
@@ -2177,37 +2265,6 @@
   },
   {
     "item": "String of Servitude",
-    "stats": "wrath has #% increased aura effect",
-    "average": 3.1,
-    "prices": [
-      1,
-      1,
-      3,
-      3,
-      3,
-      3,
-      4,
-      4,
-      4,
-      5
-    ],
-    "search": {
-      "id": "GZyglgohb",
-      "complexity": 18,
-      "total": 55
-    },
-    "builds": 1,
-    "mods": [
-      {
-        "text": "wrath has #% increased aura effect",
-        "trade_ids": [
-          "implicit.stat_2181791238"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "String of Servitude",
     "stats": "#% increased maximum energy shield, hatred has #% increased aura effect",
     "average": null,
     "prices": [],
@@ -2354,6 +2411,24 @@
   {
     "item": "Greed's Embrace",
     "stats": "+# to level of socketed warcry gems",
+    "average": 12.5,
+    "prices": [
+      1,
+      2,
+      5,
+      7,
+      10,
+      15,
+      15,
+      20,
+      25,
+      25
+    ],
+    "search": {
+      "id": "YVqMX5kUY",
+      "complexity": 18,
+      "total": 38
+    },
     "builds": 1,
     "mods": [
       {
@@ -2625,6 +2700,16 @@
   {
     "item": "Aurseize",
     "stats": "curse enemies with elemental weakness on hit",
+    "average": 26.5,
+    "prices": [
+      13,
+      40
+    ],
+    "search": {
+      "id": "waPLQLRSb",
+      "complexity": 18,
+      "total": 2
+    },
     "builds": 1,
     "mods": [
       {
@@ -2638,6 +2723,24 @@
   {
     "item": "Hrimsorrow",
     "stats": "+# to maximum frenzy charges",
+    "average": 46.333333333333336,
+    "prices": [
+      35,
+      40,
+      40,
+      42,
+      45,
+      50,
+      50,
+      55,
+      60,
+      70
+    ],
+    "search": {
+      "id": "XqDE6QRuP",
+      "complexity": 18,
+      "total": 27
+    },
     "builds": 1,
     "mods": [
       {
@@ -2651,6 +2754,23 @@
   {
     "item": "Kaom's Heart",
     "stats": "#% increased maximum life",
+    "average": 724.9977777777777,
+    "prices": [
+      169.48,
+      338.96,
+      508.43999999999994,
+      508.43999999999994,
+      508.43999999999994,
+      847.4,
+      1101.62,
+      1186.36,
+      1355.84
+    ],
+    "search": {
+      "id": "K9gPY8gt5",
+      "complexity": 18,
+      "total": 9
+    },
     "builds": 1,
     "mods": [
       {
@@ -2662,8 +2782,71 @@
     ]
   },
   {
+    "item": "Lethal Pride",
+    "stats": "#% reduced effect of curses on you, #% reduced bleed duration on you",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "#% reduced effect of curses on you",
+        "trade_ids": [
+          "implicit.stat_3407849389"
+        ]
+      },
+      {
+        "text": "#% reduced bleed duration on you",
+        "trade_ids": [
+          "implicit.stat_1692879867"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Ancestral Vision",
+    "stats": "you cannot be cursed with silence",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "you cannot be cursed with silence",
+        "trade_ids": [
+          "implicit.stat_1654414582"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Ancestral Vision",
+    "stats": "#% increased damage",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "#% increased damage",
+        "trade_ids": [
+          "implicit.stat_2154246560"
+        ]
+      }
+    ]
+  },
+  {
     "item": "Null and Void",
     "stats": "+# to maximum frenzy charges",
+    "average": 17.3,
+    "prices": [
+      4,
+      5,
+      5,
+      10,
+      10,
+      15,
+      18,
+      25,
+      40,
+      41
+    ],
+    "search": {
+      "id": "PdaZZ9GhL",
+      "complexity": 18,
+      "total": 20
+    },
     "builds": 1,
     "mods": [
       {
@@ -2677,6 +2860,13 @@
   {
     "item": "Asenath's Gentle Touch",
     "stats": "#% increased attack speed, curse enemies with enfeeble on hit",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "5okjk8Dia",
+      "complexity": 30,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -2697,6 +2887,13 @@
   {
     "item": "Asenath's Gentle Touch",
     "stats": "+# to level of socketed warcry gems, #% increased attack speed",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "5odkd22Sa",
+      "complexity": 30,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -2717,6 +2914,13 @@
   {
     "item": "Asenath's Gentle Touch",
     "stats": "#% increased attack speed, #% increased cast speed",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "y9RLrPguR",
+      "complexity": 30,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -2737,6 +2941,13 @@
   {
     "item": "Asenath's Gentle Touch",
     "stats": "+# to level of socketed aura gems, #% increased cast speed",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "9Y2KZKOIK",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -2756,6 +2967,16 @@
   {
     "item": "Asenath's Gentle Touch",
     "stats": "+# to level of socketed trap or mine gems, curse enemies with vulnerability on hit",
+    "average": 114.74,
+    "prices": [
+      60,
+      169.48
+    ],
+    "search": {
+      "id": "mXgb3lrT6",
+      "complexity": 29,
+      "total": 2
+    },
     "builds": 1,
     "mods": [
       {
@@ -2775,6 +2996,15 @@
   {
     "item": "Asenath's Gentle Touch",
     "stats": "+# to level of socketed minion gems, attacks have +#% to critical strike chance",
+    "average": 60,
+    "prices": [
+      60
+    ],
+    "search": {
+      "id": "VMpPDK2tp",
+      "complexity": 29,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -2794,6 +3024,16 @@
   {
     "item": "Anathema",
     "stats": "adds # to # lightning damage to spells and attacks",
+    "average": 124.74,
+    "prices": [
+      80,
+      169.48
+    ],
+    "search": {
+      "id": "0B8O6p8Fg",
+      "complexity": 18,
+      "total": 2
+    },
     "builds": 1,
     "mods": [
       {
@@ -2807,6 +3047,17 @@
   {
     "item": "Anathema",
     "stats": "+#% to all elemental resistances",
+    "average": 1073.3733333333332,
+    "prices": [
+      677.92,
+      1186.36,
+      1355.84
+    ],
+    "search": {
+      "id": "jXjMMPXSX",
+      "complexity": 18,
+      "total": 3
+    },
     "builds": 1,
     "mods": [
       {
@@ -2820,6 +3071,13 @@
   {
     "item": "Anathema",
     "stats": "bleeding cannot be inflicted on you",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "rY5MGMECQ",
+      "complexity": 18,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -3278,6 +3536,31 @@
         "text": "determination has #% increased aura effect",
         "trade_ids": [
           "implicit.stat_3653400807"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "The Torrent's Reclamation",
+    "stats": "#% increased strength, #% increased dexterity, malevolence has #% increased aura effect",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "#% increased strength",
+        "trade_ids": [
+          "implicit.stat_4139681126"
+        ]
+      },
+      {
+        "text": "#% increased dexterity",
+        "trade_ids": [
+          "implicit.stat_4139681126"
+        ]
+      },
+      {
+        "text": "malevolence has #% increased aura effect",
+        "trade_ids": [
+          "implicit.stat_4175197580"
         ]
       }
     ]
@@ -4435,6 +4718,25 @@
     ]
   },
   {
+    "item": "March of the Legion",
+    "stats": "+# to level of socketed aoe gems, +# to level of socketed projectile gems",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "+# to level of socketed aoe gems",
+        "trade_ids": [
+          "implicit.stat_2551600084"
+        ]
+      },
+      {
+        "text": "+# to level of socketed projectile gems",
+        "trade_ids": [
+          "implicit.stat_2176571093"
+        ]
+      }
+    ]
+  },
+  {
     "item": "Legacy of Fury",
     "stats": "+# to maximum endurance charges",
     "builds": 1,
@@ -4578,6 +4880,19 @@
         "text": "regenerate #% of life per second",
         "trade_ids": [
           "implicit.stat_836936635"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Eye of Malice",
+    "stats": "+# to level of socketed aoe gems",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "+# to level of socketed aoe gems",
+        "trade_ids": [
+          "implicit.stat_2551600084"
         ]
       }
     ]
@@ -4831,45 +5146,6 @@
     ]
   },
   {
-    "item": "Ancestral Vision",
-    "stats": "you cannot be cursed with silence",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "you cannot be cursed with silence",
-        "trade_ids": [
-          "implicit.stat_1654414582"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Ancestral Vision",
-    "stats": "#% increased damage",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "#% increased damage",
-        "trade_ids": [
-          "implicit.stat_2154246560"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Ancestral Vision",
-    "stats": "corrupted blood cannot be inflicted on you",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "corrupted blood cannot be inflicted on you",
-        "trade_ids": [
-          "implicit.stat_1658498488"
-        ]
-      }
-    ]
-  },
-  {
     "item": "Grip of the Council",
     "stats": "+# to level of socketed gems",
     "builds": 1,
@@ -5110,6 +5386,25 @@
         "text": "#% increased cast speed during any flask effect",
         "trade_ids": [
           "implicit.stat_252194507"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Mageblood",
+    "stats": "#% increased maximum life, #% increased area of effect",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "#% increased maximum life",
+        "trade_ids": [
+          "implicit.stat_983749596"
+        ]
+      },
+      {
+        "text": "#% increased area of effect",
+        "trade_ids": [
+          "implicit.stat_280731498"
         ]
       }
     ]
