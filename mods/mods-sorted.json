@@ -1030,6 +1030,37 @@
     ]
   },
   {
+    "item": "Oskarm",
+    "stats": "curse enemies with vulnerability on hit",
+    "average": 614.19725,
+    "prices": [
+      170.02,
+      510.06000000000006,
+      510.06000000000006,
+      578.068,
+      595.07,
+      680.08,
+      680.08,
+      680.08,
+      680.08,
+      2550.3
+    ],
+    "search": {
+      "id": "Ey658Gzh5",
+      "complexity": 18,
+      "total": 10
+    },
+    "builds": 2,
+    "mods": [
+      {
+        "text": "curse enemies with vulnerability on hit",
+        "trade_ids": [
+          "implicit.stat_3967845372"
+        ]
+      }
+    ]
+  },
+  {
     "item": "Darkray Vectors",
     "stats": "+# to level of socketed gems",
     "average": 8.7,
@@ -2810,6 +2841,19 @@
         "text": "#% increased quantity of items found",
         "trade_ids": [
           "implicit.stat_884586851"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "String of Servitude",
+    "stats": "+#% to all elemental resistances",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "+#% to all elemental resistances",
+        "trade_ids": [
+          "implicit.stat_2901986750"
         ]
       }
     ]
@@ -5034,38 +5078,25 @@
   },
   {
     "item": "Oskarm",
-    "stats": "curse enemies with vulnerability on hit",
-    "average": 614.19725,
+    "stats": "attacks have +#% to critical strike chance",
+    "average": 23,
     "prices": [
-      170.02,
-      510.06000000000006,
-      510.06000000000006,
-      578.068,
-      595.07,
-      680.08,
-      680.08,
-      680.08,
-      680.08,
-      2550.3
+      10,
+      15,
+      17,
+      20,
+      20,
+      25,
+      30,
+      30,
+      30,
+      33
     ],
     "search": {
-      "id": "Ey658Gzh5",
+      "id": "rXpPWX7CQ",
       "complexity": 18,
-      "total": 10
+      "total": 35
     },
-    "builds": 1,
-    "mods": [
-      {
-        "text": "curse enemies with vulnerability on hit",
-        "trade_ids": [
-          "implicit.stat_3967845372"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Oskarm",
-    "stats": "attacks have +#% to critical strike chance",
     "builds": 1,
     "mods": [
       {
@@ -5079,6 +5110,16 @@
   {
     "item": "Oskarm",
     "stats": "+# to level of socketed trap or mine gems, curse enemies with vulnerability on hit",
+    "average": 1615.19,
+    "prices": [
+      680.08,
+      2550.3
+    ],
+    "search": {
+      "id": "WVrvPVDum",
+      "complexity": 29,
+      "total": 2
+    },
     "builds": 1,
     "mods": [
       {
@@ -5098,6 +5139,19 @@
   {
     "item": "Redblade Banner",
     "stats": "you take #% reduced extra damage from critical strikes",
+    "average": 1700.2,
+    "prices": [
+      680.08,
+      1020.1200000000001,
+      2550.3,
+      2550.3,
+      10201.2
+    ],
+    "search": {
+      "id": "BEJKXnjC8",
+      "complexity": 18,
+      "total": 5
+    },
     "builds": 1,
     "mods": [
       {
@@ -5111,6 +5165,13 @@
   {
     "item": "Lightning Coil",
     "stats": "+# to level of socketed aoe gems, +# to level of socketed projectile gems",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "zeBjrpvH4",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -5130,6 +5191,24 @@
   {
     "item": "Lightning Coil",
     "stats": "#% additional physical damage reduction while stationary",
+    "average": 13.4,
+    "prices": [
+      5,
+      5,
+      9,
+      10,
+      10,
+      10,
+      20,
+      20,
+      20,
+      25
+    ],
+    "search": {
+      "id": "6ZBDYWkFG",
+      "complexity": 18,
+      "total": 20
+    },
     "builds": 1,
     "mods": [
       {
@@ -5143,6 +5222,24 @@
   {
     "item": "Lightning Coil",
     "stats": "+# to level of socketed aoe gems",
+    "average": 43.22222222222222,
+    "prices": [
+      30,
+      35,
+      39,
+      40,
+      40,
+      45,
+      45,
+      45,
+      50,
+      50
+    ],
+    "search": {
+      "id": "YD0Dv96UY",
+      "complexity": 18,
+      "total": 39
+    },
     "builds": 1,
     "mods": [
       {
@@ -5156,6 +5253,13 @@
   {
     "item": "Lightning Coil",
     "stats": "#% increased damage, #% reduced lightning damage taken",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "XqDYal7CP",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -5175,6 +5279,24 @@
   {
     "item": "Lightning Coil",
     "stats": "#% increased damage",
+    "average": 75,
+    "prices": [
+      45,
+      50,
+      50,
+      60,
+      80,
+      90,
+      100,
+      100,
+      100,
+      170.02
+    ],
+    "search": {
+      "id": "DGEGlVVc5",
+      "complexity": 18,
+      "total": 29
+    },
     "builds": 1,
     "mods": [
       {
@@ -5188,6 +5310,24 @@
   {
     "item": "Lightning Coil",
     "stats": "+# to level of socketed minion gems",
+    "average": 794.8435000000001,
+    "prices": [
+      595.07,
+      680.08,
+      680.08,
+      833.0980000000001,
+      850.1,
+      850.1,
+      850.1,
+      1020.1200000000001,
+      1700.2,
+      1700.2
+    ],
+    "search": {
+      "id": "8aprQ3VTV",
+      "complexity": 18,
+      "total": 17
+    },
     "builds": 1,
     "mods": [
       {
@@ -5201,6 +5341,24 @@
   {
     "item": "Lightning Coil",
     "stats": "+#% to all maximum resistances",
+    "average": 21,
+    "prices": [
+      10,
+      15,
+      15,
+      20,
+      20,
+      20,
+      25,
+      25,
+      30,
+      30
+    ],
+    "search": {
+      "id": "80Z0zlZcV",
+      "complexity": 18,
+      "total": 22
+    },
     "builds": 1,
     "mods": [
       {
@@ -5214,6 +5372,15 @@
   {
     "item": "The Magnate",
     "stats": "+#% to critical strike multiplier during any flask effect",
+    "average": 340.04,
+    "prices": [
+      340.04
+    ],
+    "search": {
+      "id": "y9RWXZ8IR",
+      "complexity": 18,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -5227,6 +5394,23 @@
   {
     "item": "Abyssus",
     "stats": "+# to maximum power charges",
+    "average": 118.58142857142856,
+    "prices": [
+      55,
+      80,
+      100,
+      85.01,
+      170.02,
+      170.02,
+      170.02,
+      255.03000000000003,
+      2040.2400000000002
+    ],
+    "search": {
+      "id": "aqeEGJ7se",
+      "complexity": 18,
+      "total": 9
+    },
     "builds": 1,
     "mods": [
       {
@@ -5240,6 +5424,18 @@
   {
     "item": "Voidforge",
     "stats": "#% increased elemental damage with attack skills",
+    "average": 3230.3800000000006,
+    "prices": [
+      2890.34,
+      3060.36,
+      3230.38,
+      3740.44
+    ],
+    "search": {
+      "id": "rXmE2XmfQ",
+      "complexity": 18,
+      "total": 4
+    },
     "builds": 1,
     "mods": [
       {
@@ -5253,6 +5449,21 @@
   {
     "item": "Ceinture of Benevolence",
     "stats": "#% increased maximum energy shield",
+    "average": 155.85000000000002,
+    "prices": [
+      5,
+      80,
+      170.02,
+      170.02,
+      170.02,
+      340.04,
+      680.08
+    ],
+    "search": {
+      "id": "XkOX59dCP",
+      "complexity": 18,
+      "total": 7
+    },
     "builds": 1,
     "mods": [
       {
@@ -5266,6 +5477,24 @@
   {
     "item": "Ceinture of Benevolence",
     "stats": "#% increased dexterity, #% increased intelligence",
+    "average": 28.75,
+    "prices": [
+      5,
+      15,
+      23,
+      24,
+      30,
+      40,
+      43,
+      50,
+      170.02,
+      170.02
+    ],
+    "search": {
+      "id": "z27GVXRI4",
+      "complexity": 29,
+      "total": 11
+    },
     "builds": 1,
     "mods": [
       {
@@ -5760,6 +5989,19 @@
         "text": "#% increased effect of non-damaging ailments",
         "trade_ids": [
           "implicit.stat_782230869"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "The Untouched Soul",
+    "stats": "#% increased rarity of items found",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "#% increased rarity of items found",
+        "trade_ids": [
+          "implicit.stat_3917489142"
         ]
       }
     ]
