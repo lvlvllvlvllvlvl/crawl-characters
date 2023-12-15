@@ -511,6 +511,37 @@
     ]
   },
   {
+    "item": "Goldwyrm",
+    "stats": "regenerate # life per second while moving",
+    "average": 4.2,
+    "prices": [
+      3,
+      3,
+      3,
+      3,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5
+    ],
+    "search": {
+      "id": "qay7pV3hg",
+      "complexity": 18,
+      "total": 58
+    },
+    "builds": 3,
+    "mods": [
+      {
+        "text": "regenerate # life per second while moving",
+        "trade_ids": [
+          "implicit.stat_2841027131"
+        ]
+      }
+    ]
+  },
+  {
     "item": "Soul Mantle",
     "stats": "+# to level of socketed projectile gems",
     "average": 208.1655,
@@ -910,37 +941,6 @@
     ]
   },
   {
-    "item": "Goldwyrm",
-    "stats": "regenerate # life per second while moving",
-    "average": 4.2,
-    "prices": [
-      3,
-      3,
-      3,
-      3,
-      5,
-      5,
-      5,
-      5,
-      5,
-      5
-    ],
-    "search": {
-      "id": "qay7pV3hg",
-      "complexity": 18,
-      "total": 58
-    },
-    "builds": 2,
-    "mods": [
-      {
-        "text": "regenerate # life per second while moving",
-        "trade_ids": [
-          "implicit.stat_2841027131"
-        ]
-      }
-    ]
-  },
-  {
     "item": "The Annihilating Light",
     "stats": "#% increased cast speed",
     "average": 152.68666666666664,
@@ -1310,6 +1310,37 @@
         "text": "#% of physical damage from hits taken as fire damage",
         "trade_ids": [
           "implicit.stat_3342989455"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Eyes of the Greatwolf",
+    "stats": "#% increased quantity of items found",
+    "average": 145.771,
+    "prices": [
+      80,
+      80,
+      111,
+      169.53,
+      169.53,
+      169.53,
+      169.53,
+      169.53,
+      169.53,
+      169.53
+    ],
+    "search": {
+      "id": "ZPQr9XbfQ",
+      "complexity": 18,
+      "total": 148
+    },
+    "builds": 2,
+    "mods": [
+      {
+        "text": "#% increased quantity of items found",
+        "trade_ids": [
+          "implicit.stat_884586851"
         ]
       }
     ]
@@ -3663,6 +3694,20 @@
     ]
   },
   {
+    "item": "Sadima's Touch",
+    "stats": "#% increased attack speed",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "#% increased attack speed",
+        "trade_ids": [
+          "implicit.stat_681332047",
+          "implicit.stat_210067635"
+        ]
+      }
+    ]
+  },
+  {
     "item": "Goldwyrm",
     "stats": "+# to level of socketed curse gems",
     "average": 4.4,
@@ -5342,37 +5387,6 @@
     ]
   },
   {
-    "item": "Eyes of the Greatwolf",
-    "stats": "#% increased quantity of items found",
-    "average": 145.771,
-    "prices": [
-      80,
-      80,
-      111,
-      169.53,
-      169.53,
-      169.53,
-      169.53,
-      169.53,
-      169.53,
-      169.53
-    ],
-    "search": {
-      "id": "ZPQr9XbfQ",
-      "complexity": 18,
-      "total": 148
-    },
-    "builds": 1,
-    "mods": [
-      {
-        "text": "#% increased quantity of items found",
-        "trade_ids": [
-          "implicit.stat_884586851"
-        ]
-      }
-    ]
-  },
-  {
     "item": "Headhunter",
     "stats": "#% increased movement speed during any flask effect, #% increased critical strike chance during any flask effect",
     "average": null,
@@ -6780,6 +6794,113 @@
     ]
   },
   {
+    "item": "Mageblood",
+    "stats": "#% increased maximum life, grace has #% increased aura effect",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "#% increased maximum life",
+        "trade_ids": [
+          "implicit.stat_983749596"
+        ]
+      },
+      {
+        "text": "grace has #% increased aura effect",
+        "trade_ids": [
+          "implicit.stat_397427740"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Mageblood",
+    "stats": "#% increased maximum energy shield, #% increased cast speed during any flask effect",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "#% increased maximum energy shield",
+        "trade_ids": [
+          "implicit.stat_2482852589"
+        ]
+      },
+      {
+        "text": "#% increased cast speed during any flask effect",
+        "trade_ids": [
+          "implicit.stat_252194507"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Mageblood",
+    "stats": "#% increased dexterity, #% increased intelligence, malevolence has #% increased aura effect",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "#% increased dexterity",
+        "trade_ids": [
+          "implicit.stat_4139681126"
+        ]
+      },
+      {
+        "text": "#% increased intelligence",
+        "trade_ids": [
+          "implicit.stat_656461285"
+        ]
+      },
+      {
+        "text": "malevolence has #% increased aura effect",
+        "trade_ids": [
+          "implicit.stat_4175197580"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Mageblood",
+    "stats": "#% increased strength, #% increased dexterity, #% increased skill effect duration",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "#% increased strength",
+        "trade_ids": [
+          "implicit.stat_4139681126"
+        ]
+      },
+      {
+        "text": "#% increased dexterity",
+        "trade_ids": [
+          "implicit.stat_4139681126"
+        ]
+      },
+      {
+        "text": "#% increased skill effect duration",
+        "trade_ids": [
+          "implicit.stat_3377888098"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Mageblood",
+    "stats": "#% increased maximum life, #% increased area of effect",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "#% increased maximum life",
+        "trade_ids": [
+          "implicit.stat_983749596"
+        ]
+      },
+      {
+        "text": "#% increased area of effect",
+        "trade_ids": [
+          "implicit.stat_280731498"
+        ]
+      }
+    ]
+  },
+  {
     "item": "The Untouched Soul",
     "stats": "#% increased rarity of items found",
     "average": 4.7,
@@ -7588,6 +7709,24 @@
   {
     "item": "Doedre's Damning",
     "stats": "bleeding cannot be inflicted on you",
+    "average": 51.714285714285715,
+    "prices": [
+      30,
+      45,
+      47,
+      50,
+      50,
+      50,
+      60,
+      60,
+      170.47,
+      170.47
+    ],
+    "search": {
+      "id": "aqe6VnKue",
+      "complexity": 18,
+      "total": 10
+    },
     "builds": 1,
     "mods": [
       {
@@ -7601,6 +7740,13 @@
   {
     "item": "Windscream",
     "stats": "+# to level of socketed gems, +# to level of socketed minion gems",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "5o5MOmoua",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -7620,6 +7766,16 @@
   {
     "item": "Utula's Hunger",
     "stats": "#% increased maximum life",
+    "average": 451.175,
+    "prices": [
+      50,
+      852.35
+    ],
+    "search": {
+      "id": "9YKk2wYFK",
+      "complexity": 18,
+      "total": 2
+    },
     "builds": 1,
     "mods": [
       {
@@ -7633,6 +7789,15 @@
   {
     "item": "Prismweave",
     "stats": "grace has #% increased aura effect, +#% to critical strike multiplier during any flask effect",
+    "average": 511.40999999999997,
+    "prices": [
+      511.40999999999997
+    ],
+    "search": {
+      "id": "ze5WBkgT4",
+      "complexity": 29,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -7652,6 +7817,24 @@
   {
     "item": "Severed in Sleep",
     "stats": "#% chance to gain onslaught for # seconds on kill",
+    "average": 34,
+    "prices": [
+      14,
+      15,
+      18,
+      20,
+      30,
+      44,
+      49,
+      50,
+      50,
+      50
+    ],
+    "search": {
+      "id": "GkdLwRZHb",
+      "complexity": 18,
+      "total": 18
+    },
     "builds": 1,
     "mods": [
       {
@@ -7665,6 +7848,15 @@
   {
     "item": "Speaker's Wreath",
     "stats": "+# to level of socketed minion gems",
+    "average": 852.35,
+    "prices": [
+      852.35
+    ],
+    "search": {
+      "id": "Xq2oDnkTP",
+      "complexity": 18,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -7678,6 +7870,13 @@
   {
     "item": "Umbilicus Immortalis",
     "stats": "#% increased strength, #% increased dexterity, +#% to all elemental resistances",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "GkJ5moZcb",
+      "complexity": 20,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -7703,6 +7902,13 @@
   {
     "item": "Sandstorm Visage",
     "stats": "+# to level of socketed minion gems, +# to level of socketed trap or mine gems",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "MVZ3BELsJ",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -7722,6 +7928,24 @@
   {
     "item": "Doedre's Tenure",
     "stats": "curse enemies with elemental weakness on hit",
+    "average": 118.08800000000001,
+    "prices": [
+      29,
+      70,
+      70,
+      80,
+      100,
+      150,
+      170.47,
+      170.47,
+      170.47,
+      170.47
+    ],
+    "search": {
+      "id": "MVDz5PGiJ",
+      "complexity": 18,
+      "total": 17
+    },
     "builds": 1,
     "mods": [
       {
@@ -7735,6 +7959,23 @@
   {
     "item": "Mind of the Council",
     "stats": "+# to maximum power charges",
+    "average": 93.43777777777778,
+    "prices": [
+      50,
+      50,
+      70,
+      70,
+      70,
+      90,
+      100,
+      170.47,
+      170.47
+    ],
+    "search": {
+      "id": "Ey6gq3VS5",
+      "complexity": 18,
+      "total": 9
+    },
     "builds": 1,
     "mods": [
       {
@@ -7748,6 +7989,18 @@
   {
     "item": "Dawnbreaker",
     "stats": "+#% chance to block",
+    "average": 176.72,
+    "prices": [
+      25,
+      170.47,
+      170.47,
+      340.94
+    ],
+    "search": {
+      "id": "5okJQ8dia",
+      "complexity": 18,
+      "total": 4
+    },
     "builds": 1,
     "mods": [
       {
@@ -7761,6 +8014,15 @@
   {
     "item": "Ylfeban's Trickery",
     "stats": "+# to maximum power charges",
+    "average": 170.47,
+    "prices": [
+      170.47
+    ],
+    "search": {
+      "id": "bXRmpQGTL",
+      "complexity": 18,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -7774,6 +8036,13 @@
   {
     "item": "Ylfeban's Trickery",
     "stats": "+# to level of socketed projectile gems, +# to maximum power charges",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "VM3VEXatp",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -7793,6 +8062,13 @@
   {
     "item": "Doomfletch",
     "stats": "socketed gems are supported by level # momentum, socketed gems are supported by level # faster projectiles",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "2Bam9vjhk",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -7812,6 +8088,24 @@
   {
     "item": "Doomfletch",
     "stats": "#% increased elemental damage with attack skills",
+    "average": 2,
+    "prices": [
+      1,
+      1,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2
+    ],
+    "search": {
+      "id": "Eyd2PQKc5",
+      "complexity": 18,
+      "total": 319
+    },
     "builds": 1,
     "mods": [
       {
@@ -7954,6 +8248,109 @@
     ]
   },
   {
+    "item": "Ventor's Gamble",
+    "stats": "#% increased rarity of items found",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "#% increased rarity of items found",
+        "trade_ids": [
+          "implicit.stat_3917489142"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Ventor's Gamble",
+    "stats": "bleeding cannot be inflicted on you",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "bleeding cannot be inflicted on you",
+        "trade_ids": [
+          "implicit.stat_1901158930"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Perandus Blazon",
+    "stats": "#% increased rarity of items found, #% increased critical strike chance during any flask effect",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "#% increased rarity of items found",
+        "trade_ids": [
+          "implicit.stat_3917489142"
+        ]
+      },
+      {
+        "text": "#% increased critical strike chance during any flask effect",
+        "trade_ids": [
+          "implicit.stat_2898434123"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Perandus Blazon",
+    "stats": "#% increased rarity of items found, zealotry has #% increased aura effect",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "#% increased rarity of items found",
+        "trade_ids": [
+          "implicit.stat_3917489142"
+        ]
+      },
+      {
+        "text": "zealotry has #% increased aura effect",
+        "trade_ids": [
+          "implicit.stat_4096052153"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Sentari's Answer",
+    "stats": "#% increased maximum life",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "#% increased maximum life",
+        "trade_ids": [
+          "implicit.stat_983749596"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Sentari's Answer",
+    "stats": "#% of physical damage from hits taken as fire damage",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "#% of physical damage from hits taken as fire damage",
+        "trade_ids": [
+          "implicit.stat_3342989455"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Sentari's Answer",
+    "stats": "you take #% reduced extra damage from critical strikes",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "you take #% reduced extra damage from critical strikes",
+        "trade_ids": [
+          "implicit.stat_3855016469"
+        ]
+      }
+    ]
+  },
+  {
     "item": "Voidwalker",
     "stats": "+# to maximum endurance charges",
     "builds": 1,
@@ -8078,120 +8475,6 @@
         "text": "#% of physical damage from hits taken as fire damage",
         "trade_ids": [
           "implicit.stat_3342989455"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Mageblood",
-    "stats": "#% increased maximum energy shield, #% increased cast speed during any flask effect",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "#% increased maximum energy shield",
-        "trade_ids": [
-          "implicit.stat_2482852589"
-        ]
-      },
-      {
-        "text": "#% increased cast speed during any flask effect",
-        "trade_ids": [
-          "implicit.stat_252194507"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Mageblood",
-    "stats": "#% increased dexterity, #% increased intelligence, malevolence has #% increased aura effect",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "#% increased dexterity",
-        "trade_ids": [
-          "implicit.stat_4139681126"
-        ]
-      },
-      {
-        "text": "#% increased intelligence",
-        "trade_ids": [
-          "implicit.stat_656461285"
-        ]
-      },
-      {
-        "text": "malevolence has #% increased aura effect",
-        "trade_ids": [
-          "implicit.stat_4175197580"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Mageblood",
-    "stats": "#% increased strength, #% increased dexterity, #% increased skill effect duration",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "#% increased strength",
-        "trade_ids": [
-          "implicit.stat_4139681126"
-        ]
-      },
-      {
-        "text": "#% increased dexterity",
-        "trade_ids": [
-          "implicit.stat_4139681126"
-        ]
-      },
-      {
-        "text": "#% increased skill effect duration",
-        "trade_ids": [
-          "implicit.stat_3377888098"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Mageblood",
-    "stats": "#% increased maximum life, #% increased area of effect",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "#% increased maximum life",
-        "trade_ids": [
-          "implicit.stat_983749596"
-        ]
-      },
-      {
-        "text": "#% increased area of effect",
-        "trade_ids": [
-          "implicit.stat_280731498"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Sentari's Answer",
-    "stats": "#% of physical damage from hits taken as fire damage",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "#% of physical damage from hits taken as fire damage",
-        "trade_ids": [
-          "implicit.stat_3342989455"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Sentari's Answer",
-    "stats": "you take #% reduced extra damage from critical strikes",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "you take #% reduced extra damage from critical strikes",
-        "trade_ids": [
-          "implicit.stat_3855016469"
         ]
       }
     ]
@@ -8716,19 +8999,6 @@
     ]
   },
   {
-    "item": "Ventor's Gamble",
-    "stats": "bleeding cannot be inflicted on you",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "bleeding cannot be inflicted on you",
-        "trade_ids": [
-          "implicit.stat_1901158930"
-        ]
-      }
-    ]
-  },
-  {
     "item": "Hrimnor's Resolve",
     "stats": "socketed skill gems get a #% cost & reservation multiplier, #% increased maximum life",
     "builds": 1,
@@ -8782,25 +9052,6 @@
         "text": "socketed gems are supported by level # momentum",
         "trade_ids": [
           "implicit.stat_3237923082"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Perandus Blazon",
-    "stats": "#% increased rarity of items found, zealotry has #% increased aura effect",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "#% increased rarity of items found",
-        "trade_ids": [
-          "implicit.stat_3917489142"
-        ]
-      },
-      {
-        "text": "zealotry has #% increased aura effect",
-        "trade_ids": [
-          "implicit.stat_4096052153"
         ]
       }
     ]
