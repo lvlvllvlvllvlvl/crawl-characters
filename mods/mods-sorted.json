@@ -1571,6 +1571,37 @@
     ]
   },
   {
+    "item": "Sadima's Touch",
+    "stats": "#% increased maximum energy shield",
+    "average": 3.6,
+    "prices": [
+      1,
+      1,
+      2,
+      2,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5
+    ],
+    "search": {
+      "id": "PdDK4Y7iL",
+      "complexity": 18,
+      "total": 38
+    },
+    "builds": 2,
+    "mods": [
+      {
+        "text": "#% increased maximum energy shield",
+        "trade_ids": [
+          "implicit.stat_2482852589"
+        ]
+      }
+    ]
+  },
+  {
     "item": "Goldwyrm",
     "stats": "#% increased maximum energy shield",
     "average": 3.6,
@@ -2190,6 +2221,24 @@
   {
     "item": "Ceinture of Benevolence",
     "stats": "#% increased strength, #% increased intelligence",
+    "average": 10.222222222222221,
+    "prices": [
+      2,
+      2,
+      5,
+      10,
+      10,
+      10,
+      10,
+      20,
+      23,
+      30
+    ],
+    "search": {
+      "id": "z27GVXRI4",
+      "complexity": 29,
+      "total": 23
+    },
     "builds": 2,
     "mods": [
       {
@@ -2503,6 +2552,13 @@
   {
     "item": "Malachai's Loop",
     "stats": "#% increased maximum life, #% reduced area damage taken from hits",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "jXymWWLTX",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -2633,6 +2689,23 @@
   {
     "item": "Dialla's Malefaction",
     "stats": "+# to level of socketed gems",
+    "average": 5468.3279999999995,
+    "prices": [
+      4299,
+      5158.8,
+      5158.8,
+      5502.72,
+      5502.72,
+      6018.6,
+      6878.400000000001,
+      15476.400000000001,
+      94697.26
+    ],
+    "search": {
+      "id": "waPQeqdUb",
+      "complexity": 18,
+      "total": 9
+    },
     "builds": 1,
     "mods": [
       {
@@ -5545,37 +5618,6 @@
     ]
   },
   {
-    "item": "Sadima's Touch",
-    "stats": "#% increased maximum energy shield",
-    "average": 3.6,
-    "prices": [
-      1,
-      1,
-      2,
-      2,
-      5,
-      5,
-      5,
-      5,
-      5,
-      5
-    ],
-    "search": {
-      "id": "PdDK4Y7iL",
-      "complexity": 18,
-      "total": 38
-    },
-    "builds": 1,
-    "mods": [
-      {
-        "text": "#% increased maximum energy shield",
-        "trade_ids": [
-          "implicit.stat_2482852589"
-        ]
-      }
-    ]
-  },
-  {
     "item": "Goldwyrm",
     "stats": "grants level # haste skill",
     "average": 4.75,
@@ -5772,6 +5814,24 @@
   {
     "item": "March of the Legion",
     "stats": "+# to level of socketed trap or mine gems",
+    "average": 9.6,
+    "prices": [
+      5,
+      5,
+      5,
+      6,
+      10,
+      10,
+      10,
+      15,
+      15,
+      15
+    ],
+    "search": {
+      "id": "DL497bvC5",
+      "complexity": 18,
+      "total": 52
+    },
     "builds": 1,
     "mods": [
       {
@@ -5785,6 +5845,24 @@
   {
     "item": "March of the Legion",
     "stats": "+# to level of socketed projectile gems",
+    "average": 7.1,
+    "prices": [
+      4,
+      5,
+      5,
+      5,
+      5,
+      7,
+      10,
+      10,
+      10,
+      10
+    ],
+    "search": {
+      "id": "rXjkzWgCQ",
+      "complexity": 18,
+      "total": 62
+    },
     "builds": 1,
     "mods": [
       {
@@ -5798,6 +5876,16 @@
   {
     "item": "March of the Legion",
     "stats": "+# to level of socketed aoe gems, +# to level of socketed aura gems",
+    "average": 15476.400000000001,
+    "prices": [
+      15476.400000000001,
+      15476.400000000001
+    ],
+    "search": {
+      "id": "eXW9nbWFL",
+      "complexity": 29,
+      "total": 2
+    },
     "builds": 1,
     "mods": [
       {
@@ -5817,6 +5905,13 @@
   {
     "item": "March of the Legion",
     "stats": "+# to level of socketed projectile gems, +# to level of socketed aura gems",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "bXpqEozHL",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -5836,6 +5931,17 @@
   {
     "item": "March of the Legion",
     "stats": "+# to level of socketed aoe gems, +# to level of socketed projectile gems",
+    "average": 2522.08,
+    "prices": [
+      1547.64,
+      2579.4,
+      3439.2000000000003
+    ],
+    "search": {
+      "id": "VMKlbvwhp",
+      "complexity": 29,
+      "total": 3
+    },
     "builds": 1,
     "mods": [
       {
@@ -5855,6 +5961,13 @@
   {
     "item": "Vaal Caress",
     "stats": "+# to level of socketed duration gems, +# to level of socketed aura gems",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "yrJ0p7rhR",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -5874,6 +5987,24 @@
   {
     "item": "Vaal Caress",
     "stats": "+# to level of socketed gems",
+    "average": 71.1,
+    "prices": [
+      45,
+      50,
+      55,
+      61,
+      70,
+      70,
+      80,
+      90,
+      90,
+      100
+    ],
+    "search": {
+      "id": "abo0rZRue",
+      "complexity": 18,
+      "total": 19
+    },
     "builds": 1,
     "mods": [
       {
@@ -5887,6 +6018,24 @@
   {
     "item": "Hyrri's Truth",
     "stats": "#% increased movement speed",
+    "average": 12.222222222222221,
+    "prices": [
+      5,
+      10,
+      10,
+      10,
+      10,
+      12,
+      14,
+      14,
+      15,
+      15
+    ],
+    "search": {
+      "id": "y9E6RWBhR",
+      "complexity": 18,
+      "total": 47
+    },
     "builds": 1,
     "mods": [
       {
@@ -5900,6 +6049,24 @@
   {
     "item": "Hyrri's Truth",
     "stats": "+#% to all elemental resistances",
+    "average": 50,
+    "prices": [
+      30,
+      35,
+      40,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      55
+    ],
+    "search": {
+      "id": "gXJ32daFQ",
+      "complexity": 18,
+      "total": 52
+    },
     "builds": 1,
     "mods": [
       {
@@ -5913,6 +6080,24 @@
   {
     "item": "Rat's Nest",
     "stats": "socketed skill gems get a #% cost & reservation multiplier",
+    "average": 23.444444444444443,
+    "prices": [
+      9,
+      10,
+      10,
+      12,
+      15,
+      20,
+      40,
+      45,
+      50,
+      75
+    ],
+    "search": {
+      "id": "6ZDz0ZkcG",
+      "complexity": 18,
+      "total": 25
+    },
     "builds": 1,
     "mods": [
       {
@@ -5926,6 +6111,22 @@
   {
     "item": "Aurseize",
     "stats": "curse enemies with elemental weakness on hit",
+    "average": 17,
+    "prices": [
+      10,
+      15,
+      20,
+      20,
+      20,
+      40,
+      60,
+      90
+    ],
+    "search": {
+      "id": "waPLQLRSb",
+      "complexity": 18,
+      "total": 8
+    },
     "builds": 1,
     "mods": [
       {
@@ -5939,6 +6140,15 @@
   {
     "item": "The Torrent's Reclamation",
     "stats": "#% increased strength, #% increased dexterity, #% increased skill effect duration",
+    "average": 601.86,
+    "prices": [
+      601.86
+    ],
+    "search": {
+      "id": "6ZpE6n2iG",
+      "complexity": 20,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -7910,6 +8120,25 @@
   },
   {
     "item": "Perandus Blazon",
+    "stats": "#% increased maximum energy shield, #% increased movement speed during any flask effect",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "#% increased maximum energy shield",
+        "trade_ids": [
+          "implicit.stat_2482852589"
+        ]
+      },
+      {
+        "text": "#% increased movement speed during any flask effect",
+        "trade_ids": [
+          "implicit.stat_304970526"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Perandus Blazon",
     "stats": "#% increased rarity of items found, zealotry has #% increased aura effect",
     "builds": 1,
     "mods": [
@@ -8626,6 +8855,19 @@
         "text": "+# to level of socketed gems",
         "trade_ids": [
           "implicit.stat_2843100721"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Cloak of Flame",
+    "stats": "+# to level of socketed trap or mine gems",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "+# to level of socketed trap or mine gems",
+        "trade_ids": [
+          "implicit.stat_150668988"
         ]
       }
     ]
