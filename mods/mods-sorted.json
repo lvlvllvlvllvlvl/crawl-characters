@@ -1202,6 +1202,37 @@
     ]
   },
   {
+    "item": "Bisco's Leash",
+    "stats": "#% increased rarity of items found",
+    "average": 470.9831000000001,
+    "prices": [
+      391.06899999999996,
+      425.075,
+      425.075,
+      425.075,
+      493.087,
+      510.09000000000003,
+      510.09000000000003,
+      510.09000000000003,
+      510.09000000000003,
+      510.09000000000003
+    ],
+    "search": {
+      "id": "XqDqJw7fP",
+      "complexity": 18,
+      "total": 32
+    },
+    "builds": 2,
+    "mods": [
+      {
+        "text": "#% increased rarity of items found",
+        "trade_ids": [
+          "implicit.stat_3917489142"
+        ]
+      }
+    ]
+  },
+  {
     "item": "Asenath's Gentle Touch",
     "stats": "+# to level of socketed trap or mine gems, curse enemies with vulnerability on hit",
     "average": 114.74,
@@ -1506,6 +1537,28 @@
         "text": "#% increased area of effect",
         "trade_ids": [
           "implicit.stat_280731498"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Speaker's Wreath",
+    "stats": "+# to level of socketed minion gems",
+    "average": 852.35,
+    "prices": [
+      852.35
+    ],
+    "search": {
+      "id": "Xq2oDnkTP",
+      "complexity": 18,
+      "total": 1
+    },
+    "builds": 2,
+    "mods": [
+      {
+        "text": "+# to level of socketed minion gems",
+        "trade_ids": [
+          "implicit.stat_3604946673"
         ]
       }
     ]
@@ -4316,6 +4369,15 @@
   {
     "item": "Cherrubim's Maleficence",
     "stats": "+# to level of socketed gems, +# to level of socketed aoe gems",
+    "average": 5781.700000000001,
+    "prices": [
+      5781.700000000001
+    ],
+    "search": {
+      "id": "BGrm5KLf8",
+      "complexity": 29,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -4328,6 +4390,59 @@
         "text": "+# to level of socketed aoe gems",
         "trade_ids": [
           "implicit.stat_2551600084"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Bisco's Leash",
+    "stats": "#% increased rarity of items found, discipline has #% increased aura effect",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "3BZbrBkF5",
+      "complexity": 29,
+      "total": 0
+    },
+    "builds": 1,
+    "mods": [
+      {
+        "text": "#% increased rarity of items found",
+        "trade_ids": [
+          "implicit.stat_3917489142"
+        ]
+      },
+      {
+        "text": "discipline has #% increased aura effect",
+        "trade_ids": [
+          "implicit.stat_788317702"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Bisco's Leash",
+    "stats": "#% increased quantity of items found",
+    "average": 3995.7050000000004,
+    "prices": [
+      1530.27,
+      1700.3,
+      4845.8550000000005,
+      5440.96,
+      6461.14,
+      43297.27
+    ],
+    "search": {
+      "id": "80ZXWR2UV",
+      "complexity": 18,
+      "total": 6
+    },
+    "builds": 1,
+    "mods": [
+      {
+        "text": "#% increased quantity of items found",
+        "trade_ids": [
+          "implicit.stat_884586851"
         ]
       }
     ]
@@ -4543,6 +4658,15 @@
   {
     "item": "Asenath's Gentle Touch",
     "stats": "+# to level of socketed aoe gems, curse enemies with vulnerability on hit",
+    "average": 170.05,
+    "prices": [
+      170.05
+    ],
+    "search": {
+      "id": "GkJjeOBUb",
+      "complexity": 29,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -6197,6 +6321,19 @@
   {
     "item": "The Magnate",
     "stats": "+#% to all elemental resistances",
+    "average": 571.368,
+    "prices": [
+      510.15000000000003,
+      510.15000000000003,
+      510.15000000000003,
+      646.19,
+      680.2
+    ],
+    "search": {
+      "id": "mXjMRMeT6",
+      "complexity": 18,
+      "total": 5
+    },
     "builds": 1,
     "mods": [
       {
@@ -6792,90 +6929,6 @@
     ]
   },
   {
-    "item": "Bisco's Leash",
-    "stats": "#% increased rarity of items found, discipline has #% increased aura effect",
-    "average": null,
-    "prices": [],
-    "search": {
-      "id": "3BZbrBkF5",
-      "complexity": 29,
-      "total": 0
-    },
-    "builds": 1,
-    "mods": [
-      {
-        "text": "#% increased rarity of items found",
-        "trade_ids": [
-          "implicit.stat_3917489142"
-        ]
-      },
-      {
-        "text": "discipline has #% increased aura effect",
-        "trade_ids": [
-          "implicit.stat_788317702"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Bisco's Leash",
-    "stats": "#% increased rarity of items found",
-    "average": 470.9831000000001,
-    "prices": [
-      391.06899999999996,
-      425.075,
-      425.075,
-      425.075,
-      493.087,
-      510.09000000000003,
-      510.09000000000003,
-      510.09000000000003,
-      510.09000000000003,
-      510.09000000000003
-    ],
-    "search": {
-      "id": "XqDqJw7fP",
-      "complexity": 18,
-      "total": 32
-    },
-    "builds": 1,
-    "mods": [
-      {
-        "text": "#% increased rarity of items found",
-        "trade_ids": [
-          "implicit.stat_3917489142"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Bisco's Leash",
-    "stats": "#% increased quantity of items found",
-    "average": 3995.7050000000004,
-    "prices": [
-      1530.27,
-      1700.3,
-      4845.8550000000005,
-      5440.96,
-      6461.14,
-      43297.27
-    ],
-    "search": {
-      "id": "80ZXWR2UV",
-      "complexity": 18,
-      "total": 6
-    },
-    "builds": 1,
-    "mods": [
-      {
-        "text": "#% increased quantity of items found",
-        "trade_ids": [
-          "implicit.stat_884586851"
-        ]
-      }
-    ]
-  },
-  {
     "item": "Might of the Meek",
     "stats": "#% increased effect of non-damaging ailments",
     "average": 15,
@@ -6926,6 +6979,19 @@
         "text": "zealotry has #% increased aura effect",
         "trade_ids": [
           "implicit.stat_4096052153"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Arn's Anguish",
+    "stats": "#% increased movement speed during any flask effect",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "#% increased movement speed during any flask effect",
+        "trade_ids": [
+          "implicit.stat_304970526"
         ]
       }
     ]
@@ -7996,23 +8062,14 @@
     ]
   },
   {
-    "item": "Speaker's Wreath",
-    "stats": "+# to level of socketed minion gems",
-    "average": 852.35,
-    "prices": [
-      852.35
-    ],
-    "search": {
-      "id": "Xq2oDnkTP",
-      "complexity": 18,
-      "total": 1
-    },
+    "item": "Severed in Sleep",
+    "stats": "#% increased physical damage",
     "builds": 1,
     "mods": [
       {
-        "text": "+# to level of socketed minion gems",
+        "text": "#% increased physical damage",
         "trade_ids": [
-          "implicit.stat_3604946673"
+          "implicit.stat_1509134228"
         ]
       }
     ]
@@ -8045,6 +8102,19 @@
         "text": "+#% to all elemental resistances",
         "trade_ids": [
           "implicit.stat_2901986750"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Umbilicus Immortalis",
+    "stats": "#% increased maximum energy shield",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "#% increased maximum energy shield",
+        "trade_ids": [
+          "implicit.stat_2482852589"
         ]
       }
     ]
@@ -8900,6 +8970,17 @@
   {
     "item": "Lioneye's Fall",
     "stats": "corrupted blood cannot be inflicted on you",
+    "average": 1530.45,
+    "prices": [
+      1360.4,
+      1530.45,
+      1700.5
+    ],
+    "search": {
+      "id": "EG8yMgKs5",
+      "complexity": 18,
+      "total": 3
+    },
     "builds": 1,
     "mods": [
       {
@@ -8913,6 +8994,18 @@
   {
     "item": "Aegis Aurora",
     "stats": "+# to level of socketed gems",
+    "average": 888.5112500000001,
+    "prices": [
+      510.15000000000003,
+      680.2,
+      1003.2950000000001,
+      1360.4
+    ],
+    "search": {
+      "id": "80Z8EzGsV",
+      "complexity": 18,
+      "total": 4
+    },
     "builds": 1,
     "mods": [
       {
@@ -8926,6 +9019,22 @@
   {
     "item": "Aegis Aurora",
     "stats": "#% of physical damage from hits taken as fire damage",
+    "average": 170.05,
+    "prices": [
+      170.05,
+      170.05,
+      170.05,
+      170.05,
+      204.06,
+      340.1,
+      510.15000000000003,
+      850.25
+    ],
+    "search": {
+      "id": "lXjXX7kcV",
+      "complexity": 18,
+      "total": 8
+    },
     "builds": 1,
     "mods": [
       {
@@ -8939,6 +9048,13 @@
   {
     "item": "Indigon",
     "stats": "+# to maximum power charges",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "jXJ9MZbHX",
+      "complexity": 18,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -8952,6 +9068,13 @@
   {
     "item": "Atziri's Foible",
     "stats": "you can apply an additional curse",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "dX4J9ObcJ",
+      "complexity": 18,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -8965,6 +9088,15 @@
   {
     "item": "Cloak of Defiance",
     "stats": "#% increased damage",
+    "average": 110,
+    "prices": [
+      110
+    ],
+    "search": {
+      "id": "3GwWVB0I5",
+      "complexity": 18,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -8978,6 +9110,13 @@
   {
     "item": "Dance of the Offered",
     "stats": "+# to level of socketed gems",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "GkdRWoWCb",
+      "complexity": 18,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -8991,6 +9130,15 @@
   {
     "item": "Rainbowstride",
     "stats": "+# to level of socketed duration gems",
+    "average": 30,
+    "prices": [
+      30
+    ],
+    "search": {
+      "id": "BEymZ6aI8",
+      "complexity": 18,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -9004,6 +9152,23 @@
   {
     "item": "Rainbowstride",
     "stats": "+# to level of socketed aura gems",
+    "average": 26.666666666666668,
+    "prices": [
+      20,
+      25,
+      25,
+      30,
+      30,
+      30,
+      50,
+      80,
+      170.05
+    ],
+    "search": {
+      "id": "RVBMBPZh7",
+      "complexity": 18,
+      "total": 9
+    },
     "builds": 1,
     "mods": [
       {
@@ -9017,6 +9182,17 @@
   {
     "item": "Intuitive Leap",
     "stats": "#% increased reservation efficiency of skills",
+    "average": 821.9083333333334,
+    "prices": [
+      340.1,
+      1020.3000000000001,
+      1105.325
+    ],
+    "search": {
+      "id": "dPajBpOIJ",
+      "complexity": 19,
+      "total": 3
+    },
     "builds": 1,
     "mods": [
       {
@@ -9031,6 +9207,24 @@
   {
     "item": "Tanu Ahi",
     "stats": "attacks have +#% to critical strike chance",
+    "average": 329.47187499999995,
+    "prices": [
+      170.05,
+      255.07500000000002,
+      306.09000000000003,
+      306.09000000000003,
+      323.095,
+      340.1,
+      340.1,
+      340.1,
+      340.1,
+      340.1
+    ],
+    "search": {
+      "id": "nXJBg42T0",
+      "complexity": 18,
+      "total": 18
+    },
     "builds": 1,
     "mods": [
       {
@@ -9044,6 +9238,13 @@
   {
     "item": "Breathstealer",
     "stats": "+# to level of socketed aoe gems",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "2BaPbYjIk",
+      "complexity": 18,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -9127,6 +9328,19 @@
         "text": "you can apply an additional curse",
         "trade_ids": [
           "implicit.stat_30642521"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Fairgraves' Tricorne",
+    "stats": "#% increased area of effect",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "#% increased area of effect",
+        "trade_ids": [
+          "implicit.stat_280731498"
         ]
       }
     ]
