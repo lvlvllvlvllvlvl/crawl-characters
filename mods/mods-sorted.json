@@ -147,6 +147,37 @@
     ]
   },
   {
+    "item": "Eber's Unification",
+    "stats": "+# to maximum power charges",
+    "average": 255.51000000000002,
+    "prices": [
+      170.34,
+      170.34,
+      170.34,
+      170.34,
+      255.51,
+      340.68,
+      340.68,
+      340.68,
+      340.68,
+      511.02
+    ],
+    "search": {
+      "id": "jXjBMnXSX",
+      "complexity": 18,
+      "total": 10
+    },
+    "builds": 6,
+    "mods": [
+      {
+        "text": "+# to maximum power charges",
+        "trade_ids": [
+          "implicit.stat_227523295"
+        ]
+      }
+    ]
+  },
+  {
     "item": "Heatshiver",
     "stats": "socketed skill gems get a #% cost & reservation multiplier",
     "average": 340.68,
@@ -235,37 +266,6 @@
         "text": "+# to level of socketed duration gems",
         "trade_ids": [
           "implicit.stat_2115168758"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Eber's Unification",
-    "stats": "+# to maximum power charges",
-    "average": 255.51000000000002,
-    "prices": [
-      170.34,
-      170.34,
-      170.34,
-      170.34,
-      255.51,
-      340.68,
-      340.68,
-      340.68,
-      340.68,
-      511.02
-    ],
-    "search": {
-      "id": "jXjBMnXSX",
-      "complexity": 18,
-      "total": 10
-    },
-    "builds": 5,
-    "mods": [
-      {
-        "text": "+# to maximum power charges",
-        "trade_ids": [
-          "implicit.stat_227523295"
         ]
       }
     ]
@@ -698,6 +698,37 @@
         "text": "+# to level of socketed aoe gems",
         "trade_ids": [
           "implicit.stat_2551600084"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Kaom's Heart",
+    "stats": "#% increased damage",
+    "average": 340.94,
+    "prices": [
+      170.47,
+      323.893,
+      340.94,
+      340.94,
+      340.94,
+      340.94,
+      340.94,
+      340.94,
+      340.94,
+      340.94
+    ],
+    "search": {
+      "id": "PK7ayEgtL",
+      "complexity": 18,
+      "total": 18
+    },
+    "builds": 3,
+    "mods": [
+      {
+        "text": "#% increased damage",
+        "trade_ids": [
+          "implicit.stat_2154246560"
         ]
       }
     ]
@@ -1317,37 +1348,6 @@
     ]
   },
   {
-    "item": "Kaom's Heart",
-    "stats": "#% increased damage",
-    "average": 340.94,
-    "prices": [
-      170.47,
-      323.893,
-      340.94,
-      340.94,
-      340.94,
-      340.94,
-      340.94,
-      340.94,
-      340.94,
-      340.94
-    ],
-    "search": {
-      "id": "PK7ayEgtL",
-      "complexity": 18,
-      "total": 18
-    },
-    "builds": 2,
-    "mods": [
-      {
-        "text": "#% increased damage",
-        "trade_ids": [
-          "implicit.stat_2154246560"
-        ]
-      }
-    ]
-  },
-  {
     "item": "Ancestral Vision",
     "stats": "corrupted blood cannot be inflicted on you",
     "average": 6392.625,
@@ -1373,6 +1373,24 @@
   {
     "item": "Bisco's Leash",
     "stats": "#% increased rarity of items found",
+    "average": 502.80300000000005,
+    "prices": [
+      391.06899999999996,
+      391.06899999999996,
+      476.08399999999995,
+      493.087,
+      493.087,
+      493.087,
+      510.09000000000003,
+      510.09000000000003,
+      510.09000000000003,
+      510.09000000000003
+    ],
+    "search": {
+      "id": "XqDqJw7fP",
+      "complexity": 18,
+      "total": 48
+    },
     "builds": 2,
     "mods": [
       {
@@ -1386,6 +1404,15 @@
   {
     "item": "Asenath's Gentle Touch",
     "stats": "+# to level of socketed trap or mine gems, curse enemies with vulnerability on hit",
+    "average": 60,
+    "prices": [
+      60
+    ],
+    "search": {
+      "id": "mXgb3lrT6",
+      "complexity": 29,
+      "total": 1
+    },
     "builds": 2,
     "mods": [
       {
@@ -1405,6 +1432,24 @@
   {
     "item": "Kaom's Spirit",
     "stats": "+# to maximum frenzy charges",
+    "average": 154.015,
+    "prices": [
+      130,
+      140,
+      140,
+      140,
+      140,
+      170.03,
+      170.03,
+      170.03,
+      170.03,
+      170.03
+    ],
+    "search": {
+      "id": "VyB7zXgIp",
+      "complexity": 18,
+      "total": 28
+    },
     "builds": 2,
     "mods": [
       {
@@ -1418,6 +1463,24 @@
   {
     "item": "Prism Guardian",
     "stats": "+# to level of socketed gems",
+    "average": 170.03,
+    "prices": [
+      130,
+      136.024,
+      170.03,
+      170.03,
+      170.03,
+      170.03,
+      170.03,
+      170.03,
+      170.03,
+      170.03
+    ],
+    "search": {
+      "id": "gPemZjjsQ",
+      "complexity": 18,
+      "total": 16
+    },
     "builds": 2,
     "mods": [
       {
@@ -1431,6 +1494,17 @@
   {
     "item": "Prism Guardian",
     "stats": "+# to level of socketed aoe gems",
+    "average": 578.102,
+    "prices": [
+      578.102,
+      578.102,
+      850.15
+    ],
+    "search": {
+      "id": "XkO48P4IP",
+      "complexity": 18,
+      "total": 3
+    },
     "builds": 2,
     "mods": [
       {
@@ -1444,6 +1518,24 @@
   {
     "item": "Prism Guardian",
     "stats": "#% of physical damage from hits taken as fire damage",
+    "average": 53.111111111111114,
+    "prices": [
+      35,
+      35,
+      40,
+      49,
+      50,
+      60,
+      69,
+      70,
+      70,
+      90
+    ],
+    "search": {
+      "id": "WVpJWBVfm",
+      "complexity": 18,
+      "total": 11
+    },
     "builds": 2,
     "mods": [
       {
@@ -1457,6 +1549,24 @@
   {
     "item": "Eyes of the Greatwolf",
     "stats": "#% increased quantity of items found",
+    "average": 170.03,
+    "prices": [
+      130,
+      153.02700000000002,
+      170.03,
+      170.03,
+      170.03,
+      170.03,
+      170.03,
+      170.03,
+      170.03,
+      170.03
+    ],
+    "search": {
+      "id": "ZPQr9XbfQ",
+      "complexity": 18,
+      "total": 201
+    },
     "builds": 2,
     "mods": [
       {
@@ -1483,6 +1593,22 @@
   {
     "item": "Alpha's Howl",
     "stats": "+# to level of socketed aoe gems",
+    "average": 243.46800000000002,
+    "prices": [
+      140,
+      170.03,
+      204.036,
+      255.04500000000002,
+      255.04500000000002,
+      340.06,
+      340.06,
+      510.09000000000003
+    ],
+    "search": {
+      "id": "plL93DwS0",
+      "complexity": 18,
+      "total": 8
+    },
     "builds": 2,
     "mods": [
       {
@@ -1496,6 +1622,19 @@
   {
     "item": "Fractal Thoughts",
     "stats": "socketed skill gems get a #% cost & reservation multiplier",
+    "average": 1156.204,
+    "prices": [
+      1020.1800000000001,
+      1020.1800000000001,
+      1020.1800000000001,
+      1360.24,
+      1360.24
+    ],
+    "search": {
+      "id": "4drd57Mt9",
+      "complexity": 18,
+      "total": 5
+    },
     "builds": 2,
     "mods": [
       {
@@ -1509,6 +1648,24 @@
   {
     "item": "Oskarm",
     "stats": "curse enemies with vulnerability on hit",
+    "average": 476.084,
+    "prices": [
+      340.06,
+      340.06,
+      340.06,
+      510.09000000000003,
+      510.09000000000003,
+      510.09000000000003,
+      510.09000000000003,
+      510.09000000000003,
+      595.105,
+      595.105
+    ],
+    "search": {
+      "id": "Ey658Gzh5",
+      "complexity": 18,
+      "total": 17
+    },
     "builds": 2,
     "mods": [
       {
@@ -1522,6 +1679,24 @@
   {
     "item": "Darkray Vectors",
     "stats": "+# to level of socketed gems",
+    "average": 5.5,
+    "prices": [
+      2,
+      3,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      10,
+      10
+    ],
+    "search": {
+      "id": "3BrQzW5s5",
+      "complexity": 18,
+      "total": 36
+    },
     "builds": 2,
     "mods": [
       {
@@ -1535,6 +1710,24 @@
   {
     "item": "Devoto's Devotion",
     "stats": "+# to maximum power charges",
+    "average": 35.8,
+    "prices": [
+      15,
+      25,
+      25,
+      25,
+      30,
+      38,
+      45,
+      50,
+      50,
+      55
+    ],
+    "search": {
+      "id": "OVnJZWrSE",
+      "complexity": 18,
+      "total": 39
+    },
     "builds": 2,
     "mods": [
       {
@@ -1548,6 +1741,24 @@
   {
     "item": "Obliteration",
     "stats": "#% increased area of effect",
+    "average": 9.444444444444445,
+    "prices": [
+      1,
+      8,
+      8,
+      9,
+      10,
+      10,
+      10,
+      10,
+      10,
+      10
+    ],
+    "search": {
+      "id": "dX4QqW3hJ",
+      "complexity": 18,
+      "total": 89
+    },
     "builds": 2,
     "mods": [
       {
@@ -1561,6 +1772,17 @@
   {
     "item": "Speaker's Wreath",
     "stats": "+# to level of socketed minion gems",
+    "average": 850.15,
+    "prices": [
+      340.06,
+      850.15,
+      1360.24
+    ],
+    "search": {
+      "id": "Xq2oDnkTP",
+      "complexity": 18,
+      "total": 3
+    },
     "builds": 2,
     "mods": [
       {
@@ -1574,6 +1796,19 @@
   {
     "item": "Willclash",
     "stats": "+# to maximum power charges",
+    "average": 722.6275,
+    "prices": [
+      680.12,
+      680.12,
+      765.135,
+      765.135,
+      1360.24
+    ],
+    "search": {
+      "id": "Qr6G5weSw",
+      "complexity": 18,
+      "total": 5
+    },
     "builds": 2,
     "mods": [
       {
@@ -2041,6 +2276,25 @@
   },
   {
     "item": "Southbound",
+    "stats": "curse enemies with enfeeble on hit, +#% to spell critical strike chance",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "curse enemies with enfeeble on hit",
+        "trade_ids": [
+          "implicit.stat_1625819882"
+        ]
+      },
+      {
+        "text": "+#% to spell critical strike chance",
+        "trade_ids": [
+          "implicit.stat_791835907"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Southbound",
     "stats": "+# to level of socketed aoe gems",
     "builds": 1,
     "mods": [
@@ -2488,6 +2742,19 @@
         "text": "#% reduced poison duration on you",
         "trade_ids": [
           "implicit.stat_3301100256"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Incandescent Heart",
+    "stats": "#% reduced chaos damage taken",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "#% reduced chaos damage taken",
+        "trade_ids": [
+          "implicit.stat_2960683632"
         ]
       }
     ]
@@ -3965,6 +4232,25 @@
         "text": "determination has #% increased aura effect",
         "trade_ids": [
           "implicit.stat_3653400807"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Perseverance",
+    "stats": "+#% to critical strike multiplier during any flask effect, pride has #% increased aura effect",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "+#% to critical strike multiplier during any flask effect",
+        "trade_ids": [
+          "implicit.stat_240289863"
+        ]
+      },
+      {
+        "text": "pride has #% increased aura effect",
+        "trade_ids": [
+          "implicit.stat_4247488219"
         ]
       }
     ]
@@ -5617,6 +5903,25 @@
         "text": "#% increased maximum energy shield",
         "trade_ids": [
           "implicit.stat_2482852589"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Lioneye's Vision",
+    "stats": "+# to level of socketed aoe gems, +# to level of socketed projectile gems",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "+# to level of socketed aoe gems",
+        "trade_ids": [
+          "implicit.stat_2551600084"
+        ]
+      },
+      {
+        "text": "+# to level of socketed projectile gems",
+        "trade_ids": [
+          "implicit.stat_2176571093"
         ]
       }
     ]
