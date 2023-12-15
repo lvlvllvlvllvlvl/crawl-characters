@@ -855,6 +855,37 @@
     ]
   },
   {
+    "item": "Eyes of the Greatwolf",
+    "stats": "#% increased quantity of items found",
+    "average": 170.03,
+    "prices": [
+      130,
+      153.02700000000002,
+      170.03,
+      170.03,
+      170.03,
+      170.03,
+      170.03,
+      170.03,
+      170.03,
+      170.03
+    ],
+    "search": {
+      "id": "ZPQr9XbfQ",
+      "complexity": 18,
+      "total": 201
+    },
+    "builds": 3,
+    "mods": [
+      {
+        "text": "#% increased quantity of items found",
+        "trade_ids": [
+          "implicit.stat_884586851"
+        ]
+      }
+    ]
+  },
+  {
     "item": "Alpha's Howl",
     "stats": "socketed skill gems get a #% cost & reservation multiplier",
     "average": 380.1481,
@@ -1666,37 +1697,6 @@
         "text": "#% of physical damage from hits taken as fire damage",
         "trade_ids": [
           "implicit.stat_3342989455"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Eyes of the Greatwolf",
-    "stats": "#% increased quantity of items found",
-    "average": 170.03,
-    "prices": [
-      130,
-      153.02700000000002,
-      170.03,
-      170.03,
-      170.03,
-      170.03,
-      170.03,
-      170.03,
-      170.03,
-      170.03
-    ],
-    "search": {
-      "id": "ZPQr9XbfQ",
-      "complexity": 18,
-      "total": 201
-    },
-    "builds": 2,
-    "mods": [
-      {
-        "text": "#% increased quantity of items found",
-        "trade_ids": [
-          "implicit.stat_884586851"
         ]
       }
     ]
@@ -2680,6 +2680,25 @@
         "text": "+# to level of socketed aoe gems",
         "trade_ids": [
           "implicit.stat_2551600084"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Victario's Influence",
+    "stats": "+# to level of socketed trap or mine gems, #% increased maximum life",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "+# to level of socketed trap or mine gems",
+        "trade_ids": [
+          "implicit.stat_150668988"
+        ]
+      },
+      {
+        "text": "#% increased maximum life",
+        "trade_ids": [
+          "implicit.stat_983749596"
         ]
       }
     ]
@@ -4333,6 +4352,19 @@
   },
   {
     "item": "Greed's Embrace",
+    "stats": "+# to level of socketed projectile gems",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "+# to level of socketed projectile gems",
+        "trade_ids": [
+          "implicit.stat_2176571093"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Greed's Embrace",
     "stats": "#% reduced fire damage taken",
     "average": 5,
     "prices": [
@@ -4743,6 +4775,24 @@
   {
     "item": "March of the Legion",
     "stats": "+# to level of socketed trap or mine gems",
+    "average": 6.7,
+    "prices": [
+      5,
+      5,
+      5,
+      5,
+      5,
+      7,
+      7,
+      8,
+      10,
+      10
+    ],
+    "search": {
+      "id": "DL497bvC5",
+      "complexity": 18,
+      "total": 56
+    },
     "builds": 1,
     "mods": [
       {
@@ -6552,6 +6602,24 @@
   {
     "item": "Prism Guardian",
     "stats": "#% increased maximum energy shield",
+    "average": 20.5,
+    "prices": [
+      10,
+      15,
+      20,
+      20,
+      20,
+      20,
+      20,
+      20,
+      30,
+      30
+    ],
+    "search": {
+      "id": "XqadzgJSP",
+      "complexity": 18,
+      "total": 14
+    },
     "builds": 1,
     "mods": [
       {
@@ -6565,6 +6633,24 @@
   {
     "item": "Prism Guardian",
     "stats": "#% of physical damage from hits taken as lightning damage",
+    "average": 67.0608,
+    "prices": [
+      20,
+      20,
+      25,
+      64,
+      65,
+      70,
+      70,
+      80,
+      120,
+      136.608
+    ],
+    "search": {
+      "id": "lPrrL90UV",
+      "complexity": 18,
+      "total": 21
+    },
     "builds": 1,
     "mods": [
       {
@@ -6578,6 +6664,23 @@
   {
     "item": "Prism Guardian",
     "stats": "+# to level of socketed aura gems",
+    "average": 1195.32,
+    "prices": [
+      597.66,
+      683.04,
+      768.42,
+      1195.32,
+      1366.08,
+      1366.08,
+      1366.08,
+      1707.6,
+      1707.6
+    ],
+    "search": {
+      "id": "bPZDn0aCL",
+      "complexity": 18,
+      "total": 9
+    },
     "builds": 1,
     "mods": [
       {
@@ -6591,6 +6694,20 @@
   {
     "item": "Eyes of the Greatwolf",
     "stats": "#% increased damage, #% increased quantity of items found",
+    "average": 3045.22,
+    "prices": [
+      341.52,
+      2049.12,
+      2561.3999999999996,
+      4269,
+      4269,
+      4781.28
+    ],
+    "search": {
+      "id": "plLlQGdH0",
+      "complexity": 29,
+      "total": 6
+    },
     "builds": 1,
     "mods": [
       {
@@ -6610,6 +6727,13 @@
   {
     "item": "Headhunter",
     "stats": "#% increased movement speed during any flask effect, #% increased critical strike chance during any flask effect",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "9qllWp0hK",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -6629,6 +6753,13 @@
   {
     "item": "Headhunter",
     "stats": "#% increased area of effect, wrath has #% increased aura effect",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "6Zv5PPXcG",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -6648,6 +6779,13 @@
   {
     "item": "Headhunter",
     "stats": "#% increased dexterity, #% increased intelligence",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "DL85jL7H5",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -6667,6 +6805,13 @@
   {
     "item": "Headhunter",
     "stats": "anger has #% increased aura effect, #% increased cast speed during any flask effect",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "bXg3WPdHL",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -6686,6 +6831,24 @@
   {
     "item": "Leer Cast",
     "stats": "+# to maximum power charges",
+    "average": 9.4,
+    "prices": [
+      5,
+      5,
+      5,
+      9,
+      10,
+      10,
+      10,
+      11,
+      14,
+      15
+    ],
+    "search": {
+      "id": "Xqb5zPKFP",
+      "complexity": 18,
+      "total": 29
+    },
     "builds": 1,
     "mods": [
       {
@@ -6699,6 +6862,19 @@
   {
     "item": "The Covenant",
     "stats": "+# to level of socketed aoe gems",
+    "average": 5259.407999999999,
+    "prices": [
+      3073.68,
+      3585.96,
+      5122.799999999999,
+      6830.4,
+      7684.2
+    ],
+    "search": {
+      "id": "wpRa4kBcb",
+      "complexity": 18,
+      "total": 5
+    },
     "builds": 1,
     "mods": [
       {
@@ -6712,6 +6888,13 @@
   {
     "item": "The Covenant",
     "stats": "#% increased damage, #% increased maximum life",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "XqK7DqesP",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -6731,6 +6914,13 @@
   {
     "item": "The Covenant",
     "stats": "+# to level of socketed duration gems, +# to level of socketed warcry gems",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "lXjEWq6hV",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -6750,6 +6940,13 @@
   {
     "item": "The Covenant",
     "stats": "+# to level of socketed aoe gems, you take #% reduced extra damage from critical strikes",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "2ByX6PpIk",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -6769,6 +6966,24 @@
   {
     "item": "The Covenant",
     "stats": "+# to level of socketed curse gems",
+    "average": 519.5982857142857,
+    "prices": [
+      170.76,
+      170.76,
+      170.76,
+      341.52,
+      683.04,
+      905.0279999999999,
+      1195.32,
+      2219.88,
+      2561.3999999999996,
+      3415.2
+    ],
+    "search": {
+      "id": "WVrLX0Dfm",
+      "complexity": 18,
+      "total": 10
+    },
     "builds": 1,
     "mods": [
       {
@@ -7456,6 +7671,26 @@
         "text": "you cannot be cursed with silence",
         "trade_ids": [
           "implicit.stat_1654414582"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Thread of Hope",
+    "stats": "#% increased damage, #% increased reservation efficiency of skills",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "#% increased damage",
+        "trade_ids": [
+          "implicit.stat_2154246560"
+        ]
+      },
+      {
+        "text": "#% increased reservation efficiency of skills",
+        "trade_ids": [
+          "implicit.stat_2587176568",
+          "implicit.stat_4202507508"
         ]
       }
     ]
