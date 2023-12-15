@@ -361,6 +361,37 @@
     ]
   },
   {
+    "item": "Heatshiver",
+    "stats": "+# to maximum power charges",
+    "average": 1941.8760000000002,
+    "prices": [
+      1703.4,
+      1703.4,
+      1873.74,
+      1873.74,
+      1873.74,
+      2044.08,
+      2044.08,
+      2044.08,
+      2044.08,
+      2214.42
+    ],
+    "search": {
+      "id": "R24kzDqc7",
+      "complexity": 18,
+      "total": 12
+    },
+    "builds": 4,
+    "mods": [
+      {
+        "text": "+# to maximum power charges",
+        "trade_ids": [
+          "implicit.stat_227523295"
+        ]
+      }
+    ]
+  },
+  {
     "item": "Incandescent Heart",
     "stats": "+# to level of socketed projectile gems",
     "average": 516.6132,
@@ -636,37 +667,6 @@
         "text": "#% increased rarity of items found",
         "trade_ids": [
           "implicit.stat_3917489142"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Heatshiver",
-    "stats": "+# to maximum power charges",
-    "average": 1941.8760000000002,
-    "prices": [
-      1703.4,
-      1703.4,
-      1873.74,
-      1873.74,
-      1873.74,
-      2044.08,
-      2044.08,
-      2044.08,
-      2044.08,
-      2214.42
-    ],
-    "search": {
-      "id": "R24kzDqc7",
-      "complexity": 18,
-      "total": 12
-    },
-    "builds": 3,
-    "mods": [
-      {
-        "text": "+# to maximum power charges",
-        "trade_ids": [
-          "implicit.stat_227523295"
         ]
       }
     ]
@@ -1936,6 +1936,19 @@
     ]
   },
   {
+    "item": "Shavronne's Wrappings",
+    "stats": "+# to level of socketed aura gems",
+    "builds": 2,
+    "mods": [
+      {
+        "text": "+# to level of socketed aura gems",
+        "trade_ids": [
+          "implicit.stat_2452998583"
+        ]
+      }
+    ]
+  },
+  {
     "item": "Willclash",
     "stats": "+# to maximum power charges",
     "average": 722.6275,
@@ -2476,6 +2489,19 @@
   },
   {
     "item": "The Fourth Vow",
+    "stats": "+# to level of socketed gems",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "+# to level of socketed gems",
+        "trade_ids": [
+          "implicit.stat_2843100721"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "The Fourth Vow",
     "stats": "+# to level of socketed gems, #% increased damage",
     "average": null,
     "prices": [],
@@ -2760,6 +2786,15 @@
   {
     "item": "Victario's Influence",
     "stats": "+# to level of socketed aura gems, +# to level of socketed trap or mine gems",
+    "average": 1707.6,
+    "prices": [
+      1707.6
+    ],
+    "search": {
+      "id": "WVWPWyrCm",
+      "complexity": 29,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -3308,6 +3343,19 @@
         "text": "determination has #% increased aura effect",
         "trade_ids": [
           "implicit.stat_3653400807"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Call of the Brotherhood",
+    "stats": "zealotry has #% increased aura effect",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "zealotry has #% increased aura effect",
+        "trade_ids": [
+          "implicit.stat_4096052153"
         ]
       }
     ]
@@ -5095,6 +5143,13 @@
   {
     "item": "The Torrent's Reclamation",
     "stats": "#% increased strength, #% increased intelligence, +#% to critical strike multiplier during any flask effect",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "XqadR2bFP",
+      "complexity": 20,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -6103,6 +6158,24 @@
   {
     "item": "Shadows and Dust",
     "stats": "+# to level of socketed minion gems",
+    "average": 3.9,
+    "prices": [
+      2,
+      2,
+      3,
+      3,
+      4,
+      5,
+      5,
+      5,
+      5,
+      5
+    ],
+    "search": {
+      "id": "KJGpJKyU5",
+      "complexity": 18,
+      "total": 35
+    },
     "builds": 1,
     "mods": [
       {
@@ -6116,6 +6189,24 @@
   {
     "item": "Shadows and Dust",
     "stats": "+#% to spell critical strike chance",
+    "average": 4.2,
+    "prices": [
+      3,
+      3,
+      4,
+      4,
+      4,
+      4,
+      5,
+      5,
+      5,
+      5
+    ],
+    "search": {
+      "id": "ZbErrd0uQ",
+      "complexity": 18,
+      "total": 79
+    },
     "builds": 1,
     "mods": [
       {
@@ -6129,6 +6220,24 @@
   {
     "item": "Lori's Lantern",
     "stats": "discipline has #% increased aura effect",
+    "average": 14,
+    "prices": [
+      1,
+      5,
+      5,
+      5,
+      10,
+      20,
+      20,
+      30,
+      30,
+      45
+    ],
+    "search": {
+      "id": "QVYkJBMTw",
+      "complexity": 18,
+      "total": 12
+    },
     "builds": 1,
     "mods": [
       {
@@ -6142,6 +6251,13 @@
   {
     "item": "Lori's Lantern",
     "stats": "anger has #% increased aura effect, bleeding cannot be inflicted on you",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "oXeP6nKhl",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -6161,6 +6277,24 @@
   {
     "item": "Tabula Rasa",
     "stats": "+# to level of socketed aoe gems",
+    "average": 50,
+    "prices": [
+      45,
+      48,
+      50,
+      50,
+      50,
+      50,
+      50,
+      53,
+      55,
+      60
+    ],
+    "search": {
+      "id": "oXjLOwkUl",
+      "complexity": 18,
+      "total": 16
+    },
     "builds": 1,
     "mods": [
       {
@@ -6174,6 +6308,24 @@
   {
     "item": "Tabula Rasa",
     "stats": "+# to level of socketed gems",
+    "average": 126.204,
+    "prices": [
+      90,
+      90,
+      90,
+      99,
+      100,
+      110,
+      170.76,
+      170.76,
+      170.76,
+      170.76
+    ],
+    "search": {
+      "id": "KJBXejMh5",
+      "complexity": 18,
+      "total": 15
+    },
     "builds": 1,
     "mods": [
       {
@@ -6187,6 +6339,24 @@
   {
     "item": "Tabula Rasa",
     "stats": "#% increased damage",
+    "average": 170.76,
+    "prices": [
+      110,
+      120,
+      170.76,
+      170.76,
+      170.76,
+      170.76,
+      170.76,
+      170.76,
+      256.14,
+      512.28
+    ],
+    "search": {
+      "id": "lXj2OynFV",
+      "complexity": 18,
+      "total": 13
+    },
     "builds": 1,
     "mods": [
       {
@@ -6200,6 +6370,24 @@
   {
     "item": "Tabula Rasa",
     "stats": "+# to level of socketed duration gems",
+    "average": 42.1,
+    "prices": [
+      40,
+      40,
+      40,
+      40,
+      40,
+      41,
+      45,
+      45,
+      45,
+      45
+    ],
+    "search": {
+      "id": "VMgXY92sp",
+      "complexity": 18,
+      "total": 27
+    },
     "builds": 1,
     "mods": [
       {
@@ -6213,6 +6401,24 @@
   {
     "item": "Perseverance",
     "stats": "determination has #% increased aura effect",
+    "average": 14,
+    "prices": [
+      5,
+      5,
+      10,
+      15,
+      15,
+      15,
+      15,
+      20,
+      20,
+      20
+    ],
+    "search": {
+      "id": "8ae6mr8iV",
+      "complexity": 18,
+      "total": 34
+    },
     "builds": 1,
     "mods": [
       {
@@ -6226,6 +6432,13 @@
   {
     "item": "Perseverance",
     "stats": "+#% to critical strike multiplier during any flask effect, pride has #% increased aura effect",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "jXZK0QZTX",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -6245,6 +6458,24 @@
   {
     "item": "Kaom's Spirit",
     "stats": "+# to level of socketed aoe gems",
+    "average": 404.1319999999999,
+    "prices": [
+      324.44399999999996,
+      324.44399999999996,
+      341.52,
+      341.52,
+      341.52,
+      426.9,
+      512.28,
+      512.28,
+      512.28,
+      683.04
+    ],
+    "search": {
+      "id": "lPrYyEQUV",
+      "complexity": 18,
+      "total": 13
+    },
     "builds": 1,
     "mods": [
       {
@@ -6256,8 +6487,31 @@
     ]
   },
   {
+    "item": "Haemophilia",
+    "stats": "curse enemies with vulnerability on hit",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "curse enemies with vulnerability on hit",
+        "trade_ids": [
+          "implicit.stat_3967845372"
+        ]
+      }
+    ]
+  },
+  {
     "item": "Bubonic Trail",
     "stats": "+# to level of socketed gems",
+    "average": 80,
+    "prices": [
+      40,
+      120
+    ],
+    "search": {
+      "id": "4dv3yQYt9",
+      "complexity": 18,
+      "total": 2
+    },
     "builds": 1,
     "mods": [
       {
@@ -6271,6 +6525,20 @@
   {
     "item": "Bubonic Trail",
     "stats": "+# to level of socketed duration gems",
+    "average": 50,
+    "prices": [
+      10,
+      40,
+      50,
+      50,
+      50,
+      170.76
+    ],
+    "search": {
+      "id": "vljKgqZCE",
+      "complexity": 18,
+      "total": 6
+    },
     "builds": 1,
     "mods": [
       {
@@ -6849,6 +7117,19 @@
   },
   {
     "item": "Ceinture of Benevolence",
+    "stats": "anger has #% increased aura effect",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "anger has #% increased aura effect",
+        "trade_ids": [
+          "implicit.stat_1592278124"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Ceinture of Benevolence",
     "stats": "#% increased maximum energy shield, #% increased cast speed during any flask effect",
     "builds": 1,
     "mods": [
@@ -7046,6 +7327,25 @@
         "text": "#% reduced effect of shock on you",
         "trade_ids": [
           "implicit.stat_3801067695"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Unnatural Instinct",
+    "stats": "#% increased global critical strike chance, #% reduced bleed duration on you",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "#% increased global critical strike chance",
+        "trade_ids": [
+          "implicit.stat_587431675"
+        ]
+      },
+      {
+        "text": "#% reduced bleed duration on you",
+        "trade_ids": [
+          "implicit.stat_1692879867"
         ]
       }
     ]
@@ -8074,6 +8374,25 @@
     ]
   },
   {
+    "item": "Soulbound",
+    "stats": "anger has #% increased aura effect, grace has #% increased aura effect",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "anger has #% increased aura effect",
+        "trade_ids": [
+          "implicit.stat_1592278124"
+        ]
+      },
+      {
+        "text": "grace has #% increased aura effect",
+        "trade_ids": [
+          "implicit.stat_397427740"
+        ]
+      }
+    ]
+  },
+  {
     "item": "Sandstorm Visage",
     "stats": "+# to level of socketed minion gems, +# to level of socketed trap or mine gems",
     "builds": 1,
@@ -8709,19 +9028,6 @@
   },
   {
     "item": "Rainbowstride",
-    "stats": "+# to level of socketed aura gems",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "+# to level of socketed aura gems",
-        "trade_ids": [
-          "implicit.stat_2452998583"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Shavronne's Wrappings",
     "stats": "+# to level of socketed aura gems",
     "builds": 1,
     "mods": [
