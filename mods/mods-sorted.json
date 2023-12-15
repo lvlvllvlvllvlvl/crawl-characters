@@ -662,6 +662,30 @@
     ]
   },
   {
+    "item": "Pure Talent",
+    "stats": "corrupted blood cannot be inflicted on you",
+    "average": 680.24,
+    "prices": [
+      510.18,
+      680.24,
+      850.3
+    ],
+    "search": {
+      "id": "8a2vlBMHV",
+      "complexity": 18,
+      "total": 3
+    },
+    "builds": 2,
+    "mods": [
+      {
+        "text": "corrupted blood cannot be inflicted on you",
+        "trade_ids": [
+          "implicit.stat_1658498488"
+        ]
+      }
+    ]
+  },
+  {
     "item": "Victario's Influence",
     "stats": "+# to level of socketed gems",
     "average": 6.6,
@@ -2950,6 +2974,13 @@
   {
     "item": "Watcher's Eye",
     "stats": "#% increased global critical strike chance, #% reduced poison duration on you",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "vlEXWkjHE",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -3696,6 +3727,24 @@
   {
     "item": "Sadima's Touch",
     "stats": "#% increased attack speed",
+    "average": 3.7,
+    "prices": [
+      2,
+      2,
+      3,
+      3,
+      3,
+      4,
+      5,
+      5,
+      5,
+      5
+    ],
+    "search": {
+      "id": "2Gb6JDdtk",
+      "complexity": 19,
+      "total": 51
+    },
     "builds": 1,
     "mods": [
       {
@@ -4252,6 +4301,25 @@
     ]
   },
   {
+    "item": "Cherrubim's Maleficence",
+    "stats": "+# to level of socketed gems, +# to level of socketed aoe gems",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "+# to level of socketed gems",
+        "trade_ids": [
+          "implicit.stat_2843100721"
+        ]
+      },
+      {
+        "text": "+# to level of socketed aoe gems",
+        "trade_ids": [
+          "implicit.stat_2551600084"
+        ]
+      }
+    ]
+  },
+  {
     "item": "Asenath's Gentle Touch",
     "stats": "#% increased attack speed, curse enemies with enfeeble on hit",
     "average": null,
@@ -4281,6 +4349,17 @@
   {
     "item": "Asenath's Gentle Touch",
     "stats": "+# to level of socketed aura gems, curse enemies with vulnerability on hit",
+    "average": 255.84,
+    "prices": [
+      170.56,
+      255.84,
+      341.12
+    ],
+    "search": {
+      "id": "vlPE4wLCE",
+      "complexity": 29,
+      "total": 3
+    },
     "builds": 1,
     "mods": [
       {
@@ -4431,6 +4510,25 @@
         "text": "attacks have +#% to critical strike chance",
         "trade_ids": [
           "implicit.stat_2572042788"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Asenath's Gentle Touch",
+    "stats": "+# to level of socketed aoe gems, curse enemies with vulnerability on hit",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "+# to level of socketed aoe gems",
+        "trade_ids": [
+          "implicit.stat_2551600084"
+        ]
+      },
+      {
+        "text": "curse enemies with vulnerability on hit",
+        "trade_ids": [
+          "implicit.stat_3967845372"
         ]
       }
     ]
@@ -6071,6 +6169,19 @@
     ]
   },
   {
+    "item": "The Magnate",
+    "stats": "+#% to all elemental resistances",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "+#% to all elemental resistances",
+        "trade_ids": [
+          "implicit.stat_2901986750"
+        ]
+      }
+    ]
+  },
+  {
     "item": "Abyssus",
     "stats": "+# to maximum power charges",
     "average": 118.58142857142856,
@@ -6796,6 +6907,15 @@
   {
     "item": "Mageblood",
     "stats": "#% increased maximum life, grace has #% increased aura effect",
+    "average": 26436.8,
+    "prices": [
+      26436.8
+    ],
+    "search": {
+      "id": "pXvPpyvT0",
+      "complexity": 29,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -6815,6 +6935,13 @@
   {
     "item": "Mageblood",
     "stats": "#% increased maximum energy shield, #% increased cast speed during any flask effect",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "dPaOkzoFJ",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -6834,6 +6961,13 @@
   {
     "item": "Mageblood",
     "stats": "#% increased dexterity, #% increased intelligence, malevolence has #% increased aura effect",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "MVZ379PFJ",
+      "complexity": 20,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -6859,6 +6993,13 @@
   {
     "item": "Mageblood",
     "stats": "#% increased strength, #% increased dexterity, #% increased skill effect duration",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "OVQoODgCE",
+      "complexity": 20,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -6884,6 +7025,13 @@
   {
     "item": "Mageblood",
     "stats": "#% increased maximum life, #% increased area of effect",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "kXjqdM3U5",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -7092,30 +7240,6 @@
         "text": "damage penetrates #% elemental resistances",
         "trade_ids": [
           "implicit.stat_2101383955"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Pure Talent",
-    "stats": "corrupted blood cannot be inflicted on you",
-    "average": 680.24,
-    "prices": [
-      510.18,
-      680.24,
-      850.3
-    ],
-    "search": {
-      "id": "8a2vlBMHV",
-      "complexity": 18,
-      "total": 3
-    },
-    "builds": 1,
-    "mods": [
-      {
-        "text": "corrupted blood cannot be inflicted on you",
-        "trade_ids": [
-          "implicit.stat_1658498488"
         ]
       }
     ]
@@ -8119,6 +8243,13 @@
   {
     "item": "Thread of Hope",
     "stats": "damage penetrates #% cold resistance, damage penetrates #% lightning resistance",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "vlEwbeWtE",
+      "complexity": 31,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -8140,6 +8271,19 @@
   {
     "item": "Gravebind",
     "stats": "curse enemies with temporal chains on hit",
+    "average": 1019.9487999999999,
+    "prices": [
+      494.62399999999997,
+      511.68,
+      682.24,
+      1705.6,
+      1705.6
+    ],
+    "search": {
+      "id": "jXjawVWTX",
+      "complexity": 18,
+      "total": 5
+    },
     "builds": 1,
     "mods": [
       {
@@ -8153,6 +8297,16 @@
   {
     "item": "Grip of the Council",
     "stats": "+# to level of socketed gems",
+    "average": 52.5,
+    "prices": [
+      50,
+      55
+    ],
+    "search": {
+      "id": "0BZV3XQhg",
+      "complexity": 18,
+      "total": 2
+    },
     "builds": 1,
     "mods": [
       {
@@ -8166,6 +8320,22 @@
   {
     "item": "Chains of Command",
     "stats": "+#% to all maximum resistances",
+    "average": 103.73142857142855,
+    "prices": [
+      50,
+      50,
+      65,
+      70,
+      150,
+      170.56,
+      170.56,
+      4264
+    ],
+    "search": {
+      "id": "nXqyZm2C0",
+      "complexity": 18,
+      "total": 8
+    },
     "builds": 1,
     "mods": [
       {
@@ -8179,6 +8349,15 @@
   {
     "item": "Leash of Oblation",
     "stats": "discipline has #% increased aura effect",
+    "average": 170.56,
+    "prices": [
+      170.56
+    ],
+    "search": {
+      "id": "kXJQ05WI5",
+      "complexity": 18,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -8192,6 +8371,22 @@
   {
     "item": "Ancient Skull",
     "stats": "socketed skill gems get a #% cost & reservation multiplier",
+    "average": 462.9485714285715,
+    "prices": [
+      341.12,
+      341.12,
+      341.12,
+      511.68,
+      511.68,
+      511.68,
+      682.24,
+      1193.92
+    ],
+    "search": {
+      "id": "9Y2Zr48UK",
+      "complexity": 18,
+      "total": 8
+    },
     "builds": 1,
     "mods": [
       {
@@ -8205,6 +8400,13 @@
   {
     "item": "Triad Grip",
     "stats": "+# to level of socketed aura gems, #% increased maximum energy shield",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "waq7K2jcb",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
