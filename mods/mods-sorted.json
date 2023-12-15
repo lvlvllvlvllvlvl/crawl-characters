@@ -1,5 +1,36 @@
 [
   {
+    "item": "String of Servitude",
+    "stats": "hatred has #% increased aura effect",
+    "average": 7.3,
+    "prices": [
+      4,
+      5,
+      5,
+      5,
+      5,
+      9,
+      10,
+      10,
+      10,
+      10
+    ],
+    "search": {
+      "id": "OpJoQXOSE",
+      "complexity": 18,
+      "total": 75
+    },
+    "builds": 9,
+    "mods": [
+      {
+        "text": "hatred has #% increased aura effect",
+        "trade_ids": [
+          "implicit.stat_3742945352"
+        ]
+      }
+    ]
+  },
+  {
     "item": "Southbound",
     "stats": "+#% to spell critical strike chance",
     "average": 116.18666666666667,
@@ -56,37 +87,6 @@
     ]
   },
   {
-    "item": "String of Servitude",
-    "stats": "hatred has #% increased aura effect",
-    "average": 7.3,
-    "prices": [
-      4,
-      5,
-      5,
-      5,
-      5,
-      9,
-      10,
-      10,
-      10,
-      10
-    ],
-    "search": {
-      "id": "OpJoQXOSE",
-      "complexity": 18,
-      "total": 75
-    },
-    "builds": 8,
-    "mods": [
-      {
-        "text": "hatred has #% increased aura effect",
-        "trade_ids": [
-          "implicit.stat_3742945352"
-        ]
-      }
-    ]
-  },
-  {
     "item": "Matua Tupuna",
     "stats": "+# to level of socketed aura gems",
     "average": 846.8331428571428,
@@ -105,7 +105,7 @@
       "complexity": 18,
       "total": 8
     },
-    "builds": 7,
+    "builds": 8,
     "mods": [
       {
         "text": "+# to level of socketed aura gems",
@@ -765,6 +765,34 @@
     ]
   },
   {
+    "item": "Vaal Caress",
+    "stats": "+# to level of socketed aoe gems",
+    "average": 1059.3492857142858,
+    "prices": [
+      681.88,
+      852.35,
+      852.35,
+      1022.8199999999999,
+      1022.8199999999999,
+      1448.995,
+      1534.23
+    ],
+    "search": {
+      "id": "mP2MqKJt6",
+      "complexity": 18,
+      "total": 7
+    },
+    "builds": 3,
+    "mods": [
+      {
+        "text": "+# to level of socketed aoe gems",
+        "trade_ids": [
+          "implicit.stat_2551600084"
+        ]
+      }
+    ]
+  },
+  {
     "item": "Bisco's Leash",
     "stats": "#% increased rarity of items found",
     "average": 502.80300000000005,
@@ -822,6 +850,37 @@
         "text": "attacks have +#% to critical strike chance",
         "trade_ids": [
           "implicit.stat_2572042788"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Alpha's Howl",
+    "stats": "socketed skill gems get a #% cost & reservation multiplier",
+    "average": 380.1481,
+    "prices": [
+      323.893,
+      323.893,
+      340.94,
+      340.94,
+      340.94,
+      340.94,
+      340.94,
+      426.175,
+      511.40999999999997,
+      511.40999999999997
+    ],
+    "search": {
+      "id": "DGEZWG2t5",
+      "complexity": 18,
+      "total": 15
+    },
+    "builds": 3,
+    "mods": [
+      {
+        "text": "socketed skill gems get a #% cost & reservation multiplier",
+        "trade_ids": [
+          "implicit.stat_2865550257"
         ]
       }
     ]
@@ -1073,6 +1132,24 @@
   {
     "item": "Shaper's Touch",
     "stats": "+# to level of socketed aoe gems",
+    "average": 48.5,
+    "prices": [
+      30,
+      40,
+      40,
+      40,
+      45,
+      55,
+      55,
+      60,
+      60,
+      60
+    ],
+    "search": {
+      "id": "EG8Vq7VU5",
+      "complexity": 18,
+      "total": 44
+    },
     "builds": 2,
     "mods": [
       {
@@ -1328,34 +1405,6 @@
         "text": "+# to level of socketed duration gems",
         "trade_ids": [
           "implicit.stat_2115168758"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Vaal Caress",
-    "stats": "+# to level of socketed aoe gems",
-    "average": 1059.3492857142858,
-    "prices": [
-      681.88,
-      852.35,
-      852.35,
-      1022.8199999999999,
-      1022.8199999999999,
-      1448.995,
-      1534.23
-    ],
-    "search": {
-      "id": "mP2MqKJt6",
-      "complexity": 18,
-      "total": 7
-    },
-    "builds": 2,
-    "mods": [
-      {
-        "text": "+# to level of socketed aoe gems",
-        "trade_ids": [
-          "implicit.stat_2551600084"
         ]
       }
     ]
@@ -1617,19 +1666,6 @@
         "text": "#% increased quantity of items found",
         "trade_ids": [
           "implicit.stat_884586851"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Alpha's Howl",
-    "stats": "socketed skill gems get a #% cost & reservation multiplier",
-    "builds": 2,
-    "mods": [
-      {
-        "text": "socketed skill gems get a #% cost & reservation multiplier",
-        "trade_ids": [
-          "implicit.stat_2865550257"
         ]
       }
     ]
@@ -2587,6 +2623,25 @@
         "text": "+# to level of socketed aoe gems",
         "trade_ids": [
           "implicit.stat_2551600084"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Victario's Influence",
+    "stats": "+# to level of socketed gems, #% additional physical damage reduction while stationary",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "+# to level of socketed gems",
+        "trade_ids": [
+          "implicit.stat_2843100721"
+        ]
+      },
+      {
+        "text": "#% additional physical damage reduction while stationary",
+        "trade_ids": [
+          "implicit.stat_2181129193"
         ]
       }
     ]
@@ -3558,6 +3613,22 @@
   {
     "item": "Incandescent Heart",
     "stats": "#% reduced lightning damage taken",
+    "average": 13,
+    "prices": [
+      10,
+      10,
+      10,
+      15,
+      20,
+      30,
+      40,
+      90
+    ],
+    "search": {
+      "id": "eXVr4oYhL",
+      "complexity": 18,
+      "total": 8
+    },
     "builds": 1,
     "mods": [
       {
@@ -3571,6 +3642,24 @@
   {
     "item": "Incandescent Heart",
     "stats": "you take #% reduced extra damage from critical strikes",
+    "average": 48,
+    "prices": [
+      15,
+      25,
+      25,
+      30,
+      40,
+      40,
+      50,
+      55,
+      100,
+      100
+    ],
+    "search": {
+      "id": "RVBnoyBU7",
+      "complexity": 18,
+      "total": 19
+    },
     "builds": 1,
     "mods": [
       {
@@ -3584,6 +3673,24 @@
   {
     "item": "Incandescent Heart",
     "stats": "+# to level of socketed duration gems",
+    "average": 132.235,
+    "prices": [
+      50,
+      60,
+      100,
+      120,
+      140,
+      170.47,
+      170.47,
+      170.47,
+      170.47,
+      170.47
+    ],
+    "search": {
+      "id": "OpJM878uE",
+      "complexity": 18,
+      "total": 19
+    },
     "builds": 1,
     "mods": [
       {
@@ -3597,6 +3704,24 @@
   {
     "item": "Incandescent Heart",
     "stats": "#% increased damage",
+    "average": 33.888888888888886,
+    "prices": [
+      10,
+      20,
+      20,
+      30,
+      40,
+      40,
+      45,
+      50,
+      50,
+      255.70499999999998
+    ],
+    "search": {
+      "id": "y9RQZY8uR",
+      "complexity": 18,
+      "total": 22
+    },
     "builds": 1,
     "mods": [
       {
@@ -3610,6 +3735,13 @@
   {
     "item": "Incandescent Heart",
     "stats": "+# to level of socketed aoe gems, +# to level of socketed aura gems",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "KJBdY5RI5",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -3629,6 +3761,13 @@
   {
     "item": "Marylene's Fallacy",
     "stats": "+#% to all maximum resistances, malevolence has #% increased aura effect",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "nXqVBGyC0",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -3648,6 +3787,24 @@
   {
     "item": "Marylene's Fallacy",
     "stats": "+#% to all maximum resistances",
+    "average": 97.82333333333334,
+    "prices": [
+      20,
+      44,
+      50,
+      55,
+      100,
+      100,
+      170.47,
+      170.47,
+      170.47,
+      255.70499999999998
+    ],
+    "search": {
+      "id": "KJ7E63LU5",
+      "complexity": 18,
+      "total": 12
+    },
     "builds": 1,
     "mods": [
       {
@@ -3661,6 +3818,18 @@
   {
     "item": "String of Servitude",
     "stats": "#% increased quantity of items found",
+    "average": 10228.2,
+    "prices": [
+      5114.1,
+      5114.1,
+      13637.6,
+      17047
+    ],
+    "search": {
+      "id": "lPrYXD0sV",
+      "complexity": 18,
+      "total": 4
+    },
     "builds": 1,
     "mods": [
       {
@@ -3674,6 +3843,13 @@
   {
     "item": "String of Servitude",
     "stats": "#% increased maximum energy shield, hatred has #% increased aura effect",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "MV4KYqDFJ",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -3693,6 +3869,13 @@
   {
     "item": "Doryani's Prototype",
     "stats": "+# to level of socketed projectile gems, +#% to all maximum resistances",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "9YKMX5YsK",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -3712,6 +3895,13 @@
   {
     "item": "Natural Affinity",
     "stats": "#% increased area of effect",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "MvR4pwPcJ",
+      "complexity": 18,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -3725,6 +3915,18 @@
   {
     "item": "Natural Affinity",
     "stats": "damage penetrates #% elemental resistances",
+    "average": 105.1175,
+    "prices": [
+      40,
+      90,
+      120,
+      170.47
+    ],
+    "search": {
+      "id": "R242ZPOi7",
+      "complexity": 18,
+      "total": 4
+    },
     "builds": 1,
     "mods": [
       {
@@ -3738,6 +3940,13 @@
   {
     "item": "The Green Dream",
     "stats": "minions deal #% increased damage",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "BEDM6KXH8",
+      "complexity": 18,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
