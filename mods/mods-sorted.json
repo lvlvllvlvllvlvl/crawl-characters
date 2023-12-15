@@ -822,6 +822,16 @@
   {
     "item": "Ancestral Vision",
     "stats": "corrupted blood cannot be inflicted on you",
+    "average": 6355.5,
+    "prices": [
+      4237,
+      8474
+    ],
+    "search": {
+      "id": "plLZELbt0",
+      "complexity": 18,
+      "total": 2
+    },
     "builds": 2,
     "mods": [
       {
@@ -1347,6 +1357,50 @@
     ]
   },
   {
+    "item": "Null and Void",
+    "stats": "curse enemies with vulnerability on hit",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "curse enemies with vulnerability on hit",
+        "trade_ids": [
+          "implicit.stat_3967845372"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Null and Void",
+    "stats": "+# to maximum frenzy charges",
+    "average": 17.3,
+    "prices": [
+      4,
+      5,
+      5,
+      10,
+      10,
+      15,
+      18,
+      25,
+      40,
+      41
+    ],
+    "search": {
+      "id": "PdaZZ9GhL",
+      "complexity": 18,
+      "total": 20
+    },
+    "builds": 1,
+    "mods": [
+      {
+        "text": "+# to maximum frenzy charges",
+        "trade_ids": [
+          "implicit.stat_4078695"
+        ]
+      }
+    ]
+  },
+  {
     "item": "The Fourth Vow",
     "stats": "+# to level of socketed minion gems, #% additional physical damage reduction while stationary",
     "average": 1005.1800000000001,
@@ -1377,6 +1431,23 @@
   {
     "item": "The Fourth Vow",
     "stats": "+# to level of socketed projectile gems",
+    "average": 738.38,
+    "prices": [
+      80,
+      89,
+      508.43999999999994,
+      593.18,
+      677.92,
+      1525.32,
+      1694.8,
+      8474,
+      10168.8
+    ],
+    "search": {
+      "id": "Zb5kpJEHQ",
+      "complexity": 18,
+      "total": 9
+    },
     "builds": 1,
     "mods": [
       {
@@ -1528,6 +1599,24 @@
   {
     "item": "Victario's Influence",
     "stats": "+# to level of socketed aoe gems",
+    "average": 7.2,
+    "prices": [
+      5,
+      5,
+      5,
+      5,
+      5,
+      8,
+      9,
+      10,
+      10,
+      10
+    ],
+    "search": {
+      "id": "waPDjkKfb",
+      "complexity": 18,
+      "total": 63
+    },
     "builds": 1,
     "mods": [
       {
@@ -1541,6 +1630,20 @@
   {
     "item": "Victario's Influence",
     "stats": "+# to level of socketed duration gems, +# to level of socketed aura gems",
+    "average": 97.792,
+    "prices": [
+      35,
+      45,
+      70,
+      169.48,
+      169.48,
+      677.92
+    ],
+    "search": {
+      "id": "DGvmrmvI5",
+      "complexity": 29,
+      "total": 6
+    },
     "builds": 1,
     "mods": [
       {
@@ -1560,6 +1663,17 @@
   {
     "item": "Victario's Influence",
     "stats": "+# to level of socketed minion gems, +# to level of socketed aura gems",
+    "average": 169.48,
+    "prices": [
+      169.48,
+      169.48,
+      338.96
+    ],
+    "search": {
+      "id": "y9E0KkrhR",
+      "complexity": 29,
+      "total": 3
+    },
     "builds": 1,
     "mods": [
       {
@@ -2153,6 +2267,24 @@
   {
     "item": "Heatshiver",
     "stats": "+# to level of socketed aura gems",
+    "average": 31.6,
+    "prices": [
+      20,
+      20,
+      30,
+      30,
+      33,
+      34,
+      34,
+      35,
+      40,
+      40
+    ],
+    "search": {
+      "id": "9Y2Z83ysK",
+      "complexity": 18,
+      "total": 29
+    },
     "builds": 1,
     "mods": [
       {
@@ -2920,6 +3052,19 @@
   },
   {
     "item": "Hyrri's Truth",
+    "stats": "#% increased movement speed",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "#% increased movement speed",
+        "trade_ids": [
+          "implicit.stat_2250533757"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Hyrri's Truth",
     "stats": "+#% to all elemental resistances",
     "builds": 1,
     "mods": [
@@ -3049,6 +3194,13 @@
   {
     "item": "Lethal Pride",
     "stats": "#% reduced effect of curses on you, #% reduced bleed duration on you",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "MV4RGqMsJ",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -3068,6 +3220,13 @@
   {
     "item": "Ancestral Vision",
     "stats": "you cannot be cursed with silence",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "kXJ2YOWI5",
+      "complexity": 18,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -3081,43 +3240,21 @@
   {
     "item": "Ancestral Vision",
     "stats": "#% increased damage",
+    "average": 1694.8,
+    "prices": [
+      1694.8
+    ],
+    "search": {
+      "id": "LmdwQrBHn",
+      "complexity": 18,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
         "text": "#% increased damage",
         "trade_ids": [
           "implicit.stat_2154246560"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Null and Void",
-    "stats": "+# to maximum frenzy charges",
-    "average": 17.3,
-    "prices": [
-      4,
-      5,
-      5,
-      10,
-      10,
-      15,
-      18,
-      25,
-      40,
-      41
-    ],
-    "search": {
-      "id": "PdaZZ9GhL",
-      "complexity": 18,
-      "total": 20
-    },
-    "builds": 1,
-    "mods": [
-      {
-        "text": "+# to maximum frenzy charges",
-        "trade_ids": [
-          "implicit.stat_4078695"
         ]
       }
     ]
@@ -3172,6 +3309,25 @@
         "trade_ids": [
           "implicit.stat_681332047",
           "implicit.stat_210067635"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Asenath's Gentle Touch",
+    "stats": "#% increased maximum energy shield, attacks have +#% to critical strike chance",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "#% increased maximum energy shield",
+        "trade_ids": [
+          "implicit.stat_2482852589"
+        ]
+      },
+      {
+        "text": "attacks have +#% to critical strike chance",
+        "trade_ids": [
+          "implicit.stat_2572042788"
         ]
       }
     ]
@@ -3561,6 +3717,13 @@
   {
     "item": "Shadows and Dust",
     "stats": "#% increased maximum energy shield, attacks have +#% to critical strike chance",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "EyVjjPBH5",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -3580,6 +3743,22 @@
   {
     "item": "Shadows and Dust",
     "stats": "#% increased attack speed",
+    "average": 378.8857142857143,
+    "prices": [
+      110,
+      169.48,
+      169.48,
+      338.96,
+      338.96,
+      677.92,
+      847.4,
+      2542.2
+    ],
+    "search": {
+      "id": "8aeDbjvFV",
+      "complexity": 19,
+      "total": 8
+    },
     "builds": 1,
     "mods": [
       {
@@ -3593,7 +3772,38 @@
   },
   {
     "item": "Shadows and Dust",
+    "stats": "+# to level of socketed minion gems",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "+# to level of socketed minion gems",
+        "trade_ids": [
+          "implicit.stat_3604946673"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Shadows and Dust",
     "stats": "+#% to spell critical strike chance",
+    "average": 4.625,
+    "prices": [
+      4,
+      4,
+      4,
+      5,
+      5,
+      5,
+      5,
+      5,
+      7,
+      8
+    ],
+    "search": {
+      "id": "ZbErrd0uQ",
+      "complexity": 18,
+      "total": 42
+    },
     "builds": 1,
     "mods": [
       {
@@ -3607,6 +3817,22 @@
   {
     "item": "Lori's Lantern",
     "stats": "discipline has #% increased aura effect",
+    "average": 14.333333333333334,
+    "prices": [
+      1,
+      5,
+      15,
+      15,
+      20,
+      30,
+      45,
+      150
+    ],
+    "search": {
+      "id": "QVYkJBMTw",
+      "complexity": 18,
+      "total": 8
+    },
     "builds": 1,
     "mods": [
       {
@@ -3620,6 +3846,21 @@
   {
     "item": "Tabula Rasa",
     "stats": "+# to level of socketed aoe gems",
+    "average": 74.16666666666667,
+    "prices": [
+      60,
+      65,
+      70,
+      80,
+      80,
+      90,
+      1186.36
+    ],
+    "search": {
+      "id": "oXjLOwkUl",
+      "complexity": 18,
+      "total": 7
+    },
     "builds": 1,
     "mods": [
       {
@@ -3633,6 +3874,17 @@
   {
     "item": "Tabula Rasa",
     "stats": "+# to level of socketed gems",
+    "average": 480.1933333333333,
+    "prices": [
+      169.48,
+      254.21999999999997,
+      1016.8799999999999
+    ],
+    "search": {
+      "id": "KJBXejMh5",
+      "complexity": 18,
+      "total": 3
+    },
     "builds": 1,
     "mods": [
       {
@@ -4384,6 +4636,25 @@
         "text": "#% increased maximum energy shield",
         "trade_ids": [
           "implicit.stat_2482852589"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Ceinture of Benevolence",
+    "stats": "#% increased dexterity, #% increased intelligence",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "#% increased dexterity",
+        "trade_ids": [
+          "implicit.stat_4139681126"
+        ]
+      },
+      {
+        "text": "#% increased intelligence",
+        "trade_ids": [
+          "implicit.stat_656461285"
         ]
       }
     ]
@@ -5194,6 +5465,38 @@
         "text": "+# to level of socketed minion gems",
         "trade_ids": [
           "implicit.stat_3604946673"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Utula's Hunger",
+    "stats": "#% increased maximum life",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "#% increased maximum life",
+        "trade_ids": [
+          "implicit.stat_983749596"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Prismweave",
+    "stats": "grace has #% increased aura effect, +#% to critical strike multiplier during any flask effect",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "grace has #% increased aura effect",
+        "trade_ids": [
+          "implicit.stat_397427740"
+        ]
+      },
+      {
+        "text": "+#% to critical strike multiplier during any flask effect",
+        "trade_ids": [
+          "implicit.stat_240289863"
         ]
       }
     ]
