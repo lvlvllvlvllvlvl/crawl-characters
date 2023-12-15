@@ -1,5 +1,36 @@
 [
   {
+    "item": "String of Servitude",
+    "stats": "hatred has #% increased aura effect",
+    "average": 7.7,
+    "prices": [
+      4,
+      4,
+      5,
+      7,
+      8,
+      9,
+      10,
+      10,
+      10,
+      10
+    ],
+    "search": {
+      "id": "OpJoQXOSE",
+      "complexity": 18,
+      "total": 51
+    },
+    "builds": 6,
+    "mods": [
+      {
+        "text": "hatred has #% increased aura effect",
+        "trade_ids": [
+          "implicit.stat_3742945352"
+        ]
+      }
+    ]
+  },
+  {
     "item": "Heatshiver",
     "stats": "socketed skill gems get a #% cost & reservation multiplier",
     "average": 335.94,
@@ -26,37 +57,6 @@
         "text": "socketed skill gems get a #% cost & reservation multiplier",
         "trade_ids": [
           "implicit.stat_2865550257"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "String of Servitude",
-    "stats": "hatred has #% increased aura effect",
-    "average": 7.7,
-    "prices": [
-      4,
-      4,
-      5,
-      7,
-      8,
-      9,
-      10,
-      10,
-      10,
-      10
-    ],
-    "search": {
-      "id": "OpJoQXOSE",
-      "complexity": 18,
-      "total": 51
-    },
-    "builds": 5,
-    "mods": [
-      {
-        "text": "hatred has #% increased aura effect",
-        "trade_ids": [
-          "implicit.stat_3742945352"
         ]
       }
     ]
@@ -213,6 +213,68 @@
     ]
   },
   {
+    "item": "String of Servitude",
+    "stats": "#% increased rarity of items found",
+    "average": 3.7,
+    "prices": [
+      2,
+      2,
+      3,
+      3,
+      3,
+      4,
+      5,
+      5,
+      5,
+      5
+    ],
+    "search": {
+      "id": "YVrXkEDUY",
+      "complexity": 18,
+      "total": 41
+    },
+    "builds": 3,
+    "mods": [
+      {
+        "text": "#% increased rarity of items found",
+        "trade_ids": [
+          "implicit.stat_3917489142"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Sadima's Touch",
+    "stats": "attacks have +#% to critical strike chance",
+    "average": 108.51199999999999,
+    "prices": [
+      25,
+      35,
+      50,
+      55,
+      100,
+      150,
+      167.53,
+      167.53,
+      167.53,
+      167.53
+    ],
+    "search": {
+      "id": "2Gb38wjTk",
+      "complexity": 18,
+      "total": 37
+    },
+    "builds": 3,
+    "mods": [
+      {
+        "text": "attacks have +#% to critical strike chance",
+        "trade_ids": [
+          "implicit.stat_2572042788"
+        ]
+      }
+    ]
+  },
+  {
     "item": "Soul Mantle",
     "stats": "+# to level of socketed projectile gems",
     "average": 208.1655,
@@ -299,6 +361,23 @@
   {
     "item": "Eber's Unification",
     "stats": "+# to maximum power charges",
+    "average": 225.1484444444444,
+    "prices": [
+      150,
+      167.53,
+      167.53,
+      167.53,
+      167.53,
+      201.036,
+      335.06,
+      335.06,
+      335.06
+    ],
+    "search": {
+      "id": "jXjBMnXSX",
+      "complexity": 18,
+      "total": 9
+    },
     "builds": 3,
     "mods": [
       {
@@ -403,37 +482,6 @@
     ]
   },
   {
-    "item": "String of Servitude",
-    "stats": "#% increased rarity of items found",
-    "average": 3.7,
-    "prices": [
-      2,
-      2,
-      3,
-      3,
-      3,
-      4,
-      5,
-      5,
-      5,
-      5
-    ],
-    "search": {
-      "id": "YVrXkEDUY",
-      "complexity": 18,
-      "total": 41
-    },
-    "builds": 2,
-    "mods": [
-      {
-        "text": "#% increased rarity of items found",
-        "trade_ids": [
-          "implicit.stat_3917489142"
-        ]
-      }
-    ]
-  },
-  {
     "item": "Sadima's Touch",
     "stats": "curse enemies with elemental weakness on hit",
     "average": 14.4,
@@ -491,37 +539,6 @@
         "text": "+#% to spell critical strike chance",
         "trade_ids": [
           "implicit.stat_791835907"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Sadima's Touch",
-    "stats": "attacks have +#% to critical strike chance",
-    "average": 108.51199999999999,
-    "prices": [
-      25,
-      35,
-      50,
-      55,
-      100,
-      150,
-      167.53,
-      167.53,
-      167.53,
-      167.53
-    ],
-    "search": {
-      "id": "2Gb38wjTk",
-      "complexity": 18,
-      "total": 37
-    },
-    "builds": 2,
-    "mods": [
-      {
-        "text": "attacks have +#% to critical strike chance",
-        "trade_ids": [
-          "implicit.stat_2572042788"
         ]
       }
     ]
@@ -743,6 +760,18 @@
   {
     "item": "Vaal Caress",
     "stats": "+# to level of socketed duration gems",
+    "average": 670.12,
+    "prices": [
+      670.12,
+      670.12,
+      670.12,
+      837.65
+    ],
+    "search": {
+      "id": "abo0zLRHe",
+      "complexity": 18,
+      "total": 4
+    },
     "builds": 2,
     "mods": [
       {
@@ -928,6 +957,18 @@
   {
     "item": "The Poet's Pen",
     "stats": "damage penetrates #% elemental resistances",
+    "average": 251.29500000000002,
+    "prices": [
+      167.53,
+      167.53,
+      335.06,
+      335.06
+    ],
+    "search": {
+      "id": "LeWk24Bin",
+      "complexity": 18,
+      "total": 4
+    },
     "builds": 2,
     "mods": [
       {
@@ -941,6 +982,23 @@
   {
     "item": "Malachai's Loop",
     "stats": "+# to level of socketed gems",
+    "average": 521.2044444444444,
+    "prices": [
+      167.53,
+      167.53,
+      167.53,
+      335.06,
+      335.06,
+      502.59000000000003,
+      670.12,
+      1172.71,
+      1172.71
+    ],
+    "search": {
+      "id": "rXjkBWrfQ",
+      "complexity": 18,
+      "total": 9
+    },
     "builds": 1,
     "mods": [
       {
@@ -954,6 +1012,13 @@
   {
     "item": "Dialla's Malefaction",
     "stats": "+# to level of socketed gems, +#% to all maximum resistances",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "Ey6M5KKC5",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -973,6 +1038,13 @@
   {
     "item": "Dialla's Malefaction",
     "stats": "+# to level of socketed aura gems, +#% to all maximum resistances",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "RVYOWygF7",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -992,6 +1064,13 @@
   {
     "item": "Dialla's Malefaction",
     "stats": "+# to level of socketed aoe gems, #% additional physical damage reduction while stationary",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "mXjQBqBu6",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -1011,6 +1090,13 @@
   {
     "item": "Dialla's Malefaction",
     "stats": "+# to level of socketed projectile gems, #% increased maximum life",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "Zb2nDbEtQ",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -1030,6 +1116,24 @@
   {
     "item": "Ixchel's Temptation",
     "stats": "#% increased rarity of items found",
+    "average": 21.4,
+    "prices": [
+      19,
+      20,
+      20,
+      20,
+      20,
+      20,
+      20,
+      25,
+      25,
+      25
+    ],
+    "search": {
+      "id": "y9qnw9OiR",
+      "complexity": 18,
+      "total": 94
+    },
     "builds": 1,
     "mods": [
       {
@@ -1043,6 +1147,13 @@
   {
     "item": "Ralakesh's Impatience",
     "stats": "#% increased movement speed",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "mP2QMJLu6",
+      "complexity": 18,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -1056,6 +1167,18 @@
   {
     "item": "Badge of the Brotherhood",
     "stats": "+#% to all elemental resistances",
+    "average": 586.355,
+    "prices": [
+      167.53,
+      502.59000000000003,
+      586.355,
+      670.12
+    ],
+    "search": {
+      "id": "4dla0gMH9",
+      "complexity": 18,
+      "total": 4
+    },
     "builds": 1,
     "mods": [
       {
@@ -1069,6 +1192,15 @@
   {
     "item": "Badge of the Brotherhood",
     "stats": "#% of cold damage leeched as life",
+    "average": 335.06,
+    "prices": [
+      335.06
+    ],
+    "search": {
+      "id": "9Yv62Y4iK",
+      "complexity": 19,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -1083,6 +1215,15 @@
   {
     "item": "The Fourth Vow",
     "stats": "+# to level of socketed minion gems, #% additional physical damage reduction while stationary",
+    "average": 1005.1800000000001,
+    "prices": [
+      1005.1800000000001
+    ],
+    "search": {
+      "id": "9Yv3JpKcK",
+      "complexity": 29,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -1102,6 +1243,23 @@
   {
     "item": "Demon Stitcher",
     "stats": "+# to level of socketed aura gems",
+    "average": 65.28777777777778,
+    "prices": [
+      10,
+      10,
+      10,
+      15,
+      20,
+      20,
+      167.53,
+      167.53,
+      167.53
+    ],
+    "search": {
+      "id": "8a2GpmBIV",
+      "complexity": 18,
+      "total": 9
+    },
     "builds": 1,
     "mods": [
       {
@@ -1115,6 +1273,13 @@
   {
     "item": "Matua Tupuna",
     "stats": "+# to level of socketed gems, #% increased maximum energy shield",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "RVYRokac7",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -1133,7 +1298,33 @@
   },
   {
     "item": "Matua Tupuna",
+    "stats": "+# to level of socketed aoe gems, +#% to maximum chance to block attack damage",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "+# to level of socketed aoe gems",
+        "trade_ids": [
+          "implicit.stat_2551600084"
+        ]
+      },
+      {
+        "text": "+#% to maximum chance to block attack damage",
+        "trade_ids": [
+          "implicit.stat_4124805414"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Matua Tupuna",
     "stats": "+# to level of socketed aoe gems, +# to level of socketed trap or mine gems",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "Ey6lVBVu5",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -4151,6 +4342,19 @@
         "text": "#% of physical damage from hits taken as fire damage",
         "trade_ids": [
           "implicit.stat_3342989455"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Sentari's Answer",
+    "stats": "you take #% reduced extra damage from critical strikes",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "you take #% reduced extra damage from critical strikes",
+        "trade_ids": [
+          "implicit.stat_3855016469"
         ]
       }
     ]
