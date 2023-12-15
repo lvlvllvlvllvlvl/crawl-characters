@@ -3250,6 +3250,13 @@
   {
     "item": "Dendrobate",
     "stats": "+# to level of socketed gems, +# to level of socketed duration gems",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "yrJqJ6qhR",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -3269,6 +3276,24 @@
   {
     "item": "Ephemeral Edge",
     "stats": "#% increased area of effect",
+    "average": 17.444444444444443,
+    "prices": [
+      3,
+      5,
+      15,
+      19,
+      20,
+      20,
+      20,
+      25,
+      30,
+      164.03
+    ],
+    "search": {
+      "id": "vlP9onDSE",
+      "complexity": 18,
+      "total": 13
+    },
     "builds": 1,
     "mods": [
       {
@@ -3282,6 +3307,24 @@
   {
     "item": "Ephemeral Edge",
     "stats": "#% chance to gain onslaught for # seconds on kill",
+    "average": 14.222222222222221,
+    "prices": [
+      5,
+      7,
+      10,
+      10,
+      19,
+      19,
+      19,
+      19,
+      20,
+      65
+    ],
+    "search": {
+      "id": "z27GpRRI4",
+      "complexity": 18,
+      "total": 11
+    },
     "builds": 1,
     "mods": [
       {
@@ -3295,6 +3338,24 @@
   {
     "item": "Eye of Malice",
     "stats": "regenerate #% of life per second",
+    "average": 6.666666666666667,
+    "prices": [
+      5,
+      5,
+      5,
+      5,
+      10,
+      10,
+      15,
+      20,
+      25,
+      30
+    ],
+    "search": {
+      "id": "LmdYYb5Fn",
+      "complexity": 18,
+      "total": 15
+    },
     "builds": 1,
     "mods": [
       {
@@ -3308,6 +3369,17 @@
   {
     "item": "Perquil's Toe",
     "stats": "you can apply an additional curse",
+    "average": 164.03,
+    "prices": [
+      164.03,
+      164.03,
+      656.12
+    ],
+    "search": {
+      "id": "aboaB4aSe",
+      "complexity": 18,
+      "total": 3
+    },
     "builds": 1,
     "mods": [
       {
