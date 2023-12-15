@@ -454,6 +454,37 @@
     ]
   },
   {
+    "item": "Soul Mantle",
+    "stats": "+# to level of socketed projectile gems",
+    "average": 155.2125,
+    "prices": [
+      60,
+      85,
+      120,
+      130,
+      140,
+      170.34,
+      170.34,
+      170.34,
+      170.34,
+      170.34
+    ],
+    "search": {
+      "id": "rY5anw7cQ",
+      "complexity": 18,
+      "total": 45
+    },
+    "builds": 4,
+    "mods": [
+      {
+        "text": "+# to level of socketed projectile gems",
+        "trade_ids": [
+          "implicit.stat_2176571093"
+        ]
+      }
+    ]
+  },
+  {
     "item": "March of the Legion",
     "stats": "+# to level of socketed aoe gems",
     "average": 8.2,
@@ -511,6 +542,37 @@
         "text": "#% increased damage",
         "trade_ids": [
           "implicit.stat_2154246560"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Bisco's Leash",
+    "stats": "#% increased rarity of items found",
+    "average": 502.80300000000005,
+    "prices": [
+      391.06899999999996,
+      391.06899999999996,
+      476.08399999999995,
+      493.087,
+      493.087,
+      493.087,
+      510.09000000000003,
+      510.09000000000003,
+      510.09000000000003,
+      510.09000000000003
+    ],
+    "search": {
+      "id": "XqDqJw7fP",
+      "complexity": 18,
+      "total": 48
+    },
+    "builds": 4,
+    "mods": [
+      {
+        "text": "#% increased rarity of items found",
+        "trade_ids": [
+          "implicit.stat_3917489142"
         ]
       }
     ]
@@ -734,37 +796,6 @@
     ]
   },
   {
-    "item": "Soul Mantle",
-    "stats": "+# to level of socketed projectile gems",
-    "average": 155.2125,
-    "prices": [
-      60,
-      85,
-      120,
-      130,
-      140,
-      170.34,
-      170.34,
-      170.34,
-      170.34,
-      170.34
-    ],
-    "search": {
-      "id": "rY5anw7cQ",
-      "complexity": 18,
-      "total": 45
-    },
-    "builds": 3,
-    "mods": [
-      {
-        "text": "+# to level of socketed projectile gems",
-        "trade_ids": [
-          "implicit.stat_2176571093"
-        ]
-      }
-    ]
-  },
-  {
     "item": "Vaal Caress",
     "stats": "+# to level of socketed aoe gems",
     "average": 1059.3492857142858,
@@ -788,37 +819,6 @@
         "text": "+# to level of socketed aoe gems",
         "trade_ids": [
           "implicit.stat_2551600084"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Bisco's Leash",
-    "stats": "#% increased rarity of items found",
-    "average": 502.80300000000005,
-    "prices": [
-      391.06899999999996,
-      391.06899999999996,
-      476.08399999999995,
-      493.087,
-      493.087,
-      493.087,
-      510.09000000000003,
-      510.09000000000003,
-      510.09000000000003,
-      510.09000000000003
-    ],
-    "search": {
-      "id": "XqDqJw7fP",
-      "complexity": 18,
-      "total": 48
-    },
-    "builds": 3,
-    "mods": [
-      {
-        "text": "#% increased rarity of items found",
-        "trade_ids": [
-          "implicit.stat_3917489142"
         ]
       }
     ]
@@ -1938,6 +1938,24 @@
   {
     "item": "Shavronne's Wrappings",
     "stats": "+# to level of socketed aura gems",
+    "average": 32,
+    "prices": [
+      9,
+      20,
+      30,
+      35,
+      40,
+      40,
+      50,
+      100,
+      683.04,
+      683.04
+    ],
+    "search": {
+      "id": "3BrP4bGs5",
+      "complexity": 18,
+      "total": 12
+    },
     "builds": 2,
     "mods": [
       {
@@ -2335,6 +2353,19 @@
     ]
   },
   {
+    "item": "Ralakesh's Impatience",
+    "stats": "+# to maximum endurance charges",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "+# to maximum endurance charges",
+        "trade_ids": [
+          "implicit.stat_1515657623"
+        ]
+      }
+    ]
+  },
+  {
     "item": "Badge of the Brotherhood",
     "stats": "+#% to all elemental resistances",
     "average": null,
@@ -2490,6 +2521,24 @@
   {
     "item": "The Fourth Vow",
     "stats": "+# to level of socketed gems",
+    "average": 3970.1699999999996,
+    "prices": [
+      2561.3999999999996,
+      2902.92,
+      3073.68,
+      3415.2,
+      4269,
+      4439.76,
+      5122.799999999999,
+      5976.599999999999,
+      8538,
+      15368.4
+    ],
+    "search": {
+      "id": "VyBKDqPSp",
+      "complexity": 18,
+      "total": 11
+    },
     "builds": 1,
     "mods": [
       {
@@ -3369,6 +3418,24 @@
   {
     "item": "Call of the Brotherhood",
     "stats": "zealotry has #% increased aura effect",
+    "average": 22.5,
+    "prices": [
+      10,
+      10,
+      15,
+      20,
+      25,
+      30,
+      30,
+      40,
+      50,
+      170.76
+    ],
+    "search": {
+      "id": "wpVlMn9ib",
+      "complexity": 18,
+      "total": 19
+    },
     "builds": 1,
     "mods": [
       {
@@ -5256,6 +5323,25 @@
   },
   {
     "item": "The Torrent's Reclamation",
+    "stats": "#% increased rarity of items found, +#% to all elemental resistances",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "#% increased rarity of items found",
+        "trade_ids": [
+          "implicit.stat_3917489142"
+        ]
+      },
+      {
+        "text": "+#% to all elemental resistances",
+        "trade_ids": [
+          "implicit.stat_2901986750"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "The Torrent's Reclamation",
     "stats": "#% increased maximum life, +#% to critical strike multiplier during any flask effect",
     "average": null,
     "prices": [],
@@ -6539,6 +6625,24 @@
   {
     "item": "Haemophilia",
     "stats": "curse enemies with vulnerability on hit",
+    "average": 841.8468,
+    "prices": [
+      768.42,
+      768.42,
+      785.4959999999999,
+      819.6479999999999,
+      836.724,
+      853.8,
+      853.8,
+      887.952,
+      922.104,
+      922.104
+    ],
+    "search": {
+      "id": "W5XVezVsm",
+      "complexity": 18,
+      "total": 21
+    },
     "builds": 1,
     "mods": [
       {
@@ -6997,6 +7101,24 @@
   {
     "item": "The Covenant",
     "stats": "+# to level of socketed aura gems",
+    "average": 702.0133333333332,
+    "prices": [
+      170.76,
+      341.52,
+      512.28,
+      683.04,
+      853.8,
+      853.8,
+      853.8,
+      1024.56,
+      1024.56,
+      2561.3999999999996
+    ],
+    "search": {
+      "id": "7lRgXeBS5",
+      "complexity": 18,
+      "total": 11
+    },
     "builds": 1,
     "mods": [
       {
@@ -7010,6 +7132,24 @@
   {
     "item": "The Covenant",
     "stats": "#% increased maximum energy shield",
+    "average": 664.812,
+    "prices": [
+      70,
+      100,
+      160,
+      170.76,
+      256.14,
+      683.04,
+      1024.56,
+      1109.94,
+      1536.84,
+      1536.84
+    ],
+    "search": {
+      "id": "YVoWm0RiY",
+      "complexity": 18,
+      "total": 10
+    },
     "builds": 1,
     "mods": [
       {
@@ -7023,6 +7163,13 @@
   {
     "item": "Transcendent Mind",
     "stats": "corrupted blood cannot be inflicted on you",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "8ad6EgbfV",
+      "complexity": 18,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -7036,6 +7183,24 @@
   {
     "item": "Viridi's Veil",
     "stats": "+# to level of socketed aoe gems",
+    "average": 159.47999999999996,
+    "prices": [
+      40,
+      100,
+      100,
+      170.76,
+      170.76,
+      170.76,
+      170.76,
+      256.14,
+      256.14,
+      341.52
+    ],
+    "search": {
+      "id": "BEJGbe4T8",
+      "complexity": 18,
+      "total": 12
+    },
     "builds": 1,
     "mods": [
       {
@@ -7049,6 +7214,24 @@
   {
     "item": "Viridi's Veil",
     "stats": "socketed skill gems get a #% cost & reservation multiplier",
+    "average": 389.33279999999996,
+    "prices": [
+      256.14,
+      307.368,
+      341.52,
+      341.52,
+      341.52,
+      341.52,
+      426.9,
+      512.28,
+      512.28,
+      512.28
+    ],
+    "search": {
+      "id": "9qlwZXQUK",
+      "complexity": 18,
+      "total": 16
+    },
     "builds": 1,
     "mods": [
       {
@@ -7062,6 +7245,24 @@
   {
     "item": "Alpha's Howl",
     "stats": "+# to maximum power charges",
+    "average": 125.804,
+    "prices": [
+      80,
+      80,
+      90,
+      100,
+      105,
+      120,
+      170.76,
+      170.76,
+      170.76,
+      170.76
+    ],
+    "search": {
+      "id": "lXjLVaVUV",
+      "complexity": 18,
+      "total": 18
+    },
     "builds": 1,
     "mods": [
       {
@@ -7075,6 +7276,24 @@
   {
     "item": "Alpha's Howl",
     "stats": "+# to level of socketed duration gems",
+    "average": 21.3,
+    "prices": [
+      10,
+      10,
+      10,
+      10,
+      14,
+      15,
+      20,
+      40,
+      40,
+      44
+    ],
+    "search": {
+      "id": "Zb5OD8mCQ",
+      "complexity": 18,
+      "total": 19
+    },
     "builds": 1,
     "mods": [
       {
@@ -7088,6 +7307,24 @@
   {
     "item": "Oskarm",
     "stats": "attacks have +#% to critical strike chance",
+    "average": 14.5,
+    "prices": [
+      10,
+      10,
+      10,
+      15,
+      15,
+      15,
+      15,
+      15,
+      20,
+      20
+    ],
+    "search": {
+      "id": "rXpPWX7CQ",
+      "complexity": 18,
+      "total": 66
+    },
     "builds": 1,
     "mods": [
       {
@@ -7101,6 +7338,16 @@
   {
     "item": "Oskarm",
     "stats": "+# to level of socketed trap or mine gems, curse enemies with vulnerability on hit",
+    "average": 1366.08,
+    "prices": [
+      683.04,
+      2049.12
+    ],
+    "search": {
+      "id": "WVrvPVDum",
+      "complexity": 29,
+      "total": 2
+    },
     "builds": 1,
     "mods": [
       {
@@ -7120,6 +7367,21 @@
   {
     "item": "Redblade Banner",
     "stats": "you take #% reduced extra damage from critical strikes",
+    "average": 665.9639999999999,
+    "prices": [
+      512.28,
+      597.66,
+      683.04,
+      683.04,
+      853.8,
+      1536.84,
+      10245.599999999999
+    ],
+    "search": {
+      "id": "BEJKXnjC8",
+      "complexity": 18,
+      "total": 7
+    },
     "builds": 1,
     "mods": [
       {
@@ -7133,6 +7395,13 @@
   {
     "item": "Lightning Coil",
     "stats": "+# to level of socketed aoe gems, +# to level of socketed projectile gems",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "zeBjrpvH4",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
