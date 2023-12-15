@@ -73,8 +73,8 @@ async function fetchAndSave(
     return { ok: null, status: null, error };
   });
 
-  if (r.status === 404) {
-    throw 404;
+  if (r.status === 404 || r.status === 403) {
+    throw "ignored error";
   } else if (!r.ok) {
     error = true;
     if ("error" in r) {
