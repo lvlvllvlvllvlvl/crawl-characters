@@ -210,6 +210,37 @@
   },
   {
     "item": "String of Servitude",
+    "stats": "wrath has #% increased aura effect",
+    "average": 2.8,
+    "prices": [
+      1,
+      1,
+      2,
+      2,
+      3,
+      3,
+      4,
+      4,
+      4,
+      4
+    ],
+    "search": {
+      "id": "GZyglgohb",
+      "complexity": 18,
+      "total": 78
+    },
+    "builds": 5,
+    "mods": [
+      {
+        "text": "wrath has #% increased aura effect",
+        "trade_ids": [
+          "implicit.stat_2181791238"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "String of Servitude",
     "stats": "#% increased rarity of items found",
     "average": 4.555555555555555,
     "prices": [
@@ -333,37 +364,6 @@
     ]
   },
   {
-    "item": "String of Servitude",
-    "stats": "wrath has #% increased aura effect",
-    "average": 2.8,
-    "prices": [
-      1,
-      1,
-      2,
-      2,
-      3,
-      3,
-      4,
-      4,
-      4,
-      4
-    ],
-    "search": {
-      "id": "GZyglgohb",
-      "complexity": 18,
-      "total": 78
-    },
-    "builds": 4,
-    "mods": [
-      {
-        "text": "wrath has #% increased aura effect",
-        "trade_ids": [
-          "implicit.stat_2181791238"
-        ]
-      }
-    ]
-  },
-  {
     "item": "March of the Legion",
     "stats": "+# to level of socketed aoe gems",
     "average": 8.2,
@@ -480,6 +480,37 @@
         "text": "attacks have +#% to critical strike chance",
         "trade_ids": [
           "implicit.stat_2572042788"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Ephemeral Edge",
+    "stats": "#% increased area of effect",
+    "average": 76.20200000000001,
+    "prices": [
+      1,
+      10,
+      20,
+      20,
+      30,
+      50,
+      120,
+      170.34,
+      170.34,
+      170.34
+    ],
+    "search": {
+      "id": "vlP9onDSE",
+      "complexity": 18,
+      "total": 11
+    },
+    "builds": 4,
+    "mods": [
+      {
+        "text": "#% increased area of effect",
+        "trade_ids": [
+          "implicit.stat_280731498"
         ]
       }
     ]
@@ -734,6 +765,37 @@
     ]
   },
   {
+    "item": "Bisco's Leash",
+    "stats": "#% increased rarity of items found",
+    "average": 502.80300000000005,
+    "prices": [
+      391.06899999999996,
+      391.06899999999996,
+      476.08399999999995,
+      493.087,
+      493.087,
+      493.087,
+      510.09000000000003,
+      510.09000000000003,
+      510.09000000000003,
+      510.09000000000003
+    ],
+    "search": {
+      "id": "XqDqJw7fP",
+      "complexity": 18,
+      "total": 48
+    },
+    "builds": 3,
+    "mods": [
+      {
+        "text": "#% increased rarity of items found",
+        "trade_ids": [
+          "implicit.stat_3917489142"
+        ]
+      }
+    ]
+  },
+  {
     "item": "Kaom's Spirit",
     "stats": "attacks have +#% to critical strike chance",
     "average": 488.87579999999997,
@@ -760,37 +822,6 @@
         "text": "attacks have +#% to critical strike chance",
         "trade_ids": [
           "implicit.stat_2572042788"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Ephemeral Edge",
-    "stats": "#% increased area of effect",
-    "average": 76.20200000000001,
-    "prices": [
-      1,
-      10,
-      20,
-      20,
-      30,
-      50,
-      120,
-      170.34,
-      170.34,
-      170.34
-    ],
-    "search": {
-      "id": "vlP9onDSE",
-      "complexity": 18,
-      "total": 11
-    },
-    "builds": 3,
-    "mods": [
-      {
-        "text": "#% increased area of effect",
-        "trade_ids": [
-          "implicit.stat_280731498"
         ]
       }
     ]
@@ -1397,37 +1428,6 @@
         "text": "corrupted blood cannot be inflicted on you",
         "trade_ids": [
           "implicit.stat_1658498488"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Bisco's Leash",
-    "stats": "#% increased rarity of items found",
-    "average": 502.80300000000005,
-    "prices": [
-      391.06899999999996,
-      391.06899999999996,
-      476.08399999999995,
-      493.087,
-      493.087,
-      493.087,
-      510.09000000000003,
-      510.09000000000003,
-      510.09000000000003,
-      510.09000000000003
-    ],
-    "search": {
-      "id": "XqDqJw7fP",
-      "complexity": 18,
-      "total": 48
-    },
-    "builds": 2,
-    "mods": [
-      {
-        "text": "#% increased rarity of items found",
-        "trade_ids": [
-          "implicit.stat_3917489142"
         ]
       }
     ]
@@ -2693,6 +2693,13 @@
   {
     "item": "Southbound",
     "stats": "curse enemies with enfeeble on hit, +#% to spell critical strike chance",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "PdyQjGDiL",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -2712,6 +2719,24 @@
   {
     "item": "Southbound",
     "stats": "+# to level of socketed aoe gems",
+    "average": 5,
+    "prices": [
+      4,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      9,
+      9
+    ],
+    "search": {
+      "id": "rY5Xe0McQ",
+      "complexity": 18,
+      "total": 44
+    },
     "builds": 1,
     "mods": [
       {
@@ -2725,6 +2750,15 @@
   {
     "item": "Southbound",
     "stats": "+# to level of socketed duration gems, +# to level of socketed aura gems",
+    "average": 60,
+    "prices": [
+      60
+    ],
+    "search": {
+      "id": "nXqLvmMH0",
+      "complexity": 29,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -2744,6 +2778,13 @@
   {
     "item": "Southbound",
     "stats": "+# to level of socketed projectile gems, +#% to spell critical strike chance",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "DLkBXM5u5",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -2763,6 +2804,24 @@
   {
     "item": "Demon Stitcher",
     "stats": "+# to level of socketed aura gems",
+    "average": 15,
+    "prices": [
+      5,
+      5,
+      5,
+      5,
+      10,
+      10,
+      10,
+      20,
+      40,
+      40
+    ],
+    "search": {
+      "id": "8a2GpmBIV",
+      "complexity": 18,
+      "total": 21
+    },
     "builds": 1,
     "mods": [
       {
@@ -2776,6 +2835,13 @@
   {
     "item": "Matua Tupuna",
     "stats": "+# to level of socketed gems, #% increased maximum energy shield",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "RVYRokac7",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -2795,6 +2861,13 @@
   {
     "item": "Matua Tupuna",
     "stats": "+# to level of socketed aoe gems, +#% to maximum chance to block attack damage",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "GkWVPQBtb",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -2814,6 +2887,24 @@
   {
     "item": "Matua Tupuna",
     "stats": "#% of physical damage from hits taken as fire damage",
+    "average": 15.9,
+    "prices": [
+      5,
+      5,
+      7,
+      9,
+      9,
+      15,
+      20,
+      29,
+      30,
+      30
+    ],
+    "search": {
+      "id": "PdlBV3ghL",
+      "complexity": 18,
+      "total": 18
+    },
     "builds": 1,
     "mods": [
       {
@@ -2827,6 +2918,13 @@
   {
     "item": "Matua Tupuna",
     "stats": "+# to level of socketed aoe gems, +# to level of socketed trap or mine gems",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "Ey6lVBVu5",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -2846,6 +2944,13 @@
   {
     "item": "Matua Tupuna",
     "stats": "+# to level of socketed aura gems, #% reduced area damage taken from hits",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "nXm4lKBu0",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -2865,6 +2970,24 @@
   {
     "item": "Matua Tupuna",
     "stats": "#% increased maximum energy shield",
+    "average": 8,
+    "prices": [
+      3,
+      5,
+      5,
+      5,
+      5,
+      5,
+      10,
+      12,
+      15,
+      15
+    ],
+    "search": {
+      "id": "LeW45Y7sn",
+      "complexity": 18,
+      "total": 23
+    },
     "builds": 1,
     "mods": [
       {
@@ -2878,6 +3001,24 @@
   {
     "item": "Matua Tupuna",
     "stats": "+# to level of socketed duration gems",
+    "average": 15.555555555555555,
+    "prices": [
+      1,
+      10,
+      10,
+      10,
+      15,
+      16,
+      19,
+      20,
+      20,
+      20
+    ],
+    "search": {
+      "id": "eXW0Q3wUL",
+      "complexity": 18,
+      "total": 26
+    },
     "builds": 1,
     "mods": [
       {
@@ -2891,6 +3032,15 @@
   {
     "item": "Sin Trek",
     "stats": "+# to level of socketed aura gems, +# to global evasion rating while moving",
+    "average": 10,
+    "prices": [
+      10
+    ],
+    "search": {
+      "id": "JVn8QVOcl",
+      "complexity": 29,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -2910,6 +3060,15 @@
   {
     "item": "Sin Trek",
     "stats": "+# to level of socketed aura gems, +# to maximum endurance charges",
+    "average": 20,
+    "prices": [
+      20
+    ],
+    "search": {
+      "id": "EyDeL0Yf5",
+      "complexity": 29,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -2929,6 +3088,13 @@
   {
     "item": "Call of the Brotherhood",
     "stats": "adds # to # lightning damage to spells and attacks, hatred has #% increased aura effect",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "mPakm7at6",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
