@@ -1,5 +1,36 @@
 [
   {
+    "item": "String of Servitude",
+    "stats": "hatred has #% increased aura effect",
+    "average": 7.3,
+    "prices": [
+      4,
+      5,
+      5,
+      5,
+      5,
+      9,
+      10,
+      10,
+      10,
+      10
+    ],
+    "search": {
+      "id": "OpJoQXOSE",
+      "complexity": 18,
+      "total": 75
+    },
+    "builds": 8,
+    "mods": [
+      {
+        "text": "hatred has #% increased aura effect",
+        "trade_ids": [
+          "implicit.stat_3742945352"
+        ]
+      }
+    ]
+  },
+  {
     "item": "Southbound",
     "stats": "+#% to spell critical strike chance",
     "average": 116.18666666666667,
@@ -56,37 +87,6 @@
     ]
   },
   {
-    "item": "String of Servitude",
-    "stats": "hatred has #% increased aura effect",
-    "average": 7.3,
-    "prices": [
-      4,
-      5,
-      5,
-      5,
-      5,
-      9,
-      10,
-      10,
-      10,
-      10
-    ],
-    "search": {
-      "id": "OpJoQXOSE",
-      "complexity": 18,
-      "total": 75
-    },
-    "builds": 7,
-    "mods": [
-      {
-        "text": "hatred has #% increased aura effect",
-        "trade_ids": [
-          "implicit.stat_3742945352"
-        ]
-      }
-    ]
-  },
-  {
     "item": "Matua Tupuna",
     "stats": "+# to level of socketed aura gems",
     "average": 846.8331428571428,
@@ -105,7 +105,7 @@
       "complexity": 18,
       "total": 8
     },
-    "builds": 6,
+    "builds": 7,
     "mods": [
       {
         "text": "+# to level of socketed aura gems",
@@ -418,6 +418,37 @@
         "text": "attacks have +#% to critical strike chance",
         "trade_ids": [
           "implicit.stat_2572042788"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Victario's Influence",
+    "stats": "+# to level of socketed aura gems",
+    "average": 7.8,
+    "prices": [
+      3,
+      5,
+      5,
+      5,
+      10,
+      10,
+      10,
+      10,
+      10,
+      10
+    ],
+    "search": {
+      "id": "806kqWnUV",
+      "complexity": 18,
+      "total": 113
+    },
+    "builds": 3,
+    "mods": [
+      {
+        "text": "+# to level of socketed aura gems",
+        "trade_ids": [
+          "implicit.stat_2452998583"
         ]
       }
     ]
@@ -792,6 +823,20 @@
   {
     "item": "Victario's Influence",
     "stats": "+# to level of socketed aoe gems, +# to level of socketed curse gems",
+    "average": 238.658,
+    "prices": [
+      170.47,
+      170.47,
+      170.47,
+      340.94,
+      340.94,
+      1363.76
+    ],
+    "search": {
+      "id": "mXYK6eRf6",
+      "complexity": 29,
+      "total": 6
+    },
     "builds": 2,
     "mods": [
       {
@@ -841,37 +886,6 @@
   },
   {
     "item": "Victario's Influence",
-    "stats": "+# to level of socketed aura gems",
-    "average": 7.8,
-    "prices": [
-      3,
-      5,
-      5,
-      5,
-      10,
-      10,
-      10,
-      10,
-      10,
-      10
-    ],
-    "search": {
-      "id": "806kqWnUV",
-      "complexity": 18,
-      "total": 113
-    },
-    "builds": 2,
-    "mods": [
-      {
-        "text": "+# to level of socketed aura gems",
-        "trade_ids": [
-          "implicit.stat_2452998583"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Victario's Influence",
     "stats": "+# to level of socketed aoe gems",
     "average": 6.777777777777778,
     "prices": [
@@ -904,6 +918,24 @@
   {
     "item": "Incandescent Heart",
     "stats": "+# to level of socketed gems",
+    "average": 113.23500000000001,
+    "prices": [
+      20,
+      40,
+      40,
+      80,
+      100,
+      170.47,
+      170.47,
+      170.47,
+      170.47,
+      170.47
+    ],
+    "search": {
+      "id": "kPK0blrU5",
+      "complexity": 18,
+      "total": 26
+    },
     "builds": 2,
     "mods": [
       {
@@ -917,6 +949,24 @@
   {
     "item": "Shaper's Touch",
     "stats": "+# to level of socketed aura gems",
+    "average": 57.888888888888886,
+    "prices": [
+      50,
+      50,
+      51,
+      57,
+      60,
+      60,
+      60,
+      65,
+      68,
+      75
+    ],
+    "search": {
+      "id": "0PQ6vEghg",
+      "complexity": 18,
+      "total": 32
+    },
     "builds": 2,
     "mods": [
       {
@@ -961,6 +1011,24 @@
   {
     "item": "Sadima's Touch",
     "stats": "curse enemies with elemental weakness on hit",
+    "average": 10,
+    "prices": [
+      8,
+      10,
+      10,
+      10,
+      10,
+      10,
+      10,
+      10,
+      15,
+      15
+    ],
+    "search": {
+      "id": "mP2gJyBu6",
+      "complexity": 18,
+      "total": 77
+    },
     "builds": 2,
     "mods": [
       {
@@ -974,6 +1042,24 @@
   {
     "item": "Sadima's Touch",
     "stats": "+#% to spell critical strike chance",
+    "average": 7.6,
+    "prices": [
+      4,
+      5,
+      5,
+      5,
+      8,
+      9,
+      10,
+      10,
+      10,
+      10
+    ],
+    "search": {
+      "id": "plL0P4Jt0",
+      "complexity": 18,
+      "total": 113
+    },
     "builds": 2,
     "mods": [
       {
@@ -987,6 +1073,24 @@
   {
     "item": "Goldwyrm",
     "stats": "+#% chance to suppress spell damage",
+    "average": 6.5,
+    "prices": [
+      3,
+      4,
+      5,
+      5,
+      5,
+      5,
+      9,
+      9,
+      10,
+      10
+    ],
+    "search": {
+      "id": "EG8VqLZU5",
+      "complexity": 19,
+      "total": 104
+    },
     "builds": 2,
     "mods": [
       {
@@ -1001,6 +1105,24 @@
   {
     "item": "The Annihilating Light",
     "stats": "#% increased cast speed",
+    "average": 85.29400000000001,
+    "prices": [
+      12,
+      40,
+      50,
+      50,
+      80,
+      80,
+      100,
+      100,
+      170.47,
+      170.47
+    ],
+    "search": {
+      "id": "EG8PzJYF5",
+      "complexity": 18,
+      "total": 21
+    },
     "builds": 2,
     "mods": [
       {
@@ -1014,6 +1136,24 @@
   {
     "item": "March of the Legion",
     "stats": "+# to level of socketed aura gems",
+    "average": 12.6,
+    "prices": [
+      5,
+      5,
+      5,
+      5,
+      11,
+      15,
+      20,
+      20,
+      20,
+      20
+    ],
+    "search": {
+      "id": "LeWwpGjFn",
+      "complexity": 18,
+      "total": 60
+    },
     "builds": 2,
     "mods": [
       {
@@ -1027,6 +1167,24 @@
   {
     "item": "March of the Legion",
     "stats": "+# to level of socketed gems",
+    "average": 4.444444444444445,
+    "prices": [
+      3,
+      3,
+      4,
+      4,
+      5,
+      5,
+      5,
+      5,
+      6,
+      10
+    ],
+    "search": {
+      "id": "jPpB8gdHX",
+      "complexity": 18,
+      "total": 70
+    },
     "builds": 2,
     "mods": [
       {
@@ -1040,6 +1198,24 @@
   {
     "item": "March of the Legion",
     "stats": "+# to level of socketed duration gems",
+    "average": 5,
+    "prices": [
+      2,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5
+    ],
+    "search": {
+      "id": "rXjkno7TQ",
+      "complexity": 18,
+      "total": 83
+    },
     "builds": 2,
     "mods": [
       {
@@ -1053,6 +1229,21 @@
   {
     "item": "Vaal Caress",
     "stats": "+# to level of socketed aoe gems",
+    "average": 1059.3492857142858,
+    "prices": [
+      681.88,
+      852.35,
+      852.35,
+      1022.8199999999999,
+      1022.8199999999999,
+      1448.995,
+      1534.23
+    ],
+    "search": {
+      "id": "mP2MqKJt6",
+      "complexity": 18,
+      "total": 7
+    },
     "builds": 2,
     "mods": [
       {
@@ -1066,6 +1257,24 @@
   {
     "item": "Hyrri's Truth",
     "stats": "you can apply an additional curse",
+    "average": 1539.9123333333334,
+    "prices": [
+      1108.055,
+      1193.29,
+      1363.76,
+      1534.23,
+      1534.23,
+      1670.6060000000002,
+      1704.7,
+      1704.7,
+      2045.6399999999999,
+      2557.05
+    ],
+    "search": {
+      "id": "rY5YQ07CQ",
+      "complexity": 18,
+      "total": 11
+    },
     "builds": 2,
     "mods": [
       {
@@ -1079,6 +1288,24 @@
   {
     "item": "Hrimsorrow",
     "stats": "#% increased maximum life",
+    "average": 4.9,
+    "prices": [
+      2,
+      3,
+      3,
+      3,
+      4,
+      4,
+      5,
+      5,
+      10,
+      10
+    ],
+    "search": {
+      "id": "jPp7k4XuX",
+      "complexity": 18,
+      "total": 36
+    },
     "builds": 2,
     "mods": [
       {
@@ -1092,6 +1319,24 @@
   {
     "item": "Kaom's Heart",
     "stats": "#% increased damage",
+    "average": 340.94,
+    "prices": [
+      170.47,
+      323.893,
+      340.94,
+      340.94,
+      340.94,
+      340.94,
+      340.94,
+      340.94,
+      340.94,
+      340.94
+    ],
+    "search": {
+      "id": "PK7ayEgtL",
+      "complexity": 18,
+      "total": 18
+    },
     "builds": 2,
     "mods": [
       {
@@ -1105,6 +1350,16 @@
   {
     "item": "Ancestral Vision",
     "stats": "corrupted blood cannot be inflicted on you",
+    "average": 6392.625,
+    "prices": [
+      4261.75,
+      8523.5
+    ],
+    "search": {
+      "id": "plLZELbt0",
+      "complexity": 18,
+      "total": 2
+    },
     "builds": 2,
     "mods": [
       {
@@ -1208,6 +1463,19 @@
         "text": "#% increased quantity of items found",
         "trade_ids": [
           "implicit.stat_884586851"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Alpha's Howl",
+    "stats": "+# to level of socketed aura gems",
+    "builds": 2,
+    "mods": [
+      {
+        "text": "+# to level of socketed aura gems",
+        "trade_ids": [
+          "implicit.stat_2452998583"
         ]
       }
     ]
@@ -3519,6 +3787,33 @@
     ]
   },
   {
+    "item": "The Jinxed Juju",
+    "stats": "#% of cold damage leeched as life",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "#% of cold damage leeched as life",
+        "trade_ids": [
+          "implicit.stat_3999401129",
+          "implicit.stat_2459451600"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Asenath's Mark",
+    "stats": "socketed skill gems get a #% cost & reservation multiplier",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "socketed skill gems get a #% cost & reservation multiplier",
+        "trade_ids": [
+          "implicit.stat_2865550257"
+        ]
+      }
+    ]
+  },
+  {
     "item": "Shadows and Dust",
     "stats": "#% increased maximum energy shield, attacks have +#% to critical strike chance",
     "builds": 1,
@@ -4043,19 +4338,6 @@
         "text": "+# to level of socketed duration gems",
         "trade_ids": [
           "implicit.stat_2115168758"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Alpha's Howl",
-    "stats": "+# to level of socketed aura gems",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "+# to level of socketed aura gems",
-        "trade_ids": [
-          "implicit.stat_2452998583"
         ]
       }
     ]
@@ -5005,6 +5287,19 @@
     ]
   },
   {
+    "item": "Cloak of Flame",
+    "stats": "+# to level of socketed gems",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "+# to level of socketed gems",
+        "trade_ids": [
+          "implicit.stat_2843100721"
+        ]
+      }
+    ]
+  },
+  {
     "item": "The Squire",
     "stats": "you take #% reduced extra damage from critical strikes, #% increased maximum life",
     "builds": 1,
@@ -5032,6 +5327,19 @@
         "text": "#% of physical damage from hits taken as chaos damage",
         "trade_ids": [
           "implicit.stat_4129825612"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Saffell's Frame",
+    "stats": "#% of physical damage from hits taken as cold damage",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "#% of physical damage from hits taken as cold damage",
+        "trade_ids": [
+          "implicit.stat_1871056256"
         ]
       }
     ]
