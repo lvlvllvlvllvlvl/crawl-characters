@@ -330,6 +330,37 @@
     ]
   },
   {
+    "item": "Soul Mantle",
+    "stats": "+# to level of socketed projectile gems",
+    "average": 155.2125,
+    "prices": [
+      60,
+      85,
+      120,
+      130,
+      140,
+      170.34,
+      170.34,
+      170.34,
+      170.34,
+      170.34
+    ],
+    "search": {
+      "id": "rY5anw7cQ",
+      "complexity": 18,
+      "total": 45
+    },
+    "builds": 5,
+    "mods": [
+      {
+        "text": "+# to level of socketed projectile gems",
+        "trade_ids": [
+          "implicit.stat_2176571093"
+        ]
+      }
+    ]
+  },
+  {
     "item": "March of the Legion",
     "stats": "+# to level of socketed aoe gems",
     "average": 8.2,
@@ -604,37 +635,6 @@
         "text": "regenerate # life per second while moving",
         "trade_ids": [
           "implicit.stat_2841027131"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Soul Mantle",
-    "stats": "+# to level of socketed projectile gems",
-    "average": 155.2125,
-    "prices": [
-      60,
-      85,
-      120,
-      130,
-      140,
-      170.34,
-      170.34,
-      170.34,
-      170.34,
-      170.34
-    ],
-    "search": {
-      "id": "rY5anw7cQ",
-      "complexity": 18,
-      "total": 45
-    },
-    "builds": 4,
-    "mods": [
-      {
-        "text": "+# to level of socketed projectile gems",
-        "trade_ids": [
-          "implicit.stat_2176571093"
         ]
       }
     ]
@@ -1690,6 +1690,30 @@
         "text": "curse enemies with vulnerability on hit",
         "trade_ids": [
           "implicit.stat_3967845372"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Anathema",
+    "stats": "+#% to all elemental resistances",
+    "average": 683.04,
+    "prices": [
+      683.04,
+      683.04,
+      853.8
+    ],
+    "search": {
+      "id": "jXjMMPXSX",
+      "complexity": 18,
+      "total": 3
+    },
+    "builds": 2,
+    "mods": [
+      {
+        "text": "+#% to all elemental resistances",
+        "trade_ids": [
+          "implicit.stat_2901986750"
         ]
       }
     ]
@@ -4210,6 +4234,19 @@
   },
   {
     "item": "Incandescent Heart",
+    "stats": "+# to level of socketed minion gems",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "+# to level of socketed minion gems",
+        "trade_ids": [
+          "implicit.stat_3604946673"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Incandescent Heart",
     "stats": "#% increased damage",
     "average": 33.888888888888886,
     "prices": [
@@ -6405,30 +6442,6 @@
   },
   {
     "item": "Anathema",
-    "stats": "+#% to all elemental resistances",
-    "average": 683.04,
-    "prices": [
-      683.04,
-      683.04,
-      853.8
-    ],
-    "search": {
-      "id": "jXjMMPXSX",
-      "complexity": 18,
-      "total": 3
-    },
-    "builds": 1,
-    "mods": [
-      {
-        "text": "+#% to all elemental resistances",
-        "trade_ids": [
-          "implicit.stat_2901986750"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Anathema",
     "stats": "bleeding cannot be inflicted on you",
     "average": 8993.359999999999,
     "prices": [
@@ -6722,6 +6735,24 @@
   {
     "item": "Eyes of the Greatwolf",
     "stats": "+#% to global critical strike multiplier",
+    "average": 16.77777777777778,
+    "prices": [
+      4,
+      10,
+      11,
+      11,
+      19,
+      20,
+      20,
+      20,
+      20,
+      20
+    ],
+    "search": {
+      "id": "RVBvyrGF7",
+      "complexity": 18,
+      "total": 283
+    },
     "builds": 1,
     "mods": [
       {
@@ -12026,6 +12057,21 @@
   {
     "item": "Rainbowstride",
     "stats": "+# to level of socketed aura gems",
+    "average": 26.666666666666668,
+    "prices": [
+      20,
+      25,
+      25,
+      30,
+      30,
+      30,
+      50
+    ],
+    "search": {
+      "id": "RVBMBPZh7",
+      "complexity": 18,
+      "total": 7
+    },
     "builds": 1,
     "mods": [
       {
@@ -12039,6 +12085,15 @@
   {
     "item": "Rainbowstride",
     "stats": "+# to level of socketed gems",
+    "average": 100,
+    "prices": [
+      100
+    ],
+    "search": {
+      "id": "BEJE2YLC8",
+      "complexity": 18,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -12052,6 +12107,16 @@
   {
     "item": "Intuitive Leap",
     "stats": "#% increased reservation efficiency of skills",
+    "average": 940.83,
+    "prices": [
+      855.3,
+      1026.3600000000001
+    ],
+    "search": {
+      "id": "dPajBpOIJ",
+      "complexity": 19,
+      "total": 2
+    },
     "builds": 1,
     "mods": [
       {
@@ -12066,6 +12131,24 @@
   {
     "item": "Tanu Ahi",
     "stats": "attacks have +#% to critical strike chance",
+    "average": 264.01079999999996,
+    "prices": [
+      188.16600000000003,
+      205.272,
+      205.272,
+      239.48399999999998,
+      256.59000000000003,
+      193.95,
+      325.014,
+      342.12,
+      342.12,
+      342.12
+    ],
+    "search": {
+      "id": "nXJBg42T0",
+      "complexity": 18,
+      "total": 20
+    },
     "builds": 1,
     "mods": [
       {
@@ -12079,6 +12162,13 @@
   {
     "item": "Breathstealer",
     "stats": "+# to level of socketed aoe gems",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "2BaPbYjIk",
+      "complexity": 18,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -12092,6 +12182,15 @@
   {
     "item": "Breathstealer",
     "stats": "+# to level of socketed gems",
+    "average": 684.24,
+    "prices": [
+      684.24
+    ],
+    "search": {
+      "id": "WVWz0XZtm",
+      "complexity": 18,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -12105,6 +12204,13 @@
   {
     "item": "Coward's Legacy",
     "stats": "#% increased maximum life, zealotry has #% increased aura effect",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "LeW47p5tn",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -12124,6 +12230,17 @@
   {
     "item": "Fleshcrafter",
     "stats": "+# to level of socketed minion gems",
+    "average": 3421.1999999999994,
+    "prices": [
+      1710.6,
+      3421.2,
+      5131.8
+    ],
+    "search": {
+      "id": "4qnzvpvT9",
+      "complexity": 18,
+      "total": 3
+    },
     "builds": 1,
     "mods": [
       {
@@ -12137,6 +12254,24 @@
   {
     "item": "Replica Dragonfang's Flight",
     "stats": "you can apply an additional curse",
+    "average": 148.48444444444442,
+    "prices": [
+      40,
+      90,
+      100,
+      120,
+      171.06,
+      171.06,
+      171.06,
+      171.06,
+      171.06,
+      171.06
+    ],
+    "search": {
+      "id": "no9rlYyH0",
+      "complexity": 18,
+      "total": 18
+    },
     "builds": 1,
     "mods": [
       {
@@ -12150,6 +12285,13 @@
   {
     "item": "Karui Ward",
     "stats": "#% increased movement speed, you can apply an additional curse",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "JV4yb55Il",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -12169,6 +12311,13 @@
   {
     "item": "Fairgraves' Tricorne",
     "stats": "#% increased area of effect",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "VMKQLR8fp",
+      "complexity": 18,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -12182,6 +12331,13 @@
   {
     "item": "Seven-League Step",
     "stats": "+# to level of socketed aura gems, #% increased maximum life",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "YVEoYy6UY",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -12201,6 +12357,13 @@
   {
     "item": "Honourhome",
     "stats": "socketed skill gems get a #% cost & reservation multiplier, +# to maximum power charges",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "3Bb5QJ5i5",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -12220,6 +12383,24 @@
   {
     "item": "Snakebite",
     "stats": "curse enemies with temporal chains on hit",
+    "average": 54.888888888888886,
+    "prices": [
+      20,
+      40,
+      40,
+      50,
+      50,
+      55,
+      60,
+      60,
+      69,
+      70
+    ],
+    "search": {
+      "id": "PK7gj0ZCL",
+      "complexity": 18,
+      "total": 39
+    },
     "builds": 1,
     "mods": [
       {
