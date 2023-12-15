@@ -120,6 +120,37 @@
     ]
   },
   {
+    "item": "String of Servitude",
+    "stats": "#% increased rarity of items found",
+    "average": 3.7,
+    "prices": [
+      2,
+      2,
+      3,
+      3,
+      3,
+      4,
+      5,
+      5,
+      5,
+      5
+    ],
+    "search": {
+      "id": "YVrXkEDUY",
+      "complexity": 18,
+      "total": 41
+    },
+    "builds": 4,
+    "mods": [
+      {
+        "text": "#% increased rarity of items found",
+        "trade_ids": [
+          "implicit.stat_3917489142"
+        ]
+      }
+    ]
+  },
+  {
     "item": "Shadows and Dust",
     "stats": "attacks have +#% to critical strike chance",
     "average": 869.24475,
@@ -244,37 +275,6 @@
     ]
   },
   {
-    "item": "String of Servitude",
-    "stats": "#% increased rarity of items found",
-    "average": 3.7,
-    "prices": [
-      2,
-      2,
-      3,
-      3,
-      3,
-      4,
-      5,
-      5,
-      5,
-      5
-    ],
-    "search": {
-      "id": "YVrXkEDUY",
-      "complexity": 18,
-      "total": 41
-    },
-    "builds": 3,
-    "mods": [
-      {
-        "text": "#% increased rarity of items found",
-        "trade_ids": [
-          "implicit.stat_3917489142"
-        ]
-      }
-    ]
-  },
-  {
     "item": "Sadima's Touch",
     "stats": "attacks have +#% to critical strike chance",
     "average": 108.51199999999999,
@@ -385,6 +385,37 @@
         "text": "attacks have +#% to critical strike chance",
         "trade_ids": [
           "implicit.stat_2572042788"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "March of the Legion",
+    "stats": "+# to level of socketed aoe gems",
+    "average": 13.2,
+    "prices": [
+      5,
+      5,
+      7,
+      10,
+      10,
+      10,
+      15,
+      20,
+      25,
+      25
+    ],
+    "search": {
+      "id": "MVDlG4qFJ",
+      "complexity": 18,
+      "total": 50
+    },
+    "builds": 3,
+    "mods": [
+      {
+        "text": "+# to level of socketed aoe gems",
+        "trade_ids": [
+          "implicit.stat_2551600084"
         ]
       }
     ]
@@ -955,14 +986,14 @@
     ]
   },
   {
-    "item": "March of the Legion",
-    "stats": "+# to level of socketed aoe gems",
+    "item": "Ephemeral Edge",
+    "stats": "#% increased area of effect",
     "builds": 2,
     "mods": [
       {
-        "text": "+# to level of socketed aoe gems",
+        "text": "#% increased area of effect",
         "trade_ids": [
-          "implicit.stat_2551600084"
+          "implicit.stat_280731498"
         ]
       }
     ]
@@ -1312,6 +1343,13 @@
   {
     "item": "Matua Tupuna",
     "stats": "+# to level of socketed aoe gems, +#% to maximum chance to block attack damage",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "GkWVPQBtb",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -1755,6 +1793,17 @@
   {
     "item": "Watcher's Eye",
     "stats": "minions deal #% increased damage",
+    "average": 184.1966666666667,
+    "prices": [
+      50,
+      167.53,
+      335.06
+    ],
+    "search": {
+      "id": "8a24E4qsV",
+      "complexity": 18,
+      "total": 3
+    },
     "builds": 1,
     "mods": [
       {
@@ -1768,6 +1817,24 @@
   {
     "item": "Incandescent Heart",
     "stats": "+# to level of socketed projectile gems",
+    "average": 474.15389999999996,
+    "prices": [
+      0.44,
+      167.53,
+      167.53,
+      167.53,
+      335.06,
+      670.12,
+      753.885,
+      820.897,
+      820.897,
+      837.65
+    ],
+    "search": {
+      "id": "JVdkP85sl",
+      "complexity": 18,
+      "total": 17
+    },
     "builds": 1,
     "mods": [
       {
@@ -1781,6 +1848,17 @@
   {
     "item": "Incandescent Heart",
     "stats": "#% reduced lightning damage taken",
+    "average": 56.666666666666664,
+    "prices": [
+      30,
+      50,
+      90
+    ],
+    "search": {
+      "id": "eXVr4oYhL",
+      "complexity": 18,
+      "total": 3
+    },
     "builds": 1,
     "mods": [
       {
@@ -1794,6 +1872,24 @@
   {
     "item": "Incandescent Heart",
     "stats": "+# to level of socketed duration gems",
+    "average": 738.3790000000001,
+    "prices": [
+      80,
+      100,
+      167.53,
+      167.53,
+      167.53,
+      335.06,
+      670.12,
+      1675.3,
+      2010.3600000000001,
+      2010.3600000000001
+    ],
+    "search": {
+      "id": "OpJM878uE",
+      "complexity": 18,
+      "total": 10
+    },
     "builds": 1,
     "mods": [
       {
@@ -1807,6 +1903,24 @@
   {
     "item": "Incandescent Heart",
     "stats": "+# to level of socketed gems",
+    "average": 67.22222222222223,
+    "prices": [
+      30,
+      40,
+      40,
+      50,
+      70,
+      75,
+      100,
+      100,
+      100,
+      167.53
+    ],
+    "search": {
+      "id": "kPK0blrU5",
+      "complexity": 18,
+      "total": 27
+    },
     "builds": 1,
     "mods": [
       {
@@ -1820,6 +1934,13 @@
   {
     "item": "Incandescent Heart",
     "stats": "+# to level of socketed aoe gems, +# to level of socketed aura gems",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "KJBdY5RI5",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -1839,6 +1960,13 @@
   {
     "item": "Marylene's Fallacy",
     "stats": "+#% to all maximum resistances, malevolence has #% increased aura effect",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "nXqVBGyC0",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -1858,6 +1986,17 @@
   {
     "item": "Marylene's Fallacy",
     "stats": "+#% to all maximum resistances",
+    "average": 117.09833333333334,
+    "prices": [
+      30,
+      70,
+      251.29500000000002
+    ],
+    "search": {
+      "id": "KJ7E63LU5",
+      "complexity": 18,
+      "total": 3
+    },
     "builds": 1,
     "mods": [
       {
@@ -1871,6 +2010,13 @@
   {
     "item": "Southbound",
     "stats": "+# to level of socketed duration gems, +# to level of socketed aura gems",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "nXqLvmMH0",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -1890,6 +2036,13 @@
   {
     "item": "Southbound",
     "stats": "+# to level of socketed projectile gems, +#% to spell critical strike chance",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "DLkBXM5u5",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -1909,6 +2062,24 @@
   {
     "item": "Shaper's Touch",
     "stats": "+# to level of socketed aoe gems",
+    "average": 57.5,
+    "prices": [
+      40,
+      40,
+      50,
+      55,
+      55,
+      60,
+      60,
+      60,
+      75,
+      80
+    ],
+    "search": {
+      "id": "EG8Vq7VU5",
+      "complexity": 18,
+      "total": 31
+    },
     "builds": 1,
     "mods": [
       {
@@ -1922,6 +2093,24 @@
   {
     "item": "Shaper's Touch",
     "stats": "+# to level of socketed aura gems",
+    "average": 88.5,
+    "prices": [
+      60,
+      60,
+      70,
+      80,
+      100,
+      100,
+      100,
+      100,
+      100,
+      115
+    ],
+    "search": {
+      "id": "0PQ6vEghg",
+      "complexity": 18,
+      "total": 24
+    },
     "builds": 1,
     "mods": [
       {
@@ -1935,6 +2124,21 @@
   {
     "item": "Shaper's Touch",
     "stats": "curse enemies with elemental weakness on hit",
+    "average": 712.0024999999999,
+    "prices": [
+      586.355,
+      670.12,
+      670.12,
+      670.12,
+      837.65,
+      837.65,
+      1005.1800000000001
+    ],
+    "search": {
+      "id": "8a2odn2hV",
+      "complexity": 18,
+      "total": 7
+    },
     "builds": 1,
     "mods": [
       {
@@ -2037,6 +2241,19 @@
         "text": "#% reduced fire damage taken",
         "trade_ids": [
           "implicit.stat_3743301799"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Greed's Embrace",
+    "stats": "+# to level of socketed warcry gems",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "+# to level of socketed warcry gems",
+        "trade_ids": [
+          "implicit.stat_1672793731"
         ]
       }
     ]
@@ -3024,6 +3241,96 @@
     ]
   },
   {
+    "item": "Leer Cast",
+    "stats": "+# to maximum power charges",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "+# to maximum power charges",
+        "trade_ids": [
+          "implicit.stat_227523295"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "The Covenant",
+    "stats": "+# to level of socketed aoe gems",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "+# to level of socketed aoe gems",
+        "trade_ids": [
+          "implicit.stat_2551600084"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "The Covenant",
+    "stats": "#% increased damage, #% increased maximum life",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "#% increased damage",
+        "trade_ids": [
+          "implicit.stat_2154246560"
+        ]
+      },
+      {
+        "text": "#% increased maximum life",
+        "trade_ids": [
+          "implicit.stat_983749596"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "The Covenant",
+    "stats": "+# to level of socketed duration gems, +# to level of socketed warcry gems",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "+# to level of socketed duration gems",
+        "trade_ids": [
+          "implicit.stat_2115168758"
+        ]
+      },
+      {
+        "text": "+# to level of socketed warcry gems",
+        "trade_ids": [
+          "implicit.stat_1672793731"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "The Covenant",
+    "stats": "+# to level of socketed aura gems",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "+# to level of socketed aura gems",
+        "trade_ids": [
+          "implicit.stat_2452998583"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "The Covenant",
+    "stats": "#% increased maximum energy shield",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "#% increased maximum energy shield",
+        "trade_ids": [
+          "implicit.stat_2482852589"
+        ]
+      }
+    ]
+  },
+  {
     "item": "Transcendent Mind",
     "stats": "corrupted blood cannot be inflicted on you",
     "builds": 1,
@@ -3899,70 +4206,6 @@
     ]
   },
   {
-    "item": "The Covenant",
-    "stats": "#% increased damage, #% increased maximum life",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "#% increased damage",
-        "trade_ids": [
-          "implicit.stat_2154246560"
-        ]
-      },
-      {
-        "text": "#% increased maximum life",
-        "trade_ids": [
-          "implicit.stat_983749596"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "The Covenant",
-    "stats": "+# to level of socketed duration gems, +# to level of socketed warcry gems",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "+# to level of socketed duration gems",
-        "trade_ids": [
-          "implicit.stat_2115168758"
-        ]
-      },
-      {
-        "text": "+# to level of socketed warcry gems",
-        "trade_ids": [
-          "implicit.stat_1672793731"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "The Covenant",
-    "stats": "+# to level of socketed aura gems",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "+# to level of socketed aura gems",
-        "trade_ids": [
-          "implicit.stat_2452998583"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "The Covenant",
-    "stats": "#% increased maximum energy shield",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "#% increased maximum energy shield",
-        "trade_ids": [
-          "implicit.stat_2482852589"
-        ]
-      }
-    ]
-  },
-  {
     "item": "The Stampede",
     "stats": "regenerate # life per second while moving",
     "builds": 1,
@@ -4022,19 +4265,6 @@
         "text": "#% increased damage",
         "trade_ids": [
           "implicit.stat_2154246560"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Ephemeral Edge",
-    "stats": "#% increased area of effect",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "#% increased area of effect",
-        "trade_ids": [
-          "implicit.stat_280731498"
         ]
       }
     ]
@@ -4111,6 +4341,38 @@
     ]
   },
   {
+    "item": "Sandstorm Visage",
+    "stats": "+# to level of socketed minion gems, +# to level of socketed trap or mine gems",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "+# to level of socketed minion gems",
+        "trade_ids": [
+          "implicit.stat_3604946673"
+        ]
+      },
+      {
+        "text": "+# to level of socketed trap or mine gems",
+        "trade_ids": [
+          "implicit.stat_150668988"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Doedre's Tenure",
+    "stats": "curse enemies with elemental weakness on hit",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "curse enemies with elemental weakness on hit",
+        "trade_ids": [
+          "implicit.stat_2028847114"
+        ]
+      }
+    ]
+  },
+  {
     "item": "Dawnbreaker",
     "stats": "+#% chance to block",
     "builds": 1,
@@ -4124,33 +4386,58 @@
     ]
   },
   {
-    "item": "Doomfletch",
-    "stats": "socketed gems are supported by level # momentum, socketed gems are supported by level # faster projectiles",
+    "item": "Ylfeban's Trickery",
+    "stats": "+# to maximum power charges",
     "builds": 1,
     "mods": [
       {
-        "text": "socketed gems are supported by level # momentum",
+        "text": "+# to maximum power charges",
         "trade_ids": [
-          "implicit.stat_3237923082"
-        ]
-      },
-      {
-        "text": "socketed gems are supported by level # faster projectiles",
-        "trade_ids": [
-          "implicit.stat_99089516"
+          "implicit.stat_227523295"
         ]
       }
     ]
   },
   {
-    "item": "Doomfletch",
-    "stats": "#% increased elemental damage with attack skills",
+    "item": "Ylfeban's Trickery",
+    "stats": "+# to level of socketed projectile gems, +# to maximum power charges",
     "builds": 1,
     "mods": [
       {
-        "text": "#% increased elemental damage with attack skills",
+        "text": "+# to level of socketed projectile gems",
         "trade_ids": [
-          "implicit.stat_387439868"
+          "implicit.stat_2176571093"
+        ]
+      },
+      {
+        "text": "+# to maximum power charges",
+        "trade_ids": [
+          "implicit.stat_227523295"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Hands of the High Templar",
+    "stats": "+# to level of socketed duration gems, +# to level of socketed projectile gems, +# to level of socketed curse gems",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "+# to level of socketed duration gems",
+        "trade_ids": [
+          "implicit.stat_2115168758"
+        ]
+      },
+      {
+        "text": "+# to level of socketed projectile gems",
+        "trade_ids": [
+          "implicit.stat_2176571093"
+        ]
+      },
+      {
+        "text": "+# to level of socketed curse gems",
+        "trade_ids": [
+          "implicit.stat_3691695237"
         ]
       }
     ]
@@ -4207,6 +4494,38 @@
         "text": "attacks have +#% to critical strike chance",
         "trade_ids": [
           "implicit.stat_2572042788"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Doomfletch",
+    "stats": "socketed gems are supported by level # momentum, socketed gems are supported by level # faster projectiles",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "socketed gems are supported by level # momentum",
+        "trade_ids": [
+          "implicit.stat_3237923082"
+        ]
+      },
+      {
+        "text": "socketed gems are supported by level # faster projectiles",
+        "trade_ids": [
+          "implicit.stat_99089516"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Doomfletch",
+    "stats": "#% increased elemental damage with attack skills",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "#% increased elemental damage with attack skills",
+        "trade_ids": [
+          "implicit.stat_387439868"
         ]
       }
     ]
@@ -4330,25 +4649,6 @@
         "text": "#% increased maximum energy shield",
         "trade_ids": [
           "implicit.stat_2482852589"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Ylfeban's Trickery",
-    "stats": "+# to level of socketed projectile gems, +# to maximum power charges",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "+# to level of socketed projectile gems",
-        "trade_ids": [
-          "implicit.stat_2176571093"
-        ]
-      },
-      {
-        "text": "+# to maximum power charges",
-        "trade_ids": [
-          "implicit.stat_227523295"
         ]
       }
     ]
