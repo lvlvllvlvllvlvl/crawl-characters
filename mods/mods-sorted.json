@@ -1554,6 +1554,19 @@
     ]
   },
   {
+    "item": "Kaom's Spirit",
+    "stats": "curse enemies with elemental weakness on hit",
+    "builds": 2,
+    "mods": [
+      {
+        "text": "curse enemies with elemental weakness on hit",
+        "trade_ids": [
+          "implicit.stat_2028847114"
+        ]
+      }
+    ]
+  },
+  {
     "item": "Prism Guardian",
     "stats": "+# to level of socketed gems",
     "average": 170.03,
@@ -2630,6 +2643,13 @@
   {
     "item": "Victario's Influence",
     "stats": "+# to level of socketed gems, #% additional physical damage reduction while stationary",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "jXZZ5YRuX",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -4416,6 +4436,24 @@
   {
     "item": "Goldwyrm",
     "stats": "grants level # haste skill",
+    "average": 4.666666666666667,
+    "prices": [
+      2,
+      4,
+      4,
+      4,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5
+    ],
+    "search": {
+      "id": "3BYY9LJi5",
+      "complexity": 18,
+      "total": 58
+    },
     "builds": 1,
     "mods": [
       {
@@ -4429,6 +4467,24 @@
   {
     "item": "Goldwyrm",
     "stats": "+# to level of socketed curse gems",
+    "average": 3.75,
+    "prices": [
+      2,
+      3,
+      3,
+      4,
+      4,
+      4,
+      4,
+      4,
+      4,
+      5
+    ],
+    "search": {
+      "id": "oZ89EgYsl",
+      "complexity": 18,
+      "total": 90
+    },
     "builds": 1,
     "mods": [
       {
@@ -4442,6 +4498,24 @@
   {
     "item": "Goldwyrm",
     "stats": "+# to level of socketed gems",
+    "average": 9.777777777777779,
+    "prices": [
+      5,
+      9,
+      9,
+      10,
+      10,
+      10,
+      10,
+      10,
+      10,
+      10
+    ],
+    "search": {
+      "id": "DGEnq8vf5",
+      "complexity": 18,
+      "total": 78
+    },
     "builds": 1,
     "mods": [
       {
@@ -4455,6 +4529,15 @@
   {
     "item": "Soul Mantle",
     "stats": "+# to level of socketed gems, +# to level of socketed projectile gems",
+    "average": 10220.4,
+    "prices": [
+      10220.4
+    ],
+    "search": {
+      "id": "0PQbWp7Ig",
+      "complexity": 29,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -4474,6 +4557,13 @@
   {
     "item": "The Annihilating Light",
     "stats": "#% increased cast speed, #% increased critical strike chance",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "DGEDdB2f5",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -4493,6 +4583,13 @@
   {
     "item": "Invictus Solaris",
     "stats": "+# to level of socketed minion gems",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "jXR7WqltX",
+      "complexity": 18,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -4506,6 +4603,16 @@
   {
     "item": "March of the Legion",
     "stats": "+# to level of socketed gems, +# to level of socketed aura gems",
+    "average": 12775.5,
+    "prices": [
+      12775.5,
+      12775.5
+    ],
+    "search": {
+      "id": "GZyEJaBhb",
+      "complexity": 29,
+      "total": 2
+    },
     "builds": 1,
     "mods": [
       {
@@ -4525,6 +4632,13 @@
   {
     "item": "March of the Legion",
     "stats": "#% increased maximum energy shield, #% increased maximum life",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "jPpzDkXSX",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -4544,6 +4658,24 @@
   {
     "item": "March of the Legion",
     "stats": "+# to level of socketed projectile gems",
+    "average": 8.333333333333334,
+    "prices": [
+      2,
+      5,
+      5,
+      8,
+      10,
+      10,
+      10,
+      10,
+      15,
+      20
+    ],
+    "search": {
+      "id": "rXjkzWgCQ",
+      "complexity": 18,
+      "total": 59
+    },
     "builds": 1,
     "mods": [
       {
@@ -4557,6 +4689,17 @@
   {
     "item": "March of the Legion",
     "stats": "+# to level of socketed aoe gems, +# to level of socketed aura gems",
+    "average": 15330.6,
+    "prices": [
+      15330.6,
+      15330.6,
+      32364.600000000002
+    ],
+    "search": {
+      "id": "eXW9nbWFL",
+      "complexity": 29,
+      "total": 3
+    },
     "builds": 1,
     "mods": [
       {
@@ -4576,6 +4719,15 @@
   {
     "item": "March of the Legion",
     "stats": "+# to level of socketed aoe gems, +# to level of socketed projectile gems",
+    "average": 5110.2,
+    "prices": [
+      5110.2
+    ],
+    "search": {
+      "id": "VMKlbvwhp",
+      "complexity": 29,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -4595,6 +4747,13 @@
   {
     "item": "Vaal Caress",
     "stats": "+# to level of socketed duration gems, +# to level of socketed aura gems",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "yrJ0p7rhR",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -4614,6 +4773,24 @@
   {
     "item": "Hyrri's Truth",
     "stats": "#% increased movement speed",
+    "average": 11.9,
+    "prices": [
+      5,
+      5,
+      10,
+      10,
+      13,
+      14,
+      15,
+      15,
+      15,
+      17
+    ],
+    "search": {
+      "id": "y9E6RWBhR",
+      "complexity": 18,
+      "total": 53
+    },
     "builds": 1,
     "mods": [
       {
@@ -4627,6 +4804,24 @@
   {
     "item": "Hyrri's Truth",
     "stats": "+#% to all elemental resistances",
+    "average": 52.285714285714285,
+    "prices": [
+      50,
+      50,
+      50,
+      51,
+      55,
+      55,
+      55,
+      60,
+      66,
+      70
+    ],
+    "search": {
+      "id": "gXJ32daFQ",
+      "complexity": 18,
+      "total": 57
+    },
     "builds": 1,
     "mods": [
       {
@@ -5528,19 +5723,6 @@
     ]
   },
   {
-    "item": "Kaom's Spirit",
-    "stats": "curse enemies with elemental weakness on hit",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "curse enemies with elemental weakness on hit",
-        "trade_ids": [
-          "implicit.stat_2028847114"
-        ]
-      }
-    ]
-  },
-  {
     "item": "Bubonic Trail",
     "stats": "+# to level of socketed gems",
     "builds": 1,
@@ -6089,6 +6271,19 @@
   },
   {
     "item": "Ceinture of Benevolence",
+    "stats": "#% increased area of effect",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "#% increased area of effect",
+        "trade_ids": [
+          "implicit.stat_280731498"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Ceinture of Benevolence",
     "stats": "#% increased dexterity, #% increased intelligence",
     "builds": 1,
     "mods": [
@@ -6141,6 +6336,32 @@
         "text": "regenerate #% of life per second",
         "trade_ids": [
           "implicit.stat_836936635"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Might of the Meek",
+    "stats": "#% reduced effect of chill on you",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "#% reduced effect of chill on you",
+        "trade_ids": [
+          "implicit.stat_1478653032"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Might of the Meek",
+    "stats": "#% increased effect of non-damaging ailments",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "#% increased effect of non-damaging ailments",
+        "trade_ids": [
+          "implicit.stat_782230869"
         ]
       }
     ]
@@ -6298,6 +6519,45 @@
         "text": "#% reduced damage taken from projectile hits",
         "trade_ids": [
           "implicit.stat_1425651005"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Vixen's Entrapment",
+    "stats": "+# to level of socketed aoe gems",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "+# to level of socketed aoe gems",
+        "trade_ids": [
+          "implicit.stat_2551600084"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Vixen's Entrapment",
+    "stats": "#% increased cast speed",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "#% increased cast speed",
+        "trade_ids": [
+          "implicit.stat_2891184298"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Vixen's Entrapment",
+    "stats": "+# to level of socketed gems",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "+# to level of socketed gems",
+        "trade_ids": [
+          "implicit.stat_2843100721"
         ]
       }
     ]
@@ -6483,19 +6743,6 @@
     ]
   },
   {
-    "item": "Might of the Meek",
-    "stats": "#% increased effect of non-damaging ailments",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "#% increased effect of non-damaging ailments",
-        "trade_ids": [
-          "implicit.stat_782230869"
-        ]
-      }
-    ]
-  },
-  {
     "item": "Arn's Anguish",
     "stats": "zealotry has #% increased aura effect",
     "builds": 1,
@@ -6656,32 +6903,6 @@
         "text": "#% increased rarity of items found",
         "trade_ids": [
           "implicit.stat_3917489142"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Vixen's Entrapment",
-    "stats": "#% increased cast speed",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "#% increased cast speed",
-        "trade_ids": [
-          "implicit.stat_2891184298"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Vixen's Entrapment",
-    "stats": "+# to level of socketed gems",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "+# to level of socketed gems",
-        "trade_ids": [
-          "implicit.stat_2843100721"
         ]
       }
     ]
@@ -7392,6 +7613,25 @@
         "text": "curse enemies with temporal chains on hit",
         "trade_ids": [
           "implicit.stat_3433724931"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Replica Covenant",
+    "stats": "+# to level of socketed duration gems, #% increased maximum life",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "+# to level of socketed duration gems",
+        "trade_ids": [
+          "implicit.stat_2115168758"
+        ]
+      },
+      {
+        "text": "#% increased maximum life",
+        "trade_ids": [
+          "implicit.stat_983749596"
         ]
       }
     ]
@@ -8421,6 +8661,38 @@
         "text": "#% chance to gain a frenzy charge on kill",
         "trade_ids": [
           "implicit.stat_1826802197"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Belly of the Beast",
+    "stats": "+# to level of socketed gems, +# to level of socketed warcry gems",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "+# to level of socketed gems",
+        "trade_ids": [
+          "implicit.stat_2843100721"
+        ]
+      },
+      {
+        "text": "+# to level of socketed warcry gems",
+        "trade_ids": [
+          "implicit.stat_1672793731"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Belly of the Beast",
+    "stats": "+# to level of socketed aoe gems",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "+# to level of socketed aoe gems",
+        "trade_ids": [
+          "implicit.stat_2551600084"
         ]
       }
     ]
