@@ -586,6 +586,19 @@
   },
   {
     "item": "Shaper's Touch",
+    "stats": "curse enemies with elemental weakness on hit",
+    "builds": 2,
+    "mods": [
+      {
+        "text": "curse enemies with elemental weakness on hit",
+        "trade_ids": [
+          "implicit.stat_2028847114"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Shaper's Touch",
     "stats": "+# to level of socketed aura gems",
     "builds": 2,
     "mods": [
@@ -723,6 +736,25 @@
         "text": "corrupted blood cannot be inflicted on you",
         "trade_ids": [
           "implicit.stat_1658498488"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Asenath's Gentle Touch",
+    "stats": "+# to level of socketed aoe gems, curse enemies with vulnerability on hit",
+    "builds": 2,
+    "mods": [
+      {
+        "text": "+# to level of socketed aoe gems",
+        "trade_ids": [
+          "implicit.stat_2551600084"
+        ]
+      },
+      {
+        "text": "curse enemies with vulnerability on hit",
+        "trade_ids": [
+          "implicit.stat_3967845372"
         ]
       }
     ]
@@ -2421,19 +2453,6 @@
     ]
   },
   {
-    "item": "Shaper's Touch",
-    "stats": "curse enemies with elemental weakness on hit",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "curse enemies with elemental weakness on hit",
-        "trade_ids": [
-          "implicit.stat_2028847114"
-        ]
-      }
-    ]
-  },
-  {
     "item": "Greed's Embrace",
     "stats": "+# to level of socketed aoe gems, +# to level of socketed aura gems",
     "builds": 1,
@@ -3441,25 +3460,6 @@
         "text": "attacks have +#% to critical strike chance",
         "trade_ids": [
           "implicit.stat_2572042788"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Asenath's Gentle Touch",
-    "stats": "+# to level of socketed aoe gems, curse enemies with vulnerability on hit",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "+# to level of socketed aoe gems",
-        "trade_ids": [
-          "implicit.stat_2551600084"
-        ]
-      },
-      {
-        "text": "curse enemies with vulnerability on hit",
-        "trade_ids": [
-          "implicit.stat_3967845372"
         ]
       }
     ]
@@ -4522,6 +4522,25 @@
         "text": "hatred has #% increased aura effect",
         "trade_ids": [
           "implicit.stat_3742945352"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Rathpith Globe",
+    "stats": "+# to level of socketed aoe gems, +# to level of socketed warcry gems",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "+# to level of socketed aoe gems",
+        "trade_ids": [
+          "implicit.stat_2551600084"
+        ]
+      },
+      {
+        "text": "+# to level of socketed warcry gems",
+        "trade_ids": [
+          "implicit.stat_1672793731"
         ]
       }
     ]
