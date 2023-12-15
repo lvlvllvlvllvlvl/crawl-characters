@@ -1109,6 +1109,37 @@
     ]
   },
   {
+    "item": "Black Sun Crest",
+    "stats": "socketed skill gems get a #% cost & reservation multiplier",
+    "average": 10,
+    "prices": [
+      4,
+      7,
+      8,
+      10,
+      10,
+      10,
+      10,
+      10,
+      10,
+      10
+    ],
+    "search": {
+      "id": "Qr6G3Mpuw",
+      "complexity": 18,
+      "total": 115
+    },
+    "builds": 3,
+    "mods": [
+      {
+        "text": "socketed skill gems get a #% cost & reservation multiplier",
+        "trade_ids": [
+          "implicit.stat_2865550257"
+        ]
+      }
+    ]
+  },
+  {
     "item": "Pure Talent",
     "stats": "corrupted blood cannot be inflicted on you",
     "average": 299.355,
@@ -2291,37 +2322,6 @@
         "text": "+# to maximum power charges",
         "trade_ids": [
           "implicit.stat_227523295"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Black Sun Crest",
-    "stats": "socketed skill gems get a #% cost & reservation multiplier",
-    "average": 10,
-    "prices": [
-      4,
-      7,
-      8,
-      10,
-      10,
-      10,
-      10,
-      10,
-      10,
-      10
-    ],
-    "search": {
-      "id": "Qr6G3Mpuw",
-      "complexity": 18,
-      "total": 115
-    },
-    "builds": 2,
-    "mods": [
-      {
-        "text": "socketed skill gems get a #% cost & reservation multiplier",
-        "trade_ids": [
-          "implicit.stat_2865550257"
         ]
       }
     ]
@@ -3535,6 +3535,13 @@
   {
     "item": "Matua Tupuna",
     "stats": "+# to level of socketed gems, #% increased maximum energy shield",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "RVYRokac7",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -3554,6 +3561,13 @@
   {
     "item": "Matua Tupuna",
     "stats": "+# to level of socketed aoe gems, +#% to maximum chance to block attack damage",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "GkWVPQBtb",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -3573,6 +3587,24 @@
   {
     "item": "Matua Tupuna",
     "stats": "#% of physical damage from hits taken as fire damage",
+    "average": 20.4,
+    "prices": [
+      7,
+      9,
+      15,
+      20,
+      20,
+      20,
+      24,
+      29,
+      30,
+      30
+    ],
+    "search": {
+      "id": "PdlBV3ghL",
+      "complexity": 18,
+      "total": 21
+    },
     "builds": 1,
     "mods": [
       {
@@ -3586,6 +3618,15 @@
   {
     "item": "Matua Tupuna",
     "stats": "+# to level of socketed aoe gems, +# to level of socketed trap or mine gems",
+    "average": 1201.62,
+    "prices": [
+      1201.62
+    ],
+    "search": {
+      "id": "Ey6lVBVu5",
+      "complexity": 29,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -3605,6 +3646,13 @@
   {
     "item": "Matua Tupuna",
     "stats": "+# to level of socketed aura gems, #% reduced area damage taken from hits",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "nXm4lKBu0",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -3624,6 +3672,24 @@
   {
     "item": "Matua Tupuna",
     "stats": "#% increased maximum energy shield",
+    "average": 6.2,
+    "prices": [
+      3,
+      4,
+      5,
+      5,
+      5,
+      5,
+      5,
+      10,
+      10,
+      10
+    ],
+    "search": {
+      "id": "LeW45Y7sn",
+      "complexity": 18,
+      "total": 37
+    },
     "builds": 1,
     "mods": [
       {
@@ -3637,6 +3703,24 @@
   {
     "item": "Matua Tupuna",
     "stats": "+# to level of socketed duration gems",
+    "average": 10,
+    "prices": [
+      5,
+      8,
+      10,
+      10,
+      10,
+      10,
+      10,
+      10,
+      10,
+      15
+    ],
+    "search": {
+      "id": "eXW0Q3wUL",
+      "complexity": 18,
+      "total": 46
+    },
     "builds": 1,
     "mods": [
       {
@@ -3650,6 +3734,15 @@
   {
     "item": "Sin Trek",
     "stats": "+# to level of socketed aura gems, +# to global evasion rating while moving",
+    "average": 10,
+    "prices": [
+      10
+    ],
+    "search": {
+      "id": "JVn8QVOcl",
+      "complexity": 29,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -3669,6 +3762,15 @@
   {
     "item": "Sin Trek",
     "stats": "+# to level of socketed aura gems, +# to maximum endurance charges",
+    "average": 20,
+    "prices": [
+      20
+    ],
+    "search": {
+      "id": "EyDeL0Yf5",
+      "complexity": 29,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -3688,6 +3790,13 @@
   {
     "item": "Call of the Brotherhood",
     "stats": "adds # to # lightning damage to spells and attacks, hatred has #% increased aura effect",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "mPakm7at6",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -3707,6 +3816,13 @@
   {
     "item": "Call of the Brotherhood",
     "stats": "adds # to # lightning damage to spells and attacks, bleeding cannot be inflicted on you",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "v3We26XhE",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -3726,6 +3842,13 @@
   {
     "item": "Call of the Brotherhood",
     "stats": "anger has #% increased aura effect, determination has #% increased aura effect",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "oZvaGQOFl",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -3745,6 +3868,24 @@
   {
     "item": "Call of the Brotherhood",
     "stats": "zealotry has #% increased aura effect",
+    "average": 28.5,
+    "prices": [
+      10,
+      10,
+      20,
+      25,
+      30,
+      30,
+      30,
+      30,
+      50,
+      50
+    ],
+    "search": {
+      "id": "wpVlMn9ib",
+      "complexity": 18,
+      "total": 21
+    },
     "builds": 1,
     "mods": [
       {
@@ -3758,6 +3899,24 @@
   {
     "item": "Call of the Brotherhood",
     "stats": "#% increased strength, #% increased intelligence",
+    "average": 11.6,
+    "prices": [
+      5,
+      5,
+      10,
+      10,
+      10,
+      11,
+      15,
+      15,
+      15,
+      20
+    ],
+    "search": {
+      "id": "XkOE08kIP",
+      "complexity": 29,
+      "total": 27
+    },
     "builds": 1,
     "mods": [
       {
@@ -3777,6 +3936,15 @@
   {
     "item": "Call of the Brotherhood",
     "stats": "grants level # hatred skill, #% increased strength, #% increased intelligence",
+    "average": 40,
+    "prices": [
+      40
+    ],
+    "search": {
+      "id": "DLp8K6vu5",
+      "complexity": 20,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
