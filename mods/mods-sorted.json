@@ -401,6 +401,37 @@
     ]
   },
   {
+    "item": "Sadima's Touch",
+    "stats": "attacks have +#% to critical strike chance",
+    "average": 55.8,
+    "prices": [
+      10,
+      20,
+      40,
+      40,
+      45,
+      55,
+      60,
+      88,
+      100,
+      100
+    ],
+    "search": {
+      "id": "2Gb38wjTk",
+      "complexity": 18,
+      "total": 68
+    },
+    "builds": 2,
+    "mods": [
+      {
+        "text": "attacks have +#% to critical strike chance",
+        "trade_ids": [
+          "implicit.stat_2572042788"
+        ]
+      }
+    ]
+  },
+  {
     "item": "Goldwyrm",
     "stats": "+#% chance to suppress spell damage",
     "average": 5,
@@ -588,6 +619,17 @@
   {
     "item": "Vaal Caress",
     "stats": "+# to level of socketed aura gems",
+    "average": 1396.0833333333333,
+    "prices": [
+      1172.71,
+      1340.24,
+      1675.3
+    ],
+    "search": {
+      "id": "lPr5YawFV",
+      "complexity": 18,
+      "total": 3
+    },
     "builds": 2,
     "mods": [
       {
@@ -917,6 +959,13 @@
   {
     "item": "Sin Trek",
     "stats": "+# to level of socketed aura gems, +# to maximum endurance charges",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "EyDeL0Yf5",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -1442,37 +1491,6 @@
     ]
   },
   {
-    "item": "Sadima's Touch",
-    "stats": "attacks have +#% to critical strike chance",
-    "average": 55.8,
-    "prices": [
-      10,
-      20,
-      40,
-      40,
-      45,
-      55,
-      60,
-      88,
-      100,
-      100
-    ],
-    "search": {
-      "id": "2Gb38wjTk",
-      "complexity": 18,
-      "total": 68
-    },
-    "builds": 1,
-    "mods": [
-      {
-        "text": "attacks have +#% to critical strike chance",
-        "trade_ids": [
-          "implicit.stat_2572042788"
-        ]
-      }
-    ]
-  },
-  {
     "item": "Goldwyrm",
     "stats": "+# to level of socketed curse gems",
     "average": 4,
@@ -1499,6 +1517,19 @@
         "text": "+# to level of socketed curse gems",
         "trade_ids": [
           "implicit.stat_3691695237"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Goldwyrm",
+    "stats": "+# to level of socketed gems",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "+# to level of socketed gems",
+        "trade_ids": [
+          "implicit.stat_2843100721"
         ]
       }
     ]
@@ -1966,6 +1997,17 @@
   {
     "item": "Victario's Influence",
     "stats": "+# to level of socketed gems, +# to level of socketed trap or mine gems",
+    "average": 469.084,
+    "prices": [
+      418.825,
+      485.837,
+      502.59000000000003
+    ],
+    "search": {
+      "id": "4dlWXJZt9",
+      "complexity": 29,
+      "total": 3
+    },
     "builds": 1,
     "mods": [
       {
@@ -2566,6 +2608,20 @@
   {
     "item": "Prism Guardian",
     "stats": "+# to level of socketed aoe gems",
+    "average": 583.5628333333333,
+    "prices": [
+      502.59000000000003,
+      569.602,
+      586.355,
+      586.355,
+      586.355,
+      670.12
+    ],
+    "search": {
+      "id": "XkO48P4IP",
+      "complexity": 18,
+      "total": 6
+    },
     "builds": 1,
     "mods": [
       {
@@ -2610,6 +2666,21 @@
   {
     "item": "Prism Guardian",
     "stats": "#% of physical damage from hits taken as fire damage",
+    "average": 43.75,
+    "prices": [
+      40,
+      40,
+      45,
+      50,
+      167.53,
+      335.06,
+      6701.2
+    ],
+    "search": {
+      "id": "WVpJWBVfm",
+      "complexity": 18,
+      "total": 7
+    },
     "builds": 1,
     "mods": [
       {
@@ -2623,6 +2694,15 @@
   {
     "item": "Prism Guardian",
     "stats": "+# to level of socketed aura gems",
+    "average": 1172.71,
+    "prices": [
+      1172.71
+    ],
+    "search": {
+      "id": "bPZDn0aCL",
+      "complexity": 18,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -3420,6 +3500,24 @@
   {
     "item": "Alpha's Howl",
     "stats": "+# to level of socketed duration gems",
+    "average": 31.666666666666668,
+    "prices": [
+      10,
+      10,
+      10,
+      35,
+      40,
+      40,
+      40,
+      50,
+      50,
+      167.53
+    ],
+    "search": {
+      "id": "Zb5OD8mCQ",
+      "complexity": 18,
+      "total": 12
+    },
     "builds": 1,
     "mods": [
       {
@@ -3464,6 +3562,24 @@
   {
     "item": "Darkray Vectors",
     "stats": "+# to level of socketed gems",
+    "average": 5.5,
+    "prices": [
+      3,
+      3,
+      3,
+      5,
+      5,
+      5,
+      10,
+      10,
+      20,
+      25
+    ],
+    "search": {
+      "id": "3BrQzW5s5",
+      "complexity": 18,
+      "total": 22
+    },
     "builds": 1,
     "mods": [
       {
@@ -3527,6 +3643,83 @@
         "text": "+# to level of socketed gems",
         "trade_ids": [
           "implicit.stat_2843100721"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Devoto's Devotion",
+    "stats": "+# to maximum power charges, regenerate #% of life per second",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "+# to maximum power charges",
+        "trade_ids": [
+          "implicit.stat_227523295"
+        ]
+      },
+      {
+        "text": "regenerate #% of life per second",
+        "trade_ids": [
+          "implicit.stat_836936635"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Devoto's Devotion",
+    "stats": "+# to maximum power charges",
+    "average": 49.5,
+    "prices": [
+      20,
+      25,
+      25,
+      30,
+      30,
+      35,
+      50,
+      80,
+      100,
+      100
+    ],
+    "search": {
+      "id": "OVnJZWrSE",
+      "complexity": 18,
+      "total": 16
+    },
+    "builds": 1,
+    "mods": [
+      {
+        "text": "+# to maximum power charges",
+        "trade_ids": [
+          "implicit.stat_227523295"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Devoto's Devotion",
+    "stats": "#% of fire damage leeched as life, +# to maximum power charges",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "jXqy39oTX",
+      "complexity": 30,
+      "total": 0
+    },
+    "builds": 1,
+    "mods": [
+      {
+        "text": "#% of fire damage leeched as life",
+        "trade_ids": [
+          "implicit.stat_3848282610",
+          "implicit.stat_1743742391"
+        ]
+      },
+      {
+        "text": "+# to maximum power charges",
+        "trade_ids": [
+          "implicit.stat_227523295"
         ]
       }
     ]
@@ -3681,6 +3874,13 @@
   {
     "item": "Asenath's Gentle Touch",
     "stats": "#% increased attack speed, #% increased cast speed",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "y9RLrPguR",
+      "complexity": 30,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -3859,6 +4059,16 @@
   {
     "item": "March of the Legion",
     "stats": "+# to level of socketed gems, +# to level of socketed aura gems",
+    "average": 3819.425,
+    "prices": [
+      100,
+      7538.85
+    ],
+    "search": {
+      "id": "GZyEJaBhb",
+      "complexity": 29,
+      "total": 2
+    },
     "builds": 1,
     "mods": [
       {
@@ -4113,6 +4323,13 @@
   {
     "item": "The Covenant",
     "stats": "#% increased damage, #% increased maximum life",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "XqK7DqesP",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -4529,64 +4746,6 @@
     ]
   },
   {
-    "item": "Devoto's Devotion",
-    "stats": "+# to maximum power charges",
-    "average": 49.5,
-    "prices": [
-      20,
-      25,
-      25,
-      30,
-      30,
-      35,
-      50,
-      80,
-      100,
-      100
-    ],
-    "search": {
-      "id": "OVnJZWrSE",
-      "complexity": 18,
-      "total": 16
-    },
-    "builds": 1,
-    "mods": [
-      {
-        "text": "+# to maximum power charges",
-        "trade_ids": [
-          "implicit.stat_227523295"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Devoto's Devotion",
-    "stats": "#% of fire damage leeched as life, +# to maximum power charges",
-    "average": null,
-    "prices": [],
-    "search": {
-      "id": "jXqy39oTX",
-      "complexity": 30,
-      "total": 0
-    },
-    "builds": 1,
-    "mods": [
-      {
-        "text": "#% of fire damage leeched as life",
-        "trade_ids": [
-          "implicit.stat_3848282610",
-          "implicit.stat_1743742391"
-        ]
-      },
-      {
-        "text": "+# to maximum power charges",
-        "trade_ids": [
-          "implicit.stat_227523295"
-        ]
-      }
-    ]
-  },
-  {
     "item": "Gravebind",
     "stats": "curse enemies with temporal chains on hit",
     "average": 1335.84,
@@ -4747,6 +4906,15 @@
   {
     "item": "Badge of the Brotherhood",
     "stats": "#% of cold damage leeched as life",
+    "average": 335.06,
+    "prices": [
+      335.06
+    ],
+    "search": {
+      "id": "9Yv62Y4iK",
+      "complexity": 19,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -4761,6 +4929,13 @@
   {
     "item": "Ylfeban's Trickery",
     "stats": "+# to level of socketed projectile gems, +# to maximum power charges",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "VM3VEXatp",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -4780,6 +4955,13 @@
   {
     "item": "Hands of the High Templar",
     "stats": "+# to level of socketed gems, +# to level of socketed curse gems, +# to level of socketed warcry gems, curse enemies with enfeeble on hit, attacks have +#% to critical strike chance",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "waqOP7jsb",
+      "complexity": 22,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -4948,6 +5130,16 @@
   {
     "item": "The Gull",
     "stats": "socketed skill gems get a #% cost & reservation multiplier",
+    "average": 2010.36,
+    "prices": [
+      1507.77,
+      2512.95
+    ],
+    "search": {
+      "id": "y9EGvmgSR",
+      "complexity": 18,
+      "total": 2
+    },
     "builds": 1,
     "mods": [
       {
