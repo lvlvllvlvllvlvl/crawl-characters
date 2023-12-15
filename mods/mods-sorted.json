@@ -1,5 +1,36 @@
 [
   {
+    "item": "Southbound",
+    "stats": "+#% to spell critical strike chance",
+    "average": 116.18666666666667,
+    "prices": [
+      10,
+      70,
+      80,
+      100,
+      100,
+      105,
+      120,
+      130,
+      170.34,
+      170.34
+    ],
+    "search": {
+      "id": "XkO2WqdSP",
+      "complexity": 18,
+      "total": 28
+    },
+    "builds": 8,
+    "mods": [
+      {
+        "text": "+#% to spell critical strike chance",
+        "trade_ids": [
+          "implicit.stat_791835907"
+        ]
+      }
+    ]
+  },
+  {
     "item": "String of Servitude",
     "stats": "hatred has #% increased aura effect",
     "average": 7.3,
@@ -26,37 +57,6 @@
         "text": "hatred has #% increased aura effect",
         "trade_ids": [
           "implicit.stat_3742945352"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Southbound",
-    "stats": "+#% to spell critical strike chance",
-    "average": 116.18666666666667,
-    "prices": [
-      10,
-      70,
-      80,
-      100,
-      100,
-      105,
-      120,
-      130,
-      170.34,
-      170.34
-    ],
-    "search": {
-      "id": "XkO2WqdSP",
-      "complexity": 18,
-      "total": 28
-    },
-    "builds": 7,
-    "mods": [
-      {
-        "text": "+#% to spell critical strike chance",
-        "trade_ids": [
-          "implicit.stat_791835907"
         ]
       }
     ]
@@ -359,6 +359,37 @@
         "text": "wrath has #% increased aura effect",
         "trade_ids": [
           "implicit.stat_2181791238"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "March of the Legion",
+    "stats": "+# to level of socketed aoe gems",
+    "average": 8.2,
+    "prices": [
+      5,
+      5,
+      5,
+      7,
+      10,
+      10,
+      10,
+      10,
+      10,
+      10
+    ],
+    "search": {
+      "id": "MVDlG4qFJ",
+      "complexity": 18,
+      "total": 64
+    },
+    "builds": 4,
+    "mods": [
+      {
+        "text": "+# to level of socketed aoe gems",
+        "trade_ids": [
+          "implicit.stat_2551600084"
         ]
       }
     ]
@@ -672,37 +703,6 @@
     ]
   },
   {
-    "item": "March of the Legion",
-    "stats": "+# to level of socketed aoe gems",
-    "average": 8.2,
-    "prices": [
-      5,
-      5,
-      5,
-      7,
-      10,
-      10,
-      10,
-      10,
-      10,
-      10
-    ],
-    "search": {
-      "id": "MVDlG4qFJ",
-      "complexity": 18,
-      "total": 64
-    },
-    "builds": 3,
-    "mods": [
-      {
-        "text": "+# to level of socketed aoe gems",
-        "trade_ids": [
-          "implicit.stat_2551600084"
-        ]
-      }
-    ]
-  },
-  {
     "item": "Kaom's Heart",
     "stats": "#% increased damage",
     "average": 340.94,
@@ -978,32 +978,14 @@
     ]
   },
   {
-    "item": "Shaper's Touch",
-    "stats": "+# to level of socketed aura gems",
-    "average": 57.888888888888886,
-    "prices": [
-      50,
-      50,
-      51,
-      57,
-      60,
-      60,
-      60,
-      65,
-      68,
-      75
-    ],
-    "search": {
-      "id": "0PQ6vEghg",
-      "complexity": 18,
-      "total": 32
-    },
+    "item": "String of Servitude",
+    "stats": "+#% to all elemental resistances",
     "builds": 2,
     "mods": [
       {
-        "text": "+# to level of socketed aura gems",
+        "text": "+#% to all elemental resistances",
         "trade_ids": [
-          "implicit.stat_2452998583"
+          "implicit.stat_2901986750"
         ]
       }
     ]
@@ -1035,6 +1017,37 @@
         "text": "zealotry has #% increased aura effect",
         "trade_ids": [
           "implicit.stat_4096052153"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Shaper's Touch",
+    "stats": "+# to level of socketed aura gems",
+    "average": 57.888888888888886,
+    "prices": [
+      50,
+      50,
+      51,
+      57,
+      60,
+      60,
+      60,
+      65,
+      68,
+      75
+    ],
+    "search": {
+      "id": "0PQ6vEghg",
+      "complexity": 18,
+      "total": 32
+    },
+    "builds": 2,
+    "mods": [
+      {
+        "text": "+# to level of socketed aura gems",
+        "trade_ids": [
+          "implicit.stat_2452998583"
         ]
       }
     ]
@@ -1580,6 +1593,24 @@
   {
     "item": "Alpha's Howl",
     "stats": "+# to level of socketed aura gems",
+    "average": 377.8444444444445,
+    "prices": [
+      255.04500000000002,
+      255.04500000000002,
+      340.06,
+      340.06,
+      340.06,
+      340.06,
+      510.09000000000003,
+      510.09000000000003,
+      510.09000000000003,
+      1020.1800000000001
+    ],
+    "search": {
+      "id": "EG8P4gyC5",
+      "complexity": 18,
+      "total": 12
+    },
     "builds": 2,
     "mods": [
       {
@@ -1822,6 +1853,24 @@
   {
     "item": "Black Sun Crest",
     "stats": "socketed skill gems get a #% cost & reservation multiplier",
+    "average": 10,
+    "prices": [
+      2,
+      10,
+      10,
+      10,
+      10,
+      10,
+      10,
+      12,
+      15,
+      20
+    ],
+    "search": {
+      "id": "Qr6G3Mpuw",
+      "complexity": 18,
+      "total": 96
+    },
     "builds": 2,
     "mods": [
       {
@@ -1835,6 +1884,24 @@
   {
     "item": "The Poet's Pen",
     "stats": "damage penetrates #% elemental resistances",
+    "average": 204.03299999999996,
+    "prices": [
+      20,
+      150,
+      170.03,
+      170.03,
+      170.03,
+      170.03,
+      170.03,
+      340.06,
+      340.06,
+      340.06
+    ],
+    "search": {
+      "id": "LeWk24Bin",
+      "complexity": 18,
+      "total": 11
+    },
     "builds": 2,
     "mods": [
       {
@@ -1848,6 +1915,24 @@
   {
     "item": "Malachai's Loop",
     "stats": "+# to level of socketed gems",
+    "average": 170.03,
+    "prices": [
+      50,
+      110,
+      130,
+      170.03,
+      170.03,
+      170.03,
+      170.03,
+      170.03,
+      255.04500000000002,
+      340.06
+    ],
+    "search": {
+      "id": "rXjkBWrfQ",
+      "complexity": 18,
+      "total": 17
+    },
     "builds": 1,
     "mods": [
       {
@@ -1861,6 +1946,24 @@
   {
     "item": "Malachai's Loop",
     "stats": "#% of physical damage from hits taken as fire damage",
+    "average": 18.11111111111111,
+    "prices": [
+      10,
+      10,
+      15,
+      15,
+      19,
+      20,
+      20,
+      25,
+      29,
+      50
+    ],
+    "search": {
+      "id": "0BaGbKQhg",
+      "complexity": 18,
+      "total": 14
+    },
     "builds": 1,
     "mods": [
       {
@@ -1874,6 +1977,13 @@
   {
     "item": "Dialla's Malefaction",
     "stats": "+# to level of socketed gems, +#% to all maximum resistances",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "Ey6M5KKC5",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -1893,6 +2003,20 @@
   {
     "item": "Dialla's Malefaction",
     "stats": "+#% to all maximum resistances",
+    "average": 272.048,
+    "prices": [
+      170.03,
+      170.03,
+      340.06,
+      340.06,
+      340.06,
+      3740.66
+    ],
+    "search": {
+      "id": "qX3PwlXtg",
+      "complexity": 18,
+      "total": 6
+    },
     "builds": 1,
     "mods": [
       {
@@ -1906,6 +2030,13 @@
   {
     "item": "Dialla's Malefaction",
     "stats": "+# to level of socketed aura gems, +#% to all maximum resistances",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "RVYOWygF7",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -1925,6 +2056,13 @@
   {
     "item": "Dialla's Malefaction",
     "stats": "+# to level of socketed aoe gems, #% additional physical damage reduction while stationary",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "mXjQBqBu6",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -1944,6 +2082,15 @@
   {
     "item": "Dialla's Malefaction",
     "stats": "+# to level of socketed aoe gems, +# to level of socketed projectile gems",
+    "average": 8501.5,
+    "prices": [
+      8501.5
+    ],
+    "search": {
+      "id": "QVnkP97Tw",
+      "complexity": 29,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -1963,6 +2110,13 @@
   {
     "item": "Dialla's Malefaction",
     "stats": "+# to level of socketed duration gems, +# to level of socketed warcry gems",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "BEQJ2oku8",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -1982,6 +2136,13 @@
   {
     "item": "Dialla's Malefaction",
     "stats": "+# to level of socketed projectile gems, #% increased maximum life",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "Zb2nDbEtQ",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -2001,6 +2162,24 @@
   {
     "item": "Ixchel's Temptation",
     "stats": "#% increased rarity of items found",
+    "average": 15.6,
+    "prices": [
+      10,
+      10,
+      10,
+      15,
+      15,
+      19,
+      19,
+      19,
+      19,
+      20
+    ],
+    "search": {
+      "id": "y9qnw9OiR",
+      "complexity": 18,
+      "total": 191
+    },
     "builds": 1,
     "mods": [
       {
@@ -2014,6 +2193,13 @@
   {
     "item": "Ralakesh's Impatience",
     "stats": "#% increased movement speed",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "mP2QMJLu6",
+      "complexity": 18,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -2027,6 +2213,13 @@
   {
     "item": "Badge of the Brotherhood",
     "stats": "+#% to all elemental resistances",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "4dla0gMH9",
+      "complexity": 18,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -2863,6 +3056,38 @@
     ]
   },
   {
+    "item": "String of Servitude",
+    "stats": "#% increased quantity of items found",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "#% increased quantity of items found",
+        "trade_ids": [
+          "implicit.stat_884586851"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "String of Servitude",
+    "stats": "#% increased maximum energy shield, hatred has #% increased aura effect",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "#% increased maximum energy shield",
+        "trade_ids": [
+          "implicit.stat_2482852589"
+        ]
+      },
+      {
+        "text": "hatred has #% increased aura effect",
+        "trade_ids": [
+          "implicit.stat_3742945352"
+        ]
+      }
+    ]
+  },
+  {
     "item": "Doryani's Prototype",
     "stats": "+# to level of socketed projectile gems, +#% to all maximum resistances",
     "builds": 1,
@@ -3038,51 +3263,6 @@
         "text": "curse enemies with elemental weakness on hit",
         "trade_ids": [
           "implicit.stat_2028847114"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "String of Servitude",
-    "stats": "#% increased quantity of items found",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "#% increased quantity of items found",
-        "trade_ids": [
-          "implicit.stat_884586851"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "String of Servitude",
-    "stats": "+#% to all elemental resistances",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "+#% to all elemental resistances",
-        "trade_ids": [
-          "implicit.stat_2901986750"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "String of Servitude",
-    "stats": "#% increased maximum energy shield, hatred has #% increased aura effect",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "#% increased maximum energy shield",
-        "trade_ids": [
-          "implicit.stat_2482852589"
-        ]
-      },
-      {
-        "text": "hatred has #% increased aura effect",
-        "trade_ids": [
-          "implicit.stat_3742945352"
         ]
       }
     ]
@@ -3494,6 +3674,31 @@
         "text": "discipline has #% increased aura effect",
         "trade_ids": [
           "implicit.stat_788317702"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "The Torrent's Reclamation",
+    "stats": "#% increased strength, #% increased intelligence, #% increased maximum energy shield",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "#% increased strength",
+        "trade_ids": [
+          "implicit.stat_4139681126"
+        ]
+      },
+      {
+        "text": "#% increased intelligence",
+        "trade_ids": [
+          "implicit.stat_656461285"
+        ]
+      },
+      {
+        "text": "#% increased maximum energy shield",
+        "trade_ids": [
+          "implicit.stat_2482852589"
         ]
       }
     ]
@@ -5863,6 +6068,25 @@
     ]
   },
   {
+    "item": "Doedre's Tenure",
+    "stats": "+# to maximum frenzy charges, +#% to spell critical strike chance",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "+# to maximum frenzy charges",
+        "trade_ids": [
+          "implicit.stat_4078695"
+        ]
+      },
+      {
+        "text": "+#% to spell critical strike chance",
+        "trade_ids": [
+          "implicit.stat_791835907"
+        ]
+      }
+    ]
+  },
+  {
     "item": "Utula's Hunger",
     "stats": "#% increased maximum life",
     "builds": 1,
@@ -6593,6 +6817,19 @@
     ]
   },
   {
+    "item": "Shavronne's Wrappings",
+    "stats": "+# to level of socketed aura gems",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "+# to level of socketed aura gems",
+        "trade_ids": [
+          "implicit.stat_2452998583"
+        ]
+      }
+    ]
+  },
+  {
     "item": "Intuitive Leap",
     "stats": "#% increased reservation efficiency of skills",
     "builds": 1,
@@ -6821,6 +7058,25 @@
         "text": "+# to level of socketed projectile gems",
         "trade_ids": [
           "implicit.stat_2176571093"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Queen of the Forest",
+    "stats": "+# to level of socketed trap or mine gems, #% increased maximum life",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "+# to level of socketed trap or mine gems",
+        "trade_ids": [
+          "implicit.stat_150668988"
+        ]
+      },
+      {
+        "text": "#% increased maximum life",
+        "trade_ids": [
+          "implicit.stat_983749596"
         ]
       }
     ]
