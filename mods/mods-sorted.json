@@ -20,7 +20,7 @@
       "complexity": 18,
       "total": 75
     },
-    "builds": 9,
+    "builds": 10,
     "mods": [
       {
         "text": "hatred has #% increased aura effect",
@@ -330,6 +330,37 @@
     ]
   },
   {
+    "item": "Victario's Influence",
+    "stats": "+# to level of socketed aura gems",
+    "average": 7.8,
+    "prices": [
+      3,
+      5,
+      5,
+      5,
+      10,
+      10,
+      10,
+      10,
+      10,
+      10
+    ],
+    "search": {
+      "id": "806kqWnUV",
+      "complexity": 18,
+      "total": 113
+    },
+    "builds": 4,
+    "mods": [
+      {
+        "text": "+# to level of socketed aura gems",
+        "trade_ids": [
+          "implicit.stat_2452998583"
+        ]
+      }
+    ]
+  },
+  {
     "item": "Matua Tupuna",
     "stats": "+# to level of socketed gems",
     "average": 34,
@@ -480,6 +511,37 @@
         "text": "attacks have +#% to critical strike chance",
         "trade_ids": [
           "implicit.stat_2572042788"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Goldwyrm",
+    "stats": "regenerate # life per second while moving",
+    "average": 4.2,
+    "prices": [
+      3,
+      3,
+      3,
+      4,
+      4,
+      5,
+      5,
+      5,
+      5,
+      5
+    ],
+    "search": {
+      "id": "qay7pV3hg",
+      "complexity": 18,
+      "total": 102
+    },
+    "builds": 4,
+    "mods": [
+      {
+        "text": "regenerate # life per second while moving",
+        "trade_ids": [
+          "implicit.stat_2841027131"
         ]
       }
     ]
@@ -672,37 +734,6 @@
   },
   {
     "item": "Victario's Influence",
-    "stats": "+# to level of socketed aura gems",
-    "average": 7.8,
-    "prices": [
-      3,
-      5,
-      5,
-      5,
-      10,
-      10,
-      10,
-      10,
-      10,
-      10
-    ],
-    "search": {
-      "id": "806kqWnUV",
-      "complexity": 18,
-      "total": 113
-    },
-    "builds": 3,
-    "mods": [
-      {
-        "text": "+# to level of socketed aura gems",
-        "trade_ids": [
-          "implicit.stat_2452998583"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Victario's Influence",
     "stats": "+# to level of socketed gems, +# to level of socketed aura gems",
     "average": 2555.1,
     "prices": [
@@ -760,37 +791,6 @@
         "text": "#% increased rarity of items found",
         "trade_ids": [
           "implicit.stat_3917489142"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Goldwyrm",
-    "stats": "regenerate # life per second while moving",
-    "average": 4.2,
-    "prices": [
-      3,
-      3,
-      3,
-      4,
-      4,
-      5,
-      5,
-      5,
-      5,
-      5
-    ],
-    "search": {
-      "id": "qay7pV3hg",
-      "complexity": 18,
-      "total": 102
-    },
-    "builds": 3,
-    "mods": [
-      {
-        "text": "regenerate # life per second while moving",
-        "trade_ids": [
-          "implicit.stat_2841027131"
         ]
       }
     ]
@@ -3821,6 +3821,19 @@
     ]
   },
   {
+    "item": "Heatshiver",
+    "stats": "#% increased effect of shock",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "#% increased effect of shock",
+        "trade_ids": [
+          "implicit.stat_2527686725"
+        ]
+      }
+    ]
+  },
+  {
     "item": "Watcher's Eye",
     "stats": "#% reduced effect of chill on you",
     "average": 75,
@@ -5102,6 +5115,19 @@
     ]
   },
   {
+    "item": "Vaal Caress",
+    "stats": "+# to level of socketed gems",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "+# to level of socketed gems",
+        "trade_ids": [
+          "implicit.stat_2843100721"
+        ]
+      }
+    ]
+  },
+  {
     "item": "Hyrri's Truth",
     "stats": "#% increased movement speed",
     "average": 11.9,
@@ -5755,6 +5781,19 @@
         "text": "#% increased quantity of items found",
         "trade_ids": [
           "implicit.stat_884586851"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Bisco's Leash",
+    "stats": "#% increased maximum energy shield",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "#% increased maximum energy shield",
+        "trade_ids": [
+          "implicit.stat_2482852589"
         ]
       }
     ]
@@ -8077,6 +8116,57 @@
     ]
   },
   {
+    "item": "Belly of the Beast",
+    "stats": "+# to level of socketed aoe gems, #% increased damage",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "+# to level of socketed aoe gems",
+        "trade_ids": [
+          "implicit.stat_2551600084"
+        ]
+      },
+      {
+        "text": "#% increased damage",
+        "trade_ids": [
+          "implicit.stat_2154246560"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Belly of the Beast",
+    "stats": "+# to level of socketed gems, +# to level of socketed warcry gems",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "+# to level of socketed gems",
+        "trade_ids": [
+          "implicit.stat_2843100721"
+        ]
+      },
+      {
+        "text": "+# to level of socketed warcry gems",
+        "trade_ids": [
+          "implicit.stat_1672793731"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Belly of the Beast",
+    "stats": "+# to level of socketed aoe gems",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "+# to level of socketed aoe gems",
+        "trade_ids": [
+          "implicit.stat_2551600084"
+        ]
+      }
+    ]
+  },
+  {
     "item": "Might of the Meek",
     "stats": "#% reduced effect of chill on you",
     "average": 45.6,
@@ -8656,6 +8746,21 @@
   {
     "item": "Hands of the High Templar",
     "stats": "+# to level of socketed aoe gems, +# to level of socketed aura gems",
+    "average": 2171.0914285714284,
+    "prices": [
+      512.28,
+      853.8,
+      853.8,
+      1366.08,
+      1366.08,
+      5122.799999999999,
+      5122.799999999999
+    ],
+    "search": {
+      "id": "ze59nYqf4",
+      "complexity": 29,
+      "total": 7
+    },
     "builds": 1,
     "mods": [
       {
@@ -8675,6 +8780,13 @@
   {
     "item": "Hands of the High Templar",
     "stats": "+# to level of socketed gems, +# to level of socketed curse gems, +# to level of socketed warcry gems, curse enemies with enfeeble on hit, attacks have +#% to critical strike chance",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "waqOP7jsb",
+      "complexity": 22,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -8712,6 +8824,13 @@
   {
     "item": "Crown of Thorns",
     "stats": "#% increased area of effect",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "BED35jLs8",
+      "complexity": 18,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -8757,6 +8876,24 @@
   {
     "item": "Arn's Anguish",
     "stats": "zealotry has #% increased aura effect",
+    "average": 125.228,
+    "prices": [
+      90,
+      100,
+      100,
+      100,
+      100,
+      120,
+      130,
+      170.76,
+      170.76,
+      170.76
+    ],
+    "search": {
+      "id": "YVqrzkXsY",
+      "complexity": 18,
+      "total": 25
+    },
     "builds": 1,
     "mods": [
       {
@@ -8770,6 +8907,24 @@
   {
     "item": "Arn's Anguish",
     "stats": "#% increased movement speed during any flask effect",
+    "average": 120.52799999999999,
+    "prices": [
+      66,
+      90,
+      90,
+      97,
+      105,
+      120,
+      125,
+      170.76,
+      170.76,
+      170.76
+    ],
+    "search": {
+      "id": "gXWv5KKUQ",
+      "complexity": 18,
+      "total": 19
+    },
     "builds": 1,
     "mods": [
       {
@@ -8783,6 +8938,13 @@
   {
     "item": "Mageblood",
     "stats": "#% increased maximum life, grace has #% increased aura effect",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "pXvPpyvT0",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -8802,6 +8964,13 @@
   {
     "item": "Mageblood",
     "stats": "#% increased maximum energy shield, #% increased cast speed during any flask effect",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "dPaOkzoFJ",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -8821,6 +8990,13 @@
   {
     "item": "Mageblood",
     "stats": "#% increased dexterity, #% increased intelligence, malevolence has #% increased aura effect",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "MVZ379PFJ",
+      "complexity": 20,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -8846,6 +9022,13 @@
   {
     "item": "Mageblood",
     "stats": "#% increased maximum life, #% increased cast speed during any flask effect",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "vlGbd5JtE",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -8865,6 +9048,13 @@
   {
     "item": "Mageblood",
     "stats": "#% increased strength, #% increased dexterity, #% increased skill effect duration",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "OVQoODgCE",
+      "complexity": 20,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -8890,6 +9080,13 @@
   {
     "item": "Mageblood",
     "stats": "#% increased maximum life, #% increased area of effect",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "kXjqdM3U5",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -8909,6 +9106,24 @@
   {
     "item": "The Untouched Soul",
     "stats": "#% increased rarity of items found",
+    "average": 3.6666666666666665,
+    "prices": [
+      2,
+      3,
+      3,
+      3,
+      4,
+      4,
+      4,
+      4,
+      4,
+      4
+    ],
+    "search": {
+      "id": "vlE0LQXHE",
+      "complexity": 18,
+      "total": 883
+    },
     "builds": 1,
     "mods": [
       {
@@ -8922,6 +9137,13 @@
   {
     "item": "Devoto's Devotion",
     "stats": "+# to maximum power charges, regenerate #% of life per second",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "lXqEQlniV",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -8941,6 +9163,15 @@
   {
     "item": "Devoto's Devotion",
     "stats": "#% of fire damage leeched as life, +# to maximum power charges",
+    "average": 170.76,
+    "prices": [
+      170.76
+    ],
+    "search": {
+      "id": "jXqy39oTX",
+      "complexity": 30,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -8961,6 +9192,13 @@
   {
     "item": "Warrior's Tale",
     "stats": "damage penetrates #% fire resistance",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "wagX6rmsb",
+      "complexity": 19,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -10757,38 +10995,6 @@
         "text": "#% chance to gain a frenzy charge on kill",
         "trade_ids": [
           "implicit.stat_1826802197"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Belly of the Beast",
-    "stats": "+# to level of socketed gems, +# to level of socketed warcry gems",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "+# to level of socketed gems",
-        "trade_ids": [
-          "implicit.stat_2843100721"
-        ]
-      },
-      {
-        "text": "+# to level of socketed warcry gems",
-        "trade_ids": [
-          "implicit.stat_1672793731"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Belly of the Beast",
-    "stats": "+# to level of socketed aoe gems",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "+# to level of socketed aoe gems",
-        "trade_ids": [
-          "implicit.stat_2551600084"
         ]
       }
     ]
