@@ -1,5 +1,36 @@
 [
   {
+    "item": "Southbound",
+    "stats": "+#% to spell critical strike chance",
+    "average": 116.18666666666667,
+    "prices": [
+      10,
+      70,
+      80,
+      100,
+      100,
+      105,
+      120,
+      130,
+      170.34,
+      170.34
+    ],
+    "search": {
+      "id": "XkO2WqdSP",
+      "complexity": 18,
+      "total": 28
+    },
+    "builds": 7,
+    "mods": [
+      {
+        "text": "+#% to spell critical strike chance",
+        "trade_ids": [
+          "implicit.stat_791835907"
+        ]
+      }
+    ]
+  },
+  {
     "item": "Matua Tupuna",
     "stats": "+# to level of socketed aoe gems",
     "average": 425.85,
@@ -56,32 +87,30 @@
     ]
   },
   {
-    "item": "Southbound",
-    "stats": "+#% to spell critical strike chance",
-    "average": 116.18666666666667,
+    "item": "Matua Tupuna",
+    "stats": "+# to level of socketed aura gems",
+    "average": 846.8331428571428,
     "prices": [
-      10,
-      70,
-      80,
-      100,
-      100,
-      105,
-      120,
-      130,
-      170.34,
-      170.34
+      681.36,
+      732.462,
+      851.7,
+      851.7,
+      851.7,
+      936.87,
+      1022.04,
+      1703.4
     ],
     "search": {
-      "id": "XkO2WqdSP",
+      "id": "0PQlkZ8ig",
       "complexity": 18,
-      "total": 28
+      "total": 8
     },
     "builds": 6,
     "mods": [
       {
-        "text": "+#% to spell critical strike chance",
+        "text": "+# to level of socketed aura gems",
         "trade_ids": [
-          "implicit.stat_791835907"
+          "implicit.stat_2452998583"
         ]
       }
     ]
@@ -113,35 +142,6 @@
         "text": "+# to maximum frenzy charges",
         "trade_ids": [
           "implicit.stat_4078695"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Matua Tupuna",
-    "stats": "+# to level of socketed aura gems",
-    "average": 846.8331428571428,
-    "prices": [
-      681.36,
-      732.462,
-      851.7,
-      851.7,
-      851.7,
-      936.87,
-      1022.04,
-      1703.4
-    ],
-    "search": {
-      "id": "0PQlkZ8ig",
-      "complexity": 18,
-      "total": 8
-    },
-    "builds": 5,
-    "mods": [
-      {
-        "text": "+# to level of socketed aura gems",
-        "trade_ids": [
-          "implicit.stat_2452998583"
         ]
       }
     ]
@@ -240,6 +240,37 @@
     ]
   },
   {
+    "item": "Eber's Unification",
+    "stats": "+# to maximum power charges",
+    "average": 255.51000000000002,
+    "prices": [
+      170.34,
+      170.34,
+      170.34,
+      170.34,
+      255.51,
+      340.68,
+      340.68,
+      340.68,
+      340.68,
+      511.02
+    ],
+    "search": {
+      "id": "jXjBMnXSX",
+      "complexity": 18,
+      "total": 10
+    },
+    "builds": 5,
+    "mods": [
+      {
+        "text": "+# to maximum power charges",
+        "trade_ids": [
+          "implicit.stat_227523295"
+        ]
+      }
+    ]
+  },
+  {
     "item": "Matua Tupuna",
     "stats": "+# to level of socketed gems",
     "average": 34,
@@ -302,6 +333,37 @@
     ]
   },
   {
+    "item": "String of Servitude",
+    "stats": "wrath has #% increased aura effect",
+    "average": 2.8,
+    "prices": [
+      1,
+      1,
+      2,
+      2,
+      3,
+      3,
+      4,
+      4,
+      4,
+      4
+    ],
+    "search": {
+      "id": "GZyglgohb",
+      "complexity": 18,
+      "total": 78
+    },
+    "builds": 4,
+    "mods": [
+      {
+        "text": "wrath has #% increased aura effect",
+        "trade_ids": [
+          "implicit.stat_2181791238"
+        ]
+      }
+    ]
+  },
+  {
     "item": "Vaal Caress",
     "stats": "+# to level of socketed aura gems",
     "average": 897.1239999999999,
@@ -356,37 +418,6 @@
         "text": "attacks have +#% to critical strike chance",
         "trade_ids": [
           "implicit.stat_2572042788"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Eber's Unification",
-    "stats": "+# to maximum power charges",
-    "average": 255.51000000000002,
-    "prices": [
-      170.34,
-      170.34,
-      170.34,
-      170.34,
-      255.51,
-      340.68,
-      340.68,
-      340.68,
-      340.68,
-      511.02
-    ],
-    "search": {
-      "id": "jXjBMnXSX",
-      "complexity": 18,
-      "total": 10
-    },
-    "builds": 4,
-    "mods": [
-      {
-        "text": "+# to maximum power charges",
-        "trade_ids": [
-          "implicit.stat_227523295"
         ]
       }
     ]
@@ -457,6 +488,24 @@
   {
     "item": "Heatshiver",
     "stats": "+# to maximum power charges",
+    "average": 1941.8760000000002,
+    "prices": [
+      1703.4,
+      1703.4,
+      1873.74,
+      1873.74,
+      1873.74,
+      2044.08,
+      2044.08,
+      2044.08,
+      2044.08,
+      2214.42
+    ],
+    "search": {
+      "id": "R24kzDqc7",
+      "complexity": 18,
+      "total": 12
+    },
     "builds": 3,
     "mods": [
       {
@@ -470,6 +519,24 @@
   {
     "item": "Incandescent Heart",
     "stats": "+# to level of socketed projectile gems",
+    "average": 516.6132,
+    "prices": [
+      90,
+      170.34,
+      170.34,
+      340.68,
+      511.02,
+      511.02,
+      834.666,
+      834.666,
+      851.7,
+      851.7
+    ],
+    "search": {
+      "id": "JVdkP85sl",
+      "complexity": 18,
+      "total": 16
+    },
     "builds": 3,
     "mods": [
       {
@@ -481,21 +548,26 @@
     ]
   },
   {
-    "item": "String of Servitude",
-    "stats": "wrath has #% increased aura effect",
-    "builds": 3,
-    "mods": [
-      {
-        "text": "wrath has #% increased aura effect",
-        "trade_ids": [
-          "implicit.stat_2181791238"
-        ]
-      }
-    ]
-  },
-  {
     "item": "Sadima's Touch",
     "stats": "attacks have +#% to critical strike chance",
+    "average": 27.5,
+    "prices": [
+      10,
+      20,
+      20,
+      20,
+      25,
+      25,
+      30,
+      40,
+      40,
+      45
+    ],
+    "search": {
+      "id": "2Gb38wjTk",
+      "complexity": 18,
+      "total": 71
+    },
     "builds": 3,
     "mods": [
       {
@@ -509,6 +581,24 @@
   {
     "item": "Goldwyrm",
     "stats": "regenerate # life per second while moving",
+    "average": 4.2,
+    "prices": [
+      3,
+      3,
+      3,
+      4,
+      4,
+      5,
+      5,
+      5,
+      5,
+      5
+    ],
+    "search": {
+      "id": "qay7pV3hg",
+      "complexity": 18,
+      "total": 102
+    },
     "builds": 3,
     "mods": [
       {
@@ -522,6 +612,24 @@
   {
     "item": "Soul Mantle",
     "stats": "+# to level of socketed projectile gems",
+    "average": 155.2125,
+    "prices": [
+      60,
+      85,
+      120,
+      130,
+      140,
+      170.34,
+      170.34,
+      170.34,
+      170.34,
+      170.34
+    ],
+    "search": {
+      "id": "rY5anw7cQ",
+      "complexity": 18,
+      "total": 45
+    },
     "builds": 3,
     "mods": [
       {
@@ -535,6 +643,24 @@
   {
     "item": "March of the Legion",
     "stats": "+# to level of socketed aoe gems",
+    "average": 8.2,
+    "prices": [
+      5,
+      5,
+      5,
+      7,
+      10,
+      10,
+      10,
+      10,
+      10,
+      10
+    ],
+    "search": {
+      "id": "MVDlG4qFJ",
+      "complexity": 18,
+      "total": 64
+    },
     "builds": 3,
     "mods": [
       {
@@ -548,6 +674,24 @@
   {
     "item": "Kaom's Spirit",
     "stats": "attacks have +#% to critical strike chance",
+    "average": 488.87579999999997,
+    "prices": [
+      153.306,
+      170.34,
+      255.51,
+      391.782,
+      511.02,
+      511.02,
+      511.02,
+      681.36,
+      851.7,
+      851.7
+    ],
+    "search": {
+      "id": "aboQ2v3Se",
+      "complexity": 18,
+      "total": 14
+    },
     "builds": 3,
     "mods": [
       {
@@ -561,6 +705,24 @@
   {
     "item": "Ephemeral Edge",
     "stats": "#% increased area of effect",
+    "average": 76.20200000000001,
+    "prices": [
+      1,
+      10,
+      20,
+      20,
+      30,
+      50,
+      120,
+      170.34,
+      170.34,
+      170.34
+    ],
+    "search": {
+      "id": "vlP9onDSE",
+      "complexity": 18,
+      "total": 11
+    },
     "builds": 3,
     "mods": [
       {
@@ -574,6 +736,24 @@
   {
     "item": "Doedre's Tenure",
     "stats": "curse enemies with elemental weakness on hit",
+    "average": 106.502,
+    "prices": [
+      29,
+      80,
+      80,
+      80,
+      85,
+      100,
+      100,
+      170.34,
+      170.34,
+      170.34
+    ],
+    "search": {
+      "id": "MVDz5PGiJ",
+      "complexity": 18,
+      "total": 20
+    },
     "builds": 3,
     "mods": [
       {
@@ -587,6 +767,18 @@
   {
     "item": "Pure Talent",
     "stats": "corrupted blood cannot be inflicted on you",
+    "average": 511.02,
+    "prices": [
+      511.02,
+      511.02,
+      851.7,
+      43732.18
+    ],
+    "search": {
+      "id": "8a2vlBMHV",
+      "complexity": 18,
+      "total": 4
+    },
     "builds": 2,
     "mods": [
       {
@@ -619,6 +811,24 @@
   {
     "item": "Victario's Influence",
     "stats": "+# to level of socketed gems",
+    "average": 5,
+    "prices": [
+      3,
+      4,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5
+    ],
+    "search": {
+      "id": "MvRPYE5iJ",
+      "complexity": 18,
+      "total": 102
+    },
     "builds": 2,
     "mods": [
       {
@@ -632,6 +842,24 @@
   {
     "item": "Victario's Influence",
     "stats": "+# to level of socketed aura gems",
+    "average": 7.8,
+    "prices": [
+      3,
+      5,
+      5,
+      5,
+      10,
+      10,
+      10,
+      10,
+      10,
+      10
+    ],
+    "search": {
+      "id": "806kqWnUV",
+      "complexity": 18,
+      "total": 113
+    },
     "builds": 2,
     "mods": [
       {
@@ -645,6 +873,24 @@
   {
     "item": "Victario's Influence",
     "stats": "+# to level of socketed aoe gems",
+    "average": 6.777777777777778,
+    "prices": [
+      1,
+      5,
+      5,
+      5,
+      5,
+      5,
+      7,
+      9,
+      10,
+      10
+    ],
+    "search": {
+      "id": "waPDjkKfb",
+      "complexity": 18,
+      "total": 92
+    },
     "builds": 2,
     "mods": [
       {
@@ -656,8 +902,52 @@
     ]
   },
   {
+    "item": "Incandescent Heart",
+    "stats": "+# to level of socketed gems",
+    "builds": 2,
+    "mods": [
+      {
+        "text": "+# to level of socketed gems",
+        "trade_ids": [
+          "implicit.stat_2843100721"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Shaper's Touch",
+    "stats": "+# to level of socketed aura gems",
+    "builds": 2,
+    "mods": [
+      {
+        "text": "+# to level of socketed aura gems",
+        "trade_ids": [
+          "implicit.stat_2452998583"
+        ]
+      }
+    ]
+  },
+  {
     "item": "String of Servitude",
     "stats": "zealotry has #% increased aura effect",
+    "average": 3.3,
+    "prices": [
+      1,
+      1,
+      2,
+      4,
+      4,
+      4,
+      4,
+      4,
+      4,
+      5
+    ],
+    "search": {
+      "id": "qXjkkjlCg",
+      "complexity": 18,
+      "total": 57
+    },
     "builds": 2,
     "mods": [
       {
@@ -756,6 +1046,19 @@
         "text": "+# to level of socketed duration gems",
         "trade_ids": [
           "implicit.stat_2115168758"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Vaal Caress",
+    "stats": "+# to level of socketed aoe gems",
+    "builds": 2,
+    "mods": [
+      {
+        "text": "+# to level of socketed aoe gems",
+        "trade_ids": [
+          "implicit.stat_2551600084"
         ]
       }
     ]
@@ -1635,6 +1938,19 @@
     ]
   },
   {
+    "item": "Matua Tupuna",
+    "stats": "+# to level of socketed duration gems",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "+# to level of socketed duration gems",
+        "trade_ids": [
+          "implicit.stat_2115168758"
+        ]
+      }
+    ]
+  },
+  {
     "item": "Sin Trek",
     "stats": "+# to level of socketed aura gems, +# to global evasion rating while moving",
     "builds": 1,
@@ -1949,19 +2265,6 @@
   },
   {
     "item": "Incandescent Heart",
-    "stats": "+# to level of socketed gems",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "+# to level of socketed gems",
-        "trade_ids": [
-          "implicit.stat_2843100721"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Incandescent Heart",
     "stats": "#% increased damage",
     "builds": 1,
     "mods": [
@@ -2187,19 +2490,6 @@
         "text": "+# to level of socketed gems",
         "trade_ids": [
           "implicit.stat_2843100721"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Shaper's Touch",
-    "stats": "+# to level of socketed aura gems",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "+# to level of socketed aura gems",
-        "trade_ids": [
-          "implicit.stat_2452998583"
         ]
       }
     ]
@@ -2573,19 +2863,6 @@
         "text": "+# to level of socketed aura gems",
         "trade_ids": [
           "implicit.stat_2452998583"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Vaal Caress",
-    "stats": "+# to level of socketed aoe gems",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "+# to level of socketed aoe gems",
-        "trade_ids": [
-          "implicit.stat_2551600084"
         ]
       }
     ]
@@ -4011,6 +4288,19 @@
         "text": "#% increased intelligence",
         "trade_ids": [
           "implicit.stat_656461285"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Ceinture of Benevolence",
+    "stats": "wrath has #% increased aura effect",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "wrath has #% increased aura effect",
+        "trade_ids": [
+          "implicit.stat_2181791238"
         ]
       }
     ]
