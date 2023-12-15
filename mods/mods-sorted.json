@@ -279,6 +279,35 @@
     ]
   },
   {
+    "item": "Matua Tupuna",
+    "stats": "+# to level of socketed aoe gems",
+    "average": 473.10999999999996,
+    "prices": [
+      417.45,
+      417.45,
+      417.45,
+      500.93999999999994,
+      500.93999999999994,
+      584.43,
+      834.9,
+      1502.82
+    ],
+    "search": {
+      "id": "2GbYYzYHk",
+      "complexity": 18,
+      "total": 8
+    },
+    "builds": 2,
+    "mods": [
+      {
+        "text": "+# to level of socketed aoe gems",
+        "trade_ids": [
+          "implicit.stat_2551600084"
+        ]
+      }
+    ]
+  },
+  {
     "item": "String of Servitude",
     "stats": "discipline has #% increased aura effect",
     "average": 4.375,
@@ -557,6 +586,19 @@
     ]
   },
   {
+    "item": "Vaal Caress",
+    "stats": "+# to level of socketed aura gems",
+    "builds": 2,
+    "mods": [
+      {
+        "text": "+# to level of socketed aura gems",
+        "trade_ids": [
+          "implicit.stat_2452998583"
+        ]
+      }
+    ]
+  },
+  {
     "item": "Kaom's Spirit",
     "stats": "+# to maximum frenzy charges",
     "average": 157.49,
@@ -815,35 +857,6 @@
   },
   {
     "item": "Matua Tupuna",
-    "stats": "+# to level of socketed aoe gems",
-    "average": 473.10999999999996,
-    "prices": [
-      417.45,
-      417.45,
-      417.45,
-      500.93999999999994,
-      500.93999999999994,
-      584.43,
-      834.9,
-      1502.82
-    ],
-    "search": {
-      "id": "2GbYYzYHk",
-      "complexity": 18,
-      "total": 8
-    },
-    "builds": 1,
-    "mods": [
-      {
-        "text": "+# to level of socketed aoe gems",
-        "trade_ids": [
-          "implicit.stat_2551600084"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Matua Tupuna",
     "stats": "#% increased maximum energy shield",
     "average": 7,
     "prices": [
@@ -1072,6 +1085,24 @@
   {
     "item": "Call of the Brotherhood",
     "stats": "wrath has #% increased aura effect",
+    "average": 18.444444444444443,
+    "prices": [
+      9,
+      10,
+      10,
+      13,
+      14,
+      20,
+      20,
+      35,
+      35,
+      45
+    ],
+    "search": {
+      "id": "OVwYd2VtE",
+      "complexity": 18,
+      "total": 16
+    },
     "builds": 1,
     "mods": [
       {
@@ -1085,6 +1116,24 @@
   {
     "item": "Call of the Brotherhood",
     "stats": "hatred has #% increased aura effect",
+    "average": 88.4,
+    "prices": [
+      70,
+      75,
+      80,
+      80,
+      80,
+      99,
+      100,
+      100,
+      100,
+      100
+    ],
+    "search": {
+      "id": "JYDZWMbUl",
+      "complexity": 18,
+      "total": 23
+    },
     "builds": 1,
     "mods": [
       {
@@ -1776,6 +1825,18 @@
   {
     "item": "Inspired Learning",
     "stats": "minions deal #% increased damage",
+    "average": 435,
+    "prices": [
+      435,
+      435,
+      435,
+      500.93999999999994
+    ],
+    "search": {
+      "id": "oX70bw4il",
+      "complexity": 18,
+      "total": 4
+    },
     "builds": 1,
     "mods": [
       {
@@ -2504,6 +2565,19 @@
   },
   {
     "item": "Prism Guardian",
+    "stats": "+# to level of socketed aoe gems",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "+# to level of socketed aoe gems",
+        "trade_ids": [
+          "implicit.stat_2551600084"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Prism Guardian",
     "stats": "#% of physical damage from hits taken as lightning damage",
     "average": 81.832,
     "prices": [
@@ -2729,6 +2803,13 @@
   {
     "item": "Headhunter",
     "stats": "#% increased dexterity, #% increased intelligence",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "DL85jL7H5",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -3338,6 +3419,19 @@
   },
   {
     "item": "Alpha's Howl",
+    "stats": "+# to level of socketed duration gems",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "+# to level of socketed duration gems",
+        "trade_ids": [
+          "implicit.stat_2115168758"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Alpha's Howl",
     "stats": "+# to level of socketed aura gems",
     "average": 398.1494999999999,
     "prices": [
@@ -3363,6 +3457,19 @@
         "text": "+# to level of socketed aura gems",
         "trade_ids": [
           "implicit.stat_2452998583"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Darkray Vectors",
+    "stats": "+# to level of socketed gems",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "+# to level of socketed gems",
+        "trade_ids": [
+          "implicit.stat_2843100721"
         ]
       }
     ]
@@ -3573,6 +3680,26 @@
   },
   {
     "item": "Asenath's Gentle Touch",
+    "stats": "#% increased attack speed, #% increased cast speed",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "#% increased attack speed",
+        "trade_ids": [
+          "implicit.stat_681332047",
+          "implicit.stat_210067635"
+        ]
+      },
+      {
+        "text": "#% increased cast speed",
+        "trade_ids": [
+          "implicit.stat_2891184298"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Asenath's Gentle Touch",
     "stats": "+# to level of socketed aura gems, #% increased cast speed",
     "average": null,
     "prices": [],
@@ -3725,6 +3852,25 @@
         "text": "#% increased maximum life",
         "trade_ids": [
           "implicit.stat_983749596"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "March of the Legion",
+    "stats": "+# to level of socketed gems, +# to level of socketed aura gems",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "+# to level of socketed gems",
+        "trade_ids": [
+          "implicit.stat_2843100721"
+        ]
+      },
+      {
+        "text": "+# to level of socketed aura gems",
+        "trade_ids": [
+          "implicit.stat_2452998583"
         ]
       }
     ]
@@ -3965,6 +4111,100 @@
     ]
   },
   {
+    "item": "The Covenant",
+    "stats": "#% increased damage, #% increased maximum life",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "#% increased damage",
+        "trade_ids": [
+          "implicit.stat_2154246560"
+        ]
+      },
+      {
+        "text": "#% increased maximum life",
+        "trade_ids": [
+          "implicit.stat_983749596"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "The Covenant",
+    "stats": "+# to level of socketed duration gems, +# to level of socketed warcry gems",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "lXjEWq6hV",
+      "complexity": 29,
+      "total": 0
+    },
+    "builds": 1,
+    "mods": [
+      {
+        "text": "+# to level of socketed duration gems",
+        "trade_ids": [
+          "implicit.stat_2115168758"
+        ]
+      },
+      {
+        "text": "+# to level of socketed warcry gems",
+        "trade_ids": [
+          "implicit.stat_1672793731"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "The Covenant",
+    "stats": "+# to level of socketed aura gems",
+    "average": 770.14,
+    "prices": [
+      330.06,
+      825.15,
+      1155.21
+    ],
+    "search": {
+      "id": "7lRgXeBS5",
+      "complexity": 18,
+      "total": 3
+    },
+    "builds": 1,
+    "mods": [
+      {
+        "text": "+# to level of socketed aura gems",
+        "trade_ids": [
+          "implicit.stat_2452998583"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "The Covenant",
+    "stats": "#% increased maximum energy shield",
+    "average": 278.29999999999995,
+    "prices": [
+      166.98,
+      250.46999999999997,
+      417.45,
+      1085.37
+    ],
+    "search": {
+      "id": "YVoWm0RiY",
+      "complexity": 18,
+      "total": 4
+    },
+    "builds": 1,
+    "mods": [
+      {
+        "text": "#% increased maximum energy shield",
+        "trade_ids": [
+          "implicit.stat_2482852589"
+        ]
+      }
+    ]
+  },
+  {
     "item": "The Stampede",
     "stats": "regenerate # life per second while moving",
     "average": null,
@@ -4044,6 +4284,13 @@
   {
     "item": "Dendrobate",
     "stats": "+# to level of socketed aoe gems, #% increased damage",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "vlPVe4zSE",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -4256,81 +4503,6 @@
     ]
   },
   {
-    "item": "The Covenant",
-    "stats": "+# to level of socketed duration gems, +# to level of socketed warcry gems",
-    "average": null,
-    "prices": [],
-    "search": {
-      "id": "lXjEWq6hV",
-      "complexity": 29,
-      "total": 0
-    },
-    "builds": 1,
-    "mods": [
-      {
-        "text": "+# to level of socketed duration gems",
-        "trade_ids": [
-          "implicit.stat_2115168758"
-        ]
-      },
-      {
-        "text": "+# to level of socketed warcry gems",
-        "trade_ids": [
-          "implicit.stat_1672793731"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "The Covenant",
-    "stats": "+# to level of socketed aura gems",
-    "average": 770.14,
-    "prices": [
-      330.06,
-      825.15,
-      1155.21
-    ],
-    "search": {
-      "id": "7lRgXeBS5",
-      "complexity": 18,
-      "total": 3
-    },
-    "builds": 1,
-    "mods": [
-      {
-        "text": "+# to level of socketed aura gems",
-        "trade_ids": [
-          "implicit.stat_2452998583"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "The Covenant",
-    "stats": "#% increased maximum energy shield",
-    "average": 278.29999999999995,
-    "prices": [
-      166.98,
-      250.46999999999997,
-      417.45,
-      1085.37
-    ],
-    "search": {
-      "id": "YVoWm0RiY",
-      "complexity": 18,
-      "total": 4
-    },
-    "builds": 1,
-    "mods": [
-      {
-        "text": "#% increased maximum energy shield",
-        "trade_ids": [
-          "implicit.stat_2482852589"
-        ]
-      }
-    ]
-  },
-  {
     "item": "Dialla's Malefaction",
     "stats": "+# to level of socketed aoe gems, #% additional physical damage reduction while stationary",
     "average": null,
@@ -4440,6 +4612,24 @@
   {
     "item": "Doomfletch",
     "stats": "#% increased elemental damage with attack skills",
+    "average": 2.7,
+    "prices": [
+      2,
+      2,
+      2,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3
+    ],
+    "search": {
+      "id": "Eyd2PQKc5",
+      "complexity": 18,
+      "total": 264
+    },
     "builds": 1,
     "mods": [
       {
@@ -4453,6 +4643,17 @@
   {
     "item": "Chains of Command",
     "stats": "+#% to all maximum resistances",
+    "average": 78.99333333333333,
+    "prices": [
+      20,
+      50,
+      166.98
+    ],
+    "search": {
+      "id": "nXqyZm2C0",
+      "complexity": 18,
+      "total": 3
+    },
     "builds": 1,
     "mods": [
       {
@@ -4466,6 +4667,17 @@
   {
     "item": "Leash of Oblation",
     "stats": "discipline has #% increased aura effect",
+    "average": 166.98,
+    "prices": [
+      50,
+      166.98,
+      166.98
+    ],
+    "search": {
+      "id": "kXJQ05WI5",
+      "complexity": 18,
+      "total": 3
+    },
     "builds": 1,
     "mods": [
       {
@@ -4479,6 +4691,23 @@
   {
     "item": "Ancient Skull",
     "stats": "socketed skill gems get a #% cost & reservation multiplier",
+    "average": 405.5228571428571,
+    "prices": [
+      333.96,
+      333.96,
+      333.96,
+      333.96,
+      500.93999999999994,
+      500.93999999999994,
+      500.93999999999994,
+      667.92,
+      1168.86
+    ],
+    "search": {
+      "id": "9Y2Zr48UK",
+      "complexity": 18,
+      "total": 9
+    },
     "builds": 1,
     "mods": [
       {
@@ -4492,6 +4721,13 @@
   {
     "item": "Triad Grip",
     "stats": "+# to level of socketed aura gems, #% increased maximum energy shield",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "waq7K2jcb",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -4504,6 +4740,20 @@
         "text": "#% increased maximum energy shield",
         "trade_ids": [
           "implicit.stat_2482852589"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Badge of the Brotherhood",
+    "stats": "#% of cold damage leeched as life",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "#% of cold damage leeched as life",
+        "trade_ids": [
+          "implicit.stat_3999401129",
+          "implicit.stat_2459451600"
         ]
       }
     ]
@@ -4567,6 +4817,24 @@
   {
     "item": "Yoke of Suffering",
     "stats": "hatred has #% increased aura effect",
+    "average": 42.3,
+    "prices": [
+      35,
+      39,
+      39,
+      40,
+      40,
+      40,
+      40,
+      50,
+      50,
+      50
+    ],
+    "search": {
+      "id": "yrJvMDrsR",
+      "complexity": 18,
+      "total": 24
+    },
     "builds": 1,
     "mods": [
       {
@@ -4580,6 +4848,24 @@
   {
     "item": "Yoke of Suffering",
     "stats": "you can apply an additional curse",
+    "average": 248.8002,
+    "prices": [
+      166.98,
+      166.98,
+      166.98,
+      166.98,
+      250.46999999999997,
+      250.46999999999997,
+      317.26199999999994,
+      333.96,
+      333.96,
+      333.96
+    ],
+    "search": {
+      "id": "W5Xeb8mcm",
+      "complexity": 18,
+      "total": 12
+    },
     "builds": 1,
     "mods": [
       {
@@ -4593,6 +4879,13 @@
   {
     "item": "Inpulsa's Broken Heart",
     "stats": "#% additional physical damage reduction while stationary",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "zeqGP0aI4",
+      "complexity": 18,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -4606,6 +4899,13 @@
   {
     "item": "Inpulsa's Broken Heart",
     "stats": "+# to level of socketed minion gems, #% increased damage",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "BEzevqjT8",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -4625,6 +4925,16 @@
   {
     "item": "Inpulsa's Broken Heart",
     "stats": "#% reduced cold damage taken",
+    "average": 25,
+    "prices": [
+      20,
+      30
+    ],
+    "search": {
+      "id": "eXDrLwWFL",
+      "complexity": 18,
+      "total": 2
+    },
     "builds": 1,
     "mods": [
       {
@@ -4767,6 +5077,19 @@
         "text": "+# to level of socketed gems",
         "trade_ids": [
           "implicit.stat_2843100721"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Rainbowstride",
+    "stats": "+# to level of socketed duration gems",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "+# to level of socketed duration gems",
+        "trade_ids": [
+          "implicit.stat_2115168758"
         ]
       }
     ]
