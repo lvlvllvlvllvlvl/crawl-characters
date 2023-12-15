@@ -116,6 +116,34 @@
     ]
   },
   {
+    "item": "Vaal Caress",
+    "stats": "+# to level of socketed aura gems",
+    "average": 897.1239999999999,
+    "prices": [
+      681.36,
+      681.36,
+      936.87,
+      936.87,
+      953.904,
+      1192.38,
+      1703.4
+    ],
+    "search": {
+      "id": "lPr5YawFV",
+      "complexity": 18,
+      "total": 7
+    },
+    "builds": 6,
+    "mods": [
+      {
+        "text": "+# to level of socketed aura gems",
+        "trade_ids": [
+          "implicit.stat_2452998583"
+        ]
+      }
+    ]
+  },
+  {
     "item": "Shadows and Dust",
     "stats": "+# to maximum frenzy charges",
     "average": 843.183,
@@ -297,34 +325,6 @@
         "text": "+# to level of socketed duration gems",
         "trade_ids": [
           "implicit.stat_2115168758"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Vaal Caress",
-    "stats": "+# to level of socketed aura gems",
-    "average": 897.1239999999999,
-    "prices": [
-      681.36,
-      681.36,
-      936.87,
-      936.87,
-      953.904,
-      1192.38,
-      1703.4
-    ],
-    "search": {
-      "id": "lPr5YawFV",
-      "complexity": 18,
-      "total": 7
-    },
-    "builds": 5,
-    "mods": [
-      {
-        "text": "+# to level of socketed aura gems",
-        "trade_ids": [
-          "implicit.stat_2452998583"
         ]
       }
     ]
@@ -3960,6 +3960,24 @@
   {
     "item": "Bated Breath",
     "stats": "#% increased maximum energy shield",
+    "average": 16.4,
+    "prices": [
+      5,
+      10,
+      10,
+      10,
+      14,
+      15,
+      20,
+      20,
+      30,
+      30
+    ],
+    "search": {
+      "id": "vlE0L09fE",
+      "complexity": 18,
+      "total": 15
+    },
     "builds": 1,
     "mods": [
       {
@@ -3973,6 +3991,15 @@
   {
     "item": "Bated Breath",
     "stats": "wrath has #% increased aura effect, discipline has #% increased aura effect",
+    "average": 100,
+    "prices": [
+      100
+    ],
+    "search": {
+      "id": "lXqOl76IV",
+      "complexity": 29,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -3992,6 +4019,24 @@
   {
     "item": "Bated Breath",
     "stats": "zealotry has #% increased aura effect",
+    "average": 16.666666666666668,
+    "prices": [
+      2,
+      10,
+      10,
+      15,
+      15,
+      20,
+      20,
+      20,
+      20,
+      20
+    ],
+    "search": {
+      "id": "gXDl2naFQ",
+      "complexity": 18,
+      "total": 19
+    },
     "builds": 1,
     "mods": [
       {
@@ -4005,6 +4050,13 @@
   {
     "item": "Bated Breath",
     "stats": "#% increased dexterity, #% increased intelligence, #% increased maximum energy shield",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "7lKm9nlu5",
+      "complexity": 20,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -4030,6 +4082,24 @@
   {
     "item": "Bated Breath",
     "stats": "anger has #% increased aura effect",
+    "average": 18.6,
+    "prices": [
+      8,
+      15,
+      15,
+      15,
+      15,
+      20,
+      20,
+      20,
+      28,
+      30
+    ],
+    "search": {
+      "id": "jXZk6lZCX",
+      "complexity": 18,
+      "total": 15
+    },
     "builds": 1,
     "mods": [
       {
@@ -4043,6 +4113,18 @@
   {
     "item": "Shaper's Touch",
     "stats": "+# to level of socketed gems",
+    "average": 851.7000000000002,
+    "prices": [
+      10,
+      851.7,
+      851.7,
+      851.7
+    ],
+    "search": {
+      "id": "LeWPLEVHn",
+      "complexity": 18,
+      "total": 4
+    },
     "builds": 1,
     "mods": [
       {
@@ -4056,6 +4138,18 @@
   {
     "item": "Shaper's Touch",
     "stats": "curse enemies with elemental weakness on hit",
+    "average": 936.87,
+    "prices": [
+      851.7,
+      851.7,
+      1022.04,
+      1022.04
+    ],
+    "search": {
+      "id": "8a2odn2hV",
+      "complexity": 18,
+      "total": 4
+    },
     "builds": 1,
     "mods": [
       {
@@ -4069,6 +4163,22 @@
   {
     "item": "Greed's Embrace",
     "stats": "+# to level of socketed aoe gems, +# to level of socketed aura gems",
+    "average": 876.0342857142857,
+    "prices": [
+      340.68,
+      511.02,
+      511.02,
+      851.7,
+      851.7,
+      1362.72,
+      1703.4,
+      2384.76
+    ],
+    "search": {
+      "id": "9YD9l8yIK",
+      "complexity": 29,
+      "total": 8
+    },
     "builds": 1,
     "mods": [
       {
@@ -4088,6 +4198,18 @@
   {
     "item": "Greed's Embrace",
     "stats": "+# to level of socketed aoe gems, #% reduced lightning damage taken",
+    "average": 511.02,
+    "prices": [
+      170.34,
+      511.02,
+      511.02,
+      1703.4
+    ],
+    "search": {
+      "id": "jXJd8wdHX",
+      "complexity": 29,
+      "total": 4
+    },
     "builds": 1,
     "mods": [
       {
@@ -4107,6 +4229,24 @@
   {
     "item": "Greed's Embrace",
     "stats": "#% reduced fire damage taken",
+    "average": 5,
+    "prices": [
+      4,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      7,
+      8,
+      9
+    ],
+    "search": {
+      "id": "VMg46mgfp",
+      "complexity": 18,
+      "total": 61
+    },
     "builds": 1,
     "mods": [
       {
@@ -4120,6 +4260,24 @@
   {
     "item": "Greed's Embrace",
     "stats": "+# to level of socketed warcry gems",
+    "average": 6.5,
+    "prices": [
+      1,
+      2,
+      5,
+      5,
+      5,
+      7,
+      10,
+      10,
+      10,
+      10
+    ],
+    "search": {
+      "id": "YVqMX5kUY",
+      "complexity": 18,
+      "total": 58
+    },
     "builds": 1,
     "mods": [
       {
@@ -4133,6 +4291,24 @@
   {
     "item": "Sadima's Touch",
     "stats": "curse enemies with despair on hit",
+    "average": 25,
+    "prices": [
+      10,
+      15,
+      19,
+      20,
+      24,
+      25,
+      25,
+      25,
+      25,
+      25
+    ],
+    "search": {
+      "id": "v3mvnDMCE",
+      "complexity": 18,
+      "total": 95
+    },
     "builds": 1,
     "mods": [
       {
@@ -4146,6 +4322,24 @@
   {
     "item": "Sadima's Touch",
     "stats": "#% increased cast speed",
+    "average": 3.4,
+    "prices": [
+      2,
+      2,
+      3,
+      3,
+      3,
+      3,
+      3,
+      5,
+      5,
+      5
+    ],
+    "search": {
+      "id": "K9gKZ2RC5",
+      "complexity": 18,
+      "total": 55
+    },
     "builds": 1,
     "mods": [
       {
@@ -4159,6 +4353,24 @@
   {
     "item": "Sadima's Touch",
     "stats": "+# to level of socketed minion gems",
+    "average": 3,
+    "prices": [
+      1,
+      2,
+      2,
+      2,
+      3,
+      3,
+      3,
+      4,
+      5,
+      5
+    ],
+    "search": {
+      "id": "YD0JL6vhY",
+      "complexity": 18,
+      "total": 35
+    },
     "builds": 1,
     "mods": [
       {
@@ -4172,6 +4384,24 @@
   {
     "item": "Sadima's Touch",
     "stats": "#% increased attack speed",
+    "average": 2.9,
+    "prices": [
+      1,
+      2,
+      2,
+      2,
+      3,
+      3,
+      3,
+      4,
+      4,
+      5
+    ],
+    "search": {
+      "id": "2Gb6JDdtk",
+      "complexity": 19,
+      "total": 91
+    },
     "builds": 1,
     "mods": [
       {
@@ -4517,6 +4747,31 @@
         "text": "discipline has #% increased aura effect",
         "trade_ids": [
           "implicit.stat_788317702"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "The Torrent's Reclamation",
+    "stats": "#% increased strength, #% increased dexterity, #% increased attack speed during any flask effect",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "#% increased strength",
+        "trade_ids": [
+          "implicit.stat_4139681126"
+        ]
+      },
+      {
+        "text": "#% increased dexterity",
+        "trade_ids": [
+          "implicit.stat_4139681126"
+        ]
+      },
+      {
+        "text": "#% increased attack speed during any flask effect",
+        "trade_ids": [
+          "implicit.stat_1365052901"
         ]
       }
     ]
@@ -8081,6 +8336,19 @@
         "text": "+# to level of socketed projectile gems",
         "trade_ids": [
           "implicit.stat_2176571093"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "The Poet's Pen",
+    "stats": "#% increased area of effect",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "#% increased area of effect",
+        "trade_ids": [
+          "implicit.stat_280731498"
         ]
       }
     ]
