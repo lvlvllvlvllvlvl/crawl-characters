@@ -1881,6 +1881,19 @@
     ]
   },
   {
+    "item": "Ancient Skull",
+    "stats": "socketed skill gems get a #% cost & reservation multiplier",
+    "builds": 2,
+    "mods": [
+      {
+        "text": "socketed skill gems get a #% cost & reservation multiplier",
+        "trade_ids": [
+          "implicit.stat_2865550257"
+        ]
+      }
+    ]
+  },
+  {
     "item": "Obliteration",
     "stats": "#% increased area of effect",
     "average": 9.444444444444445,
@@ -2736,6 +2749,17 @@
   {
     "item": "Victario's Influence",
     "stats": "+# to level of socketed trap or mine gems, #% increased maximum life",
+    "average": 50,
+    "prices": [
+      19,
+      50,
+      50
+    ],
+    "search": {
+      "id": "OVaB4MgHE",
+      "complexity": 29,
+      "total": 3
+    },
     "builds": 1,
     "mods": [
       {
@@ -4420,6 +4444,24 @@
   {
     "item": "Greed's Embrace",
     "stats": "+# to level of socketed projectile gems",
+    "average": 8.2,
+    "prices": [
+      5,
+      5,
+      5,
+      7,
+      10,
+      10,
+      10,
+      10,
+      10,
+      10
+    ],
+    "search": {
+      "id": "6Gqw55qsG",
+      "complexity": 18,
+      "total": 188
+    },
     "builds": 1,
     "mods": [
       {
@@ -7213,6 +7255,19 @@
   },
   {
     "item": "Viridi's Veil",
+    "stats": "+# to level of socketed projectile gems",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "+# to level of socketed projectile gems",
+        "trade_ids": [
+          "implicit.stat_2176571093"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Viridi's Veil",
     "stats": "socketed skill gems get a #% cost & reservation multiplier",
     "average": 389.33279999999996,
     "prices": [
@@ -7421,6 +7476,24 @@
   {
     "item": "Lightning Coil",
     "stats": "#% additional physical damage reduction while stationary",
+    "average": 10,
+    "prices": [
+      5,
+      5,
+      9,
+      10,
+      10,
+      10,
+      10,
+      10,
+      10,
+      10
+    ],
+    "search": {
+      "id": "6ZBDYWkFG",
+      "complexity": 18,
+      "total": 43
+    },
     "builds": 1,
     "mods": [
       {
@@ -7434,6 +7507,24 @@
   {
     "item": "Lightning Coil",
     "stats": "+# to level of socketed aoe gems",
+    "average": 42.75,
+    "prices": [
+      25,
+      35,
+      40,
+      40,
+      40,
+      42,
+      45,
+      45,
+      45,
+      45
+    ],
+    "search": {
+      "id": "YD0Dv96UY",
+      "complexity": 18,
+      "total": 59
+    },
     "builds": 1,
     "mods": [
       {
@@ -7447,6 +7538,13 @@
   {
     "item": "Lightning Coil",
     "stats": "#% increased damage, #% reduced lightning damage taken",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "XqDYal7CP",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -7466,6 +7564,24 @@
   {
     "item": "Lightning Coil",
     "stats": "#% increased damage",
+    "average": 86.66666666666667,
+    "prices": [
+      60,
+      70,
+      70,
+      80,
+      80,
+      100,
+      100,
+      100,
+      120,
+      170.76
+    ],
+    "search": {
+      "id": "DGEGlVVc5",
+      "complexity": 18,
+      "total": 42
+    },
     "builds": 1,
     "mods": [
       {
@@ -7479,6 +7595,24 @@
   {
     "item": "Lightning Coil",
     "stats": "+# to level of socketed minion gems",
+    "average": 928.5074999999999,
+    "prices": [
+      683.04,
+      683.04,
+      683.04,
+      683.04,
+      853.8,
+      1195.32,
+      1280.6999999999998,
+      1366.08,
+      1707.6,
+      2049.12
+    ],
+    "search": {
+      "id": "8aprQ3VTV",
+      "complexity": 18,
+      "total": 14
+    },
     "builds": 1,
     "mods": [
       {
@@ -7492,6 +7626,24 @@
   {
     "item": "Lightning Coil",
     "stats": "+#% to all maximum resistances",
+    "average": 18.77777777777778,
+    "prices": [
+      15,
+      15,
+      19,
+      20,
+      20,
+      20,
+      20,
+      20,
+      20,
+      25
+    ],
+    "search": {
+      "id": "80Z0zlZcV",
+      "complexity": 18,
+      "total": 43
+    },
     "builds": 1,
     "mods": [
       {
@@ -7505,6 +7657,16 @@
   {
     "item": "The Magnate",
     "stats": "+#% to critical strike multiplier during any flask effect",
+    "average": 341.52,
+    "prices": [
+      341.52,
+      341.52
+    ],
+    "search": {
+      "id": "y9RWXZ8IR",
+      "complexity": 18,
+      "total": 2
+    },
     "builds": 1,
     "mods": [
       {
@@ -7518,6 +7680,20 @@
   {
     "item": "The Magnate",
     "stats": "+#% to all elemental resistances",
+    "average": 520.8179999999999,
+    "prices": [
+      341.52,
+      426.9,
+      512.28,
+      512.28,
+      648.8879999999999,
+      683.04
+    ],
+    "search": {
+      "id": "mXjMRMeT6",
+      "complexity": 18,
+      "total": 6
+    },
     "builds": 1,
     "mods": [
       {
@@ -7531,6 +7707,24 @@
   {
     "item": "Abyssus",
     "stats": "+# to maximum power charges",
+    "average": 102.066,
+    "prices": [
+      3,
+      40,
+      60,
+      80,
+      85.38,
+      120,
+      120,
+      170.76,
+      170.76,
+      170.76
+    ],
+    "search": {
+      "id": "aqeEGJ7se",
+      "complexity": 18,
+      "total": 15
+    },
     "builds": 1,
     "mods": [
       {
@@ -7544,6 +7738,24 @@
   {
     "item": "Voidforge",
     "stats": "#% increased elemental damage with attack skills",
+    "average": 3218.8259999999996,
+    "prices": [
+      3056.604,
+      3073.68,
+      3073.68,
+      3244.4399999999996,
+      3244.4399999999996,
+      3244.4399999999996,
+      3398.124,
+      3415.2,
+      4269,
+      4269
+    ],
+    "search": {
+      "id": "rXmE2XmfQ",
+      "complexity": 18,
+      "total": 13
+    },
     "builds": 1,
     "mods": [
       {
@@ -7557,6 +7769,24 @@
   {
     "item": "Ceinture of Benevolence",
     "stats": "#% increased maximum energy shield",
+    "average": 108.6711111111111,
+    "prices": [
+      5,
+      50,
+      80,
+      80,
+      80,
+      170.76,
+      170.76,
+      170.76,
+      170.76,
+      341.52
+    ],
+    "search": {
+      "id": "XkOX59dCP",
+      "complexity": 18,
+      "total": 11
+    },
     "builds": 1,
     "mods": [
       {
@@ -7570,6 +7800,24 @@
   {
     "item": "Ceinture of Benevolence",
     "stats": "#% increased area of effect",
+    "average": 6.333333333333333,
+    "prices": [
+      1,
+      1,
+      3,
+      3,
+      4,
+      10,
+      10,
+      10,
+      15,
+      40
+    ],
+    "search": {
+      "id": "LmoGMRGSn",
+      "complexity": 18,
+      "total": 12
+    },
     "builds": 1,
     "mods": [
       {
@@ -7583,6 +7831,24 @@
   {
     "item": "Ceinture of Benevolence",
     "stats": "#% increased dexterity, #% increased intelligence",
+    "average": 26.375,
+    "prices": [
+      5,
+      8,
+      10,
+      10,
+      30,
+      43,
+      50,
+      55,
+      100,
+      150
+    ],
+    "search": {
+      "id": "z27GVXRI4",
+      "complexity": 29,
+      "total": 13
+    },
     "builds": 1,
     "mods": [
       {
@@ -8402,6 +8668,45 @@
     ]
   },
   {
+    "item": "Gravebind",
+    "stats": "curse enemies with enfeeble on hit",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "curse enemies with enfeeble on hit",
+        "trade_ids": [
+          "implicit.stat_1625819882"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Gravebind",
+    "stats": "curse enemies with temporal chains on hit",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "curse enemies with temporal chains on hit",
+        "trade_ids": [
+          "implicit.stat_3433724931"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Arakaali's Fang",
+    "stats": "#% chance to gain a frenzy charge on kill",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "#% chance to gain a frenzy charge on kill",
+        "trade_ids": [
+          "implicit.stat_1826802197"
+        ]
+      }
+    ]
+  },
+  {
     "item": "Black Zenith",
     "stats": "curse enemies with temporal chains on hit",
     "builds": 1,
@@ -8423,6 +8728,25 @@
         "text": "+# to level of socketed duration gems",
         "trade_ids": [
           "implicit.stat_2115168758"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Skin of the Loyal",
+    "stats": "+# to level of socketed duration gems, #% increased maximum energy shield",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "+# to level of socketed duration gems",
+        "trade_ids": [
+          "implicit.stat_2115168758"
+        ]
+      },
+      {
+        "text": "#% increased maximum energy shield",
+        "trade_ids": [
+          "implicit.stat_2482852589"
         ]
       }
     ]
@@ -9006,19 +9330,6 @@
     ]
   },
   {
-    "item": "Gravebind",
-    "stats": "curse enemies with temporal chains on hit",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "curse enemies with temporal chains on hit",
-        "trade_ids": [
-          "implicit.stat_3433724931"
-        ]
-      }
-    ]
-  },
-  {
     "item": "Replica Covenant",
     "stats": "+# to level of socketed duration gems, #% increased maximum life",
     "builds": 1,
@@ -9119,19 +9430,6 @@
         "text": "discipline has #% increased aura effect",
         "trade_ids": [
           "implicit.stat_788317702"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Ancient Skull",
-    "stats": "socketed skill gems get a #% cost & reservation multiplier",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "socketed skill gems get a #% cost & reservation multiplier",
-        "trade_ids": [
-          "implicit.stat_2865550257"
         ]
       }
     ]
