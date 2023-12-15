@@ -147,6 +147,37 @@
     ]
   },
   {
+    "item": "String of Servitude",
+    "stats": "#% increased rarity of items found",
+    "average": 4.555555555555555,
+    "prices": [
+      3,
+      4,
+      4,
+      4,
+      4,
+      5,
+      5,
+      5,
+      5,
+      5
+    ],
+    "search": {
+      "id": "YVrXkEDUY",
+      "complexity": 18,
+      "total": 58
+    },
+    "builds": 6,
+    "mods": [
+      {
+        "text": "#% increased rarity of items found",
+        "trade_ids": [
+          "implicit.stat_3917489142"
+        ]
+      }
+    ]
+  },
+  {
     "item": "Vaal Caress",
     "stats": "+# to level of socketed aura gems",
     "average": 897.1239999999999,
@@ -263,37 +294,6 @@
         "text": "wrath has #% increased aura effect",
         "trade_ids": [
           "implicit.stat_2181791238"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "String of Servitude",
-    "stats": "#% increased rarity of items found",
-    "average": 4.555555555555555,
-    "prices": [
-      3,
-      4,
-      4,
-      4,
-      4,
-      5,
-      5,
-      5,
-      5,
-      5
-    ],
-    "search": {
-      "id": "YVrXkEDUY",
-      "complexity": 18,
-      "total": 58
-    },
-    "builds": 5,
-    "mods": [
-      {
-        "text": "#% increased rarity of items found",
-        "trade_ids": [
-          "implicit.stat_3917489142"
         ]
       }
     ]
@@ -4694,6 +4694,19 @@
   },
   {
     "item": "March of the Legion",
+    "stats": "+# to level of socketed trap or mine gems",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "+# to level of socketed trap or mine gems",
+        "trade_ids": [
+          "implicit.stat_150668988"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "March of the Legion",
     "stats": "+# to level of socketed projectile gems",
     "average": 8.333333333333334,
     "prices": [
@@ -5716,6 +5729,17 @@
   {
     "item": "Anathema",
     "stats": "+#% to all elemental resistances",
+    "average": 683.04,
+    "prices": [
+      683.04,
+      683.04,
+      853.8
+    ],
+    "search": {
+      "id": "jXjMMPXSX",
+      "complexity": 18,
+      "total": 3
+    },
     "builds": 1,
     "mods": [
       {
@@ -5729,6 +5753,17 @@
   {
     "item": "Anathema",
     "stats": "bleeding cannot be inflicted on you",
+    "average": 8993.359999999999,
+    "prices": [
+      5122.799999999999,
+      6488.879999999999,
+      15368.4
+    ],
+    "search": {
+      "id": "rY5MGMECQ",
+      "complexity": 18,
+      "total": 3
+    },
     "builds": 1,
     "mods": [
       {
@@ -5742,6 +5777,18 @@
   {
     "item": "Inspired Learning",
     "stats": "#% reduced effect of shock on you",
+    "average": 417.24133333333333,
+    "prices": [
+      415,
+      409.82399999999996,
+      426.9,
+      853.8
+    ],
+    "search": {
+      "id": "lPrZWRnFV",
+      "complexity": 18,
+      "total": 4
+    },
     "builds": 1,
     "mods": [
       {
@@ -5755,6 +5802,15 @@
   {
     "item": "Inspired Learning",
     "stats": "damage penetrates #% cold resistance",
+    "average": 683.04,
+    "prices": [
+      683.04
+    ],
+    "search": {
+      "id": "KJdeLGqs5",
+      "complexity": 19,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -5769,6 +5825,18 @@
   {
     "item": "Inspired Learning",
     "stats": "you cannot be maimed",
+    "average": 461.05199999999996,
+    "prices": [
+      426.9,
+      426.9,
+      478.12799999999993,
+      512.28
+    ],
+    "search": {
+      "id": "v3WbPKZuE",
+      "complexity": 18,
+      "total": 4
+    },
     "builds": 1,
     "mods": [
       {
@@ -5782,6 +5850,15 @@
   {
     "item": "Inspired Learning",
     "stats": "minions deal #% increased damage",
+    "average": 426.9,
+    "prices": [
+      426.9
+    ],
+    "search": {
+      "id": "oX70bw4il",
+      "complexity": 18,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -5795,6 +5872,13 @@
   {
     "item": "Inspired Learning",
     "stats": "#% reduced poison duration on you",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "ZbZdZp8HQ",
+      "complexity": 18,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -5808,6 +5892,18 @@
   {
     "item": "Inspired Learning",
     "stats": "#% reduced bleed duration on you",
+    "average": 464.11499999999995,
+    "prices": [
+      405,
+      461.052,
+      478.12799999999993,
+      512.28
+    ],
+    "search": {
+      "id": "bPZJr2RTL",
+      "complexity": 18,
+      "total": 4
+    },
     "builds": 1,
     "mods": [
       {
@@ -5821,6 +5917,16 @@
   {
     "item": "Inspired Learning",
     "stats": "#% reduced effect of curses on you",
+    "average": 640.3499999999999,
+    "prices": [
+      426.9,
+      853.8
+    ],
+    "search": {
+      "id": "LmdejwjHn",
+      "complexity": 18,
+      "total": 2
+    },
     "builds": 1,
     "mods": [
       {
@@ -5834,6 +5940,15 @@
   {
     "item": "Inspired Learning",
     "stats": "damage penetrates #% lightning resistance",
+    "average": 512.28,
+    "prices": [
+      512.28
+    ],
+    "search": {
+      "id": "kXD66RnF5",
+      "complexity": 19,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -5848,6 +5963,24 @@
   {
     "item": "The Jinxed Juju",
     "stats": "discipline has #% increased aura effect",
+    "average": 39,
+    "prices": [
+      15,
+      20,
+      20,
+      25,
+      30,
+      30,
+      40,
+      70,
+      70,
+      70
+    ],
+    "search": {
+      "id": "qXJRJvkSg",
+      "complexity": 18,
+      "total": 16
+    },
     "builds": 1,
     "mods": [
       {
@@ -5861,6 +5994,23 @@
   {
     "item": "The Jinxed Juju",
     "stats": "#% of cold damage leeched as life",
+    "average": 10,
+    "prices": [
+      10,
+      10,
+      10,
+      10,
+      10,
+      13,
+      15,
+      50,
+      140
+    ],
+    "search": {
+      "id": "MVZ04vLUJ",
+      "complexity": 19,
+      "total": 9
+    },
     "builds": 1,
     "mods": [
       {
@@ -5875,6 +6025,13 @@
   {
     "item": "Asenath's Mark",
     "stats": "socketed skill gems get a #% cost & reservation multiplier",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "GkdDyk9Fb",
+      "complexity": 18,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -5888,6 +6045,13 @@
   {
     "item": "Shadows and Dust",
     "stats": "#% increased maximum energy shield, attacks have +#% to critical strike chance",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "EyVjjPBH5",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -5907,6 +6071,24 @@
   {
     "item": "Shadows and Dust",
     "stats": "#% increased attack speed",
+    "average": 124.59639999999999,
+    "prices": [
+      90,
+      90,
+      90,
+      90,
+      100,
+      120,
+      153.684,
+      170.76,
+      170.76,
+      170.76
+    ],
+    "search": {
+      "id": "8aeDbjvFV",
+      "complexity": 19,
+      "total": 20
+    },
     "builds": 1,
     "mods": [
       {
@@ -6095,6 +6277,19 @@
         "text": "+# to level of socketed duration gems",
         "trade_ids": [
           "implicit.stat_2115168758"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Prism Guardian",
+    "stats": "#% increased maximum energy shield",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "#% increased maximum energy shield",
+        "trade_ids": [
+          "implicit.stat_2482852589"
         ]
       }
     ]
@@ -6648,6 +6843,25 @@
         "text": "#% increased intelligence",
         "trade_ids": [
           "implicit.stat_656461285"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Ceinture of Benevolence",
+    "stats": "#% increased maximum energy shield, #% increased cast speed during any flask effect",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "#% increased maximum energy shield",
+        "trade_ids": [
+          "implicit.stat_2482852589"
+        ]
+      },
+      {
+        "text": "#% increased cast speed during any flask effect",
+        "trade_ids": [
+          "implicit.stat_252194507"
         ]
       }
     ]
@@ -7695,6 +7909,19 @@
         "text": "#% increased movement speed",
         "trade_ids": [
           "implicit.stat_2250533757"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Doedre's Tenure",
+    "stats": "+#% to spell critical strike chance",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "+#% to spell critical strike chance",
+        "trade_ids": [
+          "implicit.stat_791835907"
         ]
       }
     ]
