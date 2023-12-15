@@ -361,6 +361,37 @@
     ]
   },
   {
+    "item": "Kaom's Heart",
+    "stats": "#% increased damage",
+    "average": 340.94,
+    "prices": [
+      170.47,
+      323.893,
+      340.94,
+      340.94,
+      340.94,
+      340.94,
+      340.94,
+      340.94,
+      340.94,
+      340.94
+    ],
+    "search": {
+      "id": "PK7ayEgtL",
+      "complexity": 18,
+      "total": 18
+    },
+    "builds": 5,
+    "mods": [
+      {
+        "text": "#% increased damage",
+        "trade_ids": [
+          "implicit.stat_2154246560"
+        ]
+      }
+    ]
+  },
+  {
     "item": "Victario's Influence",
     "stats": "+# to level of socketed aura gems",
     "average": 7.8,
@@ -604,37 +635,6 @@
         "text": "+# to level of socketed projectile gems",
         "trade_ids": [
           "implicit.stat_2176571093"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Kaom's Heart",
-    "stats": "#% increased damage",
-    "average": 340.94,
-    "prices": [
-      170.47,
-      323.893,
-      340.94,
-      340.94,
-      340.94,
-      340.94,
-      340.94,
-      340.94,
-      340.94,
-      340.94
-    ],
-    "search": {
-      "id": "PK7ayEgtL",
-      "complexity": 18,
-      "total": 18
-    },
-    "builds": 4,
-    "mods": [
-      {
-        "text": "#% increased damage",
-        "trade_ids": [
-          "implicit.stat_2154246560"
         ]
       }
     ]
@@ -2952,6 +2952,25 @@
   },
   {
     "item": "Victario's Influence",
+    "stats": "+# to level of socketed aoe gems, +# to level of socketed projectile gems",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "+# to level of socketed aoe gems",
+        "trade_ids": [
+          "implicit.stat_2551600084"
+        ]
+      },
+      {
+        "text": "+# to level of socketed projectile gems",
+        "trade_ids": [
+          "implicit.stat_2176571093"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Victario's Influence",
     "stats": "+# to level of socketed duration gems, +# to level of socketed aura gems",
     "average": 115.81666666666668,
     "prices": [
@@ -3788,6 +3807,25 @@
     },
     "builds": 1,
     "mods": [
+      {
+        "text": "#% increased maximum life",
+        "trade_ids": [
+          "implicit.stat_983749596"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Heatshiver",
+    "stats": "+# to level of socketed duration gems, #% increased maximum life",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "+# to level of socketed duration gems",
+        "trade_ids": [
+          "implicit.stat_2115168758"
+        ]
+      },
       {
         "text": "#% increased maximum life",
         "trade_ids": [
@@ -5700,6 +5738,19 @@
         "text": "malevolence has #% increased aura effect",
         "trade_ids": [
           "implicit.stat_4175197580"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Hrimsorrow",
+    "stats": "+#% to spell critical strike chance",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "+#% to spell critical strike chance",
+        "trade_ids": [
+          "implicit.stat_791835907"
         ]
       }
     ]
@@ -7929,6 +7980,19 @@
         "text": "+#% to critical strike multiplier during any flask effect",
         "trade_ids": [
           "implicit.stat_240289863"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "The Magnate",
+    "stats": "hatred has #% increased aura effect",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "hatred has #% increased aura effect",
+        "trade_ids": [
+          "implicit.stat_3742945352"
         ]
       }
     ]
@@ -10323,6 +10387,24 @@
   {
     "item": "Doedre's Damning",
     "stats": "bleeding cannot be inflicted on you",
+    "average": 37.2,
+    "prices": [
+      20,
+      20,
+      20,
+      25,
+      40,
+      45,
+      47,
+      50,
+      50,
+      55
+    ],
+    "search": {
+      "id": "aqe6VnKue",
+      "complexity": 18,
+      "total": 22
+    },
     "builds": 1,
     "mods": [
       {
@@ -10336,6 +10418,13 @@
   {
     "item": "Windscream",
     "stats": "+# to level of socketed gems, +# to level of socketed minion gems",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "5o5MOmoua",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -10355,6 +10444,21 @@
   {
     "item": "Windscream",
     "stats": "#% increased movement speed",
+    "average": 121.64571428571428,
+    "prices": [
+      90,
+      100,
+      100,
+      100,
+      120,
+      170.76,
+      170.76
+    ],
+    "search": {
+      "id": "pXjndPeT0",
+      "complexity": 18,
+      "total": 7
+    },
     "builds": 1,
     "mods": [
       {
@@ -10368,6 +10472,24 @@
   {
     "item": "Doedre's Tenure",
     "stats": "+#% to spell critical strike chance",
+    "average": 47.5,
+    "prices": [
+      5,
+      20,
+      40,
+      40,
+      40,
+      50,
+      50,
+      70,
+      70,
+      90
+    ],
+    "search": {
+      "id": "kX4WGpKI5",
+      "complexity": 18,
+      "total": 33
+    },
     "builds": 1,
     "mods": [
       {
@@ -10381,6 +10503,13 @@
   {
     "item": "Doedre's Tenure",
     "stats": "+# to maximum frenzy charges, +#% to spell critical strike chance",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "2BMLzGYIk",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -10400,6 +10529,19 @@
   {
     "item": "Utula's Hunger",
     "stats": "#% increased maximum life",
+    "average": 80.25333333333333,
+    "prices": [
+      20,
+      50,
+      170.76,
+      512.28,
+      2561.3999999999996
+    ],
+    "search": {
+      "id": "9YKk2wYFK",
+      "complexity": 18,
+      "total": 5
+    },
     "builds": 1,
     "mods": [
       {
@@ -10413,6 +10555,13 @@
   {
     "item": "Prismweave",
     "stats": "grace has #% increased aura effect, +#% to critical strike multiplier during any flask effect",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "ze5WBkgT4",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -10432,6 +10581,13 @@
   {
     "item": "Replica Kaom's Heart",
     "stats": "#% increased maximum energy shield",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "LmyJk4GFn",
+      "complexity": 18,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -10445,6 +10601,16 @@
   {
     "item": "Lioneye's Vision",
     "stats": "+# to level of socketed aoe gems, +# to level of socketed projectile gems",
+    "average": 7940.34,
+    "prices": [
+      7342.679999999999,
+      8538
+    ],
+    "search": {
+      "id": "bX3yDrDuL",
+      "complexity": 29,
+      "total": 2
+    },
     "builds": 1,
     "mods": [
       {
@@ -10464,6 +10630,13 @@
   {
     "item": "Soulbound",
     "stats": "anger has #% increased aura effect, grace has #% increased aura effect",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "9YbJLD8uK",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -10483,6 +10656,13 @@
   {
     "item": "Sandstorm Visage",
     "stats": "+# to level of socketed minion gems, +# to level of socketed trap or mine gems",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "MVZ3BELsJ",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -10502,6 +10682,24 @@
   {
     "item": "Mind of the Council",
     "stats": "+# to maximum power charges",
+    "average": 40.5,
+    "prices": [
+      20,
+      20,
+      25,
+      30,
+      30,
+      40,
+      50,
+      50,
+      70,
+      70
+    ],
+    "search": {
+      "id": "Ey6gq3VS5",
+      "complexity": 18,
+      "total": 15
+    },
     "builds": 1,
     "mods": [
       {
@@ -10515,6 +10713,21 @@
   {
     "item": "Dawnbreaker",
     "stats": "+#% chance to block",
+    "average": 115.87533333333333,
+    "prices": [
+      10,
+      38.82,
+      100,
+      170.76,
+      170.76,
+      204.91199999999998,
+      853.8
+    ],
+    "search": {
+      "id": "5okJQ8dia",
+      "complexity": 18,
+      "total": 7
+    },
     "builds": 1,
     "mods": [
       {
@@ -10528,6 +10741,19 @@
   {
     "item": "Ylfeban's Trickery",
     "stats": "+# to maximum power charges",
+    "average": 170.76,
+    "prices": [
+      170.76,
+      170.76,
+      170.76,
+      170.76,
+      512.28
+    ],
+    "search": {
+      "id": "bXRmpQGTL",
+      "complexity": 18,
+      "total": 5
+    },
     "builds": 1,
     "mods": [
       {
@@ -10541,6 +10767,13 @@
   {
     "item": "Ylfeban's Trickery",
     "stats": "+# to level of socketed projectile gems, +# to maximum power charges",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "VM3VEXatp",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -11071,6 +11304,19 @@
         "text": "damage penetrates #% elemental resistances",
         "trade_ids": [
           "implicit.stat_2101383955"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Void Battery",
+    "stats": "#% increased critical strike chance",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "#% increased critical strike chance",
+        "trade_ids": [
+          "implicit.stat_2375316951"
         ]
       }
     ]
