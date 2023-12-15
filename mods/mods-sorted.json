@@ -1889,6 +1889,24 @@
   {
     "item": "Eyes of the Greatwolf",
     "stats": "+#% to global critical strike multiplier",
+    "average": 18.4,
+    "prices": [
+      15,
+      15,
+      15,
+      19,
+      20,
+      20,
+      20,
+      20,
+      20,
+      20
+    ],
+    "search": {
+      "id": "RVBvyrGF7",
+      "complexity": 18,
+      "total": 257
+    },
     "builds": 2,
     "mods": [
       {
@@ -2339,6 +2357,24 @@
   {
     "item": "Legacy of Fury",
     "stats": "+# to maximum endurance charges",
+    "average": 32.666666666666664,
+    "prices": [
+      14,
+      25,
+      25,
+      30,
+      30,
+      30,
+      35,
+      39,
+      40,
+      40
+    ],
+    "search": {
+      "id": "0PQZ0g7Ig",
+      "complexity": 18,
+      "total": 38
+    },
     "builds": 2,
     "mods": [
       {
@@ -5355,6 +5391,24 @@
   {
     "item": "Sadima's Touch",
     "stats": "curse enemies with despair on hit",
+    "average": 15.4,
+    "prices": [
+      5,
+      5,
+      9,
+      10,
+      15,
+      20,
+      20,
+      20,
+      25,
+      25
+    ],
+    "search": {
+      "id": "v3mvnDMCE",
+      "complexity": 18,
+      "total": 85
+    },
     "builds": 1,
     "mods": [
       {
@@ -5368,6 +5422,24 @@
   {
     "item": "Sadima's Touch",
     "stats": "#% increased cast speed",
+    "average": 3.888888888888889,
+    "prices": [
+      1,
+      3,
+      3,
+      3,
+      3,
+      3,
+      5,
+      5,
+      5,
+      5
+    ],
+    "search": {
+      "id": "K9gKZ2RC5",
+      "complexity": 18,
+      "total": 48
+    },
     "builds": 1,
     "mods": [
       {
@@ -5381,6 +5453,24 @@
   {
     "item": "Sadima's Touch",
     "stats": "curse enemies with enfeeble on hit",
+    "average": 4.2,
+    "prices": [
+      3,
+      3,
+      3,
+      4,
+      4,
+      5,
+      5,
+      5,
+      5,
+      5
+    ],
+    "search": {
+      "id": "JVdY989Fl",
+      "complexity": 18,
+      "total": 61
+    },
     "builds": 1,
     "mods": [
       {
@@ -5394,6 +5484,24 @@
   {
     "item": "Sadima's Touch",
     "stats": "+# to level of socketed minion gems",
+    "average": 4.7,
+    "prices": [
+      1,
+      2,
+      2,
+      2,
+      3,
+      3,
+      5,
+      9,
+      10,
+      10
+    ],
+    "search": {
+      "id": "YD0JL6vhY",
+      "complexity": 18,
+      "total": 27
+    },
     "builds": 1,
     "mods": [
       {
@@ -5407,6 +5515,24 @@
   {
     "item": "Sadima's Touch",
     "stats": "#% increased attack speed",
+    "average": 3.5,
+    "prices": [
+      1,
+      1,
+      1,
+      2,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5
+    ],
+    "search": {
+      "id": "2Gb6JDdtk",
+      "complexity": 19,
+      "total": 77
+    },
     "builds": 1,
     "mods": [
       {
@@ -5421,6 +5547,24 @@
   {
     "item": "Sadima's Touch",
     "stats": "#% increased maximum energy shield",
+    "average": 3.6,
+    "prices": [
+      1,
+      1,
+      2,
+      2,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5
+    ],
+    "search": {
+      "id": "PdDK4Y7iL",
+      "complexity": 18,
+      "total": 38
+    },
     "builds": 1,
     "mods": [
       {
@@ -5434,6 +5578,24 @@
   {
     "item": "Goldwyrm",
     "stats": "grants level # haste skill",
+    "average": 4.75,
+    "prices": [
+      4,
+      4,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      10,
+      10
+    ],
+    "search": {
+      "id": "3BYY9LJi5",
+      "complexity": 18,
+      "total": 52
+    },
     "builds": 1,
     "mods": [
       {
@@ -5447,6 +5609,24 @@
   {
     "item": "Goldwyrm",
     "stats": "+# to level of socketed gems",
+    "average": 6.7,
+    "prices": [
+      3,
+      5,
+      5,
+      5,
+      5,
+      8,
+      8,
+      9,
+      9,
+      10
+    ],
+    "search": {
+      "id": "DGEnq8vf5",
+      "complexity": 18,
+      "total": 81
+    },
     "builds": 1,
     "mods": [
       {
@@ -5460,6 +5640,16 @@
   {
     "item": "Soul Mantle",
     "stats": "+# to level of socketed gems, +# to level of socketed projectile gems",
+    "average": 11521.32,
+    "prices": [
+      11005.44,
+      12037.2
+    ],
+    "search": {
+      "id": "0PQbWp7Ig",
+      "complexity": 29,
+      "total": 2
+    },
     "builds": 1,
     "mods": [
       {
@@ -5479,6 +5669,13 @@
   {
     "item": "The Annihilating Light",
     "stats": "#% increased cast speed, #% increased critical strike chance",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "DGEDdB2f5",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -5498,6 +5695,15 @@
   {
     "item": "Invictus Solaris",
     "stats": "+# to level of socketed minion gems",
+    "average": 1375.68,
+    "prices": [
+      1375.68
+    ],
+    "search": {
+      "id": "jXR7WqltX",
+      "complexity": 18,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -5511,6 +5717,16 @@
   {
     "item": "March of the Legion",
     "stats": "+# to level of socketed gems, +# to level of socketed aura gems",
+    "average": 12897,
+    "prices": [
+      12897,
+      12897
+    ],
+    "search": {
+      "id": "GZyEJaBhb",
+      "complexity": 29,
+      "total": 2
+    },
     "builds": 1,
     "mods": [
       {
@@ -5530,6 +5746,13 @@
   {
     "item": "March of the Legion",
     "stats": "#% increased maximum energy shield, #% increased maximum life",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "jPpzDkXSX",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
