@@ -6846,6 +6846,47 @@
     ]
   },
   {
+    "item": "Skin of the Loyal",
+    "stats": "+# to level of socketed minion gems",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "+# to level of socketed minion gems",
+        "trade_ids": [
+          "implicit.stat_3604946673"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Skin of the Loyal",
+    "stats": "+# to level of socketed duration gems, #% increased maximum energy shield",
+    "average": 1730.6999999999998,
+    "prices": [
+      1730.6999999999998
+    ],
+    "search": {
+      "id": "DL3Vd74H5",
+      "complexity": 29,
+      "total": 1
+    },
+    "builds": 1,
+    "mods": [
+      {
+        "text": "+# to level of socketed duration gems",
+        "trade_ids": [
+          "implicit.stat_2115168758"
+        ]
+      },
+      {
+        "text": "#% increased maximum energy shield",
+        "trade_ids": [
+          "implicit.stat_2482852589"
+        ]
+      }
+    ]
+  },
+  {
     "item": "March of the Legion",
     "stats": "+# to level of socketed gems, +# to level of socketed aura gems",
     "average": 13055.25,
@@ -7977,6 +8018,15 @@
   {
     "item": "Astral Projector",
     "stats": "#% increased cast speed",
+    "average": 100,
+    "prices": [
+      100
+    ],
+    "search": {
+      "id": "dXb0bwoFJ",
+      "complexity": 18,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -12390,34 +12440,6 @@
     ]
   },
   {
-    "item": "Skin of the Loyal",
-    "stats": "+# to level of socketed duration gems, #% increased maximum energy shield",
-    "average": 1730.6999999999998,
-    "prices": [
-      1730.6999999999998
-    ],
-    "search": {
-      "id": "DL3Vd74H5",
-      "complexity": 29,
-      "total": 1
-    },
-    "builds": 1,
-    "mods": [
-      {
-        "text": "+# to level of socketed duration gems",
-        "trade_ids": [
-          "implicit.stat_2115168758"
-        ]
-      },
-      {
-        "text": "#% increased maximum energy shield",
-        "trade_ids": [
-          "implicit.stat_2482852589"
-        ]
-      }
-    ]
-  },
-  {
     "item": "Cloak of Flame",
     "stats": "+# to level of socketed gems",
     "average": 330.996375,
@@ -13334,6 +13356,13 @@
   {
     "item": "Replica Kaom's Heart",
     "stats": "#% increased maximum energy shield",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "LmyJk4GFn",
+      "complexity": 18,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -13347,6 +13376,15 @@
   {
     "item": "Lioneye's Vision",
     "stats": "+# to level of socketed aoe gems, +# to level of socketed projectile gems",
+    "average": 17357,
+    "prices": [
+      17357
+    ],
+    "search": {
+      "id": "bX3yDrDuL",
+      "complexity": 29,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -13366,6 +13404,22 @@
   {
     "item": "The Vertex",
     "stats": "+# to level of socketed duration gems",
+    "average": 173.57,
+    "prices": [
+      80,
+      130,
+      173.57,
+      173.57,
+      173.57,
+      173.57,
+      173.57,
+      260.355
+    ],
+    "search": {
+      "id": "Eyd2Obyt5",
+      "complexity": 18,
+      "total": 8
+    },
     "builds": 1,
     "mods": [
       {
@@ -13379,6 +13433,24 @@
   {
     "item": "The Vertex",
     "stats": "+# to level of socketed aura gems",
+    "average": 136.68499999999997,
+    "prices": [
+      99,
+      100,
+      100,
+      100,
+      100,
+      173.57,
+      173.57,
+      173.57,
+      173.57,
+      173.57
+    ],
+    "search": {
+      "id": "ZbZOJlEHQ",
+      "complexity": 18,
+      "total": 14
+    },
     "builds": 1,
     "mods": [
       {
@@ -13392,6 +13464,13 @@
   {
     "item": "Sandstorm Visage",
     "stats": "+# to level of socketed minion gems, +# to level of socketed trap or mine gems",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "MVZ3BELsJ",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -13411,6 +13490,24 @@
   {
     "item": "Mind of the Council",
     "stats": "+# to maximum power charges",
+    "average": 48.333333333333336,
+    "prices": [
+      10,
+      15,
+      20,
+      25,
+      50,
+      50,
+      75,
+      90,
+      100,
+      173.57
+    ],
+    "search": {
+      "id": "Ey6gq3VS5",
+      "complexity": 18,
+      "total": 14
+    },
     "builds": 1,
     "mods": [
       {
@@ -13424,6 +13521,24 @@
   {
     "item": "Dawnbreaker",
     "stats": "+#% chance to block",
+    "average": 72.26499999999999,
+    "prices": [
+      10,
+      20,
+      21,
+      35,
+      50,
+      39.51,
+      100,
+      100,
+      173.57,
+      173.57
+    ],
+    "search": {
+      "id": "5okJQ8dia",
+      "complexity": 18,
+      "total": 15
+    },
     "builds": 1,
     "mods": [
       {
@@ -13437,6 +13552,24 @@
   {
     "item": "Dawnbreaker",
     "stats": "grants level # determination skill",
+    "average": 31.5,
+    "prices": [
+      7,
+      10,
+      15,
+      20,
+      50,
+      50,
+      50,
+      50,
+      173.57,
+      173.57
+    ],
+    "search": {
+      "id": "JVrP0kWIl",
+      "complexity": 18,
+      "total": 11
+    },
     "builds": 1,
     "mods": [
       {
@@ -13450,6 +13583,13 @@
   {
     "item": "Ylfeban's Trickery",
     "stats": "+# to level of socketed projectile gems, +# to maximum power charges",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "VM3VEXatp",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -13469,6 +13609,13 @@
   {
     "item": "Doomfletch",
     "stats": "socketed gems are supported by level # momentum, socketed gems are supported by level # faster projectiles",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "2Bam9vjhk",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -13488,6 +13635,24 @@
   {
     "item": "Doomfletch",
     "stats": "#% increased elemental damage with attack skills",
+    "average": 2,
+    "prices": [
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2
+    ],
+    "search": {
+      "id": "Eyd2PQKc5",
+      "complexity": 18,
+      "total": 548
+    },
     "builds": 1,
     "mods": [
       {
@@ -13501,6 +13666,13 @@
   {
     "item": "Replica Covenant",
     "stats": "+# to level of socketed duration gems, #% increased maximum life",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "LmynKyVhn",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -13520,6 +13692,13 @@
   {
     "item": "Willclash",
     "stats": "+# to maximum power charges, #% increased effect of shock",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "5obpM4mua",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -13539,6 +13718,24 @@
   {
     "item": "The Supreme Truth",
     "stats": "adds # to # lightning damage",
+    "average": 93.07099999999998,
+    "prices": [
+      30,
+      40,
+      50,
+      60,
+      60,
+      80,
+      90,
+      173.57,
+      173.57,
+      173.57
+    ],
+    "search": {
+      "id": "EybrLryC5",
+      "complexity": 19,
+      "total": 10
+    },
     "builds": 1,
     "mods": [
       {
