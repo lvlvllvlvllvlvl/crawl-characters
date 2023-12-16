@@ -2620,6 +2620,19 @@
     ]
   },
   {
+    "item": "Fleshcrafter",
+    "stats": "+# to level of socketed duration gems",
+    "builds": 2,
+    "mods": [
+      {
+        "text": "+# to level of socketed duration gems",
+        "trade_ids": [
+          "implicit.stat_2115168758"
+        ]
+      }
+    ]
+  },
+  {
     "item": "Shavronne's Wrappings",
     "stats": "+# to level of socketed aura gems",
     "average": 79,
@@ -6737,6 +6750,25 @@
   },
   {
     "item": "The Torrent's Reclamation",
+    "stats": "#% increased maximum energy shield, #% increased critical strike chance during any flask effect",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "#% increased maximum energy shield",
+        "trade_ids": [
+          "implicit.stat_2482852589"
+        ]
+      },
+      {
+        "text": "#% increased critical strike chance during any flask effect",
+        "trade_ids": [
+          "implicit.stat_2898434123"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "The Torrent's Reclamation",
     "stats": "#% increased strength, #% increased dexterity, #% increased maximum life",
     "average": 345.14,
     "prices": [
@@ -9629,6 +9661,13 @@
   {
     "item": "Bronn's Lithe",
     "stats": "+# to level of socketed aoe gems, you take #% reduced extra damage from critical strikes",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "zeG3n6RF4",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -11805,6 +11844,19 @@
     ]
   },
   {
+    "item": "Fleshcrafter",
+    "stats": "+# to level of socketed minion gems",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "+# to level of socketed minion gems",
+        "trade_ids": [
+          "implicit.stat_3604946673"
+        ]
+      }
+    ]
+  },
+  {
     "item": "Dendrobate",
     "stats": "+# to level of socketed gems, +# to level of socketed duration gems",
     "average": null,
@@ -12807,6 +12859,18 @@
   {
     "item": "Inpulsa's Broken Heart",
     "stats": "#% reduced cold damage taken",
+    "average": 20,
+    "prices": [
+      20,
+      20,
+      20,
+      40
+    ],
+    "search": {
+      "id": "eXDrLwWFL",
+      "complexity": 18,
+      "total": 4
+    },
     "builds": 1,
     "mods": [
       {
@@ -12820,6 +12884,20 @@
   {
     "item": "Inpulsa's Broken Heart",
     "stats": "#% reduced lightning damage taken",
+    "average": 237.26,
+    "prices": [
+      10,
+      10,
+      15,
+      173.57,
+      520.71,
+      694.28
+    ],
+    "search": {
+      "id": "LmXP4Y2hn",
+      "complexity": 18,
+      "total": 6
+    },
     "builds": 1,
     "mods": [
       {
@@ -12833,6 +12911,22 @@
   {
     "item": "Inpulsa's Broken Heart",
     "stats": "you take #% reduced extra damage from critical strikes",
+    "average": 105.8157142857143,
+    "prices": [
+      50,
+      50,
+      50,
+      70,
+      173.57,
+      173.57,
+      173.57,
+      694.28
+    ],
+    "search": {
+      "id": "lX80WppIV",
+      "complexity": 18,
+      "total": 8
+    },
     "builds": 1,
     "mods": [
       {
@@ -12846,6 +12940,13 @@
   {
     "item": "Machina Mitts",
     "stats": "#% increased maximum life, +#% to spell critical strike chance",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "RVYKX9qi7",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -12865,6 +12966,24 @@
   {
     "item": "Machina Mitts",
     "stats": "curse enemies with enfeeble on hit",
+    "average": 39.333333333333336,
+    "prices": [
+      10,
+      20,
+      25,
+      39,
+      40,
+      40,
+      50,
+      60,
+      70,
+      90
+    ],
+    "search": {
+      "id": "WV4WDGvum",
+      "complexity": 18,
+      "total": 12
+    },
     "builds": 1,
     "mods": [
       {
@@ -12878,6 +12997,15 @@
   {
     "item": "The Gull",
     "stats": "socketed skill gems get a #% cost & reservation multiplier",
+    "average": 3471.3999999999996,
+    "prices": [
+      3471.3999999999996
+    ],
+    "search": {
+      "id": "y9EGvmgSR",
+      "complexity": 18,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -12891,6 +13019,18 @@
   {
     "item": "Lioneye's Fall",
     "stats": "corrupted blood cannot be inflicted on you",
+    "average": 1214.99,
+    "prices": [
+      1041.42,
+      1214.99,
+      1214.99,
+      1735.6999999999998
+    ],
+    "search": {
+      "id": "EG8yMgKs5",
+      "complexity": 18,
+      "total": 4
+    },
     "builds": 1,
     "mods": [
       {
@@ -12904,6 +13044,21 @@
   {
     "item": "Aegis Aurora",
     "stats": "+# to level of socketed gems",
+    "average": 530.6282857142857,
+    "prices": [
+      347.14,
+      433.92499999999995,
+      503.35299999999995,
+      520.71,
+      520.71,
+      694.28,
+      694.28
+    ],
+    "search": {
+      "id": "80Z8EzGsV",
+      "complexity": 18,
+      "total": 7
+    },
     "builds": 1,
     "mods": [
       {
@@ -12917,6 +13072,20 @@
   {
     "item": "Aegis Aurora",
     "stats": "#% of physical damage from hits taken as fire damage",
+    "average": 173.57000000000002,
+    "prices": [
+      80,
+      173.57,
+      173.57,
+      173.57,
+      347.14,
+      1301.7749999999999
+    ],
+    "search": {
+      "id": "lXjXX7kcV",
+      "complexity": 18,
+      "total": 6
+    },
     "builds": 1,
     "mods": [
       {
@@ -12930,6 +13099,16 @@
   {
     "item": "Memory Vault",
     "stats": "+# to maximum power charges",
+    "average": 2256.41,
+    "prices": [
+      1041.42,
+      3471.3999999999996
+    ],
+    "search": {
+      "id": "YVdGlWbFY",
+      "complexity": 18,
+      "total": 2
+    },
     "builds": 1,
     "mods": [
       {
@@ -12943,6 +13122,22 @@
   {
     "item": "Memory Vault",
     "stats": "+# to level of socketed projectile gems",
+    "average": 9.333333333333334,
+    "prices": [
+      2,
+      2,
+      2,
+      10,
+      20,
+      20,
+      40,
+      80
+    ],
+    "search": {
+      "id": "VM6vDGdFp",
+      "complexity": 18,
+      "total": 8
+    },
     "builds": 1,
     "mods": [
       {
@@ -12956,6 +13151,13 @@
   {
     "item": "The Poised Prism",
     "stats": "# to # added cold damage with bow attacks, # to # added lightning damage with bow attacks",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "lX80WLVsV",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -12975,6 +13177,15 @@
   {
     "item": "Indigon",
     "stats": "+# to maximum power charges",
+    "average": 5207.099999999999,
+    "prices": [
+      5207.099999999999
+    ],
+    "search": {
+      "id": "jXJ9MZbHX",
+      "complexity": 18,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -12988,6 +13199,13 @@
   {
     "item": "Atziri's Foible",
     "stats": "you can apply an additional curse",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "dX4J9ObcJ",
+      "complexity": 18,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -13170,32 +13388,6 @@
         "text": "zealotry has #% increased aura effect",
         "trade_ids": [
           "implicit.stat_4096052153"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Fleshcrafter",
-    "stats": "+# to level of socketed minion gems",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "+# to level of socketed minion gems",
-        "trade_ids": [
-          "implicit.stat_3604946673"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Fleshcrafter",
-    "stats": "+# to level of socketed duration gems",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "+# to level of socketed duration gems",
-        "trade_ids": [
-          "implicit.stat_2115168758"
         ]
       }
     ]
