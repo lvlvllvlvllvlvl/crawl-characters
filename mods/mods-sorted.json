@@ -1057,6 +1057,37 @@
     ]
   },
   {
+    "item": "March of the Legion",
+    "stats": "+# to level of socketed gems",
+    "average": 5.9,
+    "prices": [
+      3,
+      3,
+      4,
+      4,
+      5,
+      5,
+      5,
+      10,
+      10,
+      10
+    ],
+    "search": {
+      "id": "jPpB8gdHX",
+      "complexity": 18,
+      "total": 63
+    },
+    "builds": 3,
+    "mods": [
+      {
+        "text": "+# to level of socketed gems",
+        "trade_ids": [
+          "implicit.stat_2843100721"
+        ]
+      }
+    ]
+  },
+  {
     "item": "Vaal Caress",
     "stats": "+# to level of socketed aoe gems",
     "average": 813.4961999999999,
@@ -1943,37 +1974,6 @@
         "text": "curse enemies with vulnerability on hit",
         "trade_ids": [
           "implicit.stat_3967845372"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "March of the Legion",
-    "stats": "+# to level of socketed gems",
-    "average": 5.9,
-    "prices": [
-      3,
-      3,
-      4,
-      4,
-      5,
-      5,
-      5,
-      10,
-      10,
-      10
-    ],
-    "search": {
-      "id": "jPpB8gdHX",
-      "complexity": 18,
-      "total": 63
-    },
-    "builds": 2,
-    "mods": [
-      {
-        "text": "+# to level of socketed gems",
-        "trade_ids": [
-          "implicit.stat_2843100721"
         ]
       }
     ]
@@ -5697,6 +5697,24 @@
   {
     "item": "Shaper's Touch",
     "stats": "+# to level of socketed gems",
+    "average": 620.8496666666665,
+    "prices": [
+      522.21,
+      522.21,
+      557.024,
+      609.245,
+      609.245,
+      678.8729999999999,
+      696.28,
+      696.28,
+      696.28,
+      870.3499999999999
+    ],
+    "search": {
+      "id": "LeWPLEVHn",
+      "complexity": 18,
+      "total": 12
+    },
     "builds": 1,
     "mods": [
       {
@@ -5710,6 +5728,24 @@
   {
     "item": "Shaper's Touch",
     "stats": "#% increased maximum energy shield",
+    "average": 12,
+    "prices": [
+      9,
+      10,
+      10,
+      10,
+      10,
+      10,
+      15,
+      15,
+      15,
+      16
+    ],
+    "search": {
+      "id": "VMgl2KlCp",
+      "complexity": 18,
+      "total": 44
+    },
     "builds": 1,
     "mods": [
       {
@@ -5723,6 +5759,24 @@
   {
     "item": "Shaper's Touch",
     "stats": "curse enemies with temporal chains on hit",
+    "average": 15,
+    "prices": [
+      8,
+      10,
+      15,
+      15,
+      15,
+      15,
+      15,
+      15,
+      15,
+      17
+    ],
+    "search": {
+      "id": "gXWRrJjhQ",
+      "complexity": 18,
+      "total": 63
+    },
     "builds": 1,
     "mods": [
       {
@@ -5736,6 +5790,17 @@
   {
     "item": "Greed's Embrace",
     "stats": "+# to level of socketed aoe gems, +# to level of socketed aura gems",
+    "average": 348.14,
+    "prices": [
+      348.14,
+      348.14,
+      1392.56
+    ],
+    "search": {
+      "id": "9YD9l8yIK",
+      "complexity": 29,
+      "total": 3
+    },
     "builds": 1,
     "mods": [
       {
@@ -5755,6 +5820,24 @@
   {
     "item": "Greed's Embrace",
     "stats": "you take #% reduced extra damage from critical strikes",
+    "average": 6.2,
+    "prices": [
+      2,
+      3,
+      4,
+      5,
+      5,
+      5,
+      9,
+      9,
+      10,
+      10
+    ],
+    "search": {
+      "id": "LeWjZQZSn",
+      "complexity": 18,
+      "total": 108
+    },
     "builds": 1,
     "mods": [
       {
@@ -5768,6 +5851,17 @@
   {
     "item": "Greed's Embrace",
     "stats": "+# to level of socketed aoe gems, #% reduced lightning damage taken",
+    "average": 261.105,
+    "prices": [
+      174.07,
+      261.105,
+      348.14
+    ],
+    "search": {
+      "id": "jXJd8wdHX",
+      "complexity": 29,
+      "total": 3
+    },
     "builds": 1,
     "mods": [
       {
@@ -5787,6 +5881,24 @@
   {
     "item": "Greed's Embrace",
     "stats": "#% reduced cold damage taken",
+    "average": 7.444444444444445,
+    "prices": [
+      1,
+      2,
+      5,
+      5,
+      10,
+      10,
+      10,
+      10,
+      14,
+      20
+    ],
+    "search": {
+      "id": "vlG5Ew9fE",
+      "complexity": 18,
+      "total": 50
+    },
     "builds": 1,
     "mods": [
       {
@@ -5800,6 +5912,24 @@
   {
     "item": "Greed's Embrace",
     "stats": "+# to level of socketed projectile gems",
+    "average": 10.2,
+    "prices": [
+      5,
+      7,
+      10,
+      10,
+      10,
+      10,
+      10,
+      10,
+      15,
+      15
+    ],
+    "search": {
+      "id": "6Gqw55qsG",
+      "complexity": 18,
+      "total": 190
+    },
     "builds": 1,
     "mods": [
       {
@@ -5813,6 +5943,24 @@
   {
     "item": "Greed's Embrace",
     "stats": "#% reduced fire damage taken",
+    "average": 5,
+    "prices": [
+      1,
+      4,
+      5,
+      5,
+      5,
+      5,
+      5,
+      7,
+      9,
+      10
+    ],
+    "search": {
+      "id": "VMg46mgfp",
+      "complexity": 18,
+      "total": 49
+    },
     "builds": 1,
     "mods": [
       {
@@ -5826,6 +5974,13 @@
   {
     "item": "Greed's Embrace",
     "stats": "+# to level of socketed minion gems, #% reduced lightning damage taken",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "EymnKQBs5",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -5845,6 +6000,24 @@
   {
     "item": "Greed's Embrace",
     "stats": "+# to level of socketed warcry gems",
+    "average": 11.8,
+    "prices": [
+      5,
+      5,
+      10,
+      10,
+      10,
+      10,
+      15,
+      15,
+      18,
+      20
+    ],
+    "search": {
+      "id": "YVqMX5kUY",
+      "complexity": 18,
+      "total": 57
+    },
     "builds": 1,
     "mods": [
       {
@@ -5858,6 +6031,24 @@
   {
     "item": "Sadima's Touch",
     "stats": "curse enemies with despair on hit",
+    "average": 18.4,
+    "prices": [
+      14,
+      15,
+      15,
+      20,
+      20,
+      20,
+      20,
+      20,
+      20,
+      20
+    ],
+    "search": {
+      "id": "v3mvnDMCE",
+      "complexity": 18,
+      "total": 92
+    },
     "builds": 1,
     "mods": [
       {
@@ -5871,6 +6062,24 @@
   {
     "item": "Sadima's Touch",
     "stats": "+# to level of socketed minion gems",
+    "average": 3.9,
+    "prices": [
+      2,
+      2,
+      3,
+      3,
+      4,
+      5,
+      5,
+      5,
+      5,
+      5
+    ],
+    "search": {
+      "id": "YD0JL6vhY",
+      "complexity": 18,
+      "total": 35
+    },
     "builds": 1,
     "mods": [
       {
@@ -5884,6 +6093,24 @@
   {
     "item": "Goldwyrm",
     "stats": "grants level # haste skill",
+    "average": 4.333333333333333,
+    "prices": [
+      1,
+      2,
+      2,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5
+    ],
+    "search": {
+      "id": "3BYY9LJi5",
+      "complexity": 18,
+      "total": 61
+    },
     "builds": 1,
     "mods": [
       {
@@ -5897,6 +6124,24 @@
   {
     "item": "Goldwyrm",
     "stats": "+# to level of socketed gems",
+    "average": 8.3,
+    "prices": [
+      5,
+      5,
+      5,
+      8,
+      10,
+      10,
+      10,
+      10,
+      10,
+      10
+    ],
+    "search": {
+      "id": "DGEnq8vf5",
+      "complexity": 18,
+      "total": 86
+    },
     "builds": 1,
     "mods": [
       {
@@ -7278,6 +7523,19 @@
         "text": "+# to level of socketed aoe gems",
         "trade_ids": [
           "implicit.stat_2551600084"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Kaom's Spirit",
+    "stats": "+# to level of socketed aura gems",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "+# to level of socketed aura gems",
+        "trade_ids": [
+          "implicit.stat_2452998583"
         ]
       }
     ]
