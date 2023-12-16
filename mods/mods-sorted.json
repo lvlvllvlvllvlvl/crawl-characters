@@ -20,7 +20,7 @@
       "complexity": 18,
       "total": 48
     },
-    "builds": 10,
+    "builds": 11,
     "mods": [
       {
         "text": "+#% to spell critical strike chance",
@@ -4353,6 +4353,19 @@
         "text": "bleeding cannot be inflicted on you",
         "trade_ids": [
           "implicit.stat_1901158930"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Call of the Brotherhood",
+    "stats": "+#% to all elemental resistances",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "+#% to all elemental resistances",
+        "trade_ids": [
+          "implicit.stat_2901986750"
         ]
       }
     ]
@@ -11568,6 +11581,21 @@
   {
     "item": "Saffell's Frame",
     "stats": "#% of physical damage from hits taken as cold damage",
+    "average": 289.8957142857143,
+    "prices": [
+      120,
+      173.57,
+      173.57,
+      347.14,
+      347.14,
+      347.14,
+      520.71
+    ],
+    "search": {
+      "id": "LmdmLM7tn",
+      "complexity": 18,
+      "total": 7
+    },
     "builds": 1,
     "mods": [
       {
@@ -11581,6 +11609,19 @@
   {
     "item": "Legacy of Fury",
     "stats": "#% increased movement speed",
+    "average": 166.856,
+    "prices": [
+      40,
+      100,
+      173.57,
+      173.57,
+      347.14
+    ],
+    "search": {
+      "id": "6Gqvl6XuG",
+      "complexity": 18,
+      "total": 5
+    },
     "builds": 1,
     "mods": [
       {
@@ -11594,6 +11635,15 @@
   {
     "item": "The Brass Dome",
     "stats": "+# to level of socketed trap or mine gems, #% reduced lightning damage taken",
+    "average": 347.14,
+    "prices": [
+      347.14
+    ],
+    "search": {
+      "id": "XqDVoE7UP",
+      "complexity": 29,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -11613,6 +11663,13 @@
   {
     "item": "The Stampede",
     "stats": "regenerate # life per second while moving",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "kX4ygJ5c5",
+      "complexity": 18,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -11626,6 +11683,24 @@
   {
     "item": "Crown of the Inward Eye",
     "stats": "regenerate #% of life per second",
+    "average": 20,
+    "prices": [
+      8,
+      20,
+      20,
+      20,
+      20,
+      20,
+      20,
+      25,
+      30,
+      50
+    ],
+    "search": {
+      "id": "qayp5XWsg",
+      "complexity": 18,
+      "total": 10
+    },
     "builds": 1,
     "mods": [
       {
@@ -11639,6 +11714,24 @@
   {
     "item": "Ephemeral Edge",
     "stats": "#% chance to gain onslaught for # seconds on kill",
+    "average": 19.857142857142858,
+    "prices": [
+      3,
+      5,
+      6,
+      10,
+      20,
+      45,
+      50,
+      100,
+      120,
+      173.57
+    ],
+    "search": {
+      "id": "z27GpRRI4",
+      "complexity": 18,
+      "total": 12
+    },
     "builds": 1,
     "mods": [
       {
@@ -11652,6 +11745,18 @@
   {
     "item": "Ephemeral Edge",
     "stats": "resolute technique",
+    "average": 3471.3999999999996,
+    "prices": [
+      3297.83,
+      3471.3999999999996,
+      3471.3999999999996,
+      7810.65
+    ],
+    "search": {
+      "id": "3BrQ3l9c5",
+      "complexity": 18,
+      "total": 4
+    },
     "builds": 1,
     "mods": [
       {
@@ -11665,6 +11770,13 @@
   {
     "item": "Dendrobate",
     "stats": "+# to level of socketed gems, +# to level of socketed duration gems",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "yrJqJ6qhR",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -11684,6 +11796,15 @@
   {
     "item": "Dendrobate",
     "stats": "+# to level of socketed aoe gems, #% increased damage",
+    "average": 2603.5499999999997,
+    "prices": [
+      2603.5499999999997
+    ],
+    "search": {
+      "id": "vlPVe4zSE",
+      "complexity": 29,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -11703,6 +11824,24 @@
   {
     "item": "Eye of Malice",
     "stats": "regenerate #% of life per second",
+    "average": 22.8,
+    "prices": [
+      5,
+      8,
+      10,
+      15,
+      20,
+      25,
+      30,
+      35,
+      40,
+      40
+    ],
+    "search": {
+      "id": "LmdYYb5Fn",
+      "complexity": 18,
+      "total": 17
+    },
     "builds": 1,
     "mods": [
       {
@@ -11716,6 +11855,24 @@
   {
     "item": "Eye of Malice",
     "stats": "+# to level of socketed aoe gems",
+    "average": 10.1,
+    "prices": [
+      4,
+      4,
+      5,
+      5,
+      6,
+      10,
+      15,
+      15,
+      17,
+      20
+    ],
+    "search": {
+      "id": "YVozYvgIY",
+      "complexity": 18,
+      "total": 30
+    },
     "builds": 1,
     "mods": [
       {
@@ -11729,6 +11886,24 @@
   {
     "item": "Eye of Malice",
     "stats": "+# to maximum power charges",
+    "average": 518.9743000000001,
+    "prices": [
+      208.284,
+      260.355,
+      260.355,
+      329.78299999999996,
+      347.14,
+      347.14,
+      833.136,
+      867.8499999999999,
+      867.8499999999999,
+      867.8499999999999
+    ],
+    "search": {
+      "id": "Lmdj637un",
+      "complexity": 18,
+      "total": 11
+    },
     "builds": 1,
     "mods": [
       {
@@ -11742,6 +11917,17 @@
   {
     "item": "Perquil's Toe",
     "stats": "you can apply an additional curse",
+    "average": 100,
+    "prices": [
+      100,
+      100,
+      100
+    ],
+    "search": {
+      "id": "aboaB4aSe",
+      "complexity": 18,
+      "total": 3
+    },
     "builds": 1,
     "mods": [
       {
@@ -11755,6 +11941,24 @@
   {
     "item": "Doedre's Damning",
     "stats": "bleeding cannot be inflicted on you",
+    "average": 42.375,
+    "prices": [
+      10,
+      20,
+      30,
+      49,
+      50,
+      50,
+      60,
+      70,
+      100,
+      173.57
+    ],
+    "search": {
+      "id": "aqe6VnKue",
+      "complexity": 18,
+      "total": 12
+    },
     "builds": 1,
     "mods": [
       {
@@ -11768,6 +11972,13 @@
   {
     "item": "Windscream",
     "stats": "+# to level of socketed gems, +# to level of socketed minion gems",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "5o5MOmoua",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
