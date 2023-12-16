@@ -582,6 +582,37 @@
     ]
   },
   {
+    "item": "Prism Guardian",
+    "stats": "+# to level of socketed aoe gems",
+    "average": 694.2800000000001,
+    "prices": [
+      520.71,
+      520.71,
+      520.71,
+      520.71,
+      520.71,
+      867.8499999999999,
+      867.8499999999999,
+      867.8499999999999,
+      867.8499999999999,
+      867.8499999999999
+    ],
+    "search": {
+      "id": "XkO48P4IP",
+      "complexity": 18,
+      "total": 10
+    },
+    "builds": 5,
+    "mods": [
+      {
+        "text": "+# to level of socketed aoe gems",
+        "trade_ids": [
+          "implicit.stat_2551600084"
+        ]
+      }
+    ]
+  },
+  {
     "item": "Oskarm",
     "stats": "curse enemies with vulnerability on hit",
     "average": 355.8185,
@@ -830,37 +861,6 @@
     ]
   },
   {
-    "item": "Prism Guardian",
-    "stats": "+# to level of socketed aoe gems",
-    "average": 694.2800000000001,
-    "prices": [
-      520.71,
-      520.71,
-      520.71,
-      520.71,
-      520.71,
-      867.8499999999999,
-      867.8499999999999,
-      867.8499999999999,
-      867.8499999999999,
-      867.8499999999999
-    ],
-    "search": {
-      "id": "XkO48P4IP",
-      "complexity": 18,
-      "total": 10
-    },
-    "builds": 4,
-    "mods": [
-      {
-        "text": "+# to level of socketed aoe gems",
-        "trade_ids": [
-          "implicit.stat_2551600084"
-        ]
-      }
-    ]
-  },
-  {
     "item": "Alpha's Howl",
     "stats": "socketed skill gems get a #% cost & reservation multiplier",
     "average": 347.13999999999993,
@@ -925,6 +925,23 @@
   {
     "item": "Victario's Influence",
     "stats": "+# to level of socketed gems, +# to level of socketed aura gems",
+    "average": 838.9216666666667,
+    "prices": [
+      520.71,
+      520.71,
+      694.28,
+      867.8499999999999,
+      1041.42,
+      1388.56,
+      2256.41,
+      3471.3999999999996,
+      8678.5
+    ],
+    "search": {
+      "id": "emYBeMnsL",
+      "complexity": 29,
+      "total": 9
+    },
     "builds": 3,
     "mods": [
       {
@@ -944,6 +961,24 @@
   {
     "item": "Call of the Brotherhood",
     "stats": "#% increased rarity of items found",
+    "average": 10,
+    "prices": [
+      5,
+      10,
+      10,
+      10,
+      10,
+      10,
+      10,
+      10,
+      15,
+      20
+    ],
+    "search": {
+      "id": "gP0Yd9dsQ",
+      "complexity": 18,
+      "total": 21
+    },
     "builds": 3,
     "mods": [
       {
@@ -957,6 +992,24 @@
   {
     "item": "Sadima's Touch",
     "stats": "curse enemies with elemental weakness on hit",
+    "average": 9.6,
+    "prices": [
+      9,
+      9,
+      9,
+      9,
+      10,
+      10,
+      10,
+      10,
+      10,
+      10
+    ],
+    "search": {
+      "id": "mP2gJyBu6",
+      "complexity": 18,
+      "total": 133
+    },
     "builds": 3,
     "mods": [
       {
@@ -970,6 +1023,24 @@
   {
     "item": "Sadima's Touch",
     "stats": "+#% to spell critical strike chance",
+    "average": 5,
+    "prices": [
+      4,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      7
+    ],
+    "search": {
+      "id": "plL0P4Jt0",
+      "complexity": 18,
+      "total": 195
+    },
     "builds": 3,
     "mods": [
       {
@@ -983,6 +1054,24 @@
   {
     "item": "The Annihilating Light",
     "stats": "#% increased cast speed",
+    "average": 49.8,
+    "prices": [
+      9,
+      9,
+      20,
+      50,
+      50,
+      50,
+      60,
+      80,
+      80,
+      90
+    ],
+    "search": {
+      "id": "EG8PzJYF5",
+      "complexity": 18,
+      "total": 34
+    },
     "builds": 3,
     "mods": [
       {
@@ -996,6 +1085,18 @@
   {
     "item": "Vaal Caress",
     "stats": "+# to level of socketed aoe gems",
+    "average": 781.0649999999999,
+    "prices": [
+      694.28,
+      694.28,
+      867.8499999999999,
+      867.8499999999999
+    ],
+    "search": {
+      "id": "mP2MqKJt6",
+      "complexity": 18,
+      "total": 4
+    },
     "builds": 3,
     "mods": [
       {
@@ -1009,6 +1110,24 @@
   {
     "item": "March of the Legion",
     "stats": "+# to level of socketed aura gems",
+    "average": 8.7,
+    "prices": [
+      5,
+      5,
+      8,
+      9,
+      10,
+      10,
+      10,
+      10,
+      10,
+      10
+    ],
+    "search": {
+      "id": "LeWwpGjFn",
+      "complexity": 18,
+      "total": 95
+    },
     "builds": 3,
     "mods": [
       {
@@ -1022,6 +1141,24 @@
   {
     "item": "March of the Legion",
     "stats": "+# to level of socketed gems",
+    "average": 5,
+    "prices": [
+      3,
+      4,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5
+    ],
+    "search": {
+      "id": "jPpB8gdHX",
+      "complexity": 18,
+      "total": 82
+    },
     "builds": 3,
     "mods": [
       {
@@ -1035,6 +1172,24 @@
   {
     "item": "Kaom's Spirit",
     "stats": "attacks have +#% to critical strike chance",
+    "average": 306.569,
+    "prices": [
+      115,
+      173.57,
+      173.57,
+      173.57,
+      173.57,
+      347.14,
+      347.14,
+      520.71,
+      520.71,
+      520.71
+    ],
+    "search": {
+      "id": "aboQ2v3Se",
+      "complexity": 18,
+      "total": 23
+    },
     "builds": 3,
     "mods": [
       {
@@ -1048,6 +1203,24 @@
   {
     "item": "Alpha's Howl",
     "stats": "+# to level of socketed aoe gems",
+    "average": 282.91909999999996,
+    "prices": [
+      173.57,
+      173.57,
+      260.355,
+      260.355,
+      260.355,
+      312.426,
+      347.14,
+      347.14,
+      347.14,
+      347.14
+    ],
+    "search": {
+      "id": "plL93DwS0",
+      "complexity": 18,
+      "total": 18
+    },
     "builds": 3,
     "mods": [
       {
@@ -1061,6 +1234,15 @@
   {
     "item": "Fractal Thoughts",
     "stats": "socketed skill gems get a #% cost & reservation multiplier",
+    "average": 17357,
+    "prices": [
+      17357
+    ],
+    "search": {
+      "id": "4drd57Mt9",
+      "complexity": 18,
+      "total": 1
+    },
     "builds": 3,
     "mods": [
       {
@@ -1074,6 +1256,16 @@
   {
     "item": "Speaker's Wreath",
     "stats": "+# to level of socketed minion gems",
+    "average": 347.14,
+    "prices": [
+      347.14,
+      347.14
+    ],
+    "search": {
+      "id": "Xq2oDnkTP",
+      "complexity": 18,
+      "total": 2
+    },
     "builds": 3,
     "mods": [
       {
@@ -1087,6 +1279,24 @@
   {
     "item": "Doedre's Tenure",
     "stats": "curse enemies with elemental weakness on hit",
+    "average": 75.3,
+    "prices": [
+      40,
+      50,
+      60,
+      70,
+      80,
+      80,
+      88,
+      90,
+      95,
+      100
+    ],
+    "search": {
+      "id": "MVDz5PGiJ",
+      "complexity": 18,
+      "total": 40
+    },
     "builds": 3,
     "mods": [
       {
@@ -1100,6 +1310,24 @@
   {
     "item": "Black Sun Crest",
     "stats": "socketed skill gems get a #% cost & reservation multiplier",
+    "average": 8.3,
+    "prices": [
+      4,
+      5,
+      6,
+      8,
+      10,
+      10,
+      10,
+      10,
+      10,
+      10
+    ],
+    "search": {
+      "id": "Qr6G3Mpuw",
+      "complexity": 18,
+      "total": 142
+    },
     "builds": 3,
     "mods": [
       {
@@ -1113,6 +1341,13 @@
   {
     "item": "Dialla's Malefaction",
     "stats": "+# to level of socketed gems, +#% to all maximum resistances",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "Ey6M5KKC5",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 2,
     "mods": [
       {
