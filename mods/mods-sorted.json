@@ -1202,6 +1202,32 @@
     ]
   },
   {
+    "item": "Dialla's Malefaction",
+    "stats": "+# to level of socketed gems, +#% to all maximum resistances",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "Ey6M5KKC5",
+      "complexity": 29,
+      "total": 0
+    },
+    "builds": 2,
+    "mods": [
+      {
+        "text": "+# to level of socketed gems",
+        "trade_ids": [
+          "implicit.stat_2843100721"
+        ]
+      },
+      {
+        "text": "+#% to all maximum resistances",
+        "trade_ids": [
+          "implicit.stat_569299859"
+        ]
+      }
+    ]
+  },
+  {
     "item": "Pure Talent",
     "stats": "corrupted blood cannot be inflicted on you",
     "average": 299.355,
@@ -2809,32 +2835,6 @@
         "text": "#% of physical damage from hits taken as fire damage",
         "trade_ids": [
           "implicit.stat_3342989455"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Dialla's Malefaction",
-    "stats": "+# to level of socketed gems, +#% to all maximum resistances",
-    "average": null,
-    "prices": [],
-    "search": {
-      "id": "Ey6M5KKC5",
-      "complexity": 29,
-      "total": 0
-    },
-    "builds": 1,
-    "mods": [
-      {
-        "text": "+# to level of socketed gems",
-        "trade_ids": [
-          "implicit.stat_2843100721"
-        ]
-      },
-      {
-        "text": "+#% to all maximum resistances",
-        "trade_ids": [
-          "implicit.stat_569299859"
         ]
       }
     ]
@@ -4592,6 +4592,24 @@
   {
     "item": "Heatshiver",
     "stats": "#% of lightning damage leeched as life",
+    "average": 8.2,
+    "prices": [
+      5,
+      5,
+      7,
+      7,
+      9,
+      9,
+      10,
+      10,
+      10,
+      10
+    ],
+    "search": {
+      "id": "pXkjkjvT0",
+      "complexity": 19,
+      "total": 29
+    },
     "builds": 1,
     "mods": [
       {
@@ -6372,6 +6390,15 @@
   {
     "item": "The Torrent's Reclamation",
     "stats": "determination has #% increased aura effect, pride has #% increased aura effect",
+    "average": 519.21,
+    "prices": [
+      519.21
+    ],
+    "search": {
+      "id": "5o3Mm3jha",
+      "complexity": 29,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -8433,6 +8460,25 @@
   },
   {
     "item": "The Covenant",
+    "stats": "+# to level of socketed aoe gems, +# to level of socketed minion gems",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "+# to level of socketed aoe gems",
+        "trade_ids": [
+          "implicit.stat_2551600084"
+        ]
+      },
+      {
+        "text": "+# to level of socketed minion gems",
+        "trade_ids": [
+          "implicit.stat_3604946673"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "The Covenant",
     "stats": "#% increased maximum energy shield",
     "average": 126.50999999999999,
     "prices": [
@@ -9160,6 +9206,24 @@
   {
     "item": "Ceinture of Benevolence",
     "stats": "#% increased dexterity, #% increased intelligence",
+    "average": 30.375,
+    "prices": [
+      2,
+      10,
+      10,
+      23,
+      43,
+      50,
+      50,
+      55,
+      173.07,
+      173.07
+    ],
+    "search": {
+      "id": "z27GVXRI4",
+      "complexity": 29,
+      "total": 12
+    },
     "builds": 1,
     "mods": [
       {
@@ -9179,6 +9243,24 @@
   {
     "item": "Ceinture of Benevolence",
     "stats": "anger has #% increased aura effect",
+    "average": 50.299,
+    "prices": [
+      20,
+      27.99,
+      30,
+      35,
+      40,
+      40,
+      55,
+      80,
+      80,
+      95
+    ],
+    "search": {
+      "id": "2Ba6Ypjhk",
+      "complexity": 18,
+      "total": 16
+    },
     "builds": 1,
     "mods": [
       {
@@ -9192,6 +9274,13 @@
   {
     "item": "Ceinture of Benevolence",
     "stats": "#% increased maximum energy shield, #% increased cast speed during any flask effect",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "kXlZRd3U5",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -9211,6 +9300,24 @@
   {
     "item": "Ceinture of Benevolence",
     "stats": "hatred has #% increased aura effect",
+    "average": 21.125,
+    "prices": [
+      10,
+      14,
+      15,
+      20,
+      20,
+      30,
+      30,
+      30,
+      45,
+      173.07
+    ],
+    "search": {
+      "id": "oX7Dn3Osl",
+      "complexity": 18,
+      "total": 14
+    },
     "builds": 1,
     "mods": [
       {
@@ -9224,6 +9331,13 @@
   {
     "item": "Rathpith Globe",
     "stats": "+# to level of socketed aoe gems, +# to level of socketed warcry gems",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "KJXDXEPI5",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -9243,6 +9357,16 @@
   {
     "item": "Lightpoacher",
     "stats": "regenerate #% of life per second",
+    "average": 45,
+    "prices": [
+      20,
+      70
+    ],
+    "search": {
+      "id": "3B6QJKgF5",
+      "complexity": 18,
+      "total": 2
+    },
     "builds": 1,
     "mods": [
       {
@@ -9256,6 +9380,13 @@
   {
     "item": "Belly of the Beast",
     "stats": "+# to level of socketed aoe gems, #% increased damage",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "rXVmnzmfQ",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -9275,6 +9406,13 @@
   {
     "item": "Belly of the Beast",
     "stats": "+# to level of socketed gems, +# to level of socketed warcry gems",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "zel8K6OT4",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -9294,6 +9432,23 @@
   {
     "item": "Belly of the Beast",
     "stats": "+# to level of socketed aoe gems",
+    "average": 302.8725,
+    "prices": [
+      173.07,
+      173.07,
+      173.07,
+      173.07,
+      346.14,
+      346.14,
+      519.21,
+      519.21,
+      1038.42
+    ],
+    "search": {
+      "id": "jPpMq8btX",
+      "complexity": 18,
+      "total": 9
+    },
     "builds": 1,
     "mods": [
       {
@@ -9307,6 +9462,13 @@
   {
     "item": "Le Heup of All",
     "stats": "anger has #% increased aura effect, wrath has #% increased aura effect",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "qXDjO2kSg",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -9326,6 +9488,19 @@
   {
     "item": "Might of the Meek",
     "stats": "#% reduced effect of chill on you",
+    "average": 97.02799999999999,
+    "prices": [
+      25,
+      39,
+      75,
+      173.07,
+      173.07
+    ],
+    "search": {
+      "id": "pXEoybbH0",
+      "complexity": 18,
+      "total": 5
+    },
     "builds": 1,
     "mods": [
       {
@@ -9339,6 +9514,16 @@
   {
     "item": "Might of the Meek",
     "stats": "#% increased effect of non-damaging ailments",
+    "average": 9.5,
+    "prices": [
+      4,
+      15
+    ],
+    "search": {
+      "id": "qXjDDjWfg",
+      "complexity": 18,
+      "total": 2
+    },
     "builds": 1,
     "mods": [
       {
@@ -9352,6 +9537,13 @@
   {
     "item": "Unnatural Instinct",
     "stats": "#% increased global critical strike chance, damage penetrates #% cold resistance",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "WVkzPqRfm",
+      "complexity": 30,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -10097,6 +10289,25 @@
   },
   {
     "item": "Mageblood",
+    "stats": "#% increased movement speed during any flask effect, #% increased cast speed during any flask effect",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "#% increased movement speed during any flask effect",
+        "trade_ids": [
+          "implicit.stat_304970526"
+        ]
+      },
+      {
+        "text": "#% increased cast speed during any flask effect",
+        "trade_ids": [
+          "implicit.stat_252194507"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Mageblood",
     "stats": "#% increased maximum life, #% increased area of effect",
     "builds": 1,
     "mods": [
@@ -10156,6 +10367,25 @@
         "trade_ids": [
           "implicit.stat_3848282610",
           "implicit.stat_1743742391"
+        ]
+      },
+      {
+        "text": "+# to maximum power charges",
+        "trade_ids": [
+          "implicit.stat_227523295"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Devoto's Devotion",
+    "stats": "+# to level of socketed cold gems, +# to maximum power charges",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "+# to level of socketed cold gems",
+        "trade_ids": [
+          "implicit.stat_1645459191"
         ]
       },
       {
