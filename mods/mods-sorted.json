@@ -720,6 +720,37 @@
     ]
   },
   {
+    "item": "Hrimsorrow",
+    "stats": "+#% to spell critical strike chance",
+    "average": 189.30440000000002,
+    "prices": [
+      87,
+      100,
+      100,
+      174.57,
+      174.57,
+      174.57,
+      261.855,
+      261.855,
+      261.855,
+      296.769
+    ],
+    "search": {
+      "id": "mP2PGvrt6",
+      "complexity": 18,
+      "total": 19
+    },
+    "builds": 4,
+    "mods": [
+      {
+        "text": "+#% to spell critical strike chance",
+        "trade_ids": [
+          "implicit.stat_791835907"
+        ]
+      }
+    ]
+  },
+  {
     "item": "Bisco's Leash",
     "stats": "#% increased rarity of items found",
     "average": 391.8126666666667,
@@ -1047,37 +1078,6 @@
         "text": "+# to level of socketed aoe gems",
         "trade_ids": [
           "implicit.stat_2551600084"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Hrimsorrow",
-    "stats": "+#% to spell critical strike chance",
-    "average": 189.30440000000002,
-    "prices": [
-      87,
-      100,
-      100,
-      174.57,
-      174.57,
-      174.57,
-      261.855,
-      261.855,
-      261.855,
-      296.769
-    ],
-    "search": {
-      "id": "mP2PGvrt6",
-      "complexity": 18,
-      "total": 19
-    },
-    "builds": 3,
-    "mods": [
-      {
-        "text": "+#% to spell critical strike chance",
-        "trade_ids": [
-          "implicit.stat_791835907"
         ]
       }
     ]
@@ -3489,6 +3489,19 @@
   {
     "item": "Victario's Influence",
     "stats": "+# to level of socketed duration gems, +# to level of socketed curse gems",
+    "average": 60.814,
+    "prices": [
+      10,
+      10,
+      10,
+      100,
+      174.07
+    ],
+    "search": {
+      "id": "3BZyPOdi5",
+      "complexity": 29,
+      "total": 5
+    },
     "builds": 1,
     "mods": [
       {
@@ -3508,6 +3521,22 @@
   {
     "item": "Victario's Influence",
     "stats": "+# to level of socketed trap or mine gems, #% increased damage",
+    "average": 218.83085714285713,
+    "prices": [
+      174.07,
+      174.07,
+      174.07,
+      174.07,
+      174.07,
+      313.326,
+      348.14,
+      1044.42
+    ],
+    "search": {
+      "id": "qX3mKmLtg",
+      "complexity": 29,
+      "total": 8
+    },
     "builds": 1,
     "mods": [
       {
@@ -3527,6 +3556,22 @@
   {
     "item": "Victario's Influence",
     "stats": "+# to level of socketed gems, +# to level of socketed trap or mine gems",
+    "average": 696.28,
+    "prices": [
+      174.07,
+      174.07,
+      348.14,
+      348.14,
+      522.21,
+      522.21,
+      1740.6999999999998,
+      1740.6999999999998
+    ],
+    "search": {
+      "id": "4dlWXJZt9",
+      "complexity": 29,
+      "total": 8
+    },
     "builds": 1,
     "mods": [
       {
@@ -3546,6 +3591,19 @@
   {
     "item": "Victario's Influence",
     "stats": "+# to level of socketed gems, +# to level of socketed aoe gems",
+    "average": 1079.234,
+    "prices": [
+      522.21,
+      870.3499999999999,
+      1044.42,
+      1218.49,
+      1740.6999999999998
+    ],
+    "search": {
+      "id": "emYDwLYsL",
+      "complexity": 29,
+      "total": 5
+    },
     "builds": 1,
     "mods": [
       {
@@ -3565,6 +3623,16 @@
   {
     "item": "Victario's Influence",
     "stats": "+# to level of socketed projectile gems, +# to level of socketed aura gems",
+    "average": 1653.665,
+    "prices": [
+      1566.6299999999999,
+      1740.6999999999998
+    ],
+    "search": {
+      "id": "bXWwyXdfL",
+      "complexity": 29,
+      "total": 2
+    },
     "builds": 1,
     "mods": [
       {
@@ -3584,6 +3652,19 @@
   {
     "item": "Victario's Influence",
     "stats": "+# to level of socketed trap or mine gems, #% increased maximum life",
+    "average": 32.25,
+    "prices": [
+      10,
+      19,
+      50,
+      50,
+      1044.42
+    ],
+    "search": {
+      "id": "OVaB4MgHE",
+      "complexity": 29,
+      "total": 5
+    },
     "builds": 1,
     "mods": [
       {
@@ -3603,6 +3684,15 @@
   {
     "item": "Victario's Influence",
     "stats": "+# to level of socketed gems, #% additional physical damage reduction while stationary",
+    "average": 5,
+    "prices": [
+      5
+    ],
+    "search": {
+      "id": "jXZZ5YRuX",
+      "complexity": 29,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -3622,6 +3712,20 @@
   {
     "item": "Victario's Influence",
     "stats": "+# to level of socketed aura gems, +# to level of socketed curse gems",
+    "average": 174.07,
+    "prices": [
+      174.07,
+      174.07,
+      174.07,
+      174.07,
+      348.14,
+      870.3499999999999
+    ],
+    "search": {
+      "id": "lXkaJKjiV",
+      "complexity": 29,
+      "total": 6
+    },
     "builds": 1,
     "mods": [
       {
@@ -3641,6 +3745,16 @@
   {
     "item": "Victario's Influence",
     "stats": "+# to level of socketed aoe gems, +# to level of socketed projectile gems",
+    "average": 2132.3575,
+    "prices": [
+      1653.665,
+      2611.0499999999997
+    ],
+    "search": {
+      "id": "jXjEjJlHX",
+      "complexity": 29,
+      "total": 2
+    },
     "builds": 1,
     "mods": [
       {
@@ -3660,6 +3774,24 @@
   {
     "item": "Victario's Influence",
     "stats": "+# to level of socketed duration gems, +# to level of socketed aura gems",
+    "average": 120.92777777777776,
+    "prices": [
+      33,
+      35,
+      50,
+      100,
+      174.07,
+      174.07,
+      174.07,
+      174.07,
+      174.07,
+      696.28
+    ],
+    "search": {
+      "id": "DGvmrmvI5",
+      "complexity": 29,
+      "total": 11
+    },
     "builds": 1,
     "mods": [
       {
@@ -3679,6 +3811,15 @@
   {
     "item": "Victario's Influence",
     "stats": "+# to level of socketed aura gems, +# to level of socketed trap or mine gems",
+    "average": 1740.6999999999998,
+    "prices": [
+      1740.6999999999998
+    ],
+    "search": {
+      "id": "WVWPWyrCm",
+      "complexity": 29,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -3698,6 +3839,19 @@
   {
     "item": "Victario's Influence",
     "stats": "+# to level of socketed minion gems, +# to level of socketed aura gems",
+    "average": 134.535,
+    "prices": [
+      90,
+      100,
+      174.07,
+      174.07,
+      348.14
+    ],
+    "search": {
+      "id": "y9E0KkrhR",
+      "complexity": 29,
+      "total": 5
+    },
     "builds": 1,
     "mods": [
       {
@@ -3717,6 +3871,24 @@
   {
     "item": "Southbound",
     "stats": "#% increased maximum energy shield",
+    "average": 10,
+    "prices": [
+      3,
+      3,
+      5,
+      5,
+      9,
+      10,
+      10,
+      15,
+      20,
+      20
+    ],
+    "search": {
+      "id": "XqD7VoBhP",
+      "complexity": 18,
+      "total": 22
+    },
     "builds": 1,
     "mods": [
       {
@@ -3730,6 +3902,13 @@
   {
     "item": "Southbound",
     "stats": "curse enemies with enfeeble on hit, +#% to spell critical strike chance",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "PdyQjGDiL",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -3749,6 +3928,24 @@
   {
     "item": "Southbound",
     "stats": "+# to level of socketed aoe gems",
+    "average": 5,
+    "prices": [
+      3,
+      3,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5
+    ],
+    "search": {
+      "id": "rY5Xe0McQ",
+      "complexity": 18,
+      "total": 35
+    },
     "builds": 1,
     "mods": [
       {
@@ -5896,6 +6093,19 @@
         "text": "bleeding cannot be inflicted on you",
         "trade_ids": [
           "implicit.stat_1901158930"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Astral Projector",
+    "stats": "hatred has #% increased aura effect",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "hatred has #% increased aura effect",
+        "trade_ids": [
+          "implicit.stat_3742945352"
         ]
       }
     ]
