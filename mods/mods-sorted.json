@@ -2966,6 +2966,20 @@
     ]
   },
   {
+    "item": "Primordial Harmony",
+    "stats": "#% increased reservation efficiency of skills",
+    "builds": 2,
+    "mods": [
+      {
+        "text": "#% increased reservation efficiency of skills",
+        "trade_ids": [
+          "implicit.stat_2587176568",
+          "implicit.stat_4202507508"
+        ]
+      }
+    ]
+  },
+  {
     "item": "Malachai's Loop",
     "stats": "+# to level of socketed gems",
     "average": 232.5012,
@@ -11145,6 +11159,26 @@
     ]
   },
   {
+    "item": "Thread of Hope",
+    "stats": "#% increased reservation efficiency of skills, damage penetrates #% elemental resistances",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "#% increased reservation efficiency of skills",
+        "trade_ids": [
+          "implicit.stat_2587176568",
+          "implicit.stat_4202507508"
+        ]
+      },
+      {
+        "text": "damage penetrates #% elemental resistances",
+        "trade_ids": [
+          "implicit.stat_2101383955"
+        ]
+      }
+    ]
+  },
+  {
     "item": "Intuitive Leap",
     "stats": "you cannot be hindered",
     "average": 129.228,
@@ -13750,6 +13784,19 @@
   {
     "item": "The Supreme Truth",
     "stats": "adds # to # fire damage",
+    "average": 87.02799999999999,
+    "prices": [
+      25,
+      30,
+      33,
+      173.57,
+      173.57
+    ],
+    "search": {
+      "id": "EyRdbkYT5",
+      "complexity": 19,
+      "total": 5
+    },
     "builds": 1,
     "mods": [
       {
@@ -13764,6 +13811,22 @@
   {
     "item": "The Supreme Truth",
     "stats": "#% increased cast speed",
+    "average": 69.0175,
+    "prices": [
+      15,
+      20,
+      20,
+      50,
+      50,
+      50,
+      173.57,
+      173.57
+    ],
+    "search": {
+      "id": "OVyp2G8TE",
+      "complexity": 18,
+      "total": 8
+    },
     "builds": 1,
     "mods": [
       {
@@ -13777,6 +13840,24 @@
   {
     "item": "Chains of Command",
     "stats": "+#% to all maximum resistances",
+    "average": 116.58666666666664,
+    "prices": [
+      50,
+      50,
+      50,
+      65,
+      140,
+      173.57,
+      173.57,
+      173.57,
+      173.57,
+      4339.25
+    ],
+    "search": {
+      "id": "nXqyZm2C0",
+      "complexity": 18,
+      "total": 10
+    },
     "builds": 1,
     "mods": [
       {
@@ -13790,6 +13871,16 @@
   {
     "item": "Leash of Oblation",
     "stats": "discipline has #% increased aura effect",
+    "average": 173.57,
+    "prices": [
+      173.57,
+      173.57
+    ],
+    "search": {
+      "id": "kXJQ05WI5",
+      "complexity": 18,
+      "total": 2
+    },
     "builds": 1,
     "mods": [
       {
@@ -13803,6 +13894,13 @@
   {
     "item": "Triad Grip",
     "stats": "+# to level of socketed aura gems, #% increased maximum energy shield",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "waq7K2jcb",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -13822,6 +13920,24 @@
   {
     "item": "Yoke of Suffering",
     "stats": "hatred has #% increased aura effect",
+    "average": 24.7,
+    "prices": [
+      20,
+      20,
+      22,
+      23,
+      25,
+      25,
+      25,
+      28,
+      29,
+      30
+    ],
+    "search": {
+      "id": "yrJvMDrsR",
+      "complexity": 18,
+      "total": 67
+    },
     "builds": 1,
     "mods": [
       {
@@ -13835,6 +13951,24 @@
   {
     "item": "Yoke of Suffering",
     "stats": "you can apply an additional curse",
+    "average": 173.56999999999996,
+    "prices": [
+      160,
+      173.57,
+      173.57,
+      173.57,
+      173.57,
+      173.57,
+      173.57,
+      173.57,
+      173.57,
+      173.57
+    ],
+    "search": {
+      "id": "W5Xeb8mcm",
+      "complexity": 18,
+      "total": 28
+    },
     "builds": 1,
     "mods": [
       {
@@ -13848,6 +13982,24 @@
   {
     "item": "Ventor's Gamble",
     "stats": "#% increased rarity of items found",
+    "average": 1,
+    "prices": [
+      2.2,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      4.4
+    ],
+    "search": {
+      "id": "v3mJV8DFE",
+      "complexity": 18,
+      "total": 10000
+    },
     "builds": 1,
     "mods": [
       {
@@ -13861,6 +14013,24 @@
   {
     "item": "Ventor's Gamble",
     "stats": "bleeding cannot be inflicted on you",
+    "average": 69.71399999999998,
+    "prices": [
+      5,
+      10,
+      10,
+      10,
+      45,
+      50,
+      100,
+      120,
+      173.57,
+      173.57
+    ],
+    "search": {
+      "id": "YVg902DIY",
+      "complexity": 18,
+      "total": 12
+    },
     "builds": 1,
     "mods": [
       {
@@ -13874,6 +14044,16 @@
   {
     "item": "The Red Dream",
     "stats": "#% reduced effect of curses on you",
+    "average": 42.5,
+    "prices": [
+      25,
+      60
+    ],
+    "search": {
+      "id": "MV5koWLsJ",
+      "complexity": 18,
+      "total": 2
+    },
     "builds": 1,
     "mods": [
       {
@@ -13887,6 +14067,24 @@
   {
     "item": "Voidwalker",
     "stats": "+# to maximum endurance charges",
+    "average": 13.7,
+    "prices": [
+      8,
+      9,
+      10,
+      10,
+      12,
+      15,
+      15,
+      18,
+      20,
+      20
+    ],
+    "search": {
+      "id": "rXmqqpmfQ",
+      "complexity": 18,
+      "total": 24
+    },
     "builds": 1,
     "mods": [
       {
@@ -13900,6 +14098,20 @@
   {
     "item": "Inpulsa's Broken Heart",
     "stats": "#% additional physical damage reduction while stationary",
+    "average": 49.75,
+    "prices": [
+      30,
+      39,
+      50,
+      80,
+      173.57,
+      1214.99
+    ],
+    "search": {
+      "id": "zeqGP0aI4",
+      "complexity": 18,
+      "total": 6
+    },
     "builds": 1,
     "mods": [
       {
@@ -13913,6 +14125,13 @@
   {
     "item": "Inpulsa's Broken Heart",
     "stats": "+# to level of socketed minion gems, #% increased damage",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "BEzevqjT8",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -13932,6 +14151,23 @@
   {
     "item": "Inpulsa's Broken Heart",
     "stats": "#% reduced cold damage taken",
+    "average": 20,
+    "prices": [
+      20,
+      20,
+      20,
+      20,
+      25,
+      30,
+      40,
+      225.641,
+      728.994
+    ],
+    "search": {
+      "id": "eXDrLwWFL",
+      "complexity": 18,
+      "total": 9
+    },
     "builds": 1,
     "mods": [
       {
@@ -13945,6 +14181,21 @@
   {
     "item": "Inpulsa's Broken Heart",
     "stats": "#% reduced lightning damage taken",
+    "average": 192.73666666666668,
+    "prices": [
+      10,
+      15,
+      40,
+      50,
+      520.71,
+      520.71,
+      1214.99
+    ],
+    "search": {
+      "id": "LmXP4Y2hn",
+      "complexity": 18,
+      "total": 7
+    },
     "builds": 1,
     "mods": [
       {
@@ -14642,6 +14893,39 @@
         "text": "#% chance to gain a frenzy charge on kill",
         "trade_ids": [
           "implicit.stat_1826802197"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Primordial Harmony",
+    "stats": "#% reduced ignite duration on you, #% increased reservation efficiency of skills",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "#% reduced ignite duration on you",
+        "trade_ids": [
+          "implicit.stat_986397080"
+        ]
+      },
+      {
+        "text": "#% increased reservation efficiency of skills",
+        "trade_ids": [
+          "implicit.stat_2587176568",
+          "implicit.stat_4202507508"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "The Anima Stone",
+    "stats": "corrupted blood cannot be inflicted on you",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "corrupted blood cannot be inflicted on you",
+        "trade_ids": [
+          "implicit.stat_1658498488"
         ]
       }
     ]
