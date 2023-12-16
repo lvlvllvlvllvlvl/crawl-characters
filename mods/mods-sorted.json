@@ -6765,6 +6765,13 @@
   {
     "item": "The Torrent's Reclamation",
     "stats": "#% increased maximum energy shield, #% increased critical strike chance during any flask effect",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "eXWvZrnFL",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -10395,6 +10402,42 @@
     ]
   },
   {
+    "item": "Intuitive Leap",
+    "stats": "you cannot be hindered",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "you cannot be hindered",
+        "trade_ids": [
+          "implicit.stat_721014846"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Intuitive Leap",
+    "stats": "#% increased reservation efficiency of skills",
+    "average": 1218.49,
+    "prices": [
+      1218.49
+    ],
+    "search": {
+      "id": "dPajBpOIJ",
+      "complexity": 19,
+      "total": 1
+    },
+    "builds": 1,
+    "mods": [
+      {
+        "text": "#% increased reservation efficiency of skills",
+        "trade_ids": [
+          "implicit.stat_2587176568",
+          "implicit.stat_4202507508"
+        ]
+      }
+    ]
+  },
+  {
     "item": "Dissolution of the Flesh",
     "stats": "damage penetrates #% elemental resistances",
     "average": null,
@@ -13477,29 +13520,6 @@
     ]
   },
   {
-    "item": "Intuitive Leap",
-    "stats": "#% increased reservation efficiency of skills",
-    "average": 1218.49,
-    "prices": [
-      1218.49
-    ],
-    "search": {
-      "id": "dPajBpOIJ",
-      "complexity": 19,
-      "total": 1
-    },
-    "builds": 1,
-    "mods": [
-      {
-        "text": "#% increased reservation efficiency of skills",
-        "trade_ids": [
-          "implicit.stat_2587176568",
-          "implicit.stat_4202507508"
-        ]
-      }
-    ]
-  },
-  {
     "item": "Tanu Ahi",
     "stats": "attacks have +#% to critical strike chance",
     "average": 586.6159,
@@ -13602,6 +13622,24 @@
   {
     "item": "Replica Dragonfang's Flight",
     "stats": "you can apply an additional curse",
+    "average": 122.03500000000001,
+    "prices": [
+      40,
+      70,
+      100,
+      174.07,
+      174.07,
+      174.07,
+      348.14,
+      870.3499999999999,
+      1740.6999999999998,
+      12184.9
+    ],
+    "search": {
+      "id": "no9rlYyH0",
+      "complexity": 18,
+      "total": 10
+    },
     "builds": 1,
     "mods": [
       {
@@ -13615,6 +13653,13 @@
   {
     "item": "Karui Ward",
     "stats": "#% increased movement speed, you can apply an additional curse",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "JV4yb55Il",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -13634,6 +13679,13 @@
   {
     "item": "Fairgraves' Tricorne",
     "stats": "#% increased area of effect",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "VMKQLR8fp",
+      "complexity": 18,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -13647,6 +13699,13 @@
   {
     "item": "Seven-League Step",
     "stats": "+# to level of socketed aura gems, #% increased maximum life",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "YVEoYy6UY",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -13666,6 +13725,13 @@
   {
     "item": "Honourhome",
     "stats": "socketed skill gems get a #% cost & reservation multiplier, +# to maximum power charges",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "3Bb5QJ5i5",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -13685,6 +13751,24 @@
   {
     "item": "Snakebite",
     "stats": "curse enemies with temporal chains on hit",
+    "average": 88,
+    "prices": [
+      60,
+      60,
+      70,
+      70,
+      80,
+      90,
+      100,
+      100,
+      120,
+      130
+    ],
+    "search": {
+      "id": "PK7gj0ZCL",
+      "complexity": 18,
+      "total": 25
+    },
     "builds": 1,
     "mods": [
       {
@@ -13698,6 +13782,24 @@
   {
     "item": "Darkscorn",
     "stats": "+#% to global critical strike multiplier",
+    "average": 4.6,
+    "prices": [
+      1,
+      1,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      7,
+      7
+    ],
+    "search": {
+      "id": "mXjqZ8wt6",
+      "complexity": 18,
+      "total": 246
+    },
     "builds": 1,
     "mods": [
       {
@@ -13711,6 +13813,24 @@
   {
     "item": "Carcass Jack",
     "stats": "+# to level of socketed trap or mine gems",
+    "average": 26.333333333333332,
+    "prices": [
+      7,
+      23,
+      25,
+      25,
+      25,
+      30,
+      30,
+      42,
+      174.07,
+      348.14
+    ],
+    "search": {
+      "id": "XqbmDMWTP",
+      "complexity": 18,
+      "total": 10
+    },
     "builds": 1,
     "mods": [
       {
@@ -13724,6 +13844,15 @@
   {
     "item": "Winterweave",
     "stats": "hatred has #% increased aura effect",
+    "average": 174.07,
+    "prices": [
+      174.07
+    ],
+    "search": {
+      "id": "Ey6zz5zc5",
+      "complexity": 18,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -13737,6 +13866,13 @@
   {
     "item": "Hyrri's Ire",
     "stats": "+# to level of socketed minion gems",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "qXlZDzvTg",
+      "complexity": 18,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -13750,6 +13886,13 @@
   {
     "item": "Hyrri's Ire",
     "stats": "+# to level of socketed gems, +# to level of socketed projectile gems",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "OVnvVyOTE",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -13769,6 +13912,13 @@
   {
     "item": "Queen of the Forest",
     "stats": "+# to level of socketed trap or mine gems, #% increased maximum life",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "8abybkqhV",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -13788,6 +13938,13 @@
   {
     "item": "Queen of the Forest",
     "stats": "+# to level of socketed gems, +# to level of socketed projectile gems",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "BEOXnMaH8",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -13807,6 +13964,13 @@
   {
     "item": "Queen of the Forest",
     "stats": "+# to level of socketed aoe gems, #% increased damage",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "OVwymo0tE",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
