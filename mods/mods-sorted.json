@@ -415,6 +415,37 @@
     ]
   },
   {
+    "item": "Kaom's Heart",
+    "stats": "#% increased damage",
+    "average": 267.09209999999996,
+    "prices": [
+      174.57,
+      174.57,
+      174.57,
+      174.57,
+      261.855,
+      314.226,
+      349.14,
+      349.14,
+      349.14,
+      349.14
+    ],
+    "search": {
+      "id": "PK7ayEgtL",
+      "complexity": 18,
+      "total": 18
+    },
+    "builds": 6,
+    "mods": [
+      {
+        "text": "#% increased damage",
+        "trade_ids": [
+          "implicit.stat_2154246560"
+        ]
+      }
+    ]
+  },
+  {
     "item": "Victario's Influence",
     "stats": "+# to level of socketed aura gems",
     "average": 6.1,
@@ -472,37 +503,6 @@
         "text": "+# to level of socketed aoe gems",
         "trade_ids": [
           "implicit.stat_2551600084"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Kaom's Heart",
-    "stats": "#% increased damage",
-    "average": 267.09209999999996,
-    "prices": [
-      174.57,
-      174.57,
-      174.57,
-      174.57,
-      261.855,
-      314.226,
-      349.14,
-      349.14,
-      349.14,
-      349.14
-    ],
-    "search": {
-      "id": "PK7ayEgtL",
-      "complexity": 18,
-      "total": 18
-    },
-    "builds": 5,
-    "mods": [
-      {
-        "text": "#% increased damage",
-        "trade_ids": [
-          "implicit.stat_2154246560"
         ]
       }
     ]
@@ -4388,6 +4388,24 @@
   {
     "item": "Sin Trek",
     "stats": "+# to level of socketed gems",
+    "average": 10.666666666666666,
+    "prices": [
+      7,
+      8,
+      10,
+      10,
+      10,
+      10,
+      11,
+      15,
+      15,
+      20
+    ],
+    "search": {
+      "id": "mXjDWmwt6",
+      "complexity": 18,
+      "total": 30
+    },
     "builds": 1,
     "mods": [
       {
@@ -4401,6 +4419,13 @@
   {
     "item": "Call of the Brotherhood",
     "stats": "adds # to # lightning damage to spells and attacks, hatred has #% increased aura effect",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "mPakm7at6",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -4420,6 +4445,13 @@
   {
     "item": "Call of the Brotherhood",
     "stats": "adds # to # lightning damage to spells and attacks, bleeding cannot be inflicted on you",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "v3We26XhE",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -4439,6 +4471,24 @@
   {
     "item": "Call of the Brotherhood",
     "stats": "+#% to all elemental resistances",
+    "average": 12.333333333333334,
+    "prices": [
+      5,
+      5,
+      10,
+      10,
+      15,
+      15,
+      15,
+      16,
+      20,
+      40
+    ],
+    "search": {
+      "id": "LeV9n8jHn",
+      "complexity": 18,
+      "total": 15
+    },
     "builds": 1,
     "mods": [
       {
@@ -4452,6 +4502,13 @@
   {
     "item": "Call of the Brotherhood",
     "stats": "anger has #% increased aura effect, determination has #% increased aura effect",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "oZvaGQOFl",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -4471,6 +4528,24 @@
   {
     "item": "Call of the Brotherhood",
     "stats": "zealotry has #% increased aura effect",
+    "average": 46.5,
+    "prices": [
+      10,
+      25,
+      30,
+      30,
+      30,
+      40,
+      50,
+      50,
+      100,
+      100
+    ],
+    "search": {
+      "id": "wpVlMn9ib",
+      "complexity": 18,
+      "total": 14
+    },
     "builds": 1,
     "mods": [
       {
@@ -4484,6 +4559,24 @@
   {
     "item": "Call of the Brotherhood",
     "stats": "#% increased strength, #% increased intelligence",
+    "average": 13.125,
+    "prices": [
+      5,
+      5,
+      10,
+      15,
+      15,
+      15,
+      20,
+      20,
+      40,
+      60
+    ],
+    "search": {
+      "id": "XkOE08kIP",
+      "complexity": 29,
+      "total": 18
+    },
     "builds": 1,
     "mods": [
       {
@@ -4503,6 +4596,13 @@
   {
     "item": "Call of the Brotherhood",
     "stats": "grants level # hatred skill, #% increased strength, #% increased intelligence",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "DLp8K6vu5",
+      "complexity": 20,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -4528,6 +4628,24 @@
   {
     "item": "Call of the Brotherhood",
     "stats": "wrath has #% increased aura effect",
+    "average": 10.8,
+    "prices": [
+      5,
+      5,
+      9,
+      10,
+      10,
+      10,
+      14,
+      15,
+      15,
+      15
+    ],
+    "search": {
+      "id": "OVwYd2VtE",
+      "complexity": 18,
+      "total": 23
+    },
     "builds": 1,
     "mods": [
       {
@@ -4541,6 +4659,24 @@
   {
     "item": "Call of the Brotherhood",
     "stats": "hatred has #% increased aura effect",
+    "average": 44.5,
+    "prices": [
+      20,
+      20,
+      20,
+      20,
+      50,
+      50,
+      60,
+      60,
+      70,
+      75
+    ],
+    "search": {
+      "id": "JYDZWMbUl",
+      "complexity": 18,
+      "total": 26
+    },
     "builds": 1,
     "mods": [
       {
@@ -4554,6 +4690,13 @@
   {
     "item": "Heatshiver",
     "stats": "+# to level of socketed duration gems, +# to level of socketed aoe gems",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "MvRLBlGcJ",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -4573,6 +4716,13 @@
   {
     "item": "Heatshiver",
     "stats": "+# to level of socketed projectile gems, #% increased maximum life",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "gXDZdRgUQ",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -4592,6 +4742,24 @@
   {
     "item": "Heatshiver",
     "stats": "#% increased effect of cold ailments",
+    "average": 18.88888888888889,
+    "prices": [
+      12,
+      15,
+      15,
+      20,
+      20,
+      20,
+      20,
+      20,
+      20,
+      20
+    ],
+    "search": {
+      "id": "4drzQXgt9",
+      "complexity": 18,
+      "total": 52
+    },
     "builds": 1,
     "mods": [
       {
@@ -4605,6 +4773,24 @@
   {
     "item": "Heatshiver",
     "stats": "#% increased maximum life",
+    "average": 21.25,
+    "prices": [
+      14,
+      19,
+      20,
+      20,
+      20,
+      20,
+      21,
+      25,
+      25,
+      30
+    ],
+    "search": {
+      "id": "PK7qy2ZCL",
+      "complexity": 18,
+      "total": 38
+    },
     "builds": 1,
     "mods": [
       {
@@ -4618,6 +4804,13 @@
   {
     "item": "Heatshiver",
     "stats": "+# to level of socketed duration gems, #% increased maximum life",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "kXjobJQh5",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
