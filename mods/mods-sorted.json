@@ -485,6 +485,37 @@
     ]
   },
   {
+    "item": "Shadows and Dust",
+    "stats": "attacks have +#% to critical strike chance",
+    "average": 555.6923999999999,
+    "prices": [
+      240.11399999999998,
+      343.02,
+      428.775,
+      514.53,
+      514.53,
+      565.983,
+      686.04,
+      686.04,
+      771.795,
+      806.097
+    ],
+    "search": {
+      "id": "2BrO0y5sk",
+      "complexity": 18,
+      "total": 30
+    },
+    "builds": 5,
+    "mods": [
+      {
+        "text": "attacks have +#% to critical strike chance",
+        "trade_ids": [
+          "implicit.stat_2572042788"
+        ]
+      }
+    ]
+  },
+  {
     "item": "Oskarm",
     "stats": "curse enemies with vulnerability on hit",
     "average": 538.8389999999999,
@@ -729,37 +760,6 @@
         "text": "#% increased rarity of items found",
         "trade_ids": [
           "implicit.stat_3917489142"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Shadows and Dust",
-    "stats": "attacks have +#% to critical strike chance",
-    "average": 555.6923999999999,
-    "prices": [
-      240.11399999999998,
-      343.02,
-      428.775,
-      514.53,
-      514.53,
-      565.983,
-      686.04,
-      686.04,
-      771.795,
-      806.097
-    ],
-    "search": {
-      "id": "2BrO0y5sk",
-      "complexity": 18,
-      "total": 30
-    },
-    "builds": 4,
-    "mods": [
-      {
-        "text": "attacks have +#% to critical strike chance",
-        "trade_ids": [
-          "implicit.stat_2572042788"
         ]
       }
     ]
@@ -2528,6 +2528,19 @@
   {
     "item": "Ylfeban's Trickery",
     "stats": "+# to maximum power charges",
+    "average": 330.62600000000003,
+    "prices": [
+      100,
+      172.57,
+      172.57,
+      517.71,
+      690.28
+    ],
+    "search": {
+      "id": "bXRmpQGTL",
+      "complexity": 18,
+      "total": 5
+    },
     "builds": 2,
     "mods": [
       {
@@ -3794,6 +3807,19 @@
     ]
   },
   {
+    "item": "Southbound",
+    "stats": "attacks have +#% to critical strike chance",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "attacks have +#% to critical strike chance",
+        "trade_ids": [
+          "implicit.stat_2572042788"
+        ]
+      }
+    ]
+  },
+  {
     "item": "Demon Stitcher",
     "stats": "+# to level of socketed aura gems",
     "average": 13.7,
@@ -5031,6 +5057,13 @@
   {
     "item": "Natural Affinity",
     "stats": "minions deal #% increased damage",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "nXy7VgJH0",
+      "complexity": 18,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -7369,6 +7402,15 @@
   {
     "item": "Bisco's Collar",
     "stats": "#% increased quantity of items found",
+    "average": 862.8499999999999,
+    "prices": [
+      862.8499999999999
+    ],
+    "search": {
+      "id": "bXWa3OLTL",
+      "complexity": 18,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -7382,6 +7424,15 @@
   {
     "item": "Glimpse of Chaos",
     "stats": "#% increased quantity of items found",
+    "average": 2588.5499999999997,
+    "prices": [
+      2588.5499999999997
+    ],
+    "search": {
+      "id": "dXpy2R5IJ",
+      "complexity": 18,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -7453,6 +7504,24 @@
   {
     "item": "Shadows and Dust",
     "stats": "+# to level of socketed minion gems",
+    "average": 7.1,
+    "prices": [
+      2,
+      3,
+      3,
+      5,
+      8,
+      10,
+      10,
+      10,
+      10,
+      10
+    ],
+    "search": {
+      "id": "KJGpJKyU5",
+      "complexity": 18,
+      "total": 23
+    },
     "builds": 1,
     "mods": [
       {
@@ -7466,6 +7535,24 @@
   {
     "item": "Shadows and Dust",
     "stats": "+#% to spell critical strike chance",
+    "average": 5,
+    "prices": [
+      1,
+      3,
+      4,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5
+    ],
+    "search": {
+      "id": "ZbErrd0uQ",
+      "complexity": 18,
+      "total": 65
+    },
     "builds": 1,
     "mods": [
       {
@@ -7479,6 +7566,24 @@
   {
     "item": "Lori's Lantern",
     "stats": "discipline has #% increased aura effect",
+    "average": 8.7,
+    "prices": [
+      1,
+      3,
+      5,
+      6,
+      10,
+      10,
+      10,
+      12,
+      15,
+      15
+    ],
+    "search": {
+      "id": "QVYkJBMTw",
+      "complexity": 18,
+      "total": 26
+    },
     "builds": 1,
     "mods": [
       {
@@ -7492,6 +7597,13 @@
   {
     "item": "Lori's Lantern",
     "stats": "anger has #% increased aura effect, bleeding cannot be inflicted on you",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "oXeP6nKhl",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -7511,6 +7623,24 @@
   {
     "item": "Tabula Rasa",
     "stats": "+# to level of socketed aoe gems",
+    "average": 40,
+    "prices": [
+      39,
+      40,
+      40,
+      40,
+      40,
+      40,
+      40,
+      45,
+      50,
+      60
+    ],
+    "search": {
+      "id": "oXjLOwkUl",
+      "complexity": 18,
+      "total": 16
+    },
     "builds": 1,
     "mods": [
       {
@@ -7524,6 +7654,24 @@
   {
     "item": "Tabula Rasa",
     "stats": "+# to level of socketed gems",
+    "average": 122.5711111111111,
+    "prices": [
+      99,
+      99,
+      100,
+      100,
+      110,
+      120,
+      130,
+      172.57,
+      172.57,
+      1035.42
+    ],
+    "search": {
+      "id": "KJBXejMh5",
+      "complexity": 18,
+      "total": 10
+    },
     "builds": 1,
     "mods": [
       {
@@ -7537,6 +7685,24 @@
   {
     "item": "Tabula Rasa",
     "stats": "#% increased damage",
+    "average": 251.8583,
+    "prices": [
+      150,
+      150,
+      165,
+      258.855,
+      258.855,
+      258.855,
+      258.855,
+      327.883,
+      345.14,
+      345.14
+    ],
+    "search": {
+      "id": "lXj2OynFV",
+      "complexity": 18,
+      "total": 15
+    },
     "builds": 1,
     "mods": [
       {
@@ -7550,6 +7716,24 @@
   {
     "item": "Tabula Rasa",
     "stats": "+# to level of socketed duration gems",
+    "average": 39,
+    "prices": [
+      25,
+      34,
+      34,
+      35,
+      37,
+      40,
+      40,
+      45,
+      50,
+      50
+    ],
+    "search": {
+      "id": "VMgXY92sp",
+      "complexity": 18,
+      "total": 20
+    },
     "builds": 1,
     "mods": [
       {
@@ -7563,6 +7747,24 @@
   {
     "item": "Perseverance",
     "stats": "determination has #% increased aura effect",
+    "average": 21.11111111111111,
+    "prices": [
+      10,
+      15,
+      15,
+      20,
+      20,
+      20,
+      30,
+      30,
+      30,
+      40
+    ],
+    "search": {
+      "id": "8ae6mr8iV",
+      "complexity": 18,
+      "total": 30
+    },
     "builds": 1,
     "mods": [
       {
@@ -7576,6 +7778,13 @@
   {
     "item": "Perseverance",
     "stats": "+#% to critical strike multiplier during any flask effect, pride has #% increased aura effect",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "jXZK0QZTX",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -7595,6 +7804,20 @@
   {
     "item": "Kaom's Spirit",
     "stats": "+# to level of socketed aoe gems",
+    "average": 496.13875,
+    "prices": [
+      345.14,
+      431.42499999999995,
+      517.71,
+      690.28,
+      1035.42,
+      3451.3999999999996
+    ],
+    "search": {
+      "id": "lPrYyEQUV",
+      "complexity": 18,
+      "total": 6
+    },
     "builds": 1,
     "mods": [
       {
@@ -7608,6 +7831,24 @@
   {
     "item": "Haemophilia",
     "stats": "curse enemies with vulnerability on hit",
+    "average": 707.5369999999998,
+    "prices": [
+      655.766,
+      690.28,
+      690.28,
+      690.28,
+      690.28,
+      690.28,
+      776.5649999999999,
+      776.5649999999999,
+      828.3359999999999,
+      862.8499999999999
+    ],
+    "search": {
+      "id": "W5XVezVsm",
+      "complexity": 18,
+      "total": 19
+    },
     "builds": 1,
     "mods": [
       {
@@ -7961,6 +8202,25 @@
         "text": "curse enemies with vulnerability on hit",
         "trade_ids": [
           "implicit.stat_3967845372"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Oskarm",
+    "stats": "curse enemies with vulnerability on hit, attacks have +#% to critical strike chance",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "curse enemies with vulnerability on hit",
+        "trade_ids": [
+          "implicit.stat_3967845372"
+        ]
+      },
+      {
+        "text": "attacks have +#% to critical strike chance",
+        "trade_ids": [
+          "implicit.stat_2572042788"
         ]
       }
     ]
