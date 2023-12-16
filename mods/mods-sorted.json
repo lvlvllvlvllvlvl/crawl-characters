@@ -1979,6 +1979,37 @@
     ]
   },
   {
+    "item": "Asenath's Gentle Touch",
+    "stats": "curse enemies with despair on hit",
+    "average": 1852.1047999999998,
+    "prices": [
+      1305.5249999999999,
+      1392.56,
+      1392.56,
+      1566.6299999999999,
+      1740.6999999999998,
+      1740.6999999999998,
+      2088.84,
+      2419.573,
+      2436.98,
+      2436.98
+    ],
+    "search": {
+      "id": "XkOGbebuP",
+      "complexity": 18,
+      "total": 13
+    },
+    "builds": 2,
+    "mods": [
+      {
+        "text": "curse enemies with despair on hit",
+        "trade_ids": [
+          "implicit.stat_2764915899"
+        ]
+      }
+    ]
+  },
+  {
     "item": "March of the Legion",
     "stats": "+# to level of socketed duration gems",
     "average": 5,
@@ -6683,37 +6714,6 @@
   },
   {
     "item": "Asenath's Gentle Touch",
-    "stats": "curse enemies with despair on hit",
-    "average": 1852.1047999999998,
-    "prices": [
-      1305.5249999999999,
-      1392.56,
-      1392.56,
-      1566.6299999999999,
-      1740.6999999999998,
-      1740.6999999999998,
-      2088.84,
-      2419.573,
-      2436.98,
-      2436.98
-    ],
-    "search": {
-      "id": "XkOGbebuP",
-      "complexity": 18,
-      "total": 13
-    },
-    "builds": 1,
-    "mods": [
-      {
-        "text": "curse enemies with despair on hit",
-        "trade_ids": [
-          "implicit.stat_2764915899"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Asenath's Gentle Touch",
     "stats": "+# to level of socketed minion gems, attacks have +#% to critical strike chance",
     "average": 60,
     "prices": [
@@ -10379,6 +10379,13 @@
   {
     "item": "Unnatural Instinct",
     "stats": "#% increased damage, #% increased area of effect",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "KJDLoqRi5",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -10398,6 +10405,13 @@
   {
     "item": "Unnatural Instinct",
     "stats": "#% reduced effect of chill on you, #% increased area of effect",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "y9OdoVjcR",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -10417,6 +10431,13 @@
   {
     "item": "Unnatural Instinct",
     "stats": "damage penetrates #% lightning resistance, #% reduced effect of shock on you",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "dXJVXvvUJ",
+      "complexity": 30,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -10437,6 +10458,13 @@
   {
     "item": "Unnatural Instinct",
     "stats": "#% increased global critical strike chance, #% reduced bleed duration on you",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "gX4ea72cQ",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -10456,6 +10484,13 @@
   {
     "item": "Unnatural Instinct",
     "stats": "damage penetrates #% elemental resistances, corrupted blood cannot be inflicted on you",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "rXj9DVMHQ",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -10475,6 +10510,13 @@
   {
     "item": "Leper's Alms",
     "stats": "#% of physical damage from hits taken as lightning damage, #% reduced damage taken from projectile hits",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "VMpJL9whp",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -10494,6 +10536,24 @@
   {
     "item": "Vixen's Entrapment",
     "stats": "+# to level of socketed aoe gems",
+    "average": 18.3,
+    "prices": [
+      9,
+      9,
+      10,
+      20,
+      20,
+      20,
+      20,
+      25,
+      25,
+      25
+    ],
+    "search": {
+      "id": "JVdkbvbhl",
+      "complexity": 18,
+      "total": 19
+    },
     "builds": 1,
     "mods": [
       {
@@ -10507,6 +10567,24 @@
   {
     "item": "Vixen's Entrapment",
     "stats": "#% increased cast speed",
+    "average": 31.7,
+    "prices": [
+      7,
+      20,
+      20,
+      25,
+      25,
+      30,
+      40,
+      50,
+      50,
+      50
+    ],
+    "search": {
+      "id": "PK7l22JCL",
+      "complexity": 18,
+      "total": 14
+    },
     "builds": 1,
     "mods": [
       {
@@ -10520,6 +10598,24 @@
   {
     "item": "Vixen's Entrapment",
     "stats": "+# to level of socketed gems",
+    "average": 16.5,
+    "prices": [
+      1,
+      10,
+      10,
+      12,
+      20,
+      20,
+      20,
+      20,
+      20,
+      29
+    ],
+    "search": {
+      "id": "bPZgddLTL",
+      "complexity": 18,
+      "total": 19
+    },
     "builds": 1,
     "mods": [
       {
@@ -10533,6 +10629,13 @@
   {
     "item": "Perandus Blazon",
     "stats": "#% increased rarity of items found, #% increased cast speed during any flask effect",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "mXD7YjMt6",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -10552,6 +10655,18 @@
   {
     "item": "Perandus Blazon",
     "stats": "#% increased quantity of items found",
+    "average": 9475.5825,
+    "prices": [
+      2596.0499999999997,
+      4326.75,
+      13845.599999999999,
+      17133.93
+    ],
+    "search": {
+      "id": "9Y6QWVztK",
+      "complexity": 18,
+      "total": 4
+    },
     "builds": 1,
     "mods": [
       {
@@ -10565,6 +10680,13 @@
   {
     "item": "Perandus Blazon",
     "stats": "#% increased rarity of items found, #% increased critical strike chance during any flask effect",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "7l3DmMgS5",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -10584,6 +10706,15 @@
   {
     "item": "Perandus Blazon",
     "stats": "#% increased maximum energy shield, #% increased movement speed during any flask effect",
+    "average": 125,
+    "prices": [
+      125
+    ],
+    "search": {
+      "id": "KJXbbKMU5",
+      "complexity": 29,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -10603,6 +10734,13 @@
   {
     "item": "Perandus Blazon",
     "stats": "#% increased rarity of items found, zealotry has #% increased aura effect",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "LmonEMVhn",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -10622,6 +10760,24 @@
   {
     "item": "Sentari's Answer",
     "stats": "#% increased maximum life",
+    "average": 11.1,
+    "prices": [
+      3,
+      4,
+      5,
+      5,
+      9,
+      10,
+      10,
+      15,
+      25,
+      25
+    ],
+    "search": {
+      "id": "mXYGO9aC6",
+      "complexity": 18,
+      "total": 21
+    },
     "builds": 1,
     "mods": [
       {
