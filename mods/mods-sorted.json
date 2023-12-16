@@ -231,6 +231,37 @@
     ]
   },
   {
+    "item": "Shadows and Dust",
+    "stats": "+# to maximum frenzy charges",
+    "average": 1592.95125,
+    "prices": [
+      1221.99,
+      1396.56,
+      1396.56,
+      1571.1299999999999,
+      1571.1299999999999,
+      1571.1299999999999,
+      1745.6999999999998,
+      1745.6999999999998,
+      1745.6999999999998,
+      2618.5499999999997
+    ],
+    "search": {
+      "id": "eXWQDQ4IL",
+      "complexity": 18,
+      "total": 12
+    },
+    "builds": 7,
+    "mods": [
+      {
+        "text": "+# to maximum frenzy charges",
+        "trade_ids": [
+          "implicit.stat_4078695"
+        ]
+      }
+    ]
+  },
+  {
     "item": "Eber's Unification",
     "stats": "+# to maximum power charges",
     "average": 296.76899999999995,
@@ -379,37 +410,6 @@
         "text": "+# to level of socketed projectile gems",
         "trade_ids": [
           "implicit.stat_2176571093"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Shadows and Dust",
-    "stats": "+# to maximum frenzy charges",
-    "average": 1592.95125,
-    "prices": [
-      1221.99,
-      1396.56,
-      1396.56,
-      1571.1299999999999,
-      1571.1299999999999,
-      1571.1299999999999,
-      1745.6999999999998,
-      1745.6999999999998,
-      1745.6999999999998,
-      2618.5499999999997
-    ],
-    "search": {
-      "id": "eXWQDQ4IL",
-      "complexity": 18,
-      "total": 12
-    },
-    "builds": 6,
-    "mods": [
-      {
-        "text": "+# to maximum frenzy charges",
-        "trade_ids": [
-          "implicit.stat_4078695"
         ]
       }
     ]
@@ -3088,6 +3088,13 @@
   {
     "item": "Dialla's Malefaction",
     "stats": "+# to level of socketed duration gems, +# to level of socketed warcry gems",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "BEQJ2oku8",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -3107,6 +3114,16 @@
   {
     "item": "Dialla's Malefaction",
     "stats": "+# to level of socketed gems, +# to level of socketed aura gems",
+    "average": 8703.5,
+    "prices": [
+      6962.799999999999,
+      10444.199999999999
+    ],
+    "search": {
+      "id": "3Brgqp5i5",
+      "complexity": 29,
+      "total": 2
+    },
     "builds": 1,
     "mods": [
       {
@@ -3126,6 +3143,13 @@
   {
     "item": "Dialla's Malefaction",
     "stats": "+# to level of socketed projectile gems, #% increased maximum life",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "Zb2nDbEtQ",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -3145,6 +3169,24 @@
   {
     "item": "Ixchel's Temptation",
     "stats": "#% increased rarity of items found",
+    "average": 20,
+    "prices": [
+      10,
+      19,
+      20,
+      20,
+      20,
+      20,
+      20,
+      20,
+      20,
+      20
+    ],
+    "search": {
+      "id": "y9qnw9OiR",
+      "complexity": 18,
+      "total": 174
+    },
     "builds": 1,
     "mods": [
       {
@@ -3158,6 +3200,13 @@
   {
     "item": "Ralakesh's Impatience",
     "stats": "#% increased movement speed",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "mP2QMJLu6",
+      "complexity": 18,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -3171,6 +3220,17 @@
   {
     "item": "Ralakesh's Impatience",
     "stats": "+# to maximum endurance charges",
+    "average": 8355.36,
+    "prices": [
+      5918.38,
+      8703.5,
+      10444.199999999999
+    ],
+    "search": {
+      "id": "wpRQMGQUb",
+      "complexity": 18,
+      "total": 3
+    },
     "builds": 1,
     "mods": [
       {
@@ -3184,6 +3244,16 @@
   {
     "item": "Badge of the Brotherhood",
     "stats": "+#% to all elemental resistances",
+    "average": 348.14,
+    "prices": [
+      348.14,
+      348.14
+    ],
+    "search": {
+      "id": "4dla0gMH9",
+      "complexity": 18,
+      "total": 2
+    },
     "builds": 1,
     "mods": [
       {
@@ -3197,6 +3267,15 @@
   {
     "item": "Badge of the Brotherhood",
     "stats": "#% of cold damage leeched as life",
+    "average": 2611.0499999999997,
+    "prices": [
+      2611.0499999999997
+    ],
+    "search": {
+      "id": "9Yv62Y4iK",
+      "complexity": 19,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -3211,6 +3290,18 @@
   {
     "item": "Badge of the Brotherhood",
     "stats": "#% increased rarity of items found",
+    "average": 174.07,
+    "prices": [
+      174.07,
+      174.07,
+      174.07,
+      174.07
+    ],
+    "search": {
+      "id": "WVrDZMRfm",
+      "complexity": 18,
+      "total": 4
+    },
     "builds": 1,
     "mods": [
       {
@@ -3224,6 +3315,24 @@
   {
     "item": "Null and Void",
     "stats": "curse enemies with vulnerability on hit",
+    "average": 17.7,
+    "prices": [
+      4,
+      5,
+      8,
+      10,
+      10,
+      10,
+      30,
+      30,
+      35,
+      35
+    ],
+    "search": {
+      "id": "BEDbEmKu8",
+      "complexity": 18,
+      "total": 23
+    },
     "builds": 1,
     "mods": [
       {
@@ -3237,6 +3346,24 @@
   {
     "item": "Null and Void",
     "stats": "+# to maximum frenzy charges",
+    "average": 10.1,
+    "prices": [
+      5,
+      5,
+      5,
+      5,
+      6,
+      10,
+      10,
+      15,
+      20,
+      20
+    ],
+    "search": {
+      "id": "PdaZZ9GhL",
+      "complexity": 18,
+      "total": 29
+    },
     "builds": 1,
     "mods": [
       {
@@ -3250,6 +3377,13 @@
   {
     "item": "The Fourth Vow",
     "stats": "+# to level of socketed minion gems, #% additional physical damage reduction while stationary",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "9Yv3JpKcK",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -3269,6 +3403,22 @@
   {
     "item": "The Fourth Vow",
     "stats": "+# to level of socketed gems",
+    "average": 3075.236666666666,
+    "prices": [
+      2611.0499999999997,
+      2959.19,
+      2959.19,
+      3133.2599999999998,
+      3307.33,
+      3481.3999999999996,
+      4177.68,
+      6962.799999999999
+    ],
+    "search": {
+      "id": "VyBKDqPSp",
+      "complexity": 18,
+      "total": 8
+    },
     "builds": 1,
     "mods": [
       {
@@ -3282,6 +3432,13 @@
   {
     "item": "The Fourth Vow",
     "stats": "+# to level of socketed gems, #% increased damage",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "0BZLdGwUg",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -3301,6 +3458,24 @@
   {
     "item": "The Fourth Vow",
     "stats": "+# to level of socketed projectile gems",
+    "average": 99.12099999999998,
+    "prices": [
+      40,
+      40,
+      60,
+      60,
+      60,
+      89,
+      120,
+      174.07,
+      174.07,
+      174.07
+    ],
+    "search": {
+      "id": "Zb5kpJEHQ",
+      "complexity": 18,
+      "total": 19
+    },
     "builds": 1,
     "mods": [
       {
