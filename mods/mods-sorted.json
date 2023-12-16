@@ -3949,6 +3949,25 @@
   },
   {
     "item": "Victario's Influence",
+    "stats": "+# to level of socketed aoe gems, +# to level of socketed minion gems",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "+# to level of socketed aoe gems",
+        "trade_ids": [
+          "implicit.stat_2551600084"
+        ]
+      },
+      {
+        "text": "+# to level of socketed minion gems",
+        "trade_ids": [
+          "implicit.stat_3604946673"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Victario's Influence",
     "stats": "+# to level of socketed aura gems, +# to level of socketed trap or mine gems",
     "average": 1740.6999999999998,
     "prices": [
@@ -9960,6 +9979,24 @@
   {
     "item": "Ceinture of Benevolence",
     "stats": "anger has #% increased aura effect",
+    "average": 27.052999999999997,
+    "prices": [
+      5,
+      12,
+      15,
+      20,
+      20,
+      28.53,
+      40,
+      40,
+      40,
+      50
+    ],
+    "search": {
+      "id": "2Ba6Ypjhk",
+      "complexity": 18,
+      "total": 24
+    },
     "builds": 1,
     "mods": [
       {
@@ -9973,6 +10010,15 @@
   {
     "item": "Ceinture of Benevolence",
     "stats": "#% increased maximum energy shield, #% increased cast speed during any flask effect",
+    "average": 346.14,
+    "prices": [
+      346.14
+    ],
+    "search": {
+      "id": "kXlZRd3U5",
+      "complexity": 29,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -9992,6 +10038,24 @@
   {
     "item": "Ceinture of Benevolence",
     "stats": "hatred has #% increased aura effect",
+    "average": 14.857142857142858,
+    "prices": [
+      10,
+      10,
+      14,
+      15,
+      15,
+      20,
+      20,
+      30,
+      45,
+      50
+    ],
+    "search": {
+      "id": "oX7Dn3Osl",
+      "complexity": 18,
+      "total": 24
+    },
     "builds": 1,
     "mods": [
       {
@@ -10005,6 +10069,13 @@
   {
     "item": "Rathpith Globe",
     "stats": "+# to level of socketed aoe gems, +# to level of socketed warcry gems",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "KJXDXEPI5",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -10024,6 +10095,13 @@
   {
     "item": "Lightpoacher",
     "stats": "regenerate #% of life per second",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "3B6QJKgF5",
+      "complexity": 18,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -10037,6 +10115,13 @@
   {
     "item": "Belly of the Beast",
     "stats": "+# to level of socketed aoe gems, #% increased damage",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "rXVmnzmfQ",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -10056,6 +10141,13 @@
   {
     "item": "Belly of the Beast",
     "stats": "+# to level of socketed gems, +# to level of socketed warcry gems",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "zel8K6OT4",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -10075,6 +10167,13 @@
   {
     "item": "Le Heup of All",
     "stats": "anger has #% increased aura effect, wrath has #% increased aura effect",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "qXDjO2kSg",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -10094,6 +10193,13 @@
   {
     "item": "Bronn's Lithe",
     "stats": "+# to level of socketed aoe gems, you take #% reduced extra damage from critical strikes",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "zeG3n6RF4",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -10113,6 +10219,19 @@
   {
     "item": "Might of the Meek",
     "stats": "#% reduced effect of chill on you",
+    "average": 46.8,
+    "prices": [
+      25,
+      25,
+      50,
+      64,
+      70
+    ],
+    "search": {
+      "id": "pXEoybbH0",
+      "complexity": 18,
+      "total": 5
+    },
     "builds": 1,
     "mods": [
       {
@@ -10126,6 +10245,17 @@
   {
     "item": "Might of the Meek",
     "stats": "#% increased effect of non-damaging ailments",
+    "average": 38.333333333333336,
+    "prices": [
+      15,
+      25,
+      75
+    ],
+    "search": {
+      "id": "qXjDDjWfg",
+      "complexity": 18,
+      "total": 3
+    },
     "builds": 1,
     "mods": [
       {
@@ -10139,6 +10269,13 @@
   {
     "item": "Unnatural Instinct",
     "stats": "#% increased global critical strike chance, damage penetrates #% cold resistance",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "WVkzPqRfm",
+      "complexity": 30,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -10159,6 +10296,13 @@
   {
     "item": "Unnatural Instinct",
     "stats": "damage penetrates #% cold resistance, damage penetrates #% lightning resistance",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "GkOz8ooub",
+      "complexity": 31,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -10180,6 +10324,15 @@
   {
     "item": "Unnatural Instinct",
     "stats": "#% increased reservation efficiency of skills, corrupted blood cannot be inflicted on you",
+    "average": 13845.599999999999,
+    "prices": [
+      13845.599999999999
+    ],
+    "search": {
+      "id": "80Z8EB2cV",
+      "complexity": 30,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -10200,6 +10353,13 @@
   {
     "item": "Unnatural Instinct",
     "stats": "#% reduced bleed duration on you, you cannot be hindered",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "6ZY69bbhG",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -11874,6 +12034,19 @@
         "text": "+# to level of socketed duration gems",
         "trade_ids": [
           "implicit.stat_2115168758"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "The Vertex",
+    "stats": "+# to level of socketed aura gems",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "+# to level of socketed aura gems",
+        "trade_ids": [
+          "implicit.stat_2452998583"
         ]
       }
     ]
