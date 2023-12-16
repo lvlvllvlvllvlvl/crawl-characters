@@ -2622,6 +2622,20 @@
   {
     "item": "Fleshcrafter",
     "stats": "+# to level of socketed duration gems",
+    "average": 2088.84,
+    "prices": [
+      1218.49,
+      1218.49,
+      2436.98,
+      2611.0499999999997,
+      2959.19,
+      48482.54
+    ],
+    "search": {
+      "id": "GZypBposb",
+      "complexity": 18,
+      "total": 6
+    },
     "builds": 2,
     "mods": [
       {
@@ -9378,6 +9392,19 @@
   },
   {
     "item": "Ceinture of Benevolence",
+    "stats": "grace has #% increased aura effect",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "grace has #% increased aura effect",
+        "trade_ids": [
+          "implicit.stat_397427740"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Ceinture of Benevolence",
     "stats": "#% increased dexterity, #% increased intelligence",
     "average": 30.375,
     "prices": [
@@ -10934,6 +10961,59 @@
     ]
   },
   {
+    "item": "Soulbound",
+    "stats": "#% increased strength, #% increased intelligence, wrath has #% increased aura effect",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "#% increased strength",
+        "trade_ids": [
+          "implicit.stat_4139681126"
+        ]
+      },
+      {
+        "text": "#% increased intelligence",
+        "trade_ids": [
+          "implicit.stat_656461285"
+        ]
+      },
+      {
+        "text": "wrath has #% increased aura effect",
+        "trade_ids": [
+          "implicit.stat_2181791238"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Soulbound",
+    "stats": "anger has #% increased aura effect, grace has #% increased aura effect",
+    "average": 694.28,
+    "prices": [
+      694.28
+    ],
+    "search": {
+      "id": "9YbJLD8uK",
+      "complexity": 29,
+      "total": 1
+    },
+    "builds": 1,
+    "mods": [
+      {
+        "text": "anger has #% increased aura effect",
+        "trade_ids": [
+          "implicit.stat_1592278124"
+        ]
+      },
+      {
+        "text": "grace has #% increased aura effect",
+        "trade_ids": [
+          "implicit.stat_397427740"
+        ]
+      }
+    ]
+  },
+  {
     "item": "The Untouched Soul",
     "stats": "#% increased rarity of items found",
     "average": 4.2,
@@ -11846,6 +11926,15 @@
   {
     "item": "Fleshcrafter",
     "stats": "+# to level of socketed minion gems",
+    "average": 48482.54,
+    "prices": [
+      48482.54
+    ],
+    "search": {
+      "id": "4qnzvpvT9",
+      "complexity": 18,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -12259,34 +12348,6 @@
         "text": "+# to level of socketed projectile gems",
         "trade_ids": [
           "implicit.stat_2176571093"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Soulbound",
-    "stats": "anger has #% increased aura effect, grace has #% increased aura effect",
-    "average": 694.28,
-    "prices": [
-      694.28
-    ],
-    "search": {
-      "id": "9YbJLD8uK",
-      "complexity": 29,
-      "total": 1
-    },
-    "builds": 1,
-    "mods": [
-      {
-        "text": "anger has #% increased aura effect",
-        "trade_ids": [
-          "implicit.stat_1592278124"
-        ]
-      },
-      {
-        "text": "grace has #% increased aura effect",
-        "trade_ids": [
-          "implicit.stat_397427740"
         ]
       }
     ]
@@ -13219,6 +13280,18 @@
   {
     "item": "Cloak of Defiance",
     "stats": "#% increased damage",
+    "average": 174.07,
+    "prices": [
+      130,
+      174.07,
+      174.07,
+      1566.6299999999999
+    ],
+    "search": {
+      "id": "3GwWVB0I5",
+      "complexity": 18,
+      "total": 4
+    },
     "builds": 1,
     "mods": [
       {
@@ -13232,6 +13305,13 @@
   {
     "item": "Dance of the Offered",
     "stats": "+# to level of socketed gems",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "GkdRWoWCb",
+      "complexity": 18,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -13245,6 +13325,22 @@
   {
     "item": "Void Battery",
     "stats": "damage penetrates #% elemental resistances",
+    "average": 623.7508333333332,
+    "prices": [
+      522.21,
+      522.21,
+      609.245,
+      696.28,
+      696.28,
+      696.28,
+      1392.56,
+      1740.6999999999998
+    ],
+    "search": {
+      "id": "mP20bDrt6",
+      "complexity": 18,
+      "total": 8
+    },
     "builds": 1,
     "mods": [
       {
@@ -13258,6 +13354,18 @@
   {
     "item": "Void Battery",
     "stats": "#% increased critical strike chance",
+    "average": 314.6225,
+    "prices": [
+      40,
+      348.14,
+      348.14,
+      522.21
+    ],
+    "search": {
+      "id": "LmydjKGIn",
+      "complexity": 18,
+      "total": 4
+    },
     "builds": 1,
     "mods": [
       {
@@ -13271,6 +13379,13 @@
   {
     "item": "Replica Inya's Epiphany",
     "stats": "+# to level of socketed gems",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "aq37vaRFe",
+      "complexity": 18,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -13284,6 +13399,18 @@
   {
     "item": "Rainbowstride",
     "stats": "+# to level of socketed duration gems",
+    "average": 36.25,
+    "prices": [
+      5,
+      25,
+      35,
+      80
+    ],
+    "search": {
+      "id": "BEymZ6aI8",
+      "complexity": 18,
+      "total": 4
+    },
     "builds": 1,
     "mods": [
       {
@@ -13297,6 +13424,24 @@
   {
     "item": "Rainbowstride",
     "stats": "+# to level of socketed aura gems",
+    "average": 38.44444444444444,
+    "prices": [
+      2,
+      5,
+      20,
+      20,
+      30,
+      59,
+      60,
+      70,
+      80,
+      174.07
+    ],
+    "search": {
+      "id": "RVBMBPZh7",
+      "complexity": 18,
+      "total": 10
+    },
     "builds": 1,
     "mods": [
       {
@@ -13310,6 +13455,17 @@
   {
     "item": "Rainbowstride",
     "stats": "+# to level of socketed gems",
+    "average": 96.35666666666667,
+    "prices": [
+      20,
+      95,
+      174.07
+    ],
+    "search": {
+      "id": "BEJE2YLC8",
+      "complexity": 18,
+      "total": 3
+    },
     "builds": 1,
     "mods": [
       {
@@ -13323,6 +13479,15 @@
   {
     "item": "Intuitive Leap",
     "stats": "#% increased reservation efficiency of skills",
+    "average": 1218.49,
+    "prices": [
+      1218.49
+    ],
+    "search": {
+      "id": "dPajBpOIJ",
+      "complexity": 19,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -13337,6 +13502,24 @@
   {
     "item": "Tanu Ahi",
     "stats": "attacks have +#% to critical strike chance",
+    "average": 586.6159,
+    "prices": [
+      174.07,
+      243.69799999999998,
+      330.73299999999995,
+      348.14,
+      348.14,
+      504.80299999999994,
+      870.3499999999999,
+      957.385,
+      1044.42,
+      1044.42
+    ],
+    "search": {
+      "id": "nXJBg42T0",
+      "complexity": 18,
+      "total": 13
+    },
     "builds": 1,
     "mods": [
       {
@@ -13350,6 +13533,13 @@
   {
     "item": "Breathstealer",
     "stats": "+# to level of socketed aoe gems",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "2BaPbYjIk",
+      "complexity": 18,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -13363,6 +13553,16 @@
   {
     "item": "Breathstealer",
     "stats": "+# to level of socketed gems",
+    "average": 591.838,
+    "prices": [
+      522.21,
+      661.4659999999999
+    ],
+    "search": {
+      "id": "WVWz0XZtm",
+      "complexity": 18,
+      "total": 2
+    },
     "builds": 1,
     "mods": [
       {
@@ -13376,6 +13576,13 @@
   {
     "item": "Coward's Legacy",
     "stats": "#% increased maximum life, zealotry has #% increased aura effect",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "LeW47p5tn",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
