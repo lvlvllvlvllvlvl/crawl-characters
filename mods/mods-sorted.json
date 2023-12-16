@@ -2531,6 +2531,19 @@
     ]
   },
   {
+    "item": "Belly of the Beast",
+    "stats": "+# to level of socketed aoe gems",
+    "builds": 2,
+    "mods": [
+      {
+        "text": "+# to level of socketed aoe gems",
+        "trade_ids": [
+          "implicit.stat_2551600084"
+        ]
+      }
+    ]
+  },
+  {
     "item": "Sentari's Answer",
     "stats": "#% increased maximum energy shield",
     "average": 7.122,
@@ -8249,6 +8262,15 @@
   {
     "item": "Glimpse of Chaos",
     "stats": "#% increased quantity of items found",
+    "average": 3471.3999999999996,
+    "prices": [
+      3471.3999999999996
+    ],
+    "search": {
+      "id": "dXpy2R5IJ",
+      "complexity": 18,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -8262,6 +8284,13 @@
   {
     "item": "Shadows and Dust",
     "stats": "#% increased maximum energy shield, attacks have +#% to critical strike chance",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "EyVjjPBH5",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -8281,6 +8310,24 @@
   {
     "item": "Shadows and Dust",
     "stats": "#% increased attack speed",
+    "average": 142.04929999999996,
+    "prices": [
+      100,
+      110,
+      120,
+      120,
+      120,
+      156.213,
+      173.57,
+      173.57,
+      173.57,
+      173.57
+    ],
+    "search": {
+      "id": "8aeDbjvFV",
+      "complexity": 19,
+      "total": 25
+    },
     "builds": 1,
     "mods": [
       {
@@ -8295,6 +8342,24 @@
   {
     "item": "Shadows and Dust",
     "stats": "+# to level of socketed minion gems",
+    "average": 8.555555555555555,
+    "prices": [
+      2,
+      5,
+      5,
+      9,
+      9,
+      9,
+      10,
+      10,
+      10,
+      10
+    ],
+    "search": {
+      "id": "KJGpJKyU5",
+      "complexity": 18,
+      "total": 24
+    },
     "builds": 1,
     "mods": [
       {
@@ -8308,6 +8373,24 @@
   {
     "item": "Shadows and Dust",
     "stats": "+#% to spell critical strike chance",
+    "average": 4.777777777777778,
+    "prices": [
+      1,
+      4,
+      4,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5
+    ],
+    "search": {
+      "id": "ZbErrd0uQ",
+      "complexity": 18,
+      "total": 71
+    },
     "builds": 1,
     "mods": [
       {
@@ -8321,6 +8404,24 @@
   {
     "item": "Lori's Lantern",
     "stats": "discipline has #% increased aura effect",
+    "average": 10.818000000000001,
+    "prices": [
+      1,
+      2,
+      3.18,
+      5,
+      10,
+      12,
+      15,
+      20,
+      20,
+      20
+    ],
+    "search": {
+      "id": "QVYkJBMTw",
+      "complexity": 18,
+      "total": 27
+    },
     "builds": 1,
     "mods": [
       {
@@ -8334,6 +8435,15 @@
   {
     "item": "Lori's Lantern",
     "stats": "anger has #% increased aura effect, bleeding cannot be inflicted on you",
+    "average": 5,
+    "prices": [
+      5
+    ],
+    "search": {
+      "id": "oXeP6nKhl",
+      "complexity": 29,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -8353,6 +8463,24 @@
   {
     "item": "Tabula Rasa",
     "stats": "+# to level of socketed aoe gems",
+    "average": 41.857142857142854,
+    "prices": [
+      39,
+      40,
+      40,
+      40,
+      44,
+      45,
+      45,
+      50,
+      60,
+      80
+    ],
+    "search": {
+      "id": "oXjLOwkUl",
+      "complexity": 18,
+      "total": 16
+    },
     "builds": 1,
     "mods": [
       {
@@ -8366,6 +8494,24 @@
   {
     "item": "Tabula Rasa",
     "stats": "+# to level of socketed gems",
+    "average": 143.90444444444444,
+    "prices": [
+      65.85,
+      128,
+      130,
+      130,
+      135,
+      135,
+      140,
+      150,
+      173.57,
+      173.57
+    ],
+    "search": {
+      "id": "KJBXejMh5",
+      "complexity": 18,
+      "total": 14
+    },
     "builds": 1,
     "mods": [
       {
@@ -8379,6 +8525,24 @@
   {
     "item": "Tabula Rasa",
     "stats": "#% increased damage",
+    "average": 188.57,
+    "prices": [
+      120,
+      173.57,
+      173.57,
+      173.57,
+      173.57,
+      173.57,
+      260.355,
+      260.355,
+      520.71,
+      520.71
+    ],
+    "search": {
+      "id": "lXj2OynFV",
+      "complexity": 18,
+      "total": 10
+    },
     "builds": 1,
     "mods": [
       {
@@ -8392,6 +8556,24 @@
   {
     "item": "Tabula Rasa",
     "stats": "+# to level of socketed duration gems",
+    "average": 37.888888888888886,
+    "prices": [
+      34,
+      35,
+      35,
+      37,
+      40,
+      40,
+      40,
+      40,
+      40,
+      45
+    ],
+    "search": {
+      "id": "VMgXY92sp",
+      "complexity": 18,
+      "total": 33
+    },
     "builds": 1,
     "mods": [
       {
@@ -8405,6 +8587,24 @@
   {
     "item": "Perseverance",
     "stats": "determination has #% increased aura effect",
+    "average": 13.9,
+    "prices": [
+      5,
+      5,
+      11,
+      15,
+      15,
+      15,
+      15,
+      19,
+      19,
+      20
+    ],
+    "search": {
+      "id": "8ae6mr8iV",
+      "complexity": 18,
+      "total": 49
+    },
     "builds": 1,
     "mods": [
       {
@@ -8418,6 +8618,13 @@
   {
     "item": "Perseverance",
     "stats": "+#% to critical strike multiplier during any flask effect, pride has #% increased aura effect",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "jXZK0QZTX",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -8437,6 +8644,21 @@
   {
     "item": "Kaom's Spirit",
     "stats": "+# to level of socketed aoe gems",
+    "average": 468.63899999999995,
+    "prices": [
+      260.355,
+      347.14,
+      520.71,
+      520.71,
+      694.28,
+      1735.6999999999998,
+      2603.5499999999997
+    ],
+    "search": {
+      "id": "lPrYyEQUV",
+      "complexity": 18,
+      "total": 7
+    },
     "builds": 1,
     "mods": [
       {
@@ -8450,6 +8672,18 @@
   {
     "item": "Kaom's Spirit",
     "stats": "+# to level of socketed aura gems",
+    "average": 578.5666666666667,
+    "prices": [
+      433.92499999999995,
+      607.495,
+      694.28,
+      1735.6999999999998
+    ],
+    "search": {
+      "id": "80ZqdM2sV",
+      "complexity": 18,
+      "total": 4
+    },
     "builds": 1,
     "mods": [
       {
@@ -9208,19 +9442,6 @@
         "text": "+# to level of socketed warcry gems",
         "trade_ids": [
           "implicit.stat_1672793731"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Belly of the Beast",
-    "stats": "+# to level of socketed aoe gems",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "+# to level of socketed aoe gems",
-        "trade_ids": [
-          "implicit.stat_2551600084"
         ]
       }
     ]
