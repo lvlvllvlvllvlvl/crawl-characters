@@ -5261,6 +5261,23 @@
   {
     "item": "Watcher's Eye",
     "stats": "#% reduced effect of chill on you",
+    "average": 91.73428571428572,
+    "prices": [
+      30,
+      50,
+      50,
+      65,
+      100,
+      173.57,
+      173.57,
+      1214.99,
+      1735.6999999999998
+    ],
+    "search": {
+      "id": "Zb5baJRTQ",
+      "complexity": 18,
+      "total": 9
+    },
     "builds": 1,
     "mods": [
       {
@@ -5274,6 +5291,21 @@
   {
     "item": "Watcher's Eye",
     "stats": "damage penetrates #% lightning resistance",
+    "average": 173.57,
+    "prices": [
+      100,
+      173.57,
+      173.57,
+      173.57,
+      173.57,
+      173.57,
+      694.28
+    ],
+    "search": {
+      "id": "6ZbVbrXIG",
+      "complexity": 19,
+      "total": 7
+    },
     "builds": 1,
     "mods": [
       {
@@ -5288,6 +5320,20 @@
   {
     "item": "Watcher's Eye",
     "stats": "minions deal #% increased damage",
+    "average": 122.14200000000001,
+    "prices": [
+      40,
+      50,
+      173.57,
+      173.57,
+      173.57,
+      347.14
+    ],
+    "search": {
+      "id": "8a24E4qsV",
+      "complexity": 18,
+      "total": 6
+    },
     "builds": 1,
     "mods": [
       {
@@ -5301,6 +5347,15 @@
   {
     "item": "Watcher's Eye",
     "stats": "#% increased global critical strike chance, #% reduced poison duration on you",
+    "average": 1388.56,
+    "prices": [
+      1388.56
+    ],
+    "search": {
+      "id": "vlEXWkjHE",
+      "complexity": 29,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -5320,6 +5375,24 @@
   {
     "item": "Incandescent Heart",
     "stats": "#% reduced chaos damage taken",
+    "average": 75.071,
+    "prices": [
+      10,
+      10,
+      20,
+      20,
+      20,
+      50,
+      100,
+      173.57,
+      173.57,
+      173.57
+    ],
+    "search": {
+      "id": "pXvdEoJT0",
+      "complexity": 18,
+      "total": 12
+    },
     "builds": 1,
     "mods": [
       {
@@ -5333,6 +5406,22 @@
   {
     "item": "Incandescent Heart",
     "stats": "#% reduced lightning damage taken",
+    "average": 21.666666666666668,
+    "prices": [
+      5,
+      10,
+      15,
+      30,
+      30,
+      40,
+      90,
+      173.57
+    ],
+    "search": {
+      "id": "eXVr4oYhL",
+      "complexity": 18,
+      "total": 8
+    },
     "builds": 1,
     "mods": [
       {
@@ -5346,6 +5435,24 @@
   {
     "item": "Incandescent Heart",
     "stats": "you take #% reduced extra damage from critical strikes",
+    "average": 54.888888888888886,
+    "prices": [
+      15,
+      25,
+      29,
+      30,
+      45,
+      50,
+      100,
+      100,
+      100,
+      173.57
+    ],
+    "search": {
+      "id": "RVBnoyBU7",
+      "complexity": 18,
+      "total": 15
+    },
     "builds": 1,
     "mods": [
       {
@@ -5359,6 +5466,24 @@
   {
     "item": "Incandescent Heart",
     "stats": "+# to level of socketed duration gems",
+    "average": 131.40629999999996,
+    "prices": [
+      50,
+      50,
+      50,
+      140,
+      156.213,
+      173.57,
+      173.57,
+      173.57,
+      173.57,
+      173.57
+    ],
+    "search": {
+      "id": "OpJM878uE",
+      "complexity": 18,
+      "total": 19
+    },
     "builds": 1,
     "mods": [
       {
@@ -5372,6 +5497,24 @@
   {
     "item": "Incandescent Heart",
     "stats": "+# to level of socketed aura gems",
+    "average": 37.5,
+    "prices": [
+      8,
+      10,
+      12,
+      15,
+      20,
+      21,
+      50,
+      70,
+      79,
+      90
+    ],
+    "search": {
+      "id": "9YDrlY0HK",
+      "complexity": 18,
+      "total": 18
+    },
     "builds": 1,
     "mods": [
       {
@@ -5385,6 +5528,21 @@
   {
     "item": "Incandescent Heart",
     "stats": "+# to level of socketed minion gems",
+    "average": 132.142,
+    "prices": [
+      40,
+      100,
+      173.57,
+      173.57,
+      173.57,
+      347.14,
+      520.71
+    ],
+    "search": {
+      "id": "gPeRw97hQ",
+      "complexity": 18,
+      "total": 7
+    },
     "builds": 1,
     "mods": [
       {
@@ -5398,6 +5556,13 @@
   {
     "item": "Incandescent Heart",
     "stats": "+# to level of socketed aoe gems, +# to level of socketed aura gems",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "KJBdY5RI5",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -5417,6 +5582,13 @@
   {
     "item": "Marylene's Fallacy",
     "stats": "+#% to all maximum resistances, malevolence has #% increased aura effect",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "nXqVBGyC0",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -5436,6 +5608,24 @@
   {
     "item": "Marylene's Fallacy",
     "stats": "+#% to all maximum resistances",
+    "average": 75.571,
+    "prices": [
+      10,
+      15,
+      15,
+      15,
+      30,
+      50,
+      100,
+      173.57,
+      173.57,
+      173.57
+    ],
+    "search": {
+      "id": "KJ7E63LU5",
+      "complexity": 18,
+      "total": 12
+    },
     "builds": 1,
     "mods": [
       {
@@ -5449,6 +5639,18 @@
   {
     "item": "String of Servitude",
     "stats": "#% increased quantity of items found",
+    "average": 4990.1375,
+    "prices": [
+      347.14,
+      2256.41,
+      5207.099999999999,
+      12149.9
+    ],
+    "search": {
+      "id": "lPrYXD0sV",
+      "complexity": 18,
+      "total": 4
+    },
     "builds": 1,
     "mods": [
       {
@@ -5462,6 +5664,13 @@
   {
     "item": "String of Servitude",
     "stats": "#% increased maximum energy shield, hatred has #% increased aura effect",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "MV4KYqDFJ",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
