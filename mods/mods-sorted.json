@@ -240,6 +240,37 @@
     ]
   },
   {
+    "item": "Kaom's Heart",
+    "stats": "#% increased damage",
+    "average": 173.06999999999996,
+    "prices": [
+      120,
+      150,
+      160,
+      173.07,
+      173.07,
+      173.07,
+      173.07,
+      173.07,
+      173.07,
+      173.07
+    ],
+    "search": {
+      "id": "PK7ayEgtL",
+      "complexity": 18,
+      "total": 32
+    },
+    "builds": 7,
+    "mods": [
+      {
+        "text": "#% increased damage",
+        "trade_ids": [
+          "implicit.stat_2154246560"
+        ]
+      }
+    ]
+  },
+  {
     "item": "Shadows and Dust",
     "stats": "+# to maximum frenzy charges",
     "average": 735.5474999999999,
@@ -458,13 +489,13 @@
     ]
   },
   {
-    "item": "Kaom's Heart",
-    "stats": "#% increased damage",
+    "item": "Hrimsorrow",
+    "stats": "+#% to spell critical strike chance",
     "average": 173.06999999999996,
     "prices": [
-      120,
-      150,
-      160,
+      100,
+      130,
+      173.07,
       173.07,
       173.07,
       173.07,
@@ -474,16 +505,16 @@
       173.07
     ],
     "search": {
-      "id": "PK7ayEgtL",
+      "id": "mP2PGvrt6",
       "complexity": 18,
-      "total": 32
+      "total": 40
     },
     "builds": 6,
     "mods": [
       {
-        "text": "#% increased damage",
+        "text": "+#% to spell critical strike chance",
         "trade_ids": [
-          "implicit.stat_2154246560"
+          "implicit.stat_791835907"
         ]
       }
     ]
@@ -546,37 +577,6 @@
         "text": "discipline has #% increased aura effect",
         "trade_ids": [
           "implicit.stat_788317702"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Hrimsorrow",
-    "stats": "+#% to spell critical strike chance",
-    "average": 173.06999999999996,
-    "prices": [
-      100,
-      130,
-      173.07,
-      173.07,
-      173.07,
-      173.07,
-      173.07,
-      173.07,
-      173.07,
-      173.07
-    ],
-    "search": {
-      "id": "mP2PGvrt6",
-      "complexity": 18,
-      "total": 40
-    },
-    "builds": 5,
-    "mods": [
-      {
-        "text": "+#% to spell critical strike chance",
-        "trade_ids": [
-          "implicit.stat_791835907"
         ]
       }
     ]
@@ -912,6 +912,37 @@
         "text": "#% increased area of effect",
         "trade_ids": [
           "implicit.stat_280731498"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Black Sun Crest",
+    "stats": "socketed skill gems get a #% cost & reservation multiplier",
+    "average": 8.222222222222221,
+    "prices": [
+      3,
+      5,
+      5,
+      8,
+      8,
+      8,
+      10,
+      10,
+      10,
+      10
+    ],
+    "search": {
+      "id": "Qr6G3Mpuw",
+      "complexity": 18,
+      "total": 148
+    },
+    "builds": 4,
+    "mods": [
+      {
+        "text": "socketed skill gems get a #% cost & reservation multiplier",
+        "trade_ids": [
+          "implicit.stat_2865550257"
         ]
       }
     ]
@@ -1312,37 +1343,6 @@
     ]
   },
   {
-    "item": "Black Sun Crest",
-    "stats": "socketed skill gems get a #% cost & reservation multiplier",
-    "average": 8.222222222222221,
-    "prices": [
-      3,
-      5,
-      5,
-      8,
-      8,
-      8,
-      10,
-      10,
-      10,
-      10
-    ],
-    "search": {
-      "id": "Qr6G3Mpuw",
-      "complexity": 18,
-      "total": 148
-    },
-    "builds": 3,
-    "mods": [
-      {
-        "text": "socketed skill gems get a #% cost & reservation multiplier",
-        "trade_ids": [
-          "implicit.stat_2865550257"
-        ]
-      }
-    ]
-  },
-  {
     "item": "Dialla's Malefaction",
     "stats": "+# to level of socketed gems, +#% to all maximum resistances",
     "average": 10903.41,
@@ -1533,6 +1533,37 @@
         "text": "+# to level of socketed aoe gems",
         "trade_ids": [
           "implicit.stat_2551600084"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Heatshiver",
+    "stats": "#% increased maximum life",
+    "average": 12,
+    "prices": [
+      5,
+      8,
+      8,
+      10,
+      10,
+      15,
+      15,
+      15,
+      16,
+      18
+    ],
+    "search": {
+      "id": "PK7qy2ZCL",
+      "complexity": 18,
+      "total": 98
+    },
+    "builds": 2,
+    "mods": [
+      {
+        "text": "#% increased maximum life",
+        "trade_ids": [
+          "implicit.stat_983749596"
         ]
       }
     ]
@@ -2272,6 +2303,19 @@
         "text": "#% reduced effect of shock on you",
         "trade_ids": [
           "implicit.stat_3801067695"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Yoke of Suffering",
+    "stats": "you can apply an additional curse",
+    "builds": 2,
+    "mods": [
+      {
+        "text": "you can apply an additional curse",
+        "trade_ids": [
+          "implicit.stat_30642521"
         ]
       }
     ]
@@ -5244,37 +5288,6 @@
         "text": "#% increased effect of cold ailments",
         "trade_ids": [
           "implicit.stat_1793818220"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Heatshiver",
-    "stats": "#% increased maximum life",
-    "average": 12,
-    "prices": [
-      5,
-      8,
-      8,
-      10,
-      10,
-      15,
-      15,
-      15,
-      16,
-      18
-    ],
-    "search": {
-      "id": "PK7qy2ZCL",
-      "complexity": 18,
-      "total": 98
-    },
-    "builds": 1,
-    "mods": [
-      {
-        "text": "#% increased maximum life",
-        "trade_ids": [
-          "implicit.stat_983749596"
         ]
       }
     ]
@@ -8650,6 +8663,19 @@
     ]
   },
   {
+    "item": "Yoke of Suffering",
+    "stats": "hatred has #% increased aura effect",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "hatred has #% increased aura effect",
+        "trade_ids": [
+          "implicit.stat_3742945352"
+        ]
+      }
+    ]
+  },
+  {
     "item": "Eyes of the Greatwolf",
     "stats": "#% increased damage, #% increased quantity of items found",
     "average": 1332.639,
@@ -9068,6 +9094,24 @@
   {
     "item": "Perseverance",
     "stats": "determination has #% increased aura effect",
+    "average": 15.333333333333334,
+    "prices": [
+      5,
+      10,
+      10,
+      15,
+      15,
+      15,
+      15,
+      19,
+      19,
+      20
+    ],
+    "search": {
+      "id": "8ae6mr8iV",
+      "complexity": 18,
+      "total": 53
+    },
     "builds": 1,
     "mods": [
       {
@@ -9081,6 +9125,13 @@
   {
     "item": "Perseverance",
     "stats": "+#% to critical strike multiplier during any flask effect, pride has #% increased aura effect",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "jXZK0QZTX",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -9100,6 +9151,24 @@
   {
     "item": "Kaom's Spirit",
     "stats": "+# to level of socketed aoe gems",
+    "average": 791.1771428571428,
+    "prices": [
+      692.28,
+      692.28,
+      692.28,
+      865.3499999999999,
+      865.3499999999999,
+      865.3499999999999,
+      865.3499999999999,
+      1038.42,
+      1730.6999999999998,
+      1730.6999999999998
+    ],
+    "search": {
+      "id": "lPrYyEQUV",
+      "complexity": 18,
+      "total": 10
+    },
     "builds": 1,
     "mods": [
       {
@@ -9113,6 +9182,20 @@
   {
     "item": "Kaom's Spirit",
     "stats": "+# to level of socketed aura gems",
+    "average": 966.3075,
+    "prices": [
+      605.745,
+      692.28,
+      692.28,
+      865.3499999999999,
+      1384.56,
+      1557.6299999999999
+    ],
+    "search": {
+      "id": "80ZqdM2sV",
+      "complexity": 18,
+      "total": 6
+    },
     "builds": 1,
     "mods": [
       {
@@ -9126,6 +9209,16 @@
   {
     "item": "Bubonic Trail",
     "stats": "+# to level of socketed gems",
+    "average": 40,
+    "prices": [
+      30,
+      50
+    ],
+    "search": {
+      "id": "4dv3yQYt9",
+      "complexity": 18,
+      "total": 2
+    },
     "builds": 1,
     "mods": [
       {
@@ -9139,6 +9232,20 @@
   {
     "item": "Bubonic Trail",
     "stats": "+# to level of socketed duration gems",
+    "average": 86.85666666666667,
+    "prices": [
+      35,
+      40,
+      50,
+      50,
+      173.07,
+      173.07
+    ],
+    "search": {
+      "id": "vljKgqZCE",
+      "complexity": 18,
+      "total": 6
+    },
     "builds": 1,
     "mods": [
       {
@@ -9152,6 +9259,24 @@
   {
     "item": "Prism Guardian",
     "stats": "#% increased maximum energy shield",
+    "average": 24.333333333333332,
+    "prices": [
+      20,
+      20,
+      20,
+      20,
+      24,
+      25,
+      30,
+      30,
+      30,
+      40
+    ],
+    "search": {
+      "id": "XqadzgJSP",
+      "complexity": 18,
+      "total": 16
+    },
     "builds": 1,
     "mods": [
       {
@@ -9165,6 +9290,24 @@
   {
     "item": "Prism Guardian",
     "stats": "#% of physical damage from hits taken as lightning damage",
+    "average": 21.428571428571427,
+    "prices": [
+      20,
+      20,
+      20,
+      20,
+      20,
+      25,
+      25,
+      35,
+      65,
+      70
+    ],
+    "search": {
+      "id": "lPrrL90UV",
+      "complexity": 18,
+      "total": 29
+    },
     "builds": 1,
     "mods": [
       {
@@ -9178,6 +9321,13 @@
   {
     "item": "Hands of the High Templar",
     "stats": "+# to level of socketed gems, +# to level of socketed aura gems, curse enemies with temporal chains on hit, curse enemies with elemental weakness on hit, attacks have +#% to critical strike chance",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "9YmROmRcK",
+      "complexity": 22,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -9215,6 +9365,24 @@
   {
     "item": "Hands of the High Templar",
     "stats": "+# to level of socketed gems, +# to level of socketed aoe gems",
+    "average": 757.1812500000001,
+    "prices": [
+      692.28,
+      692.28,
+      692.28,
+      692.28,
+      692.28,
+      865.3499999999999,
+      865.3499999999999,
+      865.3499999999999,
+      1211.49,
+      1384.56
+    ],
+    "search": {
+      "id": "QVn0WyRCw",
+      "complexity": 29,
+      "total": 12
+    },
     "builds": 1,
     "mods": [
       {
@@ -9234,6 +9402,13 @@
   {
     "item": "Hands of the High Templar",
     "stats": "+# to level of socketed duration gems, +# to level of socketed projectile gems, +# to level of socketed curse gems",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "3BYjl0Js5",
+      "complexity": 20,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -9259,6 +9434,19 @@
   {
     "item": "Hands of the High Templar",
     "stats": "+# to level of socketed aoe gems, +# to level of socketed aura gems",
+    "average": 1341.2925,
+    "prices": [
+      1038.42,
+      1211.49,
+      1384.56,
+      1730.6999999999998,
+      3461.3999999999996
+    ],
+    "search": {
+      "id": "ze59nYqf4",
+      "complexity": 29,
+      "total": 5
+    },
     "builds": 1,
     "mods": [
       {
@@ -9278,6 +9466,15 @@
   {
     "item": "Hands of the High Templar",
     "stats": "+# to level of socketed aoe gems, +# to level of socketed curse gems, +# to maximum frenzy charges",
+    "average": 2422.98,
+    "prices": [
+      2422.98
+    ],
+    "search": {
+      "id": "vlJ5eG9HE",
+      "complexity": 20,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -9303,6 +9500,13 @@
   {
     "item": "Hands of the High Templar",
     "stats": "+# to level of socketed gems, +# to level of socketed curse gems, +# to level of socketed warcry gems, curse enemies with enfeeble on hit, attacks have +#% to critical strike chance",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "waqOP7jsb",
+      "complexity": 22,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -9340,6 +9544,23 @@
   {
     "item": "Hands of the High Templar",
     "stats": "+# to level of socketed duration gems, +# to level of socketed aoe gems",
+    "average": 1388.406,
+    "prices": [
+      432.67499999999995,
+      657.6659999999999,
+      692.28,
+      848.043,
+      865.3499999999999,
+      1038.42,
+      1038.42,
+      3461.3999999999996,
+      3461.3999999999996
+    ],
+    "search": {
+      "id": "Pd5y38miL",
+      "complexity": 29,
+      "total": 9
+    },
     "builds": 1,
     "mods": [
       {
@@ -9390,6 +9611,19 @@
         "text": "#% increased dexterity",
         "trade_ids": [
           "implicit.stat_4139681126"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Headhunter",
+    "stats": "#% increased maximum energy shield",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "#% increased maximum energy shield",
+        "trade_ids": [
+          "implicit.stat_2482852589"
         ]
       }
     ]
@@ -12065,32 +12299,6 @@
         "text": "#% increased maximum energy shield",
         "trade_ids": [
           "implicit.stat_2482852589"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Yoke of Suffering",
-    "stats": "hatred has #% increased aura effect",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "hatred has #% increased aura effect",
-        "trade_ids": [
-          "implicit.stat_3742945352"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Yoke of Suffering",
-    "stats": "you can apply an additional curse",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "you can apply an additional curse",
-        "trade_ids": [
-          "implicit.stat_30642521"
         ]
       }
     ]
