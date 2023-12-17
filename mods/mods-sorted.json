@@ -4945,6 +4945,24 @@
   {
     "item": "Call of the Brotherhood",
     "stats": "+#% to all elemental resistances",
+    "average": 13,
+    "prices": [
+      10,
+      10,
+      10,
+      10,
+      14,
+      15,
+      15,
+      15,
+      15,
+      16
+    ],
+    "search": {
+      "id": "LeV9n8jHn",
+      "complexity": 18,
+      "total": 24
+    },
     "builds": 1,
     "mods": [
       {
@@ -4958,6 +4976,15 @@
   {
     "item": "Call of the Brotherhood",
     "stats": "anger has #% increased aura effect, determination has #% increased aura effect",
+    "average": 20,
+    "prices": [
+      20
+    ],
+    "search": {
+      "id": "oZvaGQOFl",
+      "complexity": 29,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
