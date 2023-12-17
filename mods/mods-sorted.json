@@ -11680,6 +11680,24 @@
   {
     "item": "Sentari's Answer",
     "stats": "#% of physical damage from hits taken as fire damage",
+    "average": 7.555555555555555,
+    "prices": [
+      1,
+      2,
+      5,
+      5,
+      10,
+      10,
+      10,
+      10,
+      15,
+      20
+    ],
+    "search": {
+      "id": "LeWraOlFn",
+      "complexity": 18,
+      "total": 44
+    },
     "builds": 1,
     "mods": [
       {
@@ -11693,6 +11711,24 @@
   {
     "item": "Sentari's Answer",
     "stats": "you take #% reduced extra damage from critical strikes",
+    "average": 11.9,
+    "prices": [
+      4,
+      5,
+      5,
+      5,
+      10,
+      15,
+      15,
+      20,
+      20,
+      20
+    ],
+    "search": {
+      "id": "8adzGlqCV",
+      "complexity": 18,
+      "total": 28
+    },
     "builds": 1,
     "mods": [
       {
@@ -11706,6 +11742,16 @@
   {
     "item": "Primordial Eminence",
     "stats": "corrupted blood cannot be inflicted on you",
+    "average": 519.21,
+    "prices": [
+      519.21,
+      519.21
+    ],
+    "search": {
+      "id": "80ZJ5VZcV",
+      "complexity": 18,
+      "total": 2
+    },
     "builds": 1,
     "mods": [
       {
@@ -11719,6 +11765,13 @@
   {
     "item": "Thread of Hope",
     "stats": "damage penetrates #% fire resistance, you cannot be cursed with silence",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "kXlKda6I5",
+      "complexity": 30,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -11739,6 +11792,16 @@
   {
     "item": "Thread of Hope",
     "stats": "#% increased reservation efficiency of skills, damage penetrates #% lightning resistance",
+    "average": 519.21,
+    "prices": [
+      519.21,
+      519.21
+    ],
+    "search": {
+      "id": "BEmJV2jt8",
+      "complexity": 31,
+      "total": 2
+    },
     "builds": 1,
     "mods": [
       {
@@ -11760,6 +11823,13 @@
   {
     "item": "Thread of Hope",
     "stats": "#% increased damage, #% increased reservation efficiency of skills",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "MVBnn6qUJ",
+      "complexity": 30,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -11780,6 +11850,13 @@
   {
     "item": "Thread of Hope",
     "stats": "damage penetrates #% cold resistance, damage penetrates #% lightning resistance",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "vlEwbeWtE",
+      "complexity": 31,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -11801,6 +11878,17 @@
   {
     "item": "Thread of Hope",
     "stats": "#% increased reservation efficiency of skills, damage penetrates #% elemental resistances",
+    "average": 1499.9399999999998,
+    "prices": [
+      519.21,
+      1557.6299999999999,
+      2422.98
+    ],
+    "search": {
+      "id": "JYDBYZYsl",
+      "complexity": 30,
+      "total": 3
+    },
     "builds": 1,
     "mods": [
       {
@@ -11821,6 +11909,24 @@
   {
     "item": "Intuitive Leap",
     "stats": "you cannot be hindered",
+    "average": 64.44444444444444,
+    "prices": [
+      50,
+      50,
+      50,
+      50,
+      50,
+      60,
+      70,
+      100,
+      100,
+      173.07
+    ],
+    "search": {
+      "id": "waPQLqKhb",
+      "complexity": 18,
+      "total": 13
+    },
     "builds": 1,
     "mods": [
       {
@@ -11834,6 +11940,16 @@
   {
     "item": "Intuitive Leap",
     "stats": "#% increased reservation efficiency of skills",
+    "average": 943.2315,
+    "prices": [
+      934.578,
+      951.885
+    ],
+    "search": {
+      "id": "dPajBpOIJ",
+      "complexity": 19,
+      "total": 2
+    },
     "builds": 1,
     "mods": [
       {
@@ -11848,6 +11964,13 @@
   {
     "item": "Tanu Ahi",
     "stats": "+# to level of socketed duration gems, attacks have +#% to critical strike chance",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "Pd5D2mmiL",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -11867,6 +11990,24 @@
   {
     "item": "Tanu Ahi",
     "stats": "curse enemies with enfeeble on hit",
+    "average": 500.1723,
+    "prices": [
+      346.14,
+      380.754,
+      432.67499999999995,
+      432.67499999999995,
+      467.289,
+      519.21,
+      519.21,
+      519.21,
+      692.28,
+      692.28
+    ],
+    "search": {
+      "id": "2BWwdYGsk",
+      "complexity": 18,
+      "total": 22
+    },
     "builds": 1,
     "mods": [
       {
@@ -11880,6 +12021,24 @@
   {
     "item": "Tanu Ahi",
     "stats": "attacks have +#% to critical strike chance",
+    "average": 489.78809999999993,
+    "prices": [
+      328.83299999999997,
+      328.83299999999997,
+      346.14,
+      432.67499999999995,
+      432.67499999999995,
+      519.21,
+      519.21,
+      605.745,
+      692.28,
+      692.28
+    ],
+    "search": {
+      "id": "nXJBg42T0",
+      "complexity": 18,
+      "total": 19
+    },
     "builds": 1,
     "mods": [
       {
@@ -11893,6 +12052,15 @@
   {
     "item": "Dissolution of the Flesh",
     "stats": "damage penetrates #% elemental resistances",
+    "average": 259.605,
+    "prices": [
+      259.605
+    ],
+    "search": {
+      "id": "vlqGP3BTE",
+      "complexity": 18,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -11906,6 +12074,13 @@
   {
     "item": "Crown of Thorns",
     "stats": "#% increased area of effect",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "BED35jLs8",
+      "complexity": 18,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
