@@ -22,6 +22,37 @@
     ]
   },
   {
+    "item": "String of Servitude",
+    "stats": "hatred has #% increased aura effect",
+    "average": 5.444444444444445,
+    "prices": [
+      2,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      7,
+      7
+    ],
+    "search": {
+      "id": "OpJoQXOSE",
+      "complexity": 18,
+      "total": 68
+    },
+    "builds": 12,
+    "mods": [
+      {
+        "text": "hatred has #% increased aura effect",
+        "trade_ids": [
+          "implicit.stat_3742945352"
+        ]
+      }
+    ]
+  },
+  {
     "item": "Southbound",
     "stats": "+#% to spell critical strike chance",
     "average": 60,
@@ -53,32 +84,25 @@
     ]
   },
   {
-    "item": "String of Servitude",
-    "stats": "hatred has #% increased aura effect",
-    "average": 5.444444444444445,
+    "item": "Vaal Caress",
+    "stats": "+# to level of socketed aura gems",
+    "average": 1384.5600000000002,
     "prices": [
-      2,
-      5,
-      5,
-      5,
-      5,
-      5,
-      5,
-      5,
-      7,
-      7
+      1038.42,
+      1384.56,
+      1730.6999999999998
     ],
     "search": {
-      "id": "OpJoQXOSE",
+      "id": "lPr5YawFV",
       "complexity": 18,
-      "total": 68
+      "total": 3
     },
     "builds": 11,
     "mods": [
       {
-        "text": "hatred has #% increased aura effect",
+        "text": "+# to level of socketed aura gems",
         "trade_ids": [
-          "implicit.stat_3742945352"
+          "implicit.stat_2452998583"
         ]
       }
     ]
@@ -134,30 +158,6 @@
         "text": "+# to level of socketed duration gems",
         "trade_ids": [
           "implicit.stat_2115168758"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Vaal Caress",
-    "stats": "+# to level of socketed aura gems",
-    "average": 1384.5600000000002,
-    "prices": [
-      1038.42,
-      1384.56,
-      1730.6999999999998
-    ],
-    "search": {
-      "id": "lPr5YawFV",
-      "complexity": 18,
-      "total": 3
-    },
-    "builds": 10,
-    "mods": [
-      {
-        "text": "+# to level of socketed aura gems",
-        "trade_ids": [
-          "implicit.stat_2452998583"
         ]
       }
     ]
@@ -1194,6 +1194,37 @@
     ]
   },
   {
+    "item": "Prism Guardian",
+    "stats": "+# to level of socketed gems",
+    "average": 150.03888888888886,
+    "prices": [
+      50,
+      100,
+      115,
+      120,
+      150,
+      173.07,
+      173.07,
+      173.07,
+      173.07,
+      173.07
+    ],
+    "search": {
+      "id": "gPemZjjsQ",
+      "complexity": 18,
+      "total": 15
+    },
+    "builds": 3,
+    "mods": [
+      {
+        "text": "+# to level of socketed gems",
+        "trade_ids": [
+          "implicit.stat_2843100721"
+        ]
+      }
+    ]
+  },
+  {
     "item": "Alpha's Howl",
     "stats": "+# to level of socketed aoe gems",
     "average": 346.14000000000004,
@@ -1392,6 +1423,37 @@
         "text": "+# to level of socketed curse gems",
         "trade_ids": [
           "implicit.stat_3691695237"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Victario's Influence",
+    "stats": "+# to level of socketed gems, +# to level of socketed aoe gems",
+    "average": 520.59,
+    "prices": [
+      520.59,
+      520.59,
+      694.12,
+      3123.54
+    ],
+    "search": {
+      "id": "emYDwLYsL",
+      "complexity": 29,
+      "total": 4
+    },
+    "builds": 2,
+    "mods": [
+      {
+        "text": "+# to level of socketed gems",
+        "trade_ids": [
+          "implicit.stat_2843100721"
+        ]
+      },
+      {
+        "text": "+# to level of socketed aoe gems",
+        "trade_ids": [
+          "implicit.stat_2551600084"
         ]
       }
     ]
@@ -2427,37 +2489,6 @@
         "text": "curse enemies with vulnerability on hit",
         "trade_ids": [
           "implicit.stat_3967845372"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Prism Guardian",
-    "stats": "+# to level of socketed gems",
-    "average": 150.03888888888886,
-    "prices": [
-      50,
-      100,
-      115,
-      120,
-      150,
-      173.07,
-      173.07,
-      173.07,
-      173.07,
-      173.07
-    ],
-    "search": {
-      "id": "gPemZjjsQ",
-      "complexity": 18,
-      "total": 15
-    },
-    "builds": 2,
-    "mods": [
-      {
-        "text": "+# to level of socketed gems",
-        "trade_ids": [
-          "implicit.stat_2843100721"
         ]
       }
     ]
@@ -3913,37 +3944,6 @@
         "text": "+# to level of socketed trap or mine gems",
         "trade_ids": [
           "implicit.stat_150668988"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Victario's Influence",
-    "stats": "+# to level of socketed gems, +# to level of socketed aoe gems",
-    "average": 520.59,
-    "prices": [
-      520.59,
-      520.59,
-      694.12,
-      3123.54
-    ],
-    "search": {
-      "id": "emYDwLYsL",
-      "complexity": 29,
-      "total": 4
-    },
-    "builds": 1,
-    "mods": [
-      {
-        "text": "+# to level of socketed gems",
-        "trade_ids": [
-          "implicit.stat_2843100721"
-        ]
-      },
-      {
-        "text": "+# to level of socketed aoe gems",
-        "trade_ids": [
-          "implicit.stat_2551600084"
         ]
       }
     ]
@@ -6995,6 +6995,17 @@
   {
     "item": "Asenath's Gentle Touch",
     "stats": "curse enemies with elemental weakness on hit, curse enemies with enfeeble on hit",
+    "average": 519.21,
+    "prices": [
+      432.67499999999995,
+      519.21,
+      519.21
+    ],
+    "search": {
+      "id": "QV05ojvHw",
+      "complexity": 29,
+      "total": 3
+    },
     "builds": 1,
     "mods": [
       {
@@ -7014,6 +7025,24 @@
   {
     "item": "Cold Iron Point",
     "stats": "#% chance to gain unholy might for 3 seconds on kill",
+    "average": 47.111111111111114,
+    "prices": [
+      35,
+      45,
+      45,
+      45,
+      45,
+      45,
+      49,
+      50,
+      50,
+      50
+    ],
+    "search": {
+      "id": "9Y2wm70uK",
+      "complexity": 18,
+      "total": 39
+    },
     "builds": 1,
     "mods": [
       {
@@ -7027,6 +7056,24 @@
   {
     "item": "Cold Iron Point",
     "stats": "#% increased damage over time",
+    "average": 420.5601,
+    "prices": [
+      346.14,
+      363.447,
+      363.447,
+      363.447,
+      380.754,
+      398.061,
+      467.289,
+      501.90299999999996,
+      501.90299999999996,
+      519.21
+    ],
+    "search": {
+      "id": "z273V4RI4",
+      "complexity": 18,
+      "total": 22
+    },
     "builds": 1,
     "mods": [
       {
@@ -7040,6 +7087,24 @@
   {
     "item": "Cold Iron Point",
     "stats": "#% increased global critical strike chance",
+    "average": 3,
+    "prices": [
+      2,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3
+    ],
+    "search": {
+      "id": "LeWqod2sn",
+      "complexity": 18,
+      "total": 951
+    },
     "builds": 1,
     "mods": [
       {
@@ -7053,6 +7118,17 @@
   {
     "item": "Skin of the Loyal",
     "stats": "+# to level of socketed minion gems",
+    "average": 1730.6999999999998,
+    "prices": [
+      1730.6999999999998,
+      1730.6999999999998,
+      2076.84
+    ],
+    "search": {
+      "id": "Eyeq6dYf5",
+      "complexity": 18,
+      "total": 3
+    },
     "builds": 1,
     "mods": [
       {
@@ -7066,6 +7142,15 @@
   {
     "item": "Skin of the Loyal",
     "stats": "+# to level of socketed duration gems, #% increased maximum energy shield",
+    "average": 1557.6299999999999,
+    "prices": [
+      1557.6299999999999
+    ],
+    "search": {
+      "id": "DL3Vd74H5",
+      "complexity": 29,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -7085,6 +7170,13 @@
   {
     "item": "March of the Legion",
     "stats": "+# to level of socketed gems, +# to level of socketed aura gems",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "GZyEJaBhb",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -7104,6 +7196,16 @@
   {
     "item": "March of the Legion",
     "stats": "#% increased maximum energy shield, #% increased maximum life",
+    "average": 101.535,
+    "prices": [
+      30,
+      173.07
+    ],
+    "search": {
+      "id": "jPpzDkXSX",
+      "complexity": 29,
+      "total": 2
+    },
     "builds": 1,
     "mods": [
       {
@@ -7123,6 +7225,24 @@
   {
     "item": "March of the Legion",
     "stats": "+# to level of socketed trap or mine gems",
+    "average": 12.1,
+    "prices": [
+      5,
+      5,
+      10,
+      10,
+      10,
+      11,
+      15,
+      15,
+      20,
+      20
+    ],
+    "search": {
+      "id": "DL497bvC5",
+      "complexity": 18,
+      "total": 40
+    },
     "builds": 1,
     "mods": [
       {
@@ -7136,6 +7256,24 @@
   {
     "item": "March of the Legion",
     "stats": "+# to level of socketed projectile gems",
+    "average": 10.6,
+    "prices": [
+      4,
+      4,
+      5,
+      8,
+      10,
+      10,
+      10,
+      15,
+      20,
+      20
+    ],
+    "search": {
+      "id": "rXjkzWgCQ",
+      "complexity": 18,
+      "total": 47
+    },
     "builds": 1,
     "mods": [
       {
@@ -7149,6 +7287,15 @@
   {
     "item": "March of the Legion",
     "stats": "+# to level of socketed aoe gems, +# to level of socketed aura gems",
+    "average": 25960.5,
+    "prices": [
+      25960.5
+    ],
+    "search": {
+      "id": "eXW9nbWFL",
+      "complexity": 29,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -7168,6 +7315,13 @@
   {
     "item": "March of the Legion",
     "stats": "+# to level of socketed projectile gems, +# to level of socketed aura gems",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "bXpqEozHL",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -7187,6 +7341,15 @@
   {
     "item": "March of the Legion",
     "stats": "+# to level of socketed aoe gems, +# to level of socketed projectile gems",
+    "average": 346.14,
+    "prices": [
+      346.14
+    ],
+    "search": {
+      "id": "VMKlbvwhp",
+      "complexity": 29,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -7206,6 +7369,24 @@
   {
     "item": "Hyrri's Truth",
     "stats": "#% increased movement speed",
+    "average": 8.8,
+    "prices": [
+      4,
+      5,
+      5,
+      8,
+      10,
+      10,
+      10,
+      11,
+      12,
+      13
+    ],
+    "search": {
+      "id": "y9E6RWBhR",
+      "complexity": 18,
+      "total": 40
+    },
     "builds": 1,
     "mods": [
       {
@@ -7219,6 +7400,24 @@
   {
     "item": "Hyrri's Truth",
     "stats": "+#% to all elemental resistances",
+    "average": 34.8,
+    "prices": [
+      20,
+      25,
+      29,
+      30,
+      35,
+      40,
+      40,
+      40,
+      40,
+      49
+    ],
+    "search": {
+      "id": "gXJ32daFQ",
+      "complexity": 18,
+      "total": 74
+    },
     "builds": 1,
     "mods": [
       {
@@ -9193,6 +9392,45 @@
         "text": "#% increased effect of non-damaging ailments",
         "trade_ids": [
           "implicit.stat_782230869"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Might of the Meek",
+    "stats": "you cannot be maimed",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "you cannot be maimed",
+        "trade_ids": [
+          "implicit.stat_1126826428"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Might of the Meek",
+    "stats": "you cannot be cursed with silence",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "you cannot be cursed with silence",
+        "trade_ids": [
+          "implicit.stat_1654414582"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Might of the Meek",
+    "stats": "you cannot be hindered",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "you cannot be hindered",
+        "trade_ids": [
+          "implicit.stat_721014846"
         ]
       }
     ]
