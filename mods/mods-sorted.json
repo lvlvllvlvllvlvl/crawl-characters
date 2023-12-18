@@ -1591,6 +1591,37 @@
     ]
   },
   {
+    "item": "Matua Tupuna",
+    "stats": "#% of physical damage from hits taken as fire damage",
+    "average": 21.5,
+    "prices": [
+      10,
+      10,
+      11,
+      20,
+      20,
+      25,
+      29,
+      30,
+      30,
+      30
+    ],
+    "search": {
+      "id": "PdlBV3ghL",
+      "complexity": 18,
+      "total": 32
+    },
+    "builds": 2,
+    "mods": [
+      {
+        "text": "#% of physical damage from hits taken as fire damage",
+        "trade_ids": [
+          "implicit.stat_3342989455"
+        ]
+      }
+    ]
+  },
+  {
     "item": "Heatshiver",
     "stats": "#% increased maximum life",
     "average": 16.8,
@@ -1796,6 +1827,19 @@
         "text": "damage penetrates #% elemental resistances",
         "trade_ids": [
           "implicit.stat_2101383955"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Bated Breath",
+    "stats": "wrath has #% increased aura effect",
+    "builds": 2,
+    "mods": [
+      {
+        "text": "wrath has #% increased aura effect",
+        "trade_ids": [
+          "implicit.stat_2181791238"
         ]
       }
     ]
@@ -2975,6 +3019,19 @@
         "text": "#% increased area of effect",
         "trade_ids": [
           "implicit.stat_280731498"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Severed in Sleep",
+    "stats": "#% chance to gain onslaught for # seconds on kill",
+    "builds": 2,
+    "mods": [
+      {
+        "text": "#% chance to gain onslaught for # seconds on kill",
+        "trade_ids": [
+          "implicit.stat_3023957681"
         ]
       }
     ]
@@ -4740,37 +4797,6 @@
   },
   {
     "item": "Matua Tupuna",
-    "stats": "#% of physical damage from hits taken as fire damage",
-    "average": 21.5,
-    "prices": [
-      10,
-      10,
-      11,
-      20,
-      20,
-      25,
-      29,
-      30,
-      30,
-      30
-    ],
-    "search": {
-      "id": "PdlBV3ghL",
-      "complexity": 18,
-      "total": 32
-    },
-    "builds": 1,
-    "mods": [
-      {
-        "text": "#% of physical damage from hits taken as fire damage",
-        "trade_ids": [
-          "implicit.stat_3342989455"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Matua Tupuna",
     "stats": "+# to level of socketed aoe gems, +# to level of socketed trap or mine gems",
     "average": null,
     "prices": [],
@@ -4971,6 +4997,15 @@
   {
     "item": "Sin Trek",
     "stats": "+# to level of socketed aura gems, +# to maximum endurance charges",
+    "average": 35,
+    "prices": [
+      35
+    ],
+    "search": {
+      "id": "EyDeL0Yf5",
+      "complexity": 29,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -4990,6 +5025,24 @@
   {
     "item": "Sin Trek",
     "stats": "+# to level of socketed gems",
+    "average": 10,
+    "prices": [
+      5,
+      5,
+      8,
+      10,
+      10,
+      10,
+      10,
+      10,
+      10,
+      10
+    ],
+    "search": {
+      "id": "mXjDWmwt6",
+      "complexity": 18,
+      "total": 48
+    },
     "builds": 1,
     "mods": [
       {
@@ -5003,6 +5056,13 @@
   {
     "item": "Call of the Brotherhood",
     "stats": "adds # to # lightning damage to spells and attacks, hatred has #% increased aura effect",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "mPakm7at6",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -5022,6 +5082,13 @@
   {
     "item": "Call of the Brotherhood",
     "stats": "adds # to # lightning damage to spells and attacks, bleeding cannot be inflicted on you",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "v3We26XhE",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -5041,6 +5108,24 @@
   {
     "item": "Call of the Brotherhood",
     "stats": "+#% to all elemental resistances",
+    "average": 18.4,
+    "prices": [
+      10,
+      12,
+      12,
+      15,
+      15,
+      15,
+      25,
+      25,
+      25,
+      30
+    ],
+    "search": {
+      "id": "LeV9n8jHn",
+      "complexity": 18,
+      "total": 23
+    },
     "builds": 1,
     "mods": [
       {
@@ -5054,6 +5139,15 @@
   {
     "item": "Call of the Brotherhood",
     "stats": "anger has #% increased aura effect, determination has #% increased aura effect",
+    "average": 20,
+    "prices": [
+      20
+    ],
+    "search": {
+      "id": "oZvaGQOFl",
+      "complexity": 29,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -5073,6 +5167,24 @@
   {
     "item": "Call of the Brotherhood",
     "stats": "zealotry has #% increased aura effect",
+    "average": 20.7,
+    "prices": [
+      6,
+      8,
+      10,
+      10,
+      20,
+      20,
+      30,
+      30,
+      33,
+      40
+    ],
+    "search": {
+      "id": "wpVlMn9ib",
+      "complexity": 18,
+      "total": 40
+    },
     "builds": 1,
     "mods": [
       {
@@ -5086,6 +5198,24 @@
   {
     "item": "Call of the Brotherhood",
     "stats": "#% increased strength, #% increased intelligence",
+    "average": 10.777777777777779,
+    "prices": [
+      8,
+      9,
+      10,
+      10,
+      10,
+      10,
+      10,
+      15,
+      15,
+      18
+    ],
+    "search": {
+      "id": "XkOE08kIP",
+      "complexity": 29,
+      "total": 31
+    },
     "builds": 1,
     "mods": [
       {
@@ -5105,6 +5235,13 @@
   {
     "item": "Call of the Brotherhood",
     "stats": "grants level # hatred skill, #% increased strength, #% increased intelligence",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "DLp8K6vu5",
+      "complexity": 20,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -5130,6 +5267,24 @@
   {
     "item": "Call of the Brotherhood",
     "stats": "wrath has #% increased aura effect",
+    "average": 12.9,
+    "prices": [
+      8,
+      9,
+      10,
+      14,
+      14,
+      14,
+      15,
+      15,
+      15,
+      15
+    ],
+    "search": {
+      "id": "OVwYd2VtE",
+      "complexity": 18,
+      "total": 45
+    },
     "builds": 1,
     "mods": [
       {
@@ -5143,6 +5298,24 @@
   {
     "item": "Call of the Brotherhood",
     "stats": "hatred has #% increased aura effect",
+    "average": 174.25,
+    "prices": [
+      100,
+      174.25,
+      174.25,
+      174.25,
+      174.25,
+      174.25,
+      174.25,
+      174.25,
+      505.325,
+      522.75
+    ],
+    "search": {
+      "id": "JYDZWMbUl",
+      "complexity": 18,
+      "total": 12
+    },
     "builds": 1,
     "mods": [
       {
@@ -5156,6 +5329,13 @@
   {
     "item": "Heatshiver",
     "stats": "+# to level of socketed duration gems, +# to level of socketed aoe gems",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "MvRLBlGcJ",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -5175,6 +5355,13 @@
   {
     "item": "Heatshiver",
     "stats": "+# to level of socketed projectile gems, #% increased maximum life",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "gXDZdRgUQ",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -5194,6 +5381,24 @@
   {
     "item": "Heatshiver",
     "stats": "#% increased effect of cold ailments",
+    "average": 9.4,
+    "prices": [
+      5,
+      5,
+      10,
+      10,
+      10,
+      10,
+      10,
+      10,
+      10,
+      14
+    ],
+    "search": {
+      "id": "4drzQXgt9",
+      "complexity": 18,
+      "total": 132
+    },
     "builds": 1,
     "mods": [
       {
@@ -5207,6 +5412,13 @@
   {
     "item": "Heatshiver",
     "stats": "+# to level of socketed duration gems, #% increased maximum life",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "kXjobJQh5",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -5633,19 +5845,6 @@
         "text": "anger has #% increased aura effect",
         "trade_ids": [
           "implicit.stat_1592278124"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Bated Breath",
-    "stats": "wrath has #% increased aura effect",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "wrath has #% increased aura effect",
-        "trade_ids": [
-          "implicit.stat_2181791238"
         ]
       }
     ]
@@ -6199,6 +6398,25 @@
         "text": "curse enemies with enfeeble on hit",
         "trade_ids": [
           "implicit.stat_1625819882"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Asenath's Gentle Touch",
+    "stats": "#% increased cast speed, #% increased maximum life",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "#% increased cast speed",
+        "trade_ids": [
+          "implicit.stat_2891184298"
+        ]
+      },
+      {
+        "text": "#% increased maximum life",
+        "trade_ids": [
+          "implicit.stat_983749596"
         ]
       }
     ]
@@ -7017,6 +7235,19 @@
         "text": "#% reduced effect of curses on you",
         "trade_ids": [
           "implicit.stat_3407849389"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Inspired Learning",
+    "stats": "corrupted blood cannot be inflicted on you",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "corrupted blood cannot be inflicted on you",
+        "trade_ids": [
+          "implicit.stat_1658498488"
         ]
       }
     ]
@@ -9657,19 +9888,6 @@
   },
   {
     "item": "Severed in Sleep",
-    "stats": "#% chance to gain onslaught for # seconds on kill",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "#% chance to gain onslaught for # seconds on kill",
-        "trade_ids": [
-          "implicit.stat_3023957681"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Severed in Sleep",
     "stats": "#% increased physical damage",
     "builds": 1,
     "mods": [
@@ -9902,6 +10120,39 @@
         "text": "+# to level of socketed minion gems",
         "trade_ids": [
           "implicit.stat_3604946673"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Seven-League Step",
+    "stats": "+#% chance to suppress spell damage",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "+#% chance to suppress spell damage",
+        "trade_ids": [
+          "implicit.stat_3680664274",
+          "implicit.stat_492027537"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Seven-League Step",
+    "stats": "+# to level of socketed aura gems, #% increased maximum life",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "+# to level of socketed aura gems",
+        "trade_ids": [
+          "implicit.stat_2452998583"
+        ]
+      },
+      {
+        "text": "#% increased maximum life",
+        "trade_ids": [
+          "implicit.stat_983749596"
         ]
       }
     ]
@@ -10839,25 +11090,6 @@
         "text": "#% increased area of effect",
         "trade_ids": [
           "implicit.stat_280731498"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Seven-League Step",
-    "stats": "+# to level of socketed aura gems, #% increased maximum life",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "+# to level of socketed aura gems",
-        "trade_ids": [
-          "implicit.stat_2452998583"
-        ]
-      },
-      {
-        "text": "#% increased maximum life",
-        "trade_ids": [
-          "implicit.stat_983749596"
         ]
       }
     ]
