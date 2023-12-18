@@ -13278,6 +13278,15 @@
   {
     "item": "Replica Voidwalker",
     "stats": "regenerate # life per second while moving",
+    "average": 50,
+    "prices": [
+      50
+    ],
+    "search": {
+      "id": "RVD9VYZI7",
+      "complexity": 18,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -13291,6 +13300,24 @@
   {
     "item": "Zeel's Amplifier",
     "stats": "+# to level of socketed aoe gems",
+    "average": 12,
+    "prices": [
+      8,
+      8,
+      10,
+      10,
+      12,
+      13,
+      14,
+      15,
+      15,
+      15
+    ],
+    "search": {
+      "id": "Zb4Eb8mHQ",
+      "complexity": 18,
+      "total": 39
+    },
     "builds": 1,
     "mods": [
       {
@@ -13304,6 +13331,15 @@
   {
     "item": "Zeel's Amplifier",
     "stats": "+# to level of socketed gems, #% of physical damage from hits taken as lightning damage",
+    "average": 174.68,
+    "prices": [
+      174.68
+    ],
+    "search": {
+      "id": "2BrRVbeUk",
+      "complexity": 29,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -13323,6 +13359,24 @@
   {
     "item": "Daresso's Defiance",
     "stats": "+# to level of socketed duration gems",
+    "average": 366.09399999999994,
+    "prices": [
+      80,
+      174.68,
+      174.68,
+      174.68,
+      349.36,
+      436.70000000000005,
+      524.04,
+      524.04,
+      524.04,
+      698.72
+    ],
+    "search": {
+      "id": "zerWLqLc4",
+      "complexity": 18,
+      "total": 16
+    },
     "builds": 1,
     "mods": [
       {
@@ -13336,6 +13390,24 @@
   {
     "item": "Surgebinders",
     "stats": "curse enemies with elemental weakness on hit",
+    "average": 174.68,
+    "prices": [
+      103,
+      120,
+      140,
+      150,
+      174.68,
+      174.68,
+      174.68,
+      174.68,
+      174.68,
+      349.36
+    ],
+    "search": {
+      "id": "YVqMpa6sY",
+      "complexity": 18,
+      "total": 18
+    },
     "builds": 1,
     "mods": [
       {
@@ -13349,6 +13421,13 @@
   {
     "item": "Surgebinders",
     "stats": "+# to level of socketed aura gems, curse enemies with elemental weakness on hit",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "jXZ4nRoTX",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -13368,6 +13447,24 @@
   {
     "item": "Cloak of Flame",
     "stats": "+# to level of socketed gems",
+    "average": 174.68000000000004,
+    "prices": [
+      150,
+      174.68,
+      174.68,
+      174.68,
+      174.68,
+      174.68,
+      174.68,
+      174.68,
+      192.14800000000002,
+      209.616
+    ],
+    "search": {
+      "id": "3Gwb5LGh5",
+      "complexity": 18,
+      "total": 67
+    },
     "builds": 1,
     "mods": [
       {
@@ -13381,6 +13478,24 @@
   {
     "item": "Cloak of Flame",
     "stats": "+# to level of socketed trap or mine gems",
+    "average": 17.11111111111111,
+    "prices": [
+      10,
+      15,
+      15,
+      15,
+      15,
+      15,
+      19,
+      20,
+      20,
+      20
+    ],
+    "search": {
+      "id": "BEXWzq4T8",
+      "complexity": 18,
+      "total": 44
+    },
     "builds": 1,
     "mods": [
       {
@@ -13394,6 +13509,13 @@
   {
     "item": "The Squire",
     "stats": "you take #% reduced extra damage from critical strikes, #% increased maximum life",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "Pd8pwJMhL",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -13413,6 +13535,24 @@
   {
     "item": "Severed in Sleep",
     "stats": "#% increased attack speed",
+    "average": 11.2,
+    "prices": [
+      9,
+      10,
+      10,
+      10,
+      10,
+      10,
+      10,
+      13,
+      15,
+      15
+    ],
+    "search": {
+      "id": "y9R7VBlSR",
+      "complexity": 19,
+      "total": 22
+    },
     "builds": 1,
     "mods": [
       {
@@ -13427,6 +13567,24 @@
   {
     "item": "Severed in Sleep",
     "stats": "#% increased physical damage",
+    "average": 12.1,
+    "prices": [
+      8,
+      8,
+      9,
+      10,
+      10,
+      10,
+      11,
+      15,
+      20,
+      20
+    ],
+    "search": {
+      "id": "4d95MJZt9",
+      "complexity": 18,
+      "total": 20
+    },
     "builds": 1,
     "mods": [
       {
@@ -13440,6 +13598,24 @@
   {
     "item": "Umbilicus Immortalis",
     "stats": "#% increased strength, #% increased intelligence",
+    "average": 75.404,
+    "prices": [
+      20,
+      20,
+      20,
+      20,
+      30,
+      35,
+      85,
+      174.68,
+      174.68,
+      174.68
+    ],
+    "search": {
+      "id": "MV5YWYMsJ",
+      "complexity": 29,
+      "total": 11
+    },
     "builds": 1,
     "mods": [
       {
@@ -13459,6 +13635,13 @@
   {
     "item": "Umbilicus Immortalis",
     "stats": "#% increased strength, #% increased dexterity, +#% to all elemental resistances",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "GkJ5moZcb",
+      "complexity": 20,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -13484,6 +13667,15 @@
   {
     "item": "Umbilicus Immortalis",
     "stats": "#% increased maximum energy shield",
+    "average": 139.744,
+    "prices": [
+      139.744
+    ],
+    "search": {
+      "id": "MVZbYLGUJ",
+      "complexity": 18,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -13497,6 +13689,20 @@
   {
     "item": "Saffell's Frame",
     "stats": "#% of physical damage from hits taken as chaos damage",
+    "average": 524.04,
+    "prices": [
+      436.70000000000005,
+      524.04,
+      524.04,
+      524.04,
+      611.38,
+      873.4000000000001
+    ],
+    "search": {
+      "id": "2BrBPO5hk",
+      "complexity": 18,
+      "total": 6
+    },
     "builds": 1,
     "mods": [
       {
