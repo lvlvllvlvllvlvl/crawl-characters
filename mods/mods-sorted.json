@@ -11735,6 +11735,15 @@
   {
     "item": "Perandus Blazon",
     "stats": "#% increased maximum energy shield, #% increased movement speed during any flask effect",
+    "average": 10,
+    "prices": [
+      10
+    ],
+    "search": {
+      "id": "KJXbbKMU5",
+      "complexity": 29,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -11754,6 +11763,13 @@
   {
     "item": "Perandus Blazon",
     "stats": "#% increased rarity of items found, zealotry has #% increased aura effect",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "LmonEMVhn",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -11773,6 +11789,24 @@
   {
     "item": "Sentari's Answer",
     "stats": "#% increased maximum life",
+    "average": 19.9,
+    "prices": [
+      5,
+      10,
+      10,
+      15,
+      20,
+      25,
+      25,
+      29,
+      30,
+      30
+    ],
+    "search": {
+      "id": "mXYGO9aC6",
+      "complexity": 18,
+      "total": 24
+    },
     "builds": 1,
     "mods": [
       {
@@ -11786,6 +11820,24 @@
   {
     "item": "Sentari's Answer",
     "stats": "#% of physical damage from hits taken as fire damage",
+    "average": 17,
+    "prices": [
+      5,
+      5,
+      10,
+      10,
+      15,
+      20,
+      20,
+      25,
+      30,
+      30
+    ],
+    "search": {
+      "id": "LeWraOlFn",
+      "complexity": 18,
+      "total": 28
+    },
     "builds": 1,
     "mods": [
       {
@@ -11799,6 +11851,24 @@
   {
     "item": "Sentari's Answer",
     "stats": "you take #% reduced extra damage from critical strikes",
+    "average": 10.555555555555555,
+    "prices": [
+      1,
+      4,
+      5,
+      10,
+      10,
+      10,
+      15,
+      20,
+      20,
+      30
+    ],
+    "search": {
+      "id": "8adzGlqCV",
+      "complexity": 18,
+      "total": 25
+    },
     "builds": 1,
     "mods": [
       {
@@ -11812,6 +11882,23 @@
   {
     "item": "Primordial Eminence",
     "stats": "corrupted blood cannot be inflicted on you",
+    "average": 480.8444444444445,
+    "prices": [
+      349,
+      349,
+      349,
+      349,
+      523.5,
+      523.5,
+      523.5,
+      663.1,
+      698
+    ],
+    "search": {
+      "id": "80ZJ5VZcV",
+      "complexity": 18,
+      "total": 9
+    },
     "builds": 1,
     "mods": [
       {
@@ -11825,6 +11912,13 @@
   {
     "item": "Thread of Hope",
     "stats": "damage penetrates #% fire resistance, you cannot be cursed with silence",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "kXlKda6I5",
+      "complexity": 30,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -11845,6 +11939,15 @@
   {
     "item": "Thread of Hope",
     "stats": "#% increased reservation efficiency of skills, damage penetrates #% lightning resistance",
+    "average": 523.5,
+    "prices": [
+      523.5
+    ],
+    "search": {
+      "id": "BEmJV2jt8",
+      "complexity": 31,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -11866,6 +11969,13 @@
   {
     "item": "Thread of Hope",
     "stats": "#% increased damage, #% increased reservation efficiency of skills",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "MVBnn6qUJ",
+      "complexity": 30,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -11886,6 +11996,13 @@
   {
     "item": "Thread of Hope",
     "stats": "damage penetrates #% cold resistance, damage penetrates #% lightning resistance",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "vlEwbeWtE",
+      "complexity": 31,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -11907,6 +12024,13 @@
   {
     "item": "Thread of Hope",
     "stats": "#% increased reservation efficiency of skills, damage penetrates #% elemental resistances",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "JYDBYZYsl",
+      "complexity": 30,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -11927,6 +12051,23 @@
   {
     "item": "Intuitive Leap",
     "stats": "you cannot be hindered",
+    "average": 174.5,
+    "prices": [
+      50,
+      80,
+      100,
+      174.5,
+      174.5,
+      174.5,
+      174.5,
+      174.5,
+      174.5
+    ],
+    "search": {
+      "id": "waPQLqKhb",
+      "complexity": 18,
+      "total": 9
+    },
     "builds": 1,
     "mods": [
       {
@@ -11940,6 +12081,18 @@
   {
     "item": "Intuitive Leap",
     "stats": "#% increased reservation efficiency of skills",
+    "average": 872.5,
+    "prices": [
+      698,
+      872.5,
+      872.5,
+      872.5
+    ],
+    "search": {
+      "id": "dPajBpOIJ",
+      "complexity": 19,
+      "total": 4
+    },
     "builds": 1,
     "mods": [
       {
@@ -11954,6 +12107,13 @@
   {
     "item": "Tanu Ahi",
     "stats": "+# to level of socketed duration gems, attacks have +#% to critical strike chance",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "Pd5D2mmiL",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -11973,6 +12133,24 @@
   {
     "item": "Tanu Ahi",
     "stats": "curse enemies with enfeeble on hit",
+    "average": 727.0833333333334,
+    "prices": [
+      174.5,
+      523.5,
+      610.75,
+      698,
+      698,
+      698,
+      698,
+      872.5,
+      872.5,
+      872.5
+    ],
+    "search": {
+      "id": "2BWwdYGsk",
+      "complexity": 18,
+      "total": 18
+    },
     "builds": 1,
     "mods": [
       {
