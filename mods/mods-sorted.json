@@ -6334,6 +6334,15 @@
   {
     "item": "Bated Breath",
     "stats": "#% increased dexterity, #% increased intelligence, #% increased maximum energy shield",
+    "average": 15,
+    "prices": [
+      15
+    ],
+    "search": {
+      "id": "7lKm9nlu5",
+      "complexity": 20,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -6359,6 +6368,24 @@
   {
     "item": "Bated Breath",
     "stats": "anger has #% increased aura effect",
+    "average": 10.9,
+    "prices": [
+      5,
+      8,
+      9,
+      10,
+      10,
+      10,
+      12,
+      15,
+      15,
+      15
+    ],
+    "search": {
+      "id": "jXZk6lZCX",
+      "complexity": 18,
+      "total": 25
+    },
     "builds": 1,
     "mods": [
       {
@@ -6372,6 +6399,24 @@
   {
     "item": "Shaper's Touch",
     "stats": "#% increased maximum energy shield",
+    "average": 10,
+    "prices": [
+      10,
+      10,
+      10,
+      10,
+      10,
+      10,
+      10,
+      11,
+      15,
+      15
+    ],
+    "search": {
+      "id": "VMgl2KlCp",
+      "complexity": 18,
+      "total": 84
+    },
     "builds": 1,
     "mods": [
       {
@@ -6385,6 +6430,24 @@
   {
     "item": "Shaper's Touch",
     "stats": "curse enemies with temporal chains on hit",
+    "average": 15,
+    "prices": [
+      10,
+      12,
+      15,
+      15,
+      15,
+      15,
+      15,
+      15,
+      15,
+      15
+    ],
+    "search": {
+      "id": "gXWRrJjhQ",
+      "complexity": 18,
+      "total": 130
+    },
     "builds": 1,
     "mods": [
       {
@@ -6398,6 +6461,22 @@
   {
     "item": "Greed's Embrace",
     "stats": "+# to level of socketed aoe gems, +# to level of socketed aura gems",
+    "average": 370.251,
+    "prices": [
+      176.31,
+      176.31,
+      352.62,
+      440.775,
+      705.24,
+      1410.48,
+      2115.7200000000003,
+      5289.3
+    ],
+    "search": {
+      "id": "9YD9l8yIK",
+      "complexity": 29,
+      "total": 8
+    },
     "builds": 1,
     "mods": [
       {
@@ -6417,6 +6496,24 @@
   {
     "item": "Greed's Embrace",
     "stats": "you take #% reduced extra damage from critical strikes",
+    "average": 6.6,
+    "prices": [
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      8,
+      9,
+      9,
+      10
+    ],
+    "search": {
+      "id": "LeWjZQZSn",
+      "complexity": 18,
+      "total": 204
+    },
     "builds": 1,
     "mods": [
       {
@@ -6430,6 +6527,17 @@
   {
     "item": "Greed's Embrace",
     "stats": "+# to level of socketed aoe gems, #% reduced lightning damage taken",
+    "average": 176.31,
+    "prices": [
+      40,
+      176.31,
+      176.31
+    ],
+    "search": {
+      "id": "jXJd8wdHX",
+      "complexity": 29,
+      "total": 3
+    },
     "builds": 1,
     "mods": [
       {
@@ -6449,6 +6557,24 @@
   {
     "item": "Greed's Embrace",
     "stats": "#% reduced cold damage taken",
+    "average": 9.1,
+    "prices": [
+      2,
+      5,
+      5,
+      10,
+      10,
+      10,
+      10,
+      10,
+      14,
+      15
+    ],
+    "search": {
+      "id": "vlG5Ew9fE",
+      "complexity": 18,
+      "total": 115
+    },
     "builds": 1,
     "mods": [
       {
@@ -6462,6 +6588,24 @@
   {
     "item": "Greed's Embrace",
     "stats": "#% increased damage",
+    "average": 8.1,
+    "prices": [
+      5,
+      5,
+      5,
+      6,
+      10,
+      10,
+      10,
+      10,
+      10,
+      10
+    ],
+    "search": {
+      "id": "Ey6EjzVI5",
+      "complexity": 18,
+      "total": 302
+    },
     "builds": 1,
     "mods": [
       {
@@ -6475,6 +6619,24 @@
   {
     "item": "Greed's Embrace",
     "stats": "+# to level of socketed projectile gems",
+    "average": 6.5,
+    "prices": [
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      10,
+      10,
+      10
+    ],
+    "search": {
+      "id": "6Gqw55qsG",
+      "complexity": 18,
+      "total": 381
+    },
     "builds": 1,
     "mods": [
       {
@@ -6488,6 +6650,24 @@
   {
     "item": "Greed's Embrace",
     "stats": "#% reduced fire damage taken",
+    "average": 8,
+    "prices": [
+      2,
+      5,
+      5,
+      5,
+      7,
+      10,
+      10,
+      10,
+      10,
+      10
+    ],
+    "search": {
+      "id": "VMg46mgfp",
+      "complexity": 18,
+      "total": 115
+    },
     "builds": 1,
     "mods": [
       {
@@ -6501,6 +6681,16 @@
   {
     "item": "Greed's Embrace",
     "stats": "+# to level of socketed minion gems, #% reduced lightning damage taken",
+    "average": 573.0075,
+    "prices": [
+      88.155,
+      1057.8600000000001
+    ],
+    "search": {
+      "id": "EymnKQBs5",
+      "complexity": 29,
+      "total": 2
+    },
     "builds": 1,
     "mods": [
       {
@@ -6520,6 +6710,24 @@
   {
     "item": "Greed's Embrace",
     "stats": "+# to level of socketed warcry gems",
+    "average": 7.3,
+    "prices": [
+      4,
+      5,
+      5,
+      5,
+      5,
+      9,
+      10,
+      10,
+      10,
+      10
+    ],
+    "search": {
+      "id": "YVqMX5kUY",
+      "complexity": 18,
+      "total": 122
+    },
     "builds": 1,
     "mods": [
       {
@@ -6533,6 +6741,24 @@
   {
     "item": "Sadima's Touch",
     "stats": "curse enemies with despair on hit",
+    "average": 8.1,
+    "prices": [
+      5,
+      5,
+      5,
+      8,
+      9,
+      9,
+      10,
+      10,
+      10,
+      10
+    ],
+    "search": {
+      "id": "v3mvnDMCE",
+      "complexity": 18,
+      "total": 204
+    },
     "builds": 1,
     "mods": [
       {
@@ -6546,6 +6772,13 @@
   {
     "item": "Sadima's Touch",
     "stats": "+# to level of socketed duration gems, attacks have +#% to critical strike chance",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "3BWqobds5",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
