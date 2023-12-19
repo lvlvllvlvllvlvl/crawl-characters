@@ -10451,6 +10451,13 @@
   {
     "item": "Lightning Coil",
     "stats": "#% increased damage, #% reduced lightning damage taken",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "XqDYal7CP",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -10470,6 +10477,24 @@
   {
     "item": "Lightning Coil",
     "stats": "#% increased damage",
+    "average": 66.8,
+    "prices": [
+      40,
+      40,
+      49,
+      60,
+      65,
+      75,
+      80,
+      84,
+      85,
+      90
+    ],
+    "search": {
+      "id": "DGEGlVVc5",
+      "complexity": 18,
+      "total": 66
+    },
     "builds": 1,
     "mods": [
       {
@@ -10483,6 +10508,24 @@
   {
     "item": "Lightning Coil",
     "stats": "+# to level of socketed minion gems",
+    "average": 517.6070000000001,
+    "prices": [
+      350.92,
+      350.92,
+      350.92,
+      350.92,
+      438.65000000000003,
+      526.38,
+      526.38,
+      526.38,
+      877.3000000000001,
+      877.3000000000001
+    ],
+    "search": {
+      "id": "8aprQ3VTV",
+      "complexity": 18,
+      "total": 23
+    },
     "builds": 1,
     "mods": [
       {
@@ -10496,6 +10539,24 @@
   {
     "item": "Lightning Coil",
     "stats": "+#% to all maximum resistances",
+    "average": 16.1,
+    "prices": [
+      9,
+      10,
+      14,
+      15,
+      15,
+      18,
+      20,
+      20,
+      20,
+      20
+    ],
+    "search": {
+      "id": "80Z0zlZcV",
+      "complexity": 18,
+      "total": 38
+    },
     "builds": 1,
     "mods": [
       {
@@ -10509,6 +10570,24 @@
   {
     "item": "The Magnate",
     "stats": "+#% to critical strike multiplier during any flask effect",
+    "average": 347.41080000000005,
+    "prices": [
+      175.46,
+      175.46,
+      315.82800000000003,
+      350.92,
+      350.92,
+      350.92,
+      350.92,
+      350.92,
+      526.38,
+      526.38
+    ],
+    "search": {
+      "id": "y9RWXZ8IR",
+      "complexity": 18,
+      "total": 18
+    },
     "builds": 1,
     "mods": [
       {
@@ -10522,6 +10601,24 @@
   {
     "item": "The Magnate",
     "stats": "hatred has #% increased aura effect",
+    "average": 175.46,
+    "prices": [
+      50,
+      120,
+      175.46,
+      175.46,
+      175.46,
+      175.46,
+      175.46,
+      175.46,
+      263.19,
+      350.92
+    ],
+    "search": {
+      "id": "RVBg6k4I7",
+      "complexity": 18,
+      "total": 23
+    },
     "builds": 1,
     "mods": [
       {
@@ -10535,6 +10632,19 @@
   {
     "item": "The Magnate",
     "stats": "+#% to all elemental resistances",
+    "average": 309.9793333333334,
+    "prices": [
+      263.19,
+      315.82800000000003,
+      350.92,
+      877.3000000000001,
+      7544.780000000001
+    ],
+    "search": {
+      "id": "mXjMRMeT6",
+      "complexity": 18,
+      "total": 5
+    },
     "builds": 1,
     "mods": [
       {
@@ -10548,6 +10658,24 @@
   {
     "item": "Abyssus",
     "stats": "+# to maximum power charges",
+    "average": 58.7,
+    "prices": [
+      15,
+      20,
+      49,
+      50,
+      50,
+      60,
+      75,
+      80,
+      88,
+      100
+    ],
+    "search": {
+      "id": "aqeEGJ7se",
+      "complexity": 18,
+      "total": 27
+    },
     "builds": 1,
     "mods": [
       {
@@ -10561,6 +10689,24 @@
   {
     "item": "Voidforge",
     "stats": "#% increased elemental damage with attack skills",
+    "average": 5176.07,
+    "prices": [
+      4035.5800000000004,
+      4386.5,
+      4035.5800000000004,
+      4561.96,
+      4912.88,
+      5088.34,
+      5965.64,
+      6141.1,
+      6316.56,
+      6316.56
+    ],
+    "search": {
+      "id": "rXmE2XmfQ",
+      "complexity": 18,
+      "total": 13
+    },
     "builds": 1,
     "mods": [
       {
@@ -10574,6 +10720,24 @@
   {
     "item": "Ceinture of Benevolence",
     "stats": "#% increased maximum energy shield",
+    "average": 100.67250000000001,
+    "prices": [
+      10,
+      30,
+      40,
+      99,
+      100,
+      175.46,
+      175.46,
+      175.46,
+      350.92,
+      1228.22
+    ],
+    "search": {
+      "id": "XkOX59dCP",
+      "complexity": 18,
+      "total": 10
+    },
     "builds": 1,
     "mods": [
       {
@@ -10587,6 +10751,24 @@
   {
     "item": "Ceinture of Benevolence",
     "stats": "#% increased area of effect",
+    "average": 15.6,
+    "prices": [
+      3,
+      8,
+      10,
+      10,
+      10,
+      10,
+      20,
+      25,
+      30,
+      30
+    ],
+    "search": {
+      "id": "LmoGMRGSn",
+      "complexity": 18,
+      "total": 14
+    },
     "builds": 1,
     "mods": [
       {
@@ -10600,6 +10782,24 @@
   {
     "item": "Ceinture of Benevolence",
     "stats": "grace has #% increased aura effect",
+    "average": 22.875,
+    "prices": [
+      10,
+      13,
+      20,
+      20,
+      30,
+      30,
+      30,
+      30,
+      45,
+      175.46
+    ],
+    "search": {
+      "id": "eXvX9pghL",
+      "complexity": 18,
+      "total": 15
+    },
     "builds": 1,
     "mods": [
       {
@@ -10613,6 +10813,24 @@
   {
     "item": "Ceinture of Benevolence",
     "stats": "#% increased dexterity, #% increased intelligence",
+    "average": 21,
+    "prices": [
+      5,
+      9,
+      10,
+      23,
+      30,
+      30,
+      40,
+      100,
+      125,
+      175.46
+    ],
+    "search": {
+      "id": "z27GVXRI4",
+      "complexity": 29,
+      "total": 15
+    },
     "builds": 1,
     "mods": [
       {
@@ -10632,6 +10850,24 @@
   {
     "item": "Ceinture of Benevolence",
     "stats": "anger has #% increased aura effect",
+    "average": 26.119999999999997,
+    "prices": [
+      6,
+      10,
+      13,
+      23.2,
+      30,
+      30,
+      30,
+      30,
+      39,
+      50
+    ],
+    "search": {
+      "id": "2Ba6Ypjhk",
+      "complexity": 18,
+      "total": 18
+    },
     "builds": 1,
     "mods": [
       {
@@ -10645,6 +10881,15 @@
   {
     "item": "Ceinture of Benevolence",
     "stats": "#% increased maximum energy shield, #% increased cast speed during any flask effect",
+    "average": 350.92,
+    "prices": [
+      350.92
+    ],
+    "search": {
+      "id": "kXlZRd3U5",
+      "complexity": 29,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
