@@ -2882,6 +2882,37 @@
     ]
   },
   {
+    "item": "Lightning Coil",
+    "stats": "+# to level of socketed aoe gems",
+    "average": 266.2281,
+    "prices": [
+      176.31,
+      176.31,
+      229.203,
+      246.83399999999997,
+      264.46500000000003,
+      264.46500000000003,
+      282.096,
+      317.358,
+      352.62,
+      352.62
+    ],
+    "search": {
+      "id": "YD0Dv96UY",
+      "complexity": 18,
+      "total": 45
+    },
+    "builds": 2,
+    "mods": [
+      {
+        "text": "+# to level of socketed aoe gems",
+        "trade_ids": [
+          "implicit.stat_2551600084"
+        ]
+      }
+    ]
+  },
+  {
     "item": "Darkray Vectors",
     "stats": "+# to level of socketed gems",
     "average": 10,
@@ -3024,6 +3055,37 @@
       "id": "jPpMq8btX",
       "complexity": 18,
       "total": 26
+    },
+    "builds": 2,
+    "mods": [
+      {
+        "text": "+# to level of socketed aoe gems",
+        "trade_ids": [
+          "implicit.stat_2551600084"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Vixen's Entrapment",
+    "stats": "+# to level of socketed aoe gems",
+    "average": 23.5,
+    "prices": [
+      9,
+      10,
+      10,
+      19,
+      30,
+      30,
+      40,
+      40,
+      60,
+      99
+    ],
+    "search": {
+      "id": "JVdkbvbhl",
+      "complexity": 18,
+      "total": 16
     },
     "builds": 2,
     "mods": [
@@ -10888,37 +10950,6 @@
   },
   {
     "item": "Lightning Coil",
-    "stats": "+# to level of socketed aoe gems",
-    "average": 266.2281,
-    "prices": [
-      176.31,
-      176.31,
-      229.203,
-      246.83399999999997,
-      264.46500000000003,
-      264.46500000000003,
-      282.096,
-      317.358,
-      352.62,
-      352.62
-    ],
-    "search": {
-      "id": "YD0Dv96UY",
-      "complexity": 18,
-      "total": 45
-    },
-    "builds": 1,
-    "mods": [
-      {
-        "text": "+# to level of socketed aoe gems",
-        "trade_ids": [
-          "implicit.stat_2551600084"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Lightning Coil",
     "stats": "#% increased damage, #% reduced lightning damage taken",
     "average": null,
     "prices": [],
@@ -11670,6 +11701,19 @@
   {
     "item": "Might of the Meek",
     "stats": "you cannot be cursed with silence",
+    "average": 15.5,
+    "prices": [
+      7,
+      15,
+      20,
+      20,
+      55
+    ],
+    "search": {
+      "id": "BGrV83KC8",
+      "complexity": 18,
+      "total": 5
+    },
     "builds": 1,
     "mods": [
       {
@@ -11683,6 +11727,24 @@
   {
     "item": "Might of the Meek",
     "stats": "you cannot be hindered",
+    "average": 19.285714285714285,
+    "prices": [
+      10,
+      10,
+      15,
+      20,
+      20,
+      30,
+      30,
+      70,
+      100,
+      110
+    ],
+    "search": {
+      "id": "RVBXglWU7",
+      "complexity": 18,
+      "total": 11
+    },
     "builds": 1,
     "mods": [
       {
@@ -11696,6 +11758,23 @@
   {
     "item": "Might of the Meek",
     "stats": "damage penetrates #% lightning resistance",
+    "average": 52.21555555555556,
+    "prices": [
+      8,
+      9,
+      10,
+      10,
+      10,
+      30,
+      40,
+      176.47,
+      176.47
+    ],
+    "search": {
+      "id": "lXODXjrhV",
+      "complexity": 19,
+      "total": 9
+    },
     "builds": 1,
     "mods": [
       {
@@ -11710,6 +11789,22 @@
   {
     "item": "Might of the Meek",
     "stats": "#% increased global critical strike chance",
+    "average": 146.76425,
+    "prices": [
+      30,
+      50,
+      176.47,
+      176.47,
+      176.47,
+      176.47,
+      176.47,
+      211.76399999999998
+    ],
+    "search": {
+      "id": "3Gw30nJU5",
+      "complexity": 18,
+      "total": 8
+    },
     "builds": 1,
     "mods": [
       {
@@ -11723,6 +11818,13 @@
   {
     "item": "Unnatural Instinct",
     "stats": "#% increased global critical strike chance, damage penetrates #% cold resistance",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "WVkzPqRfm",
+      "complexity": 30,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -11743,6 +11845,13 @@
   {
     "item": "Unnatural Instinct",
     "stats": "damage penetrates #% cold resistance, damage penetrates #% lightning resistance",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "GkOz8ooub",
+      "complexity": 31,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -11764,6 +11873,17 @@
   {
     "item": "Unnatural Instinct",
     "stats": "#% increased reservation efficiency of skills, corrupted blood cannot be inflicted on you",
+    "average": 12970.545,
+    "prices": [
+      12882.31,
+      13058.78,
+      17470.53
+    ],
+    "search": {
+      "id": "80Z8EB2cV",
+      "complexity": 30,
+      "total": 3
+    },
     "builds": 1,
     "mods": [
       {
@@ -11784,6 +11904,13 @@
   {
     "item": "Unnatural Instinct",
     "stats": "#% reduced bleed duration on you, you cannot be hindered",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "6ZY69bbhG",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -11803,6 +11930,13 @@
   {
     "item": "Unnatural Instinct",
     "stats": "#% increased damage, #% increased area of effect",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "KJDLoqRi5",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -11822,6 +11956,13 @@
   {
     "item": "Unnatural Instinct",
     "stats": "#% reduced effect of chill on you, #% increased area of effect",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "y9OdoVjcR",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -11841,6 +11982,15 @@
   {
     "item": "Unnatural Instinct",
     "stats": "damage penetrates #% lightning resistance, #% reduced effect of shock on you",
+    "average": 529.41,
+    "prices": [
+      529.41
+    ],
+    "search": {
+      "id": "dXJVXvvUJ",
+      "complexity": 30,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -11861,6 +12011,13 @@
   {
     "item": "Unnatural Instinct",
     "stats": "#% increased global critical strike chance, #% reduced bleed duration on you",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "gX4ea72cQ",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -11880,6 +12037,15 @@
   {
     "item": "Unnatural Instinct",
     "stats": "damage penetrates #% elemental resistances, corrupted blood cannot be inflicted on you",
+    "average": 7941.15,
+    "prices": [
+      7941.15
+    ],
+    "search": {
+      "id": "rXj9DVMHQ",
+      "complexity": 29,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -11899,6 +12065,13 @@
   {
     "item": "Leper's Alms",
     "stats": "#% of physical damage from hits taken as lightning damage, #% reduced damage taken from projectile hits",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "VMpJL9whp",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -11911,19 +12084,6 @@
         "text": "#% reduced damage taken from projectile hits",
         "trade_ids": [
           "implicit.stat_1425651005"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Vixen's Entrapment",
-    "stats": "+# to level of socketed aoe gems",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "+# to level of socketed aoe gems",
-        "trade_ids": [
-          "implicit.stat_2551600084"
         ]
       }
     ]
