@@ -5040,6 +5040,24 @@
   {
     "item": "Southbound",
     "stats": "attacks have +#% to critical strike chance",
+    "average": 5.111111111111111,
+    "prices": [
+      3,
+      3,
+      3,
+      5,
+      5,
+      5,
+      7,
+      7,
+      8,
+      10
+    ],
+    "search": {
+      "id": "oX5GZ7qIl",
+      "complexity": 18,
+      "total": 90
+    },
     "builds": 1,
     "mods": [
       {
@@ -5053,6 +5071,24 @@
   {
     "item": "Demon Stitcher",
     "stats": "+# to level of socketed aura gems",
+    "average": 7.888888888888889,
+    "prices": [
+      5,
+      5,
+      5,
+      8,
+      8,
+      10,
+      10,
+      10,
+      10,
+      14
+    ],
+    "search": {
+      "id": "8a2GpmBIV",
+      "complexity": 18,
+      "total": 55
+    },
     "builds": 1,
     "mods": [
       {
@@ -5066,6 +5102,16 @@
   {
     "item": "Matua Tupuna",
     "stats": "+# to level of socketed duration gems, #% increased maximum energy shield",
+    "average": 182.61,
+    "prices": [
+      5,
+      360.22
+    ],
+    "search": {
+      "id": "rXDbydguQ",
+      "complexity": 29,
+      "total": 2
+    },
     "builds": 1,
     "mods": [
       {
@@ -5085,6 +5131,13 @@
   {
     "item": "Matua Tupuna",
     "stats": "+# to level of socketed gems, #% increased maximum energy shield",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "RVYRokac7",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -5104,6 +5157,13 @@
   {
     "item": "Matua Tupuna",
     "stats": "+# to level of socketed aoe gems, +#% to maximum chance to block attack damage",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "GkWVPQBtb",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -5123,6 +5183,13 @@
   {
     "item": "Matua Tupuna",
     "stats": "+# to level of socketed aoe gems, +# to level of socketed trap or mine gems",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "Ey6lVBVu5",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -5142,6 +5209,15 @@
   {
     "item": "Matua Tupuna",
     "stats": "+# to level of socketed aura gems, #% reduced area damage taken from hits",
+    "average": 720.44,
+    "prices": [
+      720.44
+    ],
+    "search": {
+      "id": "nXm4lKBu0",
+      "complexity": 29,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -5161,6 +5237,24 @@
   {
     "item": "Matua Tupuna",
     "stats": "you take #% reduced extra damage from critical strikes",
+    "average": 8.333333333333334,
+    "prices": [
+      5,
+      5,
+      5,
+      10,
+      10,
+      10,
+      10,
+      10,
+      10,
+      15
+    ],
+    "search": {
+      "id": "0Bya7ZYFg",
+      "complexity": 18,
+      "total": 36
+    },
     "builds": 1,
     "mods": [
       {
@@ -5174,6 +5268,24 @@
   {
     "item": "Matua Tupuna",
     "stats": "#% increased maximum energy shield",
+    "average": 6.5,
+    "prices": [
+      2,
+      3,
+      5,
+      5,
+      5,
+      5,
+      10,
+      10,
+      10,
+      10
+    ],
+    "search": {
+      "id": "LeW45Y7sn",
+      "complexity": 18,
+      "total": 42
+    },
     "builds": 1,
     "mods": [
       {
@@ -5187,6 +5299,13 @@
   {
     "item": "Matua Tupuna",
     "stats": "+# to level of socketed gems, +# to level of socketed duration gems",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "RVBLvorh7",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -5206,6 +5325,24 @@
   {
     "item": "Matua Tupuna",
     "stats": "+# to level of socketed duration gems",
+    "average": 10,
+    "prices": [
+      5,
+      5,
+      5,
+      10,
+      10,
+      10,
+      10,
+      15,
+      15,
+      15
+    ],
+    "search": {
+      "id": "eXW0Q3wUL",
+      "complexity": 18,
+      "total": 69
+    },
     "builds": 1,
     "mods": [
       {
@@ -5219,6 +5356,16 @@
   {
     "item": "Sin Trek",
     "stats": "+# to level of socketed aura gems, +# to global evasion rating while moving",
+    "average": 60,
+    "prices": [
+      50,
+      70
+    ],
+    "search": {
+      "id": "JVn8QVOcl",
+      "complexity": 29,
+      "total": 2
+    },
     "builds": 1,
     "mods": [
       {
@@ -5238,6 +5385,15 @@
   {
     "item": "Sin Trek",
     "stats": "+# to level of socketed aura gems, +# to maximum endurance charges",
+    "average": 35,
+    "prices": [
+      35
+    ],
+    "search": {
+      "id": "EyDeL0Yf5",
+      "complexity": 29,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -5257,6 +5413,24 @@
   {
     "item": "Sin Trek",
     "stats": "+# to level of socketed gems",
+    "average": 7.053999999999999,
+    "prices": [
+      3,
+      1.54,
+      4,
+      5,
+      8,
+      9,
+      10,
+      10,
+      10,
+      10
+    ],
+    "search": {
+      "id": "mXjDWmwt6",
+      "complexity": 18,
+      "total": 62
+    },
     "builds": 1,
     "mods": [
       {
@@ -5270,6 +5444,24 @@
   {
     "item": "Carcass Jack",
     "stats": "+# to level of socketed duration gems",
+    "average": 21.875,
+    "prices": [
+      10,
+      15,
+      20,
+      20,
+      20,
+      30,
+      30,
+      30,
+      60,
+      65
+    ],
+    "search": {
+      "id": "0BXn8pQUg",
+      "complexity": 18,
+      "total": 36
+    },
     "builds": 1,
     "mods": [
       {
