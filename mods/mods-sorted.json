@@ -1,5 +1,36 @@
 [
   {
+    "item": "String of Servitude",
+    "stats": "hatred has #% increased aura effect",
+    "average": 4.666666666666667,
+    "prices": [
+      3,
+      4,
+      4,
+      4,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5
+    ],
+    "search": {
+      "id": "OpJoQXOSE",
+      "complexity": 18,
+      "total": 143
+    },
+    "builds": 13,
+    "mods": [
+      {
+        "text": "hatred has #% increased aura effect",
+        "trade_ids": [
+          "implicit.stat_3742945352"
+        ]
+      }
+    ]
+  },
+  {
     "item": "Matua Tupuna",
     "stats": "+# to level of socketed aura gems",
     "average": 721.3086000000001,
@@ -26,37 +57,6 @@
         "text": "+# to level of socketed aura gems",
         "trade_ids": [
           "implicit.stat_2452998583"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "String of Servitude",
-    "stats": "hatred has #% increased aura effect",
-    "average": 4.666666666666667,
-    "prices": [
-      3,
-      4,
-      4,
-      4,
-      5,
-      5,
-      5,
-      5,
-      5,
-      5
-    ],
-    "search": {
-      "id": "OpJoQXOSE",
-      "complexity": 18,
-      "total": 143
-    },
-    "builds": 12,
-    "mods": [
-      {
-        "text": "hatred has #% increased aura effect",
-        "trade_ids": [
-          "implicit.stat_3742945352"
         ]
       }
     ]
@@ -617,6 +617,37 @@
     ]
   },
   {
+    "item": "Matua Tupuna",
+    "stats": "+# to level of socketed gems",
+    "average": 31.3,
+    "prices": [
+      25,
+      30,
+      30,
+      30,
+      30,
+      30,
+      30,
+      35,
+      36,
+      37
+    ],
+    "search": {
+      "id": "jPpRJKlTX",
+      "complexity": 18,
+      "total": 63
+    },
+    "builds": 5,
+    "mods": [
+      {
+        "text": "+# to level of socketed gems",
+        "trade_ids": [
+          "implicit.stat_2843100721"
+        ]
+      }
+    ]
+  },
+  {
     "item": "String of Servitude",
     "stats": "discipline has #% increased aura effect",
     "average": 1.6666666666666667,
@@ -710,32 +741,32 @@
     ]
   },
   {
-    "item": "Matua Tupuna",
-    "stats": "+# to level of socketed gems",
-    "average": 31.3,
+    "item": "Alpha's Howl",
+    "stats": "socketed skill gems get a #% cost & reservation multiplier",
+    "average": 538.29,
     "prices": [
-      25,
-      30,
-      30,
-      30,
-      30,
-      30,
-      30,
-      35,
-      36,
-      37
+      358.86,
+      448.57500000000005,
+      538.29,
+      538.29,
+      538.29,
+      538.29,
+      538.29,
+      538.29,
+      538.29,
+      1794.3000000000002
     ],
     "search": {
-      "id": "jPpRJKlTX",
+      "id": "DGEZWG2t5",
       "complexity": 18,
-      "total": 63
+      "total": 11
     },
-    "builds": 4,
+    "builds": 5,
     "mods": [
       {
-        "text": "+# to level of socketed gems",
+        "text": "socketed skill gems get a #% cost & reservation multiplier",
         "trade_ids": [
-          "implicit.stat_2843100721"
+          "implicit.stat_2865550257"
         ]
       }
     ]
@@ -891,37 +922,6 @@
         "text": "#% increased rarity of items found",
         "trade_ids": [
           "implicit.stat_3917489142"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Alpha's Howl",
-    "stats": "socketed skill gems get a #% cost & reservation multiplier",
-    "average": 538.29,
-    "prices": [
-      358.86,
-      448.57500000000005,
-      538.29,
-      538.29,
-      538.29,
-      538.29,
-      538.29,
-      538.29,
-      538.29,
-      1794.3000000000002
-    ],
-    "search": {
-      "id": "DGEZWG2t5",
-      "complexity": 18,
-      "total": 11
-    },
-    "builds": 4,
-    "mods": [
-      {
-        "text": "socketed skill gems get a #% cost & reservation multiplier",
-        "trade_ids": [
-          "implicit.stat_2865550257"
         ]
       }
     ]
@@ -7260,6 +7260,24 @@
   {
     "item": "The Annihilating Light",
     "stats": "#% chance to gain a power charge on critical strike",
+    "average": 21.3,
+    "prices": [
+      10,
+      10,
+      10,
+      20,
+      20,
+      20,
+      25,
+      30,
+      33,
+      35
+    ],
+    "search": {
+      "id": "PK7GzpZhL",
+      "complexity": 18,
+      "total": 34
+    },
     "builds": 1,
     "mods": [
       {
@@ -7273,6 +7291,13 @@
   {
     "item": "The Annihilating Light",
     "stats": "#% increased cast speed, #% increased critical strike chance",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "DGEDdB2f5",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -7292,6 +7317,13 @@
   {
     "item": "Invictus Solaris",
     "stats": "+# to level of socketed minion gems",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "jXR7WqltX",
+      "complexity": 18,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -7305,6 +7337,13 @@
   {
     "item": "Vaal Caress",
     "stats": "+# to level of socketed duration gems, +# to level of socketed aura gems",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "yrJ0p7rhR",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -7324,6 +7363,24 @@
   {
     "item": "Vaal Caress",
     "stats": "+# to level of socketed gems",
+    "average": 79.7,
+    "prices": [
+      55,
+      69,
+      70,
+      70,
+      74,
+      75,
+      90,
+      95,
+      99,
+      100
+    ],
+    "search": {
+      "id": "abo0rZRue",
+      "complexity": 18,
+      "total": 20
+    },
     "builds": 1,
     "mods": [
       {
@@ -7337,6 +7394,24 @@
   {
     "item": "Dendrobate",
     "stats": "+# to level of socketed duration gems",
+    "average": 17,
+    "prices": [
+      10,
+      10,
+      10,
+      10,
+      15,
+      15,
+      20,
+      20,
+      30,
+      30
+    ],
+    "search": {
+      "id": "4drQv4ZH9",
+      "complexity": 18,
+      "total": 89
+    },
     "builds": 1,
     "mods": [
       {
@@ -7350,6 +7425,15 @@
   {
     "item": "Dendrobate",
     "stats": "+# to level of socketed gems, +# to level of socketed duration gems",
+    "average": 12688.900000000001,
+    "prices": [
+      12688.900000000001
+    ],
+    "search": {
+      "id": "yrJqJ6qhR",
+      "complexity": 29,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -7369,6 +7453,13 @@
   {
     "item": "Dendrobate",
     "stats": "+# to level of socketed aoe gems, #% increased damage",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "vlPVe4zSE",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -7388,6 +7479,15 @@
   {
     "item": "Asenath's Gentle Touch",
     "stats": "+# to level of socketed warcry gems, curse enemies with enfeeble on hit",
+    "average": 181.27,
+    "prices": [
+      181.27
+    ],
+    "search": {
+      "id": "3BDl699I5",
+      "complexity": 29,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -7407,6 +7507,16 @@
   {
     "item": "Asenath's Gentle Touch",
     "stats": "#% increased attack speed, curse enemies with enfeeble on hit",
+    "average": 60,
+    "prices": [
+      40,
+      80
+    ],
+    "search": {
+      "id": "5okjk8Dia",
+      "complexity": 30,
+      "total": 2
+    },
     "builds": 1,
     "mods": [
       {
@@ -7427,6 +7537,16 @@
   {
     "item": "Asenath's Gentle Touch",
     "stats": "+# to level of socketed aura gems, curse enemies with vulnerability on hit",
+    "average": 453.175,
+    "prices": [
+      181.27,
+      725.08
+    ],
+    "search": {
+      "id": "vlPE4wLCE",
+      "complexity": 29,
+      "total": 2
+    },
     "builds": 1,
     "mods": [
       {
@@ -7446,6 +7566,18 @@
   {
     "item": "Asenath's Gentle Touch",
     "stats": "+# to level of socketed warcry gems, #% increased attack speed",
+    "average": 60,
+    "prices": [
+      35,
+      40,
+      65,
+      100
+    ],
+    "search": {
+      "id": "5odkd22Sa",
+      "complexity": 30,
+      "total": 4
+    },
     "builds": 1,
     "mods": [
       {
@@ -7466,6 +7598,15 @@
   {
     "item": "Asenath's Gentle Touch",
     "stats": "#% increased maximum energy shield, attacks have +#% to critical strike chance",
+    "average": 181.27,
+    "prices": [
+      181.27
+    ],
+    "search": {
+      "id": "2BaeBW5hk",
+      "complexity": 29,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -7485,6 +7626,13 @@
   {
     "item": "Asenath's Gentle Touch",
     "stats": "+# to level of socketed aura gems, curse enemies with elemental weakness on hit",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "YVRG64RhY",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -7504,6 +7652,13 @@
   {
     "item": "Asenath's Gentle Touch",
     "stats": "#% increased attack speed, #% increased cast speed",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "y9RLrPguR",
+      "complexity": 30,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -8703,6 +8858,19 @@
   },
   {
     "item": "Lori's Lantern",
+    "stats": "hatred has #% increased aura effect",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "hatred has #% increased aura effect",
+        "trade_ids": [
+          "implicit.stat_3742945352"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Lori's Lantern",
     "stats": "anger has #% increased aura effect, bleeding cannot be inflicted on you",
     "builds": 1,
     "mods": [
@@ -9093,6 +9261,37 @@
   },
   {
     "item": "Hands of the High Templar",
+    "stats": "+# to level of socketed gems, +# to level of socketed aoe gems, #% increased maximum life, curse enemies with vulnerability on hit",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "+# to level of socketed gems",
+        "trade_ids": [
+          "implicit.stat_2843100721"
+        ]
+      },
+      {
+        "text": "+# to level of socketed aoe gems",
+        "trade_ids": [
+          "implicit.stat_2551600084"
+        ]
+      },
+      {
+        "text": "#% increased maximum life",
+        "trade_ids": [
+          "implicit.stat_983749596"
+        ]
+      },
+      {
+        "text": "curse enemies with vulnerability on hit",
+        "trade_ids": [
+          "implicit.stat_3967845372"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Hands of the High Templar",
     "stats": "+# to level of socketed duration gems, +# to level of socketed projectile gems, +# to level of socketed curse gems",
     "builds": 1,
     "mods": [
@@ -9263,6 +9462,19 @@
         "text": "#% increased maximum energy shield",
         "trade_ids": [
           "implicit.stat_2482852589"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Headhunter",
+    "stats": "#% increased area of effect",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "#% increased area of effect",
+        "trade_ids": [
+          "implicit.stat_280731498"
         ]
       }
     ]
@@ -12522,6 +12734,40 @@
         "text": "+# to level of socketed projectile gems",
         "trade_ids": [
           "implicit.stat_2176571093"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Piscator's Vigil",
+    "stats": "adds # to # cold damage, #% increased attack speed",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "adds # to # cold damage",
+        "trade_ids": [
+          "implicit.stat_2387423236",
+          "implicit.stat_1037193709"
+        ]
+      },
+      {
+        "text": "#% increased attack speed",
+        "trade_ids": [
+          "implicit.stat_681332047",
+          "implicit.stat_210067635"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Esh's Mirror",
+    "stats": "+# to level of socketed aoe gems",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "+# to level of socketed aoe gems",
+        "trade_ids": [
+          "implicit.stat_2551600084"
         ]
       }
     ]
