@@ -4100,6 +4100,17 @@
   {
     "item": "Badge of the Brotherhood",
     "stats": "+#% to all elemental resistances",
+    "average": 722.52,
+    "prices": [
+      361.26,
+      722.52,
+      1083.78
+    ],
+    "search": {
+      "id": "4dla0gMH9",
+      "complexity": 18,
+      "total": 3
+    },
     "builds": 1,
     "mods": [
       {
@@ -4113,6 +4124,16 @@
   {
     "item": "Badge of the Brotherhood",
     "stats": "#% of cold damage leeched as life",
+    "average": 3070.71,
+    "prices": [
+      2709.45,
+      3431.97
+    ],
+    "search": {
+      "id": "9Yv62Y4iK",
+      "complexity": 19,
+      "total": 2
+    },
     "builds": 1,
     "mods": [
       {
@@ -4127,6 +4148,24 @@
   {
     "item": "Badge of the Brotherhood",
     "stats": "#% increased rarity of items found",
+    "average": 116.58899999999998,
+    "prices": [
+      70,
+      74,
+      80,
+      80,
+      100,
+      100,
+      120,
+      180.63,
+      180.63,
+      180.63
+    ],
+    "search": {
+      "id": "WVrDZMRfm",
+      "complexity": 18,
+      "total": 13
+    },
     "builds": 1,
     "mods": [
       {
@@ -4140,6 +4179,24 @@
   {
     "item": "Null and Void",
     "stats": "curse enemies with vulnerability on hit",
+    "average": 5,
+    "prices": [
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      8
+    ],
+    "search": {
+      "id": "BEDbEmKu8",
+      "complexity": 18,
+      "total": 40
+    },
     "builds": 1,
     "mods": [
       {
@@ -4153,6 +4210,24 @@
   {
     "item": "Null and Void",
     "stats": "+# to maximum frenzy charges",
+    "average": 18.9,
+    "prices": [
+      7,
+      10,
+      15,
+      15,
+      20,
+      20,
+      21,
+      25,
+      26,
+      30
+    ],
+    "search": {
+      "id": "PdaZZ9GhL",
+      "complexity": 18,
+      "total": 38
+    },
     "builds": 1,
     "mods": [
       {
@@ -4166,6 +4241,15 @@
   {
     "item": "The Fourth Vow",
     "stats": "+# to level of socketed minion gems, #% additional physical damage reduction while stationary",
+    "average": 180.63,
+    "prices": [
+      180.63
+    ],
+    "search": {
+      "id": "9Yv3JpKcK",
+      "complexity": 29,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -4185,6 +4269,24 @@
   {
     "item": "The Fourth Vow",
     "stats": "+# to level of socketed gems",
+    "average": 3108.843,
+    "prices": [
+      1896.615,
+      2167.56,
+      2330.127,
+      2709.45,
+      3522.285,
+      3612.6,
+      3612.6,
+      3612.6,
+      4515.75,
+      5418.9
+    ],
+    "search": {
+      "id": "VyBKDqPSp",
+      "complexity": 18,
+      "total": 21
+    },
     "builds": 1,
     "mods": [
       {
@@ -4198,6 +4300,13 @@
   {
     "item": "The Fourth Vow",
     "stats": "+# to level of socketed gems, #% increased damage",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "0BZLdGwUg",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -4217,6 +4326,24 @@
   {
     "item": "The Fourth Vow",
     "stats": "+# to level of socketed projectile gems",
+    "average": 32.3,
+    "prices": [
+      20,
+      25,
+      25,
+      30,
+      33,
+      35,
+      35,
+      40,
+      40,
+      40
+    ],
+    "search": {
+      "id": "Zb5kpJEHQ",
+      "complexity": 18,
+      "total": 46
+    },
     "builds": 1,
     "mods": [
       {
@@ -4230,6 +4357,19 @@
   {
     "item": "Victario's Influence",
     "stats": "+# to level of socketed duration gems, +# to level of socketed curse gems",
+    "average": 41,
+    "prices": [
+      5,
+      10,
+      40,
+      70,
+      80
+    ],
+    "search": {
+      "id": "3BZyPOdi5",
+      "complexity": 29,
+      "total": 5
+    },
     "builds": 1,
     "mods": [
       {
@@ -4249,6 +4389,24 @@
   {
     "item": "Victario's Influence",
     "stats": "+# to level of socketed trap or mine gems, #% increased damage",
+    "average": 115.11500000000001,
+    "prices": [
+      8,
+      20,
+      60,
+      60,
+      100,
+      180.63,
+      180.63,
+      180.63,
+      180.63,
+      180.63
+    ],
+    "search": {
+      "id": "qX3mKmLtg",
+      "complexity": 29,
+      "total": 12
+    },
     "builds": 1,
     "mods": [
       {
@@ -4268,6 +4426,24 @@
   {
     "item": "Victario's Influence",
     "stats": "+# to level of socketed gems, +# to level of socketed trap or mine gems",
+    "average": 247.756,
+    "prices": [
+      30,
+      80,
+      100,
+      100,
+      180.63,
+      180.63,
+      180.63,
+      541.89,
+      541.89,
+      541.89
+    ],
+    "search": {
+      "id": "4dlWXJZt9",
+      "complexity": 29,
+      "total": 14
+    },
     "builds": 1,
     "mods": [
       {
@@ -4287,6 +4463,24 @@
   {
     "item": "Victario's Influence",
     "stats": "+# to level of socketed projectile gems, +# to level of socketed aura gems",
+    "average": 379.323,
+    "prices": [
+      180.63,
+      180.63,
+      234.819,
+      270.945,
+      361.26,
+      541.89,
+      541.89,
+      722.52,
+      1354.725,
+      1806.3
+    ],
+    "search": {
+      "id": "bXWwyXdfL",
+      "complexity": 29,
+      "total": 10
+    },
     "builds": 1,
     "mods": [
       {
@@ -4306,6 +4500,17 @@
   {
     "item": "Victario's Influence",
     "stats": "+# to level of socketed trap or mine gems, #% increased maximum life",
+    "average": 40,
+    "prices": [
+      9,
+      40,
+      40
+    ],
+    "search": {
+      "id": "OVaB4MgHE",
+      "complexity": 29,
+      "total": 3
+    },
     "builds": 1,
     "mods": [
       {
@@ -4325,6 +4530,22 @@
   {
     "item": "Victario's Influence",
     "stats": "+# to level of socketed gems, #% additional physical damage reduction while stationary",
+    "average": 23,
+    "prices": [
+      15,
+      20,
+      20,
+      30,
+      30,
+      45,
+      722.52,
+      1806.3
+    ],
+    "search": {
+      "id": "jXZZ5YRuX",
+      "complexity": 29,
+      "total": 8
+    },
     "builds": 1,
     "mods": [
       {
