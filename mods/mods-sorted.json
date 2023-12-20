@@ -5351,6 +5351,24 @@
   {
     "item": "Carcass Jack",
     "stats": "+# to level of socketed duration gems",
+    "average": 25,
+    "prices": [
+      10,
+      20,
+      20,
+      20,
+      30,
+      30,
+      30,
+      40,
+      60,
+      70
+    ],
+    "search": {
+      "id": "0BXn8pQUg",
+      "complexity": 18,
+      "total": 36
+    },
     "builds": 1,
     "mods": [
       {
@@ -5364,6 +5382,24 @@
   {
     "item": "Carcass Jack",
     "stats": "+# to level of socketed trap or mine gems",
+    "average": 14.8,
+    "prices": [
+      10,
+      10,
+      10,
+      11,
+      15,
+      15,
+      17,
+      20,
+      20,
+      20
+    ],
+    "search": {
+      "id": "XqbmDMWTP",
+      "complexity": 18,
+      "total": 36
+    },
     "builds": 1,
     "mods": [
       {
@@ -12527,6 +12563,15 @@
   {
     "item": "Thread of Hope",
     "stats": "damage penetrates #% fire resistance, you cannot be cursed with silence",
+    "average": 120,
+    "prices": [
+      120
+    ],
+    "search": {
+      "id": "kXlKda6I5",
+      "complexity": 30,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -12547,6 +12592,16 @@
   {
     "item": "Thread of Hope",
     "stats": "#% increased reservation efficiency of skills, damage penetrates #% lightning resistance",
+    "average": 357.86,
+    "prices": [
+      178.93,
+      536.79
+    ],
+    "search": {
+      "id": "BEmJV2jt8",
+      "complexity": 31,
+      "total": 2
+    },
     "builds": 1,
     "mods": [
       {
@@ -12568,6 +12623,15 @@
   {
     "item": "Thread of Hope",
     "stats": "#% increased damage, #% increased reservation efficiency of skills",
+    "average": 3578.6000000000004,
+    "prices": [
+      3578.6000000000004
+    ],
+    "search": {
+      "id": "MVBnn6qUJ",
+      "complexity": 30,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -12588,6 +12652,13 @@
   {
     "item": "Thread of Hope",
     "stats": "damage penetrates #% cold resistance, damage penetrates #% lightning resistance",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "vlEwbeWtE",
+      "complexity": 31,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -12609,6 +12680,13 @@
   {
     "item": "Thread of Hope",
     "stats": "#% increased reservation efficiency of skills, damage penetrates #% elemental resistances",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "JYDBYZYsl",
+      "complexity": 30,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -12629,6 +12707,24 @@
   {
     "item": "Intuitive Leap",
     "stats": "you cannot be hindered",
+    "average": 96.17900000000002,
+    "prices": [
+      45,
+      45,
+      50,
+      50,
+      55,
+      80,
+      100,
+      178.93,
+      178.93,
+      178.93
+    ],
+    "search": {
+      "id": "waPQLqKhb",
+      "complexity": 18,
+      "total": 12
+    },
     "builds": 1,
     "mods": [
       {
@@ -12642,6 +12738,22 @@
   {
     "item": "Intuitive Leap",
     "stats": "#% increased reservation efficiency of skills",
+    "average": 740.3228750000001,
+    "prices": [
+      644.148,
+      662.041,
+      679.934,
+      715.72,
+      715.72,
+      715.72,
+      894.6500000000001,
+      894.6500000000001
+    ],
+    "search": {
+      "id": "dPajBpOIJ",
+      "complexity": 19,
+      "total": 8
+    },
     "builds": 1,
     "mods": [
       {
@@ -12656,6 +12768,15 @@
   {
     "item": "Tanu Ahi",
     "stats": "+# to level of socketed duration gems, attacks have +#% to critical strike chance",
+    "average": 894.6500000000001,
+    "prices": [
+      894.6500000000001
+    ],
+    "search": {
+      "id": "Pd5D2mmiL",
+      "complexity": 29,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -12675,6 +12796,24 @@
   {
     "item": "Tanu Ahi",
     "stats": "curse enemies with enfeeble on hit",
+    "average": 532.31675,
+    "prices": [
+      447.32500000000005,
+      501.00399999999996,
+      518.897,
+      518.897,
+      536.79,
+      536.79,
+      536.79,
+      536.79,
+      536.79,
+      536.79
+    ],
+    "search": {
+      "id": "2BWwdYGsk",
+      "complexity": 18,
+      "total": 24
+    },
     "builds": 1,
     "mods": [
       {
@@ -12688,6 +12827,24 @@
   {
     "item": "Tanu Ahi",
     "stats": "attacks have +#% to critical strike chance",
+    "average": 207.55880000000002,
+    "prices": [
+      178.93,
+      178.93,
+      178.93,
+      178.93,
+      178.93,
+      178.93,
+      214.716,
+      250.50199999999998,
+      268.395,
+      268.395
+    ],
+    "search": {
+      "id": "nXJBg42T0",
+      "complexity": 18,
+      "total": 69
+    },
     "builds": 1,
     "mods": [
       {
@@ -12701,6 +12858,17 @@
   {
     "item": "Dissolution of the Flesh",
     "stats": "damage penetrates #% elemental resistances",
+    "average": 139.13166666666666,
+    "prices": [
+      49,
+      100,
+      268.395
+    ],
+    "search": {
+      "id": "vlqGP3BTE",
+      "complexity": 18,
+      "total": 3
+    },
     "builds": 1,
     "mods": [
       {
@@ -12714,6 +12882,15 @@
   {
     "item": "Crown of Thorns",
     "stats": "#% increased area of effect",
+    "average": 50,
+    "prices": [
+      50
+    ],
+    "search": {
+      "id": "BED35jLs8",
+      "complexity": 18,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -12727,6 +12904,13 @@
   {
     "item": "Corpsewalker",
     "stats": "#% increased maximum energy shield, #% increased movement speed",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "OVDEg6VHE",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
