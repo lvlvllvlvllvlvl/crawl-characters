@@ -513,6 +513,37 @@
     ]
   },
   {
+    "item": "Shadows and Dust",
+    "stats": "attacks have +#% to critical strike chance",
+    "average": 379.3316,
+    "prices": [
+      322.074,
+      357.86,
+      357.86,
+      357.86,
+      357.86,
+      357.86,
+      357.86,
+      429.432,
+      447.32500000000005,
+      447.32500000000005
+    ],
+    "search": {
+      "id": "2BrO0y5sk",
+      "complexity": 18,
+      "total": 43
+    },
+    "builds": 6,
+    "mods": [
+      {
+        "text": "attacks have +#% to critical strike chance",
+        "trade_ids": [
+          "implicit.stat_2572042788"
+        ]
+      }
+    ]
+  },
+  {
     "item": "Oskarm",
     "stats": "curse enemies with vulnerability on hit",
     "average": 178.93000000000004,
@@ -637,37 +668,6 @@
     ]
   },
   {
-    "item": "Shadows and Dust",
-    "stats": "attacks have +#% to critical strike chance",
-    "average": 379.3316,
-    "prices": [
-      322.074,
-      357.86,
-      357.86,
-      357.86,
-      357.86,
-      357.86,
-      357.86,
-      429.432,
-      447.32500000000005,
-      447.32500000000005
-    ],
-    "search": {
-      "id": "2BrO0y5sk",
-      "complexity": 18,
-      "total": 43
-    },
-    "builds": 5,
-    "mods": [
-      {
-        "text": "attacks have +#% to critical strike chance",
-        "trade_ids": [
-          "implicit.stat_2572042788"
-        ]
-      }
-    ]
-  },
-  {
     "item": "Prism Guardian",
     "stats": "+# to level of socketed aoe gems",
     "average": 715.7200000000001,
@@ -756,6 +756,37 @@
         "text": "+# to level of socketed projectile gems",
         "trade_ids": [
           "implicit.stat_2176571093"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Sadima's Touch",
+    "stats": "+#% to spell critical strike chance",
+    "average": 4.375,
+    "prices": [
+      3,
+      3,
+      4,
+      4,
+      5,
+      5,
+      5,
+      6,
+      9,
+      10
+    ],
+    "search": {
+      "id": "plL0P4Jt0",
+      "complexity": 18,
+      "total": 180
+    },
+    "builds": 4,
+    "mods": [
+      {
+        "text": "+#% to spell critical strike chance",
+        "trade_ids": [
+          "implicit.stat_791835907"
         ]
       }
     ]
@@ -1032,37 +1063,6 @@
         "text": "curse enemies with elemental weakness on hit",
         "trade_ids": [
           "implicit.stat_2028847114"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Sadima's Touch",
-    "stats": "+#% to spell critical strike chance",
-    "average": 4.375,
-    "prices": [
-      3,
-      3,
-      4,
-      4,
-      5,
-      5,
-      5,
-      6,
-      9,
-      10
-    ],
-    "search": {
-      "id": "plL0P4Jt0",
-      "complexity": 18,
-      "total": 180
-    },
-    "builds": 3,
-    "mods": [
-      {
-        "text": "+#% to spell critical strike chance",
-        "trade_ids": [
-          "implicit.stat_791835907"
         ]
       }
     ]
@@ -3071,6 +3071,25 @@
         "text": "+# to level of socketed aoe gems",
         "trade_ids": [
           "implicit.stat_2551600084"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Perandus Blazon",
+    "stats": "#% increased rarity of items found, zealotry has #% increased aura effect",
+    "builds": 2,
+    "mods": [
+      {
+        "text": "#% increased rarity of items found",
+        "trade_ids": [
+          "implicit.stat_3917489142"
+        ]
+      },
+      {
+        "text": "zealotry has #% increased aura effect",
+        "trade_ids": [
+          "implicit.stat_4096052153"
         ]
       }
     ]
@@ -6615,6 +6634,19 @@
   },
   {
     "item": "Greed's Embrace",
+    "stats": "+# to level of socketed aoe gems",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "+# to level of socketed aoe gems",
+        "trade_ids": [
+          "implicit.stat_2551600084"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Greed's Embrace",
     "stats": "#% reduced cold damage taken",
     "average": 7.2,
     "prices": [
@@ -7035,6 +7067,19 @@
         "text": "+# to level of socketed projectile gems",
         "trade_ids": [
           "implicit.stat_2176571093"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "The Annihilating Light",
+    "stats": "#% chance to gain a power charge on critical strike",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "#% chance to gain a power charge on critical strike",
+        "trade_ids": [
+          "implicit.stat_3814876985"
         ]
       }
     ]
@@ -10745,6 +10790,24 @@
   {
     "item": "Oskarm",
     "stats": "attacks have +#% to critical strike chance",
+    "average": 16.88888888888889,
+    "prices": [
+      5,
+      10,
+      10,
+      15,
+      17,
+      20,
+      20,
+      20,
+      20,
+      20
+    ],
+    "search": {
+      "id": "rXpPWX7CQ",
+      "complexity": 18,
+      "total": 80
+    },
     "builds": 1,
     "mods": [
       {
@@ -10758,6 +10821,16 @@
   {
     "item": "Oskarm",
     "stats": "+# to level of socketed trap or mine gems, curse enemies with vulnerability on hit",
+    "average": 627.8299999999999,
+    "prices": [
+      538.14,
+      717.52
+    ],
+    "search": {
+      "id": "WVrvPVDum",
+      "complexity": 29,
+      "total": 2
+    },
     "builds": 1,
     "mods": [
       {
@@ -10777,6 +10850,13 @@
   {
     "item": "Oskarm",
     "stats": "curse enemies with vulnerability on hit, attacks have +#% to critical strike chance",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "qX42qr3Cg",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -10796,6 +10876,24 @@
   {
     "item": "Redblade Banner",
     "stats": "you take #% reduced extra damage from critical strikes",
+    "average": 508.2433333333333,
+    "prices": [
+      179.38,
+      269.07,
+      358.76,
+      538.14,
+      538.14,
+      538.14,
+      538.14,
+      717.52,
+      896.9,
+      1255.6599999999999
+    ],
+    "search": {
+      "id": "BEJKXnjC8",
+      "complexity": 18,
+      "total": 13
+    },
     "builds": 1,
     "mods": [
       {
@@ -10809,6 +10907,24 @@
   {
     "item": "Redblade Banner",
     "stats": "#% of physical damage from hits taken as cold damage",
+    "average": 179.38,
+    "prices": [
+      100,
+      100,
+      179.38,
+      179.38,
+      179.38,
+      179.38,
+      179.38,
+      179.38,
+      179.38,
+      179.38
+    ],
+    "search": {
+      "id": "5okog5mFa",
+      "complexity": 18,
+      "total": 14
+    },
     "builds": 1,
     "mods": [
       {
@@ -10822,6 +10938,13 @@
   {
     "item": "Lightning Coil",
     "stats": "+# to level of socketed aoe gems, +# to level of socketed projectile gems",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "zeBjrpvH4",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -10841,6 +10964,24 @@
   {
     "item": "Lightning Coil",
     "stats": "#% additional physical damage reduction while stationary",
+    "average": 6.9,
+    "prices": [
+      3,
+      4,
+      5,
+      5,
+      5,
+      8,
+      9,
+      10,
+      10,
+      10
+    ],
+    "search": {
+      "id": "6ZBDYWkFG",
+      "complexity": 18,
+      "total": 49
+    },
     "builds": 1,
     "mods": [
       {
@@ -10854,6 +10995,13 @@
   {
     "item": "Lightning Coil",
     "stats": "#% increased damage, #% reduced lightning damage taken",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "XqDYal7CP",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -10873,6 +11021,24 @@
   {
     "item": "Lightning Coil",
     "stats": "#% increased damage",
+    "average": 43.3,
+    "prices": [
+      35,
+      39,
+      40,
+      40,
+      40,
+      45,
+      45,
+      49,
+      50,
+      50
+    ],
+    "search": {
+      "id": "DGEGlVVc5",
+      "complexity": 18,
+      "total": 95
+    },
     "builds": 1,
     "mods": [
       {
@@ -10886,6 +11052,24 @@
   {
     "item": "Lightning Coil",
     "stats": "+# to level of socketed minion gems",
+    "average": 360.5538,
+    "prices": [
+      269.07,
+      304.94599999999997,
+      358.76,
+      358.76,
+      358.76,
+      358.76,
+      358.76,
+      358.76,
+      430.512,
+      448.45
+    ],
+    "search": {
+      "id": "8aprQ3VTV",
+      "complexity": 18,
+      "total": 53
+    },
     "builds": 1,
     "mods": [
       {
@@ -10899,6 +11083,24 @@
   {
     "item": "Lightning Coil",
     "stats": "+#% to all maximum resistances",
+    "average": 14.666666666666666,
+    "prices": [
+      10,
+      14,
+      14,
+      14,
+      15,
+      15,
+      15,
+      15,
+      15,
+      15
+    ],
+    "search": {
+      "id": "80Z0zlZcV",
+      "complexity": 18,
+      "total": 62
+    },
     "builds": 1,
     "mods": [
       {
@@ -10912,6 +11114,24 @@
   {
     "item": "The Magnate",
     "stats": "+#% to critical strike multiplier during any flask effect",
+    "average": 179.38000000000002,
+    "prices": [
+      179.38,
+      179.38,
+      179.38,
+      179.38,
+      179.38,
+      179.38,
+      179.38,
+      179.38,
+      179.38,
+      179.38
+    ],
+    "search": {
+      "id": "y9RWXZ8IR",
+      "complexity": 18,
+      "total": 32
+    },
     "builds": 1,
     "mods": [
       {
@@ -10925,6 +11145,24 @@
   {
     "item": "The Magnate",
     "stats": "hatred has #% increased aura effect",
+    "average": 105.5566,
+    "prices": [
+      70,
+      75,
+      75,
+      80,
+      90,
+      100,
+      140,
+      150,
+      150,
+      125.56599999999999
+    ],
+    "search": {
+      "id": "RVBg6k4I7",
+      "complexity": 18,
+      "total": 52
+    },
     "builds": 1,
     "mods": [
       {
@@ -10938,6 +11176,24 @@
   {
     "item": "The Magnate",
     "stats": "+#% to all elemental resistances",
+    "average": 298.96666666666664,
+    "prices": [
+      179.38,
+      179.38,
+      179.38,
+      179.38,
+      269.07,
+      304.94599999999997,
+      322.884,
+      538.14,
+      538.14,
+      807.21
+    ],
+    "search": {
+      "id": "mXjMRMeT6",
+      "complexity": 18,
+      "total": 10
+    },
     "builds": 1,
     "mods": [
       {
@@ -10951,6 +11207,24 @@
   {
     "item": "Abyssus",
     "stats": "+# to maximum power charges",
+    "average": 33.666666666666664,
+    "prices": [
+      15,
+      15,
+      20,
+      25,
+      30,
+      30,
+      49,
+      59,
+      60,
+      80
+    ],
+    "search": {
+      "id": "aqeEGJ7se",
+      "complexity": 18,
+      "total": 48
+    },
     "builds": 1,
     "mods": [
       {
@@ -11569,25 +11843,6 @@
     ]
   },
   {
-    "item": "Perandus Blazon",
-    "stats": "#% increased rarity of items found, zealotry has #% increased aura effect",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "#% increased rarity of items found",
-        "trade_ids": [
-          "implicit.stat_3917489142"
-        ]
-      },
-      {
-        "text": "zealotry has #% increased aura effect",
-        "trade_ids": [
-          "implicit.stat_4096052153"
-        ]
-      }
-    ]
-  },
-  {
     "item": "Sentari's Answer",
     "stats": "#% increased maximum life",
     "builds": 1,
@@ -11622,6 +11877,19 @@
         "text": "you take #% reduced extra damage from critical strikes",
         "trade_ids": [
           "implicit.stat_3855016469"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Sentari's Answer",
+    "stats": "#% of physical damage from hits taken as chaos damage",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "#% of physical damage from hits taken as chaos damage",
+        "trade_ids": [
+          "implicit.stat_4129825612"
         ]
       }
     ]
