@@ -12092,6 +12092,15 @@
   {
     "item": "Unnatural Instinct",
     "stats": "damage penetrates #% lightning resistance, #% reduced effect of shock on you",
+    "average": 538.14,
+    "prices": [
+      538.14
+    ],
+    "search": {
+      "id": "dXJVXvvUJ",
+      "complexity": 30,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -12112,6 +12121,16 @@
   {
     "item": "Unnatural Instinct",
     "stats": "#% increased global critical strike chance, #% reduced bleed duration on you",
+    "average": 448.45,
+    "prices": [
+      358.76,
+      538.14
+    ],
+    "search": {
+      "id": "gX4ea72cQ",
+      "complexity": 29,
+      "total": 2
+    },
     "builds": 1,
     "mods": [
       {
@@ -12131,6 +12150,13 @@
   {
     "item": "Unnatural Instinct",
     "stats": "damage penetrates #% elemental resistances, corrupted blood cannot be inflicted on you",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "rXj9DVMHQ",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -12150,6 +12176,13 @@
   {
     "item": "Leper's Alms",
     "stats": "#% of physical damage from hits taken as lightning damage, #% reduced damage taken from projectile hits",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "VMpJL9whp",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -12169,6 +12202,24 @@
   {
     "item": "Vixen's Entrapment",
     "stats": "#% increased cast speed",
+    "average": 18.75,
+    "prices": [
+      10,
+      12,
+      15,
+      15,
+      20,
+      20,
+      20,
+      20,
+      20,
+      20
+    ],
+    "search": {
+      "id": "PK7l22JCL",
+      "complexity": 18,
+      "total": 22
+    },
     "builds": 1,
     "mods": [
       {
@@ -12182,6 +12233,24 @@
   {
     "item": "Vixen's Entrapment",
     "stats": "+# to level of socketed gems",
+    "average": 14.9,
+    "prices": [
+      10,
+      10,
+      10,
+      12,
+      12,
+      15,
+      20,
+      20,
+      20,
+      20
+    ],
+    "search": {
+      "id": "bPZgddLTL",
+      "complexity": 18,
+      "total": 23
+    },
     "builds": 1,
     "mods": [
       {
@@ -12195,6 +12264,15 @@
   {
     "item": "Perandus Blazon",
     "stats": "#% increased rarity of items found, #% increased cast speed during any flask effect",
+    "average": 179.38,
+    "prices": [
+      179.38
+    ],
+    "search": {
+      "id": "mXD7YjMt6",
+      "complexity": 29,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -12214,6 +12292,19 @@
   {
     "item": "Perandus Blazon",
     "stats": "#% increased quantity of items found",
+    "average": 3497.91,
+    "prices": [
+      2331.94,
+      2690.7,
+      4484.5,
+      4484.5,
+      17758.62
+    ],
+    "search": {
+      "id": "9Y6QWVztK",
+      "complexity": 18,
+      "total": 5
+    },
     "builds": 1,
     "mods": [
       {
@@ -12227,6 +12318,15 @@
   {
     "item": "Perandus Blazon",
     "stats": "#% increased rarity of items found, #% increased critical strike chance during any flask effect",
+    "average": 179.38,
+    "prices": [
+      179.38
+    ],
+    "search": {
+      "id": "7l3DmMgS5",
+      "complexity": 29,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -12246,6 +12346,13 @@
   {
     "item": "Perandus Blazon",
     "stats": "#% increased maximum energy shield, #% increased movement speed during any flask effect",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "KJXbbKMU5",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -12265,6 +12372,24 @@
   {
     "item": "Sentari's Answer",
     "stats": "#% increased maximum life",
+    "average": 10.6,
+    "prices": [
+      3,
+      5,
+      5,
+      5,
+      5,
+      10,
+      15,
+      18,
+      20,
+      20
+    ],
+    "search": {
+      "id": "mXYGO9aC6",
+      "complexity": 18,
+      "total": 31
+    },
     "builds": 1,
     "mods": [
       {
@@ -12278,6 +12403,24 @@
   {
     "item": "Sentari's Answer",
     "stats": "#% of physical damage from hits taken as fire damage",
+    "average": 14.777777777777779,
+    "prices": [
+      5,
+      10,
+      10,
+      13,
+      15,
+      15,
+      15,
+      15,
+      20,
+      20
+    ],
+    "search": {
+      "id": "LeWraOlFn",
+      "complexity": 18,
+      "total": 48
+    },
     "builds": 1,
     "mods": [
       {
@@ -12291,6 +12434,24 @@
   {
     "item": "Sentari's Answer",
     "stats": "you take #% reduced extra damage from critical strikes",
+    "average": 8.3,
+    "prices": [
+      2,
+      2,
+      4,
+      5,
+      10,
+      10,
+      10,
+      10,
+      15,
+      15
+    ],
+    "search": {
+      "id": "8adzGlqCV",
+      "complexity": 18,
+      "total": 26
+    },
     "builds": 1,
     "mods": [
       {
@@ -12304,6 +12465,24 @@
   {
     "item": "Sentari's Answer",
     "stats": "#% of physical damage from hits taken as chaos damage",
+    "average": 7.444444444444445,
+    "prices": [
+      1,
+      5,
+      5,
+      6,
+      6,
+      8,
+      8,
+      9,
+      10,
+      10
+    ],
+    "search": {
+      "id": "7lozQ2lH5",
+      "complexity": 18,
+      "total": 37
+    },
     "builds": 1,
     "mods": [
       {
@@ -12317,6 +12496,24 @@
   {
     "item": "Primordial Eminence",
     "stats": "corrupted blood cannot be inflicted on you",
+    "average": 391.0484,
+    "prices": [
+      233.194,
+      269.07,
+      358.76,
+      358.76,
+      358.76,
+      358.76,
+      358.76,
+      538.14,
+      538.14,
+      538.14
+    ],
+    "search": {
+      "id": "80ZJ5VZcV",
+      "complexity": 18,
+      "total": 13
+    },
     "builds": 1,
     "mods": [
       {
