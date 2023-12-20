@@ -1353,6 +1353,37 @@
     ]
   },
   {
+    "item": "The Poet's Pen",
+    "stats": "damage penetrates #% elemental resistances",
+    "average": 99.91600000000001,
+    "prices": [
+      20,
+      50,
+      69,
+      70,
+      100,
+      100,
+      100,
+      130,
+      180.08,
+      180.08
+    ],
+    "search": {
+      "id": "LeWk24Bin",
+      "complexity": 18,
+      "total": 25
+    },
+    "builds": 3,
+    "mods": [
+      {
+        "text": "damage penetrates #% elemental resistances",
+        "trade_ids": [
+          "implicit.stat_2101383955"
+        ]
+      }
+    ]
+  },
+  {
     "item": "Speaker's Wreath",
     "stats": "+# to level of socketed minion gems",
     "average": 415.46844444444446,
@@ -2832,6 +2863,19 @@
     ]
   },
   {
+    "item": "Viridi's Veil",
+    "stats": "+# to level of socketed aoe gems",
+    "builds": 2,
+    "mods": [
+      {
+        "text": "+# to level of socketed aoe gems",
+        "trade_ids": [
+          "implicit.stat_2551600084"
+        ]
+      }
+    ]
+  },
+  {
     "item": "Alpha's Howl",
     "stats": "+# to maximum power charges",
     "average": 86.5,
@@ -3532,37 +3576,6 @@
     ]
   },
   {
-    "item": "The Poet's Pen",
-    "stats": "damage penetrates #% elemental resistances",
-    "average": 99.91600000000001,
-    "prices": [
-      20,
-      50,
-      69,
-      70,
-      100,
-      100,
-      100,
-      130,
-      180.08,
-      180.08
-    ],
-    "search": {
-      "id": "LeWk24Bin",
-      "complexity": 18,
-      "total": 25
-    },
-    "builds": 2,
-    "mods": [
-      {
-        "text": "damage penetrates #% elemental resistances",
-        "trade_ids": [
-          "implicit.stat_2101383955"
-        ]
-      }
-    ]
-  },
-  {
     "item": "Primordial Harmony",
     "stats": "#% increased reservation efficiency of skills",
     "average": 180.08,
@@ -3674,6 +3687,24 @@
   {
     "item": "Malachai's Loop",
     "stats": "#% of physical damage from hits taken as fire damage",
+    "average": 145.42000000000002,
+    "prices": [
+      55,
+      70,
+      100,
+      180.63,
+      180.63,
+      180.63,
+      180.63,
+      180.63,
+      180.63,
+      361.26
+    ],
+    "search": {
+      "id": "0BaGbKQhg",
+      "complexity": 18,
+      "total": 22
+    },
     "builds": 1,
     "mods": [
       {
@@ -3687,6 +3718,24 @@
   {
     "item": "Dialla's Malefaction",
     "stats": "+#% to all maximum resistances",
+    "average": 149.37800000000001,
+    "prices": [
+      80,
+      80,
+      100,
+      150,
+      180.63,
+      180.63,
+      180.63,
+      180.63,
+      180.63,
+      180.63
+    ],
+    "search": {
+      "id": "qX3PwlXtg",
+      "complexity": 18,
+      "total": 34
+    },
     "builds": 1,
     "mods": [
       {
@@ -3700,6 +3749,15 @@
   {
     "item": "Dialla's Malefaction",
     "stats": "+# to level of socketed aoe gems, #% reduced fire damage taken",
+    "average": 7225.2,
+    "prices": [
+      7225.2
+    ],
+    "search": {
+      "id": "gXWOJ2KUQ",
+      "complexity": 29,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -3719,6 +3777,24 @@
   {
     "item": "Dialla's Malefaction",
     "stats": "+# to level of socketed gems",
+    "average": 6322.05,
+    "prices": [
+      4515.75,
+      6322.05,
+      6322.05,
+      6322.05,
+      6322.05,
+      6322.05,
+      6502.68,
+      6863.94,
+      7225.2,
+      7405.83
+    ],
+    "search": {
+      "id": "waPQeqdUb",
+      "complexity": 18,
+      "total": 17
+    },
     "builds": 1,
     "mods": [
       {
@@ -3732,6 +3808,15 @@
   {
     "item": "Dialla's Malefaction",
     "stats": "+# to level of socketed aura gems, +#% to all maximum resistances",
+    "average": 1174.095,
+    "prices": [
+      1174.095
+    ],
+    "search": {
+      "id": "RVYOWygF7",
+      "complexity": 29,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -3751,6 +3836,24 @@
   {
     "item": "Dialla's Malefaction",
     "stats": "+# to level of socketed aoe gems",
+    "average": 5274.395999999999,
+    "prices": [
+      3612.6,
+      4335.12,
+      4335.12,
+      4335.12,
+      4335.12,
+      5057.639999999999,
+      5418.9,
+      7044.57,
+      7044.57,
+      7225.2
+    ],
+    "search": {
+      "id": "KJDMJPDs5",
+      "complexity": 18,
+      "total": 28
+    },
     "builds": 1,
     "mods": [
       {
@@ -3764,6 +3867,15 @@
   {
     "item": "Dialla's Malefaction",
     "stats": "+# to level of socketed aoe gems, #% additional physical damage reduction while stationary",
+    "average": 7225.2,
+    "prices": [
+      7225.2
+    ],
+    "search": {
+      "id": "mXjQBqBu6",
+      "complexity": 29,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -3783,6 +3895,16 @@
   {
     "item": "Dialla's Malefaction",
     "stats": "+# to level of socketed aoe gems, +# to level of socketed projectile gems",
+    "average": 8579.925,
+    "prices": [
+      8128.349999999999,
+      9031.5
+    ],
+    "search": {
+      "id": "QVnkP97Tw",
+      "complexity": 29,
+      "total": 2
+    },
     "builds": 1,
     "mods": [
       {
@@ -3802,6 +3924,13 @@
   {
     "item": "Dialla's Malefaction",
     "stats": "+# to level of socketed duration gems, +# to level of socketed warcry gems",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "BEQJ2oku8",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -3821,6 +3950,15 @@
   {
     "item": "Dialla's Malefaction",
     "stats": "+# to level of socketed gems, +# to level of socketed aura gems",
+    "average": 6863.94,
+    "prices": [
+      6863.94
+    ],
+    "search": {
+      "id": "3Brgqp5i5",
+      "complexity": 29,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -3840,6 +3978,13 @@
   {
     "item": "Dialla's Malefaction",
     "stats": "+# to level of socketed projectile gems, #% increased maximum life",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "Zb2nDbEtQ",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -3859,6 +4004,24 @@
   {
     "item": "Ixchel's Temptation",
     "stats": "#% increased rarity of items found",
+    "average": 11,
+    "prices": [
+      7,
+      10,
+      10,
+      10,
+      10,
+      10,
+      10,
+      14,
+      14,
+      15
+    ],
+    "search": {
+      "id": "y9qnw9OiR",
+      "complexity": 18,
+      "total": 439
+    },
     "builds": 1,
     "mods": [
       {
@@ -3872,6 +4035,13 @@
   {
     "item": "Ralakesh's Impatience",
     "stats": "#% increased movement speed",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "mP2QMJLu6",
+      "complexity": 18,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -3885,6 +4055,16 @@
   {
     "item": "Ralakesh's Impatience",
     "stats": "+# to level of socketed minion gems",
+    "average": 2709.45,
+    "prices": [
+      1806.3,
+      3612.6
+    ],
+    "search": {
+      "id": "3BJpgRgc5",
+      "complexity": 18,
+      "total": 2
+    },
     "builds": 1,
     "mods": [
       {
@@ -3898,6 +4078,15 @@
   {
     "item": "Ralakesh's Impatience",
     "stats": "+# to maximum endurance charges",
+    "average": 25288.2,
+    "prices": [
+      25288.2
+    ],
+    "search": {
+      "id": "wpRQMGQUb",
+      "complexity": 18,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -6592,6 +6781,31 @@
   },
   {
     "item": "Anathema",
+    "stats": "#% increased strength, #% increased dexterity, grace has #% increased aura effect",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "#% increased strength",
+        "trade_ids": [
+          "implicit.stat_4139681126"
+        ]
+      },
+      {
+        "text": "#% increased dexterity",
+        "trade_ids": [
+          "implicit.stat_4139681126"
+        ]
+      },
+      {
+        "text": "grace has #% increased aura effect",
+        "trade_ids": [
+          "implicit.stat_397427740"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Anathema",
     "stats": "#% increased cast speed",
     "builds": 1,
     "mods": [
@@ -7234,6 +7448,19 @@
   },
   {
     "item": "Kaom's Spirit",
+    "stats": "+#% to spell critical strike chance",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "+#% to spell critical strike chance",
+        "trade_ids": [
+          "implicit.stat_791835907"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Kaom's Spirit",
     "stats": "+# to level of socketed aura gems",
     "builds": 1,
     "mods": [
@@ -7608,19 +7835,6 @@
         "text": "corrupted blood cannot be inflicted on you",
         "trade_ids": [
           "implicit.stat_1658498488"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Viridi's Veil",
-    "stats": "+# to level of socketed aoe gems",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "+# to level of socketed aoe gems",
-        "trade_ids": [
-          "implicit.stat_2551600084"
         ]
       }
     ]
@@ -9335,6 +9549,129 @@
     ]
   },
   {
+    "item": "The Poet's Pen",
+    "stats": "adds # to # fire damage, #% increased attack speed",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "adds # to # fire damage",
+        "trade_ids": [
+          "implicit.stat_709508406",
+          "implicit.stat_321077055"
+        ]
+      },
+      {
+        "text": "#% increased attack speed",
+        "trade_ids": [
+          "implicit.stat_681332047",
+          "implicit.stat_210067635"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "The Poet's Pen",
+    "stats": "#% increased area of effect",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "#% increased area of effect",
+        "trade_ids": [
+          "implicit.stat_280731498"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Queen of the Forest",
+    "stats": "+# to level of socketed aura gems, +# to level of socketed curse gems",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "+# to level of socketed aura gems",
+        "trade_ids": [
+          "implicit.stat_2452998583"
+        ]
+      },
+      {
+        "text": "+# to level of socketed curse gems",
+        "trade_ids": [
+          "implicit.stat_3691695237"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Queen of the Forest",
+    "stats": "+# to level of socketed trap or mine gems, #% increased maximum life",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "+# to level of socketed trap or mine gems",
+        "trade_ids": [
+          "implicit.stat_150668988"
+        ]
+      },
+      {
+        "text": "#% increased maximum life",
+        "trade_ids": [
+          "implicit.stat_983749596"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Queen of the Forest",
+    "stats": "+# to level of socketed gems, +# to level of socketed projectile gems",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "+# to level of socketed gems",
+        "trade_ids": [
+          "implicit.stat_2843100721"
+        ]
+      },
+      {
+        "text": "+# to level of socketed projectile gems",
+        "trade_ids": [
+          "implicit.stat_2176571093"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Queen of the Forest",
+    "stats": "+# to level of socketed aoe gems, #% increased damage",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "+# to level of socketed aoe gems",
+        "trade_ids": [
+          "implicit.stat_2551600084"
+        ]
+      },
+      {
+        "text": "#% increased damage",
+        "trade_ids": [
+          "implicit.stat_2154246560"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Queen of the Forest",
+    "stats": "+# to level of socketed gems",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "+# to level of socketed gems",
+        "trade_ids": [
+          "implicit.stat_2843100721"
+        ]
+      }
+    ]
+  },
+  {
     "item": "Cloak of Flame",
     "stats": "+# to level of socketed gems",
     "builds": 1,
@@ -10679,76 +11016,6 @@
     ]
   },
   {
-    "item": "Queen of the Forest",
-    "stats": "+# to level of socketed trap or mine gems, #% increased maximum life",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "+# to level of socketed trap or mine gems",
-        "trade_ids": [
-          "implicit.stat_150668988"
-        ]
-      },
-      {
-        "text": "#% increased maximum life",
-        "trade_ids": [
-          "implicit.stat_983749596"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Queen of the Forest",
-    "stats": "+# to level of socketed gems, +# to level of socketed projectile gems",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "+# to level of socketed gems",
-        "trade_ids": [
-          "implicit.stat_2843100721"
-        ]
-      },
-      {
-        "text": "+# to level of socketed projectile gems",
-        "trade_ids": [
-          "implicit.stat_2176571093"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Queen of the Forest",
-    "stats": "+# to level of socketed aoe gems, #% increased damage",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "+# to level of socketed aoe gems",
-        "trade_ids": [
-          "implicit.stat_2551600084"
-        ]
-      },
-      {
-        "text": "#% increased damage",
-        "trade_ids": [
-          "implicit.stat_2154246560"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Queen of the Forest",
-    "stats": "+# to level of socketed gems",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "+# to level of socketed gems",
-        "trade_ids": [
-          "implicit.stat_2843100721"
-        ]
-      }
-    ]
-  },
-  {
     "item": "Rearguard",
     "stats": "#% of fire damage leeched as life, bow attacks fire an additional arrow",
     "builds": 1,
@@ -10815,19 +11082,6 @@
         "text": "+# to level of socketed aoe gems",
         "trade_ids": [
           "implicit.stat_2551600084"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "The Poet's Pen",
-    "stats": "#% increased area of effect",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "#% increased area of effect",
-        "trade_ids": [
-          "implicit.stat_280731498"
         ]
       }
     ]
