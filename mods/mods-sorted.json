@@ -6799,6 +6799,19 @@
     ]
   },
   {
+    "item": "Greed's Embrace",
+    "stats": "+# to level of socketed duration gems",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "+# to level of socketed duration gems",
+        "trade_ids": [
+          "implicit.stat_2115168758"
+        ]
+      }
+    ]
+  },
+  {
     "item": "Sadima's Touch",
     "stats": "curse enemies with despair on hit",
     "average": 7,
@@ -15656,6 +15669,20 @@
   {
     "item": "Rainbowstride",
     "stats": "+# to level of socketed duration gems",
+    "average": 26.6,
+    "prices": [
+      10,
+      10,
+      13,
+      50,
+      50,
+      178.43
+    ],
+    "search": {
+      "id": "BEymZ6aI8",
+      "complexity": 18,
+      "total": 6
+    },
     "builds": 1,
     "mods": [
       {
@@ -15669,6 +15696,24 @@
   {
     "item": "Rainbowstride",
     "stats": "+# to level of socketed aura gems",
+    "average": 29.6,
+    "prices": [
+      10,
+      16,
+      20,
+      30,
+      30,
+      30,
+      30,
+      30,
+      50,
+      50
+    ],
+    "search": {
+      "id": "RVBMBPZh7",
+      "complexity": 18,
+      "total": 14
+    },
     "builds": 1,
     "mods": [
       {
@@ -15682,6 +15727,20 @@
   {
     "item": "Rainbowstride",
     "stats": "+# to level of socketed gems",
+    "average": 178.42999999999998,
+    "prices": [
+      130,
+      178.43,
+      178.43,
+      178.43,
+      535.29,
+      892.1500000000001
+    ],
+    "search": {
+      "id": "BEJE2YLC8",
+      "complexity": 18,
+      "total": 6
+    },
     "builds": 1,
     "mods": [
       {
@@ -15695,6 +15754,13 @@
   {
     "item": "Breathstealer",
     "stats": "+# to level of socketed aoe gems",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "2BaPbYjIk",
+      "complexity": 18,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -15708,6 +15774,13 @@
   {
     "item": "Breathstealer",
     "stats": "+# to level of socketed gems",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "WVWz0XZtm",
+      "complexity": 18,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -15721,6 +15794,13 @@
   {
     "item": "Coward's Legacy",
     "stats": "#% increased maximum life, zealotry has #% increased aura effect",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "LeW47p5tn",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -15740,6 +15820,24 @@
   {
     "item": "Replica Dragonfang's Flight",
     "stats": "you can apply an additional curse",
+    "average": 178.43000000000004,
+    "prices": [
+      70,
+      178.43,
+      178.43,
+      178.43,
+      178.43,
+      178.43,
+      178.43,
+      892.1500000000001,
+      1070.58,
+      10705.800000000001
+    ],
+    "search": {
+      "id": "no9rlYyH0",
+      "complexity": 18,
+      "total": 10
+    },
     "builds": 1,
     "mods": [
       {
@@ -15753,6 +15851,21 @@
   {
     "item": "Crown of Eyes",
     "stats": "+# to maximum power charges",
+    "average": 1616.066,
+    "prices": [
+      1409.5970000000002,
+      1427.44,
+      1605.8700000000001,
+      1605.8700000000001,
+      1695.085,
+      1784.3000000000002,
+      1784.3000000000002
+    ],
+    "search": {
+      "id": "oXjB4YOcl",
+      "complexity": 18,
+      "total": 7
+    },
     "builds": 1,
     "mods": [
       {
@@ -15766,6 +15879,13 @@
   {
     "item": "Karui Ward",
     "stats": "#% increased movement speed, you can apply an additional curse",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "JV4yb55Il",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -15785,6 +15905,13 @@
   {
     "item": "Fairgraves' Tricorne",
     "stats": "#% increased area of effect",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "VMKQLR8fp",
+      "complexity": 18,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -15798,6 +15925,13 @@
   {
     "item": "Honourhome",
     "stats": "socketed skill gems get a #% cost & reservation multiplier, +# to maximum power charges",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "3Bb5QJ5i5",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -15817,6 +15951,24 @@
   {
     "item": "Darkscorn",
     "stats": "+#% to global critical strike multiplier",
+    "average": 5,
+    "prices": [
+      2,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      6
+    ],
+    "search": {
+      "id": "mXjqZ8wt6",
+      "complexity": 18,
+      "total": 215
+    },
     "builds": 1,
     "mods": [
       {
@@ -15830,6 +15982,24 @@
   {
     "item": "Carcass Jack",
     "stats": "+# to level of socketed trap or mine gems",
+    "average": 21.2,
+    "prices": [
+      10,
+      10,
+      20,
+      20,
+      20,
+      23,
+      24,
+      25,
+      30,
+      30
+    ],
+    "search": {
+      "id": "XqbmDMWTP",
+      "complexity": 18,
+      "total": 27
+    },
     "builds": 1,
     "mods": [
       {
@@ -15843,6 +16013,21 @@
   {
     "item": "Winterweave",
     "stats": "hatred has #% increased aura effect",
+    "average": 113.372,
+    "prices": [
+      60,
+      60,
+      90,
+      178.43,
+      178.43,
+      356.86,
+      892.1500000000001
+    ],
+    "search": {
+      "id": "Ey6zz5zc5",
+      "complexity": 18,
+      "total": 7
+    },
     "builds": 1,
     "mods": [
       {
@@ -15856,6 +16041,21 @@
   {
     "item": "Hyrri's Ire",
     "stats": "+# to level of socketed minion gems",
+    "average": 619.0150000000001,
+    "prices": [
+      40,
+      100,
+      178.43,
+      267.645,
+      535.29,
+      1427.44,
+      1784.3000000000002
+    ],
+    "search": {
+      "id": "qXlZDzvTg",
+      "complexity": 18,
+      "total": 7
+    },
     "builds": 1,
     "mods": [
       {
@@ -15869,6 +16069,13 @@
   {
     "item": "Hyrri's Ire",
     "stats": "+# to level of socketed gems, +# to level of socketed projectile gems",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "OVnvVyOTE",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
