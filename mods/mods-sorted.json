@@ -6367,6 +6367,13 @@
   {
     "item": "String of Servitude",
     "stats": "#% increased maximum energy shield, hatred has #% increased aura effect",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "MV4KYqDFJ",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -6386,6 +6393,13 @@
   {
     "item": "Doryani's Prototype",
     "stats": "+# to level of socketed projectile gems, +#% to all maximum resistances",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "9YKMX5YsK",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -6405,6 +6419,20 @@
   {
     "item": "Natural Affinity",
     "stats": "#% increased area of effect",
+    "average": 40,
+    "prices": [
+      25,
+      40,
+      40,
+      40,
+      186.33,
+      1304.3100000000002
+    ],
+    "search": {
+      "id": "MvR4pwPcJ",
+      "complexity": 18,
+      "total": 6
+    },
     "builds": 1,
     "mods": [
       {
@@ -6418,6 +6446,16 @@
   {
     "item": "Natural Affinity",
     "stats": "corrupted blood cannot be inflicted on you",
+    "average": 3633.4350000000004,
+    "prices": [
+      3540.2700000000004,
+      3726.6000000000004
+    ],
+    "search": {
+      "id": "9qlqMQYsK",
+      "complexity": 18,
+      "total": 2
+    },
     "builds": 1,
     "mods": [
       {
@@ -6431,6 +6469,19 @@
   {
     "item": "Natural Affinity",
     "stats": "minions deal #% increased damage",
+    "average": 30,
+    "prices": [
+      25,
+      30,
+      30,
+      50,
+      186.33
+    ],
+    "search": {
+      "id": "nXy7VgJH0",
+      "complexity": 18,
+      "total": 5
+    },
     "builds": 1,
     "mods": [
       {
@@ -6444,6 +6495,15 @@
   {
     "item": "The Green Dream",
     "stats": "minions deal #% increased damage",
+    "average": 57,
+    "prices": [
+      57
+    ],
+    "search": {
+      "id": "BEDM6KXH8",
+      "complexity": 18,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -6457,6 +6517,24 @@
   {
     "item": "Bated Breath",
     "stats": "#% increased maximum energy shield",
+    "average": 11.3,
+    "prices": [
+      5,
+      5,
+      8,
+      8,
+      10,
+      10,
+      12,
+      15,
+      20,
+      20
+    ],
+    "search": {
+      "id": "vlE0L09fE",
+      "complexity": 18,
+      "total": 40
+    },
     "builds": 1,
     "mods": [
       {
@@ -6470,6 +6548,13 @@
   {
     "item": "Bated Breath",
     "stats": "wrath has #% increased aura effect, discipline has #% increased aura effect",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "lXqOl76IV",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -6489,6 +6574,24 @@
   {
     "item": "Bated Breath",
     "stats": "zealotry has #% increased aura effect",
+    "average": 7.8,
+    "prices": [
+      3,
+      3,
+      5,
+      5,
+      10,
+      10,
+      10,
+      10,
+      10,
+      12
+    ],
+    "search": {
+      "id": "gXDl2naFQ",
+      "complexity": 18,
+      "total": 33
+    },
     "builds": 1,
     "mods": [
       {
@@ -6502,6 +6605,24 @@
   {
     "item": "Bated Breath",
     "stats": "discipline has #% increased aura effect",
+    "average": 26.6,
+    "prices": [
+      5,
+      12,
+      19,
+      20,
+      20,
+      20,
+      35,
+      40,
+      45,
+      50
+    ],
+    "search": {
+      "id": "Ey6vgPVf5",
+      "complexity": 18,
+      "total": 43
+    },
     "builds": 1,
     "mods": [
       {
@@ -6515,6 +6636,13 @@
   {
     "item": "Bated Breath",
     "stats": "#% increased dexterity, #% increased intelligence, #% increased maximum energy shield",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "7lKm9nlu5",
+      "complexity": 20,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -6540,6 +6668,24 @@
   {
     "item": "Bated Breath",
     "stats": "anger has #% increased aura effect",
+    "average": 7.2,
+    "prices": [
+      3,
+      5,
+      5,
+      6,
+      7,
+      8,
+      8,
+      10,
+      10,
+      10
+    ],
+    "search": {
+      "id": "jXZk6lZCX",
+      "complexity": 18,
+      "total": 43
+    },
     "builds": 1,
     "mods": [
       {
@@ -6553,6 +6699,24 @@
   {
     "item": "Shaper's Touch",
     "stats": "#% increased maximum energy shield",
+    "average": 10,
+    "prices": [
+      8,
+      9,
+      10,
+      10,
+      10,
+      10,
+      10,
+      10,
+      10,
+      11
+    ],
+    "search": {
+      "id": "VMgl2KlCp",
+      "complexity": 18,
+      "total": 78
+    },
     "builds": 1,
     "mods": [
       {
@@ -6566,6 +6730,24 @@
   {
     "item": "Shaper's Touch",
     "stats": "curse enemies with temporal chains on hit",
+    "average": 12.5,
+    "prices": [
+      10,
+      10,
+      10,
+      10,
+      10,
+      15,
+      15,
+      15,
+      15,
+      15
+    ],
+    "search": {
+      "id": "gXWRrJjhQ",
+      "complexity": 18,
+      "total": 115
+    },
     "builds": 1,
     "mods": [
       {
@@ -6579,6 +6761,21 @@
   {
     "item": "Greed's Embrace",
     "stats": "+# to level of socketed aoe gems, +# to level of socketed aura gems",
+    "average": 1038.1242857142859,
+    "prices": [
+      186.33,
+      186.33,
+      186.33,
+      745.32,
+      1490.64,
+      1863.3000000000002,
+      2608.6200000000003
+    ],
+    "search": {
+      "id": "9YD9l8yIK",
+      "complexity": 29,
+      "total": 7
+    },
     "builds": 1,
     "mods": [
       {
