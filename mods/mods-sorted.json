@@ -13352,6 +13352,13 @@
   {
     "item": "Mageblood",
     "stats": "#% increased strength, #% increased dexterity, #% increased skill effect duration",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "OVQoODgCE",
+      "complexity": 20,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -13377,6 +13384,13 @@
   {
     "item": "Mageblood",
     "stats": "#% increased movement speed during any flask effect, #% increased cast speed during any flask effect",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "7lVqM8Bu5",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -13396,6 +13410,13 @@
   {
     "item": "Mageblood",
     "stats": "#% increased maximum life, #% increased area of effect",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "kXjqdM3U5",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -13415,6 +13436,13 @@
   {
     "item": "Soulbound",
     "stats": "#% increased strength, #% increased intelligence, wrath has #% increased aura effect",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "WVMV76Rfm",
+      "complexity": 20,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -13440,6 +13468,15 @@
   {
     "item": "Soulbound",
     "stats": "anger has #% increased aura effect, grace has #% increased aura effect",
+    "average": 728.4,
+    "prices": [
+      728.4
+    ],
+    "search": {
+      "id": "9YbJLD8uK",
+      "complexity": 29,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -13459,6 +13496,24 @@
   {
     "item": "The Untouched Soul",
     "stats": "#% increased rarity of items found",
+    "average": 2.6666666666666665,
+    "prices": [
+      2,
+      2,
+      2,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3,
+      4
+    ],
+    "search": {
+      "id": "vlE0LQXHE",
+      "complexity": 18,
+      "total": 1032
+    },
     "builds": 1,
     "mods": [
       {
@@ -13472,6 +13527,13 @@
   {
     "item": "Devoto's Devotion",
     "stats": "+# to maximum power charges, regenerate #% of life per second",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "lXqEQlniV",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -13491,6 +13553,13 @@
   {
     "item": "Devoto's Devotion",
     "stats": "#% of fire damage leeched as life, +# to maximum power charges",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "jXqy39oTX",
+      "complexity": 30,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -13511,6 +13580,15 @@
   {
     "item": "Devoto's Devotion",
     "stats": "+# to level of socketed cold gems, +# to maximum power charges",
+    "average": 88,
+    "prices": [
+      88
+    ],
+    "search": {
+      "id": "OVXoMrzHE",
+      "complexity": 29,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -13530,6 +13608,13 @@
   {
     "item": "Warrior's Tale",
     "stats": "damage penetrates #% fire resistance",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "wagX6rmsb",
+      "complexity": 19,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -13544,6 +13629,13 @@
   {
     "item": "Warrior's Tale",
     "stats": "#% increased reservation efficiency of skills, you cannot be hindered",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "nXjQQJJf0",
+      "complexity": 30,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -13564,6 +13656,13 @@
   {
     "item": "Warrior's Tale",
     "stats": "#% reduced ignite duration on you, you cannot be cursed with silence",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "BEQQX3kF8",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -13583,6 +13682,13 @@
   {
     "item": "Painseeker",
     "stats": "+# to maximum frenzy charges, curse enemies with elemental weakness on hit",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "dXRmerPsJ",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -13602,6 +13708,24 @@
   {
     "item": "The Primordial Chain",
     "stats": "#% of lightning damage leeched as life",
+    "average": 20.833333333333332,
+    "prices": [
+      5,
+      10,
+      15,
+      20,
+      20,
+      20,
+      25,
+      25,
+      50,
+      60
+    ],
+    "search": {
+      "id": "9Yvg7JmTK",
+      "complexity": 19,
+      "total": 16
+    },
     "builds": 1,
     "mods": [
       {
@@ -13616,6 +13740,18 @@
   {
     "item": "Gravebind",
     "stats": "curse enemies with enfeeble on hit",
+    "average": 182.1,
+    "prices": [
+      182.1,
+      182.1,
+      182.1,
+      327.78
+    ],
+    "search": {
+      "id": "rXJbP57TQ",
+      "complexity": 18,
+      "total": 4
+    },
     "builds": 1,
     "mods": [
       {
