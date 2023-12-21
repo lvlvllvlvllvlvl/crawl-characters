@@ -11605,6 +11605,24 @@
   {
     "item": "Ceinture of Benevolence",
     "stats": "grace has #% increased aura effect",
+    "average": 13,
+    "prices": [
+      5,
+      10,
+      10,
+      10,
+      10,
+      10,
+      15,
+      20,
+      20,
+      20
+    ],
+    "search": {
+      "id": "eXvX9pghL",
+      "complexity": 18,
+      "total": 36
+    },
     "builds": 1,
     "mods": [
       {
@@ -11618,6 +11636,24 @@
   {
     "item": "Ceinture of Benevolence",
     "stats": "#% increased dexterity, #% increased intelligence",
+    "average": 18.8,
+    "prices": [
+      5,
+      5,
+      5,
+      10,
+      10,
+      20,
+      23,
+      30,
+      40,
+      40
+    ],
+    "search": {
+      "id": "z27GVXRI4",
+      "complexity": 29,
+      "total": 25
+    },
     "builds": 1,
     "mods": [
       {
@@ -11637,6 +11673,24 @@
   {
     "item": "Ceinture of Benevolence",
     "stats": "anger has #% increased aura effect",
+    "average": 10.2,
+    "prices": [
+      4,
+      5,
+      5,
+      9,
+      10,
+      10,
+      14,
+      15,
+      15,
+      15
+    ],
+    "search": {
+      "id": "2Ba6Ypjhk",
+      "complexity": 18,
+      "total": 31
+    },
     "builds": 1,
     "mods": [
       {
@@ -11650,6 +11704,13 @@
   {
     "item": "Ceinture of Benevolence",
     "stats": "#% increased maximum energy shield, #% increased cast speed during any flask effect",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "kXlZRd3U5",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -11669,6 +11730,24 @@
   {
     "item": "Ceinture of Benevolence",
     "stats": "hatred has #% increased aura effect",
+    "average": 21.8,
+    "prices": [
+      10,
+      10,
+      10,
+      18,
+      20,
+      20,
+      25,
+      30,
+      35,
+      40
+    ],
+    "search": {
+      "id": "oX7Dn3Osl",
+      "complexity": 18,
+      "total": 38
+    },
     "builds": 1,
     "mods": [
       {
@@ -11682,6 +11761,13 @@
   {
     "item": "Rathpith Globe",
     "stats": "+# to level of socketed aoe gems, +# to level of socketed warcry gems",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "KJXDXEPI5",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -11701,6 +11787,20 @@
   {
     "item": "Lightpoacher",
     "stats": "regenerate #% of life per second",
+    "average": 17.333333333333332,
+    "prices": [
+      9,
+      10,
+      10,
+      10,
+      30,
+      35
+    ],
+    "search": {
+      "id": "3B6QJKgF5",
+      "complexity": 18,
+      "total": 6
+    },
     "builds": 1,
     "mods": [
       {
@@ -11714,6 +11814,13 @@
   {
     "item": "Belly of the Beast",
     "stats": "+# to level of socketed aoe gems, #% increased damage",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "rXVmnzmfQ",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -11733,6 +11840,15 @@
   {
     "item": "Belly of the Beast",
     "stats": "+# to level of socketed gems, +# to level of socketed warcry gems",
+    "average": 370.88,
+    "prices": [
+      370.88
+    ],
+    "search": {
+      "id": "zel8K6OT4",
+      "complexity": 29,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -11752,6 +11868,13 @@
   {
     "item": "Le Heup of All",
     "stats": "anger has #% increased aura effect, wrath has #% increased aura effect",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "qXDjO2kSg",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -11771,6 +11894,15 @@
   {
     "item": "Bronn's Lithe",
     "stats": "+# to level of socketed aoe gems, you take #% reduced extra damage from critical strikes",
+    "average": 927.2,
+    "prices": [
+      927.2
+    ],
+    "search": {
+      "id": "zeG3n6RF4",
+      "complexity": 29,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -11790,6 +11922,24 @@
   {
     "item": "Might of the Meek",
     "stats": "#% reduced effect of chill on you",
+    "average": 20,
+    "prices": [
+      18.36,
+      18,
+      20,
+      20,
+      20,
+      20,
+      20,
+      20,
+      20,
+      20
+    ],
+    "search": {
+      "id": "pXEoybbH0",
+      "complexity": 18,
+      "total": 18
+    },
     "builds": 1,
     "mods": [
       {
@@ -11803,6 +11953,24 @@
   {
     "item": "Might of the Meek",
     "stats": "#% increased effect of non-damaging ailments",
+    "average": 10,
+    "prices": [
+      9,
+      10,
+      10,
+      10,
+      15,
+      25,
+      50,
+      75,
+      145,
+      185.44
+    ],
+    "search": {
+      "id": "qXjDDjWfg",
+      "complexity": 18,
+      "total": 10
+    },
     "builds": 1,
     "mods": [
       {
@@ -11816,6 +11984,19 @@
   {
     "item": "Might of the Meek",
     "stats": "you cannot be maimed",
+    "average": 44,
+    "prices": [
+      10,
+      20,
+      40,
+      70,
+      80
+    ],
+    "search": {
+      "id": "lXJV8VrhV",
+      "complexity": 18,
+      "total": 5
+    },
     "builds": 1,
     "mods": [
       {
@@ -11829,6 +12010,21 @@
   {
     "item": "Might of the Meek",
     "stats": "you cannot be cursed with silence",
+    "average": 16,
+    "prices": [
+      10,
+      10,
+      15,
+      20,
+      25,
+      80,
+      180
+    ],
+    "search": {
+      "id": "BGrV83KC8",
+      "complexity": 18,
+      "total": 7
+    },
     "builds": 1,
     "mods": [
       {
