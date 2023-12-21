@@ -911,6 +911,24 @@
   {
     "item": "Ephemeral Edge",
     "stats": "#% increased area of effect",
+    "average": 40.3,
+    "prices": [
+      9,
+      19,
+      25,
+      30,
+      40,
+      40,
+      50,
+      55,
+      60,
+      75
+    ],
+    "search": {
+      "id": "vlP9onDSE",
+      "complexity": 18,
+      "total": 21
+    },
     "builds": 4,
     "mods": [
       {
@@ -924,6 +942,24 @@
   {
     "item": "Black Sun Crest",
     "stats": "socketed skill gems get a #% cost & reservation multiplier",
+    "average": 22.5,
+    "prices": [
+      10,
+      12,
+      18,
+      20,
+      20,
+      25,
+      30,
+      30,
+      30,
+      30
+    ],
+    "search": {
+      "id": "Qr6G3Mpuw",
+      "complexity": 18,
+      "total": 117
+    },
     "builds": 4,
     "mods": [
       {
@@ -937,6 +973,19 @@
   {
     "item": "Victario's Influence",
     "stats": "+# to level of socketed gems, +# to level of socketed aura gems",
+    "average": 2102.388,
+    "prices": [
+      922.0999999999999,
+      1290.9399999999998,
+      1844.1999999999998,
+      3135.14,
+      3319.56
+    ],
+    "search": {
+      "id": "emYBeMnsL",
+      "complexity": 29,
+      "total": 5
+    },
     "builds": 3,
     "mods": [
       {
@@ -956,6 +1005,24 @@
   {
     "item": "Call of the Brotherhood",
     "stats": "#% increased rarity of items found",
+    "average": 25,
+    "prices": [
+      5,
+      10,
+      10,
+      15,
+      15,
+      25,
+      30,
+      40,
+      50,
+      50
+    ],
+    "search": {
+      "id": "gP0Yd9dsQ",
+      "complexity": 18,
+      "total": 17
+    },
     "builds": 3,
     "mods": [
       {
@@ -969,6 +1036,24 @@
   {
     "item": "Sadima's Touch",
     "stats": "curse enemies with elemental weakness on hit",
+    "average": 10,
+    "prices": [
+      9,
+      10,
+      10,
+      10,
+      10,
+      10,
+      10,
+      10,
+      10,
+      15
+    ],
+    "search": {
+      "id": "mP2gJyBu6",
+      "complexity": 18,
+      "total": 110
+    },
     "builds": 3,
     "mods": [
       {
@@ -982,6 +1067,24 @@
   {
     "item": "The Annihilating Light",
     "stats": "#% increased cast speed",
+    "average": 142.594,
+    "prices": [
+      25,
+      50,
+      60,
+      184.42,
+      184.42,
+      184.42,
+      184.42,
+      184.42,
+      184.42,
+      184.42
+    ],
+    "search": {
+      "id": "EG8PzJYF5",
+      "complexity": 18,
+      "total": 25
+    },
     "builds": 3,
     "mods": [
       {
@@ -995,6 +1098,15 @@
   {
     "item": "Vaal Caress",
     "stats": "+# to level of socketed aoe gems",
+    "average": 922.0999999999999,
+    "prices": [
+      922.0999999999999
+    ],
+    "search": {
+      "id": "mP2MqKJt6",
+      "complexity": 18,
+      "total": 1
+    },
     "builds": 3,
     "mods": [
       {
@@ -1008,6 +1120,24 @@
   {
     "item": "March of the Legion",
     "stats": "+# to level of socketed aura gems",
+    "average": 15.444444444444445,
+    "prices": [
+      10,
+      10,
+      10,
+      14,
+      15,
+      20,
+      20,
+      20,
+      20,
+      30
+    ],
+    "search": {
+      "id": "LeWwpGjFn",
+      "complexity": 18,
+      "total": 56
+    },
     "builds": 3,
     "mods": [
       {
@@ -1021,6 +1151,24 @@
   {
     "item": "March of the Legion",
     "stats": "+# to level of socketed gems",
+    "average": 7.2,
+    "prices": [
+      2,
+      3,
+      5,
+      5,
+      7,
+      10,
+      10,
+      10,
+      10,
+      10
+    ],
+    "search": {
+      "id": "jPpB8gdHX",
+      "complexity": 18,
+      "total": 77
+    },
     "builds": 3,
     "mods": [
       {
@@ -1034,6 +1182,24 @@
   {
     "item": "Kaom's Spirit",
     "stats": "attacks have +#% to critical strike chance",
+    "average": 399.11625000000004,
+    "prices": [
+      150,
+      276.63,
+      276.63,
+      368.84,
+      461.04999999999995,
+      553.26,
+      553.26,
+      553.26,
+      922.0999999999999,
+      1106.52
+    ],
+    "search": {
+      "id": "aboQ2v3Se",
+      "complexity": 18,
+      "total": 13
+    },
     "builds": 3,
     "mods": [
       {
@@ -1047,6 +1213,24 @@
   {
     "item": "Prism Guardian",
     "stats": "+# to level of socketed gems",
+    "average": 62.5,
+    "prices": [
+      40,
+      50,
+      50,
+      55,
+      65,
+      65,
+      70,
+      70,
+      80,
+      80
+    ],
+    "search": {
+      "id": "gPemZjjsQ",
+      "complexity": 18,
+      "total": 26
+    },
     "builds": 3,
     "mods": [
       {
@@ -1060,6 +1244,24 @@
   {
     "item": "Prism Guardian",
     "stats": "+# to level of socketed aura gems",
+    "average": 799.1533333333334,
+    "prices": [
+      737.68,
+      737.68,
+      737.68,
+      737.68,
+      737.68,
+      829.89,
+      829.89,
+      922.0999999999999,
+      922.0999999999999,
+      1659.78
+    ],
+    "search": {
+      "id": "bPZDn0aCL",
+      "complexity": 18,
+      "total": 11
+    },
     "builds": 3,
     "mods": [
       {
@@ -1073,6 +1275,24 @@
   {
     "item": "Alpha's Howl",
     "stats": "+# to level of socketed aoe gems",
+    "average": 289.7858,
+    "prices": [
+      150,
+      184.42,
+      184.42,
+      276.63,
+      276.63,
+      350.39799999999997,
+      368.84,
+      368.84,
+      368.84,
+      368.84
+    ],
+    "search": {
+      "id": "plL93DwS0",
+      "complexity": 18,
+      "total": 18
+    },
     "builds": 3,
     "mods": [
       {
@@ -1086,6 +1306,16 @@
   {
     "item": "Fractal Thoughts",
     "stats": "socketed skill gems get a #% cost & reservation multiplier",
+    "average": 1751.9899999999998,
+    "prices": [
+      1290.9399999999998,
+      2213.04
+    ],
+    "search": {
+      "id": "4drd57Mt9",
+      "complexity": 18,
+      "total": 2
+    },
     "builds": 3,
     "mods": [
       {
@@ -1099,6 +1329,24 @@
   {
     "item": "The Poet's Pen",
     "stats": "damage penetrates #% elemental resistances",
+    "average": 129.168,
+    "prices": [
+      50,
+      80,
+      80,
+      100,
+      100,
+      144,
+      184.42,
+      184.42,
+      184.42,
+      184.42
+    ],
+    "search": {
+      "id": "LeWk24Bin",
+      "complexity": 18,
+      "total": 15
+    },
     "builds": 3,
     "mods": [
       {
