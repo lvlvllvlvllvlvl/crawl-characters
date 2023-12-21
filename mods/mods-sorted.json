@@ -1,5 +1,36 @@
 [
   {
+    "item": "Matua Tupuna",
+    "stats": "+# to level of socketed aura gems",
+    "average": 721.3086000000001,
+    "prices": [
+      538.29,
+      628.005,
+      681.834,
+      699.777,
+      717.72,
+      717.72,
+      717.72,
+      717.72,
+      897.1500000000001,
+      897.1500000000001
+    ],
+    "search": {
+      "id": "0PQlkZ8ig",
+      "complexity": 18,
+      "total": 18
+    },
+    "builds": 13,
+    "mods": [
+      {
+        "text": "+# to level of socketed aura gems",
+        "trade_ids": [
+          "implicit.stat_2452998583"
+        ]
+      }
+    ]
+  },
+  {
     "item": "String of Servitude",
     "stats": "hatred has #% increased aura effect",
     "average": 4.666666666666667,
@@ -31,37 +62,6 @@
     ]
   },
   {
-    "item": "Matua Tupuna",
-    "stats": "+# to level of socketed aura gems",
-    "average": 721.3086000000001,
-    "prices": [
-      538.29,
-      628.005,
-      681.834,
-      699.777,
-      717.72,
-      717.72,
-      717.72,
-      717.72,
-      897.1500000000001,
-      897.1500000000001
-    ],
-    "search": {
-      "id": "0PQlkZ8ig",
-      "complexity": 18,
-      "total": 18
-    },
-    "builds": 12,
-    "mods": [
-      {
-        "text": "+# to level of socketed aura gems",
-        "trade_ids": [
-          "implicit.stat_2452998583"
-        ]
-      }
-    ]
-  },
-  {
     "item": "Southbound",
     "stats": "+#% to spell critical strike chance",
     "average": 20.714285714285715,
@@ -88,6 +88,33 @@
         "text": "+#% to spell critical strike chance",
         "trade_ids": [
           "implicit.stat_791835907"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Vaal Caress",
+    "stats": "+# to level of socketed duration gems",
+    "average": 807.4350000000001,
+    "prices": [
+      717.72,
+      717.72,
+      717.72,
+      897.1500000000001,
+      897.1500000000001,
+      897.1500000000001
+    ],
+    "search": {
+      "id": "abo0zLRHe",
+      "complexity": 18,
+      "total": 6
+    },
+    "builds": 11,
+    "mods": [
+      {
+        "text": "+# to level of socketed duration gems",
+        "trade_ids": [
+          "implicit.stat_2115168758"
         ]
       }
     ]
@@ -150,33 +177,6 @@
         "text": "#% increased rarity of items found",
         "trade_ids": [
           "implicit.stat_3917489142"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Vaal Caress",
-    "stats": "+# to level of socketed duration gems",
-    "average": 807.4350000000001,
-    "prices": [
-      717.72,
-      717.72,
-      717.72,
-      897.1500000000001,
-      897.1500000000001,
-      897.1500000000001
-    ],
-    "search": {
-      "id": "abo0zLRHe",
-      "complexity": 18,
-      "total": 6
-    },
-    "builds": 10,
-    "mods": [
-      {
-        "text": "+# to level of socketed duration gems",
-        "trade_ids": [
-          "implicit.stat_2115168758"
         ]
       }
     ]
@@ -524,6 +524,37 @@
     ]
   },
   {
+    "item": "Eyes of the Greatwolf",
+    "stats": "#% increased quantity of items found",
+    "average": 219.30333333333334,
+    "prices": [
+      179.43,
+      179.43,
+      179.43,
+      179.43,
+      215.316,
+      233.25900000000001,
+      269.145,
+      269.145,
+      269.145,
+      322.97400000000005
+    ],
+    "search": {
+      "id": "ZPQr9XbfQ",
+      "complexity": 18,
+      "total": 463
+    },
+    "builds": 6,
+    "mods": [
+      {
+        "text": "#% increased quantity of items found",
+        "trade_ids": [
+          "implicit.stat_884586851"
+        ]
+      }
+    ]
+  },
+  {
     "item": "Shadows and Dust",
     "stats": "attacks have +#% to critical strike chance",
     "average": 358.86,
@@ -679,32 +710,32 @@
     ]
   },
   {
-    "item": "Eyes of the Greatwolf",
-    "stats": "#% increased quantity of items found",
-    "average": 219.30333333333334,
+    "item": "Sadima's Touch",
+    "stats": "attacks have +#% to critical strike chance",
+    "average": 10,
     "prices": [
-      179.43,
-      179.43,
-      179.43,
-      179.43,
-      215.316,
-      233.25900000000001,
-      269.145,
-      269.145,
-      269.145,
-      322.97400000000005
+      5,
+      8,
+      10,
+      10,
+      10,
+      10,
+      10,
+      10,
+      10,
+      10
     ],
     "search": {
-      "id": "ZPQr9XbfQ",
+      "id": "2Gb38wjTk",
       "complexity": 18,
-      "total": 463
+      "total": 281
     },
     "builds": 5,
     "mods": [
       {
-        "text": "#% increased quantity of items found",
+        "text": "attacks have +#% to critical strike chance",
         "trade_ids": [
-          "implicit.stat_884586851"
+          "implicit.stat_2572042788"
         ]
       }
     ]
@@ -829,37 +860,6 @@
         "text": "+#% to spell critical strike chance",
         "trade_ids": [
           "implicit.stat_791835907"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Sadima's Touch",
-    "stats": "attacks have +#% to critical strike chance",
-    "average": 10,
-    "prices": [
-      5,
-      8,
-      10,
-      10,
-      10,
-      10,
-      10,
-      10,
-      10,
-      10
-    ],
-    "search": {
-      "id": "2Gb38wjTk",
-      "complexity": 18,
-      "total": 281
-    },
-    "builds": 4,
-    "mods": [
-      {
-        "text": "attacks have +#% to critical strike chance",
-        "trade_ids": [
-          "implicit.stat_2572042788"
         ]
       }
     ]
@@ -4135,6 +4135,19 @@
         "text": "+#% to all elemental resistances",
         "trade_ids": [
           "implicit.stat_2901986750"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Badge of the Brotherhood",
+    "stats": "+#% to all maximum resistances",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "+#% to all maximum resistances",
+        "trade_ids": [
+          "implicit.stat_569299859"
         ]
       }
     ]
@@ -10010,6 +10023,19 @@
   },
   {
     "item": "The Covenant",
+    "stats": "+# to level of socketed gems",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "+# to level of socketed gems",
+        "trade_ids": [
+          "implicit.stat_2843100721"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "The Covenant",
     "stats": "#% increased damage, #% increased maximum life",
     "average": 2731.2000000000003,
     "prices": [
@@ -12853,6 +12879,19 @@
   },
   {
     "item": "Intuitive Leap",
+    "stats": "corrupted blood cannot be inflicted on you",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "corrupted blood cannot be inflicted on you",
+        "trade_ids": [
+          "implicit.stat_1658498488"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Intuitive Leap",
     "stats": "you cannot be hindered",
     "average": 86.03,
     "prices": [
@@ -14002,6 +14041,76 @@
         "text": "curse enemies with elemental weakness on hit",
         "trade_ids": [
           "implicit.stat_2028847114"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Machina Mitts",
+    "stats": "curse enemies with elemental weakness on hit",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "curse enemies with elemental weakness on hit",
+        "trade_ids": [
+          "implicit.stat_2028847114"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Machina Mitts",
+    "stats": "#% increased maximum life, +#% to spell critical strike chance",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "RVYKX9qi7",
+      "complexity": 29,
+      "total": 0
+    },
+    "builds": 1,
+    "mods": [
+      {
+        "text": "#% increased maximum life",
+        "trade_ids": [
+          "implicit.stat_983749596"
+        ]
+      },
+      {
+        "text": "+#% to spell critical strike chance",
+        "trade_ids": [
+          "implicit.stat_791835907"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Machina Mitts",
+    "stats": "curse enemies with enfeeble on hit",
+    "average": 20.714285714285715,
+    "prices": [
+      9,
+      15,
+      20,
+      20,
+      20,
+      20,
+      25,
+      25,
+      35,
+      40
+    ],
+    "search": {
+      "id": "WV4WDGvum",
+      "complexity": 18,
+      "total": 14
+    },
+    "builds": 1,
+    "mods": [
+      {
+        "text": "curse enemies with enfeeble on hit",
+        "trade_ids": [
+          "implicit.stat_1625819882"
         ]
       }
     ]
@@ -15867,6 +15976,24 @@
   {
     "item": "Inpulsa's Broken Heart",
     "stats": "#% reduced lightning damage taken",
+    "average": 69.61600000000001,
+    "prices": [
+      20,
+      25,
+      25,
+      30,
+      40,
+      40,
+      50,
+      100,
+      183.08,
+      183.08
+    ],
+    "search": {
+      "id": "LmXP4Y2hn",
+      "complexity": 18,
+      "total": 16
+    },
     "builds": 1,
     "mods": [
       {
@@ -15880,6 +16007,24 @@
   {
     "item": "Inpulsa's Broken Heart",
     "stats": "you take #% reduced extra damage from critical strikes",
+    "average": 35.55555555555556,
+    "prices": [
+      20,
+      30,
+      30,
+      30,
+      30,
+      40,
+      40,
+      50,
+      50,
+      70
+    ],
+    "search": {
+      "id": "lX80WppIV",
+      "complexity": 18,
+      "total": 19
+    },
     "builds": 1,
     "mods": [
       {
@@ -15891,40 +16036,20 @@
     ]
   },
   {
-    "item": "Machina Mitts",
-    "stats": "#% increased maximum life, +#% to spell critical strike chance",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "#% increased maximum life",
-        "trade_ids": [
-          "implicit.stat_983749596"
-        ]
-      },
-      {
-        "text": "+#% to spell critical strike chance",
-        "trade_ids": [
-          "implicit.stat_791835907"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Machina Mitts",
-    "stats": "curse enemies with enfeeble on hit",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "curse enemies with enfeeble on hit",
-        "trade_ids": [
-          "implicit.stat_1625819882"
-        ]
-      }
-    ]
-  },
-  {
     "item": "The Gull",
     "stats": "socketed skill gems get a #% cost & reservation multiplier",
+    "average": 3341.2100000000005,
+    "prices": [
+      2929.28,
+      3112.36,
+      3661.6000000000004,
+      3661.6000000000004
+    ],
+    "search": {
+      "id": "y9EGvmgSR",
+      "complexity": 18,
+      "total": 4
+    },
     "builds": 1,
     "mods": [
       {
@@ -15938,6 +16063,24 @@
   {
     "item": "Lioneye's Fall",
     "stats": "corrupted blood cannot be inflicted on you",
+    "average": 838.0995555555554,
+    "prices": [
+      732.32,
+      732.32,
+      732.32,
+      787.244,
+      897.0920000000001,
+      915.4000000000001,
+      915.4000000000001,
+      915.4000000000001,
+      915.4000000000001,
+      3661.6000000000004
+    ],
+    "search": {
+      "id": "EG8yMgKs5",
+      "complexity": 18,
+      "total": 10
+    },
     "builds": 1,
     "mods": [
       {
@@ -15951,6 +16094,24 @@
   {
     "item": "Aegis Aurora",
     "stats": "+# to level of socketed gems",
+    "average": 55.625,
+    "prices": [
+      40,
+      45,
+      50,
+      50,
+      50,
+      50,
+      80,
+      80,
+      100,
+      183.08
+    ],
+    "search": {
+      "id": "80Z8EzGsV",
+      "complexity": 18,
+      "total": 23
+    },
     "builds": 1,
     "mods": [
       {
@@ -15964,6 +16125,24 @@
   {
     "item": "Aegis Aurora",
     "stats": "#% of physical damage from hits taken as fire damage",
+    "average": 58.333333333333336,
+    "prices": [
+      40,
+      40,
+      40,
+      40,
+      50,
+      55,
+      60,
+      100,
+      100,
+      183.08
+    ],
+    "search": {
+      "id": "lXjXX7kcV",
+      "complexity": 18,
+      "total": 22
+    },
     "builds": 1,
     "mods": [
       {
@@ -15977,6 +16156,21 @@
   {
     "item": "Memory Vault",
     "stats": "+# to maximum power charges",
+    "average": 889.2457142857144,
+    "prices": [
+      366.16,
+      549.24,
+      915.4000000000001,
+      915.4000000000001,
+      915.4000000000001,
+      1098.48,
+      1464.64
+    ],
+    "search": {
+      "id": "YVdGlWbFY",
+      "complexity": 18,
+      "total": 7
+    },
     "builds": 1,
     "mods": [
       {
@@ -15990,6 +16184,23 @@
   {
     "item": "Memory Vault",
     "stats": "+# to level of socketed projectile gems",
+    "average": 13.571428571428571,
+    "prices": [
+      5,
+      10,
+      10,
+      10,
+      20,
+      20,
+      20,
+      40,
+      1464.64
+    ],
+    "search": {
+      "id": "VM6vDGdFp",
+      "complexity": 18,
+      "total": 9
+    },
     "builds": 1,
     "mods": [
       {
@@ -16003,6 +16214,13 @@
   {
     "item": "The Poised Prism",
     "stats": "# to # added cold damage with bow attacks, # to # added lightning damage with bow attacks",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "lX80WLVsV",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -16022,6 +16240,19 @@
   {
     "item": "Indigon",
     "stats": "+# to maximum power charges",
+    "average": 549.24,
+    "prices": [
+      366.16,
+      366.16,
+      549.24,
+      915.4000000000001,
+      2746.2000000000003
+    ],
+    "search": {
+      "id": "jXJ9MZbHX",
+      "complexity": 18,
+      "total": 5
+    },
     "builds": 1,
     "mods": [
       {
@@ -16035,6 +16266,15 @@
   {
     "item": "Atziri's Foible",
     "stats": "you can apply an additional curse",
+    "average": 366.16,
+    "prices": [
+      366.16
+    ],
+    "search": {
+      "id": "dX4J9ObcJ",
+      "complexity": 18,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -16048,6 +16288,22 @@
   {
     "item": "Cloak of Defiance",
     "stats": "#% increased damage",
+    "average": 63.285714285714285,
+    "prices": [
+      10,
+      30,
+      44,
+      50,
+      60,
+      119,
+      130,
+      183.08
+    ],
+    "search": {
+      "id": "3GwWVB0I5",
+      "complexity": 18,
+      "total": 8
+    },
     "builds": 1,
     "mods": [
       {
@@ -16061,6 +16317,13 @@
   {
     "item": "Dance of the Offered",
     "stats": "+# to level of socketed gems",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "GkdRWoWCb",
+      "complexity": 18,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
