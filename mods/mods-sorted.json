@@ -14612,6 +14612,24 @@
   {
     "item": "Ephemeral Edge",
     "stats": "#% chance to gain onslaught for # seconds on kill",
+    "average": 12.777777777777779,
+    "prices": [
+      5,
+      5,
+      10,
+      10,
+      15,
+      15,
+      15,
+      20,
+      20,
+      30
+    ],
+    "search": {
+      "id": "z27GpRRI4",
+      "complexity": 18,
+      "total": 26
+    },
     "builds": 1,
     "mods": [
       {
@@ -14625,6 +14643,15 @@
   {
     "item": "Replica Heatshiver",
     "stats": "socketed skill gems get a #% cost & reservation multiplier",
+    "average": 3644.8,
+    "prices": [
+      3644.8
+    ],
+    "search": {
+      "id": "KJ2OBZqc5",
+      "complexity": 18,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -14638,6 +14665,16 @@
   {
     "item": "Replica Heatshiver",
     "stats": "+# to maximum power charges",
+    "average": 8656.400000000001,
+    "prices": [
+      6378.400000000001,
+      10934.400000000001
+    ],
+    "search": {
+      "id": "zelZyOmt4",
+      "complexity": 18,
+      "total": 2
+    },
     "builds": 1,
     "mods": [
       {
@@ -14651,6 +14688,15 @@
   {
     "item": "Snakebite",
     "stats": "+# to maximum frenzy charges, curse enemies with despair on hit",
+    "average": 13303.52,
+    "prices": [
+      13303.52
+    ],
+    "search": {
+      "id": "3Bg95KJs5",
+      "complexity": 29,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -14670,6 +14716,24 @@
   {
     "item": "Snakebite",
     "stats": "curse enemies with temporal chains on hit",
+    "average": 98,
+    "prices": [
+      80,
+      80,
+      80,
+      90,
+      100,
+      100,
+      100,
+      110,
+      120,
+      120
+    ],
+    "search": {
+      "id": "PK7gj0ZCL",
+      "complexity": 18,
+      "total": 38
+    },
     "builds": 1,
     "mods": [
       {
@@ -14683,6 +14747,20 @@
   {
     "item": "Fleshcrafter",
     "stats": "+# to level of socketed minion gems",
+    "average": 1822.4000000000003,
+    "prices": [
+      1822.4,
+      1822.4,
+      1822.4,
+      2150.4320000000002,
+      3644.8,
+      36448
+    ],
+    "search": {
+      "id": "4qnzvpvT9",
+      "complexity": 18,
+      "total": 6
+    },
     "builds": 1,
     "mods": [
       {
@@ -14696,6 +14774,24 @@
   {
     "item": "Seven-League Step",
     "stats": "+#% chance to suppress spell damage",
+    "average": 130.62,
+    "prices": [
+      35,
+      80,
+      80,
+      100,
+      100,
+      182.24,
+      182.24,
+      182.24,
+      182.24,
+      182.24
+    ],
+    "search": {
+      "id": "8av99q8IV",
+      "complexity": 19,
+      "total": 13
+    },
     "builds": 1,
     "mods": [
       {
@@ -14710,6 +14806,13 @@
   {
     "item": "Seven-League Step",
     "stats": "+# to level of socketed aura gems, #% increased maximum life",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "YVEoYy6UY",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -14729,6 +14832,24 @@
   {
     "item": "Eye of Malice",
     "stats": "regenerate #% of life per second",
+    "average": 13.7,
+    "prices": [
+      5,
+      8,
+      9,
+      10,
+      10,
+      10,
+      20,
+      20,
+      20,
+      25
+    ],
+    "search": {
+      "id": "LmdYYb5Fn",
+      "complexity": 18,
+      "total": 25
+    },
     "builds": 1,
     "mods": [
       {
@@ -14742,6 +14863,24 @@
   {
     "item": "Eye of Malice",
     "stats": "+# to level of socketed aoe gems",
+    "average": 14.777777777777779,
+    "prices": [
+      3,
+      8,
+      10,
+      12,
+      15,
+      15,
+      15,
+      18,
+      20,
+      20
+    ],
+    "search": {
+      "id": "YVozYvgIY",
+      "complexity": 18,
+      "total": 31
+    },
     "builds": 1,
     "mods": [
       {
@@ -14755,6 +14894,24 @@
   {
     "item": "Eye of Malice",
     "stats": "+# to maximum power charges",
+    "average": 150.9736,
+    "prices": [
+      119,
+      120,
+      120,
+      140,
+      150,
+      150,
+      164.01600000000002,
+      182.24,
+      182.24,
+      182.24
+    ],
+    "search": {
+      "id": "Lmdj637un",
+      "complexity": 18,
+      "total": 24
+    },
     "builds": 1,
     "mods": [
       {
@@ -14768,6 +14925,22 @@
   {
     "item": "Perquil's Toe",
     "stats": "you can apply an additional curse",
+    "average": 122.248,
+    "prices": [
+      60,
+      60,
+      150,
+      159,
+      182.24,
+      364.48,
+      1275.68,
+      1457.92
+    ],
+    "search": {
+      "id": "aboaB4aSe",
+      "complexity": 18,
+      "total": 8
+    },
     "builds": 1,
     "mods": [
       {
@@ -14781,6 +14954,24 @@
   {
     "item": "Doedre's Damning",
     "stats": "bleeding cannot be inflicted on you",
+    "average": 26.555555555555557,
+    "prices": [
+      10,
+      19,
+      20,
+      20,
+      25,
+      30,
+      30,
+      30,
+      30,
+      35
+    ],
+    "search": {
+      "id": "aqe6VnKue",
+      "complexity": 18,
+      "total": 18
+    },
     "builds": 1,
     "mods": [
       {
@@ -14794,6 +14985,13 @@
   {
     "item": "Windscream",
     "stats": "+# to level of socketed gems, +# to level of socketed minion gems",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "5o5MOmoua",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -14813,6 +15011,24 @@
   {
     "item": "Windscream",
     "stats": "#% increased movement speed",
+    "average": 89.47200000000001,
+    "prices": [
+      35,
+      35,
+      39,
+      40,
+      50,
+      59,
+      90,
+      182.24,
+      182.24,
+      182.24
+    ],
+    "search": {
+      "id": "pXjndPeT0",
+      "complexity": 18,
+      "total": 16
+    },
     "builds": 1,
     "mods": [
       {
@@ -14839,6 +15055,13 @@
   {
     "item": "Doedre's Tenure",
     "stats": "+# to maximum frenzy charges, +#% to spell critical strike chance",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "2BMLzGYIk",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
