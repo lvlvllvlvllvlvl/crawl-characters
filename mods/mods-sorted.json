@@ -11252,6 +11252,16 @@
   {
     "item": "Oskarm",
     "stats": "+# to level of socketed trap or mine gems, curse enemies with vulnerability on hit",
+    "average": 611.195,
+    "prices": [
+      564.1800000000001,
+      658.21
+    ],
+    "search": {
+      "id": "WVrvPVDum",
+      "complexity": 29,
+      "total": 2
+    },
     "builds": 1,
     "mods": [
       {
@@ -11271,6 +11281,13 @@
   {
     "item": "Oskarm",
     "stats": "curse enemies with vulnerability on hit, attacks have +#% to critical strike chance",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "qX42qr3Cg",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -11290,6 +11307,19 @@
   {
     "item": "Redblade Banner",
     "stats": "you take #% reduced extra damage from critical strikes",
+    "average": 399.62750000000005,
+    "prices": [
+      188.06,
+      376.12,
+      376.12,
+      658.21,
+      1504.48
+    ],
+    "search": {
+      "id": "BEJKXnjC8",
+      "complexity": 18,
+      "total": 5
+    },
     "builds": 1,
     "mods": [
       {
@@ -11303,6 +11333,24 @@
   {
     "item": "Redblade Banner",
     "stats": "#% of physical damage from hits taken as cold damage",
+    "average": 153.36666666666665,
+    "prices": [
+      90,
+      100,
+      100,
+      150,
+      188.06,
+      188.06,
+      188.06,
+      188.06,
+      188.06,
+      376.12
+    ],
+    "search": {
+      "id": "5okog5mFa",
+      "complexity": 18,
+      "total": 13
+    },
     "builds": 1,
     "mods": [
       {
@@ -11316,6 +11364,13 @@
   {
     "item": "Lightning Coil",
     "stats": "+# to level of socketed aoe gems, +# to level of socketed projectile gems",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "zeBjrpvH4",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -11335,6 +11390,24 @@
   {
     "item": "Lightning Coil",
     "stats": "#% additional physical damage reduction while stationary",
+    "average": 11.8,
+    "prices": [
+      3,
+      5,
+      10,
+      10,
+      12,
+      14,
+      15,
+      15,
+      15,
+      19
+    ],
+    "search": {
+      "id": "6ZBDYWkFG",
+      "complexity": 18,
+      "total": 44
+    },
     "builds": 1,
     "mods": [
       {
@@ -11348,6 +11421,13 @@
   {
     "item": "Lightning Coil",
     "stats": "#% increased damage, #% reduced lightning damage taken",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "XqDYal7CP",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -11367,6 +11447,24 @@
   {
     "item": "Lightning Coil",
     "stats": "#% increased damage",
+    "average": 43,
+    "prices": [
+      35,
+      40,
+      40,
+      40,
+      40,
+      40,
+      45,
+      50,
+      50,
+      50
+    ],
+    "search": {
+      "id": "DGEGlVVc5",
+      "complexity": 18,
+      "total": 79
+    },
     "builds": 1,
     "mods": [
       {
@@ -11380,6 +11478,24 @@
   {
     "item": "Lightning Coil",
     "stats": "+# to level of socketed minion gems",
+    "average": 188.05999999999997,
+    "prices": [
+      150,
+      188.06,
+      188.06,
+      188.06,
+      188.06,
+      188.06,
+      188.06,
+      282.09000000000003,
+      300.896,
+      376.12
+    ],
+    "search": {
+      "id": "8aprQ3VTV",
+      "complexity": 18,
+      "total": 41
+    },
     "builds": 1,
     "mods": [
       {
@@ -11393,6 +11509,24 @@
   {
     "item": "Lightning Coil",
     "stats": "+#% to all maximum resistances",
+    "average": 17.3,
+    "prices": [
+      10,
+      10,
+      15,
+      19,
+      19,
+      20,
+      20,
+      20,
+      20,
+      20
+    ],
+    "search": {
+      "id": "80Z0zlZcV",
+      "complexity": 18,
+      "total": 54
+    },
     "builds": 1,
     "mods": [
       {
@@ -11406,6 +11540,24 @@
   {
     "item": "The Magnate",
     "stats": "+#% to critical strike multiplier during any flask effect",
+    "average": 188.05999999999997,
+    "prices": [
+      188.06,
+      188.06,
+      188.06,
+      188.06,
+      188.06,
+      188.06,
+      188.06,
+      188.06,
+      188.06,
+      188.06
+    ],
+    "search": {
+      "id": "y9RWXZ8IR",
+      "complexity": 18,
+      "total": 32
+    },
     "builds": 1,
     "mods": [
       {
@@ -11419,6 +11571,24 @@
   {
     "item": "The Magnate",
     "stats": "hatred has #% increased aura effect",
+    "average": 70.5,
+    "prices": [
+      40,
+      40,
+      50,
+      55,
+      55,
+      70,
+      75,
+      100,
+      100,
+      120
+    ],
+    "search": {
+      "id": "RVBg6k4I7",
+      "complexity": 18,
+      "total": 34
+    },
     "builds": 1,
     "mods": [
       {
@@ -11432,6 +11602,24 @@
   {
     "item": "The Magnate",
     "stats": "+#% to all elemental resistances",
+    "average": 263.28399999999993,
+    "prices": [
+      188.06,
+      188.06,
+      188.06,
+      188.06,
+      188.06,
+      282.09000000000003,
+      376.12,
+      376.12,
+      394.92600000000004,
+      564.1800000000001
+    ],
+    "search": {
+      "id": "mXjMRMeT6",
+      "complexity": 18,
+      "total": 10
+    },
     "builds": 1,
     "mods": [
       {
@@ -11445,6 +11633,24 @@
   {
     "item": "Abyssus",
     "stats": "+# to maximum power charges",
+    "average": 37.5,
+    "prices": [
+      10,
+      15,
+      25,
+      40,
+      40,
+      45,
+      50,
+      50,
+      50,
+      50
+    ],
+    "search": {
+      "id": "aqeEGJ7se",
+      "complexity": 18,
+      "total": 34
+    },
     "builds": 1,
     "mods": [
       {
@@ -11458,6 +11664,24 @@
   {
     "item": "Voidforge",
     "stats": "#% increased elemental damage with attack skills",
+    "average": 6079.979799999999,
+    "prices": [
+      5416.128000000001,
+      5453.74,
+      5453.74,
+      5547.77,
+      5641.8,
+      6394.04,
+      6582.1,
+      6582.1,
+      6582.1,
+      7146.28
+    ],
+    "search": {
+      "id": "rXmE2XmfQ",
+      "complexity": 18,
+      "total": 16
+    },
     "builds": 1,
     "mods": [
       {
