@@ -3240,6 +3240,13 @@
   {
     "item": "Perandus Blazon",
     "stats": "#% increased rarity of items found, zealotry has #% increased aura effect",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "LmonEMVhn",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 2,
     "mods": [
       {
@@ -3259,6 +3266,24 @@
   {
     "item": "Sentari's Answer",
     "stats": "#% increased maximum energy shield",
+    "average": 8.11111111111111,
+    "prices": [
+      1.4,
+      5,
+      5,
+      5,
+      7,
+      10,
+      10,
+      10,
+      10,
+      11
+    ],
+    "search": {
+      "id": "EydaRLzh5",
+      "complexity": 18,
+      "total": 27
+    },
     "builds": 2,
     "mods": [
       {
@@ -3272,6 +3297,24 @@
   {
     "item": "Sentari's Answer",
     "stats": "#% of physical damage from hits taken as fire damage",
+    "average": 12.5,
+    "prices": [
+      5,
+      5,
+      10,
+      10,
+      10,
+      10,
+      15,
+      20,
+      20,
+      20
+    ],
+    "search": {
+      "id": "LeWraOlFn",
+      "complexity": 18,
+      "total": 55
+    },
     "builds": 2,
     "mods": [
       {
@@ -3285,6 +3328,13 @@
   {
     "item": "Mageblood",
     "stats": "#% increased maximum life, grace has #% increased aura effect",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "pXvPpyvT0",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 2,
     "mods": [
       {
@@ -3304,6 +3354,24 @@
   {
     "item": "Devoto's Devotion",
     "stats": "+# to maximum power charges",
+    "average": 28.4,
+    "prices": [
+      15,
+      20,
+      25,
+      25,
+      25,
+      29,
+      30,
+      35,
+      40,
+      40
+    ],
+    "search": {
+      "id": "OVnJZWrSE",
+      "complexity": 18,
+      "total": 74
+    },
     "builds": 2,
     "mods": [
       {
@@ -3317,6 +3385,24 @@
   {
     "item": "Ancient Skull",
     "stats": "socketed skill gems get a #% cost & reservation multiplier",
+    "average": 323.2845000000001,
+    "prices": [
+      195.93,
+      195.93,
+      195.93,
+      293.895,
+      391.86,
+      391.86,
+      391.86,
+      391.86,
+      391.86,
+      391.86
+    ],
+    "search": {
+      "id": "9Y2Zr48UK",
+      "complexity": 18,
+      "total": 33
+    },
     "builds": 2,
     "mods": [
       {
@@ -3330,6 +3416,24 @@
   {
     "item": "Obliteration",
     "stats": "#% increased area of effect",
+    "average": 12.9,
+    "prices": [
+      5,
+      6,
+      10,
+      10,
+      10,
+      13,
+      15,
+      20,
+      20,
+      20
+    ],
+    "search": {
+      "id": "dX4QqW3hJ",
+      "complexity": 18,
+      "total": 69
+    },
     "builds": 2,
     "mods": [
       {
@@ -3343,6 +3447,24 @@
   {
     "item": "Severed in Sleep",
     "stats": "#% chance to gain onslaught for # seconds on kill",
+    "average": 13.5,
+    "prices": [
+      10,
+      10,
+      12,
+      14,
+      14,
+      15,
+      15,
+      15,
+      15,
+      15
+    ],
+    "search": {
+      "id": "GkdLwRZHb",
+      "complexity": 18,
+      "total": 21
+    },
     "builds": 2,
     "mods": [
       {
@@ -3356,6 +3478,24 @@
   {
     "item": "Saffell's Frame",
     "stats": "#% of physical damage from hits taken as chaos damage",
+    "average": 1012.3050000000001,
+    "prices": [
+      195.93,
+      685.755,
+      744.534,
+      783.72,
+      783.72,
+      881.6850000000001,
+      979.6500000000001,
+      1312.731,
+      1371.51,
+      1567.44
+    ],
+    "search": {
+      "id": "2BrBPO5hk",
+      "complexity": 18,
+      "total": 12
+    },
     "builds": 2,
     "mods": [
       {
@@ -3369,6 +3509,24 @@
   {
     "item": "Legacy of Fury",
     "stats": "+# to maximum endurance charges",
+    "average": 195.93000000000004,
+    "prices": [
+      156.74400000000003,
+      176.33700000000002,
+      195.93,
+      195.93,
+      195.93,
+      195.93,
+      195.93,
+      195.93,
+      195.93,
+      195.93
+    ],
+    "search": {
+      "id": "0PQZ0g7Ig",
+      "complexity": 18,
+      "total": 43
+    },
     "builds": 2,
     "mods": [
       {
@@ -3382,6 +3540,21 @@
   {
     "item": "Ephemeral Edge",
     "stats": "resolute technique",
+    "average": 1534.785,
+    "prices": [
+      1175.58,
+      1371.51,
+      1371.51,
+      1567.44,
+      1763.3700000000001,
+      1959.3000000000002,
+      2743.02
+    ],
+    "search": {
+      "id": "3BrQ3l9c5",
+      "complexity": 18,
+      "total": 7
+    },
     "builds": 2,
     "mods": [
       {
@@ -3395,6 +3568,21 @@
   {
     "item": "Fleshcrafter",
     "stats": "+# to level of socketed duration gems",
+    "average": 2043.27,
+    "prices": [
+      1371.51,
+      1567.44,
+      1959.3000000000002,
+      2351.16,
+      2351.16,
+      2351.16,
+      2351.16
+    ],
+    "search": {
+      "id": "GZypBposb",
+      "complexity": 18,
+      "total": 7
+    },
     "builds": 2,
     "mods": [
       {
@@ -3408,6 +3596,24 @@
   {
     "item": "Shavronne's Wrappings",
     "stats": "+# to level of socketed aura gems",
+    "average": 52.5,
+    "prices": [
+      20,
+      20,
+      20,
+      35,
+      50,
+      50,
+      50,
+      80,
+      100,
+      100
+    ],
+    "search": {
+      "id": "3BrP4bGs5",
+      "complexity": 18,
+      "total": 41
+    },
     "builds": 2,
     "mods": [
       {
@@ -3421,6 +3627,24 @@
   {
     "item": "Ylfeban's Trickery",
     "stats": "+# to maximum power charges",
+    "average": 103.75,
+    "prices": [
+      80,
+      80,
+      85,
+      100,
+      120,
+      120,
+      120,
+      125,
+      174,
+      195.93
+    ],
+    "search": {
+      "id": "bXRmpQGTL",
+      "complexity": 18,
+      "total": 17
+    },
     "builds": 2,
     "mods": [
       {
@@ -3434,6 +3658,24 @@
   {
     "item": "Willclash",
     "stats": "+# to maximum power charges",
+    "average": 2292.3810000000003,
+    "prices": [
+      1959.3000000000002,
+      1959.3000000000002,
+      1959.3000000000002,
+      1959.3000000000002,
+      2155.23,
+      2155.23,
+      2547.09,
+      2547.09,
+      2743.02,
+      2938.9500000000003
+    ],
+    "search": {
+      "id": "Qr6G5weSw",
+      "complexity": 18,
+      "total": 18
+    },
     "builds": 2,
     "mods": [
       {
