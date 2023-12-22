@@ -1241,6 +1241,37 @@
     ]
   },
   {
+    "item": "Haemophilia",
+    "stats": "curse enemies with vulnerability on hit",
+    "average": 411.6464444444445,
+    "prices": [
+      286.455,
+      362.84299999999996,
+      381.94,
+      381.94,
+      381.94,
+      381.94,
+      381.94,
+      477.425,
+      477.425,
+      477.425
+    ],
+    "search": {
+      "id": "W5XVezVsm",
+      "complexity": 18,
+      "total": 25
+    },
+    "builds": 3,
+    "mods": [
+      {
+        "text": "curse enemies with vulnerability on hit",
+        "trade_ids": [
+          "implicit.stat_3967845372"
+        ]
+      }
+    ]
+  },
+  {
     "item": "Prism Guardian",
     "stats": "+# to level of socketed gems",
     "average": 87.14285714285714,
@@ -2747,37 +2778,6 @@
         "text": "curse enemies with elemental weakness on hit",
         "trade_ids": [
           "implicit.stat_2028847114"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Haemophilia",
-    "stats": "curse enemies with vulnerability on hit",
-    "average": 411.6464444444445,
-    "prices": [
-      286.455,
-      362.84299999999996,
-      381.94,
-      381.94,
-      381.94,
-      381.94,
-      381.94,
-      477.425,
-      477.425,
-      477.425
-    ],
-    "search": {
-      "id": "W5XVezVsm",
-      "complexity": 18,
-      "total": 25
-    },
-    "builds": 2,
-    "mods": [
-      {
-        "text": "curse enemies with vulnerability on hit",
-        "trade_ids": [
-          "implicit.stat_3967845372"
         ]
       }
     ]
@@ -4324,6 +4324,25 @@
         "text": "+# to level of socketed gems",
         "trade_ids": [
           "implicit.stat_2843100721"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "The Fourth Vow",
+    "stats": "+# to level of socketed gems, #% increased maximum energy shield",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "+# to level of socketed gems",
+        "trade_ids": [
+          "implicit.stat_2843100721"
+        ]
+      },
+      {
+        "text": "#% increased maximum energy shield",
+        "trade_ids": [
+          "implicit.stat_2482852589"
         ]
       }
     ]
@@ -12108,6 +12127,19 @@
   {
     "item": "Lightpoacher",
     "stats": "regenerate #% of life per second",
+    "average": 21.25,
+    "prices": [
+      10,
+      10,
+      30,
+      35,
+      78
+    ],
+    "search": {
+      "id": "3B6QJKgF5",
+      "complexity": 18,
+      "total": 5
+    },
     "builds": 1,
     "mods": [
       {
@@ -12121,6 +12153,13 @@
   {
     "item": "Belly of the Beast",
     "stats": "+# to level of socketed aoe gems, #% increased damage",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "rXVmnzmfQ",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -12140,6 +12179,15 @@
   {
     "item": "Belly of the Beast",
     "stats": "+# to level of socketed gems, +# to level of socketed warcry gems",
+    "average": 194.97,
+    "prices": [
+      194.97
+    ],
+    "search": {
+      "id": "zel8K6OT4",
+      "complexity": 29,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -12159,6 +12207,13 @@
   {
     "item": "Le Heup of All",
     "stats": "anger has #% increased aura effect, wrath has #% increased aura effect",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "qXDjO2kSg",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -12178,6 +12233,16 @@
   {
     "item": "Bronn's Lithe",
     "stats": "+# to level of socketed aoe gems, you take #% reduced extra damage from critical strikes",
+    "average": 4377.0765,
+    "prices": [
+      2905.053,
+      5849.1
+    ],
+    "search": {
+      "id": "zeG3n6RF4",
+      "complexity": 29,
+      "total": 2
+    },
     "builds": 1,
     "mods": [
       {
@@ -12197,6 +12262,24 @@
   {
     "item": "Might of the Meek",
     "stats": "#% reduced effect of chill on you",
+    "average": 17.241111111111113,
+    "prices": [
+      10,
+      15,
+      15,
+      15,
+      15,
+      18,
+      18,
+      19.169999999999998,
+      20,
+      20
+    ],
+    "search": {
+      "id": "pXEoybbH0",
+      "complexity": 18,
+      "total": 23
+    },
     "builds": 1,
     "mods": [
       {
@@ -12210,6 +12293,24 @@
   {
     "item": "Might of the Meek",
     "stats": "#% increased effect of non-damaging ailments",
+    "average": 14.6,
+    "prices": [
+      8,
+      9,
+      10,
+      10,
+      10,
+      15,
+      19,
+      20,
+      20,
+      25
+    ],
+    "search": {
+      "id": "qXjDDjWfg",
+      "complexity": 18,
+      "total": 19
+    },
     "builds": 1,
     "mods": [
       {
@@ -12223,6 +12324,20 @@
   {
     "item": "Might of the Meek",
     "stats": "you cannot be maimed",
+    "average": 32,
+    "prices": [
+      5,
+      10,
+      25,
+      50,
+      70,
+      194.97
+    ],
+    "search": {
+      "id": "lXJV8VrhV",
+      "complexity": 18,
+      "total": 6
+    },
     "builds": 1,
     "mods": [
       {
@@ -12236,6 +12351,22 @@
   {
     "item": "Might of the Meek",
     "stats": "you cannot be cursed with silence",
+    "average": 66.74625,
+    "prices": [
+      10,
+      10,
+      14,
+      20,
+      25,
+      80,
+      180,
+      194.97
+    ],
+    "search": {
+      "id": "BGrV83KC8",
+      "complexity": 18,
+      "total": 8
+    },
     "builds": 1,
     "mods": [
       {
@@ -12249,6 +12380,21 @@
   {
     "item": "Might of the Meek",
     "stats": "you cannot be hindered",
+    "average": 26.666666666666668,
+    "prices": [
+      15,
+      20,
+      20,
+      30,
+      35,
+      40,
+      70
+    ],
+    "search": {
+      "id": "RVBXglWU7",
+      "complexity": 18,
+      "total": 7
+    },
     "builds": 1,
     "mods": [
       {
@@ -12262,6 +12408,23 @@
   {
     "item": "Might of the Meek",
     "stats": "damage penetrates #% lightning resistance",
+    "average": 14.166666666666666,
+    "prices": [
+      10,
+      10,
+      10,
+      15,
+      20,
+      20,
+      40,
+      80,
+      194.97
+    ],
+    "search": {
+      "id": "lXODXjrhV",
+      "complexity": 19,
+      "total": 9
+    },
     "builds": 1,
     "mods": [
       {
@@ -12276,6 +12439,24 @@
   {
     "item": "Might of the Meek",
     "stats": "#% increased global critical strike chance",
+    "average": 25.4,
+    "prices": [
+      9,
+      17,
+      18,
+      20,
+      20,
+      20,
+      35,
+      35,
+      40,
+      40
+    ],
+    "search": {
+      "id": "3Gw30nJU5",
+      "complexity": 18,
+      "total": 18
+    },
     "builds": 1,
     "mods": [
       {
@@ -12289,6 +12470,15 @@
   {
     "item": "Unnatural Instinct",
     "stats": "#% increased global critical strike chance, damage penetrates #% cold resistance",
+    "average": 1364.79,
+    "prices": [
+      1364.79
+    ],
+    "search": {
+      "id": "WVkzPqRfm",
+      "complexity": 30,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -12309,6 +12499,16 @@
   {
     "item": "Unnatural Instinct",
     "stats": "you cannot be maimed, #% reduced bleed duration on you",
+    "average": 633.6525,
+    "prices": [
+      487.425,
+      779.88
+    ],
+    "search": {
+      "id": "OqeJXDzhE",
+      "complexity": 29,
+      "total": 2
+    },
     "builds": 1,
     "mods": [
       {
@@ -12328,6 +12528,13 @@
   {
     "item": "Unnatural Instinct",
     "stats": "damage penetrates #% cold resistance, damage penetrates #% lightning resistance",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "GkOz8ooub",
+      "complexity": 31,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -12458,6 +12665,25 @@
         "text": "#% reduced bleed duration on you",
         "trade_ids": [
           "implicit.stat_1692879867"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Unnatural Instinct",
+    "stats": "you cannot be maimed, corrupted blood cannot be inflicted on you",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "you cannot be maimed",
+        "trade_ids": [
+          "implicit.stat_1126826428"
+        ]
+      },
+      {
+        "text": "corrupted blood cannot be inflicted on you",
+        "trade_ids": [
+          "implicit.stat_1658498488"
         ]
       }
     ]
@@ -14470,6 +14696,25 @@
         "text": "#% increased maximum energy shield",
         "trade_ids": [
           "implicit.stat_2482852589"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Black Sun Crest",
+    "stats": "socketed skill gems get a #% cost & reservation multiplier, cannot be blinded",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "socketed skill gems get a #% cost & reservation multiplier",
+        "trade_ids": [
+          "implicit.stat_2865550257"
+        ]
+      },
+      {
+        "text": "cannot be blinded",
+        "trade_ids": [
+          "implicit.stat_1436284579"
         ]
       }
     ]
