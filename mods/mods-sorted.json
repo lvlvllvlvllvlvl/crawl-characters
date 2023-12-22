@@ -7705,6 +7705,24 @@
   {
     "item": "Vaal Caress",
     "stats": "+# to level of socketed gems",
+    "average": 57.5,
+    "prices": [
+      50,
+      50,
+      55,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60,
+      60
+    ],
+    "search": {
+      "id": "abo0rZRue",
+      "complexity": 18,
+      "total": 45
+    },
     "builds": 1,
     "mods": [
       {
@@ -7718,6 +7736,24 @@
   {
     "item": "Dendrobate",
     "stats": "+# to level of socketed duration gems",
+    "average": 10.1,
+    "prices": [
+      1,
+      5,
+      5,
+      10,
+      10,
+      10,
+      10,
+      15,
+      15,
+      20
+    ],
+    "search": {
+      "id": "4drQv4ZH9",
+      "complexity": 18,
+      "total": 114
+    },
     "builds": 1,
     "mods": [
       {
@@ -7731,6 +7767,15 @@
   {
     "item": "Dendrobate",
     "stats": "+# to level of socketed gems, +# to level of socketed duration gems",
+    "average": 13350.44,
+    "prices": [
+      13350.44
+    ],
+    "search": {
+      "id": "yrJqJ6qhR",
+      "complexity": 29,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -7750,6 +7795,13 @@
   {
     "item": "Dendrobate",
     "stats": "+# to level of socketed aoe gems, #% increased damage",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "vlPVe4zSE",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -7769,6 +7821,13 @@
   {
     "item": "Asenath's Gentle Touch",
     "stats": "+# to level of socketed warcry gems, curse enemies with enfeeble on hit",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "3BDl699I5",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -7788,6 +7847,15 @@
   {
     "item": "Asenath's Gentle Touch",
     "stats": "#% increased attack speed, curse enemies with enfeeble on hit",
+    "average": 80,
+    "prices": [
+      80
+    ],
+    "search": {
+      "id": "5okjk8Dia",
+      "complexity": 30,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -7808,6 +7876,13 @@
   {
     "item": "Asenath's Gentle Touch",
     "stats": "+# to level of socketed aura gems, curse enemies with vulnerability on hit",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "vlPE4wLCE",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -7827,6 +7902,20 @@
   {
     "item": "Asenath's Gentle Touch",
     "stats": "+# to level of socketed warcry gems, #% increased attack speed",
+    "average": 39.333333333333336,
+    "prices": [
+      35,
+      40,
+      43,
+      65,
+      100,
+      196.33
+    ],
+    "search": {
+      "id": "5odkd22Sa",
+      "complexity": 30,
+      "total": 6
+    },
     "builds": 1,
     "mods": [
       {
@@ -7847,6 +7936,15 @@
   {
     "item": "Asenath's Gentle Touch",
     "stats": "#% increased maximum energy shield, attacks have +#% to critical strike chance",
+    "average": 55,
+    "prices": [
+      55
+    ],
+    "search": {
+      "id": "2BaeBW5hk",
+      "complexity": 29,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -7866,6 +7964,15 @@
   {
     "item": "Asenath's Gentle Touch",
     "stats": "+# to level of socketed aura gems, curse enemies with elemental weakness on hit",
+    "average": 294.495,
+    "prices": [
+      294.495
+    ],
+    "search": {
+      "id": "YVRG64RhY",
+      "complexity": 29,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -7885,6 +7992,15 @@
   {
     "item": "Asenath's Gentle Touch",
     "stats": "#% increased attack speed, #% increased cast speed",
+    "average": 588.99,
+    "prices": [
+      588.99
+    ],
+    "search": {
+      "id": "y9RLrPguR",
+      "complexity": 30,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -7905,6 +8021,15 @@
   {
     "item": "Asenath's Gentle Touch",
     "stats": "+# to level of socketed aura gems, #% increased cast speed",
+    "average": 9816.5,
+    "prices": [
+      9816.5
+    ],
+    "search": {
+      "id": "9Y2KZKOIK",
+      "complexity": 29,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -7924,6 +8049,15 @@
   {
     "item": "Asenath's Gentle Touch",
     "stats": "+# to level of socketed minion gems, attacks have +#% to critical strike chance",
+    "average": 10,
+    "prices": [
+      10
+    ],
+    "search": {
+      "id": "VMpPDK2tp",
+      "complexity": 29,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -7943,6 +8077,15 @@
   {
     "item": "Asenath's Gentle Touch",
     "stats": "curse enemies with elemental weakness on hit, curse enemies with enfeeble on hit",
+    "average": 392.66,
+    "prices": [
+      392.66
+    ],
+    "search": {
+      "id": "QV05ojvHw",
+      "complexity": 29,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -7962,6 +8105,16 @@
   {
     "item": "Asenath's Gentle Touch",
     "stats": "#% increased cast speed, #% increased maximum life",
+    "average": 2405.0425,
+    "prices": [
+      883.485,
+      3926.6000000000004
+    ],
+    "search": {
+      "id": "eXWqWYbcL",
+      "complexity": 29,
+      "total": 2
+    },
     "builds": 1,
     "mods": [
       {
