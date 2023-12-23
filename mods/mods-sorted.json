@@ -12156,6 +12156,15 @@
   {
     "item": "Ceinture of Benevolence",
     "stats": "#% increased maximum energy shield, #% increased cast speed during any flask effect",
+    "average": 125,
+    "prices": [
+      125
+    ],
+    "search": {
+      "id": "kXlZRd3U5",
+      "complexity": 29,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -12175,6 +12184,24 @@
   {
     "item": "Ceinture of Benevolence",
     "stats": "hatred has #% increased aura effect",
+    "average": 11.6,
+    "prices": [
+      3,
+      5,
+      5,
+      10,
+      10,
+      10,
+      15,
+      18,
+      20,
+      20
+    ],
+    "search": {
+      "id": "oX7Dn3Osl",
+      "complexity": 18,
+      "total": 34
+    },
     "builds": 1,
     "mods": [
       {
@@ -12188,6 +12215,13 @@
   {
     "item": "Rathpith Globe",
     "stats": "+# to level of socketed aoe gems, +# to level of socketed warcry gems",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "KJXDXEPI5",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -12207,6 +12241,24 @@
   {
     "item": "Rathpith Globe",
     "stats": "#% increased maximum life",
+    "average": 1060.32,
+    "prices": [
+      609.12,
+      812.16,
+      812.16,
+      1015.1999999999999,
+      1015.1999999999999,
+      1015.1999999999999,
+      1218.24,
+      1218.24,
+      1218.24,
+      1218.24
+    ],
+    "search": {
+      "id": "PK7amZvTL",
+      "complexity": 18,
+      "total": 18
+    },
     "builds": 1,
     "mods": [
       {
@@ -12220,6 +12272,18 @@
   {
     "item": "Lightpoacher",
     "stats": "regenerate #% of life per second",
+    "average": 30,
+    "prices": [
+      30,
+      30,
+      35,
+      100
+    ],
+    "search": {
+      "id": "3B6QJKgF5",
+      "complexity": 18,
+      "total": 4
+    },
     "builds": 1,
     "mods": [
       {
@@ -12233,6 +12297,13 @@
   {
     "item": "Belly of the Beast",
     "stats": "+# to level of socketed aoe gems, #% increased damage",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "rXVmnzmfQ",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -12252,6 +12323,15 @@
   {
     "item": "Belly of the Beast",
     "stats": "+# to level of socketed gems, +# to level of socketed warcry gems",
+    "average": 203.04,
+    "prices": [
+      203.04
+    ],
+    "search": {
+      "id": "zel8K6OT4",
+      "complexity": 29,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -12271,6 +12351,13 @@
   {
     "item": "Le Heup of All",
     "stats": "anger has #% increased aura effect, wrath has #% increased aura effect",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "qXDjO2kSg",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -12290,6 +12377,16 @@
   {
     "item": "Bronn's Lithe",
     "stats": "+# to level of socketed aoe gems, you take #% reduced extra damage from critical strikes",
+    "average": 2030.3999999999999,
+    "prices": [
+      2030.3999999999999,
+      2030.3999999999999
+    ],
+    "search": {
+      "id": "zeG3n6RF4",
+      "complexity": 29,
+      "total": 2
+    },
     "builds": 1,
     "mods": [
       {
@@ -12309,6 +12406,24 @@
   {
     "item": "Might of the Meek",
     "stats": "#% reduced effect of chill on you",
+    "average": 17.896666666666665,
+    "prices": [
+      5,
+      14,
+      15,
+      16,
+      18,
+      18,
+      20.07,
+      20,
+      20,
+      20
+    ],
+    "search": {
+      "id": "pXEoybbH0",
+      "complexity": 18,
+      "total": 20
+    },
     "builds": 1,
     "mods": [
       {
@@ -12322,6 +12437,24 @@
   {
     "item": "Might of the Meek",
     "stats": "#% increased effect of non-damaging ailments",
+    "average": 17.6,
+    "prices": [
+      9,
+      10,
+      10,
+      12,
+      15,
+      20,
+      20,
+      25,
+      25,
+      30
+    ],
+    "search": {
+      "id": "qXjDDjWfg",
+      "complexity": 18,
+      "total": 13
+    },
     "builds": 1,
     "mods": [
       {
@@ -12335,6 +12468,20 @@
   {
     "item": "Might of the Meek",
     "stats": "you cannot be maimed",
+    "average": 29,
+    "prices": [
+      10,
+      15,
+      20,
+      50,
+      50,
+      203.04
+    ],
+    "search": {
+      "id": "lXJV8VrhV",
+      "complexity": 18,
+      "total": 6
+    },
     "builds": 1,
     "mods": [
       {
@@ -12348,6 +12495,23 @@
   {
     "item": "Might of the Meek",
     "stats": "you cannot be cursed with silence",
+    "average": 77.2311111111111,
+    "prices": [
+      10,
+      14,
+      20,
+      25,
+      35,
+      65,
+      120,
+      203.04,
+      203.04
+    ],
+    "search": {
+      "id": "BGrV83KC8",
+      "complexity": 18,
+      "total": 9
+    },
     "builds": 1,
     "mods": [
       {
@@ -12361,6 +12525,24 @@
   {
     "item": "Might of the Meek",
     "stats": "you cannot be hindered",
+    "average": 27.25,
+    "prices": [
+      10,
+      15,
+      15,
+      15,
+      39,
+      40,
+      40,
+      44,
+      70,
+      80
+    ],
+    "search": {
+      "id": "RVBXglWU7",
+      "complexity": 18,
+      "total": 10
+    },
     "builds": 1,
     "mods": [
       {
@@ -12374,6 +12556,24 @@
   {
     "item": "Might of the Meek",
     "stats": "damage penetrates #% lightning resistance",
+    "average": 17.4,
+    "prices": [
+      9,
+      10,
+      10,
+      10,
+      20,
+      20,
+      20,
+      20,
+      25,
+      30
+    ],
+    "search": {
+      "id": "lXODXjrhV",
+      "complexity": 19,
+      "total": 13
+    },
     "builds": 1,
     "mods": [
       {
