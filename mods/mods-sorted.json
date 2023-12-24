@@ -14776,6 +14776,24 @@
   {
     "item": "Crown of the Inward Eye",
     "stats": "#% increased maximum life",
+    "average": 53,
+    "prices": [
+      15,
+      15,
+      20,
+      25,
+      60,
+      75,
+      80,
+      80,
+      80,
+      80
+    ],
+    "search": {
+      "id": "Bq9WJbXT8",
+      "complexity": 18,
+      "total": 40
+    },
     "builds": 1,
     "mods": [
       {
@@ -14789,6 +14807,24 @@
   {
     "item": "Crown of the Inward Eye",
     "stats": "regenerate #% of life per second",
+    "average": 19.2,
+    "prices": [
+      10,
+      10,
+      10,
+      15,
+      20,
+      20,
+      20,
+      27,
+      30,
+      30
+    ],
+    "search": {
+      "id": "qayp5XWsg",
+      "complexity": 18,
+      "total": 34
+    },
     "builds": 1,
     "mods": [
       {
@@ -14802,6 +14838,13 @@
   {
     "item": "Devoto's Devotion",
     "stats": "+# to maximum power charges, regenerate #% of life per second",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "lXqEQlniV",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -14821,6 +14864,13 @@
   {
     "item": "Devoto's Devotion",
     "stats": "#% of fire damage leeched as life, +# to maximum power charges",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "jXqy39oTX",
+      "complexity": 30,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -14841,6 +14891,13 @@
   {
     "item": "Devoto's Devotion",
     "stats": "+# to level of socketed cold gems, +# to maximum power charges",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "OVXoMrzHE",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -14860,6 +14917,15 @@
   {
     "item": "Doomfletch",
     "stats": "socketed gems are supported by level # momentum, socketed gems are supported by level # faster projectiles",
+    "average": 8477.2,
+    "prices": [
+      8477.2
+    ],
+    "search": {
+      "id": "2Bam9vjhk",
+      "complexity": 29,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -14879,6 +14945,13 @@
   {
     "item": "Warrior's Tale",
     "stats": "damage penetrates #% fire resistance",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "wagX6rmsb",
+      "complexity": 19,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -14893,6 +14966,13 @@
   {
     "item": "Warrior's Tale",
     "stats": "#% increased reservation efficiency of skills, you cannot be hindered",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "nXjQQJJf0",
+      "complexity": 30,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -14913,6 +14993,13 @@
   {
     "item": "Warrior's Tale",
     "stats": "#% reduced ignite duration on you, you cannot be cursed with silence",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "BEQQX3kF8",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -14932,6 +15019,15 @@
   {
     "item": "Painseeker",
     "stats": "+# to maximum frenzy charges, curse enemies with elemental weakness on hit",
+    "average": 1059.65,
+    "prices": [
+      1059.65
+    ],
+    "search": {
+      "id": "dXRmerPsJ",
+      "complexity": 29,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -14951,6 +15047,24 @@
   {
     "item": "The Primordial Chain",
     "stats": "#% of lightning damage leeched as life",
+    "average": 91.979,
+    "prices": [
+      5,
+      15,
+      20,
+      20,
+      24,
+      50,
+      150,
+      211.93,
+      211.93,
+      211.93
+    ],
+    "search": {
+      "id": "9Yvg7JmTK",
+      "complexity": 19,
+      "total": 12
+    },
     "builds": 1,
     "mods": [
       {
@@ -14965,6 +15079,24 @@
   {
     "item": "Gravebind",
     "stats": "curse enemies with enfeeble on hit",
+    "average": 54.888888888888886,
+    "prices": [
+      40,
+      50,
+      50,
+      50,
+      55,
+      59,
+      60,
+      60,
+      70,
+      90
+    ],
+    "search": {
+      "id": "rXJbP57TQ",
+      "complexity": 18,
+      "total": 36
+    },
     "builds": 1,
     "mods": [
       {
@@ -14978,6 +15110,24 @@
   {
     "item": "Gravebind",
     "stats": "curse enemies with temporal chains on hit",
+    "average": 207.2204444444445,
+    "prices": [
+      190.73700000000002,
+      190.73700000000002,
+      170,
+      211.93,
+      211.93,
+      211.93,
+      211.93,
+      211.93,
+      211.93,
+      211.93
+    ],
+    "search": {
+      "id": "jXjawVWTX",
+      "complexity": 18,
+      "total": 31
+    },
     "builds": 1,
     "mods": [
       {
@@ -14991,6 +15141,23 @@
   {
     "item": "Arakaali's Fang",
     "stats": "#% chance to gain a frenzy charge on kill",
+    "average": 160.17555555555558,
+    "prices": [
+      30,
+      50,
+      90,
+      211.93,
+      211.93,
+      211.93,
+      211.93,
+      211.93,
+      211.93
+    ],
+    "search": {
+      "id": "oXjZ0EOsl",
+      "complexity": 18,
+      "total": 9
+    },
     "builds": 1,
     "mods": [
       {
@@ -15004,6 +15171,18 @@
   {
     "item": "Black Zenith",
     "stats": "curse enemies with temporal chains on hit",
+    "average": 211.92999999999998,
+    "prices": [
+      211.93,
+      211.93,
+      211.93,
+      635.79
+    ],
+    "search": {
+      "id": "VMQOgQrcp",
+      "complexity": 18,
+      "total": 4
+    },
     "builds": 1,
     "mods": [
       {
