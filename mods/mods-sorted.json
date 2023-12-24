@@ -14771,6 +14771,24 @@
   {
     "item": "Zeel's Amplifier",
     "stats": "+# to level of socketed aoe gems",
+    "average": 10,
+    "prices": [
+      3,
+      8,
+      10,
+      10,
+      10,
+      10,
+      10,
+      10,
+      10,
+      14
+    ],
+    "search": {
+      "id": "Zb4Eb8mHQ",
+      "complexity": 18,
+      "total": 35
+    },
     "builds": 1,
     "mods": [
       {
@@ -14784,6 +14802,13 @@
   {
     "item": "Zeel's Amplifier",
     "stats": "+# to level of socketed aoe gems, you take #% reduced extra damage from critical strikes",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "8qB66P8UV",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -14803,6 +14828,24 @@
   {
     "item": "Zeel's Amplifier",
     "stats": "+# to level of socketed gems",
+    "average": 28.3,
+    "prices": [
+      8,
+      15,
+      20,
+      20,
+      25,
+      30,
+      35,
+      40,
+      40,
+      50
+    ],
+    "search": {
+      "id": "4qnPaPvC9",
+      "complexity": 18,
+      "total": 35
+    },
     "builds": 1,
     "mods": [
       {
@@ -14816,6 +14859,13 @@
   {
     "item": "Zeel's Amplifier",
     "stats": "+# to level of socketed gems, #% of physical damage from hits taken as lightning damage",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "2BrRVbeUk",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -14835,6 +14885,24 @@
   {
     "item": "Daresso's Defiance",
     "stats": "+# to level of socketed duration gems",
+    "average": 148.01999999999998,
+    "prices": [
+      60,
+      60,
+      80,
+      100,
+      150,
+      206.04,
+      206.04,
+      206.04,
+      206.04,
+      206.04
+    ],
+    "search": {
+      "id": "zerWLqLc4",
+      "complexity": 18,
+      "total": 15
+    },
     "builds": 1,
     "mods": [
       {
@@ -14848,6 +14916,24 @@
   {
     "item": "Daresso's Defiance",
     "stats": "+# to level of socketed gems",
+    "average": 135.1005714285714,
+    "prices": [
+      30,
+      100,
+      123.624,
+      130,
+      150,
+      206.04,
+      206.04,
+      309.06,
+      1236.24,
+      1442.28
+    ],
+    "search": {
+      "id": "vladEZjCE",
+      "complexity": 18,
+      "total": 10
+    },
     "builds": 1,
     "mods": [
       {
@@ -14861,6 +14947,24 @@
   {
     "item": "Surgebinders",
     "stats": "curse enemies with elemental weakness on hit",
+    "average": 107.612,
+    "prices": [
+      3,
+      45,
+      50,
+      50,
+      60,
+      120,
+      130,
+      206.04,
+      206.04,
+      206.04
+    ],
+    "search": {
+      "id": "YVqMpa6sY",
+      "complexity": 18,
+      "total": 40
+    },
     "builds": 1,
     "mods": [
       {
@@ -14874,6 +14978,15 @@
   {
     "item": "Surgebinders",
     "stats": "+# to level of socketed aura gems, curse enemies with elemental weakness on hit",
+    "average": 2060.4,
+    "prices": [
+      2060.4
+    ],
+    "search": {
+      "id": "jXZ4nRoTX",
+      "complexity": 29,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -14893,6 +15006,22 @@
   {
     "item": "Machina Mitts",
     "stats": "curse enemies with elemental weakness on hit",
+    "average": 1236.24,
+    "prices": [
+      824.16,
+      1030.2,
+      1030.2,
+      1236.24,
+      1236.24,
+      1648.32,
+      1648.32,
+      3296.64
+    ],
+    "search": {
+      "id": "0B8PL7bFg",
+      "complexity": 18,
+      "total": 8
+    },
     "builds": 1,
     "mods": [
       {
@@ -14906,6 +15035,13 @@
   {
     "item": "Machina Mitts",
     "stats": "#% increased maximum life, +#% to spell critical strike chance",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "RVYKX9qi7",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -14925,6 +15061,24 @@
   {
     "item": "Machina Mitts",
     "stats": "curse enemies with enfeeble on hit",
+    "average": 21.875,
+    "prices": [
+      15,
+      20,
+      20,
+      20,
+      20,
+      20,
+      25,
+      25,
+      25,
+      30
+    ],
+    "search": {
+      "id": "WV4WDGvum",
+      "complexity": 18,
+      "total": 15
+    },
     "builds": 1,
     "mods": [
       {
@@ -14938,6 +15092,13 @@
   {
     "item": "The Poet's Pen",
     "stats": "adds # to # fire damage, #% increased attack speed",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "9YG3RV4tK",
+      "complexity": 31,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -14959,6 +15120,24 @@
   {
     "item": "The Poet's Pen",
     "stats": "#% increased area of effect",
+    "average": 37.6,
+    "prices": [
+      15,
+      15,
+      27,
+      30,
+      40,
+      49,
+      50,
+      50,
+      50,
+      50
+    ],
+    "search": {
+      "id": "4db67QgH9",
+      "complexity": 18,
+      "total": 22
+    },
     "builds": 1,
     "mods": [
       {
@@ -14972,6 +15151,15 @@
   {
     "item": "Queen of the Forest",
     "stats": "+# to level of socketed aura gems, +# to level of socketed curse gems",
+    "average": 206.04,
+    "prices": [
+      206.04
+    ],
+    "search": {
+      "id": "DLvDn72H5",
+      "complexity": 29,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -14991,6 +15179,13 @@
   {
     "item": "Queen of the Forest",
     "stats": "+# to level of socketed trap or mine gems, #% increased maximum life",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "8abybkqhV",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
