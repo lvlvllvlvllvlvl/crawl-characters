@@ -3800,6 +3800,45 @@
     ]
   },
   {
+    "item": "Sandstorm Visage",
+    "stats": "#% increased effect of cold ailments",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "#% increased effect of cold ailments",
+        "trade_ids": [
+          "implicit.stat_1793818220"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Sandstorm Visage",
+    "stats": "+# to level of socketed minion gems, +# to level of socketed trap or mine gems",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "MVZ3BELsJ",
+      "complexity": 29,
+      "total": 0
+    },
+    "builds": 1,
+    "mods": [
+      {
+        "text": "+# to level of socketed minion gems",
+        "trade_ids": [
+          "implicit.stat_3604946673"
+        ]
+      },
+      {
+        "text": "+# to level of socketed trap or mine gems",
+        "trade_ids": [
+          "implicit.stat_150668988"
+        ]
+      }
+    ]
+  },
+  {
     "item": "The Vertex",
     "stats": "socketed skill gems get a #% cost & reservation multiplier",
     "average": 139.016,
@@ -16511,6 +16550,15 @@
   {
     "item": "Windscream",
     "stats": "+# to level of socketed gems, +# to level of socketed minion gems",
+    "average": 637.83,
+    "prices": [
+      637.83
+    ],
+    "search": {
+      "id": "5o5MOmoua",
+      "complexity": 29,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -16530,6 +16578,24 @@
   {
     "item": "Windscream",
     "stats": "#% increased movement speed",
+    "average": 64.0305,
+    "prices": [
+      29,
+      30,
+      30,
+      50,
+      60,
+      60,
+      85,
+      90,
+      106.305,
+      100
+    ],
+    "search": {
+      "id": "pXjndPeT0",
+      "complexity": 18,
+      "total": 40
+    },
     "builds": 1,
     "mods": [
       {
@@ -16543,6 +16609,24 @@
   {
     "item": "Doedre's Tenure",
     "stats": "+#% to spell critical strike chance",
+    "average": 9.1,
+    "prices": [
+      4,
+      5,
+      5,
+      6,
+      8,
+      10,
+      10,
+      13,
+      15,
+      15
+    ],
+    "search": {
+      "id": "kX4WGpKI5",
+      "complexity": 18,
+      "total": 76
+    },
     "builds": 1,
     "mods": [
       {
@@ -16556,6 +16640,13 @@
   {
     "item": "Doedre's Tenure",
     "stats": "+# to maximum frenzy charges, +#% to spell critical strike chance",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "2BMLzGYIk",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -16575,6 +16666,24 @@
   {
     "item": "Utula's Hunger",
     "stats": "#% increased maximum life",
+    "average": 99.922,
+    "prices": [
+      14,
+      40,
+      50,
+      60,
+      80,
+      80,
+      100,
+      150,
+      212.61,
+      212.61
+    ],
+    "search": {
+      "id": "9YKk2wYFK",
+      "complexity": 18,
+      "total": 26
+    },
     "builds": 1,
     "mods": [
       {
@@ -16588,6 +16697,16 @@
   {
     "item": "Prismweave",
     "stats": "grace has #% increased aura effect, +#% to critical strike multiplier during any flask effect",
+    "average": 113.805,
+    "prices": [
+      15,
+      212.61
+    ],
+    "search": {
+      "id": "ze5WBkgT4",
+      "complexity": 29,
+      "total": 2
+    },
     "builds": 1,
     "mods": [
       {
@@ -16607,6 +16726,13 @@
   {
     "item": "Replica Kaom's Heart",
     "stats": "#% increased maximum energy shield",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "LmyJk4GFn",
+      "complexity": 18,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -16620,6 +16746,13 @@
   {
     "item": "Lioneye's Vision",
     "stats": "+# to level of socketed aoe gems, +# to level of socketed projectile gems",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "bX3yDrDuL",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -16637,27 +16770,26 @@
     ]
   },
   {
-    "item": "Sandstorm Visage",
-    "stats": "+# to level of socketed minion gems, +# to level of socketed trap or mine gems",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "+# to level of socketed minion gems",
-        "trade_ids": [
-          "implicit.stat_3604946673"
-        ]
-      },
-      {
-        "text": "+# to level of socketed trap or mine gems",
-        "trade_ids": [
-          "implicit.stat_150668988"
-        ]
-      }
-    ]
-  },
-  {
     "item": "Mind of the Council",
     "stats": "+# to maximum power charges",
+    "average": 15.5,
+    "prices": [
+      10,
+      10,
+      10,
+      10,
+      15,
+      20,
+      20,
+      20,
+      20,
+      20
+    ],
+    "search": {
+      "id": "Ey6gq3VS5",
+      "complexity": 18,
+      "total": 29
+    },
     "builds": 1,
     "mods": [
       {
@@ -16671,6 +16803,24 @@
   {
     "item": "Dawnbreaker",
     "stats": "+#% chance to block",
+    "average": 41,
+    "prices": [
+      5,
+      5,
+      7,
+      28,
+      30,
+      40,
+      50,
+      66,
+      80,
+      99
+    ],
+    "search": {
+      "id": "5okJQ8dia",
+      "complexity": 18,
+      "total": 22
+    },
     "builds": 1,
     "mods": [
       {
@@ -16684,6 +16834,20 @@
   {
     "item": "Dawnbreaker",
     "stats": "grants level # determination skill",
+    "average": 152.305,
+    "prices": [
+      80,
+      106.305,
+      150,
+      212.61,
+      212.61,
+      425.22
+    ],
+    "search": {
+      "id": "JVrP0kWIl",
+      "complexity": 18,
+      "total": 6
+    },
     "builds": 1,
     "mods": [
       {
@@ -16697,6 +16861,13 @@
   {
     "item": "Ylfeban's Trickery",
     "stats": "+# to level of socketed projectile gems, +# to maximum power charges",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "VM3VEXatp",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -16716,6 +16887,20 @@
   {
     "item": "The Fledgling",
     "stats": "+# to level of socketed aoe gems",
+    "average": 315.98,
+    "prices": [
+      55,
+      140,
+      212.61,
+      212.61,
+      637.83,
+      637.83
+    ],
+    "search": {
+      "id": "80ZX7aqIV",
+      "complexity": 18,
+      "total": 6
+    },
     "builds": 1,
     "mods": [
       {
@@ -16729,6 +16914,15 @@
   {
     "item": "Replica Covenant",
     "stats": "+# to level of socketed duration gems, #% increased maximum life",
+    "average": 3189.15,
+    "prices": [
+      3189.15
+    ],
+    "search": {
+      "id": "LmynKyVhn",
+      "complexity": 29,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
