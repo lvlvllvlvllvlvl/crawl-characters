@@ -1,5 +1,31 @@
 [
   {
+    "item": "String of Servitude",
+    "stats": "hatred has #% increased aura effect",
+    "builds": 15,
+    "mods": [
+      {
+        "text": "hatred has #% increased aura effect",
+        "trade_ids": [
+          "implicit.stat_3742945352"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Vaal Caress",
+    "stats": "+# to level of socketed duration gems",
+    "builds": 14,
+    "mods": [
+      {
+        "text": "+# to level of socketed duration gems",
+        "trade_ids": [
+          "implicit.stat_2115168758"
+        ]
+      }
+    ]
+  },
+  {
     "item": "Matua Tupuna",
     "stats": "+# to level of socketed aura gems",
     "builds": 14,
@@ -13,27 +39,14 @@
     ]
   },
   {
-    "item": "String of Servitude",
-    "stats": "hatred has #% increased aura effect",
-    "builds": 14,
-    "mods": [
-      {
-        "text": "hatred has #% increased aura effect",
-        "trade_ids": [
-          "implicit.stat_3742945352"
-        ]
-      }
-    ]
-  },
-  {
     "item": "Vaal Caress",
-    "stats": "+# to level of socketed duration gems",
-    "builds": 13,
+    "stats": "+# to level of socketed aura gems",
+    "builds": 11,
     "mods": [
       {
-        "text": "+# to level of socketed duration gems",
+        "text": "+# to level of socketed aura gems",
         "trade_ids": [
-          "implicit.stat_2115168758"
+          "implicit.stat_2452998583"
         ]
       }
     ]
@@ -52,14 +65,14 @@
     ]
   },
   {
-    "item": "Vaal Caress",
-    "stats": "+# to level of socketed aura gems",
-    "builds": 11,
+    "item": "String of Servitude",
+    "stats": "#% increased rarity of items found",
+    "builds": 10,
     "mods": [
       {
-        "text": "+# to level of socketed aura gems",
+        "text": "#% increased rarity of items found",
         "trade_ids": [
-          "implicit.stat_2452998583"
+          "implicit.stat_3917489142"
         ]
       }
     ]
@@ -78,19 +91,6 @@
     ]
   },
   {
-    "item": "String of Servitude",
-    "stats": "#% increased rarity of items found",
-    "builds": 10,
-    "mods": [
-      {
-        "text": "#% increased rarity of items found",
-        "trade_ids": [
-          "implicit.stat_3917489142"
-        ]
-      }
-    ]
-  },
-  {
     "item": "Kaom's Heart",
     "stats": "#% increased damage",
     "builds": 8,
@@ -104,19 +104,6 @@
     ]
   },
   {
-    "item": "Heatshiver",
-    "stats": "socketed skill gems get a #% cost & reservation multiplier",
-    "builds": 7,
-    "mods": [
-      {
-        "text": "socketed skill gems get a #% cost & reservation multiplier",
-        "trade_ids": [
-          "implicit.stat_2865550257"
-        ]
-      }
-    ]
-  },
-  {
     "item": "String of Servitude",
     "stats": "wrath has #% increased aura effect",
     "builds": 7,
@@ -125,6 +112,32 @@
         "text": "wrath has #% increased aura effect",
         "trade_ids": [
           "implicit.stat_2181791238"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Heatshiver",
+    "stats": "+# to maximum power charges",
+    "builds": 7,
+    "mods": [
+      {
+        "text": "+# to maximum power charges",
+        "trade_ids": [
+          "implicit.stat_227523295"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Heatshiver",
+    "stats": "socketed skill gems get a #% cost & reservation multiplier",
+    "builds": 7,
+    "mods": [
+      {
+        "text": "socketed skill gems get a #% cost & reservation multiplier",
+        "trade_ids": [
+          "implicit.stat_2865550257"
         ]
       }
     ]
@@ -173,19 +186,6 @@
     "item": "Eber's Unification",
     "stats": "+# to maximum power charges",
     "builds": 7,
-    "mods": [
-      {
-        "text": "+# to maximum power charges",
-        "trade_ids": [
-          "implicit.stat_227523295"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Heatshiver",
-    "stats": "+# to maximum power charges",
-    "builds": 6,
     "mods": [
       {
         "text": "+# to maximum power charges",
@@ -274,19 +274,6 @@
     ]
   },
   {
-    "item": "Matua Tupuna",
-    "stats": "+# to level of socketed gems",
-    "builds": 5,
-    "mods": [
-      {
-        "text": "+# to level of socketed gems",
-        "trade_ids": [
-          "implicit.stat_2843100721"
-        ]
-      }
-    ]
-  },
-  {
     "item": "String of Servitude",
     "stats": "discipline has #% increased aura effect",
     "builds": 5,
@@ -300,19 +287,6 @@
     ]
   },
   {
-    "item": "Sadima's Touch",
-    "stats": "attacks have +#% to critical strike chance",
-    "builds": 5,
-    "mods": [
-      {
-        "text": "attacks have +#% to critical strike chance",
-        "trade_ids": [
-          "implicit.stat_2572042788"
-        ]
-      }
-    ]
-  },
-  {
     "item": "Vaal Caress",
     "stats": "+# to level of socketed aoe gems",
     "builds": 5,
@@ -321,6 +295,32 @@
         "text": "+# to level of socketed aoe gems",
         "trade_ids": [
           "implicit.stat_2551600084"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Matua Tupuna",
+    "stats": "+# to level of socketed gems",
+    "builds": 5,
+    "mods": [
+      {
+        "text": "+# to level of socketed gems",
+        "trade_ids": [
+          "implicit.stat_2843100721"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Sadima's Touch",
+    "stats": "attacks have +#% to critical strike chance",
+    "builds": 5,
+    "mods": [
+      {
+        "text": "attacks have +#% to critical strike chance",
+        "trade_ids": [
+          "implicit.stat_2572042788"
         ]
       }
     ]
@@ -347,6 +347,25 @@
         "text": "socketed skill gems get a #% cost & reservation multiplier",
         "trade_ids": [
           "implicit.stat_2865550257"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Victario's Influence",
+    "stats": "+# to level of socketed gems, +# to level of socketed aura gems",
+    "builds": 4,
+    "mods": [
+      {
+        "text": "+# to level of socketed gems",
+        "trade_ids": [
+          "implicit.stat_2843100721"
+        ]
+      },
+      {
+        "text": "+# to level of socketed aura gems",
+        "trade_ids": [
+          "implicit.stat_2452998583"
         ]
       }
     ]
@@ -438,25 +457,6 @@
         "text": "socketed skill gems get a #% cost & reservation multiplier",
         "trade_ids": [
           "implicit.stat_2865550257"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Victario's Influence",
-    "stats": "+# to level of socketed gems, +# to level of socketed aura gems",
-    "builds": 3,
-    "mods": [
-      {
-        "text": "+# to level of socketed gems",
-        "trade_ids": [
-          "implicit.stat_2843100721"
-        ]
-      },
-      {
-        "text": "+# to level of socketed aura gems",
-        "trade_ids": [
-          "implicit.stat_2452998583"
         ]
       }
     ]
@@ -657,38 +657,6 @@
     ]
   },
   {
-    "item": "Dialla's Malefaction",
-    "stats": "+# to level of socketed gems, +#% to all maximum resistances",
-    "builds": 2,
-    "mods": [
-      {
-        "text": "+# to level of socketed gems",
-        "trade_ids": [
-          "implicit.stat_2843100721"
-        ]
-      },
-      {
-        "text": "+#% to all maximum resistances",
-        "trade_ids": [
-          "implicit.stat_569299859"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Pure Talent",
-    "stats": "corrupted blood cannot be inflicted on you",
-    "builds": 2,
-    "mods": [
-      {
-        "text": "corrupted blood cannot be inflicted on you",
-        "trade_ids": [
-          "implicit.stat_1658498488"
-        ]
-      }
-    ]
-  },
-  {
     "item": "Victario's Influence",
     "stats": "+# to level of socketed aoe gems, +# to level of socketed curse gems",
     "builds": 2,
@@ -772,6 +740,32 @@
     ]
   },
   {
+    "item": "String of Servitude",
+    "stats": "+#% to all elemental resistances",
+    "builds": 2,
+    "mods": [
+      {
+        "text": "+#% to all elemental resistances",
+        "trade_ids": [
+          "implicit.stat_2901986750"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "String of Servitude",
+    "stats": "zealotry has #% increased aura effect",
+    "builds": 2,
+    "mods": [
+      {
+        "text": "zealotry has #% increased aura effect",
+        "trade_ids": [
+          "implicit.stat_4096052153"
+        ]
+      }
+    ]
+  },
+  {
     "item": "Matua Tupuna",
     "stats": "#% of physical damage from hits taken as fire damage",
     "builds": 2,
@@ -780,6 +774,38 @@
         "text": "#% of physical damage from hits taken as fire damage",
         "trade_ids": [
           "implicit.stat_3342989455"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Dialla's Malefaction",
+    "stats": "+# to level of socketed gems, +#% to all maximum resistances",
+    "builds": 2,
+    "mods": [
+      {
+        "text": "+# to level of socketed gems",
+        "trade_ids": [
+          "implicit.stat_2843100721"
+        ]
+      },
+      {
+        "text": "+#% to all maximum resistances",
+        "trade_ids": [
+          "implicit.stat_569299859"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Pure Talent",
+    "stats": "corrupted blood cannot be inflicted on you",
+    "builds": 2,
+    "mods": [
+      {
+        "text": "corrupted blood cannot be inflicted on you",
+        "trade_ids": [
+          "implicit.stat_1658498488"
         ]
       }
     ]
@@ -858,32 +884,6 @@
         "text": "+# to level of socketed gems",
         "trade_ids": [
           "implicit.stat_2843100721"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "String of Servitude",
-    "stats": "+#% to all elemental resistances",
-    "builds": 2,
-    "mods": [
-      {
-        "text": "+#% to all elemental resistances",
-        "trade_ids": [
-          "implicit.stat_2901986750"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "String of Servitude",
-    "stats": "zealotry has #% increased aura effect",
-    "builds": 2,
-    "mods": [
-      {
-        "text": "zealotry has #% increased aura effect",
-        "trade_ids": [
-          "implicit.stat_4096052153"
         ]
       }
     ]
@@ -1694,6 +1694,566 @@
     ]
   },
   {
+    "item": "The Vertex",
+    "stats": "socketed skill gems get a #% cost & reservation multiplier",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "socketed skill gems get a #% cost & reservation multiplier",
+        "trade_ids": [
+          "implicit.stat_2865550257"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "The Vertex",
+    "stats": "+# to level of socketed duration gems",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "+# to level of socketed duration gems",
+        "trade_ids": [
+          "implicit.stat_2115168758"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "The Vertex",
+    "stats": "+# to level of socketed aura gems",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "+# to level of socketed aura gems",
+        "trade_ids": [
+          "implicit.stat_2452998583"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Victario's Influence",
+    "stats": "+# to level of socketed duration gems, +# to level of socketed curse gems",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "+# to level of socketed duration gems",
+        "trade_ids": [
+          "implicit.stat_2115168758"
+        ]
+      },
+      {
+        "text": "+# to level of socketed curse gems",
+        "trade_ids": [
+          "implicit.stat_3691695237"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Victario's Influence",
+    "stats": "+# to level of socketed trap or mine gems, #% increased damage",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "+# to level of socketed trap or mine gems",
+        "trade_ids": [
+          "implicit.stat_150668988"
+        ]
+      },
+      {
+        "text": "#% increased damage",
+        "trade_ids": [
+          "implicit.stat_2154246560"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Victario's Influence",
+    "stats": "+# to level of socketed gems, +# to level of socketed trap or mine gems",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "+# to level of socketed gems",
+        "trade_ids": [
+          "implicit.stat_2843100721"
+        ]
+      },
+      {
+        "text": "+# to level of socketed trap or mine gems",
+        "trade_ids": [
+          "implicit.stat_150668988"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Victario's Influence",
+    "stats": "+# to level of socketed projectile gems, +# to level of socketed aura gems",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "+# to level of socketed projectile gems",
+        "trade_ids": [
+          "implicit.stat_2176571093"
+        ]
+      },
+      {
+        "text": "+# to level of socketed aura gems",
+        "trade_ids": [
+          "implicit.stat_2452998583"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Victario's Influence",
+    "stats": "+# to level of socketed trap or mine gems, #% increased maximum life",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "+# to level of socketed trap or mine gems",
+        "trade_ids": [
+          "implicit.stat_150668988"
+        ]
+      },
+      {
+        "text": "#% increased maximum life",
+        "trade_ids": [
+          "implicit.stat_983749596"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Victario's Influence",
+    "stats": "+# to level of socketed gems, #% additional physical damage reduction while stationary",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "+# to level of socketed gems",
+        "trade_ids": [
+          "implicit.stat_2843100721"
+        ]
+      },
+      {
+        "text": "#% additional physical damage reduction while stationary",
+        "trade_ids": [
+          "implicit.stat_2181129193"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Victario's Influence",
+    "stats": "+# to level of socketed aoe gems, #% reduced chaos damage taken",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "+# to level of socketed aoe gems",
+        "trade_ids": [
+          "implicit.stat_2551600084"
+        ]
+      },
+      {
+        "text": "#% reduced chaos damage taken",
+        "trade_ids": [
+          "implicit.stat_2960683632"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Victario's Influence",
+    "stats": "+# to level of socketed aura gems, +# to level of socketed curse gems",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "+# to level of socketed aura gems",
+        "trade_ids": [
+          "implicit.stat_2452998583"
+        ]
+      },
+      {
+        "text": "+# to level of socketed curse gems",
+        "trade_ids": [
+          "implicit.stat_3691695237"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Victario's Influence",
+    "stats": "+# to level of socketed aoe gems, +# to level of socketed projectile gems",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "+# to level of socketed aoe gems",
+        "trade_ids": [
+          "implicit.stat_2551600084"
+        ]
+      },
+      {
+        "text": "+# to level of socketed projectile gems",
+        "trade_ids": [
+          "implicit.stat_2176571093"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Victario's Influence",
+    "stats": "+# to level of socketed duration gems, +# to level of socketed aura gems",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "+# to level of socketed duration gems",
+        "trade_ids": [
+          "implicit.stat_2115168758"
+        ]
+      },
+      {
+        "text": "+# to level of socketed aura gems",
+        "trade_ids": [
+          "implicit.stat_2452998583"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Victario's Influence",
+    "stats": "+# to level of socketed aoe gems, +# to level of socketed minion gems",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "+# to level of socketed aoe gems",
+        "trade_ids": [
+          "implicit.stat_2551600084"
+        ]
+      },
+      {
+        "text": "+# to level of socketed minion gems",
+        "trade_ids": [
+          "implicit.stat_3604946673"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Victario's Influence",
+    "stats": "+# to level of socketed aura gems, +# to level of socketed trap or mine gems",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "+# to level of socketed aura gems",
+        "trade_ids": [
+          "implicit.stat_2452998583"
+        ]
+      },
+      {
+        "text": "+# to level of socketed trap or mine gems",
+        "trade_ids": [
+          "implicit.stat_150668988"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Victario's Influence",
+    "stats": "+# to level of socketed aoe gems, +# to level of socketed aura gems",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "+# to level of socketed aoe gems",
+        "trade_ids": [
+          "implicit.stat_2551600084"
+        ]
+      },
+      {
+        "text": "+# to level of socketed aura gems",
+        "trade_ids": [
+          "implicit.stat_2452998583"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Victario's Influence",
+    "stats": "+# to level of socketed minion gems, +# to level of socketed aura gems",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "+# to level of socketed minion gems",
+        "trade_ids": [
+          "implicit.stat_3604946673"
+        ]
+      },
+      {
+        "text": "+# to level of socketed aura gems",
+        "trade_ids": [
+          "implicit.stat_2452998583"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "String of Servitude",
+    "stats": "#% increased quantity of items found",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "#% increased quantity of items found",
+        "trade_ids": [
+          "implicit.stat_884586851"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "String of Servitude",
+    "stats": "#% increased maximum energy shield, hatred has #% increased aura effect",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "#% increased maximum energy shield",
+        "trade_ids": [
+          "implicit.stat_2482852589"
+        ]
+      },
+      {
+        "text": "hatred has #% increased aura effect",
+        "trade_ids": [
+          "implicit.stat_3742945352"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Vaal Caress",
+    "stats": "+# to level of socketed duration gems, +# to level of socketed aura gems",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "+# to level of socketed duration gems",
+        "trade_ids": [
+          "implicit.stat_2115168758"
+        ]
+      },
+      {
+        "text": "+# to level of socketed aura gems",
+        "trade_ids": [
+          "implicit.stat_2452998583"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Vaal Caress",
+    "stats": "+# to level of socketed gems",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "+# to level of socketed gems",
+        "trade_ids": [
+          "implicit.stat_2843100721"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Matua Tupuna",
+    "stats": "+# to level of socketed duration gems, #% of physical damage from hits taken as lightning damage",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "+# to level of socketed duration gems",
+        "trade_ids": [
+          "implicit.stat_2115168758"
+        ]
+      },
+      {
+        "text": "#% of physical damage from hits taken as lightning damage",
+        "trade_ids": [
+          "implicit.stat_425242359"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Matua Tupuna",
+    "stats": "+# to level of socketed duration gems, #% increased maximum energy shield",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "+# to level of socketed duration gems",
+        "trade_ids": [
+          "implicit.stat_2115168758"
+        ]
+      },
+      {
+        "text": "#% increased maximum energy shield",
+        "trade_ids": [
+          "implicit.stat_2482852589"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Matua Tupuna",
+    "stats": "+# to level of socketed gems, #% increased maximum energy shield",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "+# to level of socketed gems",
+        "trade_ids": [
+          "implicit.stat_2843100721"
+        ]
+      },
+      {
+        "text": "#% increased maximum energy shield",
+        "trade_ids": [
+          "implicit.stat_2482852589"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Matua Tupuna",
+    "stats": "+# to level of socketed aoe gems, +#% to maximum chance to block attack damage",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "+# to level of socketed aoe gems",
+        "trade_ids": [
+          "implicit.stat_2551600084"
+        ]
+      },
+      {
+        "text": "+#% to maximum chance to block attack damage",
+        "trade_ids": [
+          "implicit.stat_4124805414"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Matua Tupuna",
+    "stats": "+# to level of socketed aoe gems, +# to level of socketed trap or mine gems",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "+# to level of socketed aoe gems",
+        "trade_ids": [
+          "implicit.stat_2551600084"
+        ]
+      },
+      {
+        "text": "+# to level of socketed trap or mine gems",
+        "trade_ids": [
+          "implicit.stat_150668988"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Matua Tupuna",
+    "stats": "+# to level of socketed aura gems, #% reduced area damage taken from hits",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "+# to level of socketed aura gems",
+        "trade_ids": [
+          "implicit.stat_2452998583"
+        ]
+      },
+      {
+        "text": "#% reduced area damage taken from hits",
+        "trade_ids": [
+          "implicit.stat_3001376862"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Matua Tupuna",
+    "stats": "+# to level of socketed aoe gems, #% of physical damage from hits taken as chaos damage",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "+# to level of socketed aoe gems",
+        "trade_ids": [
+          "implicit.stat_2551600084"
+        ]
+      },
+      {
+        "text": "#% of physical damage from hits taken as chaos damage",
+        "trade_ids": [
+          "implicit.stat_4129825612"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Matua Tupuna",
+    "stats": "you take #% reduced extra damage from critical strikes",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "you take #% reduced extra damage from critical strikes",
+        "trade_ids": [
+          "implicit.stat_3855016469"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Matua Tupuna",
+    "stats": "#% increased maximum energy shield",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "#% increased maximum energy shield",
+        "trade_ids": [
+          "implicit.stat_2482852589"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Matua Tupuna",
+    "stats": "+# to level of socketed gems, +# to level of socketed duration gems",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "+# to level of socketed gems",
+        "trade_ids": [
+          "implicit.stat_2843100721"
+        ]
+      },
+      {
+        "text": "+# to level of socketed duration gems",
+        "trade_ids": [
+          "implicit.stat_2115168758"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Matua Tupuna",
+    "stats": "+# to level of socketed duration gems",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "+# to level of socketed duration gems",
+        "trade_ids": [
+          "implicit.stat_2115168758"
+        ]
+      }
+    ]
+  },
+  {
     "item": "Malachai's Loop",
     "stats": "+# to level of socketed gems",
     "builds": 1,
@@ -2189,272 +2749,6 @@
     ]
   },
   {
-    "item": "Victario's Influence",
-    "stats": "+# to level of socketed duration gems, +# to level of socketed curse gems",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "+# to level of socketed duration gems",
-        "trade_ids": [
-          "implicit.stat_2115168758"
-        ]
-      },
-      {
-        "text": "+# to level of socketed curse gems",
-        "trade_ids": [
-          "implicit.stat_3691695237"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Victario's Influence",
-    "stats": "+# to level of socketed trap or mine gems, #% increased damage",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "+# to level of socketed trap or mine gems",
-        "trade_ids": [
-          "implicit.stat_150668988"
-        ]
-      },
-      {
-        "text": "#% increased damage",
-        "trade_ids": [
-          "implicit.stat_2154246560"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Victario's Influence",
-    "stats": "+# to level of socketed gems, +# to level of socketed trap or mine gems",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "+# to level of socketed gems",
-        "trade_ids": [
-          "implicit.stat_2843100721"
-        ]
-      },
-      {
-        "text": "+# to level of socketed trap or mine gems",
-        "trade_ids": [
-          "implicit.stat_150668988"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Victario's Influence",
-    "stats": "+# to level of socketed projectile gems, +# to level of socketed aura gems",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "+# to level of socketed projectile gems",
-        "trade_ids": [
-          "implicit.stat_2176571093"
-        ]
-      },
-      {
-        "text": "+# to level of socketed aura gems",
-        "trade_ids": [
-          "implicit.stat_2452998583"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Victario's Influence",
-    "stats": "+# to level of socketed trap or mine gems, #% increased maximum life",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "+# to level of socketed trap or mine gems",
-        "trade_ids": [
-          "implicit.stat_150668988"
-        ]
-      },
-      {
-        "text": "#% increased maximum life",
-        "trade_ids": [
-          "implicit.stat_983749596"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Victario's Influence",
-    "stats": "+# to level of socketed gems, #% additional physical damage reduction while stationary",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "+# to level of socketed gems",
-        "trade_ids": [
-          "implicit.stat_2843100721"
-        ]
-      },
-      {
-        "text": "#% additional physical damage reduction while stationary",
-        "trade_ids": [
-          "implicit.stat_2181129193"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Victario's Influence",
-    "stats": "+# to level of socketed aoe gems, #% reduced chaos damage taken",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "+# to level of socketed aoe gems",
-        "trade_ids": [
-          "implicit.stat_2551600084"
-        ]
-      },
-      {
-        "text": "#% reduced chaos damage taken",
-        "trade_ids": [
-          "implicit.stat_2960683632"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Victario's Influence",
-    "stats": "+# to level of socketed aura gems, +# to level of socketed curse gems",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "+# to level of socketed aura gems",
-        "trade_ids": [
-          "implicit.stat_2452998583"
-        ]
-      },
-      {
-        "text": "+# to level of socketed curse gems",
-        "trade_ids": [
-          "implicit.stat_3691695237"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Victario's Influence",
-    "stats": "+# to level of socketed aoe gems, +# to level of socketed projectile gems",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "+# to level of socketed aoe gems",
-        "trade_ids": [
-          "implicit.stat_2551600084"
-        ]
-      },
-      {
-        "text": "+# to level of socketed projectile gems",
-        "trade_ids": [
-          "implicit.stat_2176571093"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Victario's Influence",
-    "stats": "+# to level of socketed duration gems, +# to level of socketed aura gems",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "+# to level of socketed duration gems",
-        "trade_ids": [
-          "implicit.stat_2115168758"
-        ]
-      },
-      {
-        "text": "+# to level of socketed aura gems",
-        "trade_ids": [
-          "implicit.stat_2452998583"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Victario's Influence",
-    "stats": "+# to level of socketed aoe gems, +# to level of socketed minion gems",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "+# to level of socketed aoe gems",
-        "trade_ids": [
-          "implicit.stat_2551600084"
-        ]
-      },
-      {
-        "text": "+# to level of socketed minion gems",
-        "trade_ids": [
-          "implicit.stat_3604946673"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Victario's Influence",
-    "stats": "+# to level of socketed aura gems, +# to level of socketed trap or mine gems",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "+# to level of socketed aura gems",
-        "trade_ids": [
-          "implicit.stat_2452998583"
-        ]
-      },
-      {
-        "text": "+# to level of socketed trap or mine gems",
-        "trade_ids": [
-          "implicit.stat_150668988"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Victario's Influence",
-    "stats": "+# to level of socketed aoe gems, +# to level of socketed aura gems",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "+# to level of socketed aoe gems",
-        "trade_ids": [
-          "implicit.stat_2551600084"
-        ]
-      },
-      {
-        "text": "+# to level of socketed aura gems",
-        "trade_ids": [
-          "implicit.stat_2452998583"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Victario's Influence",
-    "stats": "+# to level of socketed minion gems, +# to level of socketed aura gems",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "+# to level of socketed minion gems",
-        "trade_ids": [
-          "implicit.stat_3604946673"
-        ]
-      },
-      {
-        "text": "+# to level of socketed aura gems",
-        "trade_ids": [
-          "implicit.stat_2452998583"
-        ]
-      }
-    ]
-  },
-  {
     "item": "Southbound",
     "stats": "#% increased maximum energy shield",
     "builds": 1,
@@ -2572,178 +2866,6 @@
         "text": "+# to level of socketed aura gems",
         "trade_ids": [
           "implicit.stat_2452998583"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Matua Tupuna",
-    "stats": "+# to level of socketed duration gems, #% increased maximum energy shield",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "+# to level of socketed duration gems",
-        "trade_ids": [
-          "implicit.stat_2115168758"
-        ]
-      },
-      {
-        "text": "#% increased maximum energy shield",
-        "trade_ids": [
-          "implicit.stat_2482852589"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Matua Tupuna",
-    "stats": "+# to level of socketed gems, #% increased maximum energy shield",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "+# to level of socketed gems",
-        "trade_ids": [
-          "implicit.stat_2843100721"
-        ]
-      },
-      {
-        "text": "#% increased maximum energy shield",
-        "trade_ids": [
-          "implicit.stat_2482852589"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Matua Tupuna",
-    "stats": "+# to level of socketed aoe gems, +#% to maximum chance to block attack damage",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "+# to level of socketed aoe gems",
-        "trade_ids": [
-          "implicit.stat_2551600084"
-        ]
-      },
-      {
-        "text": "+#% to maximum chance to block attack damage",
-        "trade_ids": [
-          "implicit.stat_4124805414"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Matua Tupuna",
-    "stats": "+# to level of socketed aoe gems, +# to level of socketed trap or mine gems",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "+# to level of socketed aoe gems",
-        "trade_ids": [
-          "implicit.stat_2551600084"
-        ]
-      },
-      {
-        "text": "+# to level of socketed trap or mine gems",
-        "trade_ids": [
-          "implicit.stat_150668988"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Matua Tupuna",
-    "stats": "+# to level of socketed aura gems, #% reduced area damage taken from hits",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "+# to level of socketed aura gems",
-        "trade_ids": [
-          "implicit.stat_2452998583"
-        ]
-      },
-      {
-        "text": "#% reduced area damage taken from hits",
-        "trade_ids": [
-          "implicit.stat_3001376862"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Matua Tupuna",
-    "stats": "+# to level of socketed aoe gems, #% of physical damage from hits taken as chaos damage",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "+# to level of socketed aoe gems",
-        "trade_ids": [
-          "implicit.stat_2551600084"
-        ]
-      },
-      {
-        "text": "#% of physical damage from hits taken as chaos damage",
-        "trade_ids": [
-          "implicit.stat_4129825612"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Matua Tupuna",
-    "stats": "you take #% reduced extra damage from critical strikes",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "you take #% reduced extra damage from critical strikes",
-        "trade_ids": [
-          "implicit.stat_3855016469"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Matua Tupuna",
-    "stats": "#% increased maximum energy shield",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "#% increased maximum energy shield",
-        "trade_ids": [
-          "implicit.stat_2482852589"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Matua Tupuna",
-    "stats": "+# to level of socketed gems, +# to level of socketed duration gems",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "+# to level of socketed gems",
-        "trade_ids": [
-          "implicit.stat_2843100721"
-        ]
-      },
-      {
-        "text": "+# to level of socketed duration gems",
-        "trade_ids": [
-          "implicit.stat_2115168758"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Matua Tupuna",
-    "stats": "+# to level of socketed duration gems",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "+# to level of socketed duration gems",
-        "trade_ids": [
-          "implicit.stat_2115168758"
         ]
       }
     ]
@@ -3251,33 +3373,20 @@
     ]
   },
   {
-    "item": "String of Servitude",
-    "stats": "#% increased quantity of items found",
+    "item": "Victario's Flight",
+    "stats": "+# to level of socketed gems, +# to level of socketed aoe gems",
     "builds": 1,
     "mods": [
       {
-        "text": "#% increased quantity of items found",
+        "text": "+# to level of socketed gems",
         "trade_ids": [
-          "implicit.stat_884586851"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "String of Servitude",
-    "stats": "#% increased maximum energy shield, hatred has #% increased aura effect",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "#% increased maximum energy shield",
-        "trade_ids": [
-          "implicit.stat_2482852589"
+          "implicit.stat_2843100721"
         ]
       },
       {
-        "text": "hatred has #% increased aura effect",
+        "text": "+# to level of socketed aoe gems",
         "trade_ids": [
-          "implicit.stat_3742945352"
+          "implicit.stat_2551600084"
         ]
       }
     ]
@@ -3825,38 +3934,6 @@
         "text": "+# to level of socketed minion gems",
         "trade_ids": [
           "implicit.stat_3604946673"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Vaal Caress",
-    "stats": "+# to level of socketed duration gems, +# to level of socketed aura gems",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "+# to level of socketed duration gems",
-        "trade_ids": [
-          "implicit.stat_2115168758"
-        ]
-      },
-      {
-        "text": "+# to level of socketed aura gems",
-        "trade_ids": [
-          "implicit.stat_2452998583"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Vaal Caress",
-    "stats": "+# to level of socketed gems",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "+# to level of socketed gems",
-        "trade_ids": [
-          "implicit.stat_2843100721"
         ]
       }
     ]
@@ -7219,6 +7296,19 @@
     ]
   },
   {
+    "item": "Intuitive Leap",
+    "stats": "#% reduced poison duration on you",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "#% reduced poison duration on you",
+        "trade_ids": [
+          "implicit.stat_3301100256"
+        ]
+      }
+    ]
+  },
+  {
     "item": "Tanu Ahi",
     "stats": "+# to level of socketed duration gems, attacks have +#% to critical strike chance",
     "builds": 1,
@@ -8677,32 +8767,6 @@
         "text": "+# to level of socketed projectile gems",
         "trade_ids": [
           "implicit.stat_2176571093"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "The Vertex",
-    "stats": "+# to level of socketed duration gems",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "+# to level of socketed duration gems",
-        "trade_ids": [
-          "implicit.stat_2115168758"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "The Vertex",
-    "stats": "+# to level of socketed aura gems",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "+# to level of socketed aura gems",
-        "trade_ids": [
-          "implicit.stat_2452998583"
         ]
       }
     ]
