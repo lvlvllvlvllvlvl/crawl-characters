@@ -2293,6 +2293,24 @@
   {
     "item": "Goldwyrm",
     "stats": "#% increased maximum energy shield",
+    "average": 4.75,
+    "prices": [
+      1,
+      3,
+      4,
+      4,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5
+    ],
+    "search": {
+      "id": "5okOd7nTa",
+      "complexity": 18,
+      "total": 122
+    },
     "builds": 2,
     "mods": [
       {
@@ -2306,6 +2324,24 @@
   {
     "item": "Goldwyrm",
     "stats": "+# to level of socketed curse gems",
+    "average": 3.7,
+    "prices": [
+      2,
+      3,
+      3,
+      3,
+      3,
+      4,
+      4,
+      5,
+      5,
+      5
+    ],
+    "search": {
+      "id": "oZ89EgYsl",
+      "complexity": 18,
+      "total": 150
+    },
     "builds": 2,
     "mods": [
       {
@@ -2319,6 +2355,15 @@
   {
     "item": "Asenath's Gentle Touch",
     "stats": "+# to level of socketed aoe gems, curse enemies with vulnerability on hit",
+    "average": 60,
+    "prices": [
+      60
+    ],
+    "search": {
+      "id": "GkJjeOBUb",
+      "complexity": 29,
+      "total": 1
+    },
     "builds": 2,
     "mods": [
       {
@@ -2338,6 +2383,15 @@
   {
     "item": "Asenath's Gentle Touch",
     "stats": "+# to level of socketed trap or mine gems, curse enemies with vulnerability on hit",
+    "average": 60,
+    "prices": [
+      60
+    ],
+    "search": {
+      "id": "mXgb3lrT6",
+      "complexity": 29,
+      "total": 1
+    },
     "builds": 2,
     "mods": [
       {
@@ -2357,6 +2411,24 @@
   {
     "item": "Asenath's Gentle Touch",
     "stats": "curse enemies with despair on hit",
+    "average": 487.33920000000006,
+    "prices": [
+      462.13200000000006,
+      462.13200000000006,
+      462.13200000000006,
+      462.13200000000006,
+      483.138,
+      504.144,
+      504.144,
+      504.144,
+      504.144,
+      525.15
+    ],
+    "search": {
+      "id": "XkOGbebuP",
+      "complexity": 18,
+      "total": 78
+    },
     "builds": 2,
     "mods": [
       {
@@ -2370,6 +2442,24 @@
   {
     "item": "March of the Legion",
     "stats": "+# to level of socketed duration gems",
+    "average": 7,
+    "prices": [
+      3,
+      3,
+      4,
+      5,
+      5,
+      10,
+      10,
+      10,
+      10,
+      10
+    ],
+    "search": {
+      "id": "rXjkno7TQ",
+      "complexity": 18,
+      "total": 83
+    },
     "builds": 2,
     "mods": [
       {
@@ -2383,6 +2473,24 @@
   {
     "item": "Hyrri's Truth",
     "stats": "you can apply an additional curse",
+    "average": 683.862,
+    "prices": [
+      420.12,
+      525.15,
+      630.1800000000001,
+      630.1800000000001,
+      630.1800000000001,
+      630.1800000000001,
+      735.21,
+      735.21,
+      798.228,
+      840.24
+    ],
+    "search": {
+      "id": "rY5YQ07CQ",
+      "complexity": 18,
+      "total": 42
+    },
     "builds": 2,
     "mods": [
       {
@@ -2396,6 +2504,24 @@
   {
     "item": "Hyrri's Truth",
     "stats": "+#% to all elemental resistances",
+    "average": 13.7,
+    "prices": [
+      5,
+      9,
+      10,
+      11,
+      12,
+      15,
+      15,
+      20,
+      20,
+      20
+    ],
+    "search": {
+      "id": "gXJ32daFQ",
+      "complexity": 18,
+      "total": 143
+    },
     "builds": 2,
     "mods": [
       {
@@ -2409,6 +2535,24 @@
   {
     "item": "Hrimsorrow",
     "stats": "#% increased maximum life",
+    "average": 22.7,
+    "prices": [
+      5,
+      8,
+      9,
+      10,
+      15,
+      30,
+      35,
+      35,
+      40,
+      40
+    ],
+    "search": {
+      "id": "jPp7k4XuX",
+      "complexity": 18,
+      "total": 50
+    },
     "builds": 2,
     "mods": [
       {
@@ -2422,6 +2566,24 @@
   {
     "item": "Kaom's Heart",
     "stats": "#% increased maximum life",
+    "average": 24.5,
+    "prices": [
+      15,
+      20,
+      20,
+      20,
+      25,
+      25,
+      30,
+      30,
+      30,
+      30
+    ],
+    "search": {
+      "id": "K9gPY8gt5",
+      "complexity": 18,
+      "total": 69
+    },
     "builds": 2,
     "mods": [
       {
@@ -2435,6 +2597,24 @@
   {
     "item": "Ancestral Vision",
     "stats": "corrupted blood cannot be inflicted on you",
+    "average": 6150.09,
+    "prices": [
+      5461.56,
+      5566.59,
+      5671.62,
+      6301.8,
+      6301.8,
+      6301.8,
+      6511.86,
+      6511.86,
+      6721.92,
+      7352.1
+    ],
+    "search": {
+      "id": "plLZELbt0",
+      "complexity": 18,
+      "total": 15
+    },
     "builds": 2,
     "mods": [
       {
@@ -2448,6 +2628,19 @@
   {
     "item": "Anathema",
     "stats": "+#% to all elemental resistances",
+    "average": 1050.3,
+    "prices": [
+      840.24,
+      1029.294,
+      1050.3,
+      1050.3,
+      1050.3
+    ],
+    "search": {
+      "id": "jXjMMPXSX",
+      "complexity": 18,
+      "total": 5
+    },
     "builds": 2,
     "mods": [
       {
@@ -2461,6 +2654,24 @@
   {
     "item": "Inspired Learning",
     "stats": "#% reduced effect of shock on you",
+    "average": 96.1,
+    "prices": [
+      80,
+      80,
+      90,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      111
+    ],
+    "search": {
+      "id": "lPrZWRnFV",
+      "complexity": 18,
+      "total": 25
+    },
     "builds": 2,
     "mods": [
       {
@@ -2474,6 +2685,24 @@
   {
     "item": "Yoke of Suffering",
     "stats": "you can apply an additional curse",
+    "average": 38.8,
+    "prices": [
+      25,
+      25,
+      28,
+      30,
+      30,
+      40,
+      40,
+      50,
+      60,
+      60
+    ],
+    "search": {
+      "id": "W5Xeb8mcm",
+      "complexity": 18,
+      "total": 47
+    },
     "builds": 2,
     "mods": [
       {
@@ -2487,6 +2716,24 @@
   {
     "item": "Eyes of the Greatwolf",
     "stats": "+#% to global critical strike multiplier",
+    "average": 7.9,
+    "prices": [
+      4,
+      5,
+      5,
+      7,
+      9,
+      9,
+      10,
+      10,
+      10,
+      10
+    ],
+    "search": {
+      "id": "RVBvyrGF7",
+      "complexity": 18,
+      "total": 730
+    },
     "builds": 2,
     "mods": [
       {
