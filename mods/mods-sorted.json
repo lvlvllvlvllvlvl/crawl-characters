@@ -1120,6 +1120,37 @@
   },
   {
     "item": "Shaper's Touch",
+    "stats": "+# to level of socketed aoe gems",
+    "average": 26.9,
+    "prices": [
+      25,
+      25,
+      25,
+      25,
+      25,
+      26,
+      28,
+      30,
+      30,
+      30
+    ],
+    "search": {
+      "id": "EG8Vq7VU5",
+      "complexity": 18,
+      "total": 126
+    },
+    "builds": 3,
+    "mods": [
+      {
+        "text": "+# to level of socketed aoe gems",
+        "trade_ids": [
+          "implicit.stat_2551600084"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Shaper's Touch",
     "stats": "+# to level of socketed gems",
     "average": 1304.1786,
     "prices": [
@@ -2090,37 +2121,6 @@
         "text": "wrath has #% increased aura effect",
         "trade_ids": [
           "implicit.stat_2181791238"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Shaper's Touch",
-    "stats": "+# to level of socketed aoe gems",
-    "average": 26.9,
-    "prices": [
-      25,
-      25,
-      25,
-      25,
-      25,
-      26,
-      28,
-      30,
-      30,
-      30
-    ],
-    "search": {
-      "id": "EG8Vq7VU5",
-      "complexity": 18,
-      "total": 126
-    },
-    "builds": 2,
-    "mods": [
-      {
-        "text": "+# to level of socketed aoe gems",
-        "trade_ids": [
-          "implicit.stat_2551600084"
         ]
       }
     ]
@@ -5590,6 +5590,25 @@
   },
   {
     "item": "Matua Tupuna",
+    "stats": "+# to level of socketed aoe gems, #% of physical damage from hits taken as chaos damage",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "+# to level of socketed aoe gems",
+        "trade_ids": [
+          "implicit.stat_2551600084"
+        ]
+      },
+      {
+        "text": "#% of physical damage from hits taken as chaos damage",
+        "trade_ids": [
+          "implicit.stat_4129825612"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Matua Tupuna",
     "stats": "you take #% reduced extra damage from critical strikes",
     "average": 6.6,
     "prices": [
@@ -8414,6 +8433,25 @@
   },
   {
     "item": "Skin of the Loyal",
+    "stats": "+# to level of socketed aoe gems, +# to level of socketed projectile gems",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "+# to level of socketed aoe gems",
+        "trade_ids": [
+          "implicit.stat_2551600084"
+        ]
+      },
+      {
+        "text": "+# to level of socketed projectile gems",
+        "trade_ids": [
+          "implicit.stat_2176571093"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Skin of the Loyal",
     "stats": "+# to level of socketed duration gems, #% increased maximum energy shield",
     "average": 1632.56,
     "prices": [
@@ -8493,6 +8531,25 @@
         "text": "#% increased maximum life",
         "trade_ids": [
           "implicit.stat_983749596"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "March of the Legion",
+    "stats": "+# to level of socketed aura gems, #% increased movement speed",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "+# to level of socketed aura gems",
+        "trade_ids": [
+          "implicit.stat_2452998583"
+        ]
+      },
+      {
+        "text": "#% increased movement speed",
+        "trade_ids": [
+          "implicit.stat_2250533757"
         ]
       }
     ]
@@ -9267,6 +9324,25 @@
     ]
   },
   {
+    "item": "Tainted Pact",
+    "stats": "+#% to all maximum resistances, grace has #% increased aura effect",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "+#% to all maximum resistances",
+        "trade_ids": [
+          "implicit.stat_569299859"
+        ]
+      },
+      {
+        "text": "grace has #% increased aura effect",
+        "trade_ids": [
+          "implicit.stat_397427740"
+        ]
+      }
+    ]
+  },
+  {
     "item": "Lethal Pride",
     "stats": "#% reduced effect of curses on you, #% reduced bleed duration on you",
     "average": null,
@@ -10026,6 +10102,31 @@
         "text": "determination has #% increased aura effect",
         "trade_ids": [
           "implicit.stat_3653400807"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "The Jinxed Juju",
+    "stats": "#% increased dexterity, #% increased intelligence, wrath has #% increased aura effect",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "#% increased dexterity",
+        "trade_ids": [
+          "implicit.stat_4139681126"
+        ]
+      },
+      {
+        "text": "#% increased intelligence",
+        "trade_ids": [
+          "implicit.stat_656461285"
+        ]
+      },
+      {
+        "text": "wrath has #% increased aura effect",
+        "trade_ids": [
+          "implicit.stat_2181791238"
         ]
       }
     ]
@@ -12172,6 +12273,46 @@
     ]
   },
   {
+    "item": "Piscator's Vigil",
+    "stats": "#% increased critical strike chance, damage penetrates #% elemental resistances",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "#% increased critical strike chance",
+        "trade_ids": [
+          "implicit.stat_2375316951"
+        ]
+      },
+      {
+        "text": "damage penetrates #% elemental resistances",
+        "trade_ids": [
+          "implicit.stat_2101383955"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Piscator's Vigil",
+    "stats": "adds # to # cold damage, #% increased attack speed",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "adds # to # cold damage",
+        "trade_ids": [
+          "implicit.stat_2387423236",
+          "implicit.stat_1037193709"
+        ]
+      },
+      {
+        "text": "#% increased attack speed",
+        "trade_ids": [
+          "implicit.stat_681332047",
+          "implicit.stat_210067635"
+        ]
+      }
+    ]
+  },
+  {
     "item": "Ceinture of Benevolence",
     "stats": "#% increased maximum energy shield",
     "average": 135.45,
@@ -14128,6 +14269,25 @@
   },
   {
     "item": "Mageblood",
+    "stats": "wrath has #% increased aura effect, zealotry has #% increased aura effect",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "wrath has #% increased aura effect",
+        "trade_ids": [
+          "implicit.stat_2181791238"
+        ]
+      },
+      {
+        "text": "zealotry has #% increased aura effect",
+        "trade_ids": [
+          "implicit.stat_4096052153"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Mageblood",
     "stats": "#% increased maximum life, #% increased cast speed during any flask effect",
     "average": null,
     "prices": [],
@@ -15205,6 +15365,13 @@
   {
     "item": "Queen of the Forest",
     "stats": "+# to level of socketed gems, +# to level of socketed projectile gems",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "BEOXnMaH8",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -15224,6 +15391,13 @@
   {
     "item": "Queen of the Forest",
     "stats": "+# to level of socketed aoe gems, #% increased damage",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "OVwymo0tE",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -15243,6 +15417,24 @@
   {
     "item": "Queen of the Forest",
     "stats": "+# to level of socketed gems",
+    "average": 235.16079999999997,
+    "prices": [
+      100,
+      150,
+      206.04,
+      206.04,
+      206.04,
+      206.04,
+      206.04,
+      247.248,
+      412.08,
+      412.08
+    ],
+    "search": {
+      "id": "yrJQLgGsR",
+      "complexity": 18,
+      "total": 14
+    },
     "builds": 1,
     "mods": [
       {
@@ -15256,6 +15448,24 @@
   {
     "item": "Cloak of Flame",
     "stats": "+# to level of socketed gems",
+    "average": 49.5,
+    "prices": [
+      30,
+      30,
+      35,
+      50,
+      50,
+      60,
+      60,
+      60,
+      60,
+      60
+    ],
+    "search": {
+      "id": "3Gwb5LGh5",
+      "complexity": 18,
+      "total": 158
+    },
     "builds": 1,
     "mods": [
       {
@@ -15269,6 +15479,24 @@
   {
     "item": "Cloak of Flame",
     "stats": "+# to level of socketed trap or mine gems",
+    "average": 12,
+    "prices": [
+      10,
+      10,
+      10,
+      10,
+      10,
+      10,
+      15,
+      15,
+      15,
+      15
+    ],
+    "search": {
+      "id": "BEXWzq4T8",
+      "complexity": 18,
+      "total": 87
+    },
     "builds": 1,
     "mods": [
       {
@@ -15282,6 +15510,13 @@
   {
     "item": "The Squire",
     "stats": "you take #% reduced extra damage from critical strikes, #% increased maximum life",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "Pd8pwJMhL",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -15301,6 +15536,24 @@
   {
     "item": "Severed in Sleep",
     "stats": "#% increased attack speed",
+    "average": 11.857142857142858,
+    "prices": [
+      9,
+      10,
+      10,
+      10,
+      14,
+      15,
+      15,
+      20,
+      35,
+      45
+    ],
+    "search": {
+      "id": "y9R7VBlSR",
+      "complexity": 19,
+      "total": 19
+    },
     "builds": 1,
     "mods": [
       {
@@ -15315,6 +15568,24 @@
   {
     "item": "Severed in Sleep",
     "stats": "#% increased physical damage",
+    "average": 14.444444444444445,
+    "prices": [
+      7,
+      10,
+      10,
+      11,
+      14,
+      15,
+      19,
+      20,
+      24,
+      50
+    ],
+    "search": {
+      "id": "4d95MJZt9",
+      "complexity": 18,
+      "total": 17
+    },
     "builds": 1,
     "mods": [
       {
@@ -15328,6 +15599,24 @@
   {
     "item": "Umbilicus Immortalis",
     "stats": "#% increased strength, #% increased intelligence",
+    "average": 102.91599999999998,
+    "prices": [
+      5,
+      20,
+      20,
+      25,
+      35,
+      100,
+      206.04,
+      206.04,
+      206.04,
+      206.04
+    ],
+    "search": {
+      "id": "MV5YWYMsJ",
+      "complexity": 29,
+      "total": 15
+    },
     "builds": 1,
     "mods": [
       {
@@ -15347,6 +15636,13 @@
   {
     "item": "Umbilicus Immortalis",
     "stats": "#% increased strength, #% increased dexterity, +#% to all elemental resistances",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "GkJ5moZcb",
+      "complexity": 20,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -15372,6 +15668,21 @@
   {
     "item": "Umbilicus Immortalis",
     "stats": "#% increased maximum energy shield",
+    "average": 206.04,
+    "prices": [
+      100,
+      150,
+      206.04,
+      206.04,
+      206.04,
+      206.04,
+      618.12
+    ],
+    "search": {
+      "id": "MVZbYLGUJ",
+      "complexity": 18,
+      "total": 7
+    },
     "builds": 1,
     "mods": [
       {
@@ -15385,6 +15696,24 @@
   {
     "item": "Saffell's Frame",
     "stats": "#% of physical damage from hits taken as cold damage",
+    "average": 89.59119999999999,
+    "prices": [
+      10,
+      30,
+      39,
+      50,
+      50,
+      70,
+      70,
+      164.832,
+      206.04,
+      206.04
+    ],
+    "search": {
+      "id": "LmdmLM7tn",
+      "complexity": 18,
+      "total": 24
+    },
     "builds": 1,
     "mods": [
       {
@@ -15398,6 +15727,24 @@
   {
     "item": "Legacy of Fury",
     "stats": "#% increased movement speed",
+    "average": 51.2005,
+    "prices": [
+      20.604,
+      40,
+      40,
+      40,
+      50,
+      70,
+      70,
+      79,
+      206.04,
+      206.04
+    ],
+    "search": {
+      "id": "6Gqvl6XuG",
+      "complexity": 18,
+      "total": 14
+    },
     "builds": 1,
     "mods": [
       {
@@ -15411,6 +15758,13 @@
   {
     "item": "The Brass Dome",
     "stats": "+# to level of socketed trap or mine gems, #% reduced lightning damage taken",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "XqDVoE7UP",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -15430,6 +15784,15 @@
   {
     "item": "The Stampede",
     "stats": "regenerate # life per second while moving",
+    "average": 1030.2,
+    "prices": [
+      1030.2
+    ],
+    "search": {
+      "id": "kX4ygJ5c5",
+      "complexity": 18,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -16193,6 +16556,19 @@
   },
   {
     "item": "Aegis Aurora",
+    "stats": "+# to level of socketed aoe gems",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "+# to level of socketed aoe gems",
+        "trade_ids": [
+          "implicit.stat_2551600084"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Aegis Aurora",
     "stats": "#% of physical damage from hits taken as fire damage",
     "builds": 1,
     "mods": [
@@ -16530,6 +16906,19 @@
     ]
   },
   {
+    "item": "Shavronne's Revelation",
+    "stats": "wrath has #% increased aura effect",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "wrath has #% increased aura effect",
+        "trade_ids": [
+          "implicit.stat_2181791238"
+        ]
+      }
+    ]
+  },
+  {
     "item": "Honourhome",
     "stats": "socketed skill gems get a #% cost & reservation multiplier, +# to maximum power charges",
     "builds": 1,
@@ -16602,27 +16991,6 @@
         "text": "+# to level of socketed projectile gems",
         "trade_ids": [
           "implicit.stat_2176571093"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Piscator's Vigil",
-    "stats": "adds # to # cold damage, #% increased attack speed",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "adds # to # cold damage",
-        "trade_ids": [
-          "implicit.stat_2387423236",
-          "implicit.stat_1037193709"
-        ]
-      },
-      {
-        "text": "#% increased attack speed",
-        "trade_ids": [
-          "implicit.stat_681332047",
-          "implicit.stat_210067635"
         ]
       }
     ]
