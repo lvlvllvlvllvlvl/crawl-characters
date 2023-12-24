@@ -17374,6 +17374,24 @@
   {
     "item": "Aegis Aurora",
     "stats": "+# to level of socketed aoe gems",
+    "average": 38.5,
+    "prices": [
+      25,
+      30,
+      30,
+      30,
+      40,
+      40,
+      40,
+      50,
+      50,
+      50
+    ],
+    "search": {
+      "id": "v3mVvJJCE",
+      "complexity": 18,
+      "total": 32
+    },
     "builds": 1,
     "mods": [
       {
@@ -17387,6 +17405,24 @@
   {
     "item": "Aegis Aurora",
     "stats": "#% of physical damage from hits taken as fire damage",
+    "average": 24.1,
+    "prices": [
+      18,
+      19,
+      20,
+      20,
+      24,
+      25,
+      25,
+      30,
+      30,
+      30
+    ],
+    "search": {
+      "id": "lXjXX7kcV",
+      "complexity": 18,
+      "total": 48
+    },
     "builds": 1,
     "mods": [
       {
@@ -17400,6 +17436,24 @@
   {
     "item": "Olesya's Delight",
     "stats": "#% increased attack speed during any flask effect",
+    "average": 111.66666666666667,
+    "prices": [
+      35,
+      70,
+      100,
+      100,
+      100,
+      100,
+      120,
+      125,
+      140,
+      150
+    ],
+    "search": {
+      "id": "4zm42y8t9",
+      "complexity": 18,
+      "total": 21
+    },
     "builds": 1,
     "mods": [
       {
@@ -17413,6 +17467,13 @@
   {
     "item": "Wilma's Requital",
     "stats": "socketed skill gems get a #% cost & reservation multiplier, #% of cold damage leeched as life",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "ewRoE46HL",
+      "complexity": 30,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -17433,6 +17494,21 @@
   {
     "item": "Memory Vault",
     "stats": "+# to maximum power charges",
+    "average": 828.16,
+    "prices": [
+      621.12,
+      621.12,
+      621.12,
+      1035.2,
+      1035.2,
+      1035.2,
+      5176
+    ],
+    "search": {
+      "id": "YVdGlWbFY",
+      "complexity": 18,
+      "total": 7
+    },
     "builds": 1,
     "mods": [
       {
@@ -17446,6 +17522,24 @@
   {
     "item": "Memory Vault",
     "stats": "+# to level of socketed projectile gems",
+    "average": 14.9,
+    "prices": [
+      2,
+      10,
+      10,
+      10,
+      10,
+      12,
+      20,
+      20,
+      25,
+      30
+    ],
+    "search": {
+      "id": "VM6vDGdFp",
+      "complexity": 18,
+      "total": 15
+    },
     "builds": 1,
     "mods": [
       {
@@ -17459,6 +17553,13 @@
   {
     "item": "The Poised Prism",
     "stats": "# to # added cold damage with bow attacks, # to # added lightning damage with bow attacks",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "lX80WLVsV",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -17478,6 +17579,18 @@
   {
     "item": "Indigon",
     "stats": "+# to maximum power charges",
+    "average": 2484.48,
+    "prices": [
+      2070.4,
+      2484.48,
+      2484.48,
+      2484.48
+    ],
+    "search": {
+      "id": "jXJ9MZbHX",
+      "complexity": 18,
+      "total": 4
+    },
     "builds": 1,
     "mods": [
       {
@@ -17491,6 +17604,18 @@
   {
     "item": "Atziri's Foible",
     "stats": "you can apply an additional curse",
+    "average": 1252.24,
+    "prices": [
+      40,
+      828.16,
+      2070.4,
+      2070.4
+    ],
+    "search": {
+      "id": "dX4J9ObcJ",
+      "complexity": 18,
+      "total": 4
+    },
     "builds": 1,
     "mods": [
       {
@@ -17504,6 +17629,19 @@
   {
     "item": "Cloak of Defiance",
     "stats": "#% increased damage",
+    "average": 115.61599999999999,
+    "prices": [
+      10,
+      35,
+      119,
+      207.04,
+      207.04
+    ],
+    "search": {
+      "id": "3GwWVB0I5",
+      "complexity": 18,
+      "total": 5
+    },
     "builds": 1,
     "mods": [
       {
@@ -17517,6 +17655,13 @@
   {
     "item": "Dance of the Offered",
     "stats": "+# to level of socketed gems",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "GkdRWoWCb",
+      "complexity": 18,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -17530,6 +17675,24 @@
   {
     "item": "Void Battery",
     "stats": "damage penetrates #% elemental resistances",
+    "average": 260.87039999999996,
+    "prices": [
+      165.632,
+      165.632,
+      207.04,
+      207.04,
+      207.04,
+      207.04,
+      207.04,
+      414.08,
+      414.08,
+      414.08
+    ],
+    "search": {
+      "id": "mP20bDrt6",
+      "complexity": 18,
+      "total": 27
+    },
     "builds": 1,
     "mods": [
       {
@@ -17543,6 +17706,24 @@
   {
     "item": "Void Battery",
     "stats": "#% increased critical strike chance",
+    "average": 52.142857142857146,
+    "prices": [
+      20,
+      45,
+      50,
+      50,
+      50,
+      50,
+      60,
+      60,
+      75,
+      80
+    ],
+    "search": {
+      "id": "LmydjKGIn",
+      "complexity": 18,
+      "total": 38
+    },
     "builds": 1,
     "mods": [
       {
@@ -17556,6 +17737,13 @@
   {
     "item": "Replica Inya's Epiphany",
     "stats": "+# to level of socketed gems",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "aq37vaRFe",
+      "complexity": 18,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -17569,6 +17757,19 @@
   {
     "item": "Rainbowstride",
     "stats": "+# to level of socketed duration gems",
+    "average": 84.40799999999999,
+    "prices": [
+      5,
+      40,
+      40,
+      130,
+      207.04
+    ],
+    "search": {
+      "id": "BEymZ6aI8",
+      "complexity": 18,
+      "total": 5
+    },
     "builds": 1,
     "mods": [
       {
