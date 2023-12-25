@@ -51,7 +51,7 @@
       "complexity": 18,
       "total": 11
     },
-    "builds": 14,
+    "builds": 15,
     "mods": [
       {
         "text": "+# to level of socketed duration gems",
@@ -1617,6 +1617,37 @@
         "text": "+# to level of socketed gems",
         "trade_ids": [
           "implicit.stat_2843100721"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Victario's Influence",
+    "stats": "+# to level of socketed aoe gems, +# to level of socketed aura gems",
+    "average": 4794.6525,
+    "prices": [
+      1292.94,
+      1723.92,
+      7542.150000000001,
+      8619.6
+    ],
+    "search": {
+      "id": "YD03QoRIY",
+      "complexity": 29,
+      "total": 4
+    },
+    "builds": 2,
+    "mods": [
+      {
+        "text": "+# to level of socketed aoe gems",
+        "trade_ids": [
+          "implicit.stat_2551600084"
+        ]
+      },
+      {
+        "text": "+# to level of socketed aura gems",
+        "trade_ids": [
+          "implicit.stat_2452998583"
         ]
       }
     ]
@@ -4353,37 +4384,6 @@
         "text": "+# to level of socketed trap or mine gems",
         "trade_ids": [
           "implicit.stat_150668988"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Victario's Influence",
-    "stats": "+# to level of socketed aoe gems, +# to level of socketed aura gems",
-    "average": 4794.6525,
-    "prices": [
-      1292.94,
-      1723.92,
-      7542.150000000001,
-      8619.6
-    ],
-    "search": {
-      "id": "YD03QoRIY",
-      "complexity": 29,
-      "total": 4
-    },
-    "builds": 1,
-    "mods": [
-      {
-        "text": "+# to level of socketed aoe gems",
-        "trade_ids": [
-          "implicit.stat_2551600084"
-        ]
-      },
-      {
-        "text": "+# to level of socketed aura gems",
-        "trade_ids": [
-          "implicit.stat_2452998583"
         ]
       }
     ]
@@ -7912,6 +7912,19 @@
   },
   {
     "item": "Goldwyrm",
+    "stats": "#% increased movement speed",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "#% increased movement speed",
+        "trade_ids": [
+          "implicit.stat_2250533757"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Goldwyrm",
     "stats": "+# to level of socketed minion gems",
     "average": 5,
     "prices": [
@@ -8548,6 +8561,24 @@
   {
     "item": "Cold Iron Point",
     "stats": "#% increased global critical strike chance",
+    "average": 3,
+    "prices": [
+      2,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3
+    ],
+    "search": {
+      "id": "LeWqod2sn",
+      "complexity": 18,
+      "total": 1304
+    },
     "builds": 1,
     "mods": [
       {
@@ -8561,6 +8592,24 @@
   {
     "item": "Skin of the Loyal",
     "stats": "+# to level of socketed minion gems",
+    "average": 764.9895,
+    "prices": [
+      215.49,
+      215.49,
+      430.98,
+      430.98,
+      538.725,
+      861.96,
+      1077.45,
+      1077.45,
+      1292.94,
+      1508.43
+    ],
+    "search": {
+      "id": "Eyeq6dYf5",
+      "complexity": 18,
+      "total": 18
+    },
     "builds": 1,
     "mods": [
       {
@@ -8574,6 +8623,13 @@
   {
     "item": "Skin of the Loyal",
     "stats": "+# to level of socketed aoe gems, +# to level of socketed projectile gems",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "XqD4GedCP",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -8593,6 +8649,13 @@
   {
     "item": "Skin of the Loyal",
     "stats": "+# to level of socketed duration gems, #% increased maximum energy shield",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "DL3Vd74H5",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -8612,6 +8675,16 @@
   {
     "item": "March of the Legion",
     "stats": "+# to level of socketed gems, +# to level of socketed aura gems",
+    "average": 24781.350000000002,
+    "prices": [
+      2154.9,
+      47407.8
+    ],
+    "search": {
+      "id": "GZyEJaBhb",
+      "complexity": 29,
+      "total": 2
+    },
     "builds": 1,
     "mods": [
       {
@@ -8631,6 +8704,13 @@
   {
     "item": "March of the Legion",
     "stats": "#% increased maximum energy shield, #% increased maximum life",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "jPpzDkXSX",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -8650,6 +8730,13 @@
   {
     "item": "March of the Legion",
     "stats": "+# to level of socketed aura gems, #% increased movement speed",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "eXJOaKrIL",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -8669,6 +8756,24 @@
   {
     "item": "March of the Legion",
     "stats": "+# to level of socketed trap or mine gems",
+    "average": 10,
+    "prices": [
+      4,
+      5,
+      8,
+      9,
+      10,
+      10,
+      10,
+      10,
+      10,
+      10
+    ],
+    "search": {
+      "id": "DL497bvC5",
+      "complexity": 18,
+      "total": 94
+    },
     "builds": 1,
     "mods": [
       {
@@ -8682,6 +8787,24 @@
   {
     "item": "March of the Legion",
     "stats": "+# to level of socketed projectile gems",
+    "average": 6.3,
+    "prices": [
+      3,
+      3,
+      4,
+      4,
+      5,
+      5,
+      9,
+      10,
+      10,
+      10
+    ],
+    "search": {
+      "id": "rXjkzWgCQ",
+      "complexity": 18,
+      "total": 89
+    },
     "builds": 1,
     "mods": [
       {
@@ -8695,6 +8818,19 @@
   {
     "item": "March of the Legion",
     "stats": "+# to level of socketed aoe gems, +# to level of socketed aura gems",
+    "average": 26505.27,
+    "prices": [
+      4309.8,
+      9697.050000000001,
+      10774.5,
+      43098,
+      64647
+    ],
+    "search": {
+      "id": "eXW9nbWFL",
+      "complexity": 29,
+      "total": 5
+    },
     "builds": 1,
     "mods": [
       {
@@ -8714,6 +8850,15 @@
   {
     "item": "March of the Legion",
     "stats": "+# to level of socketed projectile gems, +# to level of socketed aura gems",
+    "average": 1508.43,
+    "prices": [
+      1508.43
+    ],
+    "search": {
+      "id": "bXpqEozHL",
+      "complexity": 29,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -8733,6 +8878,20 @@
   {
     "item": "March of the Legion",
     "stats": "+# to level of socketed aoe gems, +# to level of socketed projectile gems",
+    "average": 3663.3300000000004,
+    "prices": [
+      1508.43,
+      1508.43,
+      3878.82,
+      3878.82,
+      4740.780000000001,
+      6464.700000000001
+    ],
+    "search": {
+      "id": "VMKlbvwhp",
+      "complexity": 29,
+      "total": 6
+    },
     "builds": 1,
     "mods": [
       {
@@ -8752,6 +8911,24 @@
   {
     "item": "Hyrri's Truth",
     "stats": "#% increased movement speed",
+    "average": 7.1,
+    "prices": [
+      5,
+      5,
+      5,
+      5,
+      6,
+      7,
+      8,
+      10,
+      10,
+      10
+    ],
+    "search": {
+      "id": "y9E6RWBhR",
+      "complexity": 18,
+      "total": 110
+    },
     "builds": 1,
     "mods": [
       {
@@ -8765,6 +8942,24 @@
   {
     "item": "Rat's Nest",
     "stats": "socketed skill gems get a #% cost & reservation multiplier",
+    "average": 18.8,
+    "prices": [
+      10,
+      10,
+      10,
+      18,
+      20,
+      20,
+      25,
+      25,
+      25,
+      25
+    ],
+    "search": {
+      "id": "6ZDz0ZkcG",
+      "complexity": 18,
+      "total": 46
+    },
     "builds": 1,
     "mods": [
       {
@@ -8778,6 +8973,24 @@
   {
     "item": "Aurseize",
     "stats": "curse enemies with elemental weakness on hit",
+    "average": 31.666666666666668,
+    "prices": [
+      10,
+      15,
+      25,
+      25,
+      30,
+      30,
+      50,
+      50,
+      50,
+      150
+    ],
+    "search": {
+      "id": "waPLQLRSb",
+      "complexity": 18,
+      "total": 16
+    },
     "builds": 1,
     "mods": [
       {
