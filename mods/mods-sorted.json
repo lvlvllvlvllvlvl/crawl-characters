@@ -20,7 +20,7 @@
       "complexity": 18,
       "total": 80
     },
-    "builds": 15,
+    "builds": 16,
     "mods": [
       {
         "text": "hatred has #% increased aura effect",
@@ -310,6 +310,37 @@
     ]
   },
   {
+    "item": "Matua Tupuna",
+    "stats": "+# to level of socketed gems",
+    "average": 47.875,
+    "prices": [
+      38,
+      40,
+      40,
+      50,
+      50,
+      50,
+      55,
+      60,
+      80,
+      100
+    ],
+    "search": {
+      "id": "jPpRJKlTX",
+      "complexity": 18,
+      "total": 29
+    },
+    "builds": 7,
+    "mods": [
+      {
+        "text": "+# to level of socketed gems",
+        "trade_ids": [
+          "implicit.stat_2843100721"
+        ]
+      }
+    ]
+  },
+  {
     "item": "Heatshiver",
     "stats": "socketed skill gems get a #% cost & reservation multiplier",
     "average": 210.11466666666664,
@@ -497,32 +528,32 @@
     ]
   },
   {
-    "item": "Matua Tupuna",
-    "stats": "+# to level of socketed gems",
-    "average": 47.875,
+    "item": "Vaal Caress",
+    "stats": "+# to level of socketed aoe gems",
+    "average": 1139.4470000000001,
     "prices": [
-      38,
-      40,
-      40,
-      50,
-      50,
-      50,
-      55,
-      60,
-      80,
-      100
+      859.96,
+      859.96,
+      859.96,
+      859.96,
+      859.96,
+      1074.95,
+      1289.94,
+      1504.93,
+      1504.93,
+      1719.92
     ],
     "search": {
-      "id": "jPpRJKlTX",
+      "id": "mP2MqKJt6",
       "complexity": 18,
-      "total": 29
+      "total": 10
     },
     "builds": 6,
     "mods": [
       {
-        "text": "+# to level of socketed gems",
+        "text": "+# to level of socketed aoe gems",
         "trade_ids": [
-          "implicit.stat_2843100721"
+          "implicit.stat_2551600084"
         ]
       }
     ]
@@ -652,6 +683,31 @@
     ]
   },
   {
+    "item": "Alpha's Howl",
+    "stats": "socketed skill gems get a #% cost & reservation multiplier",
+    "average": 1934.91,
+    "prices": [
+      1934.91,
+      1934.91,
+      3224.8500000000004,
+      10749.5
+    ],
+    "search": {
+      "id": "DGEZWG2t5",
+      "complexity": 18,
+      "total": 4
+    },
+    "builds": 6,
+    "mods": [
+      {
+        "text": "socketed skill gems get a #% cost & reservation multiplier",
+        "trade_ids": [
+          "implicit.stat_2865550257"
+        ]
+      }
+    ]
+  },
+  {
     "item": "Oskarm",
     "stats": "curse enemies with vulnerability on hit",
     "average": 44.142857142857146,
@@ -684,6 +740,36 @@
   },
   {
     "item": "Victario's Influence",
+    "stats": "+# to level of socketed gems, +# to level of socketed aura gems",
+    "average": 1289.94,
+    "prices": [
+      859.96,
+      1719.92,
+      15049.300000000001
+    ],
+    "search": {
+      "id": "emYBeMnsL",
+      "complexity": 29,
+      "total": 3
+    },
+    "builds": 5,
+    "mods": [
+      {
+        "text": "+# to level of socketed gems",
+        "trade_ids": [
+          "implicit.stat_2843100721"
+        ]
+      },
+      {
+        "text": "+# to level of socketed aura gems",
+        "trade_ids": [
+          "implicit.stat_2452998583"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Victario's Influence",
     "stats": "+# to level of socketed aura gems",
     "average": 8.3,
     "prices": [
@@ -709,37 +795,6 @@
         "text": "+# to level of socketed aura gems",
         "trade_ids": [
           "implicit.stat_2452998583"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Vaal Caress",
-    "stats": "+# to level of socketed aoe gems",
-    "average": 1139.4470000000001,
-    "prices": [
-      859.96,
-      859.96,
-      859.96,
-      859.96,
-      859.96,
-      1074.95,
-      1289.94,
-      1504.93,
-      1504.93,
-      1719.92
-    ],
-    "search": {
-      "id": "mP2MqKJt6",
-      "complexity": 18,
-      "total": 10
-    },
-    "builds": 5,
-    "mods": [
-      {
-        "text": "+# to level of socketed aoe gems",
-        "trade_ids": [
-          "implicit.stat_2551600084"
         ]
       }
     ]
@@ -801,61 +856,6 @@
         "text": "+# to level of socketed aoe gems",
         "trade_ids": [
           "implicit.stat_2551600084"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Alpha's Howl",
-    "stats": "socketed skill gems get a #% cost & reservation multiplier",
-    "average": 1934.91,
-    "prices": [
-      1934.91,
-      1934.91,
-      3224.8500000000004,
-      10749.5
-    ],
-    "search": {
-      "id": "DGEZWG2t5",
-      "complexity": 18,
-      "total": 4
-    },
-    "builds": 5,
-    "mods": [
-      {
-        "text": "socketed skill gems get a #% cost & reservation multiplier",
-        "trade_ids": [
-          "implicit.stat_2865550257"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Victario's Influence",
-    "stats": "+# to level of socketed gems, +# to level of socketed aura gems",
-    "average": 1289.94,
-    "prices": [
-      859.96,
-      1719.92,
-      15049.300000000001
-    ],
-    "search": {
-      "id": "emYBeMnsL",
-      "complexity": 29,
-      "total": 3
-    },
-    "builds": 4,
-    "mods": [
-      {
-        "text": "+# to level of socketed gems",
-        "trade_ids": [
-          "implicit.stat_2843100721"
-        ]
-      },
-      {
-        "text": "+# to level of socketed aura gems",
-        "trade_ids": [
-          "implicit.stat_2452998583"
         ]
       }
     ]
@@ -4384,6 +4384,25 @@
         "text": "+# to level of socketed trap or mine gems",
         "trade_ids": [
           "implicit.stat_150668988"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Victario's Influence",
+    "stats": "+# to level of socketed aura gems, #% increased maximum energy shield",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "+# to level of socketed aura gems",
+        "trade_ids": [
+          "implicit.stat_2452998583"
+        ]
+      },
+      {
+        "text": "#% increased maximum energy shield",
+        "trade_ids": [
+          "implicit.stat_2482852589"
         ]
       }
     ]
@@ -11394,6 +11413,19 @@
   },
   {
     "item": "Prism Guardian",
+    "stats": "#% reduced area damage taken from hits",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "#% reduced area damage taken from hits",
+        "trade_ids": [
+          "implicit.stat_3001376862"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Prism Guardian",
     "stats": "#% increased maximum energy shield",
     "average": 18.3,
     "prices": [
@@ -14783,6 +14815,15 @@
   {
     "item": "Mageblood",
     "stats": "#% increased movement speed during any flask effect, #% increased cast speed during any flask effect",
+    "average": 42667.020000000004,
+    "prices": [
+      42667.020000000004
+    ],
+    "search": {
+      "id": "7lVqM8Bu5",
+      "complexity": 29,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -14802,6 +14843,13 @@
   {
     "item": "Mageblood",
     "stats": "#% increased maximum life, #% increased area of effect",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "kXjqdM3U5",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -14821,6 +14869,13 @@
   {
     "item": "Soulbound",
     "stats": "#% increased strength, #% increased intelligence, wrath has #% increased aura effect",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "WVMV76Rfm",
+      "complexity": 20,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -14846,6 +14901,13 @@
   {
     "item": "Soulbound",
     "stats": "anger has #% increased aura effect, grace has #% increased aura effect",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "9YbJLD8uK",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -14865,6 +14927,24 @@
   {
     "item": "The Untouched Soul",
     "stats": "#% increased rarity of items found",
+    "average": 2.7777777777777777,
+    "prices": [
+      1,
+      2,
+      2,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3
+    ],
+    "search": {
+      "id": "vlE0LQXHE",
+      "complexity": 18,
+      "total": 1554
+    },
     "builds": 1,
     "mods": [
       {
@@ -14878,6 +14958,24 @@
   {
     "item": "Crown of the Inward Eye",
     "stats": "#% increased maximum life",
+    "average": 24.142857142857142,
+    "prices": [
+      19,
+      20,
+      20,
+      25,
+      25,
+      30,
+      30,
+      40,
+      50,
+      75
+    ],
+    "search": {
+      "id": "Bq9WJbXT8",
+      "complexity": 18,
+      "total": 61
+    },
     "builds": 1,
     "mods": [
       {
@@ -14891,6 +14989,24 @@
   {
     "item": "Crown of the Inward Eye",
     "stats": "regenerate #% of life per second",
+    "average": 16,
+    "prices": [
+      10,
+      10,
+      10,
+      15,
+      15,
+      20,
+      20,
+      20,
+      20,
+      20
+    ],
+    "search": {
+      "id": "qayp5XWsg",
+      "complexity": 18,
+      "total": 37
+    },
     "builds": 1,
     "mods": [
       {
@@ -14904,6 +15020,13 @@
   {
     "item": "Devoto's Devotion",
     "stats": "+# to maximum power charges, regenerate #% of life per second",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "lXqEQlniV",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -14923,6 +15046,13 @@
   {
     "item": "Devoto's Devotion",
     "stats": "#% of fire damage leeched as life, +# to maximum power charges",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "jXqy39oTX",
+      "complexity": 30,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -14943,6 +15073,13 @@
   {
     "item": "Devoto's Devotion",
     "stats": "+# to level of socketed cold gems, +# to maximum power charges",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "OVXoMrzHE",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -14962,6 +15099,15 @@
   {
     "item": "Doomfletch",
     "stats": "socketed gems are supported by level # momentum, socketed gems are supported by level # faster projectiles",
+    "average": 8619.6,
+    "prices": [
+      8619.6
+    ],
+    "search": {
+      "id": "2Bam9vjhk",
+      "complexity": 29,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -14981,6 +15127,13 @@
   {
     "item": "Warrior's Tale",
     "stats": "damage penetrates #% fire resistance",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "wagX6rmsb",
+      "complexity": 19,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -14995,6 +15148,13 @@
   {
     "item": "Warrior's Tale",
     "stats": "#% increased reservation efficiency of skills, you cannot be hindered",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "nXjQQJJf0",
+      "complexity": 30,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -15015,6 +15175,13 @@
   {
     "item": "Warrior's Tale",
     "stats": "#% reduced ignite duration on you, you cannot be cursed with silence",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "BEQQX3kF8",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -15034,6 +15201,15 @@
   {
     "item": "Painseeker",
     "stats": "+# to maximum frenzy charges, curse enemies with elemental weakness on hit",
+    "average": 4309.8,
+    "prices": [
+      4309.8
+    ],
+    "search": {
+      "id": "dXRmerPsJ",
+      "complexity": 29,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
