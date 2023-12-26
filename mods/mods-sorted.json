@@ -9885,6 +9885,13 @@
   {
     "item": "Anathema",
     "stats": "#% increased strength, #% increased dexterity, grace has #% increased aura effect",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "QVOrDlvfw",
+      "complexity": 20,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -9910,6 +9917,17 @@
   {
     "item": "Anathema",
     "stats": "#% increased cast speed",
+    "average": 2536.2166666666667,
+    "prices": [
+      217.39,
+      869.56,
+      6521.7
+    ],
+    "search": {
+      "id": "JYm7jvOIl",
+      "complexity": 18,
+      "total": 3
+    },
     "builds": 1,
     "mods": [
       {
@@ -9923,6 +9941,24 @@
   {
     "item": "Anathema",
     "stats": "#% increased strength, #% increased intelligence",
+    "average": 310.34599999999995,
+    "prices": [
+      60,
+      217.39,
+      217.39,
+      217.39,
+      217.39,
+      217.39,
+      217.39,
+      434.78,
+      652.17,
+      652.17
+    ],
+    "search": {
+      "id": "LmdED02in",
+      "complexity": 29,
+      "total": 12
+    },
     "builds": 1,
     "mods": [
       {
@@ -9942,6 +9978,13 @@
   {
     "item": "Anathema",
     "stats": "bleeding cannot be inflicted on you",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "rY5MGMECQ",
+      "complexity": 18,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -9955,6 +9998,18 @@
   {
     "item": "Anathema",
     "stats": "zealotry has #% increased aura effect",
+    "average": 896.7337499999999,
+    "prices": [
+      434.78,
+      652.17,
+      1195.645,
+      1304.34
+    ],
+    "search": {
+      "id": "wpRMq0Bhb",
+      "complexity": 18,
+      "total": 4
+    },
     "builds": 1,
     "mods": [
       {
@@ -9968,6 +10023,15 @@
   {
     "item": "Astral Projector",
     "stats": "hatred has #% increased aura effect",
+    "average": 3260.85,
+    "prices": [
+      3260.85
+    ],
+    "search": {
+      "id": "BEXrk6Xt8",
+      "complexity": 18,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -9981,6 +10045,20 @@
   {
     "item": "Astral Projector",
     "stats": "#% increased cast speed",
+    "average": 869.5599999999998,
+    "prices": [
+      652.17,
+      869.56,
+      869.56,
+      869.56,
+      1086.9499999999998,
+      1847.8149999999998
+    ],
+    "search": {
+      "id": "dXb0bwoFJ",
+      "complexity": 18,
+      "total": 6
+    },
     "builds": 1,
     "mods": [
       {
@@ -9994,6 +10072,24 @@
   {
     "item": "Inspired Learning",
     "stats": "damage penetrates #% cold resistance",
+    "average": 72.33333333333333,
+    "prices": [
+      70,
+      70,
+      70,
+      70,
+      70,
+      75,
+      75,
+      75,
+      76,
+      80
+    ],
+    "search": {
+      "id": "KJdeLGqs5",
+      "complexity": 19,
+      "total": 32
+    },
     "builds": 1,
     "mods": [
       {
@@ -10008,6 +10104,24 @@
   {
     "item": "Inspired Learning",
     "stats": "you cannot be maimed",
+    "average": 68.8,
+    "prices": [
+      60,
+      63,
+      65,
+      65,
+      70,
+      70,
+      70,
+      75,
+      75,
+      75
+    ],
+    "search": {
+      "id": "v3WbPKZuE",
+      "complexity": 18,
+      "total": 31
+    },
     "builds": 1,
     "mods": [
       {
@@ -10021,6 +10135,24 @@
   {
     "item": "Inspired Learning",
     "stats": "minions deal #% increased damage",
+    "average": 73.22222222222223,
+    "prices": [
+      60,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      79,
+      80,
+      80
+    ],
+    "search": {
+      "id": "oX70bw4il",
+      "complexity": 18,
+      "total": 39
+    },
     "builds": 1,
     "mods": [
       {
@@ -10034,6 +10166,24 @@
   {
     "item": "Inspired Learning",
     "stats": "#% reduced poison duration on you",
+    "average": 74.1,
+    "prices": [
+      65,
+      70,
+      70,
+      70,
+      74,
+      75,
+      77,
+      80,
+      80,
+      80
+    ],
+    "search": {
+      "id": "ZbZdZp8HQ",
+      "complexity": 18,
+      "total": 34
+    },
     "builds": 1,
     "mods": [
       {
@@ -10047,6 +10197,24 @@
   {
     "item": "Inspired Learning",
     "stats": "#% reduced bleed duration on you",
+    "average": 75.5,
+    "prices": [
+      70,
+      70,
+      70,
+      74,
+      75,
+      78,
+      78,
+      80,
+      80,
+      80
+    ],
+    "search": {
+      "id": "bPZJr2RTL",
+      "complexity": 18,
+      "total": 40
+    },
     "builds": 1,
     "mods": [
       {
@@ -10060,6 +10228,24 @@
   {
     "item": "Inspired Learning",
     "stats": "#% reduced effect of curses on you",
+    "average": 80,
+    "prices": [
+      60,
+      70,
+      78,
+      80,
+      80,
+      80,
+      80,
+      80,
+      80,
+      80
+    ],
+    "search": {
+      "id": "LmdejwjHn",
+      "complexity": 18,
+      "total": 42
+    },
     "builds": 1,
     "mods": [
       {
@@ -10073,6 +10259,24 @@
   {
     "item": "Inspired Learning",
     "stats": "corrupted blood cannot be inflicted on you",
+    "average": 1591.7778888888888,
+    "prices": [
+      1304.34,
+      1521.73,
+      1521.73,
+      1521.73,
+      1521.73,
+      1630.425,
+      1630.425,
+      1630.425,
+      1673.903,
+      1673.903
+    ],
+    "search": {
+      "id": "wpR9W5jhb",
+      "complexity": 18,
+      "total": 23
+    },
     "builds": 1,
     "mods": [
       {
@@ -10086,6 +10290,24 @@
   {
     "item": "Inspired Learning",
     "stats": "damage penetrates #% lightning resistance",
+    "average": 73.22222222222223,
+    "prices": [
+      60,
+      69,
+      70,
+      70,
+      70,
+      70,
+      75,
+      75,
+      80,
+      80
+    ],
+    "search": {
+      "id": "kXD66RnF5",
+      "complexity": 19,
+      "total": 29
+    },
     "builds": 1,
     "mods": [
       {
