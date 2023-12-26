@@ -14428,6 +14428,24 @@
   {
     "item": "Tanu Ahi",
     "stats": "attacks have +#% to critical strike chance",
+    "average": 56.875,
+    "prices": [
+      30,
+      40,
+      50,
+      50,
+      50,
+      60,
+      60,
+      60,
+      60,
+      65
+    ],
+    "search": {
+      "id": "nXJBg42T0",
+      "complexity": 18,
+      "total": 86
+    },
     "builds": 1,
     "mods": [
       {
@@ -14441,6 +14459,13 @@
   {
     "item": "Tanu Ahi",
     "stats": "curse enemies with enfeeble on hit, attacks have +#% to critical strike chance",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "Rqr6WzBH7",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -14460,6 +14485,22 @@
   {
     "item": "Dissolution of the Flesh",
     "stats": "damage penetrates #% elemental resistances",
+    "average": 93.7225,
+    "prices": [
+      50,
+      50,
+      50,
+      50,
+      55,
+      60,
+      217.39,
+      217.39
+    ],
+    "search": {
+      "id": "vlqGP3BTE",
+      "complexity": 18,
+      "total": 8
+    },
     "builds": 1,
     "mods": [
       {
@@ -14473,6 +14514,13 @@
   {
     "item": "Crown of Thorns",
     "stats": "#% increased area of effect",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "BED35jLs8",
+      "complexity": 18,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -14486,6 +14534,13 @@
   {
     "item": "Corpsewalker",
     "stats": "#% increased maximum energy shield, #% increased movement speed",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "OVDEg6VHE",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -14505,6 +14560,21 @@
   {
     "item": "Corpsewalker",
     "stats": "+# to maximum endurance charges",
+    "average": 347.82399999999996,
+    "prices": [
+      217.39,
+      217.39,
+      326.085,
+      434.78,
+      543.4749999999999,
+      869.56,
+      1304.34
+    ],
+    "search": {
+      "id": "lXjqDv6hV",
+      "complexity": 18,
+      "total": 7
+    },
     "builds": 1,
     "mods": [
       {
@@ -14518,6 +14588,24 @@
   {
     "item": "Corpsewalker",
     "stats": "+# to level of socketed aoe gems",
+    "average": 597.8225,
+    "prices": [
+      217.39,
+      217.39,
+      217.39,
+      217.39,
+      217.39,
+      326.085,
+      869.56,
+      1086.9499999999998,
+      1304.34,
+      1304.34
+    ],
+    "search": {
+      "id": "3BZ8DW9c5",
+      "complexity": 18,
+      "total": 11
+    },
     "builds": 1,
     "mods": [
       {
@@ -14531,6 +14619,24 @@
   {
     "item": "Arn's Anguish",
     "stats": "zealotry has #% increased aura effect",
+    "average": 43.8,
+    "prices": [
+      35,
+      40,
+      40,
+      40,
+      43,
+      45,
+      45,
+      50,
+      50,
+      50
+    ],
+    "search": {
+      "id": "YVqrzkXsY",
+      "complexity": 18,
+      "total": 54
+    },
     "builds": 1,
     "mods": [
       {
@@ -14544,6 +14650,24 @@
   {
     "item": "Arn's Anguish",
     "stats": "#% increased movement speed during any flask effect",
+    "average": 50.9,
+    "prices": [
+      29,
+      34,
+      38,
+      40,
+      49,
+      50,
+      50,
+      65,
+      74,
+      80
+    ],
+    "search": {
+      "id": "gXWv5KKUQ",
+      "complexity": 18,
+      "total": 33
+    },
     "builds": 1,
     "mods": [
       {
@@ -14557,6 +14681,24 @@
   {
     "item": "Arn's Anguish",
     "stats": "wrath has #% increased aura effect",
+    "average": 40,
+    "prices": [
+      10,
+      38,
+      40,
+      40,
+      40,
+      40,
+      40,
+      40,
+      40,
+      45
+    ],
+    "search": {
+      "id": "3BrVpPJi5",
+      "complexity": 18,
+      "total": 42
+    },
     "builds": 1,
     "mods": [
       {
@@ -14570,6 +14712,24 @@
   {
     "item": "Arn's Anguish",
     "stats": "+#% to all elemental resistances",
+    "average": 770.5267777777776,
+    "prices": [
+      434.78,
+      630.4309999999999,
+      652.17,
+      652.17,
+      652.17,
+      869.56,
+      869.56,
+      869.56,
+      869.56,
+      869.56
+    ],
+    "search": {
+      "id": "Ey659y0i5",
+      "complexity": 18,
+      "total": 25
+    },
     "builds": 1,
     "mods": [
       {
@@ -14583,6 +14743,15 @@
   {
     "item": "Mageblood",
     "stats": "#% increased attack speed during any flask effect",
+    "average": 65216.99999999999,
+    "prices": [
+      65216.99999999999
+    ],
+    "search": {
+      "id": "vlPnR8BCE",
+      "complexity": 18,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -14596,6 +14765,13 @@
   {
     "item": "Mageblood",
     "stats": "#% increased maximum energy shield, #% increased cast speed during any flask effect",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "dPaOkzoFJ",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -14615,6 +14791,13 @@
   {
     "item": "Mageblood",
     "stats": "#% increased dexterity, #% increased intelligence, malevolence has #% increased aura effect",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "MVZ379PFJ",
+      "complexity": 20,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -14640,6 +14823,13 @@
   {
     "item": "Mageblood",
     "stats": "wrath has #% increased aura effect, zealotry has #% increased aura effect",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "Mq3y0eMuJ",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
