@@ -16996,6 +16996,24 @@
   {
     "item": "Mind of the Council",
     "stats": "+# to maximum power charges",
+    "average": 19.666666666666668,
+    "prices": [
+      10,
+      10,
+      15,
+      20,
+      20,
+      20,
+      22,
+      30,
+      30,
+      40
+    ],
+    "search": {
+      "id": "Ey6gq3VS5",
+      "complexity": 18,
+      "total": 22
+    },
     "builds": 1,
     "mods": [
       {
@@ -17009,6 +17027,24 @@
   {
     "item": "Dawnbreaker",
     "stats": "+#% chance to block",
+    "average": 121.856,
+    "prices": [
+      5,
+      10,
+      50,
+      60,
+      69,
+      155,
+      217.39,
+      217.39,
+      217.39,
+      217.39
+    ],
+    "search": {
+      "id": "5okJQ8dia",
+      "complexity": 18,
+      "total": 27
+    },
     "builds": 1,
     "mods": [
       {
@@ -17022,6 +17058,24 @@
   {
     "item": "Dawnbreaker",
     "stats": "grants level # determination skill",
+    "average": 86.27799999999999,
+    "prices": [
+      8,
+      20,
+      35,
+      50,
+      55,
+      80,
+      80,
+      100,
+      217.39,
+      217.39
+    ],
+    "search": {
+      "id": "JVrP0kWIl",
+      "complexity": 18,
+      "total": 17
+    },
     "builds": 1,
     "mods": [
       {
@@ -17035,6 +17089,13 @@
   {
     "item": "Ylfeban's Trickery",
     "stats": "+# to level of socketed projectile gems, +# to maximum power charges",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "VM3VEXatp",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -17054,6 +17115,20 @@
   {
     "item": "The Fledgling",
     "stats": "+# to level of socketed aoe gems",
+    "average": 310.65049999999997,
+    "prices": [
+      40,
+      150,
+      239.129,
+      347.824,
+      434.78,
+      652.17
+    ],
+    "search": {
+      "id": "80ZX7aqIV",
+      "complexity": 18,
+      "total": 6
+    },
     "builds": 1,
     "mods": [
       {
@@ -17067,6 +17142,16 @@
   {
     "item": "Replica Covenant",
     "stats": "+# to level of socketed duration gems, #% increased maximum life",
+    "average": 6195.615,
+    "prices": [
+      6086.92,
+      6304.3099999999995
+    ],
+    "search": {
+      "id": "LmynKyVhn",
+      "complexity": 29,
+      "total": 2
+    },
     "builds": 1,
     "mods": [
       {
@@ -17086,6 +17171,13 @@
   {
     "item": "Willclash",
     "stats": "+# to maximum power charges, #% increased effect of shock",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "5obpM4mua",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -17105,6 +17197,24 @@
   {
     "item": "The Supreme Truth",
     "stats": "adds # to # lightning damage",
+    "average": 83.33333333333333,
+    "prices": [
+      25,
+      25,
+      50,
+      80,
+      100,
+      100,
+      100,
+      120,
+      150,
+      217.39
+    ],
+    "search": {
+      "id": "EybrLryC5",
+      "complexity": 19,
+      "total": 13
+    },
     "builds": 1,
     "mods": [
       {
@@ -17119,6 +17229,24 @@
   {
     "item": "The Supreme Truth",
     "stats": "adds # to # fire damage",
+    "average": 32.888888888888886,
+    "prices": [
+      20,
+      22,
+      25,
+      30,
+      30,
+      39,
+      40,
+      40,
+      50,
+      60
+    ],
+    "search": {
+      "id": "EyRdbkYT5",
+      "complexity": 19,
+      "total": 16
+    },
     "builds": 1,
     "mods": [
       {
@@ -17133,6 +17261,24 @@
   {
     "item": "The Supreme Truth",
     "stats": "#% increased cast speed",
+    "average": 37.3,
+    "prices": [
+      30,
+      30,
+      30,
+      30,
+      40,
+      40,
+      40,
+      40,
+      45,
+      48
+    ],
+    "search": {
+      "id": "OVyp2G8TE",
+      "complexity": 18,
+      "total": 18
+    },
     "builds": 1,
     "mods": [
       {
@@ -17146,6 +17292,24 @@
   {
     "item": "Chains of Command",
     "stats": "+#% to all maximum resistances",
+    "average": 31,
+    "prices": [
+      10,
+      10,
+      20,
+      20,
+      20,
+      30,
+      40,
+      50,
+      50,
+      60
+    ],
+    "search": {
+      "id": "nXqyZm2C0",
+      "complexity": 18,
+      "total": 24
+    },
     "builds": 1,
     "mods": [
       {
@@ -17159,6 +17323,24 @@
   {
     "item": "Leash of Oblation",
     "stats": "discipline has #% increased aura effect",
+    "average": 134.0645,
+    "prices": [
+      10,
+      15,
+      40,
+      80,
+      108.695,
+      217.39,
+      217.39,
+      217.39,
+      217.39,
+      217.39
+    ],
+    "search": {
+      "id": "kXJQ05WI5",
+      "complexity": 18,
+      "total": 19
+    },
     "builds": 1,
     "mods": [
       {
@@ -17172,6 +17354,13 @@
   {
     "item": "Triad Grip",
     "stats": "+# to level of socketed aura gems, #% increased maximum energy shield",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "waq7K2jcb",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -17191,6 +17380,17 @@
   {
     "item": "Black Sun Crest",
     "stats": "socketed skill gems get a #% cost & reservation multiplier, cannot be blinded",
+    "average": 359.4183333333333,
+    "prices": [
+      100,
+      326.085,
+      652.17
+    ],
+    "search": {
+      "id": "BEQP07Wf8",
+      "complexity": 29,
+      "total": 3
+    },
     "builds": 1,
     "mods": [
       {
@@ -17210,6 +17410,24 @@
   {
     "item": "Ventor's Gamble",
     "stats": "#% increased rarity of items found",
+    "average": 2.2,
+    "prices": [
+      1,
+      1,
+      1,
+      2,
+      2,
+      3,
+      3,
+      3,
+      3,
+      3
+    ],
+    "search": {
+      "id": "v3mJV8DFE",
+      "complexity": 18,
+      "total": 10000
+    },
     "builds": 1,
     "mods": [
       {
