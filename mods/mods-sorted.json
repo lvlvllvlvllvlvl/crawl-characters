@@ -20,7 +20,7 @@
       "complexity": 18,
       "total": 88
     },
-    "builds": 16,
+    "builds": 17,
     "mods": [
       {
         "text": "hatred has #% increased aura effect",
@@ -51,7 +51,7 @@
       "complexity": 18,
       "total": 27
     },
-    "builds": 15,
+    "builds": 16,
     "mods": [
       {
         "text": "+# to level of socketed duration gems",
@@ -1378,6 +1378,37 @@
       "id": "bPZDn0aCL",
       "complexity": 18,
       "total": 11
+    },
+    "builds": 3,
+    "mods": [
+      {
+        "text": "+# to level of socketed aura gems",
+        "trade_ids": [
+          "implicit.stat_2452998583"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Alpha's Howl",
+    "stats": "+# to level of socketed aura gems",
+    "average": 652.17,
+    "prices": [
+      543.4749999999999,
+      586.953,
+      608.6919999999999,
+      652.17,
+      652.17,
+      652.17,
+      652.17,
+      652.17,
+      652.17,
+      652.17
+    ],
+    "search": {
+      "id": "EG8P4gyC5",
+      "complexity": 18,
+      "total": 19
     },
     "builds": 3,
     "mods": [
@@ -3065,37 +3096,6 @@
         "text": "+# to maximum power charges",
         "trade_ids": [
           "implicit.stat_227523295"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Alpha's Howl",
-    "stats": "+# to level of socketed aura gems",
-    "average": 652.17,
-    "prices": [
-      543.4749999999999,
-      586.953,
-      608.6919999999999,
-      652.17,
-      652.17,
-      652.17,
-      652.17,
-      652.17,
-      652.17,
-      652.17
-    ],
-    "search": {
-      "id": "EG8P4gyC5",
-      "complexity": 18,
-      "total": 19
-    },
-    "builds": 2,
-    "mods": [
-      {
-        "text": "+# to level of socketed aura gems",
-        "trade_ids": [
-          "implicit.stat_2452998583"
         ]
       }
     ]
@@ -6351,6 +6351,24 @@
   {
     "item": "Call of the Brotherhood",
     "stats": "zealotry has #% increased aura effect",
+    "average": 19.11111111111111,
+    "prices": [
+      10,
+      15,
+      15,
+      19,
+      19,
+      20,
+      20,
+      20,
+      20,
+      24
+    ],
+    "search": {
+      "id": "wpVlMn9ib",
+      "complexity": 18,
+      "total": 30
+    },
     "builds": 1,
     "mods": [
       {
@@ -6364,6 +6382,24 @@
   {
     "item": "Call of the Brotherhood",
     "stats": "#% increased strength, #% increased intelligence",
+    "average": 16.4,
+    "prices": [
+      10,
+      10,
+      15,
+      15,
+      15,
+      19,
+      20,
+      20,
+      20,
+      20
+    ],
+    "search": {
+      "id": "XkOE08kIP",
+      "complexity": 29,
+      "total": 56
+    },
     "builds": 1,
     "mods": [
       {
@@ -6383,6 +6419,15 @@
   {
     "item": "Call of the Brotherhood",
     "stats": "grants level # hatred skill, #% increased strength, #% increased intelligence",
+    "average": 652.17,
+    "prices": [
+      652.17
+    ],
+    "search": {
+      "id": "DLp8K6vu5",
+      "complexity": 20,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -6408,6 +6453,24 @@
   {
     "item": "Call of the Brotherhood",
     "stats": "wrath has #% increased aura effect",
+    "average": 16.857142857142858,
+    "prices": [
+      8,
+      14,
+      14,
+      15,
+      15,
+      20,
+      20,
+      20,
+      30,
+      40
+    ],
+    "search": {
+      "id": "OVwYd2VtE",
+      "complexity": 18,
+      "total": 35
+    },
     "builds": 1,
     "mods": [
       {
@@ -6421,6 +6484,24 @@
   {
     "item": "Call of the Brotherhood",
     "stats": "hatred has #% increased aura effect",
+    "average": 1206.5144999999998,
+    "prices": [
+      434.78,
+      434.78,
+      1086.9499999999998,
+      1086.9499999999998,
+      1086.9499999999998,
+      1304.34,
+      1304.34,
+      1630.425,
+      1739.12,
+      1956.5099999999998
+    ],
+    "search": {
+      "id": "JYDZWMbUl",
+      "complexity": 18,
+      "total": 19
+    },
     "builds": 1,
     "mods": [
       {
@@ -6434,6 +6515,13 @@
   {
     "item": "Heatshiver",
     "stats": "+# to level of socketed duration gems, +# to level of socketed aoe gems",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "MvRLBlGcJ",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -6453,6 +6541,13 @@
   {
     "item": "Heatshiver",
     "stats": "+# to level of socketed projectile gems, #% increased maximum life",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "gXDZdRgUQ",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -6472,6 +6567,24 @@
   {
     "item": "Heatshiver",
     "stats": "#% increased effect of cold ailments",
+    "average": 9.75,
+    "prices": [
+      7,
+      8,
+      9,
+      9,
+      10,
+      10,
+      10,
+      10,
+      10,
+      10
+    ],
+    "search": {
+      "id": "4drzQXgt9",
+      "complexity": 18,
+      "total": 170
+    },
     "builds": 1,
     "mods": [
       {
@@ -6485,6 +6598,13 @@
   {
     "item": "Heatshiver",
     "stats": "+# to level of socketed duration gems, #% increased maximum life",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "kXjobJQh5",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -6504,6 +6624,24 @@
   {
     "item": "Heatshiver",
     "stats": "#% of lightning damage leeched as life",
+    "average": 8.875,
+    "prices": [
+      4,
+      5,
+      8,
+      8,
+      8,
+      8,
+      9,
+      10,
+      10,
+      10
+    ],
+    "search": {
+      "id": "pXkjkjvT0",
+      "complexity": 19,
+      "total": 81
+    },
     "builds": 1,
     "mods": [
       {
@@ -6518,6 +6656,24 @@
   {
     "item": "Heatshiver",
     "stats": "#% increased effect of shock",
+    "average": 8.4,
+    "prices": [
+      5,
+      5,
+      5,
+      9,
+      10,
+      10,
+      10,
+      10,
+      10,
+      10
+    ],
+    "search": {
+      "id": "KJLypO6i5",
+      "complexity": 18,
+      "total": 114
+    },
     "builds": 1,
     "mods": [
       {
@@ -6531,6 +6687,24 @@
   {
     "item": "Watcher's Eye",
     "stats": "#% reduced effect of chill on you",
+    "average": 73.4,
+    "prices": [
+      30,
+      35,
+      50,
+      60,
+      80,
+      80,
+      99,
+      100,
+      100,
+      100
+    ],
+    "search": {
+      "id": "Zb5baJRTQ",
+      "complexity": 18,
+      "total": 46
+    },
     "builds": 1,
     "mods": [
       {
@@ -6544,6 +6718,24 @@
   {
     "item": "Watcher's Eye",
     "stats": "damage penetrates #% lightning resistance",
+    "average": 73.9,
+    "prices": [
+      40,
+      40,
+      40,
+      50,
+      65,
+      80,
+      99,
+      100,
+      100,
+      125
+    ],
+    "search": {
+      "id": "6ZbVbrXIG",
+      "complexity": 19,
+      "total": 30
+    },
     "builds": 1,
     "mods": [
       {
@@ -6558,6 +6750,24 @@
   {
     "item": "Watcher's Eye",
     "stats": "minions deal #% increased damage",
+    "average": 107.117,
+    "prices": [
+      20,
+      40,
+      50,
+      50,
+      59,
+      100,
+      100,
+      217.39,
+      217.39,
+      217.39
+    ],
+    "search": {
+      "id": "8a24E4qsV",
+      "complexity": 18,
+      "total": 31
+    },
     "builds": 1,
     "mods": [
       {
@@ -6571,6 +6781,15 @@
   {
     "item": "Watcher's Eye",
     "stats": "#% increased global critical strike chance, #% reduced poison duration on you",
+    "average": 1086.9499999999998,
+    "prices": [
+      1086.9499999999998
+    ],
+    "search": {
+      "id": "vlEXWkjHE",
+      "complexity": 29,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -8610,6 +8829,19 @@
         "text": "determination has #% increased aura effect",
         "trade_ids": [
           "implicit.stat_3653400807"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "The Jinxed Juju",
+    "stats": "hatred has #% increased aura effect",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "hatred has #% increased aura effect",
+        "trade_ids": [
+          "implicit.stat_3742945352"
         ]
       }
     ]
