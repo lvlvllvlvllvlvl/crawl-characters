@@ -5954,6 +5954,24 @@
   {
     "item": "Southbound",
     "stats": "#% increased maximum energy shield",
+    "average": 7.6,
+    "prices": [
+      3,
+      5,
+      5,
+      5,
+      8,
+      10,
+      10,
+      10,
+      10,
+      10
+    ],
+    "search": {
+      "id": "XqD7VoBhP",
+      "complexity": 18,
+      "total": 48
+    },
     "builds": 1,
     "mods": [
       {
@@ -5967,6 +5985,13 @@
   {
     "item": "Southbound",
     "stats": "curse enemies with enfeeble on hit, +#% to spell critical strike chance",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "PdyQjGDiL",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -5986,6 +6011,24 @@
   {
     "item": "Southbound",
     "stats": "+# to level of socketed aoe gems",
+    "average": 5,
+    "prices": [
+      3,
+      4,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5
+    ],
+    "search": {
+      "id": "rY5Xe0McQ",
+      "complexity": 18,
+      "total": 87
+    },
     "builds": 1,
     "mods": [
       {
@@ -5999,6 +6042,24 @@
   {
     "item": "Southbound",
     "stats": "+# to level of socketed aura gems",
+    "average": 4.7,
+    "prices": [
+      4,
+      4,
+      4,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5
+    ],
+    "search": {
+      "id": "JVyQrpbIl",
+      "complexity": 18,
+      "total": 76
+    },
     "builds": 1,
     "mods": [
       {
@@ -6012,6 +6073,15 @@
   {
     "item": "Southbound",
     "stats": "+# to level of socketed duration gems, +# to level of socketed aura gems",
+    "average": 1304.34,
+    "prices": [
+      1304.34
+    ],
+    "search": {
+      "id": "nXqLvmMH0",
+      "complexity": 29,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -6031,6 +6101,15 @@
   {
     "item": "Southbound",
     "stats": "+# to level of socketed projectile gems, +#% to spell critical strike chance",
+    "average": 217.39,
+    "prices": [
+      217.39
+    ],
+    "search": {
+      "id": "DLkBXM5u5",
+      "complexity": 29,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -6050,6 +6129,24 @@
   {
     "item": "Southbound",
     "stats": "attacks have +#% to critical strike chance",
+    "average": 6.2,
+    "prices": [
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      7,
+      8,
+      8,
+      9
+    ],
+    "search": {
+      "id": "oX5GZ7qIl",
+      "complexity": 18,
+      "total": 118
+    },
     "builds": 1,
     "mods": [
       {
@@ -6063,6 +6160,24 @@
   {
     "item": "Demon Stitcher",
     "stats": "+# to level of socketed aura gems",
+    "average": 9.6,
+    "prices": [
+      1,
+      2,
+      5,
+      8,
+      10,
+      10,
+      11,
+      14,
+      15,
+      20
+    ],
+    "search": {
+      "id": "8a2GpmBIV",
+      "complexity": 18,
+      "total": 78
+    },
     "builds": 1,
     "mods": [
       {
@@ -6076,6 +6191,16 @@
   {
     "item": "Sin Trek",
     "stats": "+# to level of socketed aura gems, +# to global evasion rating while moving",
+    "average": 100,
+    "prices": [
+      50,
+      150
+    ],
+    "search": {
+      "id": "JVn8QVOcl",
+      "complexity": 29,
+      "total": 2
+    },
     "builds": 1,
     "mods": [
       {
@@ -6095,6 +6220,15 @@
   {
     "item": "Sin Trek",
     "stats": "+# to level of socketed aura gems, +# to maximum endurance charges",
+    "average": 217.39,
+    "prices": [
+      217.39
+    ],
+    "search": {
+      "id": "EyDeL0Yf5",
+      "complexity": 29,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -6114,6 +6248,24 @@
   {
     "item": "Sin Trek",
     "stats": "+# to level of socketed gems",
+    "average": 6.2,
+    "prices": [
+      2,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      10,
+      10,
+      10
+    ],
+    "search": {
+      "id": "mXjDWmwt6",
+      "complexity": 18,
+      "total": 72
+    },
     "builds": 1,
     "mods": [
       {
@@ -6127,6 +6279,24 @@
   {
     "item": "Carcass Jack",
     "stats": "+# to level of socketed duration gems",
+    "average": 25,
+    "prices": [
+      15,
+      20,
+      20,
+      20,
+      25,
+      30,
+      30,
+      30,
+      30,
+      30
+    ],
+    "search": {
+      "id": "0BXn8pQUg",
+      "complexity": 18,
+      "total": 66
+    },
     "builds": 1,
     "mods": [
       {
@@ -6140,6 +6310,24 @@
   {
     "item": "Carcass Jack",
     "stats": "+# to level of socketed trap or mine gems",
+    "average": 14,
+    "prices": [
+      10,
+      10,
+      10,
+      10,
+      15,
+      15,
+      15,
+      15,
+      20,
+      20
+    ],
+    "search": {
+      "id": "XqbmDMWTP",
+      "complexity": 18,
+      "total": 45
+    },
     "builds": 1,
     "mods": [
       {
@@ -6153,6 +6341,13 @@
   {
     "item": "Call of the Brotherhood",
     "stats": "adds # to # lightning damage to spells and attacks, hatred has #% increased aura effect",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "mPakm7at6",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -6172,6 +6367,13 @@
   {
     "item": "Call of the Brotherhood",
     "stats": "adds # to # lightning damage to spells and attacks, bleeding cannot be inflicted on you",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "v3We26XhE",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
