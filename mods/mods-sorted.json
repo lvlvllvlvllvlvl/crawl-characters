@@ -8102,6 +8102,19 @@
   },
   {
     "item": "Goldwyrm",
+    "stats": "+# to maximum endurance charges",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "+# to maximum endurance charges",
+        "trade_ids": [
+          "implicit.stat_1515657623"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Goldwyrm",
     "stats": "+# to level of socketed gems",
     "average": 7.7,
     "prices": [
@@ -9102,6 +9115,26 @@
     ]
   },
   {
+    "item": "Hyrri's Truth",
+    "stats": "#% of fire damage leeched as life, you can apply an additional curse",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "#% of fire damage leeched as life",
+        "trade_ids": [
+          "implicit.stat_3848282610",
+          "implicit.stat_1743742391"
+        ]
+      },
+      {
+        "text": "you can apply an additional curse",
+        "trade_ids": [
+          "implicit.stat_30642521"
+        ]
+      }
+    ]
+  },
+  {
     "item": "Rat's Nest",
     "stats": "socketed skill gems get a #% cost & reservation multiplier",
     "average": 16.666666666666668,
@@ -9895,6 +9928,24 @@
   {
     "item": "Bisco's Leash",
     "stats": "#% increased maximum energy shield",
+    "average": 8.7,
+    "prices": [
+      8,
+      8,
+      8,
+      9,
+      9,
+      9,
+      9,
+      9,
+      9,
+      9
+    ],
+    "search": {
+      "id": "kX5We2ji5",
+      "complexity": 18,
+      "total": 124
+    },
     "builds": 1,
     "mods": [
       {
@@ -9908,6 +9959,24 @@
   {
     "item": "Anathema",
     "stats": "adds # to # lightning damage to spells and attacks",
+    "average": 74.36949999999999,
+    "prices": [
+      30,
+      40,
+      50,
+      50,
+      80,
+      85,
+      108.695,
+      100,
+      100,
+      100
+    ],
+    "search": {
+      "id": "0B8O6p8Fg",
+      "complexity": 18,
+      "total": 18
+    },
     "builds": 1,
     "mods": [
       {
@@ -9921,6 +9990,13 @@
   {
     "item": "Anathema",
     "stats": "#% increased strength, #% increased dexterity, grace has #% increased aura effect",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "QVOrDlvfw",
+      "complexity": 20,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -9946,6 +10022,16 @@
   {
     "item": "Anathema",
     "stats": "#% increased cast speed",
+    "average": 3478.24,
+    "prices": [
+      434.78,
+      6521.7
+    ],
+    "search": {
+      "id": "JYm7jvOIl",
+      "complexity": 18,
+      "total": 2
+    },
     "builds": 1,
     "mods": [
       {
@@ -9959,6 +10045,24 @@
   {
     "item": "Anathema",
     "stats": "#% increased strength, #% increased intelligence",
+    "average": 300.0765,
+    "prices": [
+      66,
+      217.39,
+      217.39,
+      217.39,
+      217.39,
+      217.39,
+      434.78,
+      434.78,
+      434.78,
+      543.4749999999999
+    ],
+    "search": {
+      "id": "LmdED02in",
+      "complexity": 29,
+      "total": 13
+    },
     "builds": 1,
     "mods": [
       {
@@ -9978,6 +10082,19 @@
   {
     "item": "Anathema",
     "stats": "bleeding cannot be inflicted on you",
+    "average": 6869.523999999999,
+    "prices": [
+      6304.3099999999995,
+      6521.7,
+      6956.48,
+      7173.87,
+      7391.259999999999
+    ],
+    "search": {
+      "id": "rY5MGMECQ",
+      "complexity": 18,
+      "total": 5
+    },
     "builds": 1,
     "mods": [
       {
@@ -9991,6 +10108,24 @@
   {
     "item": "Anathema",
     "stats": "zealotry has #% increased aura effect",
+    "average": 3932.343555555555,
+    "prices": [
+      869.56,
+      1043.472,
+      1086.9499999999998,
+      1086.9499999999998,
+      1086.9499999999998,
+      6304.3099999999995,
+      6521.7,
+      8695.599999999999,
+      8695.599999999999,
+      23912.899999999998
+    ],
+    "search": {
+      "id": "wpRMq0Bhb",
+      "complexity": 18,
+      "total": 10
+    },
     "builds": 1,
     "mods": [
       {
@@ -10004,6 +10139,21 @@
   {
     "item": "Astral Projector",
     "stats": "hatred has #% increased aura effect",
+    "average": 2355.058333333333,
+    "prices": [
+      1086.9499999999998,
+      1086.9499999999998,
+      1739.12,
+      1956.5099999999998,
+      3913.0199999999995,
+      4347.799999999999,
+      7608.65
+    ],
+    "search": {
+      "id": "BEXrk6Xt8",
+      "complexity": 18,
+      "total": 7
+    },
     "builds": 1,
     "mods": [
       {
@@ -10017,6 +10167,20 @@
   {
     "item": "Astral Projector",
     "stats": "#% increased cast speed",
+    "average": 760.865,
+    "prices": [
+      543.4749999999999,
+      652.17,
+      652.17,
+      869.56,
+      1086.9499999999998,
+      1847.8149999999998
+    ],
+    "search": {
+      "id": "dXb0bwoFJ",
+      "complexity": 18,
+      "total": 6
+    },
     "builds": 1,
     "mods": [
       {
@@ -10030,6 +10194,24 @@
   {
     "item": "Inspired Learning",
     "stats": "damage penetrates #% cold resistance",
+    "average": 48.44444444444444,
+    "prices": [
+      40,
+      45,
+      45,
+      46,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50
+    ],
+    "search": {
+      "id": "KJdeLGqs5",
+      "complexity": 19,
+      "total": 61
+    },
     "builds": 1,
     "mods": [
       {
@@ -10044,6 +10226,24 @@
   {
     "item": "Inspired Learning",
     "stats": "you cannot be maimed",
+    "average": 50,
+    "prices": [
+      49,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50
+    ],
+    "search": {
+      "id": "v3WbPKZuE",
+      "complexity": 18,
+      "total": 55
+    },
     "builds": 1,
     "mods": [
       {
@@ -10057,6 +10257,24 @@
   {
     "item": "Inspired Learning",
     "stats": "minions deal #% increased damage",
+    "average": 50,
+    "prices": [
+      45,
+      45,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50
+    ],
+    "search": {
+      "id": "oX70bw4il",
+      "complexity": 18,
+      "total": 56
+    },
     "builds": 1,
     "mods": [
       {
@@ -10070,6 +10288,24 @@
   {
     "item": "Inspired Learning",
     "stats": "#% reduced poison duration on you",
+    "average": 49.75,
+    "prices": [
+      40,
+      45,
+      49,
+      49,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50
+    ],
+    "search": {
+      "id": "ZbZdZp8HQ",
+      "complexity": 18,
+      "total": 56
+    },
     "builds": 1,
     "mods": [
       {
@@ -10083,6 +10319,24 @@
   {
     "item": "Inspired Learning",
     "stats": "#% reduced bleed duration on you",
+    "average": 51.4,
+    "prices": [
+      49,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      55,
+      55,
+      55
+    ],
+    "search": {
+      "id": "bPZJr2RTL",
+      "complexity": 18,
+      "total": 54
+    },
     "builds": 1,
     "mods": [
       {
@@ -10096,6 +10350,24 @@
   {
     "item": "Inspired Learning",
     "stats": "#% reduced effect of curses on you",
+    "average": 54.9,
+    "prices": [
+      50,
+      50,
+      50,
+      50,
+      55,
+      55,
+      59,
+      60,
+      60,
+      60
+    ],
+    "search": {
+      "id": "LmdejwjHn",
+      "complexity": 18,
+      "total": 63
+    },
     "builds": 1,
     "mods": [
       {
@@ -10337,6 +10609,25 @@
         "text": "+# to level of socketed minion gems",
         "trade_ids": [
           "implicit.stat_3604946673"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Shadows and Dust",
+    "stats": "curse enemies with elemental weakness on hit, attacks have +#% to critical strike chance",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "curse enemies with elemental weakness on hit",
+        "trade_ids": [
+          "implicit.stat_2028847114"
+        ]
+      },
+      {
+        "text": "attacks have +#% to critical strike chance",
+        "trade_ids": [
+          "implicit.stat_2572042788"
         ]
       }
     ]
@@ -14278,6 +14569,19 @@
     ]
   },
   {
+    "item": "The Poised Prism",
+    "stats": "#% increased elemental damage with attack skills",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "#% increased elemental damage with attack skills",
+        "trade_ids": [
+          "implicit.stat_387439868"
+        ]
+      }
+    ]
+  },
+  {
     "item": "Indigon",
     "stats": "+# to maximum power charges",
     "builds": 1,
@@ -14453,6 +14757,57 @@
     ]
   },
   {
+    "item": "Hyrri's Ire",
+    "stats": "you take #% reduced extra damage from critical strikes, +#% to all maximum resistances",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "you take #% reduced extra damage from critical strikes",
+        "trade_ids": [
+          "implicit.stat_3855016469"
+        ]
+      },
+      {
+        "text": "+#% to all maximum resistances",
+        "trade_ids": [
+          "implicit.stat_569299859"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Hyrri's Ire",
+    "stats": "+# to level of socketed minion gems",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "+# to level of socketed minion gems",
+        "trade_ids": [
+          "implicit.stat_3604946673"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Hyrri's Ire",
+    "stats": "+# to level of socketed gems, +# to level of socketed projectile gems",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "+# to level of socketed gems",
+        "trade_ids": [
+          "implicit.stat_2843100721"
+        ]
+      },
+      {
+        "text": "+# to level of socketed projectile gems",
+        "trade_ids": [
+          "implicit.stat_2176571093"
+        ]
+      }
+    ]
+  },
+  {
     "item": "Replica Dragonfang's Flight",
     "stats": "you can apply an additional curse",
     "builds": 1,
@@ -14578,38 +14933,6 @@
         "text": "hatred has #% increased aura effect",
         "trade_ids": [
           "implicit.stat_3742945352"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Hyrri's Ire",
-    "stats": "+# to level of socketed minion gems",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "+# to level of socketed minion gems",
-        "trade_ids": [
-          "implicit.stat_3604946673"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Hyrri's Ire",
-    "stats": "+# to level of socketed gems, +# to level of socketed projectile gems",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "+# to level of socketed gems",
-        "trade_ids": [
-          "implicit.stat_2843100721"
-        ]
-      },
-      {
-        "text": "+# to level of socketed projectile gems",
-        "trade_ids": [
-          "implicit.stat_2176571093"
         ]
       }
     ]
