@@ -237,7 +237,7 @@
       "complexity": 18,
       "total": 127
     },
-    "builds": 8,
+    "builds": 9,
     "mods": [
       {
         "text": "+# to maximum power charges",
@@ -5239,6 +5239,25 @@
         "text": "#% increased damage",
         "trade_ids": [
           "implicit.stat_2154246560"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Dialla's Malefaction",
+    "stats": "+# to level of socketed aoe gems, #% reduced chaos damage taken",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "+# to level of socketed aoe gems",
+        "trade_ids": [
+          "implicit.stat_2551600084"
+        ]
+      },
+      {
+        "text": "#% reduced chaos damage taken",
+        "trade_ids": [
+          "implicit.stat_2960683632"
         ]
       }
     ]
@@ -16120,6 +16139,24 @@
   {
     "item": "Machina Mitts",
     "stats": "curse enemies with enfeeble on hit",
+    "average": 20,
+    "prices": [
+      15,
+      19,
+      20,
+      20,
+      20,
+      20,
+      20,
+      25,
+      40,
+      50
+    ],
+    "search": {
+      "id": "WV4WDGvum",
+      "complexity": 18,
+      "total": 14
+    },
     "builds": 1,
     "mods": [
       {
@@ -16133,6 +16170,13 @@
   {
     "item": "The Poet's Pen",
     "stats": "adds # to # fire damage, #% increased attack speed",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "9YG3RV4tK",
+      "complexity": 31,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -16154,6 +16198,24 @@
   {
     "item": "The Poet's Pen",
     "stats": "#% increased area of effect",
+    "average": 125.51700000000001,
+    "prices": [
+      40,
+      45,
+      50,
+      70,
+      100,
+      149,
+      149,
+      217.39,
+      217.39,
+      217.39
+    ],
+    "search": {
+      "id": "4db67QgH9",
+      "complexity": 18,
+      "total": 12
+    },
     "builds": 1,
     "mods": [
       {
@@ -16167,6 +16229,13 @@
   {
     "item": "Queen of the Forest",
     "stats": "+# to level of socketed aura gems, +# to level of socketed curse gems",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "DLvDn72H5",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -16186,6 +16255,13 @@
   {
     "item": "Queen of the Forest",
     "stats": "+# to level of socketed trap or mine gems, #% increased maximum life",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "8abybkqhV",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -16205,6 +16281,15 @@
   {
     "item": "Queen of the Forest",
     "stats": "+# to level of socketed gems, +# to level of socketed projectile gems",
+    "average": 8695.599999999999,
+    "prices": [
+      8695.599999999999
+    ],
+    "search": {
+      "id": "BEOXnMaH8",
+      "complexity": 29,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -16224,6 +16309,15 @@
   {
     "item": "Queen of the Forest",
     "stats": "+# to level of socketed aoe gems, #% increased damage",
+    "average": 6521.7,
+    "prices": [
+      6521.7
+    ],
+    "search": {
+      "id": "OVwymo0tE",
+      "complexity": 29,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -16243,6 +16337,24 @@
   {
     "item": "Queen of the Forest",
     "stats": "+# to level of socketed gems",
+    "average": 472.86679999999996,
+    "prices": [
+      120,
+      217.39,
+      217.39,
+      217.39,
+      260.868,
+      434.78,
+      434.78,
+      652.17,
+      1086.9499999999998,
+      1086.9499999999998
+    ],
+    "search": {
+      "id": "yrJQLgGsR",
+      "complexity": 18,
+      "total": 17
+    },
     "builds": 1,
     "mods": [
       {
@@ -16256,6 +16368,24 @@
   {
     "item": "Cloak of Flame",
     "stats": "+# to level of socketed gems",
+    "average": 20,
+    "prices": [
+      3,
+      19,
+      20,
+      20,
+      20,
+      20,
+      20,
+      20,
+      20,
+      20
+    ],
+    "search": {
+      "id": "3Gwb5LGh5",
+      "complexity": 18,
+      "total": 312
+    },
     "builds": 1,
     "mods": [
       {
@@ -16269,6 +16399,24 @@
   {
     "item": "Cloak of Flame",
     "stats": "+# to level of socketed trap or mine gems",
+    "average": 11.5,
+    "prices": [
+      7,
+      8,
+      10,
+      10,
+      10,
+      10,
+      15,
+      15,
+      15,
+      15
+    ],
+    "search": {
+      "id": "BEXWzq4T8",
+      "complexity": 18,
+      "total": 126
+    },
     "builds": 1,
     "mods": [
       {
@@ -16282,6 +16430,13 @@
   {
     "item": "The Squire",
     "stats": "you take #% reduced extra damage from critical strikes, #% increased maximum life",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "Pd8pwJMhL",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -16301,6 +16456,24 @@
   {
     "item": "Severed in Sleep",
     "stats": "#% increased attack speed",
+    "average": 16.75,
+    "prices": [
+      9,
+      10,
+      15,
+      15,
+      20,
+      20,
+      20,
+      25,
+      35,
+      50
+    ],
+    "search": {
+      "id": "y9R7VBlSR",
+      "complexity": 19,
+      "total": 19
+    },
     "builds": 1,
     "mods": [
       {
@@ -16315,6 +16488,24 @@
   {
     "item": "Severed in Sleep",
     "stats": "#% increased physical damage",
+    "average": 19.375,
+    "prices": [
+      10,
+      10,
+      15,
+      20,
+      20,
+      25,
+      25,
+      30,
+      40,
+      50
+    ],
+    "search": {
+      "id": "4d95MJZt9",
+      "complexity": 18,
+      "total": 16
+    },
     "builds": 1,
     "mods": [
       {
@@ -16328,6 +16519,24 @@
   {
     "item": "Umbilicus Immortalis",
     "stats": "#% increased strength, #% increased intelligence",
+    "average": 35.9,
+    "prices": [
+      5,
+      10,
+      20,
+      20,
+      25,
+      30,
+      50,
+      59,
+      60,
+      80
+    ],
+    "search": {
+      "id": "MV5YWYMsJ",
+      "complexity": 29,
+      "total": 16
+    },
     "builds": 1,
     "mods": [
       {
@@ -16347,6 +16556,13 @@
   {
     "item": "Umbilicus Immortalis",
     "stats": "#% increased strength, #% increased dexterity, +#% to all elemental resistances",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "GkJ5moZcb",
+      "complexity": 20,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
