@@ -17946,6 +17946,18 @@
   {
     "item": "The Red Dream",
     "stats": "#% reduced effect of curses on you",
+    "average": 40,
+    "prices": [
+      30,
+      40,
+      50,
+      99
+    ],
+    "search": {
+      "id": "MV5koWLsJ",
+      "complexity": 18,
+      "total": 4
+    },
     "builds": 1,
     "mods": [
       {
@@ -17959,6 +17971,24 @@
   {
     "item": "Voidwalker",
     "stats": "+# to maximum endurance charges",
+    "average": 14.5,
+    "prices": [
+      10,
+      10,
+      10,
+      10,
+      15,
+      15,
+      15,
+      20,
+      20,
+      20
+    ],
+    "search": {
+      "id": "rXmqqpmfQ",
+      "complexity": 18,
+      "total": 20
+    },
     "builds": 1,
     "mods": [
       {
@@ -17972,6 +18002,24 @@
   {
     "item": "Inpulsa's Broken Heart",
     "stats": "#% additional physical damage reduction while stationary",
+    "average": 30.7,
+    "prices": [
+      14,
+      15,
+      15,
+      20,
+      29,
+      40,
+      40,
+      40,
+      44,
+      50
+    ],
+    "search": {
+      "id": "zeqGP0aI4",
+      "complexity": 18,
+      "total": 24
+    },
     "builds": 1,
     "mods": [
       {
@@ -17985,6 +18033,13 @@
   {
     "item": "Inpulsa's Broken Heart",
     "stats": "+# to level of socketed minion gems, #% increased damage",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "BEzevqjT8",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -18004,6 +18059,24 @@
   {
     "item": "Inpulsa's Broken Heart",
     "stats": "#% reduced cold damage taken",
+    "average": 21.333333333333332,
+    "prices": [
+      8,
+      10,
+      10,
+      15,
+      15,
+      20,
+      30,
+      40,
+      44,
+      217.22
+    ],
+    "search": {
+      "id": "eXDrLwWFL",
+      "complexity": 18,
+      "total": 17
+    },
     "builds": 1,
     "mods": [
       {
@@ -18017,6 +18090,24 @@
   {
     "item": "Inpulsa's Broken Heart",
     "stats": "#% reduced lightning damage taken",
+    "average": 38.125,
+    "prices": [
+      15,
+      20,
+      25,
+      40,
+      45,
+      50,
+      50,
+      60,
+      80,
+      108.61
+    ],
+    "search": {
+      "id": "LmXP4Y2hn",
+      "complexity": 18,
+      "total": 21
+    },
     "builds": 1,
     "mods": [
       {
@@ -18030,6 +18121,24 @@
   {
     "item": "Inpulsa's Broken Heart",
     "stats": "you take #% reduced extra damage from critical strikes",
+    "average": 24.142857142857142,
+    "prices": [
+      10,
+      19,
+      20,
+      20,
+      25,
+      25,
+      30,
+      30,
+      45,
+      50
+    ],
+    "search": {
+      "id": "lX80WppIV",
+      "complexity": 18,
+      "total": 28
+    },
     "builds": 1,
     "mods": [
       {
@@ -18043,6 +18152,24 @@
   {
     "item": "The Gull",
     "stats": "socketed skill gems get a #% cost & reservation multiplier",
+    "average": 217.22,
+    "prices": [
+      100,
+      130,
+      150,
+      217.22,
+      217.22,
+      217.22,
+      217.22,
+      217.22,
+      217.22,
+      217.22
+    ],
+    "search": {
+      "id": "y9EGvmgSR",
+      "complexity": 18,
+      "total": 64
+    },
     "builds": 1,
     "mods": [
       {
@@ -18056,6 +18183,13 @@
   {
     "item": "Aegis Aurora",
     "stats": "+# to level of socketed duration gems, #% reduced damage taken from projectile hits",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "VMgRqawsp",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -18075,6 +18209,24 @@
   {
     "item": "Aegis Aurora",
     "stats": "+# to level of socketed gems",
+    "average": 22,
+    "prices": [
+      15,
+      15,
+      20,
+      20,
+      20,
+      20,
+      20,
+      30,
+      30,
+      30
+    ],
+    "search": {
+      "id": "80Z8EzGsV",
+      "complexity": 18,
+      "total": 89
+    },
     "builds": 1,
     "mods": [
       {
@@ -18088,6 +18240,24 @@
   {
     "item": "Aegis Aurora",
     "stats": "+# to level of socketed aoe gems",
+    "average": 18.6,
+    "prices": [
+      15,
+      15,
+      18,
+      19,
+      19,
+      20,
+      20,
+      20,
+      20,
+      20
+    ],
+    "search": {
+      "id": "v3mVvJJCE",
+      "complexity": 18,
+      "total": 111
+    },
     "builds": 1,
     "mods": [
       {
@@ -18101,6 +18271,24 @@
   {
     "item": "Aegis Aurora",
     "stats": "#% of physical damage from hits taken as fire damage",
+    "average": 17.555555555555557,
+    "prices": [
+      10,
+      14,
+      15,
+      15,
+      15,
+      19,
+      20,
+      20,
+      20,
+      20
+    ],
+    "search": {
+      "id": "lXjXX7kcV",
+      "complexity": 18,
+      "total": 156
+    },
     "builds": 1,
     "mods": [
       {
@@ -18114,6 +18302,16 @@
   {
     "item": "Replica Dreamfeather",
     "stats": "#% increased physical damage, #% increased attack speed",
+    "average": 11947.099999999999,
+    "prices": [
+      8688.8,
+      15205.4
+    ],
+    "search": {
+      "id": "gqPOMrOFQ",
+      "complexity": 30,
+      "total": 2
+    },
     "builds": 1,
     "mods": [
       {
@@ -18134,6 +18332,24 @@
   {
     "item": "Lioneye's Fall",
     "stats": "corrupted blood cannot be inflicted on you",
+    "average": 304.108,
+    "prices": [
+      282.386,
+      282.386,
+      304.108,
+      304.108,
+      304.108,
+      304.108,
+      304.108,
+      304.108,
+      304.108,
+      304.108
+    ],
+    "search": {
+      "id": "EG8yMgKs5",
+      "complexity": 18,
+      "total": 81
+    },
     "builds": 1,
     "mods": [
       {
@@ -18147,6 +18363,24 @@
   {
     "item": "Olesya's Delight",
     "stats": "#% increased attack speed during any flask effect",
+    "average": 54,
+    "prices": [
+      40,
+      40,
+      40,
+      50,
+      50,
+      50,
+      60,
+      65,
+      70,
+      75
+    ],
+    "search": {
+      "id": "4zm42y8t9",
+      "complexity": 18,
+      "total": 49
+    },
     "builds": 1,
     "mods": [
       {
