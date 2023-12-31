@@ -248,6 +248,38 @@
     ]
   },
   {
+    "item": "Goldwyrm",
+    "stats": "+#% chance to suppress spell damage",
+    "average": 5,
+    "prices": [
+      3,
+      3,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5
+    ],
+    "search": {
+      "id": "EG8VqLZU5",
+      "complexity": 19,
+      "total": 834
+    },
+    "builds": 8,
+    "mods": [
+      {
+        "text": "+#% chance to suppress spell damage",
+        "trade_ids": [
+          "implicit.stat_3680664274",
+          "implicit.stat_492027537"
+        ]
+      }
+    ]
+  },
+  {
     "item": "Kaom's Heart",
     "stats": "#% increased damage",
     "average": 20,
@@ -434,38 +466,6 @@
     ]
   },
   {
-    "item": "Goldwyrm",
-    "stats": "+#% chance to suppress spell damage",
-    "average": 5,
-    "prices": [
-      3,
-      3,
-      5,
-      5,
-      5,
-      5,
-      5,
-      5,
-      5,
-      5
-    ],
-    "search": {
-      "id": "EG8VqLZU5",
-      "complexity": 19,
-      "total": 834
-    },
-    "builds": 7,
-    "mods": [
-      {
-        "text": "+#% chance to suppress spell damage",
-        "trade_ids": [
-          "implicit.stat_3680664274",
-          "implicit.stat_492027537"
-        ]
-      }
-    ]
-  },
-  {
     "item": "March of the Legion",
     "stats": "+# to level of socketed aoe gems",
     "average": 8.555555555555555,
@@ -492,6 +492,37 @@
         "text": "+# to level of socketed aoe gems",
         "trade_ids": [
           "implicit.stat_2551600084"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Eyes of the Greatwolf",
+    "stats": "#% increased quantity of items found",
+    "average": 56.875,
+    "prices": [
+      50,
+      50,
+      55,
+      60,
+      60,
+      60,
+      60,
+      60,
+      78,
+      80
+    ],
+    "search": {
+      "id": "ZPQr9XbfQ",
+      "complexity": 18,
+      "total": 2238
+    },
+    "builds": 7,
+    "mods": [
+      {
+        "text": "#% increased quantity of items found",
+        "trade_ids": [
+          "implicit.stat_884586851"
         ]
       }
     ]
@@ -647,37 +678,6 @@
         "text": "+#% to spell critical strike chance",
         "trade_ids": [
           "implicit.stat_791835907"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Eyes of the Greatwolf",
-    "stats": "#% increased quantity of items found",
-    "average": 56.875,
-    "prices": [
-      50,
-      50,
-      55,
-      60,
-      60,
-      60,
-      60,
-      60,
-      78,
-      80
-    ],
-    "search": {
-      "id": "ZPQr9XbfQ",
-      "complexity": 18,
-      "total": 2238
-    },
-    "builds": 6,
-    "mods": [
-      {
-        "text": "#% increased quantity of items found",
-        "trade_ids": [
-          "implicit.stat_884586851"
         ]
       }
     ]
@@ -1964,6 +1964,37 @@
     ]
   },
   {
+    "item": "Dialla's Malefaction",
+    "stats": "+# to level of socketed gems",
+    "average": 6584.7431,
+    "prices": [
+      5869.53,
+      6086.92,
+      6304.3099999999995,
+      6304.3099999999995,
+      6304.3099999999995,
+      6521.7,
+      6956.48,
+      7152.130999999999,
+      7173.87,
+      7173.87
+    ],
+    "search": {
+      "id": "waPQeqdUb",
+      "complexity": 18,
+      "total": 32
+    },
+    "builds": 2,
+    "mods": [
+      {
+        "text": "+# to level of socketed gems",
+        "trade_ids": [
+          "implicit.stat_2843100721"
+        ]
+      }
+    ]
+  },
+  {
     "item": "Pure Talent",
     "stats": "corrupted blood cannot be inflicted on you",
     "average": 39,
@@ -2324,6 +2355,37 @@
         "text": "+# to level of socketed aura gems",
         "trade_ids": [
           "implicit.stat_2452998583"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Greed's Embrace",
+    "stats": "+# to level of socketed gems",
+    "average": 8.3,
+    "prices": [
+      5,
+      5,
+      6,
+      9,
+      9,
+      9,
+      10,
+      10,
+      10,
+      10
+    ],
+    "search": {
+      "id": "3GwpXDPh5",
+      "complexity": 18,
+      "total": 588
+    },
+    "builds": 2,
+    "mods": [
+      {
+        "text": "+# to level of socketed gems",
+        "trade_ids": [
+          "implicit.stat_2843100721"
         ]
       }
     ]
@@ -5167,37 +5229,6 @@
   },
   {
     "item": "Dialla's Malefaction",
-    "stats": "+# to level of socketed gems",
-    "average": 6584.7431,
-    "prices": [
-      5869.53,
-      6086.92,
-      6304.3099999999995,
-      6304.3099999999995,
-      6304.3099999999995,
-      6521.7,
-      6956.48,
-      7152.130999999999,
-      7173.87,
-      7173.87
-    ],
-    "search": {
-      "id": "waPQeqdUb",
-      "complexity": 18,
-      "total": 32
-    },
-    "builds": 1,
-    "mods": [
-      {
-        "text": "+# to level of socketed gems",
-        "trade_ids": [
-          "implicit.stat_2843100721"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Dialla's Malefaction",
     "stats": "+# to level of socketed aura gems, +#% to all maximum resistances",
     "average": 321.73749999999995,
     "prices": [
@@ -7928,37 +7959,6 @@
         "text": "+# to level of socketed warcry gems",
         "trade_ids": [
           "implicit.stat_1672793731"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Greed's Embrace",
-    "stats": "+# to level of socketed gems",
-    "average": 8.3,
-    "prices": [
-      5,
-      5,
-      6,
-      9,
-      9,
-      9,
-      10,
-      10,
-      10,
-      10
-    ],
-    "search": {
-      "id": "3GwpXDPh5",
-      "complexity": 18,
-      "total": 588
-    },
-    "builds": 1,
-    "mods": [
-      {
-        "text": "+# to level of socketed gems",
-        "trade_ids": [
-          "implicit.stat_2843100721"
         ]
       }
     ]
@@ -12680,6 +12680,16 @@
   {
     "item": "Lightning Coil",
     "stats": "+# to level of socketed aoe gems, +# to level of socketed projectile gems",
+    "average": 108189.525,
+    "prices": [
+      76086.5,
+      140292.55
+    ],
+    "search": {
+      "id": "zeBjrpvH4",
+      "complexity": 29,
+      "total": 2
+    },
     "builds": 1,
     "mods": [
       {
@@ -12699,6 +12709,24 @@
   {
     "item": "Lightning Coil",
     "stats": "#% additional physical damage reduction while stationary",
+    "average": 9,
+    "prices": [
+      4,
+      5,
+      5,
+      5,
+      10,
+      10,
+      10,
+      11,
+      15,
+      15
+    ],
+    "search": {
+      "id": "6ZBDYWkFG",
+      "complexity": 18,
+      "total": 67
+    },
     "builds": 1,
     "mods": [
       {
@@ -12712,6 +12740,13 @@
   {
     "item": "Lightning Coil",
     "stats": "#% increased damage, #% reduced lightning damage taken",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "XqDYal7CP",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -12731,6 +12766,24 @@
   {
     "item": "Lightning Coil",
     "stats": "#% increased damage",
+    "average": 771.7344999999998,
+    "prices": [
+      652.17,
+      652.17,
+      652.17,
+      652.17,
+      760.865,
+      869.56,
+      869.56,
+      869.56,
+      869.56,
+      869.56
+    ],
+    "search": {
+      "id": "DGEGlVVc5",
+      "complexity": 18,
+      "total": 100
+    },
     "builds": 1,
     "mods": [
       {
@@ -12744,6 +12797,24 @@
   {
     "item": "Lightning Coil",
     "stats": "+# to level of socketed minion gems",
+    "average": 26.9,
+    "prices": [
+      20,
+      20,
+      24,
+      25,
+      30,
+      30,
+      30,
+      30,
+      30,
+      30
+    ],
+    "search": {
+      "id": "8aprQ3VTV",
+      "complexity": 18,
+      "total": 107
+    },
     "builds": 1,
     "mods": [
       {
@@ -12757,6 +12828,24 @@
   {
     "item": "Lightning Coil",
     "stats": "+#% to all maximum resistances",
+    "average": 16.4,
+    "prices": [
+      10,
+      10,
+      12,
+      15,
+      17,
+      20,
+      20,
+      20,
+      20,
+      20
+    ],
+    "search": {
+      "id": "80Z0zlZcV",
+      "complexity": 18,
+      "total": 85
+    },
     "builds": 1,
     "mods": [
       {
@@ -12770,6 +12859,24 @@
   {
     "item": "Lightning Coil",
     "stats": "+# to level of socketed gems",
+    "average": 35.77777777777778,
+    "prices": [
+      20,
+      30,
+      30,
+      30,
+      33,
+      39,
+      40,
+      40,
+      40,
+      40
+    ],
+    "search": {
+      "id": "2BrQXgYFk",
+      "complexity": 18,
+      "total": 130
+    },
     "builds": 1,
     "mods": [
       {
@@ -12783,6 +12890,24 @@
   {
     "item": "The Magnate",
     "stats": "+#% to critical strike multiplier during any flask effect",
+    "average": 81.8,
+    "prices": [
+      55,
+      60,
+      65,
+      79,
+      80,
+      80,
+      99,
+      100,
+      100,
+      100
+    ],
+    "search": {
+      "id": "y9RWXZ8IR",
+      "complexity": 18,
+      "total": 51
+    },
     "builds": 1,
     "mods": [
       {
@@ -12796,6 +12921,24 @@
   {
     "item": "The Magnate",
     "stats": "hatred has #% increased aura effect",
+    "average": 47.77777777777778,
+    "prices": [
+      20,
+      30,
+      40,
+      40,
+      40,
+      50,
+      50,
+      60,
+      60,
+      60
+    ],
+    "search": {
+      "id": "RVBg6k4I7",
+      "complexity": 18,
+      "total": 52
+    },
     "builds": 1,
     "mods": [
       {
@@ -12809,6 +12952,24 @@
   {
     "item": "The Magnate",
     "stats": "+#% to all elemental resistances",
+    "average": 123.8,
+    "prices": [
+      70,
+      98,
+      100,
+      100,
+      120,
+      150,
+      150,
+      150,
+      150,
+      150
+    ],
+    "search": {
+      "id": "mXjMRMeT6",
+      "complexity": 18,
+      "total": 40
+    },
     "builds": 1,
     "mods": [
       {
@@ -12822,6 +12983,24 @@
   {
     "item": "Abyssus",
     "stats": "+# to maximum power charges",
+    "average": 39,
+    "prices": [
+      20,
+      20,
+      20,
+      20,
+      25,
+      50,
+      50,
+      50,
+      65,
+      70
+    ],
+    "search": {
+      "id": "aqeEGJ7se",
+      "complexity": 18,
+      "total": 52
+    },
     "builds": 1,
     "mods": [
       {
@@ -12835,6 +13014,24 @@
   {
     "item": "Voidforge",
     "stats": "#% increased elemental damage with attack skills",
+    "average": 6771.6985,
+    "prices": [
+      6499.960999999999,
+      6499.960999999999,
+      6521.7,
+      6521.7,
+      6739.089999999999,
+      6739.089999999999,
+      6934.740999999999,
+      6956.48,
+      7152.130999999999,
+      7152.130999999999
+    ],
+    "search": {
+      "id": "rXmE2XmfQ",
+      "complexity": 18,
+      "total": 31
+    },
     "builds": 1,
     "mods": [
       {
@@ -12848,6 +13045,15 @@
   {
     "item": "Piscator's Vigil",
     "stats": "#% increased critical strike chance, damage penetrates #% elemental resistances",
+    "average": 217.39,
+    "prices": [
+      217.39
+    ],
+    "search": {
+      "id": "Rq6rDKrt7",
+      "complexity": 29,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -12867,6 +13073,15 @@
   {
     "item": "Piscator's Vigil",
     "stats": "adds # to # cold damage, #% increased attack speed",
+    "average": 217.39,
+    "prices": [
+      217.39
+    ],
+    "search": {
+      "id": "XqYYyXRHP",
+      "complexity": 31,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -12888,6 +13103,24 @@
   {
     "item": "Ceinture of Benevolence",
     "stats": "#% increased maximum energy shield",
+    "average": 100.978,
+    "prices": [
+      10,
+      20,
+      30,
+      45,
+      100,
+      100,
+      120,
+      150,
+      217.39,
+      217.39
+    ],
+    "search": {
+      "id": "XkOX59dCP",
+      "complexity": 18,
+      "total": 18
+    },
     "builds": 1,
     "mods": [
       {
