@@ -93,6 +93,37 @@
     ]
   },
   {
+    "item": "Southbound",
+    "stats": "+#% to spell critical strike chance",
+    "average": 20,
+    "prices": [
+      10,
+      20,
+      20,
+      20,
+      20,
+      20,
+      20,
+      20,
+      25,
+      30
+    ],
+    "search": {
+      "id": "XkO2WqdSP",
+      "complexity": 18,
+      "total": 80
+    },
+    "builds": 12,
+    "mods": [
+      {
+        "text": "+#% to spell critical strike chance",
+        "trade_ids": [
+          "implicit.stat_791835907"
+        ]
+      }
+    ]
+  },
+  {
     "item": "Vaal Caress",
     "stats": "+# to level of socketed aura gems",
     "average": 869.5599999999997,
@@ -150,37 +181,6 @@
         "text": "+# to level of socketed aoe gems",
         "trade_ids": [
           "implicit.stat_2551600084"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Southbound",
-    "stats": "+#% to spell critical strike chance",
-    "average": 20,
-    "prices": [
-      10,
-      20,
-      20,
-      20,
-      20,
-      20,
-      20,
-      20,
-      25,
-      30
-    ],
-    "search": {
-      "id": "XkO2WqdSP",
-      "complexity": 18,
-      "total": 80
-    },
-    "builds": 11,
-    "mods": [
-      {
-        "text": "+#% to spell critical strike chance",
-        "trade_ids": [
-          "implicit.stat_791835907"
         ]
       }
     ]
@@ -3693,6 +3693,24 @@
   {
     "item": "Legacy of Fury",
     "stats": "+# to maximum endurance charges",
+    "average": 40.5,
+    "prices": [
+      30,
+      30,
+      40,
+      40,
+      40,
+      40,
+      40,
+      45,
+      50,
+      50
+    ],
+    "search": {
+      "id": "0PQZ0g7Ig",
+      "complexity": 18,
+      "total": 52
+    },
     "builds": 2,
     "mods": [
       {
@@ -3706,6 +3724,24 @@
   {
     "item": "Ephemeral Edge",
     "stats": "resolute technique",
+    "average": 210.14366666666663,
+    "prices": [
+      173.912,
+      195.65099999999998,
+      195.65099999999998,
+      195.65099999999998,
+      217.39,
+      217.39,
+      217.39,
+      217.39,
+      217.39,
+      217.39
+    ],
+    "search": {
+      "id": "3BrQ3l9c5",
+      "complexity": 18,
+      "total": 106
+    },
     "builds": 2,
     "mods": [
       {
@@ -3719,6 +3755,24 @@
   {
     "item": "Fleshcrafter",
     "stats": "+# to level of socketed duration gems",
+    "average": 1425.112222222222,
+    "prices": [
+      1086.9499999999998,
+      1086.9499999999998,
+      1304.34,
+      1304.34,
+      1521.73,
+      1521.73,
+      1521.73,
+      1739.12,
+      1739.12,
+      2173.8999999999996
+    ],
+    "search": {
+      "id": "GZypBposb",
+      "complexity": 18,
+      "total": 14
+    },
     "builds": 2,
     "mods": [
       {
@@ -3732,6 +3786,24 @@
   {
     "item": "Shavronne's Wrappings",
     "stats": "+# to level of socketed aura gems",
+    "average": 48.333333333333336,
+    "prices": [
+      30,
+      30,
+      30,
+      30,
+      40,
+      60,
+      60,
+      75,
+      80,
+      108.695
+    ],
+    "search": {
+      "id": "3BrP4bGs5",
+      "complexity": 18,
+      "total": 55
+    },
     "builds": 2,
     "mods": [
       {
@@ -3745,6 +3817,24 @@
   {
     "item": "Ylfeban's Trickery",
     "stats": "+# to maximum power charges",
+    "average": 174.93399999999997,
+    "prices": [
+      95,
+      100,
+      100,
+      150,
+      217.39,
+      217.39,
+      217.39,
+      217.39,
+      217.39,
+      217.39
+    ],
+    "search": {
+      "id": "bXRmpQGTL",
+      "complexity": 18,
+      "total": 19
+    },
     "builds": 2,
     "mods": [
       {
@@ -3758,6 +3848,15 @@
   {
     "item": "The Fledgling",
     "stats": "+# to maximum power charges",
+    "average": 9782.55,
+    "prices": [
+      9782.55
+    ],
+    "search": {
+      "id": "dXWYGdqFJ",
+      "complexity": 18,
+      "total": 1
+    },
     "builds": 2,
     "mods": [
       {
@@ -3771,6 +3870,24 @@
   {
     "item": "Willclash",
     "stats": "+# to maximum power charges",
+    "average": 3178.7248888888885,
+    "prices": [
+      2130.422,
+      2173.8999999999996,
+      3043.46,
+      3043.46,
+      3260.85,
+      3260.85,
+      3434.7619999999997,
+      4130.41,
+      4130.41,
+      5217.36
+    ],
+    "search": {
+      "id": "Qr6G5weSw",
+      "complexity": 18,
+      "total": 14
+    },
     "builds": 2,
     "mods": [
       {
@@ -3784,6 +3901,24 @@
   {
     "item": "Grip of the Council",
     "stats": "+# to level of socketed gems",
+    "average": 51.3,
+    "prices": [
+      20,
+      30,
+      40,
+      45,
+      49,
+      50,
+      59,
+      60,
+      80,
+      80
+    ],
+    "search": {
+      "id": "0BZV3XQhg",
+      "complexity": 18,
+      "total": 21
+    },
     "builds": 2,
     "mods": [
       {
@@ -3797,6 +3932,21 @@
   {
     "item": "Primordial Harmony",
     "stats": "#% increased reservation efficiency of skills",
+    "average": 543.475,
+    "prices": [
+      434.78,
+      434.78,
+      434.78,
+      434.78,
+      652.17,
+      652.17,
+      760.865
+    ],
+    "search": {
+      "id": "vlP9nqJuE",
+      "complexity": 19,
+      "total": 7
+    },
     "builds": 2,
     "mods": [
       {
@@ -3811,6 +3961,15 @@
   {
     "item": "Sandstorm Visage",
     "stats": "#% increased effect of cold ailments",
+    "average": 434.78,
+    "prices": [
+      434.78
+    ],
+    "search": {
+      "id": "MqWWYMPCJ",
+      "complexity": 18,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -3824,6 +3983,13 @@
   {
     "item": "Sandstorm Visage",
     "stats": "+# to level of socketed minion gems, +# to level of socketed trap or mine gems",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "MVZ3BELsJ",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -3843,6 +4009,24 @@
   {
     "item": "The Vertex",
     "stats": "socketed skill gems get a #% cost & reservation multiplier",
+    "average": 138.217,
+    "prices": [
+      50,
+      50,
+      90,
+      90,
+      120,
+      150,
+      180,
+      217.39,
+      217.39,
+      217.39
+    ],
+    "search": {
+      "id": "DL4rObwC5",
+      "complexity": 18,
+      "total": 13
+    },
     "builds": 1,
     "mods": [
       {
@@ -3856,6 +4040,23 @@
   {
     "item": "The Vertex",
     "stats": "+# to level of socketed duration gems",
+    "average": 36,
+    "prices": [
+      25,
+      25,
+      40,
+      40,
+      50,
+      120,
+      150,
+      217.39,
+      869.56
+    ],
+    "search": {
+      "id": "Eyd2Obyt5",
+      "complexity": 18,
+      "total": 9
+    },
     "builds": 1,
     "mods": [
       {
@@ -3869,6 +4070,20 @@
   {
     "item": "The Vertex",
     "stats": "+# to level of socketed aura gems",
+    "average": 217.39,
+    "prices": [
+      180,
+      217.39,
+      217.39,
+      217.39,
+      217.39,
+      434.78
+    ],
+    "search": {
+      "id": "ZbZOJlEHQ",
+      "complexity": 18,
+      "total": 6
+    },
     "builds": 1,
     "mods": [
       {
@@ -3882,6 +4097,23 @@
   {
     "item": "Victario's Influence",
     "stats": "+# to level of socketed duration gems, +# to level of socketed curse gems",
+    "average": 854.8862499999999,
+    "prices": [
+      100,
+      434.78,
+      434.78,
+      434.78,
+      434.78,
+      652.17,
+      2173.8999999999996,
+      2173.8999999999996,
+      7608.65
+    ],
+    "search": {
+      "id": "3BZyPOdi5",
+      "complexity": 29,
+      "total": 9
+    },
     "builds": 1,
     "mods": [
       {
