@@ -1865,6 +1865,24 @@
   {
     "item": "String of Servitude",
     "stats": "zealotry has #% increased aura effect",
+    "average": 1.6,
+    "prices": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      3,
+      3,
+      3
+    ],
+    "search": {
+      "id": "qXjkkjlCg",
+      "complexity": 18,
+      "total": 80
+    },
     "builds": 2,
     "mods": [
       {
@@ -1878,6 +1896,24 @@
   {
     "item": "Matua Tupuna",
     "stats": "#% of physical damage from hits taken as fire damage",
+    "average": 17,
+    "prices": [
+      10,
+      10,
+      10,
+      10,
+      15,
+      15,
+      20,
+      25,
+      25,
+      30
+    ],
+    "search": {
+      "id": "PdlBV3ghL",
+      "complexity": 18,
+      "total": 27
+    },
     "builds": 2,
     "mods": [
       {
@@ -1891,6 +1927,15 @@
   {
     "item": "Dialla's Malefaction",
     "stats": "+# to level of socketed gems, +#% to all maximum resistances",
+    "average": 17391.199999999997,
+    "prices": [
+      17391.199999999997
+    ],
+    "search": {
+      "id": "Ey6M5KKC5",
+      "complexity": 29,
+      "total": 1
+    },
     "builds": 2,
     "mods": [
       {
@@ -1910,6 +1955,24 @@
   {
     "item": "Dialla's Malefaction",
     "stats": "+# to level of socketed gems",
+    "average": 6347.787999999999,
+    "prices": [
+      5869.53,
+      6086.92,
+      6086.92,
+      6304.3099999999995,
+      6304.3099999999995,
+      6521.7,
+      6521.7,
+      6521.7,
+      6521.7,
+      6739.089999999999
+    ],
+    "search": {
+      "id": "waPQeqdUb",
+      "complexity": 18,
+      "total": 38
+    },
     "builds": 2,
     "mods": [
       {
@@ -1923,6 +1986,24 @@
   {
     "item": "Pure Talent",
     "stats": "corrupted blood cannot be inflicted on you",
+    "average": 46,
+    "prices": [
+      30,
+      39,
+      40,
+      40,
+      45,
+      50,
+      50,
+      50,
+      50,
+      50
+    ],
+    "search": {
+      "id": "8a2vlBMHV",
+      "complexity": 18,
+      "total": 29
+    },
     "builds": 2,
     "mods": [
       {
@@ -1936,6 +2017,24 @@
   {
     "item": "Call of the Brotherhood",
     "stats": "+#% to all elemental resistances",
+    "average": 61,
+    "prices": [
+      20,
+      25,
+      35,
+      40,
+      40,
+      50,
+      100,
+      100,
+      100,
+      100
+    ],
+    "search": {
+      "id": "LeV9n8jHn",
+      "complexity": 18,
+      "total": 26
+    },
     "builds": 2,
     "mods": [
       {
@@ -1949,6 +2048,24 @@
   {
     "item": "Heatshiver",
     "stats": "#% increased maximum life",
+    "average": 10,
+    "prices": [
+      9,
+      10,
+      10,
+      10,
+      10,
+      10,
+      10,
+      10,
+      15,
+      15
+    ],
+    "search": {
+      "id": "PK7qy2ZCL",
+      "complexity": 18,
+      "total": 154
+    },
     "builds": 2,
     "mods": [
       {
@@ -1962,6 +2079,24 @@
   {
     "item": "Heatshiver",
     "stats": "+# to level of socketed aura gems",
+    "average": 26,
+    "prices": [
+      20,
+      20,
+      25,
+      25,
+      25,
+      25,
+      30,
+      30,
+      30,
+      30
+    ],
+    "search": {
+      "id": "9Y2Z83ysK",
+      "complexity": 18,
+      "total": 334
+    },
     "builds": 2,
     "mods": [
       {
@@ -1975,6 +2110,24 @@
   {
     "item": "Incandescent Heart",
     "stats": "+# to level of socketed aoe gems",
+    "average": 3956.4979999999996,
+    "prices": [
+      1956.5099999999998,
+      2608.68,
+      2826.0699999999997,
+      3260.85,
+      3913.0199999999995,
+      4347.799999999999,
+      4782.58,
+      4999.969999999999,
+      5434.75,
+      5434.75
+    ],
+    "search": {
+      "id": "4drqr3kH9",
+      "complexity": 18,
+      "total": 23
+    },
     "builds": 2,
     "mods": [
       {
@@ -1988,6 +2141,24 @@
   {
     "item": "Incandescent Heart",
     "stats": "#% increased damage",
+    "average": 24.166666666666668,
+    "prices": [
+      9,
+      20,
+      20,
+      20,
+      25,
+      30,
+      30,
+      50,
+      70,
+      80
+    ],
+    "search": {
+      "id": "y9RQZY8uR",
+      "complexity": 18,
+      "total": 40
+    },
     "builds": 2,
     "mods": [
       {
@@ -2001,6 +2172,24 @@
   {
     "item": "Incandescent Heart",
     "stats": "+# to level of socketed gems",
+    "average": 1102.4778571428571,
+    "prices": [
+      869.56,
+      978.2549999999999,
+      1086.9499999999998,
+      1086.9499999999998,
+      1086.9499999999998,
+      1304.34,
+      1304.34,
+      1521.73,
+      1739.12,
+      2173.8999999999996
+    ],
+    "search": {
+      "id": "kPK0blrU5",
+      "complexity": 18,
+      "total": 45
+    },
     "builds": 2,
     "mods": [
       {
@@ -2014,6 +2203,19 @@
   {
     "item": "Natural Affinity",
     "stats": "#% increased area of effect",
+    "average": 826.082,
+    "prices": [
+      652.17,
+      652.17,
+      869.56,
+      869.56,
+      1086.9499999999998
+    ],
+    "search": {
+      "id": "MvR4pwPcJ",
+      "complexity": 18,
+      "total": 5
+    },
     "builds": 2,
     "mods": [
       {
@@ -2027,6 +2229,17 @@
   {
     "item": "Natural Affinity",
     "stats": "damage penetrates #% elemental resistances",
+    "average": 217.39,
+    "prices": [
+      50,
+      217.39,
+      217.39
+    ],
+    "search": {
+      "id": "R242ZPOi7",
+      "complexity": 18,
+      "total": 3
+    },
     "builds": 2,
     "mods": [
       {
@@ -2040,6 +2253,24 @@
   {
     "item": "Bated Breath",
     "stats": "wrath has #% increased aura effect",
+    "average": 21.142857142857142,
+    "prices": [
+      10,
+      18,
+      20,
+      20,
+      20,
+      20,
+      25,
+      25,
+      30,
+      35
+    ],
+    "search": {
+      "id": "3Bb9LVZs5",
+      "complexity": 18,
+      "total": 37
+    },
     "builds": 2,
     "mods": [
       {
@@ -2053,6 +2284,24 @@
   {
     "item": "Shaper's Touch",
     "stats": "curse enemies with elemental weakness on hit",
+    "average": 482.60579999999993,
+    "prices": [
+      434.78,
+      434.78,
+      434.78,
+      434.78,
+      434.78,
+      499.99699999999996,
+      521.736,
+      543.4749999999999,
+      543.4749999999999,
+      543.4749999999999
+    ],
+    "search": {
+      "id": "8a2odn2hV",
+      "complexity": 18,
+      "total": 49
+    },
     "builds": 2,
     "mods": [
       {
