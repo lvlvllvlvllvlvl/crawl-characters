@@ -9964,6 +9964,24 @@
   {
     "item": "Ancestral Vision",
     "stats": "you cannot be cursed with silence",
+    "average": 40,
+    "prices": [
+      40,
+      40,
+      40,
+      40,
+      40,
+      40,
+      40,
+      42,
+      44,
+      45
+    ],
+    "search": {
+      "id": "kXJ2YOWI5",
+      "complexity": 18,
+      "total": 82
+    },
     "builds": 1,
     "mods": [
       {
@@ -9977,6 +9995,24 @@
   {
     "item": "Ancestral Vision",
     "stats": "#% reduced effect of curses on you",
+    "average": 70.5,
+    "prices": [
+      50,
+      50,
+      70,
+      70,
+      70,
+      75,
+      75,
+      80,
+      80,
+      85
+    ],
+    "search": {
+      "id": "DL8ypadf5",
+      "complexity": 18,
+      "total": 102
+    },
     "builds": 1,
     "mods": [
       {
@@ -9990,6 +10026,24 @@
   {
     "item": "Ancestral Vision",
     "stats": "#% increased damage",
+    "average": 50,
+    "prices": [
+      45,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50
+    ],
+    "search": {
+      "id": "LmdwQrBHn",
+      "complexity": 18,
+      "total": 95
+    },
     "builds": 1,
     "mods": [
       {
@@ -10003,6 +10057,15 @@
   {
     "item": "Cherrubim's Maleficence",
     "stats": "+# to level of socketed gems, +# to level of socketed aoe gems",
+    "average": 5434.75,
+    "prices": [
+      5434.75
+    ],
+    "search": {
+      "id": "BGrm5KLf8",
+      "complexity": 29,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -10022,6 +10085,13 @@
   {
     "item": "Bisco's Leash",
     "stats": "#% increased rarity of items found, discipline has #% increased aura effect",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "3BZbrBkF5",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -10041,6 +10111,24 @@
   {
     "item": "Bisco's Leash",
     "stats": "#% increased quantity of items found",
+    "average": 1845.6410999999996,
+    "prices": [
+      1521.73,
+      1521.73,
+      1739.12,
+      1934.771,
+      1956.5099999999998,
+      1956.5099999999998,
+      1956.5099999999998,
+      1956.5099999999998,
+      1956.5099999999998,
+      1956.5099999999998
+    ],
+    "search": {
+      "id": "80ZXWR2UV",
+      "complexity": 18,
+      "total": 28
+    },
     "builds": 1,
     "mods": [
       {
@@ -10054,6 +10142,24 @@
   {
     "item": "Bisco's Leash",
     "stats": "#% increased maximum energy shield",
+    "average": 5.533333333333333,
+    "prices": [
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      6,
+      6.800000000000001,
+      7,
+      8
+    ],
+    "search": {
+      "id": "kX5We2ji5",
+      "complexity": 18,
+      "total": 142
+    },
     "builds": 1,
     "mods": [
       {
@@ -10067,6 +10173,24 @@
   {
     "item": "Anathema",
     "stats": "adds # to # lightning damage to spells and attacks",
+    "average": 66.5,
+    "prices": [
+      20,
+      30,
+      40,
+      50,
+      55,
+      70,
+      100,
+      100,
+      100,
+      100
+    ],
+    "search": {
+      "id": "0B8O6p8Fg",
+      "complexity": 18,
+      "total": 24
+    },
     "builds": 1,
     "mods": [
       {
@@ -10080,6 +10204,13 @@
   {
     "item": "Anathema",
     "stats": "#% increased strength, #% increased dexterity, grace has #% increased aura effect",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "QVOrDlvfw",
+      "complexity": 20,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -10105,6 +10236,17 @@
   {
     "item": "Anathema",
     "stats": "#% increased attack speed",
+    "average": 4057.9466666666663,
+    "prices": [
+      1304.34,
+      2173.8999999999996,
+      8695.599999999999
+    ],
+    "search": {
+      "id": "zeovLqLc4",
+      "complexity": 19,
+      "total": 3
+    },
     "builds": 1,
     "mods": [
       {
@@ -10119,6 +10261,19 @@
   {
     "item": "Anathema",
     "stats": "#% increased cast speed",
+    "average": 1086.9499999999998,
+    "prices": [
+      1086.9499999999998,
+      1086.9499999999998,
+      1086.9499999999998,
+      2173.8999999999996,
+      5434.75
+    ],
+    "search": {
+      "id": "JYm7jvOIl",
+      "complexity": 18,
+      "total": 5
+    },
     "builds": 1,
     "mods": [
       {
@@ -10132,6 +10287,24 @@
   {
     "item": "Anathema",
     "stats": "#% increased strength, #% increased intelligence",
+    "average": 174.4822222222222,
+    "prices": [
+      66,
+      100,
+      100,
+      217.39,
+      217.39,
+      217.39,
+      217.39,
+      217.39,
+      217.39,
+      434.78
+    ],
+    "search": {
+      "id": "LmdED02in",
+      "complexity": 29,
+      "total": 16
+    },
     "builds": 1,
     "mods": [
       {
@@ -10151,6 +10324,20 @@
   {
     "item": "Anathema",
     "stats": "bleeding cannot be inflicted on you",
+    "average": 5217.36,
+    "prices": [
+      4999.969999999999,
+      4999.969999999999,
+      5217.36,
+      5434.75,
+      5434.75,
+      6521.7
+    ],
+    "search": {
+      "id": "rY5MGMECQ",
+      "complexity": 18,
+      "total": 6
+    },
     "builds": 1,
     "mods": [
       {
@@ -10164,6 +10351,24 @@
   {
     "item": "Anathema",
     "stats": "zealotry has #% increased aura effect",
+    "average": 572.4603333333333,
+    "prices": [
+      434.78,
+      434.78,
+      608.6919999999999,
+      652.17,
+      652.17,
+      652.17,
+      1086.9499999999998,
+      2173.8999999999996,
+      3260.85,
+      4130.41
+    ],
+    "search": {
+      "id": "wpRMq0Bhb",
+      "complexity": 18,
+      "total": 18
+    },
     "builds": 1,
     "mods": [
       {
@@ -10177,6 +10382,24 @@
   {
     "item": "Astral Projector",
     "stats": "hatred has #% increased aura effect",
+    "average": 2309.76875,
+    "prices": [
+      1086.9499999999998,
+      1739.12,
+      2173.8999999999996,
+      2173.8999999999996,
+      2173.8999999999996,
+      2173.8999999999996,
+      2608.68,
+      2608.68,
+      2826.0699999999997,
+      3260.85
+    ],
+    "search": {
+      "id": "BEXrk6Xt8",
+      "complexity": 18,
+      "total": 11
+    },
     "builds": 1,
     "mods": [
       {
