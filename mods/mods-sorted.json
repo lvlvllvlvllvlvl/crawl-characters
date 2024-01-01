@@ -14488,6 +14488,21 @@
   {
     "item": "Primordial Eminence",
     "stats": "corrupted blood cannot be inflicted on you",
+    "average": 999.9939999999999,
+    "prices": [
+      652.17,
+      652.17,
+      1086.9499999999998,
+      1086.9499999999998,
+      1521.73,
+      2173.8999999999996,
+      4347.799999999999
+    ],
+    "search": {
+      "id": "80ZJ5VZcV",
+      "complexity": 18,
+      "total": 7
+    },
     "builds": 1,
     "mods": [
       {
@@ -14501,6 +14516,13 @@
   {
     "item": "Thread of Hope",
     "stats": "damage penetrates #% fire resistance, you cannot be cursed with silence",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "kXlKda6I5",
+      "complexity": 30,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -14521,6 +14543,17 @@
   {
     "item": "Thread of Hope",
     "stats": "#% increased reservation efficiency of skills, damage penetrates #% lightning resistance",
+    "average": 1847.8149999999998,
+    "prices": [
+      1739.12,
+      1956.5099999999998,
+      14130.349999999999
+    ],
+    "search": {
+      "id": "BEmJV2jt8",
+      "complexity": 31,
+      "total": 3
+    },
     "builds": 1,
     "mods": [
       {
@@ -14542,6 +14575,13 @@
   {
     "item": "Thread of Hope",
     "stats": "#% increased damage, corrupted blood cannot be inflicted on you",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "4dvw82Mt9",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -14561,6 +14601,13 @@
   {
     "item": "Thread of Hope",
     "stats": "#% increased damage, #% increased reservation efficiency of skills",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "MVBnn6qUJ",
+      "complexity": 30,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -14581,6 +14628,13 @@
   {
     "item": "Thread of Hope",
     "stats": "damage penetrates #% cold resistance, damage penetrates #% lightning resistance",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "vlEwbeWtE",
+      "complexity": 31,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -14602,6 +14656,13 @@
   {
     "item": "Thread of Hope",
     "stats": "#% increased reservation efficiency of skills, damage penetrates #% elemental resistances",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "JYDBYZYsl",
+      "complexity": 30,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -14622,6 +14683,24 @@
   {
     "item": "Intuitive Leap",
     "stats": "corrupted blood cannot be inflicted on you",
+    "average": 2206.5084999999995,
+    "prices": [
+      1956.5099999999998,
+      2173.8999999999996,
+      2173.8999999999996,
+      2173.8999999999996,
+      2173.8999999999996,
+      2173.8999999999996,
+      2217.3779999999997,
+      2282.595,
+      2282.595,
+      2391.29
+    ],
+    "search": {
+      "id": "mP2eB7Zt6",
+      "complexity": 18,
+      "total": 24
+    },
     "builds": 1,
     "mods": [
       {
@@ -14635,6 +14714,24 @@
   {
     "item": "Intuitive Leap",
     "stats": "you cannot be hindered",
+    "average": 22.2,
+    "prices": [
+      20,
+      20,
+      20,
+      20,
+      21,
+      23,
+      24,
+      24,
+      25,
+      25
+    ],
+    "search": {
+      "id": "waPQLqKhb",
+      "complexity": 18,
+      "total": 56
+    },
     "builds": 1,
     "mods": [
       {
@@ -14648,6 +14745,24 @@
   {
     "item": "Intuitive Leap",
     "stats": "#% increased reservation efficiency of skills",
+    "average": 434.77999999999986,
+    "prices": [
+      434.78,
+      434.78,
+      434.78,
+      434.78,
+      434.78,
+      434.78,
+      434.78,
+      434.78,
+      434.78,
+      434.78
+    ],
+    "search": {
+      "id": "dPajBpOIJ",
+      "complexity": 19,
+      "total": 32
+    },
     "builds": 1,
     "mods": [
       {
@@ -14662,6 +14777,24 @@
   {
     "item": "Intuitive Leap",
     "stats": "#% reduced poison duration on you",
+    "average": 20,
+    "prices": [
+      20,
+      20,
+      20,
+      20,
+      20,
+      20,
+      20,
+      20,
+      20,
+      20
+    ],
+    "search": {
+      "id": "Lm2qgr5Sn",
+      "complexity": 18,
+      "total": 56
+    },
     "builds": 1,
     "mods": [
       {
@@ -14675,6 +14808,15 @@
   {
     "item": "Tanu Ahi",
     "stats": "+# to level of socketed duration gems, attacks have +#% to critical strike chance",
+    "average": 50,
+    "prices": [
+      50
+    ],
+    "search": {
+      "id": "Pd5D2mmiL",
+      "complexity": 29,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -14694,6 +14836,24 @@
   {
     "item": "Tanu Ahi",
     "stats": "curse enemies with enfeeble on hit",
+    "average": 32,
+    "prices": [
+      10,
+      15,
+      20,
+      20,
+      35,
+      35,
+      45,
+      45,
+      45,
+      50
+    ],
+    "search": {
+      "id": "2BWwdYGsk",
+      "complexity": 18,
+      "total": 80
+    },
     "builds": 1,
     "mods": [
       {
@@ -14707,6 +14867,24 @@
   {
     "item": "Tanu Ahi",
     "stats": "attacks have +#% to critical strike chance",
+    "average": 21.7,
+    "prices": [
+      19,
+      20,
+      20,
+      20,
+      20,
+      22,
+      23,
+      23,
+      25,
+      25
+    ],
+    "search": {
+      "id": "nXJBg42T0",
+      "complexity": 18,
+      "total": 178
+    },
     "builds": 1,
     "mods": [
       {
@@ -14720,6 +14898,24 @@
   {
     "item": "Tanu Ahi",
     "stats": "curse enemies with vulnerability on hit",
+    "average": 20.1,
+    "prices": [
+      8,
+      8,
+      20,
+      20,
+      20,
+      25,
+      25,
+      25,
+      25,
+      25
+    ],
+    "search": {
+      "id": "8a2a76MiV",
+      "complexity": 18,
+      "total": 101
+    },
     "builds": 1,
     "mods": [
       {
@@ -14733,6 +14929,13 @@
   {
     "item": "Tanu Ahi",
     "stats": "curse enemies with enfeeble on hit, attacks have +#% to critical strike chance",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "Rqr6WzBH7",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
