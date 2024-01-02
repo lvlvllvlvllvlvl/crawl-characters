@@ -1150,6 +1150,37 @@
   },
   {
     "item": "Shaper's Touch",
+    "stats": "curse enemies with elemental weakness on hit",
+    "average": 772.942222222222,
+    "prices": [
+      521.736,
+      652.17,
+      652.17,
+      652.17,
+      760.865,
+      782.6039999999999,
+      847.8209999999999,
+      869.56,
+      869.56,
+      869.56
+    ],
+    "search": {
+      "id": "8a2odn2hV",
+      "complexity": 18,
+      "total": 37
+    },
+    "builds": 3,
+    "mods": [
+      {
+        "text": "curse enemies with elemental weakness on hit",
+        "trade_ids": [
+          "implicit.stat_2028847114"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Shaper's Touch",
     "stats": "+# to level of socketed gems",
     "average": 2173.8999999999996,
     "prices": [
@@ -2303,38 +2334,25 @@
   },
   {
     "item": "Shaper's Touch",
-    "stats": "curse enemies with elemental weakness on hit",
-    "average": 772.942222222222,
+    "stats": "+# to level of socketed aura gems",
+    "average": 31.8,
     "prices": [
-      521.736,
-      652.17,
-      652.17,
-      652.17,
-      760.865,
-      782.6039999999999,
-      847.8209999999999,
-      869.56,
-      869.56,
-      869.56
+      30,
+      30,
+      30,
+      30,
+      30,
+      30,
+      33,
+      35,
+      35,
+      35
     ],
     "search": {
-      "id": "8a2odn2hV",
+      "id": "0PQ6vEghg",
       "complexity": 18,
-      "total": 37
+      "total": 125
     },
-    "builds": 2,
-    "mods": [
-      {
-        "text": "curse enemies with elemental weakness on hit",
-        "trade_ids": [
-          "implicit.stat_2028847114"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Shaper's Touch",
-    "stats": "+# to level of socketed aura gems",
     "builds": 2,
     "mods": [
       {
@@ -2348,6 +2366,24 @@
   {
     "item": "Greed's Embrace",
     "stats": "+# to level of socketed gems",
+    "average": 9.714285714285714,
+    "prices": [
+      3,
+      5,
+      8,
+      9,
+      9,
+      10,
+      10,
+      10,
+      10,
+      10
+    ],
+    "search": {
+      "id": "3GwpXDPh5",
+      "complexity": 18,
+      "total": 726
+    },
     "builds": 2,
     "mods": [
       {
@@ -2361,6 +2397,24 @@
   {
     "item": "Sadima's Touch",
     "stats": "curse enemies with enfeeble on hit",
+    "average": 4.571428571428571,
+    "prices": [
+      4,
+      4,
+      4,
+      5,
+      5,
+      5,
+      5,
+      11.36,
+      6,
+      7
+    ],
+    "search": {
+      "id": "JVdY989Fl",
+      "complexity": 18,
+      "total": 159
+    },
     "builds": 2,
     "mods": [
       {
@@ -2374,6 +2428,24 @@
   {
     "item": "Sadima's Touch",
     "stats": "#% increased cast speed",
+    "average": 5.88,
+    "prices": [
+      1.7999999999999998,
+      3,
+      3,
+      5,
+      5,
+      5,
+      9,
+      9,
+      9,
+      9
+    ],
+    "search": {
+      "id": "K9gKZ2RC5",
+      "complexity": 18,
+      "total": 129
+    },
     "builds": 2,
     "mods": [
       {
@@ -2387,6 +2459,24 @@
   {
     "item": "Sadima's Touch",
     "stats": "#% increased attack speed",
+    "average": 6.6,
+    "prices": [
+      4,
+      5,
+      5,
+      5,
+      5,
+      5,
+      7,
+      10,
+      10,
+      10
+    ],
+    "search": {
+      "id": "2Gb6JDdtk",
+      "complexity": 19,
+      "total": 206
+    },
     "builds": 2,
     "mods": [
       {
@@ -2401,6 +2491,24 @@
   {
     "item": "Sadima's Touch",
     "stats": "#% increased maximum energy shield",
+    "average": 7.5,
+    "prices": [
+      3,
+      4,
+      5,
+      5,
+      8,
+      10,
+      10,
+      10,
+      10,
+      10
+    ],
+    "search": {
+      "id": "PdDK4Y7iL",
+      "complexity": 18,
+      "total": 84
+    },
     "builds": 2,
     "mods": [
       {
@@ -2414,6 +2522,24 @@
   {
     "item": "Goldwyrm",
     "stats": "#% increased maximum energy shield",
+    "average": 5,
+    "prices": [
+      1,
+      3,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5
+    ],
+    "search": {
+      "id": "5okOd7nTa",
+      "complexity": 18,
+      "total": 298
+    },
     "builds": 2,
     "mods": [
       {
@@ -2427,6 +2553,24 @@
   {
     "item": "Goldwyrm",
     "stats": "+# to level of socketed curse gems",
+    "average": 4.268,
+    "prices": [
+      5.68,
+      3,
+      3,
+      4,
+      4,
+      4,
+      4,
+      5,
+      5,
+      5
+    ],
+    "search": {
+      "id": "oZ89EgYsl",
+      "complexity": 18,
+      "total": 297
+    },
     "builds": 2,
     "mods": [
       {
@@ -2440,6 +2584,16 @@
   {
     "item": "Asenath's Gentle Touch",
     "stats": "+# to level of socketed aoe gems, curse enemies with vulnerability on hit",
+    "average": 760.8649999999999,
+    "prices": [
+      434.78,
+      1086.9499999999998
+    ],
+    "search": {
+      "id": "GkJjeOBUb",
+      "complexity": 29,
+      "total": 2
+    },
     "builds": 2,
     "mods": [
       {
@@ -2459,6 +2613,15 @@
   {
     "item": "Asenath's Gentle Touch",
     "stats": "+# to level of socketed trap or mine gems, curse enemies with vulnerability on hit",
+    "average": 10,
+    "prices": [
+      10
+    ],
+    "search": {
+      "id": "mXgb3lrT6",
+      "complexity": 29,
+      "total": 1
+    },
     "builds": 2,
     "mods": [
       {
@@ -2478,6 +2641,24 @@
   {
     "item": "Asenath's Gentle Touch",
     "stats": "curse enemies with despair on hit",
+    "average": 217.38999999999993,
+    "prices": [
+      217.39,
+      217.39,
+      217.39,
+      217.39,
+      217.39,
+      217.39,
+      217.39,
+      217.39,
+      217.39,
+      217.39
+    ],
+    "search": {
+      "id": "XkOGbebuP",
+      "complexity": 18,
+      "total": 180
+    },
     "builds": 2,
     "mods": [
       {
@@ -2491,6 +2672,24 @@
   {
     "item": "March of the Legion",
     "stats": "+# to level of socketed duration gems",
+    "average": 8.555555555555555,
+    "prices": [
+      5,
+      5,
+      8,
+      9,
+      10,
+      10,
+      10,
+      10,
+      10,
+      16.4
+    ],
+    "search": {
+      "id": "rXjkno7TQ",
+      "complexity": 18,
+      "total": 99
+    },
     "builds": 2,
     "mods": [
       {
@@ -2504,6 +2703,24 @@
   {
     "item": "Hyrri's Truth",
     "stats": "you can apply an additional curse",
+    "average": 113,
+    "prices": [
+      80,
+      90,
+      100,
+      100,
+      100,
+      125,
+      125,
+      130,
+      140,
+      140
+    ],
+    "search": {
+      "id": "rY5YQ07CQ",
+      "complexity": 18,
+      "total": 207
+    },
     "builds": 2,
     "mods": [
       {
@@ -2517,6 +2734,24 @@
   {
     "item": "Hyrri's Truth",
     "stats": "+#% to all elemental resistances",
+    "average": 8.7,
+    "prices": [
+      5,
+      5,
+      8,
+      9,
+      10,
+      10,
+      10,
+      10,
+      10,
+      10
+    ],
+    "search": {
+      "id": "gXJ32daFQ",
+      "complexity": 18,
+      "total": 231
+    },
     "builds": 2,
     "mods": [
       {
@@ -2530,6 +2765,24 @@
   {
     "item": "Hrimsorrow",
     "stats": "#% increased maximum life",
+    "average": 16.8,
+    "prices": [
+      10,
+      10,
+      10,
+      19,
+      19,
+      20,
+      20,
+      20,
+      20,
+      20
+    ],
+    "search": {
+      "id": "jPp7k4XuX",
+      "complexity": 18,
+      "total": 78
+    },
     "builds": 2,
     "mods": [
       {
@@ -7199,6 +7452,19 @@
   },
   {
     "item": "The Covenant",
+    "stats": "+# to level of socketed projectile gems",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "+# to level of socketed projectile gems",
+        "trade_ids": [
+          "implicit.stat_2176571093"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "The Covenant",
     "stats": "+# to level of socketed curse gems",
     "builds": 1,
     "mods": [
@@ -9184,104 +9450,7 @@
     ]
   },
   {
-    "item": "Corpsewalker",
-    "stats": "#% increased maximum energy shield, #% increased movement speed",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "#% increased maximum energy shield",
-        "trade_ids": [
-          "implicit.stat_2482852589"
-        ]
-      },
-      {
-        "text": "#% increased movement speed",
-        "trade_ids": [
-          "implicit.stat_2250533757"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Corpsewalker",
-    "stats": "regenerate # life per second while moving",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "regenerate # life per second while moving",
-        "trade_ids": [
-          "implicit.stat_2841027131"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Corpsewalker",
-    "stats": "+# to maximum endurance charges",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "+# to maximum endurance charges",
-        "trade_ids": [
-          "implicit.stat_1515657623"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Corpsewalker",
-    "stats": "+# to level of socketed aoe gems",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "+# to level of socketed aoe gems",
-        "trade_ids": [
-          "implicit.stat_2551600084"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Arn's Anguish",
-    "stats": "zealotry has #% increased aura effect",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "zealotry has #% increased aura effect",
-        "trade_ids": [
-          "implicit.stat_4096052153"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Arn's Anguish",
-    "stats": "#% increased movement speed during any flask effect",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "#% increased movement speed during any flask effect",
-        "trade_ids": [
-          "implicit.stat_304970526"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Arn's Anguish",
-    "stats": "wrath has #% increased aura effect",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "wrath has #% increased aura effect",
-        "trade_ids": [
-          "implicit.stat_2181791238"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Arn's Anguish",
+    "item": "Mageblood",
     "stats": "+#% to all elemental resistances",
     "builds": 1,
     "mods": [
@@ -9447,6 +9616,116 @@
         "text": "#% increased area of effect",
         "trade_ids": [
           "implicit.stat_280731498"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Corpsewalker",
+    "stats": "#% increased maximum energy shield, #% increased movement speed",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "#% increased maximum energy shield",
+        "trade_ids": [
+          "implicit.stat_2482852589"
+        ]
+      },
+      {
+        "text": "#% increased movement speed",
+        "trade_ids": [
+          "implicit.stat_2250533757"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Corpsewalker",
+    "stats": "regenerate # life per second while moving",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "regenerate # life per second while moving",
+        "trade_ids": [
+          "implicit.stat_2841027131"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Corpsewalker",
+    "stats": "+# to maximum endurance charges",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "+# to maximum endurance charges",
+        "trade_ids": [
+          "implicit.stat_1515657623"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Corpsewalker",
+    "stats": "+# to level of socketed aoe gems",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "+# to level of socketed aoe gems",
+        "trade_ids": [
+          "implicit.stat_2551600084"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Arn's Anguish",
+    "stats": "zealotry has #% increased aura effect",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "zealotry has #% increased aura effect",
+        "trade_ids": [
+          "implicit.stat_4096052153"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Arn's Anguish",
+    "stats": "#% increased movement speed during any flask effect",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "#% increased movement speed during any flask effect",
+        "trade_ids": [
+          "implicit.stat_304970526"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Arn's Anguish",
+    "stats": "wrath has #% increased aura effect",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "wrath has #% increased aura effect",
+        "trade_ids": [
+          "implicit.stat_2181791238"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Arn's Anguish",
+    "stats": "+#% to all elemental resistances",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "+#% to all elemental resistances",
+        "trade_ids": [
+          "implicit.stat_2901986750"
         ]
       }
     ]
