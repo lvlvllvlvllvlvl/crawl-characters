@@ -11207,6 +11207,24 @@
   {
     "item": "Tabula Rasa",
     "stats": "+# to level of socketed aoe gems",
+    "average": 15,
+    "prices": [
+      10,
+      11,
+      13,
+      15,
+      15,
+      15,
+      15,
+      15,
+      15,
+      15
+    ],
+    "search": {
+      "id": "oXjLOwkUl",
+      "complexity": 18,
+      "total": 73
+    },
     "builds": 1,
     "mods": [
       {
@@ -11220,6 +11238,24 @@
   {
     "item": "Tabula Rasa",
     "stats": "+# to level of socketed gems",
+    "average": 53,
+    "prices": [
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      51,
+      59,
+      60,
+      60
+    ],
+    "search": {
+      "id": "KJBXejMh5",
+      "complexity": 18,
+      "total": 45
+    },
     "builds": 1,
     "mods": [
       {
@@ -11233,6 +11269,24 @@
   {
     "item": "Tabula Rasa",
     "stats": "#% increased damage",
+    "average": 100,
+    "prices": [
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      125,
+      140,
+      150,
+      180
+    ],
+    "search": {
+      "id": "lXj2OynFV",
+      "complexity": 18,
+      "total": 47
+    },
     "builds": 1,
     "mods": [
       {
@@ -11246,6 +11300,24 @@
   {
     "item": "Tabula Rasa",
     "stats": "+# to level of socketed duration gems",
+    "average": 11.9,
+    "prices": [
+      10,
+      10,
+      10,
+      10,
+      10,
+      12,
+      14,
+      14,
+      14,
+      15
+    ],
+    "search": {
+      "id": "VMgXY92sp",
+      "complexity": 18,
+      "total": 67
+    },
     "builds": 1,
     "mods": [
       {
@@ -11259,6 +11331,24 @@
   {
     "item": "The Covenant",
     "stats": "+# to level of socketed gems",
+    "average": 695.6479999999999,
+    "prices": [
+      543.4749999999999,
+      543.4749999999999,
+      652.17,
+      652.17,
+      652.17,
+      652.17,
+      652.17,
+      869.56,
+      869.56,
+      869.56
+    ],
+    "search": {
+      "id": "GkdLXY3Ib",
+      "complexity": 18,
+      "total": 31
+    },
     "builds": 1,
     "mods": [
       {
@@ -11272,6 +11362,15 @@
   {
     "item": "The Covenant",
     "stats": "#% increased damage, #% increased maximum life",
+    "average": 3260.85,
+    "prices": [
+      3260.85
+    ],
+    "search": {
+      "id": "XqK7DqesP",
+      "complexity": 29,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -11291,6 +11390,13 @@
   {
     "item": "The Covenant",
     "stats": "+# to level of socketed duration gems, +# to level of socketed warcry gems",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "lXjEWq6hV",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -11310,6 +11416,13 @@
   {
     "item": "The Covenant",
     "stats": "+# to level of socketed aoe gems, you take #% reduced extra damage from critical strikes",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "2ByX6PpIk",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -11329,6 +11442,24 @@
   {
     "item": "The Covenant",
     "stats": "+# to level of socketed projectile gems",
+    "average": 81.7,
+    "prices": [
+      40,
+      49,
+      58,
+      70,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100
+    ],
+    "search": {
+      "id": "gq7LJ5gTQ",
+      "complexity": 18,
+      "total": 65
+    },
     "builds": 1,
     "mods": [
       {
@@ -11342,6 +11473,24 @@
   {
     "item": "The Covenant",
     "stats": "+# to level of socketed curse gems",
+    "average": 48,
+    "prices": [
+      25,
+      25,
+      30,
+      30,
+      40,
+      60,
+      60,
+      60,
+      75,
+      75
+    ],
+    "search": {
+      "id": "WVrLX0Dfm",
+      "complexity": 18,
+      "total": 40
+    },
     "builds": 1,
     "mods": [
       {
@@ -11355,6 +11504,24 @@
   {
     "item": "The Covenant",
     "stats": "+# to level of socketed aura gems",
+    "average": 49.44444444444444,
+    "prices": [
+      12,
+      30,
+      35,
+      40,
+      50,
+      50,
+      50,
+      50,
+      70,
+      70
+    ],
+    "search": {
+      "id": "7lRgXeBS5",
+      "complexity": 18,
+      "total": 40
+    },
     "builds": 1,
     "mods": [
       {
@@ -11368,6 +11535,13 @@
   {
     "item": "The Covenant",
     "stats": "+# to level of socketed aoe gems, +# to level of socketed minion gems",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "EyQbbmKI5",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -11387,6 +11561,24 @@
   {
     "item": "The Covenant",
     "stats": "#% increased maximum energy shield",
+    "average": 34.4,
+    "prices": [
+      25,
+      25,
+      25,
+      25,
+      30,
+      35,
+      39,
+      40,
+      50,
+      50
+    ],
+    "search": {
+      "id": "YVoWm0RiY",
+      "complexity": 18,
+      "total": 23
+    },
     "builds": 1,
     "mods": [
       {
@@ -11400,6 +11592,24 @@
   {
     "item": "Perseverance",
     "stats": "determination has #% increased aura effect",
+    "average": 14.555555555555555,
+    "prices": [
+      5,
+      9,
+      10,
+      13,
+      14,
+      15,
+      15,
+      15,
+      20,
+      20
+    ],
+    "search": {
+      "id": "8ae6mr8iV",
+      "complexity": 18,
+      "total": 66
+    },
     "builds": 1,
     "mods": [
       {
@@ -11413,6 +11623,13 @@
   {
     "item": "Perseverance",
     "stats": "+#% to critical strike multiplier during any flask effect, pride has #% increased aura effect",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "jXZK0QZTX",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
