@@ -8247,6 +8247,24 @@
   {
     "item": "Goldwyrm",
     "stats": "#% increased movement speed",
+    "average": 10,
+    "prices": [
+      8,
+      8,
+      10,
+      10,
+      10,
+      10,
+      10,
+      10,
+      10,
+      10
+    ],
+    "search": {
+      "id": "GZyPKYocb",
+      "complexity": 18,
+      "total": 553
+    },
     "builds": 1,
     "mods": [
       {
@@ -8260,6 +8278,24 @@
   {
     "item": "Goldwyrm",
     "stats": "+# to level of socketed minion gems",
+    "average": 5,
+    "prices": [
+      4,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      7
+    ],
+    "search": {
+      "id": "Lqa7LY2tn",
+      "complexity": 18,
+      "total": 270
+    },
     "builds": 1,
     "mods": [
       {
@@ -8273,6 +8309,24 @@
   {
     "item": "Goldwyrm",
     "stats": "+# to level of socketed aura gems",
+    "average": 5,
+    "prices": [
+      3,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      7
+    ],
+    "search": {
+      "id": "nXjoKgRS0",
+      "complexity": 18,
+      "total": 616
+    },
     "builds": 1,
     "mods": [
       {
@@ -8286,6 +8340,24 @@
   {
     "item": "Goldwyrm",
     "stats": "+# to maximum endurance charges",
+    "average": 4.777777777777778,
+    "prices": [
+      3,
+      4,
+      4,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5
+    ],
+    "search": {
+      "id": "0B8P0wYcg",
+      "complexity": 18,
+      "total": 450
+    },
     "builds": 1,
     "mods": [
       {
@@ -8299,6 +8371,24 @@
   {
     "item": "Goldwyrm",
     "stats": "+# to level of socketed gems",
+    "average": 5,
+    "prices": [
+      3,
+      4,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      11.02
+    ],
+    "search": {
+      "id": "DGEnq8vf5",
+      "complexity": 18,
+      "total": 908
+    },
     "builds": 1,
     "mods": [
       {
@@ -8312,6 +8402,15 @@
   {
     "item": "Soul Mantle",
     "stats": "+# to level of socketed gems, +# to level of socketed projectile gems",
+    "average": 26086.8,
+    "prices": [
+      26086.8
+    ],
+    "search": {
+      "id": "0PQbWp7Ig",
+      "complexity": 29,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -8331,6 +8430,24 @@
   {
     "item": "The Annihilating Light",
     "stats": "#% chance to gain a power charge on critical strike",
+    "average": 23.9,
+    "prices": [
+      10,
+      10,
+      15,
+      15,
+      20,
+      25,
+      30,
+      34,
+      40,
+      40
+    ],
+    "search": {
+      "id": "PK7GzpZhL",
+      "complexity": 18,
+      "total": 59
+    },
     "builds": 1,
     "mods": [
       {
@@ -8344,6 +8461,13 @@
   {
     "item": "The Annihilating Light",
     "stats": "#% increased cast speed, #% increased critical strike chance",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "DGEDdB2f5",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -8363,6 +8487,16 @@
   {
     "item": "Invictus Solaris",
     "stats": "+# to level of socketed minion gems",
+    "average": 326.085,
+    "prices": [
+      217.39,
+      434.78
+    ],
+    "search": {
+      "id": "jXR7WqltX",
+      "complexity": 18,
+      "total": 2
+    },
     "builds": 1,
     "mods": [
       {
@@ -8376,6 +8510,24 @@
   {
     "item": "Dendrobate",
     "stats": "+# to level of socketed duration gems",
+    "average": 23.125,
+    "prices": [
+      5,
+      20,
+      20,
+      20,
+      20,
+      20,
+      25,
+      30,
+      30,
+      40
+    ],
+    "search": {
+      "id": "4drQv4ZH9",
+      "complexity": 18,
+      "total": 158
+    },
     "builds": 1,
     "mods": [
       {
@@ -8389,6 +8541,13 @@
   {
     "item": "Dendrobate",
     "stats": "+# to level of socketed gems, +# to level of socketed duration gems",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "yrJqJ6qhR",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -8408,6 +8567,15 @@
   {
     "item": "Dendrobate",
     "stats": "+# to level of socketed aoe gems, #% increased damage",
+    "average": 1086.9499999999998,
+    "prices": [
+      1086.9499999999998
+    ],
+    "search": {
+      "id": "vlPVe4zSE",
+      "complexity": 29,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -8427,6 +8595,17 @@
   {
     "item": "Asenath's Gentle Touch",
     "stats": "+# to level of socketed warcry gems, curse enemies with enfeeble on hit",
+    "average": 668.8366666666666,
+    "prices": [
+      50,
+      652.17,
+      1304.34
+    ],
+    "search": {
+      "id": "3BDl699I5",
+      "complexity": 29,
+      "total": 3
+    },
     "builds": 1,
     "mods": [
       {
@@ -8446,6 +8625,15 @@
   {
     "item": "Asenath's Gentle Touch",
     "stats": "#% increased attack speed, curse enemies with enfeeble on hit",
+    "average": 434.78,
+    "prices": [
+      434.78
+    ],
+    "search": {
+      "id": "5okjk8Dia",
+      "complexity": 30,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -8466,6 +8654,15 @@
   {
     "item": "Asenath's Gentle Touch",
     "stats": "+# to level of socketed aura gems, curse enemies with vulnerability on hit",
+    "average": 320,
+    "prices": [
+      320
+    ],
+    "search": {
+      "id": "vlPE4wLCE",
+      "complexity": 29,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
