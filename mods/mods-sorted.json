@@ -263,6 +263,37 @@
     ]
   },
   {
+    "item": "Matua Tupuna",
+    "stats": "+# to level of socketed gems",
+    "average": 38.5,
+    "prices": [
+      25,
+      30,
+      30,
+      30,
+      40,
+      40,
+      45,
+      45,
+      50,
+      50
+    ],
+    "search": {
+      "id": "jPpRJKlTX",
+      "complexity": 18,
+      "total": 69
+    },
+    "builds": 8,
+    "mods": [
+      {
+        "text": "+# to level of socketed gems",
+        "trade_ids": [
+          "implicit.stat_2843100721"
+        ]
+      }
+    ]
+  },
+  {
     "item": "Goldwyrm",
     "stats": "+#% chance to suppress spell damage",
     "average": 7.2509999999999994,
@@ -383,37 +414,6 @@
         "text": "wrath has #% increased aura effect",
         "trade_ids": [
           "implicit.stat_2181791238"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Matua Tupuna",
-    "stats": "+# to level of socketed gems",
-    "average": 38.5,
-    "prices": [
-      25,
-      30,
-      30,
-      30,
-      40,
-      40,
-      45,
-      45,
-      50,
-      50
-    ],
-    "search": {
-      "id": "jPpRJKlTX",
-      "complexity": 18,
-      "total": 69
-    },
-    "builds": 7,
-    "mods": [
-      {
-        "text": "+# to level of socketed gems",
-        "trade_ids": [
-          "implicit.stat_2843100721"
         ]
       }
     ]
@@ -1073,6 +1073,37 @@
     ]
   },
   {
+    "item": "Victario's Influence",
+    "stats": "+# to level of socketed gems",
+    "average": 7.7,
+    "prices": [
+      4,
+      5,
+      5,
+      5,
+      9,
+      9,
+      10,
+      10,
+      10,
+      10
+    ],
+    "search": {
+      "id": "MvRPYE5iJ",
+      "complexity": 18,
+      "total": 131
+    },
+    "builds": 3,
+    "mods": [
+      {
+        "text": "+# to level of socketed gems",
+        "trade_ids": [
+          "implicit.stat_2843100721"
+        ]
+      }
+    ]
+  },
+  {
     "item": "Call of the Brotherhood",
     "stats": "#% increased rarity of items found",
     "average": 23.4,
@@ -1720,37 +1751,6 @@
   },
   {
     "item": "Victario's Influence",
-    "stats": "+# to level of socketed gems",
-    "average": 7.7,
-    "prices": [
-      4,
-      5,
-      5,
-      5,
-      9,
-      9,
-      10,
-      10,
-      10,
-      10
-    ],
-    "search": {
-      "id": "MvRPYE5iJ",
-      "complexity": 18,
-      "total": 131
-    },
-    "builds": 2,
-    "mods": [
-      {
-        "text": "+# to level of socketed gems",
-        "trade_ids": [
-          "implicit.stat_2843100721"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Victario's Influence",
     "stats": "+# to level of socketed aoe gems, +# to level of socketed aura gems",
     "average": 5543.445,
     "prices": [
@@ -2021,6 +2021,19 @@
         "text": "corrupted blood cannot be inflicted on you",
         "trade_ids": [
           "implicit.stat_1658498488"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Sin Trek",
+    "stats": "+# to level of socketed gems",
+    "builds": 2,
+    "mods": [
+      {
+        "text": "+# to level of socketed gems",
+        "trade_ids": [
+          "implicit.stat_2843100721"
         ]
       }
     ]
@@ -3669,6 +3682,24 @@
   {
     "item": "Saffell's Frame",
     "stats": "#% of physical damage from hits taken as chaos damage",
+    "average": 1521.73,
+    "prices": [
+      434.78,
+      869.56,
+      1086.9499999999998,
+      1086.9499999999998,
+      1304.34,
+      1739.12,
+      1739.12,
+      2173.8999999999996,
+      2173.8999999999996,
+      2608.68
+    ],
+    "search": {
+      "id": "2BrBPO5hk",
+      "complexity": 18,
+      "total": 14
+    },
     "builds": 2,
     "mods": [
       {
@@ -3682,6 +3713,24 @@
   {
     "item": "Legacy of Fury",
     "stats": "+# to maximum endurance charges",
+    "average": 64.86510000000001,
+    "prices": [
+      30,
+      30,
+      30,
+      35,
+      40,
+      86.956,
+      88,
+      108.695,
+      100,
+      100
+    ],
+    "search": {
+      "id": "0PQZ0g7Ig",
+      "complexity": 18,
+      "total": 34
+    },
     "builds": 2,
     "mods": [
       {
@@ -3695,6 +3744,24 @@
   {
     "item": "Ephemeral Edge",
     "stats": "resolute technique",
+    "average": 193.81555555555553,
+    "prices": [
+      100,
+      145,
+      145,
+      150,
+      217.39,
+      217.39,
+      217.39,
+      217.39,
+      217.39,
+      217.39
+    ],
+    "search": {
+      "id": "3BrQ3l9c5",
+      "complexity": 18,
+      "total": 96
+    },
     "builds": 2,
     "mods": [
       {
@@ -3708,6 +3775,24 @@
   {
     "item": "Fleshcrafter",
     "stats": "+# to level of socketed duration gems",
+    "average": 788.0387499999999,
+    "prices": [
+      6,
+      434.78,
+      652.17,
+      652.17,
+      652.17,
+      869.56,
+      869.56,
+      869.56,
+      869.56,
+      869.56
+    ],
+    "search": {
+      "id": "GZypBposb",
+      "complexity": 18,
+      "total": 17
+    },
     "builds": 2,
     "mods": [
       {
@@ -3721,6 +3806,24 @@
   {
     "item": "Shavronne's Wrappings",
     "stats": "+# to level of socketed aura gems",
+    "average": 70.06949999999999,
+    "prices": [
+      40,
+      50,
+      50,
+      50,
+      75,
+      79,
+      80,
+      80,
+      88,
+      108.695
+    ],
+    "search": {
+      "id": "3BrP4bGs5",
+      "complexity": 18,
+      "total": 34
+    },
     "builds": 2,
     "mods": [
       {
@@ -3734,6 +3837,24 @@
   {
     "item": "Ylfeban's Trickery",
     "stats": "+# to maximum power charges",
+    "average": 153.695,
+    "prices": [
+      45,
+      50,
+      55,
+      150,
+      150,
+      217.39,
+      217.39,
+      217.39,
+      217.39,
+      217.39
+    ],
+    "search": {
+      "id": "bXRmpQGTL",
+      "complexity": 18,
+      "total": 22
+    },
     "builds": 2,
     "mods": [
       {
@@ -3747,6 +3868,16 @@
   {
     "item": "The Fledgling",
     "stats": "+# to maximum power charges",
+    "average": 9782.55,
+    "prices": [
+      9782.55,
+      9782.55
+    ],
+    "search": {
+      "id": "dXWYGdqFJ",
+      "complexity": 18,
+      "total": 2
+    },
     "builds": 2,
     "mods": [
       {
@@ -3760,6 +3891,24 @@
   {
     "item": "Willclash",
     "stats": "+# to maximum power charges",
+    "average": 2246.3633333333332,
+    "prices": [
+      2173.8999999999996,
+      2173.8999999999996,
+      2173.8999999999996,
+      2173.8999999999996,
+      2391.29,
+      2391.29,
+      2608.68,
+      2826.0699999999997,
+      3043.46,
+      3260.85
+    ],
+    "search": {
+      "id": "Qr6G5weSw",
+      "complexity": 18,
+      "total": 24
+    },
     "builds": 2,
     "mods": [
       {
@@ -3773,6 +3922,24 @@
   {
     "item": "Grip of the Council",
     "stats": "+# to level of socketed gems",
+    "average": 87.76509999999999,
+    "prices": [
+      13,
+      30,
+      30,
+      50,
+      59,
+      100,
+      100,
+      150,
+      150,
+      195.65099999999998
+    ],
+    "search": {
+      "id": "0BZV3XQhg",
+      "complexity": 18,
+      "total": 13
+    },
     "builds": 2,
     "mods": [
       {
@@ -3786,6 +3953,22 @@
   {
     "item": "Primordial Harmony",
     "stats": "#% increased reservation efficiency of skills",
+    "average": 366.4574285714285,
+    "prices": [
+      217.39,
+      217.39,
+      217.39,
+      282.60699999999997,
+      434.78,
+      543.4749999999999,
+      652.17,
+      1086.9499999999998
+    ],
+    "search": {
+      "id": "vlP9nqJuE",
+      "complexity": 19,
+      "total": 8
+    },
     "builds": 2,
     "mods": [
       {
@@ -3800,6 +3983,13 @@
   {
     "item": "Sandstorm Visage",
     "stats": "#% increased effect of cold ailments",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "MqWWYMPCJ",
+      "complexity": 18,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -3813,6 +4003,13 @@
   {
     "item": "Sandstorm Visage",
     "stats": "+# to level of socketed minion gems, +# to level of socketed trap or mine gems",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "MVZ3BELsJ",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -3832,6 +4029,24 @@
   {
     "item": "The Vertex",
     "stats": "socketed skill gems get a #% cost & reservation multiplier",
+    "average": 201.62937499999998,
+    "prices": [
+      100,
+      100,
+      217.39,
+      217.39,
+      217.39,
+      217.39,
+      217.39,
+      326.085,
+      434.78,
+      652.17
+    ],
+    "search": {
+      "id": "DL4rObwC5",
+      "complexity": 18,
+      "total": 10
+    },
     "builds": 1,
     "mods": [
       {
@@ -3845,6 +4060,19 @@
   {
     "item": "The Vertex",
     "stats": "+# to level of socketed duration gems",
+    "average": 283.868,
+    "prices": [
+      40,
+      75,
+      217.39,
+      434.78,
+      652.17
+    ],
+    "search": {
+      "id": "Eyd2Obyt5",
+      "complexity": 18,
+      "total": 5
+    },
     "builds": 1,
     "mods": [
       {
@@ -3858,6 +4086,24 @@
   {
     "item": "The Vertex",
     "stats": "+# to level of socketed aura gems",
+    "average": 304.3459999999999,
+    "prices": [
+      217.39,
+      217.39,
+      217.39,
+      217.39,
+      217.39,
+      217.39,
+      434.78,
+      434.78,
+      434.78,
+      434.78
+    ],
+    "search": {
+      "id": "ZbZOJlEHQ",
+      "complexity": 18,
+      "total": 14
+    },
     "builds": 1,
     "mods": [
       {
@@ -4506,6 +4752,25 @@
   },
   {
     "item": "Dialla's Malefaction",
+    "stats": "+# to level of socketed curse gems, #% reduced lightning damage taken",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "+# to level of socketed curse gems",
+        "trade_ids": [
+          "implicit.stat_3691695237"
+        ]
+      },
+      {
+        "text": "#% reduced lightning damage taken",
+        "trade_ids": [
+          "implicit.stat_1276918229"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Dialla's Malefaction",
     "stats": "+# to level of socketed aura gems, +#% to all maximum resistances",
     "builds": 1,
     "mods": [
@@ -4879,6 +5144,19 @@
     ]
   },
   {
+    "item": "Null and Void",
+    "stats": "+# to level of socketed aura gems",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "+# to level of socketed aura gems",
+        "trade_ids": [
+          "implicit.stat_2452998583"
+        ]
+      }
+    ]
+  },
+  {
     "item": "The Fourth Vow",
     "stats": "+# to level of socketed minion gems, #% additional physical damage reduction while stationary",
     "builds": 1,
@@ -5117,19 +5395,6 @@
         "text": "+# to maximum endurance charges",
         "trade_ids": [
           "implicit.stat_1515657623"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Sin Trek",
-    "stats": "+# to level of socketed gems",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "+# to level of socketed gems",
-        "trade_ids": [
-          "implicit.stat_2843100721"
         ]
       }
     ]
@@ -6832,6 +7097,25 @@
         "text": "#% increased maximum energy shield",
         "trade_ids": [
           "implicit.stat_2482852589"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "The Torrent's Reclamation",
+    "stats": "#% increased maximum energy shield, wrath has #% increased aura effect",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "#% increased maximum energy shield",
+        "trade_ids": [
+          "implicit.stat_2482852589"
+        ]
+      },
+      {
+        "text": "wrath has #% increased aura effect",
+        "trade_ids": [
+          "implicit.stat_2181791238"
         ]
       }
     ]
@@ -10418,6 +10702,19 @@
         "text": "you cannot be cursed with silence",
         "trade_ids": [
           "implicit.stat_1654414582"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Flamesight",
+    "stats": "+# to maximum power charges",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "+# to maximum power charges",
+        "trade_ids": [
+          "implicit.stat_227523295"
         ]
       }
     ]
