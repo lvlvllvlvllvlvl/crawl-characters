@@ -93,6 +93,37 @@
     ]
   },
   {
+    "item": "Southbound",
+    "stats": "+#% to spell critical strike chance",
+    "average": 18.88888888888889,
+    "prices": [
+      10,
+      15,
+      15,
+      20,
+      20,
+      20,
+      20,
+      20,
+      20,
+      20
+    ],
+    "search": {
+      "id": "XkO2WqdSP",
+      "complexity": 18,
+      "total": 142
+    },
+    "builds": 13,
+    "mods": [
+      {
+        "text": "+#% to spell critical strike chance",
+        "trade_ids": [
+          "implicit.stat_791835907"
+        ]
+      }
+    ]
+  },
+  {
     "item": "Matua Tupuna",
     "stats": "+# to level of socketed aoe gems",
     "average": 652.17,
@@ -119,37 +150,6 @@
         "text": "+# to level of socketed aoe gems",
         "trade_ids": [
           "implicit.stat_2551600084"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Southbound",
-    "stats": "+#% to spell critical strike chance",
-    "average": 18.88888888888889,
-    "prices": [
-      10,
-      15,
-      15,
-      20,
-      20,
-      20,
-      20,
-      20,
-      20,
-      20
-    ],
-    "search": {
-      "id": "XkO2WqdSP",
-      "complexity": 18,
-      "total": 142
-    },
-    "builds": 12,
-    "mods": [
-      {
-        "text": "+#% to spell critical strike chance",
-        "trade_ids": [
-          "implicit.stat_791835907"
         ]
       }
     ]
@@ -404,6 +404,37 @@
     ]
   },
   {
+    "item": "Eber's Unification",
+    "stats": "+# to maximum power charges",
+    "average": 119.7695,
+    "prices": [
+      108.695,
+      99,
+      99,
+      110,
+      111,
+      120,
+      120,
+      140,
+      140,
+      150
+    ],
+    "search": {
+      "id": "jXjBMnXSX",
+      "complexity": 18,
+      "total": 104
+    },
+    "builds": 8,
+    "mods": [
+      {
+        "text": "+# to maximum power charges",
+        "trade_ids": [
+          "implicit.stat_227523295"
+        ]
+      }
+    ]
+  },
+  {
     "item": "String of Servitude",
     "stats": "wrath has #% increased aura effect",
     "average": 2.8,
@@ -523,37 +554,6 @@
         "text": "#% increased quantity of items found",
         "trade_ids": [
           "implicit.stat_884586851"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Eber's Unification",
-    "stats": "+# to maximum power charges",
-    "average": 119.7695,
-    "prices": [
-      108.695,
-      99,
-      99,
-      110,
-      111,
-      120,
-      120,
-      140,
-      140,
-      150
-    ],
-    "search": {
-      "id": "jXjBMnXSX",
-      "complexity": 18,
-      "total": 104
-    },
-    "builds": 7,
-    "mods": [
-      {
-        "text": "+# to maximum power charges",
-        "trade_ids": [
-          "implicit.stat_227523295"
         ]
       }
     ]
@@ -844,6 +844,37 @@
     ]
   },
   {
+    "item": "Incandescent Heart",
+    "stats": "+# to level of socketed projectile gems",
+    "average": 36.6,
+    "prices": [
+      15,
+      20,
+      20,
+      20,
+      25,
+      30,
+      40,
+      60,
+      66,
+      70
+    ],
+    "search": {
+      "id": "JVdkP85sl",
+      "complexity": 18,
+      "total": 70
+    },
+    "builds": 5,
+    "mods": [
+      {
+        "text": "+# to level of socketed projectile gems",
+        "trade_ids": [
+          "implicit.stat_2176571093"
+        ]
+      }
+    ]
+  },
+  {
     "item": "Sadima's Touch",
     "stats": "attacks have +#% to critical strike chance",
     "average": 8.2,
@@ -901,37 +932,6 @@
         "text": "+# to level of socketed aoe gems",
         "trade_ids": [
           "implicit.stat_2551600084"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Incandescent Heart",
-    "stats": "+# to level of socketed projectile gems",
-    "average": 36.6,
-    "prices": [
-      15,
-      20,
-      20,
-      20,
-      25,
-      30,
-      40,
-      60,
-      66,
-      70
-    ],
-    "search": {
-      "id": "JVdkP85sl",
-      "complexity": 18,
-      "total": 70
-    },
-    "builds": 4,
-    "mods": [
-      {
-        "text": "+# to level of socketed projectile gems",
-        "trade_ids": [
-          "implicit.stat_2176571093"
         ]
       }
     ]
@@ -2347,6 +2347,24 @@
   {
     "item": "Bated Breath",
     "stats": "wrath has #% increased aura effect",
+    "average": 10.3,
+    "prices": [
+      4,
+      5,
+      5,
+      10,
+      10,
+      10,
+      14,
+      15,
+      15,
+      15
+    ],
+    "search": {
+      "id": "3Bb9LVZs5",
+      "complexity": 18,
+      "total": 55
+    },
     "builds": 2,
     "mods": [
       {
@@ -2360,6 +2378,24 @@
   {
     "item": "Shaper's Touch",
     "stats": "+# to level of socketed aura gems",
+    "average": 32.888888888888886,
+    "prices": [
+      25,
+      30,
+      30,
+      30,
+      31,
+      35,
+      35,
+      35,
+      35,
+      35
+    ],
+    "search": {
+      "id": "0PQ6vEghg",
+      "complexity": 18,
+      "total": 186
+    },
     "builds": 2,
     "mods": [
       {
@@ -2373,6 +2409,24 @@
   {
     "item": "Greed's Embrace",
     "stats": "+# to level of socketed gems",
+    "average": 9.666666666666666,
+    "prices": [
+      5,
+      9,
+      9,
+      9,
+      10,
+      10,
+      10,
+      10,
+      10,
+      10
+    ],
+    "search": {
+      "id": "3GwpXDPh5",
+      "complexity": 18,
+      "total": 965
+    },
     "builds": 2,
     "mods": [
       {
@@ -2386,6 +2440,24 @@
   {
     "item": "Sadima's Touch",
     "stats": "curse enemies with enfeeble on hit",
+    "average": 5,
+    "prices": [
+      4,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      8,
+      9
+    ],
+    "search": {
+      "id": "JVdY989Fl",
+      "complexity": 18,
+      "total": 184
+    },
     "builds": 2,
     "mods": [
       {
@@ -2399,6 +2471,24 @@
   {
     "item": "Sadima's Touch",
     "stats": "#% increased cast speed",
+    "average": 4.111111111111111,
+    "prices": [
+      3,
+      3,
+      3,
+      3,
+      5,
+      5,
+      5,
+      5,
+      5,
+      8
+    ],
+    "search": {
+      "id": "K9gKZ2RC5",
+      "complexity": 18,
+      "total": 146
+    },
     "builds": 2,
     "mods": [
       {
@@ -2412,6 +2502,24 @@
   {
     "item": "Sadima's Touch",
     "stats": "#% increased attack speed",
+    "average": 4.666666666666667,
+    "prices": [
+      4,
+      4,
+      4,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      6
+    ],
+    "search": {
+      "id": "2Gb6JDdtk",
+      "complexity": 19,
+      "total": 204
+    },
     "builds": 2,
     "mods": [
       {
@@ -2426,6 +2534,24 @@
   {
     "item": "Sadima's Touch",
     "stats": "#% increased maximum energy shield",
+    "average": 6.4,
+    "prices": [
+      5,
+      5,
+      5,
+      5,
+      5,
+      6,
+      7,
+      8,
+      9,
+      9
+    ],
+    "search": {
+      "id": "PdDK4Y7iL",
+      "complexity": 18,
+      "total": 103
+    },
     "builds": 2,
     "mods": [
       {
@@ -2438,7 +2564,38 @@
   },
   {
     "item": "Goldwyrm",
+    "stats": "#% increased movement speed",
+    "builds": 2,
+    "mods": [
+      {
+        "text": "#% increased movement speed",
+        "trade_ids": [
+          "implicit.stat_2250533757"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Goldwyrm",
     "stats": "#% increased maximum energy shield",
+    "average": 5,
+    "prices": [
+      1,
+      1,
+      4,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5
+    ],
+    "search": {
+      "id": "5okOd7nTa",
+      "complexity": 18,
+      "total": 330
+    },
     "builds": 2,
     "mods": [
       {
@@ -2452,6 +2609,24 @@
   {
     "item": "Goldwyrm",
     "stats": "+# to level of socketed curse gems",
+    "average": 3.947,
+    "prices": [
+      2,
+      5.47,
+      3,
+      3,
+      3,
+      4,
+      4,
+      5,
+      5,
+      5
+    ],
+    "search": {
+      "id": "oZ89EgYsl",
+      "complexity": 18,
+      "total": 366
+    },
     "builds": 2,
     "mods": [
       {
@@ -2465,6 +2640,13 @@
   {
     "item": "Asenath's Gentle Touch",
     "stats": "+# to level of socketed aoe gems, curse enemies with vulnerability on hit",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "GkJjeOBUb",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 2,
     "mods": [
       {
@@ -2484,6 +2666,15 @@
   {
     "item": "Asenath's Gentle Touch",
     "stats": "+# to level of socketed trap or mine gems, curse enemies with vulnerability on hit",
+    "average": 217.39,
+    "prices": [
+      217.39
+    ],
+    "search": {
+      "id": "mXgb3lrT6",
+      "complexity": 29,
+      "total": 1
+    },
     "builds": 2,
     "mods": [
       {
@@ -2503,6 +2694,24 @@
   {
     "item": "Asenath's Gentle Touch",
     "stats": "curse enemies with despair on hit",
+    "average": 217.38999999999993,
+    "prices": [
+      217.39,
+      217.39,
+      217.39,
+      217.39,
+      217.39,
+      217.39,
+      217.39,
+      217.39,
+      217.39,
+      217.39
+    ],
+    "search": {
+      "id": "XkOGbebuP",
+      "complexity": 18,
+      "total": 242
+    },
     "builds": 2,
     "mods": [
       {
@@ -2516,6 +2725,24 @@
   {
     "item": "March of the Legion",
     "stats": "+# to level of socketed duration gems",
+    "average": 5.9,
+    "prices": [
+      3,
+      4,
+      5,
+      5,
+      5,
+      5,
+      7,
+      8,
+      8,
+      9
+    ],
+    "search": {
+      "id": "rXjkno7TQ",
+      "complexity": 18,
+      "total": 116
+    },
     "builds": 2,
     "mods": [
       {
@@ -2529,6 +2756,24 @@
   {
     "item": "Hyrri's Truth",
     "stats": "you can apply an additional curse",
+    "average": 64,
+    "prices": [
+      50,
+      50,
+      55,
+      60,
+      60,
+      70,
+      70,
+      70,
+      75,
+      80
+    ],
+    "search": {
+      "id": "rY5YQ07CQ",
+      "complexity": 18,
+      "total": 227
+    },
     "builds": 2,
     "mods": [
       {
@@ -2542,6 +2787,24 @@
   {
     "item": "Hyrri's Truth",
     "stats": "+#% to all elemental resistances",
+    "average": 10,
+    "prices": [
+      7,
+      8,
+      9,
+      10,
+      10,
+      10,
+      10,
+      10,
+      10,
+      10
+    ],
+    "search": {
+      "id": "gXJ32daFQ",
+      "complexity": 18,
+      "total": 240
+    },
     "builds": 2,
     "mods": [
       {
@@ -5246,6 +5509,25 @@
   },
   {
     "item": "Greed's Embrace",
+    "stats": "+# to level of socketed gems, #% additional physical damage reduction while stationary",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "+# to level of socketed gems",
+        "trade_ids": [
+          "implicit.stat_2843100721"
+        ]
+      },
+      {
+        "text": "#% additional physical damage reduction while stationary",
+        "trade_ids": [
+          "implicit.stat_2181129193"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Greed's Embrace",
     "stats": "#% reduced fire damage taken",
     "builds": 1,
     "mods": [
@@ -5382,19 +5664,6 @@
         "text": "grants level # haste skill",
         "trade_ids": [
           "implicit.stat_1188846263"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Goldwyrm",
-    "stats": "#% increased movement speed",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "#% increased movement speed",
-        "trade_ids": [
-          "implicit.stat_2250533757"
         ]
       }
     ]
@@ -8951,6 +9220,25 @@
         "trade_ids": [
           "implicit.stat_2653955271",
           "implicit.stat_1123291426"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Unnatural Instinct",
+    "stats": "#% increased damage, corrupted blood cannot be inflicted on you",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "#% increased damage",
+        "trade_ids": [
+          "implicit.stat_2154246560"
+        ]
+      },
+      {
+        "text": "corrupted blood cannot be inflicted on you",
+        "trade_ids": [
+          "implicit.stat_1658498488"
         ]
       }
     ]
