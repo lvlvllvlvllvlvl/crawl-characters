@@ -10282,6 +10282,13 @@
   {
     "item": "Anathema",
     "stats": "#% increased strength, #% increased dexterity, grace has #% increased aura effect",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "QVOrDlvfw",
+      "complexity": 20,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -10307,6 +10314,21 @@
   {
     "item": "Anathema",
     "stats": "#% increased attack speed",
+    "average": 729.8092857142856,
+    "prices": [
+      326.085,
+      434.78,
+      652.17,
+      869.56,
+      869.56,
+      869.56,
+      1086.9499999999998
+    ],
+    "search": {
+      "id": "zeovLqLc4",
+      "complexity": 19,
+      "total": 7
+    },
     "builds": 1,
     "mods": [
       {
@@ -10321,6 +10343,19 @@
   {
     "item": "Anathema",
     "stats": "#% increased cast speed",
+    "average": 1826.0759999999996,
+    "prices": [
+      217.39,
+      217.39,
+      2173.8999999999996,
+      2173.8999999999996,
+      4347.799999999999
+    ],
+    "search": {
+      "id": "JYm7jvOIl",
+      "complexity": 18,
+      "total": 5
+    },
     "builds": 1,
     "mods": [
       {
@@ -10334,6 +10369,24 @@
   {
     "item": "Anathema",
     "stats": "#% increased strength, #% increased intelligence",
+    "average": 417.18249999999995,
+    "prices": [
+      66,
+      217.39,
+      217.39,
+      228,
+      434.78,
+      434.78,
+      869.56,
+      869.56,
+      1739.12,
+      3260.85
+    ],
+    "search": {
+      "id": "LmdED02in",
+      "complexity": 29,
+      "total": 10
+    },
     "builds": 1,
     "mods": [
       {
@@ -10353,6 +10406,19 @@
   {
     "item": "Anathema",
     "stats": "bleeding cannot be inflicted on you",
+    "average": 5695.6179999999995,
+    "prices": [
+      4347.799999999999,
+      4347.799999999999,
+      5217.36,
+      6956.48,
+      7608.65
+    ],
+    "search": {
+      "id": "rY5MGMECQ",
+      "complexity": 18,
+      "total": 5
+    },
     "builds": 1,
     "mods": [
       {
@@ -10366,6 +10432,24 @@
   {
     "item": "Anathema",
     "stats": "zealotry has #% increased aura effect",
+    "average": 905.7916666666666,
+    "prices": [
+      652.17,
+      652.17,
+      869.56,
+      869.56,
+      1086.9499999999998,
+      1304.34,
+      1739.12,
+      2173.8999999999996,
+      2608.68,
+      3260.85
+    ],
+    "search": {
+      "id": "wpRMq0Bhb",
+      "complexity": 18,
+      "total": 17
+    },
     "builds": 1,
     "mods": [
       {
@@ -10379,6 +10463,20 @@
   {
     "item": "Astral Projector",
     "stats": "hatred has #% increased aura effect",
+    "average": 1449.2666666666664,
+    "prices": [
+      869.56,
+      1086.9499999999998,
+      1521.73,
+      1521.73,
+      1739.12,
+      1956.5099999999998
+    ],
+    "search": {
+      "id": "BEXrk6Xt8",
+      "complexity": 18,
+      "total": 6
+    },
     "builds": 1,
     "mods": [
       {
@@ -10392,6 +10490,18 @@
   {
     "item": "Astral Projector",
     "stats": "#% increased cast speed",
+    "average": 570.64875,
+    "prices": [
+      217.39,
+      326.085,
+      652.17,
+      1086.9499999999998
+    ],
+    "search": {
+      "id": "dXb0bwoFJ",
+      "complexity": 18,
+      "total": 4
+    },
     "builds": 1,
     "mods": [
       {
@@ -10405,6 +10515,24 @@
   {
     "item": "Inspired Learning",
     "stats": "damage penetrates #% cold resistance",
+    "average": 36,
+    "prices": [
+      30,
+      30,
+      30,
+      35,
+      35,
+      40,
+      40,
+      40,
+      40,
+      40
+    ],
+    "search": {
+      "id": "KJdeLGqs5",
+      "complexity": 19,
+      "total": 72
+    },
     "builds": 1,
     "mods": [
       {
@@ -10419,6 +10547,24 @@
   {
     "item": "Inspired Learning",
     "stats": "you cannot be maimed",
+    "average": 39.3,
+    "prices": [
+      38,
+      38,
+      39,
+      39,
+      39,
+      40,
+      40,
+      40,
+      40,
+      40
+    ],
+    "search": {
+      "id": "v3WbPKZuE",
+      "complexity": 18,
+      "total": 67
+    },
     "builds": 1,
     "mods": [
       {
@@ -10432,6 +10578,24 @@
   {
     "item": "Inspired Learning",
     "stats": "minions deal #% increased damage",
+    "average": 32,
+    "prices": [
+      30,
+      30,
+      30,
+      30,
+      30,
+      32,
+      34,
+      34,
+      35,
+      35
+    ],
+    "search": {
+      "id": "oX70bw4il",
+      "complexity": 18,
+      "total": 78
+    },
     "builds": 1,
     "mods": [
       {
@@ -10445,6 +10609,24 @@
   {
     "item": "Inspired Learning",
     "stats": "#% reduced poison duration on you",
+    "average": 36.55555555555556,
+    "prices": [
+      30,
+      35,
+      35,
+      35,
+      35,
+      35,
+      35,
+      39,
+      40,
+      40
+    ],
+    "search": {
+      "id": "ZbZdZp8HQ",
+      "complexity": 18,
+      "total": 80
+    },
     "builds": 1,
     "mods": [
       {
@@ -10458,6 +10640,24 @@
   {
     "item": "Inspired Learning",
     "stats": "#% reduced bleed duration on you",
+    "average": 34.666666666666664,
+    "prices": [
+      30,
+      30,
+      34,
+      35,
+      35,
+      35,
+      35,
+      39,
+      39,
+      49.5
+    ],
+    "search": {
+      "id": "bPZJr2RTL",
+      "complexity": 18,
+      "total": 81
+    },
     "builds": 1,
     "mods": [
       {
@@ -10471,6 +10671,24 @@
   {
     "item": "Inspired Learning",
     "stats": "#% reduced effect of curses on you",
+    "average": 38.888888888888886,
+    "prices": [
+      30,
+      35,
+      35,
+      40,
+      40,
+      40,
+      40,
+      40,
+      40,
+      40
+    ],
+    "search": {
+      "id": "LmdejwjHn",
+      "complexity": 18,
+      "total": 85
+    },
     "builds": 1,
     "mods": [
       {
@@ -10484,6 +10702,24 @@
   {
     "item": "Inspired Learning",
     "stats": "corrupted blood cannot be inflicted on you",
+    "average": 1304.34,
+    "prices": [
+      1304.34,
+      1304.34,
+      1304.34,
+      1304.34,
+      1304.34,
+      1304.34,
+      1304.34,
+      1304.34,
+      1304.34,
+      1304.34
+    ],
+    "search": {
+      "id": "wpR9W5jhb",
+      "complexity": 18,
+      "total": 22
+    },
     "builds": 1,
     "mods": [
       {
