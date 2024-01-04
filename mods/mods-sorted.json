@@ -7164,6 +7164,25 @@
   },
   {
     "item": "Incandescent Heart",
+    "stats": "+# to level of socketed gems, #% increased damage",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "+# to level of socketed gems",
+        "trade_ids": [
+          "implicit.stat_2843100721"
+        ]
+      },
+      {
+        "text": "#% increased damage",
+        "trade_ids": [
+          "implicit.stat_2154246560"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Incandescent Heart",
     "stats": "#% reduced lightning damage taken",
     "average": 19.666666666666668,
     "prices": [
@@ -7320,6 +7339,16 @@
   {
     "item": "Incandescent Heart",
     "stats": "+# to level of socketed aoe gems, +# to level of socketed aura gems",
+    "average": 24999.85,
+    "prices": [
+      7608.65,
+      42391.049999999996
+    ],
+    "search": {
+      "id": "KJBdY5RI5",
+      "complexity": 29,
+      "total": 2
+    },
     "builds": 1,
     "mods": [
       {
@@ -7339,6 +7368,13 @@
   {
     "item": "Marylene's Fallacy",
     "stats": "+#% to all maximum resistances, malevolence has #% increased aura effect",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "nXqVBGyC0",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -7358,6 +7394,24 @@
   {
     "item": "Marylene's Fallacy",
     "stats": "+#% to all maximum resistances",
+    "average": 14,
+    "prices": [
+      5,
+      10,
+      10,
+      12,
+      15,
+      20,
+      20,
+      20,
+      100,
+      100
+    ],
+    "search": {
+      "id": "KJ7E63LU5",
+      "complexity": 18,
+      "total": 23
+    },
     "builds": 1,
     "mods": [
       {
@@ -7371,6 +7425,17 @@
   {
     "item": "Victario's Flight",
     "stats": "+# to level of socketed gems, +# to level of socketed aoe gems",
+    "average": 217.39,
+    "prices": [
+      50,
+      217.39,
+      217.39
+    ],
+    "search": {
+      "id": "OVwv9wgTE",
+      "complexity": 29,
+      "total": 3
+    },
     "builds": 1,
     "mods": [
       {
@@ -7390,6 +7455,13 @@
   {
     "item": "Doryani's Prototype",
     "stats": "+# to level of socketed projectile gems, +#% to all maximum resistances",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "9YKMX5YsK",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -7409,6 +7481,19 @@
   {
     "item": "Natural Affinity",
     "stats": "corrupted blood cannot be inflicted on you",
+    "average": 8472.775249999999,
+    "prices": [
+      8239.080999999998,
+      8478.21,
+      8478.21,
+      8695.599999999999,
+      11739.06
+    ],
+    "search": {
+      "id": "9qlqMQYsK",
+      "complexity": 18,
+      "total": 5
+    },
     "builds": 1,
     "mods": [
       {
@@ -7422,6 +7507,24 @@
   {
     "item": "Natural Affinity",
     "stats": "minions deal #% increased damage",
+    "average": 35,
+    "prices": [
+      30,
+      35,
+      35,
+      35,
+      35,
+      35,
+      35,
+      35,
+      40,
+      50
+    ],
+    "search": {
+      "id": "nXy7VgJH0",
+      "complexity": 18,
+      "total": 16
+    },
     "builds": 1,
     "mods": [
       {
@@ -7435,6 +7538,18 @@
   {
     "item": "The Green Dream",
     "stats": "minions deal #% increased damage",
+    "average": 41,
+    "prices": [
+      13,
+      50,
+      60,
+      217.39
+    ],
+    "search": {
+      "id": "BEDM6KXH8",
+      "complexity": 18,
+      "total": 4
+    },
     "builds": 1,
     "mods": [
       {
@@ -7448,6 +7563,24 @@
   {
     "item": "Bated Breath",
     "stats": "#% increased maximum energy shield",
+    "average": 9.777777777777779,
+    "prices": [
+      7,
+      9,
+      9,
+      10,
+      10,
+      10,
+      10,
+      10,
+      10,
+      10
+    ],
+    "search": {
+      "id": "vlE0L09fE",
+      "complexity": 18,
+      "total": 57
+    },
     "builds": 1,
     "mods": [
       {
@@ -7461,6 +7594,13 @@
   {
     "item": "Bated Breath",
     "stats": "wrath has #% increased aura effect, discipline has #% increased aura effect",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "lXqOl76IV",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -7480,6 +7620,24 @@
   {
     "item": "Bated Breath",
     "stats": "zealotry has #% increased aura effect",
+    "average": 10.1,
+    "prices": [
+      5,
+      5,
+      5,
+      6,
+      10,
+      10,
+      15,
+      15,
+      15,
+      15
+    ],
+    "search": {
+      "id": "gXDl2naFQ",
+      "complexity": 18,
+      "total": 45
+    },
     "builds": 1,
     "mods": [
       {
@@ -7493,6 +7651,24 @@
   {
     "item": "Bated Breath",
     "stats": "discipline has #% increased aura effect",
+    "average": 18,
+    "prices": [
+      10,
+      15,
+      15,
+      15,
+      17,
+      20,
+      20,
+      20,
+      20,
+      20
+    ],
+    "search": {
+      "id": "Ey6vgPVf5",
+      "complexity": 18,
+      "total": 75
+    },
     "builds": 1,
     "mods": [
       {
@@ -7506,6 +7682,17 @@
   {
     "item": "Bated Breath",
     "stats": "#% increased dexterity, #% increased intelligence, #% increased maximum energy shield",
+    "average": 217.39,
+    "prices": [
+      217.39,
+      217.39,
+      304.34599999999995
+    ],
+    "search": {
+      "id": "7lKm9nlu5",
+      "complexity": 20,
+      "total": 3
+    },
     "builds": 1,
     "mods": [
       {
@@ -7531,6 +7718,24 @@
   {
     "item": "Bated Breath",
     "stats": "anger has #% increased aura effect",
+    "average": 11.4,
+    "prices": [
+      5,
+      5,
+      7,
+      10,
+      10,
+      11,
+      12,
+      15,
+      19,
+      20
+    ],
+    "search": {
+      "id": "jXZk6lZCX",
+      "complexity": 18,
+      "total": 37
+    },
     "builds": 1,
     "mods": [
       {
@@ -7544,6 +7749,24 @@
   {
     "item": "Shaper's Touch",
     "stats": "#% increased maximum energy shield",
+    "average": 11.1,
+    "prices": [
+      6,
+      6,
+      10,
+      10,
+      10,
+      10,
+      14,
+      15,
+      15,
+      15
+    ],
+    "search": {
+      "id": "VMgl2KlCp",
+      "complexity": 18,
+      "total": 166
+    },
     "builds": 1,
     "mods": [
       {
@@ -10038,6 +10261,148 @@
     ]
   },
   {
+    "item": "Corpsewalker",
+    "stats": "+# to level of socketed aura gems",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "+# to level of socketed aura gems",
+        "trade_ids": [
+          "implicit.stat_2452998583"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Corpsewalker",
+    "stats": "#% increased maximum energy shield, #% increased movement speed",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "#% increased maximum energy shield",
+        "trade_ids": [
+          "implicit.stat_2482852589"
+        ]
+      },
+      {
+        "text": "#% increased movement speed",
+        "trade_ids": [
+          "implicit.stat_2250533757"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Corpsewalker",
+    "stats": "regenerate # life per second while moving",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "regenerate # life per second while moving",
+        "trade_ids": [
+          "implicit.stat_2841027131"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Corpsewalker",
+    "stats": "+# to maximum endurance charges",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "+# to maximum endurance charges",
+        "trade_ids": [
+          "implicit.stat_1515657623"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Corpsewalker",
+    "stats": "+# to level of socketed aoe gems",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "+# to level of socketed aoe gems",
+        "trade_ids": [
+          "implicit.stat_2551600084"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Aegis Aurora",
+    "stats": "#% of physical damage from hits taken as cold damage",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "#% of physical damage from hits taken as cold damage",
+        "trade_ids": [
+          "implicit.stat_1871056256"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Aegis Aurora",
+    "stats": "+# to level of socketed duration gems, #% reduced damage taken from projectile hits",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "+# to level of socketed duration gems",
+        "trade_ids": [
+          "implicit.stat_2115168758"
+        ]
+      },
+      {
+        "text": "#% reduced damage taken from projectile hits",
+        "trade_ids": [
+          "implicit.stat_1425651005"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Aegis Aurora",
+    "stats": "+# to level of socketed gems",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "+# to level of socketed gems",
+        "trade_ids": [
+          "implicit.stat_2843100721"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Aegis Aurora",
+    "stats": "+# to level of socketed aoe gems",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "+# to level of socketed aoe gems",
+        "trade_ids": [
+          "implicit.stat_2551600084"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Aegis Aurora",
+    "stats": "#% of physical damage from hits taken as fire damage",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "#% of physical damage from hits taken as fire damage",
+        "trade_ids": [
+          "implicit.stat_3342989455"
+        ]
+      }
+    ]
+  },
+  {
     "item": "Cospri's Will",
     "stats": "+# to level of socketed aoe gems, +# to level of socketed projectile gems",
     "builds": 1,
@@ -11927,64 +12292,6 @@
     ]
   },
   {
-    "item": "Corpsewalker",
-    "stats": "#% increased maximum energy shield, #% increased movement speed",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "#% increased maximum energy shield",
-        "trade_ids": [
-          "implicit.stat_2482852589"
-        ]
-      },
-      {
-        "text": "#% increased movement speed",
-        "trade_ids": [
-          "implicit.stat_2250533757"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Corpsewalker",
-    "stats": "regenerate # life per second while moving",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "regenerate # life per second while moving",
-        "trade_ids": [
-          "implicit.stat_2841027131"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Corpsewalker",
-    "stats": "+# to maximum endurance charges",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "+# to maximum endurance charges",
-        "trade_ids": [
-          "implicit.stat_1515657623"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Corpsewalker",
-    "stats": "+# to level of socketed aoe gems",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "+# to level of socketed aoe gems",
-        "trade_ids": [
-          "implicit.stat_2551600084"
-        ]
-      }
-    ]
-  },
-  {
     "item": "Arn's Anguish",
     "stats": "zealotry has #% increased aura effect",
     "builds": 1,
@@ -13558,64 +13865,6 @@
         "text": "socketed skill gems get a #% cost & reservation multiplier",
         "trade_ids": [
           "implicit.stat_2865550257"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Aegis Aurora",
-    "stats": "+# to level of socketed duration gems, #% reduced damage taken from projectile hits",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "+# to level of socketed duration gems",
-        "trade_ids": [
-          "implicit.stat_2115168758"
-        ]
-      },
-      {
-        "text": "#% reduced damage taken from projectile hits",
-        "trade_ids": [
-          "implicit.stat_1425651005"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Aegis Aurora",
-    "stats": "+# to level of socketed gems",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "+# to level of socketed gems",
-        "trade_ids": [
-          "implicit.stat_2843100721"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Aegis Aurora",
-    "stats": "+# to level of socketed aoe gems",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "+# to level of socketed aoe gems",
-        "trade_ids": [
-          "implicit.stat_2551600084"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Aegis Aurora",
-    "stats": "#% of physical damage from hits taken as fire damage",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "#% of physical damage from hits taken as fire damage",
-        "trade_ids": [
-          "implicit.stat_3342989455"
         ]
       }
     ]
