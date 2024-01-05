@@ -13108,6 +13108,13 @@
   {
     "item": "Hands of the High Templar",
     "stats": "+# to level of socketed minion gems, +# to level of socketed aura gems, #% increased attack speed, +# to maximum frenzy charges, curse enemies with elemental weakness on hit",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "moero2Bi6",
+      "complexity": 23,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -13146,6 +13153,13 @@
   {
     "item": "Headhunter",
     "stats": "#% increased movement speed during any flask effect, #% increased critical strike chance during any flask effect",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "9qllWp0hK",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -13165,6 +13179,21 @@
   {
     "item": "Headhunter",
     "stats": "#% increased strength, #% increased dexterity",
+    "average": 57608.35,
+    "prices": [
+      39130.2,
+      52173.6,
+      61956.149999999994,
+      63043.1,
+      71738.7,
+      155947.15,
+      97825.5
+    ],
+    "search": {
+      "id": "waP7Xanib",
+      "complexity": 29,
+      "total": 7
+    },
     "builds": 1,
     "mods": [
       {
@@ -13184,6 +13213,19 @@
   {
     "item": "Headhunter",
     "stats": "#% increased maximum energy shield",
+    "average": 143945.40499999997,
+    "prices": [
+      26086.8,
+      43478,
+      104347.2,
+      233920.72499999998,
+      311894.3
+    ],
+    "search": {
+      "id": "Eydr2bzH5",
+      "complexity": 18,
+      "total": 5
+    },
     "builds": 1,
     "mods": [
       {
@@ -13197,6 +13239,19 @@
   {
     "item": "Headhunter",
     "stats": "#% increased area of effect",
+    "average": 41304.1,
+    "prices": [
+      30434.6,
+      32608.499999999996,
+      47825.799999999996,
+      54347.5,
+      155947.15
+    ],
+    "search": {
+      "id": "OVwVMgVTE",
+      "complexity": 18,
+      "total": 5
+    },
     "builds": 1,
     "mods": [
       {
@@ -13210,6 +13265,15 @@
   {
     "item": "Headhunter",
     "stats": "#% increased area of effect, wrath has #% increased aura effect",
+    "average": 54347.5,
+    "prices": [
+      54347.5
+    ],
+    "search": {
+      "id": "6Zv5PPXcG",
+      "complexity": 29,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -13229,6 +13293,13 @@
   {
     "item": "Headhunter",
     "stats": "anger has #% increased aura effect, #% increased cast speed during any flask effect",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "bXg3WPdHL",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -13248,6 +13319,24 @@
   {
     "item": "Leer Cast",
     "stats": "+# to maximum power charges",
+    "average": 15.3,
+    "prices": [
+      5,
+      9,
+      10,
+      10,
+      19,
+      20,
+      20,
+      20,
+      20,
+      20
+    ],
+    "search": {
+      "id": "Xqb5zPKFP",
+      "complexity": 18,
+      "total": 60
+    },
     "builds": 1,
     "mods": [
       {
@@ -13261,6 +13350,13 @@
   {
     "item": "Transcendent Mind",
     "stats": "corrupted blood cannot be inflicted on you",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "8ad6EgbfV",
+      "complexity": 18,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -13274,6 +13370,24 @@
   {
     "item": "Viridi's Veil",
     "stats": "+# to level of socketed projectile gems",
+    "average": 81.11111111111111,
+    "prices": [
+      20,
+      50,
+      50,
+      80,
+      80,
+      80,
+      90,
+      100,
+      100,
+      100
+    ],
+    "search": {
+      "id": "MVDlgq6UJ",
+      "complexity": 18,
+      "total": 38
+    },
     "builds": 1,
     "mods": [
       {
@@ -13287,6 +13401,24 @@
   {
     "item": "Viridi's Veil",
     "stats": "socketed skill gems get a #% cost & reservation multiplier",
+    "average": 393.4759,
+    "prices": [
+      217.39,
+      217.39,
+      217.39,
+      217.39,
+      347.824,
+      434.78,
+      434.78,
+      543.4749999999999,
+      652.17,
+      652.17
+    ],
+    "search": {
+      "id": "9qlwZXQUK",
+      "complexity": 18,
+      "total": 44
+    },
     "builds": 1,
     "mods": [
       {
@@ -13300,6 +13432,24 @@
   {
     "item": "Alpha's Howl",
     "stats": "+# to level of socketed duration gems",
+    "average": 26.2,
+    "prices": [
+      20,
+      20,
+      20,
+      20,
+      25,
+      29,
+      30,
+      30,
+      34,
+      34
+    ],
+    "search": {
+      "id": "Zb5OD8mCQ",
+      "complexity": 18,
+      "total": 58
+    },
     "builds": 1,
     "mods": [
       {
@@ -13313,6 +13463,24 @@
   {
     "item": "Oskarm",
     "stats": "attacks have +#% to critical strike chance",
+    "average": 8.3,
+    "prices": [
+      5,
+      5,
+      5,
+      7,
+      10,
+      10,
+      10,
+      10,
+      10,
+      11
+    ],
+    "search": {
+      "id": "rXpPWX7CQ",
+      "complexity": 18,
+      "total": 115
+    },
     "builds": 1,
     "mods": [
       {
@@ -13326,6 +13494,15 @@
   {
     "item": "Oskarm",
     "stats": "+# to level of socketed trap or mine gems, curse enemies with vulnerability on hit",
+    "average": 652.17,
+    "prices": [
+      652.17
+    ],
+    "search": {
+      "id": "WVrvPVDum",
+      "complexity": 29,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -13345,6 +13522,13 @@
   {
     "item": "Oskarm",
     "stats": "curse enemies with vulnerability on hit, attacks have +#% to critical strike chance",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "qX42qr3Cg",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
