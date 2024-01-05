@@ -3246,6 +3246,24 @@
   {
     "item": "Prism Guardian",
     "stats": "#% of physical damage from hits taken as fire damage",
+    "average": 21.9,
+    "prices": [
+      15,
+      15,
+      20,
+      20,
+      20,
+      20,
+      25,
+      25,
+      29,
+      30
+    ],
+    "search": {
+      "id": "WVpJWBVfm",
+      "complexity": 18,
+      "total": 122
+    },
     "builds": 2,
     "mods": [
       {
@@ -3259,6 +3277,20 @@
   {
     "item": "Headhunter",
     "stats": "#% increased dexterity, #% increased intelligence",
+    "average": 48912.75,
+    "prices": [
+      28260.699999999997,
+      34782.399999999994,
+      41304.1,
+      54347.5,
+      63043.1,
+      71738.7
+    ],
+    "search": {
+      "id": "DL85jL7H5",
+      "complexity": 29,
+      "total": 6
+    },
     "builds": 2,
     "mods": [
       {
@@ -3278,6 +3310,24 @@
   {
     "item": "Viridi's Veil",
     "stats": "+# to level of socketed aoe gems",
+    "average": 217.38999999999996,
+    "prices": [
+      40,
+      69,
+      120,
+      160,
+      217.39,
+      217.39,
+      217.39,
+      217.39,
+      217.39,
+      217.39
+    ],
+    "search": {
+      "id": "BEJGbe4T8",
+      "complexity": 18,
+      "total": 36
+    },
     "builds": 2,
     "mods": [
       {
@@ -3291,6 +3341,24 @@
   {
     "item": "Alpha's Howl",
     "stats": "+# to maximum power charges",
+    "average": 217.38999999999993,
+    "prices": [
+      217.39,
+      217.39,
+      217.39,
+      217.39,
+      217.39,
+      217.39,
+      217.39,
+      217.39,
+      217.39,
+      217.39
+    ],
+    "search": {
+      "id": "lXjLVaVUV",
+      "complexity": 18,
+      "total": 44
+    },
     "builds": 2,
     "mods": [
       {
@@ -3304,6 +3372,24 @@
   {
     "item": "Darkray Vectors",
     "stats": "+# to level of socketed gems",
+    "average": 7.534999999999999,
+    "prices": [
+      5.35,
+      5,
+      5,
+      6,
+      8,
+      8,
+      9,
+      9,
+      10,
+      10
+    ],
+    "search": {
+      "id": "3BrQzW5s5",
+      "complexity": 18,
+      "total": 140
+    },
     "builds": 2,
     "mods": [
       {
@@ -3317,6 +3403,24 @@
   {
     "item": "Ceinture of Benevolence",
     "stats": "discipline has #% increased aura effect",
+    "average": 809.1738888888888,
+    "prices": [
+      434.78,
+      652.17,
+      652.17,
+      760.865,
+      869.56,
+      869.56,
+      869.56,
+      869.56,
+      869.56,
+      869.56
+    ],
+    "search": {
+      "id": "R24XldWi7",
+      "complexity": 18,
+      "total": 36
+    },
     "builds": 2,
     "mods": [
       {
@@ -3330,6 +3434,24 @@
   {
     "item": "Ceinture of Benevolence",
     "stats": "#% increased strength, #% increased intelligence",
+    "average": 15.9,
+    "prices": [
+      10,
+      10,
+      10,
+      14,
+      15,
+      20,
+      20,
+      20,
+      20,
+      20
+    ],
+    "search": {
+      "id": "z27GVXRI4",
+      "complexity": 29,
+      "total": 46
+    },
     "builds": 2,
     "mods": [
       {
@@ -3349,6 +3471,24 @@
   {
     "item": "Ceinture of Benevolence",
     "stats": "wrath has #% increased aura effect",
+    "average": 8.666666666666666,
+    "prices": [
+      1,
+      5,
+      5,
+      8,
+      10,
+      10,
+      10,
+      10,
+      10,
+      10
+    ],
+    "search": {
+      "id": "ZbZrYrYHQ",
+      "complexity": 18,
+      "total": 59
+    },
     "builds": 2,
     "mods": [
       {
@@ -3362,6 +3502,24 @@
   {
     "item": "Belly of the Beast",
     "stats": "+# to level of socketed aoe gems",
+    "average": 30.5,
+    "prices": [
+      10,
+      20,
+      20,
+      30,
+      30,
+      30,
+      30,
+      35,
+      50,
+      50
+    ],
+    "search": {
+      "id": "jPpMq8btX",
+      "complexity": 18,
+      "total": 39
+    },
     "builds": 2,
     "mods": [
       {
@@ -3375,6 +3533,24 @@
   {
     "item": "Vixen's Entrapment",
     "stats": "+# to level of socketed aoe gems",
+    "average": 54.4,
+    "prices": [
+      29,
+      30,
+      30,
+      30,
+      30,
+      45,
+      50,
+      100,
+      100,
+      100
+    ],
+    "search": {
+      "id": "JVdkbvbhl",
+      "complexity": 18,
+      "total": 31
+    },
     "builds": 2,
     "mods": [
       {
@@ -3388,6 +3564,13 @@
   {
     "item": "Perandus Blazon",
     "stats": "#% increased rarity of items found, zealotry has #% increased aura effect",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "LmonEMVhn",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 2,
     "mods": [
       {
@@ -3407,6 +3590,24 @@
   {
     "item": "Sentari's Answer",
     "stats": "#% increased maximum energy shield",
+    "average": 20,
+    "prices": [
+      5,
+      10,
+      15,
+      19,
+      20,
+      20,
+      20,
+      20,
+      20,
+      21
+    ],
+    "search": {
+      "id": "EydaRLzh5",
+      "complexity": 18,
+      "total": 30
+    },
     "builds": 2,
     "mods": [
       {
@@ -3420,6 +3621,24 @@
   {
     "item": "Sentari's Answer",
     "stats": "#% of physical damage from hits taken as fire damage",
+    "average": 22,
+    "prices": [
+      5,
+      10,
+      15,
+      20,
+      20,
+      20,
+      20,
+      30,
+      40,
+      40
+    ],
+    "search": {
+      "id": "LeWraOlFn",
+      "complexity": 18,
+      "total": 53
+    },
     "builds": 2,
     "mods": [
       {
@@ -3433,6 +3652,24 @@
   {
     "item": "Devoto's Devotion",
     "stats": "+# to maximum power charges",
+    "average": 15.196000000000002,
+    "prices": [
+      10,
+      11,
+      11.96,
+      14,
+      15,
+      15,
+      15,
+      20,
+      20,
+      20
+    ],
+    "search": {
+      "id": "OVnJZWrSE",
+      "complexity": 18,
+      "total": 114
+    },
     "builds": 2,
     "mods": [
       {
@@ -3446,6 +3683,24 @@
   {
     "item": "Doomfletch",
     "stats": "#% increased elemental damage with attack skills",
+    "average": 2.6420000000000003,
+    "prices": [
+      2,
+      2,
+      2,
+      2.42,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3
+    ],
+    "search": {
+      "id": "Eyd2PQKc5",
+      "complexity": 18,
+      "total": 365
+    },
     "builds": 2,
     "mods": [
       {
