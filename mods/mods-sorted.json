@@ -2337,6 +2337,24 @@
   {
     "item": "Bated Breath",
     "stats": "wrath has #% increased aura effect",
+    "average": 12.9,
+    "prices": [
+      4,
+      5,
+      10,
+      10,
+      10,
+      10,
+      20,
+      20,
+      20,
+      20
+    ],
+    "search": {
+      "id": "3Bb9LVZs5",
+      "complexity": 18,
+      "total": 47
+    },
     "builds": 2,
     "mods": [
       {
@@ -2350,6 +2368,24 @@
   {
     "item": "Shaper's Touch",
     "stats": "+# to level of socketed aura gems",
+    "average": 30,
+    "prices": [
+      25,
+      30,
+      30,
+      30,
+      30,
+      30,
+      30,
+      30,
+      30,
+      30
+    ],
+    "search": {
+      "id": "0PQ6vEghg",
+      "complexity": 18,
+      "total": 184
+    },
     "builds": 2,
     "mods": [
       {
@@ -2363,6 +2399,24 @@
   {
     "item": "Greed's Embrace",
     "stats": "+# to level of socketed gems",
+    "average": 9.4,
+    "prices": [
+      8,
+      8,
+      9,
+      9,
+      10,
+      10,
+      10,
+      10,
+      10,
+      10
+    ],
+    "search": {
+      "id": "3GwpXDPh5",
+      "complexity": 18,
+      "total": 1016
+    },
     "builds": 2,
     "mods": [
       {
@@ -2376,6 +2430,24 @@
   {
     "item": "Sadima's Touch",
     "stats": "curse enemies with enfeeble on hit",
+    "average": 5,
+    "prices": [
+      3,
+      4,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      10.7,
+      9
+    ],
+    "search": {
+      "id": "JVdY989Fl",
+      "complexity": 18,
+      "total": 177
+    },
     "builds": 2,
     "mods": [
       {
@@ -2389,6 +2461,24 @@
   {
     "item": "Sadima's Touch",
     "stats": "#% increased cast speed",
+    "average": 6.17,
+    "prices": [
+      2,
+      3,
+      5,
+      5,
+      5,
+      5,
+      10.7,
+      8,
+      9,
+      9
+    ],
+    "search": {
+      "id": "K9gKZ2RC5",
+      "complexity": 18,
+      "total": 142
+    },
     "builds": 2,
     "mods": [
       {
@@ -2402,6 +2492,24 @@
   {
     "item": "Sadima's Touch",
     "stats": "#% increased attack speed",
+    "average": 4.714285714285714,
+    "prices": [
+      4,
+      4,
+      5,
+      5,
+      5,
+      5,
+      5,
+      10.7,
+      7,
+      10
+    ],
+    "search": {
+      "id": "2Gb6JDdtk",
+      "complexity": 19,
+      "total": 188
+    },
     "builds": 2,
     "mods": [
       {
@@ -2416,6 +2524,24 @@
   {
     "item": "Sadima's Touch",
     "stats": "#% increased maximum energy shield",
+    "average": 8.444444444444445,
+    "prices": [
+      1,
+      5,
+      5,
+      8,
+      9,
+      9,
+      10,
+      10,
+      10,
+      10
+    ],
+    "search": {
+      "id": "PdDK4Y7iL",
+      "complexity": 18,
+      "total": 103
+    },
     "builds": 2,
     "mods": [
       {
@@ -2429,6 +2555,24 @@
   {
     "item": "Goldwyrm",
     "stats": "#% increased movement speed",
+    "average": 9.777777777777779,
+    "prices": [
+      5,
+      9,
+      9,
+      10,
+      10,
+      10,
+      10,
+      10,
+      10,
+      10
+    ],
+    "search": {
+      "id": "GZyPKYocb",
+      "complexity": 18,
+      "total": 529
+    },
     "builds": 2,
     "mods": [
       {
@@ -2442,6 +2586,24 @@
   {
     "item": "Goldwyrm",
     "stats": "#% increased maximum energy shield",
+    "average": 5,
+    "prices": [
+      3,
+      4,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5
+    ],
+    "search": {
+      "id": "5okOd7nTa",
+      "complexity": 18,
+      "total": 309
+    },
     "builds": 2,
     "mods": [
       {
@@ -2455,6 +2617,24 @@
   {
     "item": "Goldwyrm",
     "stats": "+# to level of socketed curse gems",
+    "average": 4.3,
+    "prices": [
+      3,
+      3,
+      3,
+      4,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5
+    ],
+    "search": {
+      "id": "oZ89EgYsl",
+      "complexity": 18,
+      "total": 366
+    },
     "builds": 2,
     "mods": [
       {
@@ -2468,6 +2648,15 @@
   {
     "item": "Asenath's Gentle Touch",
     "stats": "+# to level of socketed aoe gems, curse enemies with vulnerability on hit",
+    "average": 434.78,
+    "prices": [
+      434.78
+    ],
+    "search": {
+      "id": "GkJjeOBUb",
+      "complexity": 29,
+      "total": 1
+    },
     "builds": 2,
     "mods": [
       {
@@ -2487,6 +2676,16 @@
   {
     "item": "Asenath's Gentle Touch",
     "stats": "+# to level of socketed trap or mine gems, curse enemies with vulnerability on hit",
+    "average": 30,
+    "prices": [
+      20,
+      40
+    ],
+    "search": {
+      "id": "mXgb3lrT6",
+      "complexity": 29,
+      "total": 2
+    },
     "builds": 2,
     "mods": [
       {
@@ -2506,6 +2705,24 @@
   {
     "item": "Asenath's Gentle Touch",
     "stats": "curse enemies with despair on hit",
+    "average": 217.38999999999993,
+    "prices": [
+      240.74999999999997,
+      195.65099999999998,
+      217.39,
+      217.39,
+      217.39,
+      217.39,
+      217.39,
+      217.39,
+      217.39,
+      217.39
+    ],
+    "search": {
+      "id": "XkOGbebuP",
+      "complexity": 18,
+      "total": 283
+    },
     "builds": 2,
     "mods": [
       {
@@ -2519,6 +2736,24 @@
   {
     "item": "March of the Legion",
     "stats": "+# to level of socketed duration gems",
+    "average": 6.8,
+    "prices": [
+      2,
+      4,
+      4,
+      5,
+      5,
+      8,
+      10,
+      10,
+      10,
+      10
+    ],
+    "search": {
+      "id": "rXjkno7TQ",
+      "complexity": 18,
+      "total": 124
+    },
     "builds": 2,
     "mods": [
       {
@@ -2532,6 +2767,24 @@
   {
     "item": "Hyrri's Truth",
     "stats": "you can apply an additional curse",
+    "average": 50,
+    "prices": [
+      15,
+      42.8,
+      40,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50
+    ],
+    "search": {
+      "id": "rY5YQ07CQ",
+      "complexity": 18,
+      "total": 240
+    },
     "builds": 2,
     "mods": [
       {
