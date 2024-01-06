@@ -9091,6 +9091,24 @@
   {
     "item": "Cold Iron Point",
     "stats": "#% chance to gain unholy might for 3 seconds on kill",
+    "average": 36.4,
+    "prices": [
+      24,
+      25,
+      25,
+      30,
+      40,
+      40,
+      40,
+      40,
+      50,
+      50
+    ],
+    "search": {
+      "id": "9Y2wm70uK",
+      "complexity": 18,
+      "total": 70
+    },
     "builds": 1,
     "mods": [
       {
@@ -9104,6 +9122,24 @@
   {
     "item": "Cold Iron Point",
     "stats": "#% increased damage over time",
+    "average": 314.0077777777778,
+    "prices": [
+      260.868,
+      282.60699999999997,
+      282.60699999999997,
+      304.34599999999995,
+      326.085,
+      326.085,
+      326.085,
+      326.085,
+      326.085,
+      326.085
+    ],
+    "search": {
+      "id": "z273V4RI4",
+      "complexity": 18,
+      "total": 45
+    },
     "builds": 1,
     "mods": [
       {
@@ -9117,6 +9153,24 @@
   {
     "item": "Cold Iron Point",
     "stats": "#% increased global critical strike chance",
+    "average": 4,
+    "prices": [
+      3,
+      3,
+      3,
+      4,
+      4,
+      4,
+      4,
+      5,
+      5,
+      5
+    ],
+    "search": {
+      "id": "LeWqod2sn",
+      "complexity": 18,
+      "total": 1033
+    },
     "builds": 1,
     "mods": [
       {
@@ -9130,6 +9184,21 @@
   {
     "item": "Skin of the Loyal",
     "stats": "+# to level of socketed minion gems",
+    "average": 1583.8414285714284,
+    "prices": [
+      434.78,
+      869.56,
+      869.56,
+      2173.8999999999996,
+      2173.8999999999996,
+      2173.8999999999996,
+      2391.29
+    ],
+    "search": {
+      "id": "Eyeq6dYf5",
+      "complexity": 18,
+      "total": 7
+    },
     "builds": 1,
     "mods": [
       {
@@ -9143,6 +9212,16 @@
   {
     "item": "Skin of the Loyal",
     "stats": "+# to level of socketed aoe gems, +# to level of socketed projectile gems",
+    "average": 8586.904999999999,
+    "prices": [
+      2173.8999999999996,
+      14999.91
+    ],
+    "search": {
+      "id": "XqD4GedCP",
+      "complexity": 29,
+      "total": 2
+    },
     "builds": 1,
     "mods": [
       {
@@ -9162,6 +9241,16 @@
   {
     "item": "Skin of the Loyal",
     "stats": "+# to level of socketed duration gems, #% increased maximum energy shield",
+    "average": 1086.95,
+    "prices": [
+      652.17,
+      1521.73
+    ],
+    "search": {
+      "id": "DL3Vd74H5",
+      "complexity": 29,
+      "total": 2
+    },
     "builds": 1,
     "mods": [
       {
@@ -9181,6 +9270,15 @@
   {
     "item": "March of the Legion",
     "stats": "+# to level of socketed gems, +# to level of socketed aura gems",
+    "average": 82608.2,
+    "prices": [
+      82608.2
+    ],
+    "search": {
+      "id": "GZyEJaBhb",
+      "complexity": 29,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -9200,6 +9298,13 @@
   {
     "item": "March of the Legion",
     "stats": "#% increased maximum energy shield, #% increased maximum life",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "jPpzDkXSX",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -9219,6 +9324,16 @@
   {
     "item": "March of the Legion",
     "stats": "+# to level of socketed aura gems, #% increased movement speed",
+    "average": 21086.829999999998,
+    "prices": [
+      3043.46,
+      39130.2
+    ],
+    "search": {
+      "id": "eXJOaKrIL",
+      "complexity": 29,
+      "total": 2
+    },
     "builds": 1,
     "mods": [
       {
@@ -9238,6 +9353,24 @@
   {
     "item": "March of the Legion",
     "stats": "+# to level of socketed trap or mine gems",
+    "average": 10.88888888888889,
+    "prices": [
+      5,
+      9,
+      9,
+      10,
+      10,
+      10,
+      10,
+      10,
+      15,
+      15
+    ],
+    "search": {
+      "id": "DL497bvC5",
+      "complexity": 18,
+      "total": 73
+    },
     "builds": 1,
     "mods": [
       {
@@ -9251,6 +9384,24 @@
   {
     "item": "March of the Legion",
     "stats": "+# to level of socketed projectile gems",
+    "average": 7.2,
+    "prices": [
+      4,
+      5,
+      5,
+      5,
+      5,
+      8,
+      10,
+      10,
+      10,
+      10
+    ],
+    "search": {
+      "id": "rXjkzWgCQ",
+      "complexity": 18,
+      "total": 81
+    },
     "builds": 1,
     "mods": [
       {
@@ -9264,6 +9415,15 @@
   {
     "item": "March of the Legion",
     "stats": "+# to level of socketed aoe gems, +# to level of socketed aura gems",
+    "average": 112825.40999999999,
+    "prices": [
+      112825.40999999999
+    ],
+    "search": {
+      "id": "eXW9nbWFL",
+      "complexity": 29,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -9283,6 +9443,16 @@
   {
     "item": "March of the Legion",
     "stats": "+# to level of socketed projectile gems, +# to level of socketed aura gems",
+    "average": 14130.35,
+    "prices": [
+      6521.7,
+      21739
+    ],
+    "search": {
+      "id": "bXpqEozHL",
+      "complexity": 29,
+      "total": 2
+    },
     "builds": 1,
     "mods": [
       {
@@ -9302,6 +9472,17 @@
   {
     "item": "March of the Legion",
     "stats": "+# to level of socketed aoe gems, +# to level of socketed projectile gems",
+    "average": 3260.85,
+    "prices": [
+      180,
+      3260.85,
+      3260.85
+    ],
+    "search": {
+      "id": "VMKlbvwhp",
+      "complexity": 29,
+      "total": 3
+    },
     "builds": 1,
     "mods": [
       {
@@ -9321,6 +9502,24 @@
   {
     "item": "Hyrri's Truth",
     "stats": "#% increased movement speed",
+    "average": 10,
+    "prices": [
+      10,
+      10,
+      10,
+      10,
+      10,
+      10,
+      10,
+      10,
+      10,
+      11
+    ],
+    "search": {
+      "id": "y9E6RWBhR",
+      "complexity": 18,
+      "total": 89
+    },
     "builds": 1,
     "mods": [
       {
