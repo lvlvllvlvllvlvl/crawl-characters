@@ -14152,6 +14152,24 @@
   {
     "item": "The Magnate",
     "stats": "+#% to all elemental resistances",
+    "average": 97.5,
+    "prices": [
+      70,
+      80,
+      90,
+      90,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100
+    ],
+    "search": {
+      "id": "mXjMRMeT6",
+      "complexity": 18,
+      "total": 62
+    },
     "builds": 1,
     "mods": [
       {
@@ -14165,6 +14183,24 @@
   {
     "item": "Abyssus",
     "stats": "+# to maximum power charges",
+    "average": 59.9,
+    "prices": [
+      25,
+      40,
+      50,
+      50,
+      50,
+      60,
+      60,
+      65,
+      99,
+      100
+    ],
+    "search": {
+      "id": "aqeEGJ7se",
+      "complexity": 18,
+      "total": 75
+    },
     "builds": 1,
     "mods": [
       {
@@ -14178,6 +14214,24 @@
   {
     "item": "Abyssus",
     "stats": "socketed skill gems get a #% cost & reservation multiplier",
+    "average": 1123.1816666666664,
+    "prices": [
+      434.78,
+      869.56,
+      869.56,
+      978.2549999999999,
+      1086.9499999999998,
+      1086.9499999999998,
+      1086.9499999999998,
+      1086.9499999999998,
+      1521.73,
+      1521.73
+    ],
+    "search": {
+      "id": "OVwqQKaTE",
+      "complexity": 18,
+      "total": 35
+    },
     "builds": 1,
     "mods": [
       {
@@ -14191,6 +14245,24 @@
   {
     "item": "Voidforge",
     "stats": "#% increased elemental damage with attack skills",
+    "average": 11169.498199999998,
+    "prices": [
+      10652.109999999999,
+      10869.5,
+      10869.5,
+      11086.89,
+      11304.279999999999,
+      11304.279999999999,
+      11304.279999999999,
+      11304.279999999999,
+      11499.930999999999,
+      11499.930999999999
+    ],
+    "search": {
+      "id": "rXmE2XmfQ",
+      "complexity": 18,
+      "total": 58
+    },
     "builds": 1,
     "mods": [
       {
@@ -14204,6 +14276,18 @@
   {
     "item": "Piscator's Vigil",
     "stats": "#% increased critical strike chance, damage penetrates #% elemental resistances",
+    "average": 2681.1433333333334,
+    "prices": [
+      1086.9499999999998,
+      1521.73,
+      5434.75,
+      15217.3
+    ],
+    "search": {
+      "id": "Rq6rDKrt7",
+      "complexity": 29,
+      "total": 4
+    },
     "builds": 1,
     "mods": [
       {
@@ -14223,6 +14307,15 @@
   {
     "item": "Piscator's Vigil",
     "stats": "adds # to # cold damage, #% increased attack speed",
+    "average": 1521.73,
+    "prices": [
+      1521.73
+    ],
+    "search": {
+      "id": "XqYYyXRHP",
+      "complexity": 31,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -14244,6 +14337,24 @@
   {
     "item": "Ceinture of Benevolence",
     "stats": "#% increased maximum energy shield",
+    "average": 28.8,
+    "prices": [
+      15,
+      18,
+      20,
+      20,
+      25,
+      35,
+      35,
+      40,
+      40,
+      40
+    ],
+    "search": {
+      "id": "XkOX59dCP",
+      "complexity": 18,
+      "total": 48
+    },
     "builds": 1,
     "mods": [
       {
@@ -14257,6 +14368,24 @@
   {
     "item": "Ceinture of Benevolence",
     "stats": "#% increased area of effect",
+    "average": 17,
+    "prices": [
+      10,
+      10,
+      10,
+      10,
+      15,
+      15,
+      20,
+      20,
+      30,
+      30
+    ],
+    "search": {
+      "id": "LmoGMRGSn",
+      "complexity": 18,
+      "total": 38
+    },
     "builds": 1,
     "mods": [
       {
@@ -14270,6 +14399,24 @@
   {
     "item": "Ceinture of Benevolence",
     "stats": "grace has #% increased aura effect",
+    "average": 11.8,
+    "prices": [
+      5,
+      10,
+      10,
+      10,
+      10,
+      10,
+      15,
+      15,
+      15,
+      18
+    ],
+    "search": {
+      "id": "eXvX9pghL",
+      "complexity": 18,
+      "total": 48
+    },
     "builds": 1,
     "mods": [
       {
@@ -14283,6 +14430,24 @@
   {
     "item": "Ceinture of Benevolence",
     "stats": "#% increased dexterity, #% increased intelligence",
+    "average": 18.6,
+    "prices": [
+      15,
+      15,
+      17,
+      19,
+      20,
+      20,
+      20,
+      20,
+      20,
+      20
+    ],
+    "search": {
+      "id": "z27GVXRI4",
+      "complexity": 29,
+      "total": 54
+    },
     "builds": 1,
     "mods": [
       {
@@ -14302,6 +14467,24 @@
   {
     "item": "Ceinture of Benevolence",
     "stats": "determination has #% increased aura effect",
+    "average": 10.2,
+    "prices": [
+      5,
+      5,
+      9,
+      9,
+      9,
+      10,
+      10,
+      15,
+      15,
+      15
+    ],
+    "search": {
+      "id": "DL89vj2T5",
+      "complexity": 18,
+      "total": 63
+    },
     "builds": 1,
     "mods": [
       {
@@ -14315,6 +14498,24 @@
   {
     "item": "Ceinture of Benevolence",
     "stats": "anger has #% increased aura effect",
+    "average": 11.217777777777778,
+    "prices": [
+      5,
+      9,
+      10,
+      10,
+      10,
+      10,
+      10,
+      11.96,
+      15,
+      15
+    ],
+    "search": {
+      "id": "2Ba6Ypjhk",
+      "complexity": 18,
+      "total": 47
+    },
     "builds": 1,
     "mods": [
       {
@@ -14328,6 +14529,13 @@
   {
     "item": "Ceinture of Benevolence",
     "stats": "#% increased maximum energy shield, #% increased cast speed during any flask effect",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "kXlZRd3U5",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -14347,6 +14555,24 @@
   {
     "item": "Ceinture of Benevolence",
     "stats": "hatred has #% increased aura effect",
+    "average": 14.9,
+    "prices": [
+      4,
+      5,
+      5,
+      15,
+      15,
+      20,
+      20,
+      20,
+      20,
+      25
+    ],
+    "search": {
+      "id": "oX7Dn3Osl",
+      "complexity": 18,
+      "total": 57
+    },
     "builds": 1,
     "mods": [
       {
@@ -14360,6 +14586,13 @@
   {
     "item": "Rathpith Globe",
     "stats": "+# to level of socketed aoe gems, +# to level of socketed warcry gems",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "KJXDXEPI5",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
