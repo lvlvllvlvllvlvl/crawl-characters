@@ -248,6 +248,38 @@
     ]
   },
   {
+    "item": "Goldwyrm",
+    "stats": "+#% chance to suppress spell damage",
+    "average": 5.285714285714286,
+    "prices": [
+      2,
+      5,
+      5,
+      5,
+      5,
+      5,
+      6,
+      6,
+      7,
+      8
+    ],
+    "search": {
+      "id": "EG8VqLZU5",
+      "complexity": 19,
+      "total": 551
+    },
+    "builds": 9,
+    "mods": [
+      {
+        "text": "+#% chance to suppress spell damage",
+        "trade_ids": [
+          "implicit.stat_3680664274",
+          "implicit.stat_492027537"
+        ]
+      }
+    ]
+  },
+  {
     "item": "Vaal Caress",
     "stats": "+# to level of socketed aoe gems",
     "average": 1182.6016,
@@ -310,38 +342,6 @@
     ]
   },
   {
-    "item": "Goldwyrm",
-    "stats": "+#% chance to suppress spell damage",
-    "average": 5.285714285714286,
-    "prices": [
-      2,
-      5,
-      5,
-      5,
-      5,
-      5,
-      6,
-      6,
-      7,
-      8
-    ],
-    "search": {
-      "id": "EG8VqLZU5",
-      "complexity": 19,
-      "total": 551
-    },
-    "builds": 8,
-    "mods": [
-      {
-        "text": "+#% chance to suppress spell damage",
-        "trade_ids": [
-          "implicit.stat_3680664274",
-          "implicit.stat_492027537"
-        ]
-      }
-    ]
-  },
-  {
     "item": "Kaom's Heart",
     "stats": "#% increased damage",
     "average": 18.304333333333332,
@@ -368,6 +368,37 @@
         "text": "#% increased damage",
         "trade_ids": [
           "implicit.stat_2154246560"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Eyes of the Greatwolf",
+    "stats": "#% increased quantity of items found",
+    "average": 30,
+    "prices": [
+      10,
+      20,
+      29,
+      30,
+      30,
+      30,
+      30,
+      30,
+      38,
+      40
+    ],
+    "search": {
+      "id": "ZPQr9XbfQ",
+      "complexity": 18,
+      "total": 3248
+    },
+    "builds": 8,
+    "mods": [
+      {
+        "text": "#% increased quantity of items found",
+        "trade_ids": [
+          "implicit.stat_884586851"
         ]
       }
     ]
@@ -523,37 +554,6 @@
         "text": "+# to level of socketed aoe gems",
         "trade_ids": [
           "implicit.stat_2551600084"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Eyes of the Greatwolf",
-    "stats": "#% increased quantity of items found",
-    "average": 30,
-    "prices": [
-      10,
-      20,
-      29,
-      30,
-      30,
-      30,
-      30,
-      30,
-      38,
-      40
-    ],
-    "search": {
-      "id": "ZPQr9XbfQ",
-      "complexity": 18,
-      "total": 3248
-    },
-    "builds": 7,
-    "mods": [
-      {
-        "text": "#% increased quantity of items found",
-        "trade_ids": [
-          "implicit.stat_884586851"
         ]
       }
     ]
@@ -16823,6 +16823,24 @@
   {
     "item": "Gravebind",
     "stats": "curse enemies with temporal chains on hit",
+    "average": 63,
+    "prices": [
+      50,
+      50,
+      60,
+      60,
+      60,
+      60,
+      70,
+      70,
+      75,
+      75
+    ],
+    "search": {
+      "id": "jXjawVWTX",
+      "complexity": 18,
+      "total": 57
+    },
     "builds": 1,
     "mods": [
       {
@@ -16836,6 +16854,24 @@
   {
     "item": "Arakaali's Fang",
     "stats": "#% chance to gain a frenzy charge on kill",
+    "average": 158.84,
+    "prices": [
+      90,
+      90,
+      100,
+      140,
+      140,
+      217.39,
+      217.39,
+      217.39,
+      217.39,
+      434.78
+    ],
+    "search": {
+      "id": "oXjZ0EOsl",
+      "complexity": 18,
+      "total": 13
+    },
     "builds": 1,
     "mods": [
       {
@@ -16849,6 +16885,19 @@
   {
     "item": "Black Zenith",
     "stats": "curse enemies with temporal chains on hit",
+    "average": 58.333333333333336,
+    "prices": [
+      3,
+      50,
+      60,
+      65,
+      2173.8999999999996
+    ],
+    "search": {
+      "id": "VMQOgQrcp",
+      "complexity": 18,
+      "total": 5
+    },
     "builds": 1,
     "mods": [
       {
@@ -16862,6 +16911,20 @@
   {
     "item": "Replica Voidwalker",
     "stats": "regenerate # life per second while moving",
+    "average": 354.8533333333333,
+    "prices": [
+      40,
+      150,
+      217.39,
+      200,
+      652.17,
+      869.56
+    ],
+    "search": {
+      "id": "RVD9VYZI7",
+      "complexity": 18,
+      "total": 6
+    },
     "builds": 1,
     "mods": [
       {
@@ -16875,6 +16938,24 @@
   {
     "item": "Zeel's Amplifier",
     "stats": "+# to level of socketed aoe gems",
+    "average": 10.708,
+    "prices": [
+      5,
+      5,
+      5,
+      5,
+      10.08,
+      10,
+      14,
+      15,
+      18,
+      20
+    ],
+    "search": {
+      "id": "Zb4Eb8mHQ",
+      "complexity": 18,
+      "total": 43
+    },
     "builds": 1,
     "mods": [
       {
@@ -16888,6 +16969,13 @@
   {
     "item": "Zeel's Amplifier",
     "stats": "+# to level of socketed aoe gems, you take #% reduced extra damage from critical strikes",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "8qB66P8UV",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -16907,6 +16995,24 @@
   {
     "item": "Zeel's Amplifier",
     "stats": "+# to level of socketed gems",
+    "average": 19.666666666666668,
+    "prices": [
+      17,
+      18,
+      19,
+      19,
+      20,
+      20,
+      20,
+      20,
+      30,
+      40
+    ],
+    "search": {
+      "id": "4qnPaPvC9",
+      "complexity": 18,
+      "total": 48
+    },
     "builds": 1,
     "mods": [
       {
@@ -16920,6 +17026,13 @@
   {
     "item": "Zeel's Amplifier",
     "stats": "+# to level of socketed gems, #% of physical damage from hits taken as lightning damage",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "2BrRVbeUk",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -16939,6 +17052,24 @@
   {
     "item": "Daresso's Defiance",
     "stats": "+# to level of socketed duration gems",
+    "average": 32.5,
+    "prices": [
+      20,
+      20,
+      20,
+      25,
+      40,
+      40,
+      40,
+      40,
+      40,
+      40
+    ],
+    "search": {
+      "id": "zerWLqLc4",
+      "complexity": 18,
+      "total": 23
+    },
     "builds": 1,
     "mods": [
       {
@@ -16952,6 +17083,24 @@
   {
     "item": "Daresso's Defiance",
     "stats": "+# to level of socketed gems",
+    "average": 105.95599999999999,
+    "prices": [
+      10,
+      20,
+      35,
+      35,
+      40,
+      50,
+      217.39,
+      217.39,
+      217.39,
+      217.39
+    ],
+    "search": {
+      "id": "vladEZjCE",
+      "complexity": 18,
+      "total": 22
+    },
     "builds": 1,
     "mods": [
       {
@@ -16965,6 +17114,24 @@
   {
     "item": "Surgebinders",
     "stats": "curse enemies with elemental weakness on hit",
+    "average": 165.695,
+    "prices": [
+      100,
+      100,
+      100,
+      120,
+      150,
+      217.39,
+      217.39,
+      217.39,
+      217.39,
+      217.39
+    ],
+    "search": {
+      "id": "YVqMpa6sY",
+      "complexity": 18,
+      "total": 110
+    },
     "builds": 1,
     "mods": [
       {
@@ -16978,6 +17145,13 @@
   {
     "item": "Surgebinders",
     "stats": "+# to level of socketed aura gems, curse enemies with elemental weakness on hit",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "jXZ4nRoTX",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -16997,6 +17171,15 @@
   {
     "item": "Surgebinders",
     "stats": "+# to level of socketed aoe gems, curse enemies with elemental weakness on hit",
+    "average": 217.39,
+    "prices": [
+      217.39
+    ],
+    "search": {
+      "id": "DqMl5OXf5",
+      "complexity": 29,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -17014,8 +17197,96 @@
     ]
   },
   {
+    "item": "Hyrri's Ire",
+    "stats": "+# to level of socketed gems, #% increased maximum energy shield",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "+# to level of socketed gems",
+        "trade_ids": [
+          "implicit.stat_2843100721"
+        ]
+      },
+      {
+        "text": "#% increased maximum energy shield",
+        "trade_ids": [
+          "implicit.stat_2482852589"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Hyrri's Ire",
+    "stats": "you take #% reduced extra damage from critical strikes, +#% to all maximum resistances",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "you take #% reduced extra damage from critical strikes",
+        "trade_ids": [
+          "implicit.stat_3855016469"
+        ]
+      },
+      {
+        "text": "+#% to all maximum resistances",
+        "trade_ids": [
+          "implicit.stat_569299859"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Hyrri's Ire",
+    "stats": "+# to level of socketed minion gems",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "+# to level of socketed minion gems",
+        "trade_ids": [
+          "implicit.stat_3604946673"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Hyrri's Ire",
+    "stats": "+# to level of socketed gems, +# to level of socketed projectile gems",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "+# to level of socketed gems",
+        "trade_ids": [
+          "implicit.stat_2843100721"
+        ]
+      },
+      {
+        "text": "+# to level of socketed projectile gems",
+        "trade_ids": [
+          "implicit.stat_2176571093"
+        ]
+      }
+    ]
+  },
+  {
     "item": "Machina Mitts",
     "stats": "curse enemies with elemental weakness on hit",
+    "average": 217.38999999999993,
+    "prices": [
+      217.39,
+      217.39,
+      217.39,
+      217.39,
+      217.39,
+      217.39,
+      217.39,
+      217.39,
+      217.39,
+      217.39
+    ],
+    "search": {
+      "id": "0B8PL7bFg",
+      "complexity": 18,
+      "total": 19
+    },
     "builds": 1,
     "mods": [
       {
@@ -17029,6 +17300,13 @@
   {
     "item": "Machina Mitts",
     "stats": "#% increased maximum life, +#% to spell critical strike chance",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "RVYKX9qi7",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -18369,57 +18647,6 @@
         "text": "zealotry has #% increased aura effect",
         "trade_ids": [
           "implicit.stat_4096052153"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Hyrri's Ire",
-    "stats": "you take #% reduced extra damage from critical strikes, +#% to all maximum resistances",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "you take #% reduced extra damage from critical strikes",
-        "trade_ids": [
-          "implicit.stat_3855016469"
-        ]
-      },
-      {
-        "text": "+#% to all maximum resistances",
-        "trade_ids": [
-          "implicit.stat_569299859"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Hyrri's Ire",
-    "stats": "+# to level of socketed minion gems",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "+# to level of socketed minion gems",
-        "trade_ids": [
-          "implicit.stat_3604946673"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Hyrri's Ire",
-    "stats": "+# to level of socketed gems, +# to level of socketed projectile gems",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "+# to level of socketed gems",
-        "trade_ids": [
-          "implicit.stat_2843100721"
-        ]
-      },
-      {
-        "text": "+# to level of socketed projectile gems",
-        "trade_ids": [
-          "implicit.stat_2176571093"
         ]
       }
     ]
