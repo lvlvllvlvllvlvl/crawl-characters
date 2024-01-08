@@ -6914,6 +6914,24 @@
   {
     "item": "Call of the Brotherhood",
     "stats": "#% increased strength, #% increased intelligence",
+    "average": 15.88888888888889,
+    "prices": [
+      9,
+      10,
+      10,
+      15,
+      15,
+      19,
+      20,
+      20,
+      25,
+      30
+    ],
+    "search": {
+      "id": "XkOE08kIP",
+      "complexity": 29,
+      "total": 81
+    },
     "builds": 1,
     "mods": [
       {
@@ -6933,6 +6951,13 @@
   {
     "item": "Call of the Brotherhood",
     "stats": "grants level # hatred skill, #% increased strength, #% increased intelligence",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "DLp8K6vu5",
+      "complexity": 20,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -6958,6 +6983,24 @@
   {
     "item": "Call of the Brotherhood",
     "stats": "wrath has #% increased aura effect",
+    "average": 17.333333333333332,
+    "prices": [
+      10,
+      12,
+      15,
+      15,
+      15,
+      20,
+      20,
+      24,
+      25,
+      30
+    ],
+    "search": {
+      "id": "OVwYd2VtE",
+      "complexity": 18,
+      "total": 82
+    },
     "builds": 1,
     "mods": [
       {
@@ -6971,6 +7014,24 @@
   {
     "item": "Call of the Brotherhood",
     "stats": "hatred has #% increased aura effect",
+    "average": 956.516,
+    "prices": [
+      760.865,
+      760.865,
+      869.56,
+      869.56,
+      869.56,
+      1086.9499999999998,
+      1086.9499999999998,
+      1086.9499999999998,
+      1086.9499999999998,
+      1086.9499999999998
+    ],
+    "search": {
+      "id": "JYDZWMbUl",
+      "complexity": 18,
+      "total": 65
+    },
     "builds": 1,
     "mods": [
       {
@@ -6984,6 +7045,13 @@
   {
     "item": "Heatshiver",
     "stats": "+# to level of socketed duration gems, +# to level of socketed aoe gems",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "MvRLBlGcJ",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -7003,6 +7071,13 @@
   {
     "item": "Heatshiver",
     "stats": "+# to level of socketed projectile gems, #% increased maximum life",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "gXDZdRgUQ",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -7022,6 +7097,24 @@
   {
     "item": "Heatshiver",
     "stats": "#% increased effect of cold ailments",
+    "average": 10,
+    "prices": [
+      5,
+      8,
+      10,
+      10,
+      10,
+      10,
+      10,
+      10,
+      10,
+      10
+    ],
+    "search": {
+      "id": "4drzQXgt9",
+      "complexity": 18,
+      "total": 252
+    },
     "builds": 1,
     "mods": [
       {
@@ -7035,6 +7128,15 @@
   {
     "item": "Heatshiver",
     "stats": "+# to level of socketed duration gems, #% increased maximum life",
+    "average": 217.39,
+    "prices": [
+      217.39
+    ],
+    "search": {
+      "id": "kXjobJQh5",
+      "complexity": 29,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -7054,6 +7156,24 @@
   {
     "item": "Heatshiver",
     "stats": "#% of lightning damage leeched as life",
+    "average": 7.5,
+    "prices": [
+      3,
+      5,
+      5,
+      5,
+      8,
+      9,
+      10,
+      10,
+      10,
+      10
+    ],
+    "search": {
+      "id": "pXkjkjvT0",
+      "complexity": 19,
+      "total": 108
+    },
     "builds": 1,
     "mods": [
       {
@@ -7068,6 +7188,24 @@
   {
     "item": "Heatshiver",
     "stats": "#% increased effect of shock",
+    "average": 11.333333333333334,
+    "prices": [
+      5,
+      9,
+      9,
+      10,
+      10,
+      10,
+      10,
+      14,
+      15,
+      15
+    ],
+    "search": {
+      "id": "KJLypO6i5",
+      "complexity": 18,
+      "total": 196
+    },
     "builds": 1,
     "mods": [
       {
@@ -7081,6 +7219,24 @@
   {
     "item": "Watcher's Eye",
     "stats": "#% reduced effect of chill on you",
+    "average": 66.25,
+    "prices": [
+      30,
+      30,
+      40,
+      50,
+      80,
+      100,
+      100,
+      100,
+      180,
+      217.39
+    ],
+    "search": {
+      "id": "Zb5baJRTQ",
+      "complexity": 18,
+      "total": 59
+    },
     "builds": 1,
     "mods": [
       {
@@ -7094,6 +7250,24 @@
   {
     "item": "Watcher's Eye",
     "stats": "damage penetrates #% lightning resistance",
+    "average": 52,
+    "prices": [
+      27,
+      40,
+      40,
+      50,
+      50,
+      50,
+      60,
+      60,
+      66,
+      80
+    ],
+    "search": {
+      "id": "6ZbVbrXIG",
+      "complexity": 19,
+      "total": 80
+    },
     "builds": 1,
     "mods": [
       {
@@ -7108,6 +7282,24 @@
   {
     "item": "Watcher's Eye",
     "stats": "minions deal #% increased damage",
+    "average": 59.5,
+    "prices": [
+      30,
+      50,
+      50,
+      50,
+      50,
+      50,
+      55,
+      60,
+      100,
+      100
+    ],
+    "search": {
+      "id": "8a24E4qsV",
+      "complexity": 18,
+      "total": 61
+    },
     "builds": 1,
     "mods": [
       {
@@ -7121,6 +7313,16 @@
   {
     "item": "Watcher's Eye",
     "stats": "#% increased global critical strike chance, #% reduced poison duration on you",
+    "average": 647.8225,
+    "prices": [
+      100,
+      1195.645
+    ],
+    "search": {
+      "id": "vlEXWkjHE",
+      "complexity": 29,
+      "total": 2
+    },
     "builds": 1,
     "mods": [
       {
@@ -7140,6 +7342,24 @@
   {
     "item": "Incandescent Heart",
     "stats": "#% reduced chaos damage taken",
+    "average": 45,
+    "prices": [
+      10,
+      15,
+      20,
+      30,
+      30,
+      50,
+      50,
+      100,
+      100,
+      150
+    ],
+    "search": {
+      "id": "pXvdEoJT0",
+      "complexity": 18,
+      "total": 26
+    },
     "builds": 1,
     "mods": [
       {
