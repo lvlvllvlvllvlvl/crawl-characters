@@ -10379,6 +10379,24 @@
   {
     "item": "Ancestral Vision",
     "stats": "#% increased damage",
+    "average": 40.7,
+    "prices": [
+      37,
+      40,
+      40,
+      40,
+      40,
+      40,
+      40,
+      40,
+      45,
+      45
+    ],
+    "search": {
+      "id": "LmdwQrBHn",
+      "complexity": 18,
+      "total": 63
+    },
     "builds": 1,
     "mods": [
       {
@@ -10392,6 +10410,15 @@
   {
     "item": "Cherrubim's Maleficence",
     "stats": "+# to level of socketed gems, +# to level of socketed aoe gems",
+    "average": 6956.48,
+    "prices": [
+      6956.48
+    ],
+    "search": {
+      "id": "BGrm5KLf8",
+      "complexity": 29,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -10411,6 +10438,15 @@
   {
     "item": "Bisco's Leash",
     "stats": "#% increased rarity of items found, discipline has #% increased aura effect",
+    "average": 2173.8999999999996,
+    "prices": [
+      2173.8999999999996
+    ],
+    "search": {
+      "id": "3BZbrBkF5",
+      "complexity": 29,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -10430,6 +10466,24 @@
   {
     "item": "Bisco's Leash",
     "stats": "#% increased critical strike chance during any flask effect",
+    "average": 10,
+    "prices": [
+      5,
+      8,
+      9,
+      10,
+      10,
+      10,
+      10,
+      10,
+      10,
+      10
+    ],
+    "search": {
+      "id": "jPpo3RdfX",
+      "complexity": 18,
+      "total": 145
+    },
     "builds": 1,
     "mods": [
       {
@@ -10443,6 +10497,24 @@
   {
     "item": "Bisco's Leash",
     "stats": "#% increased quantity of items found",
+    "average": 956.516,
+    "prices": [
+      652.17,
+      652.17,
+      652.17,
+      869.56,
+      1086.9499999999998,
+      1086.9499999999998,
+      1086.9499999999998,
+      1086.9499999999998,
+      1086.9499999999998,
+      1304.34
+    ],
+    "search": {
+      "id": "80ZXWR2UV",
+      "complexity": 18,
+      "total": 51
+    },
     "builds": 1,
     "mods": [
       {
@@ -10456,6 +10528,24 @@
   {
     "item": "Bisco's Leash",
     "stats": "#% increased maximum energy shield",
+    "average": 7.7,
+    "prices": [
+      5,
+      5,
+      5,
+      7,
+      8,
+      8,
+      9,
+      10,
+      10,
+      10
+    ],
+    "search": {
+      "id": "kX5We2ji5",
+      "complexity": 18,
+      "total": 84
+    },
     "builds": 1,
     "mods": [
       {
@@ -10469,6 +10559,24 @@
   {
     "item": "Anathema",
     "stats": "adds # to # lightning damage to spells and attacks",
+    "average": 156.93399999999997,
+    "prices": [
+      20,
+      50,
+      95,
+      100,
+      217.39,
+      217.39,
+      217.39,
+      217.39,
+      217.39,
+      217.39
+    ],
+    "search": {
+      "id": "0B8O6p8Fg",
+      "complexity": 18,
+      "total": 11
+    },
     "builds": 1,
     "mods": [
       {
@@ -10482,6 +10590,13 @@
   {
     "item": "Anathema",
     "stats": "#% increased strength, #% increased dexterity, grace has #% increased aura effect",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "QVOrDlvfw",
+      "complexity": 20,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -10507,6 +10622,17 @@
   {
     "item": "Anathema",
     "stats": "#% increased attack speed",
+    "average": 1413.0349999999999,
+    "prices": [
+      652.17,
+      2173.8999999999996,
+      27173.75
+    ],
+    "search": {
+      "id": "zeovLqLc4",
+      "complexity": 19,
+      "total": 3
+    },
     "builds": 1,
     "mods": [
       {
@@ -10521,6 +10647,15 @@
   {
     "item": "Anathema",
     "stats": "#% increased cast speed",
+    "average": 1739.12,
+    "prices": [
+      1739.12
+    ],
+    "search": {
+      "id": "JYm7jvOIl",
+      "complexity": 18,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -10534,6 +10669,21 @@
   {
     "item": "Anathema",
     "stats": "#% increased strength, #% increased intelligence",
+    "average": 320.46799999999996,
+    "prices": [
+      148,
+      150,
+      217.39,
+      434.78,
+      652.17,
+      1086.9499999999998,
+      1739.12
+    ],
+    "search": {
+      "id": "LmdED02in",
+      "complexity": 29,
+      "total": 7
+    },
     "builds": 1,
     "mods": [
       {
@@ -10553,6 +10703,19 @@
   {
     "item": "Anathema",
     "stats": "bleeding cannot be inflicted on you",
+    "average": 18869.452,
+    "prices": [
+      5217.36,
+      5434.75,
+      7608.65,
+      38043.25,
+      38043.25
+    ],
+    "search": {
+      "id": "rY5MGMECQ",
+      "complexity": 18,
+      "total": 5
+    },
     "builds": 1,
     "mods": [
       {
@@ -10566,6 +10729,22 @@
   {
     "item": "Anathema",
     "stats": "zealotry has #% increased aura effect",
+    "average": 1739.1199999999997,
+    "prices": [
+      1304.34,
+      1521.73,
+      1521.73,
+      1739.12,
+      1739.12,
+      2173.8999999999996,
+      2173.8999999999996,
+      5217.36
+    ],
+    "search": {
+      "id": "wpRMq0Bhb",
+      "complexity": 18,
+      "total": 8
+    },
     "builds": 1,
     "mods": [
       {
@@ -10579,6 +10758,19 @@
   {
     "item": "Astral Projector",
     "stats": "hatred has #% increased aura effect",
+    "average": 1684.7725,
+    "prices": [
+      1521.73,
+      1521.73,
+      1739.12,
+      1956.5099999999998,
+      4347.799999999999
+    ],
+    "search": {
+      "id": "BEXrk6Xt8",
+      "complexity": 18,
+      "total": 5
+    },
     "builds": 1,
     "mods": [
       {
@@ -10592,6 +10784,19 @@
   {
     "item": "Astral Projector",
     "stats": "#% increased cast speed",
+    "average": 217.39,
+    "prices": [
+      217.39,
+      217.39,
+      434.78,
+      1521.73,
+      6521.7
+    ],
+    "search": {
+      "id": "dXb0bwoFJ",
+      "complexity": 18,
+      "total": 5
+    },
     "builds": 1,
     "mods": [
       {
