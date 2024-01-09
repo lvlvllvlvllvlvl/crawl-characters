@@ -9165,6 +9165,13 @@
   {
     "item": "Asenath's Gentle Touch",
     "stats": "+# to level of socketed aura gems, #% increased cast speed",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "9Y2KZKOIK",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -9184,6 +9191,13 @@
   {
     "item": "Asenath's Gentle Touch",
     "stats": "#% increased maximum life, +# to maximum frenzy charges",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "qXj3723Cg",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -9203,6 +9217,13 @@
   {
     "item": "Asenath's Gentle Touch",
     "stats": "+# to level of socketed minion gems, attacks have +#% to critical strike chance",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "VMpPDK2tp",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -9222,6 +9243,16 @@
   {
     "item": "Asenath's Gentle Touch",
     "stats": "curse enemies with elemental weakness on hit, curse enemies with enfeeble on hit",
+    "average": 2717.375,
+    "prices": [
+      2173.8999999999996,
+      3260.85
+    ],
+    "search": {
+      "id": "QV05ojvHw",
+      "complexity": 29,
+      "total": 2
+    },
     "builds": 1,
     "mods": [
       {
@@ -9241,6 +9272,15 @@
   {
     "item": "Asenath's Gentle Touch",
     "stats": "#% increased cast speed, #% increased maximum life",
+    "average": 652.17,
+    "prices": [
+      652.17
+    ],
+    "search": {
+      "id": "eXWqWYbcL",
+      "complexity": 29,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -9260,6 +9300,24 @@
   {
     "item": "Cold Iron Point",
     "stats": "#% chance to gain unholy might for 3 seconds on kill",
+    "average": 26.5,
+    "prices": [
+      20,
+      20,
+      25,
+      25,
+      25,
+      30,
+      30,
+      30,
+      30,
+      30
+    ],
+    "search": {
+      "id": "9Y2wm70uK",
+      "complexity": 18,
+      "total": 101
+    },
     "builds": 1,
     "mods": [
       {
@@ -9273,6 +9331,24 @@
   {
     "item": "Cold Iron Point",
     "stats": "#% increased damage over time",
+    "average": 434.77999999999986,
+    "prices": [
+      391.30199999999996,
+      434.78,
+      434.78,
+      434.78,
+      434.78,
+      434.78,
+      434.78,
+      434.78,
+      434.78,
+      434.78
+    ],
+    "search": {
+      "id": "z273V4RI4",
+      "complexity": 18,
+      "total": 35
+    },
     "builds": 1,
     "mods": [
       {
@@ -9286,6 +9362,24 @@
   {
     "item": "Cold Iron Point",
     "stats": "#% increased global critical strike chance",
+    "average": 5,
+    "prices": [
+      2,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5
+    ],
+    "search": {
+      "id": "LeWqod2sn",
+      "complexity": 18,
+      "total": 989
+    },
     "builds": 1,
     "mods": [
       {
@@ -9299,6 +9393,24 @@
   {
     "item": "Skin of the Loyal",
     "stats": "+# to level of socketed minion gems",
+    "average": 776.392857142857,
+    "prices": [
+      434.78,
+      652.17,
+      652.17,
+      869.56,
+      869.56,
+      869.56,
+      1086.9499999999998,
+      1739.12,
+      2173.8999999999996,
+      2608.68
+    ],
+    "search": {
+      "id": "Eyeq6dYf5",
+      "complexity": 18,
+      "total": 11
+    },
     "builds": 1,
     "mods": [
       {
@@ -9312,6 +9424,15 @@
   {
     "item": "Skin of the Loyal",
     "stats": "+# to level of socketed aoe gems, +# to level of socketed projectile gems",
+    "average": 15217.3,
+    "prices": [
+      15217.3
+    ],
+    "search": {
+      "id": "XqD4GedCP",
+      "complexity": 29,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -9331,6 +9452,16 @@
   {
     "item": "Skin of the Loyal",
     "stats": "+# to level of socketed duration gems, #% increased maximum energy shield",
+    "average": 3478.24,
+    "prices": [
+      1521.73,
+      5434.75
+    ],
+    "search": {
+      "id": "DL3Vd74H5",
+      "complexity": 29,
+      "total": 2
+    },
     "builds": 1,
     "mods": [
       {
@@ -9350,6 +9481,16 @@
   {
     "item": "March of the Legion",
     "stats": "+# to level of socketed gems, +# to level of socketed aura gems",
+    "average": 10326.024999999998,
+    "prices": [
+      3260.85,
+      17391.199999999997
+    ],
+    "search": {
+      "id": "GZyEJaBhb",
+      "complexity": 29,
+      "total": 2
+    },
     "builds": 1,
     "mods": [
       {
@@ -9369,6 +9510,16 @@
   {
     "item": "March of the Legion",
     "stats": "#% increased maximum energy shield, #% increased maximum life",
+    "average": 326.085,
+    "prices": [
+      217.39,
+      434.78
+    ],
+    "search": {
+      "id": "jPpzDkXSX",
+      "complexity": 29,
+      "total": 2
+    },
     "builds": 1,
     "mods": [
       {
@@ -9388,6 +9539,17 @@
   {
     "item": "March of the Legion",
     "stats": "+# to level of socketed aura gems, #% increased movement speed",
+    "average": 3294.183333333333,
+    "prices": [
+      100,
+      2173.8999999999996,
+      7608.65
+    ],
+    "search": {
+      "id": "eXJOaKrIL",
+      "complexity": 29,
+      "total": 3
+    },
     "builds": 1,
     "mods": [
       {
@@ -9407,6 +9569,24 @@
   {
     "item": "March of the Legion",
     "stats": "+# to level of socketed trap or mine gems",
+    "average": 10,
+    "prices": [
+      10,
+      10,
+      10,
+      10,
+      10,
+      10,
+      10,
+      10,
+      10,
+      10
+    ],
+    "search": {
+      "id": "DL497bvC5",
+      "complexity": 18,
+      "total": 79
+    },
     "builds": 1,
     "mods": [
       {
