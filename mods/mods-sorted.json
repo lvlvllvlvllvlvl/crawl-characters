@@ -16291,6 +16291,24 @@
   {
     "item": "Arn's Anguish",
     "stats": "zealotry has #% increased aura effect",
+    "average": 41.2,
+    "prices": [
+      30,
+      32,
+      40,
+      40,
+      40,
+      40,
+      45,
+      45,
+      50,
+      50
+    ],
+    "search": {
+      "id": "YVqrzkXsY",
+      "complexity": 18,
+      "total": 70
+    },
     "builds": 1,
     "mods": [
       {
@@ -16304,6 +16322,24 @@
   {
     "item": "Arn's Anguish",
     "stats": "#% increased movement speed during any flask effect",
+    "average": 35,
+    "prices": [
+      27,
+      29,
+      30,
+      35,
+      35,
+      35,
+      39,
+      40,
+      40,
+      40
+    ],
+    "search": {
+      "id": "gXWv5KKUQ",
+      "complexity": 18,
+      "total": 79
+    },
     "builds": 1,
     "mods": [
       {
@@ -16317,6 +16353,24 @@
   {
     "item": "Arn's Anguish",
     "stats": "wrath has #% increased aura effect",
+    "average": 30.3,
+    "prices": [
+      20,
+      20,
+      25,
+      30,
+      30,
+      30,
+      35,
+      35,
+      39,
+      39
+    ],
+    "search": {
+      "id": "3BrVpPJi5",
+      "complexity": 18,
+      "total": 58
+    },
     "builds": 1,
     "mods": [
       {
@@ -16330,6 +16384,24 @@
   {
     "item": "Arn's Anguish",
     "stats": "+#% to all elemental resistances",
+    "average": 917.8688888888888,
+    "prices": [
+      869.56,
+      869.56,
+      869.56,
+      869.56,
+      869.56,
+      978.2549999999999,
+      978.2549999999999,
+      978.2549999999999,
+      978.2549999999999,
+      1065.211
+    ],
+    "search": {
+      "id": "Ey659y0i5",
+      "complexity": 18,
+      "total": 31
+    },
     "builds": 1,
     "mods": [
       {
@@ -16343,6 +16415,13 @@
   {
     "item": "Soulbound",
     "stats": "#% increased strength, #% increased intelligence, wrath has #% increased aura effect",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "WVMV76Rfm",
+      "complexity": 20,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -16368,6 +16447,13 @@
   {
     "item": "Soulbound",
     "stats": "anger has #% increased aura effect, grace has #% increased aura effect",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "9YbJLD8uK",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -16387,6 +16473,24 @@
   {
     "item": "The Untouched Soul",
     "stats": "#% increased rarity of items found",
+    "average": 4.1,
+    "prices": [
+      3,
+      3,
+      3,
+      4,
+      4,
+      4,
+      5,
+      5,
+      5,
+      5
+    ],
+    "search": {
+      "id": "vlE0LQXHE",
+      "complexity": 18,
+      "total": 1055
+    },
     "builds": 1,
     "mods": [
       {
@@ -16400,6 +16504,24 @@
   {
     "item": "Crown of the Inward Eye",
     "stats": "#% increased maximum life",
+    "average": 21.4,
+    "prices": [
+      10,
+      15,
+      15,
+      20,
+      20,
+      20,
+      20,
+      30,
+      30,
+      34
+    ],
+    "search": {
+      "id": "Bq9WJbXT8",
+      "complexity": 18,
+      "total": 76
+    },
     "builds": 1,
     "mods": [
       {
@@ -16413,6 +16535,24 @@
   {
     "item": "Crown of the Inward Eye",
     "stats": "regenerate #% of life per second",
+    "average": 16.5,
+    "prices": [
+      10,
+      10,
+      15,
+      15,
+      15,
+      20,
+      20,
+      20,
+      20,
+      20
+    ],
+    "search": {
+      "id": "qayp5XWsg",
+      "complexity": 18,
+      "total": 54
+    },
     "builds": 1,
     "mods": [
       {
@@ -16426,6 +16566,16 @@
   {
     "item": "Devoto's Devotion",
     "stats": "+# to maximum power charges, regenerate #% of life per second",
+    "average": 673.9089999999999,
+    "prices": [
+      260.868,
+      1086.9499999999998
+    ],
+    "search": {
+      "id": "lXqEQlniV",
+      "complexity": 29,
+      "total": 2
+    },
     "builds": 1,
     "mods": [
       {
@@ -16445,6 +16595,17 @@
   {
     "item": "Devoto's Devotion",
     "stats": "#% of fire damage leeched as life, +# to maximum power charges",
+    "average": 234.05666666666664,
+    "prices": [
+      50,
+      217.39,
+      434.78
+    ],
+    "search": {
+      "id": "jXqy39oTX",
+      "complexity": 30,
+      "total": 3
+    },
     "builds": 1,
     "mods": [
       {
@@ -16465,6 +16626,15 @@
   {
     "item": "Devoto's Devotion",
     "stats": "+# to level of socketed cold gems, +# to maximum power charges",
+    "average": 50,
+    "prices": [
+      50
+    ],
+    "search": {
+      "id": "OVXoMrzHE",
+      "complexity": 29,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -16484,6 +16654,13 @@
   {
     "item": "Doomfletch",
     "stats": "socketed gems are supported by level # momentum, socketed gems are supported by level # faster projectiles",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "2Bam9vjhk",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -16503,6 +16680,13 @@
   {
     "item": "Warrior's Tale",
     "stats": "damage penetrates #% fire resistance",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "wagX6rmsb",
+      "complexity": 19,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -16517,6 +16701,13 @@
   {
     "item": "Warrior's Tale",
     "stats": "#% increased reservation efficiency of skills, you cannot be hindered",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "nXjQQJJf0",
+      "complexity": 30,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
