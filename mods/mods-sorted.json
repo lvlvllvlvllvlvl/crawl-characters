@@ -17623,6 +17623,13 @@
   {
     "item": "The Squire",
     "stats": "you take #% reduced extra damage from critical strikes, #% increased maximum life",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "Pd8pwJMhL",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -17642,6 +17649,24 @@
   {
     "item": "Severed in Sleep",
     "stats": "#% increased attack speed",
+    "average": 101.65599999999999,
+    "prices": [
+      13,
+      15,
+      15,
+      20,
+      39,
+      45,
+      217.39,
+      217.39,
+      217.39,
+      217.39
+    ],
+    "search": {
+      "id": "y9R7VBlSR",
+      "complexity": 19,
+      "total": 14
+    },
     "builds": 1,
     "mods": [
       {
@@ -17656,6 +17681,24 @@
   {
     "item": "Severed in Sleep",
     "stats": "#% increased physical damage",
+    "average": 17.571428571428573,
+    "prices": [
+      8,
+      10,
+      10,
+      20,
+      20,
+      25,
+      30,
+      40,
+      150,
+      200
+    ],
+    "search": {
+      "id": "4d95MJZt9",
+      "complexity": 18,
+      "total": 11
+    },
     "builds": 1,
     "mods": [
       {
@@ -17669,6 +17712,18 @@
   {
     "item": "Umbilicus Immortalis",
     "stats": "#% increased strength, #% increased intelligence",
+    "average": 217.39,
+    "prices": [
+      39,
+      173.912,
+      217.39,
+      217.39
+    ],
+    "search": {
+      "id": "MV5YWYMsJ",
+      "complexity": 29,
+      "total": 4
+    },
     "builds": 1,
     "mods": [
       {
@@ -17688,6 +17743,13 @@
   {
     "item": "Umbilicus Immortalis",
     "stats": "#% increased strength, #% increased dexterity, +#% to all elemental resistances",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "GkJ5moZcb",
+      "complexity": 20,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -17713,6 +17775,24 @@
   {
     "item": "Umbilicus Immortalis",
     "stats": "#% increased maximum energy shield",
+    "average": 103.478,
+    "prices": [
+      15,
+      20,
+      25,
+      100,
+      100,
+      100,
+      100,
+      140,
+      217.39,
+      217.39
+    ],
+    "search": {
+      "id": "MVZbYLGUJ",
+      "complexity": 18,
+      "total": 12
+    },
     "builds": 1,
     "mods": [
       {
@@ -17726,6 +17806,24 @@
   {
     "item": "Saffell's Frame",
     "stats": "#% of physical damage from hits taken as cold damage",
+    "average": 24.46,
+    "prices": [
+      10,
+      10,
+      10,
+      15,
+      20.6,
+      20,
+      25,
+      35,
+      49,
+      50
+    ],
+    "search": {
+      "id": "LmdmLM7tn",
+      "complexity": 18,
+      "total": 38
+    },
     "builds": 1,
     "mods": [
       {
@@ -17739,6 +17837,24 @@
   {
     "item": "Legacy of Fury",
     "stats": "#% increased movement speed",
+    "average": 44.285714285714285,
+    "prices": [
+      20,
+      40,
+      40,
+      40,
+      40,
+      50,
+      50,
+      50,
+      108.695,
+      100
+    ],
+    "search": {
+      "id": "6Gqvl6XuG",
+      "complexity": 18,
+      "total": 51
+    },
     "builds": 1,
     "mods": [
       {
@@ -17752,6 +17868,15 @@
   {
     "item": "The Brass Dome",
     "stats": "+# to level of socketed trap or mine gems, #% reduced lightning damage taken",
+    "average": 4347.799999999999,
+    "prices": [
+      4347.799999999999
+    ],
+    "search": {
+      "id": "XqDVoE7UP",
+      "complexity": 29,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -17771,6 +17896,15 @@
   {
     "item": "The Stampede",
     "stats": "regenerate # life per second while moving",
+    "average": 2173.8999999999996,
+    "prices": [
+      2173.8999999999996
+    ],
+    "search": {
+      "id": "kX4ygJ5c5",
+      "complexity": 18,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -17784,6 +17918,24 @@
   {
     "item": "Ephemeral Edge",
     "stats": "#% chance to gain onslaught for # seconds on kill",
+    "average": 14.2,
+    "prices": [
+      5,
+      9,
+      10,
+      10,
+      15,
+      15,
+      19,
+      19,
+      20,
+      20
+    ],
+    "search": {
+      "id": "z27GpRRI4",
+      "complexity": 18,
+      "total": 60
+    },
     "builds": 1,
     "mods": [
       {
@@ -17797,6 +17949,16 @@
   {
     "item": "Replica Heatshiver",
     "stats": "socketed skill gems get a #% cost & reservation multiplier",
+    "average": 2499.9849999999997,
+    "prices": [
+      652.17,
+      4347.799999999999
+    ],
+    "search": {
+      "id": "KJ2OBZqc5",
+      "complexity": 18,
+      "total": 2
+    },
     "builds": 1,
     "mods": [
       {
@@ -17810,6 +17972,13 @@
   {
     "item": "Replica Heatshiver",
     "stats": "+# to maximum power charges",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "zelZyOmt4",
+      "complexity": 18,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -17823,6 +17992,13 @@
   {
     "item": "Snakebite",
     "stats": "+# to maximum frenzy charges, curse enemies with despair on hit",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "3Bg95KJs5",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -17842,6 +18018,17 @@
   {
     "item": "Snakebite",
     "stats": "#% increased attack speed, +# to maximum frenzy charges",
+    "average": 6956.48,
+    "prices": [
+      3695.6299999999997,
+      6521.7,
+      10652.109999999999
+    ],
+    "search": {
+      "id": "EqJWYJRs5",
+      "complexity": 30,
+      "total": 3
+    },
     "builds": 1,
     "mods": [
       {
