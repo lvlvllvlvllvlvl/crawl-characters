@@ -8192,6 +8192,13 @@
   {
     "item": "Doryani's Prototype",
     "stats": "+# to level of socketed projectile gems, +#% to all maximum resistances",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "9YKMX5YsK",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -8211,6 +8218,23 @@
   {
     "item": "Natural Affinity",
     "stats": "corrupted blood cannot be inflicted on you",
+    "average": 10529.828125,
+    "prices": [
+      9347.769999999999,
+      9347.769999999999,
+      9673.855,
+      10869.5,
+      10869.5,
+      10869.5,
+      11521.67,
+      11739.06,
+      13043.4
+    ],
+    "search": {
+      "id": "9qlqMQYsK",
+      "complexity": 18,
+      "total": 9
+    },
     "builds": 1,
     "mods": [
       {
@@ -8224,6 +8248,22 @@
   {
     "item": "Natural Affinity",
     "stats": "minions deal #% increased damage",
+    "average": 59.285714285714285,
+    "prices": [
+      40,
+      40,
+      45,
+      50,
+      50,
+      90,
+      100,
+      217.39
+    ],
+    "search": {
+      "id": "nXy7VgJH0",
+      "complexity": 18,
+      "total": 8
+    },
     "builds": 1,
     "mods": [
       {
@@ -8237,6 +8277,17 @@
   {
     "item": "The Green Dream",
     "stats": "minions deal #% increased damage",
+    "average": 52.5,
+    "prices": [
+      50,
+      55,
+      217.39
+    ],
+    "search": {
+      "id": "BEDM6KXH8",
+      "complexity": 18,
+      "total": 3
+    },
     "builds": 1,
     "mods": [
       {
@@ -8250,6 +8301,24 @@
   {
     "item": "Bated Breath",
     "stats": "#% increased maximum energy shield",
+    "average": 13.88888888888889,
+    "prices": [
+      3,
+      10,
+      10,
+      10,
+      10,
+      15,
+      15,
+      15,
+      20,
+      20
+    ],
+    "search": {
+      "id": "vlE0L09fE",
+      "complexity": 18,
+      "total": 45
+    },
     "builds": 1,
     "mods": [
       {
@@ -8263,6 +8332,17 @@
   {
     "item": "Bated Breath",
     "stats": "wrath has #% increased aura effect, discipline has #% increased aura effect",
+    "average": 434.78,
+    "prices": [
+      434.78,
+      434.78,
+      652.17
+    ],
+    "search": {
+      "id": "lXqOl76IV",
+      "complexity": 29,
+      "total": 3
+    },
     "builds": 1,
     "mods": [
       {
@@ -8282,6 +8362,24 @@
   {
     "item": "Bated Breath",
     "stats": "zealotry has #% increased aura effect",
+    "average": 8.88888888888889,
+    "prices": [
+      5,
+      5,
+      6,
+      10,
+      10,
+      10,
+      10,
+      10,
+      14,
+      20
+    ],
+    "search": {
+      "id": "gXDl2naFQ",
+      "complexity": 18,
+      "total": 36
+    },
     "builds": 1,
     "mods": [
       {
@@ -8295,6 +8393,24 @@
   {
     "item": "Bated Breath",
     "stats": "discipline has #% increased aura effect",
+    "average": 16.1,
+    "prices": [
+      10,
+      10,
+      15,
+      15,
+      15,
+      17,
+      19,
+      20,
+      20,
+      20
+    ],
+    "search": {
+      "id": "Ey6vgPVf5",
+      "complexity": 18,
+      "total": 66
+    },
     "builds": 1,
     "mods": [
       {
@@ -8308,6 +8424,15 @@
   {
     "item": "Bated Breath",
     "stats": "#% increased dexterity, #% increased intelligence, #% increased maximum energy shield",
+    "average": 282.60699999999997,
+    "prices": [
+      282.60699999999997
+    ],
+    "search": {
+      "id": "7lKm9nlu5",
+      "complexity": 20,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -8333,6 +8458,24 @@
   {
     "item": "Bated Breath",
     "stats": "anger has #% increased aura effect",
+    "average": 18.6,
+    "prices": [
+      1,
+      2,
+      4,
+      10,
+      15,
+      24,
+      25,
+      30,
+      35,
+      40
+    ],
+    "search": {
+      "id": "jXZk6lZCX",
+      "complexity": 18,
+      "total": 25
+    },
     "builds": 1,
     "mods": [
       {
@@ -8346,6 +8489,24 @@
   {
     "item": "Shaper's Touch",
     "stats": "#% increased maximum energy shield",
+    "average": 14.8,
+    "prices": [
+      10,
+      10,
+      10,
+      11,
+      15,
+      15,
+      18,
+      19,
+      20,
+      20
+    ],
+    "search": {
+      "id": "VMgl2KlCp",
+      "complexity": 18,
+      "total": 156
+    },
     "builds": 1,
     "mods": [
       {
@@ -8359,6 +8520,24 @@
   {
     "item": "Shaper's Touch",
     "stats": "curse enemies with temporal chains on hit",
+    "average": 13.3,
+    "prices": [
+      9,
+      10,
+      10,
+      14,
+      15,
+      15,
+      15,
+      15,
+      15,
+      15
+    ],
+    "search": {
+      "id": "gXWRrJjhQ",
+      "complexity": 18,
+      "total": 161
+    },
     "builds": 1,
     "mods": [
       {
@@ -8372,6 +8551,24 @@
   {
     "item": "Greed's Embrace",
     "stats": "+# to level of socketed aoe gems, +# to level of socketed aura gems",
+    "average": 3065.1989999999996,
+    "prices": [
+      217.39,
+      652.17,
+      1086.9499999999998,
+      2173.8999999999996,
+      3913.0199999999995,
+      4130.41,
+      4347.799999999999,
+      4347.799999999999,
+      4347.799999999999,
+      5434.75
+    ],
+    "search": {
+      "id": "9YD9l8yIK",
+      "complexity": 29,
+      "total": 11
+    },
     "builds": 1,
     "mods": [
       {
@@ -8391,6 +8588,24 @@
   {
     "item": "Greed's Embrace",
     "stats": "you take #% reduced extra damage from critical strikes",
+    "average": 9.444444444444445,
+    "prices": [
+      5,
+      8,
+      8,
+      9,
+      10,
+      10,
+      10,
+      10,
+      10,
+      10
+    ],
+    "search": {
+      "id": "LeWjZQZSn",
+      "complexity": 18,
+      "total": 599
+    },
     "builds": 1,
     "mods": [
       {
@@ -8404,6 +8619,22 @@
   {
     "item": "Greed's Embrace",
     "stats": "+# to level of socketed aoe gems, #% reduced lightning damage taken",
+    "average": 1270.1787142857142,
+    "prices": [
+      217.39,
+      434.78,
+      652.17,
+      847.8209999999999,
+      2173.8999999999996,
+      2173.8999999999996,
+      2391.29,
+      16304.249999999998
+    ],
+    "search": {
+      "id": "jXJd8wdHX",
+      "complexity": 29,
+      "total": 8
+    },
     "builds": 1,
     "mods": [
       {
