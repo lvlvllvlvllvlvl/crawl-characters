@@ -16848,6 +16848,13 @@
   {
     "item": "Warrior's Tale",
     "stats": "#% increased reservation efficiency of skills, you cannot be hindered",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "nXjQQJJf0",
+      "complexity": 30,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -16868,6 +16875,13 @@
   {
     "item": "Warrior's Tale",
     "stats": "#% reduced ignite duration on you, you cannot be cursed with silence",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "BEQQX3kF8",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -16887,6 +16901,24 @@
   {
     "item": "Flamesight",
     "stats": "+# to maximum power charges",
+    "average": 586.953,
+    "prices": [
+      434.78,
+      434.78,
+      543.4749999999999,
+      543.4749999999999,
+      652.17,
+      652.17,
+      652.17,
+      652.17,
+      652.17,
+      652.17
+    ],
+    "search": {
+      "id": "jX4GnbkSX",
+      "complexity": 18,
+      "total": 16
+    },
     "builds": 1,
     "mods": [
       {
@@ -16900,6 +16932,15 @@
   {
     "item": "Painseeker",
     "stats": "+# to maximum frenzy charges, curse enemies with elemental weakness on hit",
+    "average": 434.78,
+    "prices": [
+      434.78
+    ],
+    "search": {
+      "id": "dXRmerPsJ",
+      "complexity": 29,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -16919,6 +16960,24 @@
   {
     "item": "The Primordial Chain",
     "stats": "#% of lightning damage leeched as life",
+    "average": 27.9,
+    "prices": [
+      10,
+      10,
+      10,
+      15,
+      24,
+      35,
+      35,
+      40,
+      50,
+      50
+    ],
+    "search": {
+      "id": "9Yvg7JmTK",
+      "complexity": 19,
+      "total": 14
+    },
     "builds": 1,
     "mods": [
       {
@@ -16933,6 +16992,24 @@
   {
     "item": "Gravebind",
     "stats": "curse enemies with enfeeble on hit",
+    "average": 46,
+    "prices": [
+      30,
+      30,
+      40,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      60
+    ],
+    "search": {
+      "id": "rXJbP57TQ",
+      "complexity": 18,
+      "total": 32
+    },
     "builds": 1,
     "mods": [
       {
@@ -16946,6 +17023,24 @@
   {
     "item": "Gravebind",
     "stats": "curse enemies with temporal chains on hit",
+    "average": 50,
+    "prices": [
+      40,
+      40,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      60,
+      60
+    ],
+    "search": {
+      "id": "jXjawVWTX",
+      "complexity": 18,
+      "total": 43
+    },
     "builds": 1,
     "mods": [
       {
@@ -16959,6 +17054,24 @@
   {
     "item": "Arakaali's Fang",
     "stats": "#% chance to gain a frenzy charge on kill",
+    "average": 253.10428571428568,
+    "prices": [
+      100,
+      150,
+      217.39,
+      217.39,
+      217.39,
+      434.78,
+      434.78,
+      869.56,
+      2173.8999999999996,
+      3478.24
+    ],
+    "search": {
+      "id": "oXjZ0EOsl",
+      "complexity": 18,
+      "total": 10
+    },
     "builds": 1,
     "mods": [
       {
@@ -16972,6 +17085,16 @@
   {
     "item": "Black Zenith",
     "stats": "curse enemies with temporal chains on hit",
+    "average": 760.865,
+    "prices": [
+      217.39,
+      1304.34
+    ],
+    "search": {
+      "id": "VMQOgQrcp",
+      "complexity": 18,
+      "total": 2
+    },
     "builds": 1,
     "mods": [
       {
@@ -16985,6 +17108,15 @@
   {
     "item": "Replica Voidwalker",
     "stats": "regenerate # life per second while moving",
+    "average": 100,
+    "prices": [
+      100
+    ],
+    "search": {
+      "id": "RVD9VYZI7",
+      "complexity": 18,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -16998,6 +17130,24 @@
   {
     "item": "Zeel's Amplifier",
     "stats": "+# to level of socketed aoe gems",
+    "average": 12.5,
+    "prices": [
+      5,
+      10,
+      10,
+      10,
+      10,
+      10,
+      15,
+      15,
+      20,
+      20
+    ],
+    "search": {
+      "id": "Zb4Eb8mHQ",
+      "complexity": 18,
+      "total": 47
+    },
     "builds": 1,
     "mods": [
       {
@@ -17011,6 +17161,13 @@
   {
     "item": "Zeel's Amplifier",
     "stats": "+# to level of socketed aoe gems, you take #% reduced extra damage from critical strikes",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "8qB66P8UV",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -17030,6 +17187,24 @@
   {
     "item": "Zeel's Amplifier",
     "stats": "+# to level of socketed gems",
+    "average": 20,
+    "prices": [
+      10,
+      12,
+      15,
+      18,
+      19,
+      20,
+      20,
+      20,
+      20,
+      22
+    ],
+    "search": {
+      "id": "4qnPaPvC9",
+      "complexity": 18,
+      "total": 53
+    },
     "builds": 1,
     "mods": [
       {
@@ -17043,6 +17218,13 @@
   {
     "item": "Zeel's Amplifier",
     "stats": "+# to level of socketed gems, #% of physical damage from hits taken as lightning damage",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "2BrRVbeUk",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -17062,6 +17244,24 @@
   {
     "item": "Daresso's Defiance",
     "stats": "+# to level of socketed duration gems",
+    "average": 25.714285714285715,
+    "prices": [
+      15,
+      20,
+      20,
+      20,
+      25,
+      40,
+      40,
+      70,
+      100,
+      217.39
+    ],
+    "search": {
+      "id": "zerWLqLc4",
+      "complexity": 18,
+      "total": 24
+    },
     "builds": 1,
     "mods": [
       {
