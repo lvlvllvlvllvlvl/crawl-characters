@@ -18143,6 +18143,24 @@
   {
     "item": "Ephemeral Edge",
     "stats": "#% chance to gain onslaught for # seconds on kill",
+    "average": 8.6,
+    "prices": [
+      5,
+      5,
+      6,
+      10,
+      10,
+      10,
+      10,
+      10,
+      10,
+      10
+    ],
+    "search": {
+      "id": "z27GpRRI4",
+      "complexity": 18,
+      "total": 98
+    },
     "builds": 1,
     "mods": [
       {
@@ -18156,6 +18174,17 @@
   {
     "item": "Replica Heatshiver",
     "stats": "socketed skill gems get a #% cost & reservation multiplier",
+    "average": 760.8649999999999,
+    "prices": [
+      652.17,
+      760.865,
+      869.56
+    ],
+    "search": {
+      "id": "KJ2OBZqc5",
+      "complexity": 18,
+      "total": 3
+    },
     "builds": 1,
     "mods": [
       {
@@ -18169,6 +18198,17 @@
   {
     "item": "Replica Heatshiver",
     "stats": "+# to maximum power charges",
+    "average": 10724.573333333332,
+    "prices": [
+      8695.599999999999,
+      11521.67,
+      11956.449999999999
+    ],
+    "search": {
+      "id": "zelZyOmt4",
+      "complexity": 18,
+      "total": 3
+    },
     "builds": 1,
     "mods": [
       {
@@ -18182,6 +18222,15 @@
   {
     "item": "Snakebite",
     "stats": "+# to maximum frenzy charges, curse enemies with despair on hit",
+    "average": 13043.4,
+    "prices": [
+      13043.4
+    ],
+    "search": {
+      "id": "3Bg95KJs5",
+      "complexity": 29,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -18201,6 +18250,17 @@
   {
     "item": "Snakebite",
     "stats": "#% increased attack speed, +# to maximum frenzy charges",
+    "average": 5434.75,
+    "prices": [
+      5434.75,
+      5434.75,
+      6521.7
+    ],
+    "search": {
+      "id": "EqJWYJRs5",
+      "complexity": 30,
+      "total": 3
+    },
     "builds": 1,
     "mods": [
       {
@@ -18221,6 +18281,24 @@
   {
     "item": "Snakebite",
     "stats": "curse enemies with temporal chains on hit",
+    "average": 35.8,
+    "prices": [
+      30,
+      30,
+      30,
+      35,
+      37,
+      38,
+      39,
+      39,
+      40,
+      40
+    ],
+    "search": {
+      "id": "PK7gj0ZCL",
+      "complexity": 18,
+      "total": 142
+    },
     "builds": 1,
     "mods": [
       {
@@ -18234,6 +18312,24 @@
   {
     "item": "Fleshcrafter",
     "stats": "+# to level of socketed minion gems",
+    "average": 3908.6722,
+    "prices": [
+      3260.85,
+      3260.85,
+      3260.85,
+      3434.7619999999997,
+      3695.6299999999997,
+      3913.0199999999995,
+      4347.799999999999,
+      4347.799999999999,
+      4782.58,
+      4782.58
+    ],
+    "search": {
+      "id": "4qnzvpvT9",
+      "complexity": 18,
+      "total": 20
+    },
     "builds": 1,
     "mods": [
       {
@@ -18247,6 +18343,23 @@
   {
     "item": "Fleshcrafter",
     "stats": "+# to level of socketed projectile gems",
+    "average": 148.07,
+    "prices": [
+      45,
+      70,
+      100,
+      100,
+      217.39,
+      217.39,
+      217.39,
+      217.39,
+      1086.9499999999998
+    ],
+    "search": {
+      "id": "ZwdvaL8iQ",
+      "complexity": 18,
+      "total": 9
+    },
     "builds": 1,
     "mods": [
       {
@@ -18260,6 +18373,24 @@
   {
     "item": "Seven-League Step",
     "stats": "+#% chance to suppress spell damage",
+    "average": 20,
+    "prices": [
+      18,
+      19,
+      20,
+      20,
+      20,
+      20,
+      20,
+      20,
+      20,
+      20
+    ],
+    "search": {
+      "id": "8av99q8IV",
+      "complexity": 19,
+      "total": 57
+    },
     "builds": 1,
     "mods": [
       {
@@ -18274,6 +18405,13 @@
   {
     "item": "Seven-League Step",
     "stats": "+# to level of socketed aura gems, #% increased maximum life",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "YVEoYy6UY",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -18293,6 +18431,24 @@
   {
     "item": "Eye of Malice",
     "stats": "regenerate #% of life per second",
+    "average": 21.333333333333332,
+    "prices": [
+      5,
+      5,
+      8,
+      10,
+      20,
+      25,
+      29,
+      40,
+      50,
+      80
+    ],
+    "search": {
+      "id": "LmdYYb5Fn",
+      "complexity": 18,
+      "total": 23
+    },
     "builds": 1,
     "mods": [
       {
@@ -18306,6 +18462,24 @@
   {
     "item": "Eye of Malice",
     "stats": "+# to level of socketed aoe gems",
+    "average": 20.9,
+    "prices": [
+      9,
+      10,
+      10,
+      15,
+      15,
+      20,
+      25,
+      30,
+      35,
+      40
+    ],
+    "search": {
+      "id": "YVozYvgIY",
+      "complexity": 18,
+      "total": 41
+    },
     "builds": 1,
     "mods": [
       {
@@ -18319,6 +18493,24 @@
   {
     "item": "Eye of Malice",
     "stats": "+# to maximum power charges",
+    "average": 94.875,
+    "prices": [
+      55,
+      60,
+      80,
+      80,
+      99,
+      100,
+      100,
+      100,
+      100,
+      100
+    ],
+    "search": {
+      "id": "Lmdj637un",
+      "complexity": 18,
+      "total": 57
+    },
     "builds": 1,
     "mods": [
       {
@@ -18332,6 +18524,24 @@
   {
     "item": "Perquil's Toe",
     "stats": "you can apply an additional curse",
+    "average": 24.3,
+    "prices": [
+      15,
+      15,
+      20,
+      20,
+      20,
+      20,
+      23,
+      30,
+      40,
+      40
+    ],
+    "search": {
+      "id": "aboaB4aSe",
+      "complexity": 18,
+      "total": 28
+    },
     "builds": 1,
     "mods": [
       {
@@ -18345,6 +18555,24 @@
   {
     "item": "Doedre's Damning",
     "stats": "bleeding cannot be inflicted on you",
+    "average": 89.978,
+    "prices": [
+      10,
+      15,
+      15,
+      20,
+      25,
+      85,
+      145,
+      150,
+      217.39,
+      217.39
+    ],
+    "search": {
+      "id": "aqe6VnKue",
+      "complexity": 18,
+      "total": 16
+    },
     "builds": 1,
     "mods": [
       {
