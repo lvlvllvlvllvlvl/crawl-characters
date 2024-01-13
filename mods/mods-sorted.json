@@ -2345,6 +2345,24 @@
   {
     "item": "Call of the Brotherhood",
     "stats": "+#% to all elemental resistances",
+    "average": 46.111111111111114,
+    "prices": [
+      30,
+      30,
+      30,
+      35,
+      35,
+      45,
+      50,
+      80,
+      80,
+      100
+    ],
+    "search": {
+      "id": "LeV9n8jHn",
+      "complexity": 18,
+      "total": 28
+    },
     "builds": 2,
     "mods": [
       {
@@ -2358,6 +2376,24 @@
   {
     "item": "Heatshiver",
     "stats": "#% increased maximum life",
+    "average": 15.174000000000001,
+    "prices": [
+      10,
+      10,
+      10,
+      12.74,
+      15,
+      15,
+      19,
+      20,
+      20,
+      20
+    ],
+    "search": {
+      "id": "PK7qy2ZCL",
+      "complexity": 18,
+      "total": 105
+    },
     "builds": 2,
     "mods": [
       {
@@ -2371,6 +2407,24 @@
   {
     "item": "Heatshiver",
     "stats": "+# to level of socketed aura gems",
+    "average": 23.978,
+    "prices": [
+      20,
+      20,
+      20,
+      20,
+      24.78,
+      25,
+      25,
+      25,
+      30,
+      30
+    ],
+    "search": {
+      "id": "9Y2Z83ysK",
+      "complexity": 18,
+      "total": 287
+    },
     "builds": 2,
     "mods": [
       {
@@ -2384,6 +2438,24 @@
   {
     "item": "Incandescent Heart",
     "stats": "+# to level of socketed aoe gems",
+    "average": 2543.4629999999997,
+    "prices": [
+      1956.5099999999998,
+      2173.8999999999996,
+      2173.8999999999996,
+      2391.29,
+      2391.29,
+      2608.68,
+      2608.68,
+      3043.46,
+      3043.46,
+      3043.46
+    ],
+    "search": {
+      "id": "4drqr3kH9",
+      "complexity": 18,
+      "total": 35
+    },
     "builds": 2,
     "mods": [
       {
@@ -2397,6 +2469,24 @@
   {
     "item": "Incandescent Heart",
     "stats": "#% increased damage",
+    "average": 41.8,
+    "prices": [
+      20,
+      20,
+      34,
+      39,
+      40,
+      50,
+      50,
+      50,
+      55,
+      60
+    ],
+    "search": {
+      "id": "y9RQZY8uR",
+      "complexity": 18,
+      "total": 54
+    },
     "builds": 2,
     "mods": [
       {
@@ -2410,6 +2500,24 @@
   {
     "item": "Incandescent Heart",
     "stats": "+# to level of socketed gems",
+    "average": 8441.978333333333,
+    "prices": [
+      4999.969999999999,
+      4999.969999999999,
+      7608.65,
+      8260.82,
+      8260.82,
+      8260.82,
+      8478.21,
+      8695.599999999999,
+      8695.599999999999,
+      9130.38
+    ],
+    "search": {
+      "id": "kPK0blrU5",
+      "complexity": 18,
+      "total": 28
+    },
     "builds": 2,
     "mods": [
       {
@@ -2423,6 +2531,15 @@
   {
     "item": "Asenath's Gentle Touch",
     "stats": "+# to level of socketed aoe gems, curse enemies with vulnerability on hit",
+    "average": 217.39,
+    "prices": [
+      217.39
+    ],
+    "search": {
+      "id": "GkJjeOBUb",
+      "complexity": 29,
+      "total": 1
+    },
     "builds": 2,
     "mods": [
       {
@@ -2442,6 +2559,15 @@
   {
     "item": "Asenath's Gentle Touch",
     "stats": "+# to level of socketed trap or mine gems, curse enemies with vulnerability on hit",
+    "average": 434.78,
+    "prices": [
+      434.78
+    ],
+    "search": {
+      "id": "mXgb3lrT6",
+      "complexity": 29,
+      "total": 1
+    },
     "builds": 2,
     "mods": [
       {
@@ -2461,6 +2587,24 @@
   {
     "item": "Dendrobate",
     "stats": "+# to level of socketed duration gems",
+    "average": 13.857142857142858,
+    "prices": [
+      10,
+      10,
+      10,
+      15,
+      15,
+      17,
+      20,
+      25,
+      30,
+      39
+    ],
+    "search": {
+      "id": "4drQv4ZH9",
+      "complexity": 18,
+      "total": 128
+    },
     "builds": 2,
     "mods": [
       {
@@ -2474,6 +2618,24 @@
   {
     "item": "Natural Affinity",
     "stats": "#% increased area of effect",
+    "average": 257.06374999999997,
+    "prices": [
+      100,
+      217.39,
+      217.39,
+      217.39,
+      217.39,
+      217.39,
+      434.78,
+      434.78,
+      652.17,
+      869.56
+    ],
+    "search": {
+      "id": "MvR4pwPcJ",
+      "complexity": 18,
+      "total": 15
+    },
     "builds": 2,
     "mods": [
       {
@@ -2487,6 +2649,16 @@
   {
     "item": "Natural Affinity",
     "stats": "damage penetrates #% elemental resistances",
+    "average": 217.39,
+    "prices": [
+      217.39,
+      217.39
+    ],
+    "search": {
+      "id": "R242ZPOi7",
+      "complexity": 18,
+      "total": 2
+    },
     "builds": 2,
     "mods": [
       {
@@ -2500,6 +2672,24 @@
   {
     "item": "Bated Breath",
     "stats": "wrath has #% increased aura effect",
+    "average": 23.88888888888889,
+    "prices": [
+      10,
+      20,
+      20,
+      20,
+      20,
+      20,
+      25,
+      30,
+      30,
+      30
+    ],
+    "search": {
+      "id": "3Bb9LVZs5",
+      "complexity": 18,
+      "total": 30
+    },
     "builds": 2,
     "mods": [
       {
@@ -2513,6 +2703,24 @@
   {
     "item": "Shaper's Touch",
     "stats": "+# to level of socketed aura gems",
+    "average": 30,
+    "prices": [
+      10,
+      20,
+      25,
+      30,
+      30,
+      30,
+      30,
+      30,
+      30,
+      30
+    ],
+    "search": {
+      "id": "0PQ6vEghg",
+      "complexity": 18,
+      "total": 101
+    },
     "builds": 2,
     "mods": [
       {
@@ -2526,6 +2734,24 @@
   {
     "item": "Greed's Embrace",
     "stats": "#% increased damage",
+    "average": 9,
+    "prices": [
+      3,
+      5,
+      7,
+      7,
+      9,
+      10,
+      10,
+      10,
+      14,
+      15
+    ],
+    "search": {
+      "id": "Ey6EjzVI5",
+      "complexity": 18,
+      "total": 812
+    },
     "builds": 2,
     "mods": [
       {
@@ -2539,6 +2765,24 @@
   {
     "item": "Greed's Embrace",
     "stats": "+# to level of socketed gems",
+    "average": 7.8,
+    "prices": [
+      3,
+      5,
+      5,
+      5,
+      10,
+      10,
+      10,
+      10,
+      10,
+      10
+    ],
+    "search": {
+      "id": "3GwpXDPh5",
+      "complexity": 18,
+      "total": 791
+    },
     "builds": 2,
     "mods": [
       {
