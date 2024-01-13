@@ -9077,6 +9077,15 @@
   {
     "item": "Goldwyrm",
     "stats": "+# to level of socketed gems, +#% chance to suppress spell damage",
+    "average": 100,
+    "prices": [
+      100
+    ],
+    "search": {
+      "id": "r9Wm2B4SQ",
+      "complexity": 30,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -9097,6 +9106,24 @@
   {
     "item": "Goldwyrm",
     "stats": "+# to level of socketed minion gems",
+    "average": 11.11111111111111,
+    "prices": [
+      5,
+      10,
+      10,
+      10,
+      10,
+      10,
+      10,
+      10,
+      15,
+      15
+    ],
+    "search": {
+      "id": "Lqa7LY2tn",
+      "complexity": 18,
+      "total": 255
+    },
     "builds": 1,
     "mods": [
       {
@@ -9110,6 +9137,24 @@
   {
     "item": "Goldwyrm",
     "stats": "+# to level of socketed aura gems",
+    "average": 6,
+    "prices": [
+      5,
+      5,
+      5,
+      5,
+      5,
+      6,
+      6,
+      7,
+      8,
+      8
+    ],
+    "search": {
+      "id": "nXjoKgRS0",
+      "complexity": 18,
+      "total": 299
+    },
     "builds": 1,
     "mods": [
       {
@@ -9123,6 +9168,24 @@
   {
     "item": "Goldwyrm",
     "stats": "+# to maximum endurance charges",
+    "average": 6.222222222222222,
+    "prices": [
+      3,
+      5,
+      5,
+      5,
+      5,
+      7,
+      7,
+      7,
+      7,
+      8
+    ],
+    "search": {
+      "id": "0B8P0wYcg",
+      "complexity": 18,
+      "total": 300
+    },
     "builds": 1,
     "mods": [
       {
@@ -9136,6 +9199,24 @@
   {
     "item": "Goldwyrm",
     "stats": "+# to level of socketed gems",
+    "average": 6.853999999999999,
+    "prices": [
+      2,
+      3.54,
+      5,
+      5,
+      7,
+      8,
+      9,
+      9,
+      10,
+      10
+    ],
+    "search": {
+      "id": "DGEnq8vf5",
+      "complexity": 18,
+      "total": 558
+    },
     "builds": 1,
     "mods": [
       {
@@ -9149,6 +9230,13 @@
   {
     "item": "Soul Mantle",
     "stats": "+# to level of socketed gems, +# to level of socketed projectile gems",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "0PQbWp7Ig",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -9168,6 +9256,24 @@
   {
     "item": "The Annihilating Light",
     "stats": "#% chance to gain a power charge on critical strike",
+    "average": 40.44444444444444,
+    "prices": [
+      10,
+      14,
+      30,
+      40,
+      50,
+      50,
+      50,
+      50,
+      70,
+      130
+    ],
+    "search": {
+      "id": "PK7GzpZhL",
+      "complexity": 18,
+      "total": 60
+    },
     "builds": 1,
     "mods": [
       {
@@ -9181,6 +9287,13 @@
   {
     "item": "The Annihilating Light",
     "stats": "#% increased cast speed, #% increased critical strike chance",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "DGEDdB2f5",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -9200,6 +9313,13 @@
   {
     "item": "Invictus Solaris",
     "stats": "+# to level of socketed minion gems",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "jXR7WqltX",
+      "complexity": 18,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -9213,6 +9333,24 @@
   {
     "item": "Cold Iron Point",
     "stats": "#% chance to gain unholy might for 3 seconds on kill",
+    "average": 27.5,
+    "prices": [
+      20,
+      20,
+      20,
+      30,
+      30,
+      30,
+      30,
+      30,
+      30,
+      35
+    ],
+    "search": {
+      "id": "9Y2wm70uK",
+      "complexity": 18,
+      "total": 79
+    },
     "builds": 1,
     "mods": [
       {
@@ -9226,6 +9364,24 @@
   {
     "item": "Cold Iron Point",
     "stats": "#% increased damage over time",
+    "average": 606.5181,
+    "prices": [
+      543.4749999999999,
+      543.4749999999999,
+      565.2139999999999,
+      586.953,
+      608.6919999999999,
+      608.6919999999999,
+      652.17,
+      652.17,
+      652.17,
+      652.17
+    ],
+    "search": {
+      "id": "z273V4RI4",
+      "complexity": 18,
+      "total": 45
+    },
     "builds": 1,
     "mods": [
       {
@@ -9239,6 +9395,24 @@
   {
     "item": "Cold Iron Point",
     "stats": "#% increased global critical strike chance",
+    "average": 4.555555555555555,
+    "prices": [
+      3,
+      4,
+      4,
+      4,
+      4,
+      5,
+      5,
+      5,
+      5,
+      5
+    ],
+    "search": {
+      "id": "LeWqod2sn",
+      "complexity": 18,
+      "total": 627
+    },
     "builds": 1,
     "mods": [
       {
@@ -9252,6 +9426,24 @@
   {
     "item": "Skin of the Loyal",
     "stats": "+# to level of socketed minion gems",
+    "average": 1413.0349999999999,
+    "prices": [
+      434.78,
+      652.17,
+      652.17,
+      652.17,
+      1521.73,
+      2173.8999999999996,
+      2173.8999999999996,
+      3043.46,
+      26086.8,
+      43478
+    ],
+    "search": {
+      "id": "Eyeq6dYf5",
+      "complexity": 18,
+      "total": 10
+    },
     "builds": 1,
     "mods": [
       {
@@ -9265,6 +9457,13 @@
   {
     "item": "Skin of the Loyal",
     "stats": "+# to level of socketed aoe gems, +# to level of socketed projectile gems",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "XqD4GedCP",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -9284,6 +9483,18 @@
   {
     "item": "Skin of the Loyal",
     "stats": "+# to level of socketed duration gems, #% increased maximum energy shield",
+    "average": 5380.4025,
+    "prices": [
+      652.17,
+      1304.34,
+      8695.599999999999,
+      10869.5
+    ],
+    "search": {
+      "id": "DL3Vd74H5",
+      "complexity": 29,
+      "total": 4
+    },
     "builds": 1,
     "mods": [
       {
