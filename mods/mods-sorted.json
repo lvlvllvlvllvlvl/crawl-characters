@@ -14975,6 +14975,24 @@
   {
     "item": "Might of the Meek",
     "stats": "you cannot be cursed with silence",
+    "average": 9.777777777777779,
+    "prices": [
+      9,
+      9,
+      10,
+      10,
+      10,
+      10,
+      10,
+      10,
+      10,
+      14
+    ],
+    "search": {
+      "id": "BGrV83KC8",
+      "complexity": 18,
+      "total": 29
+    },
     "builds": 1,
     "mods": [
       {
@@ -14988,6 +15006,24 @@
   {
     "item": "Might of the Meek",
     "stats": "you cannot be hindered",
+    "average": 15.555555555555555,
+    "prices": [
+      10,
+      10,
+      15,
+      15,
+      15,
+      15,
+      20,
+      20,
+      20,
+      30
+    ],
+    "search": {
+      "id": "RVBXglWU7",
+      "complexity": 18,
+      "total": 24
+    },
     "builds": 1,
     "mods": [
       {
@@ -15001,6 +15037,24 @@
   {
     "item": "Might of the Meek",
     "stats": "damage penetrates #% lightning resistance",
+    "average": 26.3,
+    "prices": [
+      9,
+      10,
+      10,
+      20,
+      25,
+      30,
+      30,
+      39,
+      40,
+      50
+    ],
+    "search": {
+      "id": "lXODXjrhV",
+      "complexity": 19,
+      "total": 18
+    },
     "builds": 1,
     "mods": [
       {
@@ -15015,6 +15069,24 @@
   {
     "item": "Might of the Meek",
     "stats": "#% increased global critical strike chance",
+    "average": 14.4,
+    "prices": [
+      10,
+      10,
+      10,
+      14,
+      15,
+      15,
+      15,
+      15,
+      20,
+      20
+    ],
+    "search": {
+      "id": "3Gw30nJU5",
+      "complexity": 18,
+      "total": 30
+    },
     "builds": 1,
     "mods": [
       {
@@ -15028,6 +15100,13 @@
   {
     "item": "Unnatural Instinct",
     "stats": "#% increased global critical strike chance, damage penetrates #% cold resistance",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "WVkzPqRfm",
+      "complexity": 30,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -15048,6 +15127,13 @@
   {
     "item": "Unnatural Instinct",
     "stats": "you cannot be maimed, #% reduced bleed duration on you",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "OqeJXDzhE",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -15067,6 +15153,15 @@
   {
     "item": "Unnatural Instinct",
     "stats": "damage penetrates #% cold resistance, damage penetrates #% lightning resistance",
+    "average": 217.39,
+    "prices": [
+      217.39
+    ],
+    "search": {
+      "id": "GkOz8ooub",
+      "complexity": 31,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -15088,6 +15183,16 @@
   {
     "item": "Unnatural Instinct",
     "stats": "#% increased reservation efficiency of skills, corrupted blood cannot be inflicted on you",
+    "average": 65216.99999999999,
+    "prices": [
+      65216.99999999999,
+      65216.99999999999
+    ],
+    "search": {
+      "id": "80Z8EB2cV",
+      "complexity": 30,
+      "total": 2
+    },
     "builds": 1,
     "mods": [
       {
@@ -15108,6 +15213,16 @@
   {
     "item": "Unnatural Instinct",
     "stats": "#% reduced bleed duration on you, you cannot be hindered",
+    "average": 543.4749999999999,
+    "prices": [
+      434.78,
+      652.17
+    ],
+    "search": {
+      "id": "6ZY69bbhG",
+      "complexity": 29,
+      "total": 2
+    },
     "builds": 1,
     "mods": [
       {
@@ -15127,6 +15242,13 @@
   {
     "item": "Unnatural Instinct",
     "stats": "#% increased damage, #% increased area of effect",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "KJDLoqRi5",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -15146,6 +15268,13 @@
   {
     "item": "Unnatural Instinct",
     "stats": "#% reduced effect of chill on you, #% increased area of effect",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "y9OdoVjcR",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -15165,6 +15294,24 @@
   {
     "item": "Unnatural Instinct",
     "stats": "damage penetrates #% fire resistance",
+    "average": 70,
+    "prices": [
+      60,
+      65,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70,
+      70
+    ],
+    "search": {
+      "id": "jwa3MYbfX",
+      "complexity": 19,
+      "total": 96
+    },
     "builds": 1,
     "mods": [
       {
@@ -15179,6 +15326,15 @@
   {
     "item": "Unnatural Instinct",
     "stats": "damage penetrates #% lightning resistance, #% reduced effect of shock on you",
+    "average": 434.78,
+    "prices": [
+      434.78
+    ],
+    "search": {
+      "id": "dXJVXvvUJ",
+      "complexity": 30,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -15199,6 +15355,13 @@
   {
     "item": "Unnatural Instinct",
     "stats": "#% reduced effect of curses on you, damage penetrates #% fire resistance",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "wKWX9XnHb",
+      "complexity": 30,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -15219,6 +15382,16 @@
   {
     "item": "Unnatural Instinct",
     "stats": "#% increased damage, corrupted blood cannot be inflicted on you",
+    "average": 30434.6,
+    "prices": [
+      17391.199999999997,
+      43478
+    ],
+    "search": {
+      "id": "LmdynljIn",
+      "complexity": 29,
+      "total": 2
+    },
     "builds": 1,
     "mods": [
       {
