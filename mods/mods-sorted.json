@@ -1519,6 +1519,37 @@
     ]
   },
   {
+    "item": "Ancestral Vision",
+    "stats": "corrupted blood cannot be inflicted on you",
+    "average": 12412.969,
+    "prices": [
+      9565.16,
+      9782.55,
+      10434.72,
+      10869.5,
+      12608.619999999999,
+      12608.619999999999,
+      12608.619999999999,
+      14130.349999999999,
+      15217.3,
+      16304.249999999998
+    ],
+    "search": {
+      "id": "plLZELbt0",
+      "complexity": 18,
+      "total": 10
+    },
+    "builds": 3,
+    "mods": [
+      {
+        "text": "corrupted blood cannot be inflicted on you",
+        "trade_ids": [
+          "implicit.stat_1658498488"
+        ]
+      }
+    ]
+  },
+  {
     "item": "Kaom's Spirit",
     "stats": "attacks have +#% to critical strike chance",
     "average": 93,
@@ -3099,37 +3130,6 @@
         "text": "#% increased maximum life",
         "trade_ids": [
           "implicit.stat_983749596"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Ancestral Vision",
-    "stats": "corrupted blood cannot be inflicted on you",
-    "average": 12412.969,
-    "prices": [
-      9565.16,
-      9782.55,
-      10434.72,
-      10869.5,
-      12608.619999999999,
-      12608.619999999999,
-      12608.619999999999,
-      14130.349999999999,
-      15217.3,
-      16304.249999999998
-    ],
-    "search": {
-      "id": "plLZELbt0",
-      "complexity": 18,
-      "total": 10
-    },
-    "builds": 2,
-    "mods": [
-      {
-        "text": "corrupted blood cannot be inflicted on you",
-        "trade_ids": [
-          "implicit.stat_1658498488"
         ]
       }
     ]
@@ -13187,6 +13187,24 @@
   {
     "item": "Hands of the High Templar",
     "stats": "+# to level of socketed gems, +# to level of socketed aoe gems",
+    "average": 3391.2839999999997,
+    "prices": [
+      2173.8999999999996,
+      2391.29,
+      3043.46,
+      3260.85,
+      3260.85,
+      3260.85,
+      3695.6299999999997,
+      4130.41,
+      4347.799999999999,
+      4347.799999999999
+    ],
+    "search": {
+      "id": "QVn0WyRCw",
+      "complexity": 29,
+      "total": 38
+    },
     "builds": 1,
     "mods": [
       {
@@ -13206,6 +13224,13 @@
   {
     "item": "Hands of the High Templar",
     "stats": "+# to level of socketed gems, +# to level of socketed aoe gems, #% increased maximum life, curse enemies with vulnerability on hit",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "waVjEXmfb",
+      "complexity": 21,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -13237,6 +13262,17 @@
   {
     "item": "Hands of the High Templar",
     "stats": "+# to level of socketed duration gems, +# to level of socketed projectile gems, +# to level of socketed curse gems",
+    "average": 2826.0699999999997,
+    "prices": [
+      869.56,
+      3260.85,
+      4347.799999999999
+    ],
+    "search": {
+      "id": "3BYjl0Js5",
+      "complexity": 20,
+      "total": 3
+    },
     "builds": 1,
     "mods": [
       {
@@ -13262,6 +13298,24 @@
   {
     "item": "Hands of the High Templar",
     "stats": "+# to level of socketed aoe gems, +# to level of socketed aura gems",
+    "average": 4108.670999999999,
+    "prices": [
+      1956.5099999999998,
+      2608.68,
+      2826.0699999999997,
+      3260.85,
+      4347.799999999999,
+      4347.799999999999,
+      4347.799999999999,
+      5434.75,
+      5434.75,
+      6521.7
+    ],
+    "search": {
+      "id": "ze59nYqf4",
+      "complexity": 29,
+      "total": 31
+    },
     "builds": 1,
     "mods": [
       {
@@ -13281,6 +13335,17 @@
   {
     "item": "Hands of the High Templar",
     "stats": "+# to level of socketed aoe gems, +# to level of socketed curse gems, +# to maximum frenzy charges",
+    "average": 2173.8999999999996,
+    "prices": [
+      2173.8999999999996,
+      2173.8999999999996,
+      6521.7
+    ],
+    "search": {
+      "id": "vlJ5eG9HE",
+      "complexity": 20,
+      "total": 3
+    },
     "builds": 1,
     "mods": [
       {
@@ -13306,6 +13371,13 @@
   {
     "item": "Hands of the High Templar",
     "stats": "+# to level of socketed gems, +# to level of socketed curse gems, +# to level of socketed warcry gems, curse enemies with enfeeble on hit, attacks have +#% to critical strike chance",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "waqOP7jsb",
+      "complexity": 22,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -13343,6 +13415,13 @@
   {
     "item": "Hands of the High Templar",
     "stats": "+# to level of socketed duration gems, +# to level of socketed minion gems, +# to level of socketed aura gems, #% increased maximum energy shield, curse enemies with elemental weakness on hit",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "vpkngDJuE",
+      "complexity": 22,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -13380,6 +13459,24 @@
   {
     "item": "Hands of the High Templar",
     "stats": "+# to level of socketed duration gems, +# to level of socketed aoe gems",
+    "average": 951.08125,
+    "prices": [
+      652.17,
+      652.17,
+      869.56,
+      869.56,
+      1086.9499999999998,
+      1086.9499999999998,
+      1086.9499999999998,
+      1304.34,
+      1739.12,
+      1956.5099999999998
+    ],
+    "search": {
+      "id": "Pd5y38miL",
+      "complexity": 29,
+      "total": 35
+    },
     "builds": 1,
     "mods": [
       {
@@ -13399,6 +13496,13 @@
   {
     "item": "Hands of the High Templar",
     "stats": "+# to level of socketed minion gems, +# to level of socketed aura gems, #% increased attack speed, +# to maximum frenzy charges, curse enemies with elemental weakness on hit",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "moero2Bi6",
+      "complexity": 23,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -13437,6 +13541,13 @@
   {
     "item": "Headhunter",
     "stats": "#% increased movement speed during any flask effect, #% increased critical strike chance during any flask effect",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "9qllWp0hK",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -13456,6 +13567,24 @@
   {
     "item": "Headhunter",
     "stats": "#% increased strength, #% increased dexterity",
+    "average": 33347.626,
+    "prices": [
+      21739,
+      25869.41,
+      26086.8,
+      32608.499999999996,
+      34782.399999999994,
+      34782.399999999994,
+      36956.299999999996,
+      38043.25,
+      39130.2,
+      43478
+    ],
+    "search": {
+      "id": "waP7Xanib",
+      "complexity": 29,
+      "total": 28
+    },
     "builds": 1,
     "mods": [
       {
@@ -13475,6 +13604,24 @@
   {
     "item": "Headhunter",
     "stats": "#% increased maximum energy shield",
+    "average": 26108.539,
+    "prices": [
+      19130.32,
+      21739,
+      21739,
+      25652.019999999997,
+      26086.8,
+      26086.8,
+      27173.75,
+      28260.699999999997,
+      31521.55,
+      33695.45
+    ],
+    "search": {
+      "id": "Eydr2bzH5",
+      "complexity": 18,
+      "total": 14
+    },
     "builds": 1,
     "mods": [
       {
@@ -13488,6 +13635,24 @@
   {
     "item": "Headhunter",
     "stats": "#% increased area of effect",
+    "average": 52390.99,
+    "prices": [
+      18043.37,
+      21739,
+      26304.19,
+      43478,
+      48912.75,
+      49999.7,
+      80434.29999999999,
+      91303.79999999999,
+      91303.79999999999,
+      274790.25
+    ],
+    "search": {
+      "id": "OVwVMgVTE",
+      "complexity": 18,
+      "total": 12
+    },
     "builds": 1,
     "mods": [
       {
@@ -13501,6 +13666,15 @@
   {
     "item": "Headhunter",
     "stats": "#% increased area of effect, wrath has #% increased aura effect",
+    "average": 80434.29999999999,
+    "prices": [
+      80434.29999999999
+    ],
+    "search": {
+      "id": "6Zv5PPXcG",
+      "complexity": 29,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -13520,6 +13694,15 @@
   {
     "item": "Headhunter",
     "stats": "anger has #% increased aura effect, #% increased cast speed during any flask effect",
+    "average": 28260.699999999997,
+    "prices": [
+      28260.699999999997
+    ],
+    "search": {
+      "id": "bXg3WPdHL",
+      "complexity": 29,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
