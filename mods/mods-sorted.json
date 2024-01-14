@@ -9137,6 +9137,25 @@
   },
   {
     "item": "Goldwyrm",
+    "stats": "+# to level of socketed gems, +# to level of socketed minion gems",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "+# to level of socketed gems",
+        "trade_ids": [
+          "implicit.stat_2843100721"
+        ]
+      },
+      {
+        "text": "+# to level of socketed minion gems",
+        "trade_ids": [
+          "implicit.stat_3604946673"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Goldwyrm",
     "stats": "+# to level of socketed gems, +#% chance to suppress spell damage",
     "average": null,
     "prices": [],
@@ -11348,6 +11367,25 @@
   },
   {
     "item": "The Jinxed Juju",
+    "stats": "grants level # purity of elements skill, +#% to all maximum resistances",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "grants level # purity of elements skill",
+        "trade_ids": [
+          "implicit.stat_105466375"
+        ]
+      },
+      {
+        "text": "+#% to all maximum resistances",
+        "trade_ids": [
+          "implicit.stat_569299859"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "The Jinxed Juju",
     "stats": "#% of cold damage leeched as life",
     "average": 56.25,
     "prices": [
@@ -12276,6 +12314,25 @@
   },
   {
     "item": "The Covenant",
+    "stats": "+# to level of socketed minion gems, #% increased maximum life",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "+# to level of socketed minion gems",
+        "trade_ids": [
+          "implicit.stat_3604946673"
+        ]
+      },
+      {
+        "text": "#% increased maximum life",
+        "trade_ids": [
+          "implicit.stat_983749596"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "The Covenant",
     "stats": "+# to level of socketed gems",
     "average": 1130.4279999999999,
     "prices": [
@@ -12834,6 +12891,25 @@
         "text": "#% of physical damage from hits taken as cold damage",
         "trade_ids": [
           "implicit.stat_1871056256"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Aegis Aurora",
+    "stats": "+# to level of socketed minion gems, +#% to maximum chance to block attack damage",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "+# to level of socketed minion gems",
+        "trade_ids": [
+          "implicit.stat_3604946673"
+        ]
+      },
+      {
+        "text": "+#% to maximum chance to block attack damage",
+        "trade_ids": [
+          "implicit.stat_4124805414"
         ]
       }
     ]
@@ -15503,6 +15579,16 @@
   {
     "item": "Unnatural Instinct",
     "stats": "#% increased global critical strike chance, #% reduced bleed duration on you",
+    "average": 652.1699999999998,
+    "prices": [
+      217.39,
+      1086.9499999999998
+    ],
+    "search": {
+      "id": "gX4ea72cQ",
+      "complexity": 29,
+      "total": 2
+    },
     "builds": 1,
     "mods": [
       {
@@ -15522,6 +15608,13 @@
   {
     "item": "Unnatural Instinct",
     "stats": "you cannot be maimed, corrupted blood cannot be inflicted on you",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "8a2EZDvtV",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -15541,6 +15634,13 @@
   {
     "item": "Unnatural Instinct",
     "stats": "damage penetrates #% elemental resistances, corrupted blood cannot be inflicted on you",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "rXj9DVMHQ",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -15560,6 +15660,13 @@
   {
     "item": "Leper's Alms",
     "stats": "#% of physical damage from hits taken as lightning damage, #% reduced damage taken from projectile hits",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "VMpJL9whp",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -15579,6 +15686,24 @@
   {
     "item": "Vixen's Entrapment",
     "stats": "#% increased cast speed",
+    "average": 67.22222222222223,
+    "prices": [
+      10,
+      30,
+      50,
+      50,
+      60,
+      100,
+      100,
+      100,
+      105,
+      217.39
+    ],
+    "search": {
+      "id": "PK7l22JCL",
+      "complexity": 18,
+      "total": 22
+    },
     "builds": 1,
     "mods": [
       {
@@ -15592,6 +15717,24 @@
   {
     "item": "Vixen's Entrapment",
     "stats": "+# to level of socketed gems",
+    "average": 48.888888888888886,
+    "prices": [
+      25,
+      25,
+      30,
+      30,
+      40,
+      40,
+      50,
+      100,
+      100,
+      135
+    ],
+    "search": {
+      "id": "bPZgddLTL",
+      "complexity": 18,
+      "total": 23
+    },
     "builds": 1,
     "mods": [
       {
@@ -15605,6 +15748,15 @@
   {
     "item": "Perandus Blazon",
     "stats": "#% increased rarity of items found, #% increased cast speed during any flask effect",
+    "average": 217.39,
+    "prices": [
+      217.39
+    ],
+    "search": {
+      "id": "mXD7YjMt6",
+      "complexity": 29,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -15624,6 +15776,24 @@
   {
     "item": "Perandus Blazon",
     "stats": "#% increased quantity of items found",
+    "average": 1304.3399999999997,
+    "prices": [
+      869.56,
+      1086.9499999999998,
+      1086.9499999999998,
+      1086.9499999999998,
+      1304.34,
+      1521.73,
+      1739.12,
+      1739.12,
+      2173.8999999999996,
+      3239.111
+    ],
+    "search": {
+      "id": "9Y6QWVztK",
+      "complexity": 18,
+      "total": 24
+    },
     "builds": 1,
     "mods": [
       {
@@ -15637,6 +15807,16 @@
   {
     "item": "Perandus Blazon",
     "stats": "#% increased rarity of items found, #% increased critical strike chance during any flask effect",
+    "average": 120,
+    "prices": [
+      120,
+      120
+    ],
+    "search": {
+      "id": "7l3DmMgS5",
+      "complexity": 29,
+      "total": 2
+    },
     "builds": 1,
     "mods": [
       {
@@ -15656,6 +15836,15 @@
   {
     "item": "Perandus Blazon",
     "stats": "#% increased maximum energy shield, #% increased movement speed during any flask effect",
+    "average": 217.39,
+    "prices": [
+      217.39
+    ],
+    "search": {
+      "id": "KJXbbKMU5",
+      "complexity": 29,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -15675,6 +15864,24 @@
   {
     "item": "Sentari's Answer",
     "stats": "#% increased maximum life",
+    "average": 15.5,
+    "prices": [
+      5,
+      10,
+      10,
+      10,
+      10,
+      10,
+      10,
+      30,
+      30,
+      30
+    ],
+    "search": {
+      "id": "mXYGO9aC6",
+      "complexity": 18,
+      "total": 58
+    },
     "builds": 1,
     "mods": [
       {
@@ -15688,6 +15895,24 @@
   {
     "item": "Sentari's Answer",
     "stats": "you take #% reduced extra damage from critical strikes",
+    "average": 16.2,
+    "prices": [
+      10,
+      10,
+      10,
+      10,
+      15,
+      20,
+      20,
+      20,
+      20,
+      27
+    ],
+    "search": {
+      "id": "8adzGlqCV",
+      "complexity": 18,
+      "total": 53
+    },
     "builds": 1,
     "mods": [
       {
@@ -15701,6 +15926,24 @@
   {
     "item": "Sentari's Answer",
     "stats": "#% of physical damage from hits taken as chaos damage",
+    "average": 20.911,
+    "prices": [
+      7,
+      10,
+      13.11,
+      20,
+      20,
+      20,
+      29,
+      30,
+      30,
+      30
+    ],
+    "search": {
+      "id": "7lozQ2lH5",
+      "complexity": 18,
+      "total": 59
+    },
     "builds": 1,
     "mods": [
       {
@@ -15714,6 +15957,24 @@
   {
     "item": "Primordial Eminence",
     "stats": "corrupted blood cannot be inflicted on you",
+    "average": 823.9081,
+    "prices": [
+      413.04099999999994,
+      543.4749999999999,
+      652.17,
+      652.17,
+      652.17,
+      869.56,
+      1086.9499999999998,
+      1086.9499999999998,
+      1086.9499999999998,
+      1195.645
+    ],
+    "search": {
+      "id": "80ZJ5VZcV",
+      "complexity": 18,
+      "total": 12
+    },
     "builds": 1,
     "mods": [
       {
@@ -15727,6 +15988,13 @@
   {
     "item": "Thread of Hope",
     "stats": "damage penetrates #% fire resistance, you cannot be cursed with silence",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "kXlKda6I5",
+      "complexity": 30,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -16280,6 +16548,46 @@
     ]
   },
   {
+    "item": "Severed in Sleep",
+    "stats": "#% increased area of effect",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "#% increased area of effect",
+        "trade_ids": [
+          "implicit.stat_280731498"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Severed in Sleep",
+    "stats": "#% increased attack speed",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "#% increased attack speed",
+        "trade_ids": [
+          "implicit.stat_681332047",
+          "implicit.stat_210067635"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Severed in Sleep",
+    "stats": "#% increased physical damage",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "#% increased physical damage",
+        "trade_ids": [
+          "implicit.stat_1509134228"
+        ]
+      }
+    ]
+  },
+  {
     "item": "Painseeker",
     "stats": "+# to maximum frenzy charges, curse enemies with elemental weakness on hit",
     "builds": 1,
@@ -16797,33 +17105,6 @@
         "text": "#% increased maximum life",
         "trade_ids": [
           "implicit.stat_983749596"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Severed in Sleep",
-    "stats": "#% increased attack speed",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "#% increased attack speed",
-        "trade_ids": [
-          "implicit.stat_681332047",
-          "implicit.stat_210067635"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Severed in Sleep",
-    "stats": "#% increased physical damage",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "#% increased physical damage",
-        "trade_ids": [
-          "implicit.stat_1509134228"
         ]
       }
     ]
