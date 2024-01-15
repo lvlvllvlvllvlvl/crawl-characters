@@ -17215,6 +17215,17 @@
   {
     "item": "Black Zenith",
     "stats": "curse enemies with temporal chains on hit",
+    "average": 434.78,
+    "prices": [
+      434.78,
+      434.78,
+      434.78
+    ],
+    "search": {
+      "id": "VMQOgQrcp",
+      "complexity": 18,
+      "total": 3
+    },
     "builds": 1,
     "mods": [
       {
@@ -17228,6 +17239,19 @@
   {
     "item": "Replica Voidwalker",
     "stats": "regenerate # life per second while moving",
+    "average": 277.39,
+    "prices": [
+      100,
+      100,
+      100,
+      434.78,
+      652.17
+    ],
+    "search": {
+      "id": "RVD9VYZI7",
+      "complexity": 18,
+      "total": 5
+    },
     "builds": 1,
     "mods": [
       {
@@ -17241,6 +17265,24 @@
   {
     "item": "Zeel's Amplifier",
     "stats": "+# to level of socketed aoe gems",
+    "average": 7.4,
+    "prices": [
+      2,
+      2,
+      5,
+      5,
+      10,
+      10,
+      10,
+      10,
+      10,
+      10
+    ],
+    "search": {
+      "id": "Zb4Eb8mHQ",
+      "complexity": 18,
+      "total": 43
+    },
     "builds": 1,
     "mods": [
       {
@@ -17254,6 +17296,13 @@
   {
     "item": "Zeel's Amplifier",
     "stats": "+# to level of socketed aoe gems, you take #% reduced extra damage from critical strikes",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "8qB66P8UV",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -17273,6 +17322,24 @@
   {
     "item": "Zeel's Amplifier",
     "stats": "+# to level of socketed gems",
+    "average": 21.5,
+    "prices": [
+      5,
+      10,
+      11,
+      12,
+      22,
+      25,
+      30,
+      30,
+      30,
+      40
+    ],
+    "search": {
+      "id": "4qnPaPvC9",
+      "complexity": 18,
+      "total": 50
+    },
     "builds": 1,
     "mods": [
       {
@@ -17286,6 +17353,15 @@
   {
     "item": "Zeel's Amplifier",
     "stats": "+# to level of socketed gems, #% of physical damage from hits taken as lightning damage",
+    "average": 11,
+    "prices": [
+      11
+    ],
+    "search": {
+      "id": "2BrRVbeUk",
+      "complexity": 29,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -17305,6 +17381,24 @@
   {
     "item": "Daresso's Defiance",
     "stats": "+# to level of socketed duration gems",
+    "average": 108.71700000000001,
+    "prices": [
+      10,
+      15,
+      25,
+      25,
+      50,
+      150,
+      160,
+      217.39,
+      217.39,
+      217.39
+    ],
+    "search": {
+      "id": "zerWLqLc4",
+      "complexity": 18,
+      "total": 21
+    },
     "builds": 1,
     "mods": [
       {
@@ -17318,6 +17412,24 @@
   {
     "item": "Daresso's Defiance",
     "stats": "+# to level of socketed gems",
+    "average": 182.74374999999998,
+    "prices": [
+      30,
+      100,
+      125,
+      150,
+      217.39,
+      217.39,
+      217.39,
+      217.39,
+      217.39,
+      869.56
+    ],
+    "search": {
+      "id": "vladEZjCE",
+      "complexity": 18,
+      "total": 18
+    },
     "builds": 1,
     "mods": [
       {
@@ -17331,6 +17443,24 @@
   {
     "item": "Surgebinders",
     "stats": "curse enemies with elemental weakness on hit",
+    "average": 107.14285714285714,
+    "prices": [
+      100,
+      100,
+      100,
+      100,
+      110,
+      120,
+      120,
+      150,
+      195.65099999999998,
+      217.39
+    ],
+    "search": {
+      "id": "YVqMpa6sY",
+      "complexity": 18,
+      "total": 98
+    },
     "builds": 1,
     "mods": [
       {
@@ -17344,6 +17474,13 @@
   {
     "item": "Surgebinders",
     "stats": "+# to level of socketed aura gems, curse enemies with elemental weakness on hit",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "jXZ4nRoTX",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -17363,6 +17500,18 @@
   {
     "item": "Surgebinders",
     "stats": "+# to level of socketed aoe gems, curse enemies with elemental weakness on hit",
+    "average": 1956.51,
+    "prices": [
+      1521.73,
+      1739.12,
+      2608.68,
+      6521.7
+    ],
+    "search": {
+      "id": "DqMl5OXf5",
+      "complexity": 29,
+      "total": 4
+    },
     "builds": 1,
     "mods": [
       {
@@ -17382,6 +17531,13 @@
   {
     "item": "Hyrri's Ire",
     "stats": "+# to level of socketed gems, #% increased maximum energy shield",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "6Zy0d3dsG",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -17401,6 +17557,13 @@
   {
     "item": "Hyrri's Ire",
     "stats": "you take #% reduced extra damage from critical strikes, +#% to all maximum resistances",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "5o3yDeDsa",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -17420,6 +17583,24 @@
   {
     "item": "Hyrri's Ire",
     "stats": "+# to level of socketed minion gems",
+    "average": 30.9,
+    "prices": [
+      10,
+      13,
+      20,
+      20,
+      25,
+      40,
+      40,
+      41,
+      50,
+      50
+    ],
+    "search": {
+      "id": "qXlZDzvTg",
+      "complexity": 18,
+      "total": 61
+    },
     "builds": 1,
     "mods": [
       {
@@ -17433,6 +17614,13 @@
   {
     "item": "Hyrri's Ire",
     "stats": "+# to level of socketed gems, +# to level of socketed projectile gems",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "OVnvVyOTE",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
