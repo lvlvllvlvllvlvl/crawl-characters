@@ -13652,6 +13652,24 @@
   {
     "item": "Headhunter",
     "stats": "#% increased maximum energy shield",
+    "average": 23550.583333333332,
+    "prices": [
+      17391.199999999997,
+      17391.199999999997,
+      18478.149999999998,
+      19565.1,
+      26086.8,
+      26086.8,
+      26086.8,
+      28260.699999999997,
+      32608.499999999996,
+      39130.2
+    ],
+    "search": {
+      "id": "Eydr2bzH5",
+      "complexity": 18,
+      "total": 13
+    },
     "builds": 1,
     "mods": [
       {
@@ -13665,6 +13683,22 @@
   {
     "item": "Headhunter",
     "stats": "#% increased area of effect",
+    "average": 27753.456666666665,
+    "prices": [
+      17173.809999999998,
+      18912.93,
+      21739,
+      23912.899999999998,
+      41304.1,
+      43478,
+      130433.99999999999,
+      280035.375
+    ],
+    "search": {
+      "id": "OVwVMgVTE",
+      "complexity": 18,
+      "total": 8
+    },
     "builds": 1,
     "mods": [
       {
@@ -13678,6 +13712,13 @@
   {
     "item": "Headhunter",
     "stats": "#% increased area of effect, wrath has #% increased aura effect",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "6Zv5PPXcG",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -13697,6 +13738,15 @@
   {
     "item": "Headhunter",
     "stats": "anger has #% increased aura effect, #% increased cast speed during any flask effect",
+    "average": 28260.699999999997,
+    "prices": [
+      28260.699999999997
+    ],
+    "search": {
+      "id": "bXg3WPdHL",
+      "complexity": 29,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -13716,6 +13766,13 @@
   {
     "item": "Willclash",
     "stats": "+# to maximum power charges, #% increased effect of shock",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "5obpM4mua",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -13735,6 +13792,24 @@
   {
     "item": "Leer Cast",
     "stats": "+# to maximum power charges",
+    "average": 26.114285714285717,
+    "prices": [
+      15,
+      20,
+      20,
+      25,
+      32.8,
+      30,
+      40,
+      70,
+      80,
+      100
+    ],
+    "search": {
+      "id": "Xqb5zPKFP",
+      "complexity": 18,
+      "total": 25
+    },
     "builds": 1,
     "mods": [
       {
@@ -13748,6 +13823,13 @@
   {
     "item": "Transcendent Mind",
     "stats": "corrupted blood cannot be inflicted on you",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "8ad6EgbfV",
+      "complexity": 18,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -13761,6 +13843,24 @@
   {
     "item": "Viridi's Veil",
     "stats": "+# to level of socketed projectile gems",
+    "average": 109.21700000000001,
+    "prices": [
+      20,
+      30,
+      50,
+      50,
+      70,
+      100,
+      120,
+      217.39,
+      217.39,
+      217.39
+    ],
+    "search": {
+      "id": "MVDlgq6UJ",
+      "complexity": 18,
+      "total": 21
+    },
     "builds": 1,
     "mods": [
       {
@@ -13774,6 +13874,24 @@
   {
     "item": "Viridi's Veil",
     "stats": "socketed skill gems get a #% cost & reservation multiplier",
+    "average": 357.14071428571424,
+    "prices": [
+      217.39,
+      217.39,
+      326.085,
+      434.78,
+      434.78,
+      434.78,
+      434.78,
+      869.56,
+      1304.34,
+      1630.425
+    ],
+    "search": {
+      "id": "9qlwZXQUK",
+      "complexity": 18,
+      "total": 36
+    },
     "builds": 1,
     "mods": [
       {
@@ -13787,6 +13905,24 @@
   {
     "item": "Alpha's Howl",
     "stats": "+# to level of socketed duration gems",
+    "average": 53,
+    "prices": [
+      20,
+      20,
+      20,
+      20,
+      40,
+      60,
+      70,
+      80,
+      100,
+      100
+    ],
+    "search": {
+      "id": "Zb5OD8mCQ",
+      "complexity": 18,
+      "total": 25
+    },
     "builds": 1,
     "mods": [
       {
@@ -13800,6 +13936,24 @@
   {
     "item": "Oskarm",
     "stats": "attacks have +#% to critical strike chance",
+    "average": 51.55555555555556,
+    "prices": [
+      20,
+      24,
+      30,
+      30,
+      40,
+      50,
+      70,
+      100,
+      100,
+      130.434
+    ],
+    "search": {
+      "id": "rXpPWX7CQ",
+      "complexity": 18,
+      "total": 33
+    },
     "builds": 1,
     "mods": [
       {
@@ -13813,6 +13967,13 @@
   {
     "item": "Oskarm",
     "stats": "+# to level of socketed trap or mine gems, curse enemies with vulnerability on hit",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "WVrvPVDum",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -13832,6 +13993,13 @@
   {
     "item": "Oskarm",
     "stats": "curse enemies with vulnerability on hit, attacks have +#% to critical strike chance",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "qX42qr3Cg",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -13851,6 +14019,24 @@
   {
     "item": "Redblade Banner",
     "stats": "you take #% reduced extra damage from critical strikes",
+    "average": 10065.156999999997,
+    "prices": [
+      3260.85,
+      3260.85,
+      3913.0199999999995,
+      7608.65,
+      8695.599999999999,
+      8695.599999999999,
+      13043.4,
+      15217.3,
+      17391.199999999997,
+      19565.1
+    ],
+    "search": {
+      "id": "BEJKXnjC8",
+      "complexity": 18,
+      "total": 10
+    },
     "builds": 1,
     "mods": [
       {
@@ -13864,6 +14050,24 @@
   {
     "item": "Redblade Banner",
     "stats": "#% of physical damage from hits taken as cold damage",
+    "average": 809.1738888888889,
+    "prices": [
+      217.39,
+      434.78,
+      652.17,
+      652.17,
+      652.17,
+      869.56,
+      869.56,
+      978.2549999999999,
+      1086.9499999999998,
+      1086.9499999999998
+    ],
+    "search": {
+      "id": "5okog5mFa",
+      "complexity": 18,
+      "total": 16
+    },
     "builds": 1,
     "mods": [
       {
