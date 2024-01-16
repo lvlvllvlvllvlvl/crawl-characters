@@ -13529,6 +13529,23 @@
   {
     "item": "Headhunter",
     "stats": "#% increased maximum energy shield",
+    "average": 32039.95,
+    "prices": [
+      16291.5,
+      26066.4,
+      32583,
+      32583,
+      39099.6,
+      45616.2,
+      65166,
+      82543.6,
+      376704.56
+    ],
+    "search": {
+      "id": "Eydr2bzH5",
+      "complexity": 18,
+      "total": 9
+    },
     "builds": 1,
     "mods": [
       {
@@ -13542,6 +13559,21 @@
   {
     "item": "Headhunter",
     "stats": "#% increased area of effect",
+    "average": 49569.60400000001,
+    "prices": [
+      20853.12,
+      29324.7,
+      49960.6,
+      73854.8,
+      73854.8,
+      282528.42,
+      376704.56
+    ],
+    "search": {
+      "id": "OVwVMgVTE",
+      "complexity": 18,
+      "total": 7
+    },
     "builds": 1,
     "mods": [
       {
@@ -13555,6 +13587,13 @@
   {
     "item": "Headhunter",
     "stats": "#% increased area of effect, wrath has #% increased aura effect",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "6Zv5PPXcG",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -13574,6 +13613,13 @@
   {
     "item": "Headhunter",
     "stats": "anger has #% increased aura effect, #% increased cast speed during any flask effect",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "bXg3WPdHL",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -13593,6 +13639,13 @@
   {
     "item": "Willclash",
     "stats": "+# to maximum power charges, #% increased effect of shock",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "5obpM4mua",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -13612,6 +13665,24 @@
   {
     "item": "Leer Cast",
     "stats": "+# to maximum power charges",
+    "average": 46.72222222222222,
+    "prices": [
+      20,
+      25,
+      30.5,
+      40,
+      40,
+      55,
+      60,
+      70,
+      80,
+      100
+    ],
+    "search": {
+      "id": "Xqb5zPKFP",
+      "complexity": 18,
+      "total": 24
+    },
     "builds": 1,
     "mods": [
       {
@@ -13625,6 +13696,13 @@
   {
     "item": "Transcendent Mind",
     "stats": "corrupted blood cannot be inflicted on you",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "8ad6EgbfV",
+      "complexity": 18,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -13638,6 +13716,24 @@
   {
     "item": "Viridi's Veil",
     "stats": "+# to level of socketed projectile gems",
+    "average": 120.27180000000001,
+    "prices": [
+      50,
+      50,
+      100,
+      100,
+      100,
+      100,
+      140,
+      150,
+      195.498,
+      217.22
+    ],
+    "search": {
+      "id": "MVDlgq6UJ",
+      "complexity": 18,
+      "total": 22
+    },
     "builds": 1,
     "mods": [
       {
@@ -13651,6 +13747,24 @@
   {
     "item": "Viridi's Veil",
     "stats": "socketed skill gems get a #% cost & reservation multiplier",
+    "average": 482.71111111111105,
+    "prices": [
+      217.22,
+      217.22,
+      434.44,
+      434.44,
+      434.44,
+      434.44,
+      434.44,
+      868.88,
+      868.88,
+      1086.1
+    ],
+    "search": {
+      "id": "9qlwZXQUK",
+      "complexity": 18,
+      "total": 49
+    },
     "builds": 1,
     "mods": [
       {
@@ -13664,6 +13778,24 @@
   {
     "item": "Alpha's Howl",
     "stats": "+# to level of socketed duration gems",
+    "average": 119.888,
+    "prices": [
+      15,
+      15,
+      20,
+      40,
+      60,
+      180,
+      217.22,
+      217.22,
+      217.22,
+      217.22
+    ],
+    "search": {
+      "id": "Zb5OD8mCQ",
+      "complexity": 18,
+      "total": 17
+    },
     "builds": 1,
     "mods": [
       {
@@ -13677,6 +13809,24 @@
   {
     "item": "Oskarm",
     "stats": "attacks have +#% to critical strike chance",
+    "average": 59.5,
+    "prices": [
+      20,
+      25,
+      30,
+      30,
+      40,
+      50,
+      100,
+      100,
+      100,
+      100
+    ],
+    "search": {
+      "id": "rXpPWX7CQ",
+      "complexity": 18,
+      "total": 39
+    },
     "builds": 1,
     "mods": [
       {
@@ -13690,6 +13840,15 @@
   {
     "item": "Oskarm",
     "stats": "+# to level of socketed trap or mine gems, curse enemies with vulnerability on hit",
+    "average": 434.44,
+    "prices": [
+      434.44
+    ],
+    "search": {
+      "id": "WVrvPVDum",
+      "complexity": 29,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -13709,6 +13868,13 @@
   {
     "item": "Oskarm",
     "stats": "curse enemies with vulnerability on hit, attacks have +#% to critical strike chance",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "qX42qr3Cg",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -13728,6 +13894,21 @@
   {
     "item": "Redblade Banner",
     "stats": "you take #% reduced extra damage from critical strikes",
+    "average": 9899.025714285714,
+    "prices": [
+      4344.4,
+      5430.5,
+      5430.5,
+      8471.58,
+      13033.2,
+      15205.4,
+      17377.6
+    ],
+    "search": {
+      "id": "BEJKXnjC8",
+      "complexity": 18,
+      "total": 7
+    },
     "builds": 1,
     "mods": [
       {
@@ -13741,6 +13922,24 @@
   {
     "item": "Redblade Banner",
     "stats": "#% of physical damage from hits taken as cold damage",
+    "average": 355.67555555555555,
+    "prices": [
+      160,
+      217.22,
+      217.22,
+      217.22,
+      217.22,
+      434.44,
+      434.44,
+      651.66,
+      651.66,
+      868.88
+    ],
+    "search": {
+      "id": "5okog5mFa",
+      "complexity": 18,
+      "total": 18
+    },
     "builds": 1,
     "mods": [
       {
