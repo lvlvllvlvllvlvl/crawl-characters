@@ -18002,6 +18002,24 @@
   {
     "item": "Saffell's Frame",
     "stats": "#% of physical damage from hits taken as cold damage",
+    "average": 30.9,
+    "prices": [
+      10,
+      14,
+      20,
+      20,
+      25,
+      40,
+      40,
+      40,
+      50,
+      50
+    ],
+    "search": {
+      "id": "LmdmLM7tn",
+      "complexity": 18,
+      "total": 37
+    },
     "builds": 1,
     "mods": [
       {
@@ -18015,6 +18033,24 @@
   {
     "item": "Legacy of Fury",
     "stats": "#% increased movement speed",
+    "average": 42,
+    "prices": [
+      20,
+      20,
+      40,
+      40,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50
+    ],
+    "search": {
+      "id": "6Gqvl6XuG",
+      "complexity": 18,
+      "total": 39
+    },
     "builds": 1,
     "mods": [
       {
@@ -18028,6 +18064,16 @@
   {
     "item": "The Brass Dome",
     "stats": "+# to level of socketed trap or mine gems, #% reduced lightning damage taken",
+    "average": 813.3375,
+    "prices": [
+      759.115,
+      867.56
+    ],
+    "search": {
+      "id": "XqDVoE7UP",
+      "complexity": 29,
+      "total": 2
+    },
     "builds": 1,
     "mods": [
       {
@@ -18047,6 +18093,13 @@
   {
     "item": "The Stampede",
     "stats": "regenerate # life per second while moving",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "kX4ygJ5c5",
+      "complexity": 18,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -18060,6 +18113,24 @@
   {
     "item": "Ephemeral Edge",
     "stats": "#% chance to gain onslaught for # seconds on kill",
+    "average": 15.762222222222224,
+    "prices": [
+      5,
+      10,
+      10,
+      13.86,
+      15,
+      15,
+      18,
+      20,
+      20,
+      20
+    ],
+    "search": {
+      "id": "z27GpRRI4",
+      "complexity": 18,
+      "total": 77
+    },
     "builds": 1,
     "mods": [
       {
@@ -18073,6 +18144,15 @@
   {
     "item": "Replica Heatshiver",
     "stats": "socketed skill gems get a #% cost & reservation multiplier",
+    "average": 6506.7,
+    "prices": [
+      6506.7
+    ],
+    "search": {
+      "id": "KJ2OBZqc5",
+      "complexity": 18,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -18086,6 +18166,16 @@
   {
     "item": "Replica Heatshiver",
     "stats": "+# to maximum power charges",
+    "average": 10627.61,
+    "prices": [
+      10410.72,
+      10844.5
+    ],
+    "search": {
+      "id": "zelZyOmt4",
+      "complexity": 18,
+      "total": 2
+    },
     "builds": 1,
     "mods": [
       {
@@ -18099,6 +18189,13 @@
   {
     "item": "Snakebite",
     "stats": "+# to maximum frenzy charges, curse enemies with despair on hit",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "3Bg95KJs5",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -18118,6 +18215,15 @@
   {
     "item": "Snakebite",
     "stats": "#% increased attack speed, +# to maximum frenzy charges",
+    "average": 7591.15,
+    "prices": [
+      7591.15
+    ],
+    "search": {
+      "id": "EqJWYJRs5",
+      "complexity": 30,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -18138,6 +18244,24 @@
   {
     "item": "Snakebite",
     "stats": "curse enemies with temporal chains on hit",
+    "average": 32.666666666666664,
+    "prices": [
+      10,
+      25,
+      30,
+      30,
+      30,
+      30,
+      30,
+      39,
+      40,
+      40
+    ],
+    "search": {
+      "id": "PK7gj0ZCL",
+      "complexity": 18,
+      "total": 140
+    },
     "builds": 1,
     "mods": [
       {
@@ -18151,6 +18275,24 @@
   {
     "item": "Fleshcrafter",
     "stats": "+# to level of socketed minion gems",
+    "average": 4251.044,
+    "prices": [
+      3253.35,
+      3253.35,
+      3253.35,
+      4337.799999999999,
+      4337.799999999999,
+      4337.799999999999,
+      4771.58,
+      4771.58,
+      4771.58,
+      5422.25
+    ],
+    "search": {
+      "id": "4qnzvpvT9",
+      "complexity": 18,
+      "total": 21
+    },
     "builds": 1,
     "mods": [
       {
@@ -18164,6 +18306,24 @@
   {
     "item": "Fleshcrafter",
     "stats": "+# to level of socketed projectile gems",
+    "average": 98.467,
+    "prices": [
+      10,
+      19,
+      35,
+      50,
+      50,
+      70,
+      100,
+      216.89,
+      216.89,
+      216.89
+    ],
+    "search": {
+      "id": "ZwdvaL8iQ",
+      "complexity": 18,
+      "total": 18
+    },
     "builds": 1,
     "mods": [
       {
@@ -18177,6 +18337,24 @@
   {
     "item": "Seven-League Step",
     "stats": "+#% chance to suppress spell damage",
+    "average": 20,
+    "prices": [
+      20,
+      20,
+      20,
+      20,
+      20,
+      20,
+      20,
+      20,
+      20,
+      20
+    ],
+    "search": {
+      "id": "8av99q8IV",
+      "complexity": 19,
+      "total": 52
+    },
     "builds": 1,
     "mods": [
       {
