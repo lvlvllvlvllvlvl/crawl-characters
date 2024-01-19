@@ -11845,6 +11845,24 @@
   {
     "item": "Shadows and Dust",
     "stats": "+#% to spell critical strike chance",
+    "average": 17,
+    "prices": [
+      5,
+      10,
+      10,
+      15,
+      15,
+      20,
+      20,
+      20,
+      25,
+      30
+    ],
+    "search": {
+      "id": "ZbErrd0uQ",
+      "complexity": 18,
+      "total": 61
+    },
     "builds": 1,
     "mods": [
       {
@@ -11858,6 +11876,24 @@
   {
     "item": "Lori's Lantern",
     "stats": "discipline has #% increased aura effect",
+    "average": 6.7,
+    "prices": [
+      3,
+      3,
+      4,
+      5,
+      7,
+      7,
+      8,
+      10,
+      10,
+      10
+    ],
+    "search": {
+      "id": "QVYkJBMTw",
+      "complexity": 18,
+      "total": 31
+    },
     "builds": 1,
     "mods": [
       {
@@ -11871,6 +11907,24 @@
   {
     "item": "Lori's Lantern",
     "stats": "hatred has #% increased aura effect",
+    "average": 6.8,
+    "prices": [
+      3,
+      4,
+      5,
+      5,
+      5,
+      8,
+      8,
+      10,
+      10,
+      10
+    ],
+    "search": {
+      "id": "oXvlqEkFl",
+      "complexity": 18,
+      "total": 35
+    },
     "builds": 1,
     "mods": [
       {
@@ -11884,6 +11938,13 @@
   {
     "item": "Lori's Lantern",
     "stats": "anger has #% increased aura effect, bleeding cannot be inflicted on you",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "oXeP6nKhl",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -11903,6 +11964,13 @@
   {
     "item": "Lori's Lantern",
     "stats": "#% increased strength, #% increased dexterity, discipline has #% increased aura effect",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "OV2q9b0TE",
+      "complexity": 20,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -11928,6 +11996,24 @@
   {
     "item": "Tabula Rasa",
     "stats": "+# to level of socketed aoe gems",
+    "average": 15,
+    "prices": [
+      10,
+      15,
+      15,
+      15,
+      15,
+      15,
+      15,
+      15,
+      15,
+      19
+    ],
+    "search": {
+      "id": "oXjLOwkUl",
+      "complexity": 18,
+      "total": 69
+    },
     "builds": 1,
     "mods": [
       {
@@ -11941,6 +12027,24 @@
   {
     "item": "Tabula Rasa",
     "stats": "+# to level of socketed gems",
+    "average": 50,
+    "prices": [
+      40,
+      40,
+      49,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50
+    ],
+    "search": {
+      "id": "KJBXejMh5",
+      "complexity": 18,
+      "total": 58
+    },
     "builds": 1,
     "mods": [
       {
@@ -11954,6 +12058,24 @@
   {
     "item": "Tabula Rasa",
     "stats": "#% increased damage",
+    "average": 147.66666666666666,
+    "prices": [
+      120,
+      140,
+      140,
+      149,
+      150,
+      150,
+      150,
+      150,
+      150,
+      150
+    ],
+    "search": {
+      "id": "lXj2OynFV",
+      "complexity": 18,
+      "total": 86
+    },
     "builds": 1,
     "mods": [
       {
@@ -11967,6 +12089,24 @@
   {
     "item": "Tabula Rasa",
     "stats": "+# to level of socketed duration gems",
+    "average": 12,
+    "prices": [
+      10,
+      10,
+      10,
+      10,
+      10,
+      10,
+      15,
+      15,
+      15,
+      15
+    ],
+    "search": {
+      "id": "VMgXY92sp",
+      "complexity": 18,
+      "total": 41
+    },
     "builds": 1,
     "mods": [
       {
@@ -11980,6 +12120,24 @@
   {
     "item": "Mageblood",
     "stats": "+#% to all elemental resistances",
+    "average": 50042.475,
+    "prices": [
+      29988,
+      31059,
+      32130,
+      42840,
+      52264.799999999996,
+      64260,
+      64260,
+      83538,
+      193855.27,
+      193855.27
+    ],
+    "search": {
+      "id": "noEVO6Mt0",
+      "complexity": 18,
+      "total": 19
+    },
     "builds": 1,
     "mods": [
       {
@@ -11993,6 +12151,24 @@
   {
     "item": "Mageblood",
     "stats": "#% increased attack speed during any flask effect",
+    "average": 36176,
+    "prices": [
+      14994,
+      19278,
+      32130,
+      37485,
+      38556,
+      38556,
+      40698,
+      50337,
+      53550,
+      68544
+    ],
+    "search": {
+      "id": "vlPnR8BCE",
+      "complexity": 18,
+      "total": 22
+    },
     "builds": 1,
     "mods": [
       {
@@ -12006,6 +12182,13 @@
   {
     "item": "Mageblood",
     "stats": "#% increased maximum energy shield, #% increased cast speed during any flask effect",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "dPaOkzoFJ",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -12025,6 +12208,13 @@
   {
     "item": "Mageblood",
     "stats": "#% increased dexterity, #% increased intelligence, malevolence has #% increased aura effect",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "MVZ379PFJ",
+      "complexity": 20,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -12050,6 +12240,17 @@
   {
     "item": "Mageblood",
     "stats": "wrath has #% increased aura effect, zealotry has #% increased aura effect",
+    "average": 168148.42333333334,
+    "prices": [
+      193855.27,
+      128520,
+      182070
+    ],
+    "search": {
+      "id": "Mq3y0eMuJ",
+      "complexity": 29,
+      "total": 3
+    },
     "builds": 1,
     "mods": [
       {
@@ -12069,6 +12270,13 @@
   {
     "item": "Mageblood",
     "stats": "#% increased maximum life, #% increased cast speed during any flask effect",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "vlGbd5JtE",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
