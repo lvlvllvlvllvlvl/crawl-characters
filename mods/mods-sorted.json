@@ -10432,6 +10432,24 @@
   {
     "item": "Hrimsorrow",
     "stats": "curse enemies with elemental weakness on hit",
+    "average": 97,
+    "prices": [
+      40,
+      60,
+      90,
+      90,
+      99,
+      100,
+      100,
+      100,
+      100,
+      120
+    ],
+    "search": {
+      "id": "YVqVVY6cY",
+      "complexity": 18,
+      "total": 77
+    },
     "builds": 1,
     "mods": [
       {
@@ -10445,6 +10463,13 @@
   {
     "item": "Tainted Pact",
     "stats": "+#% to all maximum resistances, grace has #% increased aura effect",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "qYRbO5Xhg",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -10464,6 +10489,13 @@
   {
     "item": "Lethal Pride",
     "stats": "#% reduced effect of curses on you, #% reduced bleed duration on you",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "MV4RGqMsJ",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -10483,6 +10515,13 @@
   {
     "item": "Ancestral Vision",
     "stats": "corrupted blood cannot be inflicted on you, you cannot be hindered",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "Zwd6Vo7TQ",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -10502,6 +10541,24 @@
   {
     "item": "Ancestral Vision",
     "stats": "you cannot be cursed with silence",
+    "average": 35,
+    "prices": [
+      30,
+      30,
+      35,
+      35,
+      35,
+      35,
+      35,
+      35,
+      35,
+      35
+    ],
+    "search": {
+      "id": "kXJ2YOWI5",
+      "complexity": 18,
+      "total": 63
+    },
     "builds": 1,
     "mods": [
       {
@@ -10515,6 +10572,24 @@
   {
     "item": "Ancestral Vision",
     "stats": "#% increased damage",
+    "average": 40,
+    "prices": [
+      30,
+      40,
+      40,
+      40,
+      40,
+      40,
+      40,
+      40,
+      40,
+      40
+    ],
+    "search": {
+      "id": "LmdwQrBHn",
+      "complexity": 18,
+      "total": 78
+    },
     "builds": 1,
     "mods": [
       {
@@ -10528,6 +10603,15 @@
   {
     "item": "Cherrubim's Maleficence",
     "stats": "+# to level of socketed gems, +# to level of socketed aoe gems",
+    "average": 2158.8999999999996,
+    "prices": [
+      2158.8999999999996
+    ],
+    "search": {
+      "id": "BGrm5KLf8",
+      "complexity": 29,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -10547,6 +10631,16 @@
   {
     "item": "Bisco's Leash",
     "stats": "#% increased rarity of items found, discipline has #% increased aura effect",
+    "average": 647.67,
+    "prices": [
+      431.78,
+      863.56
+    ],
+    "search": {
+      "id": "3BZbrBkF5",
+      "complexity": 29,
+      "total": 2
+    },
     "builds": 1,
     "mods": [
       {
@@ -10566,6 +10660,24 @@
   {
     "item": "Bisco's Leash",
     "stats": "#% increased critical strike chance during any flask effect",
+    "average": 9.666666666666666,
+    "prices": [
+      5,
+      9,
+      9,
+      9,
+      10,
+      10,
+      10,
+      10,
+      10,
+      10
+    ],
+    "search": {
+      "id": "jPpo3RdfX",
+      "complexity": 18,
+      "total": 81
+    },
     "builds": 1,
     "mods": [
       {
@@ -10579,6 +10691,24 @@
   {
     "item": "Bisco's Leash",
     "stats": "#% increased quantity of items found",
+    "average": 731.627222222222,
+    "prices": [
+      431.78,
+      647.67,
+      647.67,
+      647.67,
+      647.67,
+      647.67,
+      755.615,
+      863.56,
+      863.56,
+      863.56
+    ],
+    "search": {
+      "id": "80ZXWR2UV",
+      "complexity": 18,
+      "total": 66
+    },
     "builds": 1,
     "mods": [
       {
@@ -10592,6 +10722,24 @@
   {
     "item": "Bisco's Leash",
     "stats": "#% increased maximum energy shield",
+    "average": 7.44,
+    "prices": [
+      3,
+      5.3999999999999995,
+      5,
+      5,
+      7,
+      9,
+      10,
+      10,
+      10,
+      10
+    ],
+    "search": {
+      "id": "kX5We2ji5",
+      "complexity": 18,
+      "total": 57
+    },
     "builds": 1,
     "mods": [
       {
@@ -10605,6 +10753,21 @@
   {
     "item": "Anathema",
     "stats": "adds # to # lightning damage to spells and attacks",
+    "average": 100,
+    "prices": [
+      99,
+      100,
+      100,
+      120,
+      215.89,
+      863.56,
+      3238.35
+    ],
+    "search": {
+      "id": "0B8O6p8Fg",
+      "complexity": 18,
+      "total": 7
+    },
     "builds": 1,
     "mods": [
       {
@@ -10618,6 +10781,13 @@
   {
     "item": "Anathema",
     "stats": "#% increased strength, #% increased dexterity, grace has #% increased aura effect",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "QVOrDlvfw",
+      "complexity": 20,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -10643,6 +10813,15 @@
   {
     "item": "Anathema",
     "stats": "#% increased attack speed",
+    "average": 5397.25,
+    "prices": [
+      5397.25
+    ],
+    "search": {
+      "id": "zeovLqLc4",
+      "complexity": 19,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -10657,6 +10836,20 @@
   {
     "item": "Anathema",
     "stats": "#% increased cast speed",
+    "average": 1079.45,
+    "prices": [
+      215.89,
+      431.78,
+      1079.4499999999998,
+      1295.34,
+      1295.34,
+      2158.8999999999996
+    ],
+    "search": {
+      "id": "JYm7jvOIl",
+      "complexity": 18,
+      "total": 6
+    },
     "builds": 1,
     "mods": [
       {
