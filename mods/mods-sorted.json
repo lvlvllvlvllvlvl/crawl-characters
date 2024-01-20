@@ -18406,6 +18406,24 @@
   {
     "item": "Eye of Malice",
     "stats": "regenerate #% of life per second",
+    "average": 18.666666666666668,
+    "prices": [
+      10,
+      10,
+      14,
+      15,
+      20,
+      20,
+      20,
+      29,
+      30,
+      90
+    ],
+    "search": {
+      "id": "LmdYYb5Fn",
+      "complexity": 18,
+      "total": 22
+    },
     "builds": 1,
     "mods": [
       {
@@ -18419,6 +18437,24 @@
   {
     "item": "Eye of Malice",
     "stats": "+# to level of socketed aoe gems",
+    "average": 24,
+    "prices": [
+      4,
+      10,
+      10,
+      20,
+      20,
+      22,
+      30,
+      35,
+      40,
+      49
+    ],
+    "search": {
+      "id": "YVozYvgIY",
+      "complexity": 18,
+      "total": 49
+    },
     "builds": 1,
     "mods": [
       {
@@ -18432,6 +18468,24 @@
   {
     "item": "Eye of Malice",
     "stats": "+# to maximum power charges",
+    "average": 172.096,
+    "prices": [
+      100,
+      120,
+      149,
+      150,
+      170,
+      180,
+      212.99,
+      212.99,
+      212.99,
+      212.99
+    ],
+    "search": {
+      "id": "Lmdj637un",
+      "complexity": 18,
+      "total": 77
+    },
     "builds": 1,
     "mods": [
       {
@@ -18445,6 +18499,24 @@
   {
     "item": "Perquil's Toe",
     "stats": "you can apply an additional curse",
+    "average": 31.4,
+    "prices": [
+      15,
+      20,
+      20,
+      30,
+      30,
+      30,
+      40,
+      40,
+      40,
+      49
+    ],
+    "search": {
+      "id": "aboaB4aSe",
+      "complexity": 18,
+      "total": 18
+    },
     "builds": 1,
     "mods": [
       {
@@ -18458,6 +18530,24 @@
   {
     "item": "Doedre's Damning",
     "stats": "bleeding cannot be inflicted on you",
+    "average": 30.5,
+    "prices": [
+      15,
+      20,
+      20,
+      20,
+      20,
+      25,
+      40,
+      45,
+      50,
+      50
+    ],
+    "search": {
+      "id": "aqe6VnKue",
+      "complexity": 18,
+      "total": 25
+    },
     "builds": 1,
     "mods": [
       {
@@ -18471,6 +18561,13 @@
   {
     "item": "Windscream",
     "stats": "+# to level of socketed gems, +# to level of socketed minion gems",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "5o5MOmoua",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -18490,6 +18587,24 @@
   {
     "item": "Windscream",
     "stats": "#% increased movement speed",
+    "average": 301.299375,
+    "prices": [
+      174,
+      212.99,
+      212.99,
+      212.99,
+      319.485,
+      425.98,
+      425.98,
+      425.98,
+      638.97,
+      851.96
+    ],
+    "search": {
+      "id": "pXjndPeT0",
+      "complexity": 18,
+      "total": 19
+    },
     "builds": 1,
     "mods": [
       {
@@ -18503,6 +18618,24 @@
   {
     "item": "Doedre's Tenure",
     "stats": "+#% to spell critical strike chance",
+    "average": 15.7,
+    "prices": [
+      5,
+      9,
+      10,
+      15,
+      15,
+      20,
+      20,
+      20,
+      20,
+      23
+    ],
+    "search": {
+      "id": "kX4WGpKI5",
+      "complexity": 18,
+      "total": 55
+    },
     "builds": 1,
     "mods": [
       {
@@ -18516,6 +18649,18 @@
   {
     "item": "Doedre's Tenure",
     "stats": "+# to maximum frenzy charges, +#% to spell critical strike chance",
+    "average": 3780.5725,
+    "prices": [
+      212.99,
+      2129.9,
+      5324.75,
+      7454.650000000001
+    ],
+    "search": {
+      "id": "2BMLzGYIk",
+      "complexity": 29,
+      "total": 4
+    },
     "builds": 1,
     "mods": [
       {
@@ -18535,6 +18680,24 @@
   {
     "item": "Utula's Hunger",
     "stats": "#% increased maximum life",
+    "average": 113.498,
+    "prices": [
+      20,
+      40,
+      49,
+      50,
+      100,
+      120,
+      150,
+      180,
+      212.99,
+      212.99
+    ],
+    "search": {
+      "id": "9YKk2wYFK",
+      "complexity": 18,
+      "total": 43
+    },
     "builds": 1,
     "mods": [
       {
@@ -18548,6 +18711,15 @@
   {
     "item": "Prismweave",
     "stats": "grace has #% increased aura effect, +#% to critical strike multiplier during any flask effect",
+    "average": 4259.8,
+    "prices": [
+      4259.8
+    ],
+    "search": {
+      "id": "ze5WBkgT4",
+      "complexity": 29,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -18567,6 +18739,13 @@
   {
     "item": "Replica Kaom's Heart",
     "stats": "#% increased maximum energy shield",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "LmyJk4GFn",
+      "complexity": 18,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -18580,6 +18759,13 @@
   {
     "item": "Brutal Restraint",
     "stats": "you cannot be maimed, #% reduced poison duration on you",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "gqwb0w6IQ",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -18599,6 +18785,15 @@
   {
     "item": "Lioneye's Vision",
     "stats": "+# to level of socketed aoe gems, +# to level of socketed projectile gems",
+    "average": 117144.5,
+    "prices": [
+      117144.5
+    ],
+    "search": {
+      "id": "bX3yDrDuL",
+      "complexity": 29,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
