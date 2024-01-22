@@ -19357,6 +19357,24 @@
   {
     "item": "Ventor's Gamble",
     "stats": "bleeding cannot be inflicted on you",
+    "average": 64.375,
+    "prices": [
+      45,
+      50,
+      50,
+      50,
+      50,
+      80,
+      90,
+      100,
+      120,
+      150
+    ],
+    "search": {
+      "id": "YVg902DIY",
+      "complexity": 18,
+      "total": 48
+    },
     "builds": 1,
     "mods": [
       {
@@ -19370,6 +19388,18 @@
   {
     "item": "The Red Dream",
     "stats": "#% reduced effect of curses on you",
+    "average": 637.59,
+    "prices": [
+      212.53,
+      637.59,
+      637.59,
+      637.59
+    ],
+    "search": {
+      "id": "MV5koWLsJ",
+      "complexity": 18,
+      "total": 4
+    },
     "builds": 1,
     "mods": [
       {
@@ -19383,6 +19413,24 @@
   {
     "item": "Voidwalker",
     "stats": "+# to maximum endurance charges",
+    "average": 26.875,
+    "prices": [
+      5,
+      10,
+      15,
+      30,
+      30,
+      35,
+      40,
+      50,
+      70,
+      150
+    ],
+    "search": {
+      "id": "rXmqqpmfQ",
+      "complexity": 18,
+      "total": 20
+    },
     "builds": 1,
     "mods": [
       {
@@ -19396,6 +19444,18 @@
   {
     "item": "Inpulsa's Broken Heart",
     "stats": "#% additional physical damage reduction while stationary",
+    "average": 25,
+    "prices": [
+      20,
+      25,
+      25,
+      212.53
+    ],
+    "search": {
+      "id": "zeqGP0aI4",
+      "complexity": 18,
+      "total": 4
+    },
     "builds": 1,
     "mods": [
       {
@@ -19409,6 +19469,13 @@
   {
     "item": "Inpulsa's Broken Heart",
     "stats": "+# to level of socketed minion gems, #% increased damage",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "BEzevqjT8",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -19428,6 +19495,19 @@
   {
     "item": "Inpulsa's Broken Heart",
     "stats": "#% reduced cold damage taken",
+    "average": 1291.1799999999998,
+    "prices": [
+      20,
+      20,
+      40,
+      3187.95,
+      3187.95
+    ],
+    "search": {
+      "id": "eXDrLwWFL",
+      "complexity": 18,
+      "total": 5
+    },
     "builds": 1,
     "mods": [
       {
@@ -19441,6 +19521,21 @@
   {
     "item": "Inpulsa's Broken Heart",
     "stats": "#% reduced lightning damage taken",
+    "average": 129.26,
+    "prices": [
+      0.5,
+      100,
+      100,
+      150,
+      212.53,
+      212.53,
+      425.06
+    ],
+    "search": {
+      "id": "LmXP4Y2hn",
+      "complexity": 18,
+      "total": 7
+    },
     "builds": 1,
     "mods": [
       {
@@ -19454,6 +19549,19 @@
   {
     "item": "Inpulsa's Broken Heart",
     "stats": "you take #% reduced extra damage from critical strikes",
+    "average": 651.0840000000001,
+    "prices": [
+      80,
+      212.53,
+      200,
+      1062.65,
+      1700.24
+    ],
+    "search": {
+      "id": "lX80WppIV",
+      "complexity": 18,
+      "total": 5
+    },
     "builds": 1,
     "mods": [
       {
@@ -19467,6 +19575,24 @@
   {
     "item": "The Gull",
     "stats": "socketed skill gems get a #% cost & reservation multiplier",
+    "average": 121.5,
+    "prices": [
+      85,
+      100,
+      100,
+      100,
+      120,
+      130,
+      140,
+      140,
+      150,
+      150
+    ],
+    "search": {
+      "id": "y9EGvmgSR",
+      "complexity": 18,
+      "total": 26
+    },
     "builds": 1,
     "mods": [
       {
@@ -19480,6 +19606,16 @@
   {
     "item": "Replica Dreamfeather",
     "stats": "#% increased physical damage, #% increased attack speed",
+    "average": 21253,
+    "prices": [
+      10626.5,
+      31879.5
+    ],
+    "search": {
+      "id": "gqPOMrOFQ",
+      "complexity": 30,
+      "total": 2
+    },
     "builds": 1,
     "mods": [
       {
@@ -19500,6 +19636,24 @@
   {
     "item": "Lioneye's Fall",
     "stats": "corrupted blood cannot be inflicted on you",
+    "average": 212.53000000000003,
+    "prices": [
+      212.53,
+      212.53,
+      212.53,
+      212.53,
+      212.53,
+      212.53,
+      212.53,
+      212.53,
+      212.53,
+      212.53
+    ],
+    "search": {
+      "id": "EG8yMgKs5",
+      "complexity": 18,
+      "total": 37
+    },
     "builds": 1,
     "mods": [
       {
@@ -19513,6 +19667,24 @@
   {
     "item": "Olesya's Delight",
     "stats": "#% increased attack speed during any flask effect",
+    "average": 78.3265,
+    "prices": [
+      39,
+      40,
+      55,
+      79,
+      80,
+      85,
+      106.265,
+      99,
+      100,
+      100
+    ],
+    "search": {
+      "id": "4zm42y8t9",
+      "complexity": 18,
+      "total": 23
+    },
     "builds": 1,
     "mods": [
       {
@@ -19526,6 +19698,13 @@
   {
     "item": "Wilma's Requital",
     "stats": "socketed skill gems get a #% cost & reservation multiplier, #% of cold damage leeched as life",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "ewRoE46HL",
+      "complexity": 30,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -19546,6 +19725,24 @@
   {
     "item": "Memory Vault",
     "stats": "+# to maximum power charges",
+    "average": 258.3666666666666,
+    "prices": [
+      212.53,
+      212.53,
+      212.53,
+      212.53,
+      212.53,
+      212.53,
+      200,
+      425.06,
+      425.06,
+      637.59
+    ],
+    "search": {
+      "id": "YVdGlWbFY",
+      "complexity": 18,
+      "total": 17
+    },
     "builds": 1,
     "mods": [
       {
@@ -19559,6 +19756,20 @@
   {
     "item": "Memory Vault",
     "stats": "+# to level of socketed projectile gems",
+    "average": 114.69,
+    "prices": [
+      5,
+      28.08,
+      50,
+      180,
+      212.53,
+      212.53
+    ],
+    "search": {
+      "id": "VM6vDGdFp",
+      "complexity": 18,
+      "total": 6
+    },
     "builds": 1,
     "mods": [
       {
