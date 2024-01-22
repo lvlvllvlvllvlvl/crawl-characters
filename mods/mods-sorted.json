@@ -14488,6 +14488,15 @@
   {
     "item": "Piscator's Vigil",
     "stats": "adds # to # cold damage, #% increased attack speed",
+    "average": 80,
+    "prices": [
+      80
+    ],
+    "search": {
+      "id": "dM4VOoZsJ",
+      "complexity": 31,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -14509,6 +14518,24 @@
   {
     "item": "Ceinture of Benevolence",
     "stats": "#% increased maximum energy shield",
+    "average": 84.998,
+    "prices": [
+      1,
+      30,
+      30,
+      35,
+      40,
+      90,
+      100,
+      100,
+      211.99,
+      211.99
+    ],
+    "search": {
+      "id": "XkOX59dCP",
+      "complexity": 18,
+      "total": 23
+    },
     "builds": 1,
     "mods": [
       {
@@ -14522,6 +14549,24 @@
   {
     "item": "Ceinture of Benevolence",
     "stats": "#% increased area of effect",
+    "average": 94.397,
+    "prices": [
+      5,
+      8,
+      15,
+      20,
+      20,
+      80,
+      160,
+      211.99,
+      211.99,
+      211.99
+    ],
+    "search": {
+      "id": "LmoGMRGSn",
+      "complexity": 18,
+      "total": 19
+    },
     "builds": 1,
     "mods": [
       {
@@ -14535,6 +14580,24 @@
   {
     "item": "Ceinture of Benevolence",
     "stats": "grace has #% increased aura effect",
+    "average": 17.125,
+    "prices": [
+      10,
+      12,
+      15,
+      20,
+      20,
+      20,
+      20,
+      20,
+      40,
+      70
+    ],
+    "search": {
+      "id": "eXvX9pghL",
+      "complexity": 18,
+      "total": 25
+    },
     "builds": 1,
     "mods": [
       {
@@ -14548,6 +14611,24 @@
   {
     "item": "Ceinture of Benevolence",
     "stats": "#% increased dexterity, #% increased intelligence",
+    "average": 28.333333333333332,
+    "prices": [
+      10,
+      10,
+      20,
+      20,
+      30,
+      30,
+      40,
+      45,
+      50,
+      100
+    ],
+    "search": {
+      "id": "z27GVXRI4",
+      "complexity": 29,
+      "total": 31
+    },
     "builds": 1,
     "mods": [
       {
@@ -14567,6 +14648,24 @@
   {
     "item": "Ceinture of Benevolence",
     "stats": "determination has #% increased aura effect",
+    "average": 47.9,
+    "prices": [
+      5,
+      15,
+      15,
+      29,
+      40,
+      40,
+      45,
+      90,
+      100,
+      100
+    ],
+    "search": {
+      "id": "DL89vj2T5",
+      "complexity": 18,
+      "total": 30
+    },
     "builds": 1,
     "mods": [
       {
@@ -14580,6 +14679,24 @@
   {
     "item": "Ceinture of Benevolence",
     "stats": "anger has #% increased aura effect",
+    "average": 23.75,
+    "prices": [
+      10,
+      10,
+      10,
+      20,
+      30,
+      30,
+      40,
+      40,
+      60,
+      100
+    ],
+    "search": {
+      "id": "2Ba6Ypjhk",
+      "complexity": 18,
+      "total": 24
+    },
     "builds": 1,
     "mods": [
       {
@@ -14593,6 +14710,13 @@
   {
     "item": "Ceinture of Benevolence",
     "stats": "#% increased maximum energy shield, #% increased cast speed during any flask effect",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "kXlZRd3U5",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -14612,6 +14736,24 @@
   {
     "item": "Ceinture of Benevolence",
     "stats": "hatred has #% increased aura effect",
+    "average": 36.8,
+    "prices": [
+      8,
+      15,
+      20,
+      25,
+      30,
+      30,
+      50,
+      50,
+      70,
+      70
+    ],
+    "search": {
+      "id": "oX7Dn3Osl",
+      "complexity": 18,
+      "total": 34
+    },
     "builds": 1,
     "mods": [
       {
@@ -14625,6 +14767,13 @@
   {
     "item": "Rathpith Globe",
     "stats": "+# to level of socketed aoe gems, +# to level of socketed warcry gems",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "KJXDXEPI5",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -14644,6 +14793,24 @@
   {
     "item": "Rathpith Globe",
     "stats": "#% increased maximum life",
+    "average": 423.98,
+    "prices": [
+      423.98,
+      423.98,
+      423.98,
+      423.98,
+      423.98,
+      423.98,
+      423.98,
+      423.98,
+      529.975,
+      529.975
+    ],
+    "search": {
+      "id": "PK7amZvTL",
+      "complexity": 18,
+      "total": 122
+    },
     "builds": 1,
     "mods": [
       {
@@ -14657,6 +14824,19 @@
   {
     "item": "Lightpoacher",
     "stats": "regenerate #% of life per second",
+    "average": 23,
+    "prices": [
+      15,
+      20,
+      20,
+      30,
+      30
+    ],
+    "search": {
+      "id": "3B6QJKgF5",
+      "complexity": 18,
+      "total": 5
+    },
     "builds": 1,
     "mods": [
       {
@@ -14670,6 +14850,13 @@
   {
     "item": "Belly of the Beast",
     "stats": "+# to level of socketed aoe gems, #% increased damage",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "rXVmnzmfQ",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -14689,6 +14876,13 @@
   {
     "item": "Belly of the Beast",
     "stats": "+# to level of socketed gems, +# to level of socketed warcry gems",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "zel8K6OT4",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -14708,6 +14902,15 @@
   {
     "item": "Le Heup of All",
     "stats": "anger has #% increased aura effect, wrath has #% increased aura effect",
+    "average": 100,
+    "prices": [
+      100
+    ],
+    "search": {
+      "id": "qXDjO2kSg",
+      "complexity": 29,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
