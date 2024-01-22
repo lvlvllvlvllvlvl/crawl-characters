@@ -15790,6 +15790,24 @@
   {
     "item": "Sentari's Answer",
     "stats": "you take #% reduced extra damage from critical strikes",
+    "average": 21.875,
+    "prices": [
+      10,
+      15,
+      20,
+      20,
+      25,
+      25,
+      30,
+      30,
+      40,
+      50
+    ],
+    "search": {
+      "id": "8adzGlqCV",
+      "complexity": 18,
+      "total": 51
+    },
     "builds": 1,
     "mods": [
       {
@@ -15803,6 +15821,24 @@
   {
     "item": "Sentari's Answer",
     "stats": "#% of physical damage from hits taken as chaos damage",
+    "average": 62,
+    "prices": [
+      20,
+      30,
+      40,
+      40,
+      50,
+      70,
+      75,
+      95,
+      100,
+      100
+    ],
+    "search": {
+      "id": "7lozQ2lH5",
+      "complexity": 18,
+      "total": 50
+    },
     "builds": 1,
     "mods": [
       {
@@ -15816,6 +15852,24 @@
   {
     "item": "Primordial Eminence",
     "stats": "corrupted blood cannot be inflicted on you",
+    "average": 874.45875,
+    "prices": [
+      635.97,
+      635.97,
+      741.965,
+      741.965,
+      847.96,
+      1059.95,
+      1059.95,
+      1271.94,
+      1695.92,
+      1907.91
+    ],
+    "search": {
+      "id": "80ZJ5VZcV",
+      "complexity": 18,
+      "total": 15
+    },
     "builds": 1,
     "mods": [
       {
@@ -15829,6 +15883,16 @@
   {
     "item": "Thread of Hope",
     "stats": "damage penetrates #% fire resistance, you cannot be cursed with silence",
+    "average": 317.985,
+    "prices": [
+      211.99,
+      423.98
+    ],
+    "search": {
+      "id": "kXlKda6I5",
+      "complexity": 30,
+      "total": 2
+    },
     "builds": 1,
     "mods": [
       {
@@ -15849,6 +15913,13 @@
   {
     "item": "Thread of Hope",
     "stats": "#% increased reservation efficiency of skills, damage penetrates #% lightning resistance",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "BEmJV2jt8",
+      "complexity": 31,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -15870,6 +15941,16 @@
   {
     "item": "Thread of Hope",
     "stats": "#% increased damage, corrupted blood cannot be inflicted on you",
+    "average": 63597,
+    "prices": [
+      21199,
+      105995
+    ],
+    "search": {
+      "id": "4dvw82Mt9",
+      "complexity": 29,
+      "total": 2
+    },
     "builds": 1,
     "mods": [
       {
@@ -15889,6 +15970,15 @@
   {
     "item": "Thread of Hope",
     "stats": "#% increased damage, #% increased reservation efficiency of skills",
+    "average": 15899.25,
+    "prices": [
+      15899.25
+    ],
+    "search": {
+      "id": "MVBnn6qUJ",
+      "complexity": 30,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -15909,6 +15999,15 @@
   {
     "item": "Thread of Hope",
     "stats": "damage penetrates #% cold resistance, damage penetrates #% lightning resistance",
+    "average": 1059.95,
+    "prices": [
+      1059.95
+    ],
+    "search": {
+      "id": "vlEwbeWtE",
+      "complexity": 31,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -15930,6 +16029,13 @@
   {
     "item": "Thread of Hope",
     "stats": "#% increased reservation efficiency of skills, damage penetrates #% elemental resistances",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "JYDBYZYsl",
+      "complexity": 30,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -15950,6 +16056,24 @@
   {
     "item": "Intuitive Leap",
     "stats": "corrupted blood cannot be inflicted on you",
+    "average": 1483.93,
+    "prices": [
+      1377.935,
+      1483.93,
+      1483.93,
+      1483.93,
+      1483.93,
+      1483.93,
+      1483.93,
+      1483.93,
+      1483.93,
+      1483.93
+    ],
+    "search": {
+      "id": "mP2eB7Zt6",
+      "complexity": 18,
+      "total": 30
+    },
     "builds": 1,
     "mods": [
       {
@@ -15963,6 +16087,24 @@
   {
     "item": "Intuitive Leap",
     "stats": "you cannot be hindered",
+    "average": 20,
+    "prices": [
+      15,
+      19,
+      20,
+      20,
+      20,
+      20,
+      20,
+      20,
+      20,
+      20
+    ],
+    "search": {
+      "id": "waPQLqKhb",
+      "complexity": 18,
+      "total": 42
+    },
     "builds": 1,
     "mods": [
       {
@@ -15976,6 +16118,24 @@
   {
     "item": "Intuitive Leap",
     "stats": "#% increased reservation efficiency of skills",
+    "average": 211.99,
+    "prices": [
+      190.79100000000003,
+      211.99,
+      211.99,
+      211.99,
+      211.99,
+      211.99,
+      211.99,
+      211.99,
+      211.99,
+      211.99
+    ],
+    "search": {
+      "id": "dPajBpOIJ",
+      "complexity": 19,
+      "total": 101
+    },
     "builds": 1,
     "mods": [
       {
@@ -15990,6 +16150,24 @@
   {
     "item": "Intuitive Leap",
     "stats": "#% reduced poison duration on you",
+    "average": 19.5,
+    "prices": [
+      15,
+      16,
+      18,
+      18,
+      20,
+      20,
+      20,
+      20,
+      20,
+      20
+    ],
+    "search": {
+      "id": "Lm2qgr5Sn",
+      "complexity": 18,
+      "total": 37
+    },
     "builds": 1,
     "mods": [
       {
@@ -16003,6 +16181,13 @@
   {
     "item": "Tanu Ahi",
     "stats": "+# to level of socketed duration gems, attacks have +#% to critical strike chance",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "Pd5D2mmiL",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -16022,6 +16207,24 @@
   {
     "item": "Tanu Ahi",
     "stats": "curse enemies with enfeeble on hit",
+    "average": 22.5,
+    "prices": [
+      10,
+      15,
+      20,
+      20,
+      20,
+      20,
+      25,
+      25,
+      25,
+      25
+    ],
+    "search": {
+      "id": "2BWwdYGsk",
+      "complexity": 18,
+      "total": 51
+    },
     "builds": 1,
     "mods": [
       {
