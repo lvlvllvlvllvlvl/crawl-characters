@@ -1864,6 +1864,24 @@
   {
     "item": "Speaker's Wreath",
     "stats": "+# to level of socketed minion gems",
+    "average": 33.77777777777778,
+    "prices": [
+      15,
+      20,
+      20,
+      25,
+      40,
+      40,
+      44,
+      50,
+      50,
+      100
+    ],
+    "search": {
+      "id": "Xq2oDnkTP",
+      "complexity": 18,
+      "total": 30
+    },
     "builds": 3,
     "mods": [
       {
@@ -1877,6 +1895,24 @@
   {
     "item": "Doedre's Tenure",
     "stats": "curse enemies with elemental weakness on hit",
+    "average": 50,
+    "prices": [
+      35,
+      44,
+      50,
+      50,
+      50,
+      50,
+      50,
+      55,
+      70,
+      75
+    ],
+    "search": {
+      "id": "MVDz5PGiJ",
+      "complexity": 18,
+      "total": 32
+    },
     "builds": 3,
     "mods": [
       {
@@ -1890,6 +1926,24 @@
   {
     "item": "Victario's Influence",
     "stats": "+# to level of socketed aoe gems, +# to level of socketed curse gems",
+    "average": 214.84175,
+    "prices": [
+      40,
+      60,
+      207.53,
+      207.53,
+      207.53,
+      207.53,
+      373.55400000000003,
+      415.06,
+      1660.24,
+      2075.3
+    ],
+    "search": {
+      "id": "mXYK6eRf6",
+      "complexity": 29,
+      "total": 10
+    },
     "builds": 2,
     "mods": [
       {
@@ -1909,6 +1963,18 @@
   {
     "item": "Victario's Influence",
     "stats": "+# to level of socketed gems, +# to level of socketed aoe gems",
+    "average": 622.59,
+    "prices": [
+      622.59,
+      622.59,
+      1660.24,
+      7263.55
+    ],
+    "search": {
+      "id": "emYDwLYsL",
+      "complexity": 29,
+      "total": 4
+    },
     "builds": 2,
     "mods": [
       {
@@ -1928,6 +1994,20 @@
   {
     "item": "Victario's Influence",
     "stats": "+# to level of socketed aoe gems, +# to level of socketed aura gems",
+    "average": 3458.8333333333335,
+    "prices": [
+      2075.3,
+      2697.89,
+      3528.01,
+      4150.6,
+      4150.6,
+      4150.6
+    ],
+    "search": {
+      "id": "YD03QoRIY",
+      "complexity": 29,
+      "total": 6
+    },
     "builds": 2,
     "mods": [
       {
@@ -1947,6 +2027,22 @@
   {
     "item": "Victario's Influence",
     "stats": "+# to level of socketed aura gems, #% increased damage",
+    "average": 141.265,
+    "prices": [
+      50,
+      50,
+      100,
+      100,
+      207.53,
+      207.53,
+      207.53,
+      207.53
+    ],
+    "search": {
+      "id": "3BmYQ0Gs5",
+      "complexity": 29,
+      "total": 8
+    },
     "builds": 2,
     "mods": [
       {
@@ -1966,6 +2062,24 @@
   {
     "item": "Victario's Influence",
     "stats": "+# to level of socketed aoe gems",
+    "average": 11.1,
+    "prices": [
+      3,
+      7,
+      7,
+      9,
+      9,
+      10,
+      10,
+      16,
+      20,
+      20
+    ],
+    "search": {
+      "id": "waPDjkKfb",
+      "complexity": 18,
+      "total": 139
+    },
     "builds": 2,
     "mods": [
       {
@@ -1979,6 +2093,24 @@
   {
     "item": "String of Servitude",
     "stats": "+#% to all elemental resistances",
+    "average": 128,
+    "prices": [
+      115,
+      120,
+      120,
+      122,
+      123,
+      125,
+      135,
+      140,
+      140,
+      140
+    ],
+    "search": {
+      "id": "XqQ8n9eIP",
+      "complexity": 18,
+      "total": 160
+    },
     "builds": 2,
     "mods": [
       {
@@ -1992,6 +2124,24 @@
   {
     "item": "String of Servitude",
     "stats": "zealotry has #% increased aura effect",
+    "average": 3.3,
+    "prices": [
+      1,
+      1,
+      2,
+      2,
+      3,
+      3,
+      5,
+      5,
+      5,
+      6
+    ],
+    "search": {
+      "id": "qXjkkjlCg",
+      "complexity": 18,
+      "total": 95
+    },
     "builds": 2,
     "mods": [
       {
@@ -2005,6 +2155,24 @@
   {
     "item": "Matua Tupuna",
     "stats": "#% of physical damage from hits taken as fire damage",
+    "average": 32.4,
+    "prices": [
+      10,
+      10,
+      15,
+      19,
+      40,
+      40,
+      40,
+      50,
+      50,
+      50
+    ],
+    "search": {
+      "id": "PdlBV3ghL",
+      "complexity": 18,
+      "total": 28
+    },
     "builds": 2,
     "mods": [
       {
@@ -2018,6 +2186,24 @@
   {
     "item": "Malachai's Loop",
     "stats": "#% of physical damage from hits taken as fire damage",
+    "average": 39.2,
+    "prices": [
+      30,
+      30,
+      33,
+      40,
+      40,
+      40,
+      40,
+      45,
+      45,
+      49
+    ],
+    "search": {
+      "id": "0BaGbKQhg",
+      "complexity": 18,
+      "total": 267
+    },
     "builds": 2,
     "mods": [
       {
@@ -2031,6 +2217,13 @@
   {
     "item": "Dialla's Malefaction",
     "stats": "+# to level of socketed gems, +#% to all maximum resistances",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "Ey6M5KKC5",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 2,
     "mods": [
       {
@@ -2050,6 +2243,24 @@
   {
     "item": "Dialla's Malefaction",
     "stats": "+# to level of socketed gems",
+    "average": 23015.077,
+    "prices": [
+      12451.8,
+      14319.57,
+      14527.1,
+      16602.4,
+      16602.4,
+      19715.35,
+      20753,
+      35280.1,
+      38393.05,
+      41506
+    ],
+    "search": {
+      "id": "waPQeqdUb",
+      "complexity": 18,
+      "total": 23
+    },
     "builds": 2,
     "mods": [
       {
@@ -2063,6 +2274,24 @@
   {
     "item": "Badge of the Brotherhood",
     "stats": "hatred has #% increased aura effect",
+    "average": 4894.2491666666665,
+    "prices": [
+      4150.6,
+      4565.66,
+      4773.19,
+      4876.955,
+      4980.72,
+      4980.72,
+      5188.25,
+      5810.84,
+      6225.9,
+      7263.55
+    ],
+    "search": {
+      "id": "Ey6w67Bh5",
+      "complexity": 18,
+      "total": 15
+    },
     "builds": 2,
     "mods": [
       {
@@ -2076,6 +2305,24 @@
   {
     "item": "Pure Talent",
     "stats": "corrupted blood cannot be inflicted on you",
+    "average": 51.666666666666664,
+    "prices": [
+      40,
+      50,
+      50,
+      50,
+      50,
+      55,
+      55,
+      60,
+      75,
+      100
+    ],
+    "search": {
+      "id": "8a2vlBMHV",
+      "complexity": 18,
+      "total": 24
+    },
     "builds": 2,
     "mods": [
       {
