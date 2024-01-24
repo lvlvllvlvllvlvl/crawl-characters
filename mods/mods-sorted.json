@@ -12519,6 +12519,24 @@
   {
     "item": "Kaom's Spirit",
     "stats": "+#% to spell critical strike chance",
+    "average": 36.07142857142857,
+    "prices": [
+      10,
+      26.9,
+      25.6,
+      35,
+      40,
+      40,
+      40,
+      45,
+      59,
+      100
+    ],
+    "search": {
+      "id": "qaylYl9ug",
+      "complexity": 18,
+      "total": 33
+    },
     "builds": 1,
     "mods": [
       {
@@ -12532,6 +12550,19 @@
   {
     "item": "Corpsewalker",
     "stats": "+# to level of socketed aura gems",
+    "average": 1482.915,
+    "prices": [
+      409.08,
+      1431.78,
+      2045.3999999999999,
+      2045.3999999999999,
+      6136.2
+    ],
+    "search": {
+      "id": "rXjqaeMtQ",
+      "complexity": 18,
+      "total": 5
+    },
     "builds": 1,
     "mods": [
       {
@@ -12545,6 +12576,13 @@
   {
     "item": "Corpsewalker",
     "stats": "#% increased maximum energy shield, #% increased movement speed",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "OVDEg6VHE",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -12564,6 +12602,24 @@
   {
     "item": "Corpsewalker",
     "stats": "regenerate # life per second while moving",
+    "average": 112.90799999999999,
+    "prices": [
+      50,
+      50,
+      50,
+      100,
+      100,
+      100,
+      120,
+      150,
+      204.54,
+      204.54
+    ],
+    "search": {
+      "id": "50GO9zeta",
+      "complexity": 18,
+      "total": 15
+    },
     "builds": 1,
     "mods": [
       {
@@ -12577,6 +12633,19 @@
   {
     "item": "Corpsewalker",
     "stats": "+# to maximum endurance charges",
+    "average": 1759.0439999999999,
+    "prices": [
+      409.08,
+      1636.32,
+      1636.32,
+      2045.3999999999999,
+      3068.1
+    ],
+    "search": {
+      "id": "lXjqDv6hV",
+      "complexity": 18,
+      "total": 5
+    },
     "builds": 1,
     "mods": [
       {
@@ -12590,6 +12659,24 @@
   {
     "item": "Corpsewalker",
     "stats": "+# to level of socketed aoe gems",
+    "average": 394.46999999999997,
+    "prices": [
+      204.54,
+      204.54,
+      306.81,
+      409.08,
+      409.08,
+      613.62,
+      613.62,
+      1227.24,
+      5113.5,
+      8181.599999999999
+    ],
+    "search": {
+      "id": "3BZ8DW9c5",
+      "complexity": 18,
+      "total": 10
+    },
     "builds": 1,
     "mods": [
       {
@@ -12603,6 +12690,24 @@
   {
     "item": "Aegis Aurora",
     "stats": "#% of physical damage from hits taken as cold damage",
+    "average": 33,
+    "prices": [
+      15,
+      20,
+      25,
+      30,
+      30,
+      30,
+      40,
+      40,
+      50,
+      50
+    ],
+    "search": {
+      "id": "BGr0mYku8",
+      "complexity": 18,
+      "total": 79
+    },
     "builds": 1,
     "mods": [
       {
@@ -12616,6 +12721,13 @@
   {
     "item": "Aegis Aurora",
     "stats": "+# to level of socketed minion gems, +#% to maximum chance to block attack damage",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "gMZPeB2cQ",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -12635,6 +12747,13 @@
   {
     "item": "Aegis Aurora",
     "stats": "+# to level of socketed duration gems, #% reduced damage taken from projectile hits",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "VMgRqawsp",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -12654,6 +12773,24 @@
   {
     "item": "Aegis Aurora",
     "stats": "+# to level of socketed gems",
+    "average": 26.11111111111111,
+    "prices": [
+      20,
+      20,
+      20,
+      25,
+      25,
+      30,
+      30,
+      30,
+      35,
+      40
+    ],
+    "search": {
+      "id": "80Z8EzGsV",
+      "complexity": 18,
+      "total": 73
+    },
     "builds": 1,
     "mods": [
       {
@@ -12667,6 +12804,24 @@
   {
     "item": "Aegis Aurora",
     "stats": "+# to level of socketed aoe gems",
+    "average": 27.9,
+    "prices": [
+      19,
+      20,
+      20,
+      20,
+      25,
+      30,
+      30,
+      35,
+      40,
+      40
+    ],
+    "search": {
+      "id": "v3mVvJJCE",
+      "complexity": 18,
+      "total": 73
+    },
     "builds": 1,
     "mods": [
       {
@@ -12680,6 +12835,24 @@
   {
     "item": "Aegis Aurora",
     "stats": "#% of physical damage from hits taken as fire damage",
+    "average": 27,
+    "prices": [
+      15,
+      20,
+      20,
+      20,
+      20,
+      25,
+      30,
+      40,
+      40,
+      40
+    ],
+    "search": {
+      "id": "lXjXX7kcV",
+      "complexity": 18,
+      "total": 89
+    },
     "builds": 1,
     "mods": [
       {
@@ -12693,6 +12866,13 @@
   {
     "item": "Cospri's Will",
     "stats": "+# to level of socketed aoe gems, +# to level of socketed projectile gems",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "zE22WmgS4",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -12712,6 +12892,18 @@
   {
     "item": "Bubonic Trail",
     "stats": "+# to level of socketed gems",
+    "average": 204.54,
+    "prices": [
+      100,
+      204.54,
+      204.54,
+      6136.2
+    ],
+    "search": {
+      "id": "4dv3yQYt9",
+      "complexity": 18,
+      "total": 4
+    },
     "builds": 1,
     "mods": [
       {
@@ -12725,6 +12917,16 @@
   {
     "item": "Bubonic Trail",
     "stats": "+# to level of socketed duration gems",
+    "average": 2147.67,
+    "prices": [
+      204.54,
+      4090.7999999999997
+    ],
+    "search": {
+      "id": "vljKgqZCE",
+      "complexity": 18,
+      "total": 2
+    },
     "builds": 1,
     "mods": [
       {
