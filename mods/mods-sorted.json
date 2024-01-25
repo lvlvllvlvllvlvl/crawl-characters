@@ -12595,6 +12595,24 @@
   {
     "item": "Southbound",
     "stats": "+# to level of socketed aoe gems",
+    "average": 20.5,
+    "prices": [
+      9,
+      10,
+      20,
+      20,
+      20,
+      25,
+      30,
+      30,
+      50,
+      55
+    ],
+    "search": {
+      "id": "rY5Xe0McQ",
+      "complexity": 18,
+      "total": 37
+    },
     "builds": 1,
     "mods": [
       {
@@ -12608,6 +12626,15 @@
   {
     "item": "Southbound",
     "stats": "+# to level of socketed duration gems, +# to level of socketed aura gems",
+    "average": 5,
+    "prices": [
+      5
+    ],
+    "search": {
+      "id": "nXqLvmMH0",
+      "complexity": 29,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -12627,6 +12654,24 @@
   {
     "item": "Southbound",
     "stats": "#% increased maximum energy shield",
+    "average": 32.857142857142854,
+    "prices": [
+      10,
+      12,
+      23,
+      25,
+      50,
+      50,
+      60,
+      100,
+      175,
+      194.54
+    ],
+    "search": {
+      "id": "XqD7VoBhP",
+      "complexity": 18,
+      "total": 22
+    },
     "builds": 1,
     "mods": [
       {
@@ -12640,6 +12685,24 @@
   {
     "item": "Southbound",
     "stats": "attacks have +#% to critical strike chance",
+    "average": 14.2,
+    "prices": [
+      4,
+      5,
+      9,
+      9,
+      10,
+      10,
+      20,
+      20,
+      25,
+      30
+    ],
+    "search": {
+      "id": "oX5GZ7qIl",
+      "complexity": 18,
+      "total": 51
+    },
     "builds": 1,
     "mods": [
       {
@@ -12653,6 +12716,13 @@
   {
     "item": "Southbound",
     "stats": "curse enemies with enfeeble on hit, +#% to spell critical strike chance",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "PdyQjGDiL",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -12672,6 +12742,17 @@
   {
     "item": "Southbound",
     "stats": "+# to level of socketed projectile gems, +#% to spell critical strike chance",
+    "average": 42.5,
+    "prices": [
+      35,
+      50,
+      583.62
+    ],
+    "search": {
+      "id": "DLkBXM5u5",
+      "complexity": 29,
+      "total": 3
+    },
     "builds": 1,
     "mods": [
       {
@@ -12691,6 +12772,24 @@
   {
     "item": "Hyrri's Ire",
     "stats": "+# to level of socketed minion gems",
+    "average": 119.81599999999999,
+    "prices": [
+      30,
+      30,
+      40,
+      80,
+      90,
+      150,
+      194.54,
+      194.54,
+      194.54,
+      194.54
+    ],
+    "search": {
+      "id": "qXlZDzvTg",
+      "complexity": 18,
+      "total": 23
+    },
     "builds": 1,
     "mods": [
       {
@@ -12704,6 +12803,13 @@
   {
     "item": "Hyrri's Ire",
     "stats": "+# to level of socketed gems, #% increased maximum energy shield",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "6Zy0d3dsG",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -12723,6 +12829,15 @@
   {
     "item": "Hyrri's Ire",
     "stats": "+# to level of socketed gems, +# to level of socketed projectile gems",
+    "average": 205809.44,
+    "prices": [
+      205809.44
+    ],
+    "search": {
+      "id": "OVnvVyOTE",
+      "complexity": 29,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -12742,6 +12857,13 @@
   {
     "item": "Hyrri's Ire",
     "stats": "you take #% reduced extra damage from critical strikes, +#% to all maximum resistances",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "5o3yDeDsa",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -12761,6 +12883,15 @@
   {
     "item": "Skin of the Loyal",
     "stats": "+# to level of socketed aoe gems, +# to level of socketed projectile gems",
+    "average": 15563.199999999999,
+    "prices": [
+      15563.199999999999
+    ],
+    "search": {
+      "id": "XqD4GedCP",
+      "complexity": 29,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -12780,6 +12911,16 @@
   {
     "item": "Skin of the Loyal",
     "stats": "+# to level of socketed duration gems, #% increased maximum energy shield",
+    "average": 2626.29,
+    "prices": [
+      2334.48,
+      2918.1
+    ],
+    "search": {
+      "id": "DL3Vd74H5",
+      "complexity": 29,
+      "total": 2
+    },
     "builds": 1,
     "mods": [
       {
@@ -12799,6 +12940,18 @@
   {
     "item": "Skin of the Loyal",
     "stats": "+# to level of socketed minion gems",
+    "average": 13569.165,
+    "prices": [
+      778.16,
+      972.6999999999999,
+      13617.8,
+      38908
+    ],
+    "search": {
+      "id": "Eyeq6dYf5",
+      "complexity": 18,
+      "total": 4
+    },
     "builds": 1,
     "mods": [
       {
@@ -12812,6 +12965,13 @@
   {
     "item": "Piscator's Vigil",
     "stats": "#% increased critical strike chance, damage penetrates #% elemental resistances",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "Rq6rDKrt7",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -12831,6 +12991,15 @@
   {
     "item": "Piscator's Vigil",
     "stats": "adds # to # cold damage, #% increased attack speed",
+    "average": 15,
+    "prices": [
+      15
+    ],
+    "search": {
+      "id": "dM4VOoZsJ",
+      "complexity": 31,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
