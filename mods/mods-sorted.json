@@ -5962,6 +5962,13 @@
   {
     "item": "Unnatural Instinct",
     "stats": "#% increased damage, corrupted blood cannot be inflicted on you",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "LmdynljIn",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -5981,6 +5988,13 @@
   {
     "item": "Unnatural Instinct",
     "stats": "#% increased reservation efficiency of skills, corrupted blood cannot be inflicted on you",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "80Z8EB2cV",
+      "complexity": 30,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -6001,6 +6015,15 @@
   {
     "item": "Unnatural Instinct",
     "stats": "#% increased global critical strike chance, damage penetrates #% cold resistance",
+    "average": 13645.8,
+    "prices": [
+      13645.8
+    ],
+    "search": {
+      "id": "WVkzPqRfm",
+      "complexity": 30,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -6021,6 +6044,13 @@
   {
     "item": "Unnatural Instinct",
     "stats": "damage penetrates #% elemental resistances, corrupted blood cannot be inflicted on you",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "rXj9DVMHQ",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -6040,6 +6070,13 @@
   {
     "item": "Unnatural Instinct",
     "stats": "#% reduced effect of curses on you, damage penetrates #% fire resistance",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "wKWX9XnHb",
+      "complexity": 30,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -6060,6 +6097,15 @@
   {
     "item": "Unnatural Instinct",
     "stats": "you cannot be maimed, #% reduced bleed duration on you",
+    "average": 194.94,
+    "prices": [
+      194.94
+    ],
+    "search": {
+      "id": "OqeJXDzhE",
+      "complexity": 29,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -6079,6 +6125,13 @@
   {
     "item": "Unnatural Instinct",
     "stats": "#% reduced bleed duration on you, you cannot be hindered",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "6ZY69bbhG",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -6098,6 +6151,15 @@
   {
     "item": "Unnatural Instinct",
     "stats": "damage penetrates #% cold resistance, damage penetrates #% lightning resistance",
+    "average": 5848.2,
+    "prices": [
+      5848.2
+    ],
+    "search": {
+      "id": "GkOz8ooub",
+      "complexity": 31,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -6119,6 +6181,13 @@
   {
     "item": "Unnatural Instinct",
     "stats": "#% increased damage, #% increased area of effect",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "KJDLoqRi5",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -6138,6 +6207,24 @@
   {
     "item": "Ancestral Vision",
     "stats": "you cannot be cursed with silence",
+    "average": 33.7,
+    "prices": [
+      30,
+      30,
+      33,
+      34,
+      35,
+      35,
+      35,
+      35,
+      35,
+      35
+    ],
+    "search": {
+      "id": "kXJ2YOWI5",
+      "complexity": 18,
+      "total": 63
+    },
     "builds": 1,
     "mods": [
       {
@@ -6151,6 +6238,24 @@
   {
     "item": "Ancestral Vision",
     "stats": "#% increased damage",
+    "average": 40,
+    "prices": [
+      39,
+      40,
+      40,
+      40,
+      40,
+      40,
+      40,
+      40,
+      40,
+      45
+    ],
+    "search": {
+      "id": "LmdwQrBHn",
+      "complexity": 18,
+      "total": 66
+    },
     "builds": 1,
     "mods": [
       {
@@ -6164,6 +6269,13 @@
   {
     "item": "Ancestral Vision",
     "stats": "corrupted blood cannot be inflicted on you, you cannot be hindered",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "Zwd6Vo7TQ",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -6183,6 +6295,24 @@
   {
     "item": "Lightning Coil",
     "stats": "+# to level of socketed duration gems",
+    "average": 37.666666666666664,
+    "prices": [
+      30,
+      30,
+      39,
+      40,
+      40,
+      40,
+      40,
+      40,
+      40,
+      49
+    ],
+    "search": {
+      "id": "waPeM2jtb",
+      "complexity": 18,
+      "total": 143
+    },
     "builds": 1,
     "mods": [
       {
@@ -6196,6 +6326,24 @@
   {
     "item": "Lightning Coil",
     "stats": "+# to level of socketed minion gems",
+    "average": 55,
+    "prices": [
+      50,
+      50,
+      50,
+      50,
+      60,
+      60,
+      60,
+      60,
+      75,
+      80
+    ],
+    "search": {
+      "id": "8aprQ3VTV",
+      "complexity": 18,
+      "total": 127
+    },
     "builds": 1,
     "mods": [
       {
@@ -6209,6 +6357,24 @@
   {
     "item": "Lightning Coil",
     "stats": "+#% to all maximum resistances",
+    "average": 20,
+    "prices": [
+      10,
+      13,
+      20,
+      20,
+      20,
+      20,
+      20,
+      25,
+      23.4,
+      30
+    ],
+    "search": {
+      "id": "80Z0zlZcV",
+      "complexity": 18,
+      "total": 112
+    },
     "builds": 1,
     "mods": [
       {
