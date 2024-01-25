@@ -6388,6 +6388,13 @@
   {
     "item": "Lightning Coil",
     "stats": "#% increased damage, #% reduced lightning damage taken",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "XqDYal7CP",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -6407,6 +6414,24 @@
   {
     "item": "Lightning Coil",
     "stats": "+# to level of socketed gems",
+    "average": 1028.282857142857,
+    "prices": [
+      583.62,
+      778.16,
+      972.6999999999999,
+      972.6999999999999,
+      972.6999999999999,
+      972.6999999999999,
+      972.6999999999999,
+      1167.24,
+      1167.24,
+      1361.78
+    ],
+    "search": {
+      "id": "2BrQXgYFk",
+      "complexity": 18,
+      "total": 124
+    },
     "builds": 1,
     "mods": [
       {
@@ -6420,6 +6445,24 @@
   {
     "item": "Lightning Coil",
     "stats": "#% additional physical damage reduction while stationary",
+    "average": 16.75,
+    "prices": [
+      5,
+      10,
+      10,
+      15,
+      19,
+      20,
+      20,
+      20,
+      20,
+      30
+    ],
+    "search": {
+      "id": "6ZBDYWkFG",
+      "complexity": 18,
+      "total": 81
+    },
     "builds": 1,
     "mods": [
       {
@@ -6433,6 +6476,17 @@
   {
     "item": "Lightning Coil",
     "stats": "+# to level of socketed aoe gems, +# to level of socketed projectile gems",
+    "average": 196743.06933333332,
+    "prices": [
+      184859.703,
+      97270,
+      308099.505
+    ],
+    "search": {
+      "id": "zeBjrpvH4",
+      "complexity": 29,
+      "total": 3
+    },
     "builds": 1,
     "mods": [
       {
@@ -6452,6 +6506,24 @@
   {
     "item": "Tanu Ahi",
     "stats": "curse enemies with enfeeble on hit",
+    "average": 26,
+    "prices": [
+      10,
+      15,
+      15,
+      20,
+      20,
+      25,
+      30,
+      49,
+      50,
+      70
+    ],
+    "search": {
+      "id": "2BWwdYGsk",
+      "complexity": 18,
+      "total": 41
+    },
     "builds": 1,
     "mods": [
       {
@@ -6465,6 +6537,24 @@
   {
     "item": "Tanu Ahi",
     "stats": "attacks have +#% to critical strike chance",
+    "average": 32.5,
+    "prices": [
+      15,
+      20,
+      25,
+      25,
+      25,
+      30,
+      35,
+      50,
+      50,
+      50
+    ],
+    "search": {
+      "id": "nXJBg42T0",
+      "complexity": 18,
+      "total": 52
+    },
     "builds": 1,
     "mods": [
       {
@@ -6478,6 +6568,15 @@
   {
     "item": "Tanu Ahi",
     "stats": "curse enemies with enfeeble on hit, attacks have +#% to critical strike chance",
+    "average": 19454,
+    "prices": [
+      19454
+    ],
+    "search": {
+      "id": "Rqr6WzBH7",
+      "complexity": 29,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -6497,6 +6596,24 @@
   {
     "item": "Tanu Ahi",
     "stats": "curse enemies with vulnerability on hit",
+    "average": 30.9,
+    "prices": [
+      20,
+      20,
+      20,
+      20,
+      25,
+      30,
+      39,
+      40,
+      45,
+      50
+    ],
+    "search": {
+      "id": "8a2a76MiV",
+      "complexity": 18,
+      "total": 51
+    },
     "builds": 1,
     "mods": [
       {
@@ -6510,6 +6627,15 @@
   {
     "item": "Tanu Ahi",
     "stats": "+# to level of socketed duration gems, attacks have +#% to critical strike chance",
+    "average": 389.08,
+    "prices": [
+      389.08
+    ],
+    "search": {
+      "id": "Pd5D2mmiL",
+      "complexity": 29,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -6529,6 +6655,24 @@
   {
     "item": "Shadows and Dust",
     "stats": "#% increased attack speed",
+    "average": 44.6,
+    "prices": [
+      30,
+      33,
+      40,
+      40,
+      45,
+      50,
+      50,
+      50,
+      50,
+      58
+    ],
+    "search": {
+      "id": "8aeDbjvFV",
+      "complexity": 19,
+      "total": 53
+    },
     "builds": 1,
     "mods": [
       {
@@ -6543,6 +6687,24 @@
   {
     "item": "Shadows and Dust",
     "stats": "+#% to spell critical strike chance",
+    "average": 19.444444444444443,
+    "prices": [
+      8,
+      15,
+      15,
+      15,
+      20,
+      20,
+      20,
+      20,
+      25,
+      25
+    ],
+    "search": {
+      "id": "ZbErrd0uQ",
+      "complexity": 18,
+      "total": 49
+    },
     "builds": 1,
     "mods": [
       {
@@ -6556,6 +6718,15 @@
   {
     "item": "Shadows and Dust",
     "stats": "#% increased maximum energy shield, attacks have +#% to critical strike chance",
+    "average": 120,
+    "prices": [
+      120
+    ],
+    "search": {
+      "id": "EyVjjPBH5",
+      "complexity": 29,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -6575,6 +6746,24 @@
   {
     "item": "Shadows and Dust",
     "stats": "+# to level of socketed minion gems",
+    "average": 19.30125,
+    "prices": [
+      8,
+      10,
+      12.41,
+      14,
+      20,
+      30,
+      30,
+      30,
+      45,
+      70
+    ],
+    "search": {
+      "id": "KJGpJKyU5",
+      "complexity": 18,
+      "total": 21
+    },
     "builds": 1,
     "mods": [
       {
@@ -6588,6 +6777,13 @@
   {
     "item": "Shadows and Dust",
     "stats": "curse enemies with elemental weakness on hit, attacks have +#% to critical strike chance",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "60QnQdqIG",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -6607,6 +6803,24 @@
   {
     "item": "Carcass Jack",
     "stats": "+# to level of socketed duration gems",
+    "average": 33,
+    "prices": [
+      15,
+      20,
+      20,
+      25,
+      25,
+      30,
+      45,
+      50,
+      50,
+      50
+    ],
+    "search": {
+      "id": "0BXn8pQUg",
+      "complexity": 18,
+      "total": 41
+    },
     "builds": 1,
     "mods": [
       {
