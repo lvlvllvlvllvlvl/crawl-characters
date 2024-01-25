@@ -10863,6 +10863,24 @@
   {
     "item": "Inspired Learning",
     "stats": "damage penetrates #% cold resistance",
+    "average": 24.5,
+    "prices": [
+      20,
+      20,
+      20,
+      20,
+      25,
+      25,
+      25,
+      30,
+      30,
+      30
+    ],
+    "search": {
+      "id": "KJdeLGqs5",
+      "complexity": 19,
+      "total": 41
+    },
     "builds": 1,
     "mods": [
       {
@@ -10877,6 +10895,24 @@
   {
     "item": "Inspired Learning",
     "stats": "you cannot be maimed",
+    "average": 25.8,
+    "prices": [
+      20,
+      20,
+      20,
+      21,
+      27,
+      30,
+      30,
+      30,
+      30,
+      30
+    ],
+    "search": {
+      "id": "v3WbPKZuE",
+      "complexity": 18,
+      "total": 35
+    },
     "builds": 1,
     "mods": [
       {
@@ -10890,6 +10926,24 @@
   {
     "item": "Inspired Learning",
     "stats": "minions deal #% increased damage",
+    "average": 20,
+    "prices": [
+      20,
+      20,
+      20,
+      20,
+      20,
+      20,
+      20,
+      20,
+      25,
+      30
+    ],
+    "search": {
+      "id": "oX70bw4il",
+      "complexity": 18,
+      "total": 25
+    },
     "builds": 1,
     "mods": [
       {
@@ -10903,6 +10957,24 @@
   {
     "item": "Inspired Learning",
     "stats": "#% reduced poison duration on you",
+    "average": 22.22222222222222,
+    "prices": [
+      20,
+      20,
+      20,
+      20,
+      20,
+      25,
+      25,
+      25,
+      25,
+      30
+    ],
+    "search": {
+      "id": "ZbZdZp8HQ",
+      "complexity": 18,
+      "total": 34
+    },
     "builds": 1,
     "mods": [
       {
@@ -10916,6 +10988,24 @@
   {
     "item": "Inspired Learning",
     "stats": "#% reduced bleed duration on you",
+    "average": 20,
+    "prices": [
+      20,
+      20,
+      20,
+      20,
+      20,
+      20,
+      20,
+      20,
+      20,
+      20
+    ],
+    "search": {
+      "id": "bPZJr2RTL",
+      "complexity": 18,
+      "total": 41
+    },
     "builds": 1,
     "mods": [
       {
@@ -10929,6 +11019,24 @@
   {
     "item": "Inspired Learning",
     "stats": "#% reduced effect of curses on you",
+    "average": 25.827999999999996,
+    "prices": [
+      20,
+      19.28,
+      24,
+      25,
+      25,
+      25,
+      30,
+      30,
+      30,
+      30
+    ],
+    "search": {
+      "id": "LmdejwjHn",
+      "complexity": 18,
+      "total": 41
+    },
     "builds": 1,
     "mods": [
       {
@@ -10942,6 +11050,24 @@
   {
     "item": "Inspired Learning",
     "stats": "corrupted blood cannot be inflicted on you",
+    "average": 790.16,
+    "prices": [
+      197.54,
+      790.16,
+      790.16,
+      790.16,
+      790.16,
+      790.16,
+      790.16,
+      790.16,
+      790.16,
+      790.16
+    ],
+    "search": {
+      "id": "wpR9W5jhb",
+      "complexity": 18,
+      "total": 53
+    },
     "builds": 1,
     "mods": [
       {
@@ -10955,6 +11081,24 @@
   {
     "item": "Inspired Learning",
     "stats": "damage penetrates #% lightning resistance",
+    "average": 25.5,
+    "prices": [
+      20,
+      20,
+      20,
+      25,
+      25,
+      25,
+      30,
+      30,
+      30,
+      30
+    ],
+    "search": {
+      "id": "kXD66RnF5",
+      "complexity": 19,
+      "total": 35
+    },
     "builds": 1,
     "mods": [
       {
@@ -10969,6 +11113,24 @@
   {
     "item": "The Jinxed Juju",
     "stats": "discipline has #% increased aura effect",
+    "average": 358.572,
+    "prices": [
+      10,
+      20,
+      197.54,
+      197.54,
+      197.54,
+      197.54,
+      592.62,
+      592.62,
+      790.16,
+      790.16
+    ],
+    "search": {
+      "id": "qXJRJvkSg",
+      "complexity": 18,
+      "total": 18
+    },
     "builds": 1,
     "mods": [
       {
@@ -10982,6 +11144,24 @@
   {
     "item": "The Jinxed Juju",
     "stats": "wrath has #% increased aura effect",
+    "average": 93.56519999999999,
+    "prices": [
+      10,
+      15,
+      15,
+      20,
+      50,
+      75,
+      158.032,
+      197.54,
+      197.54,
+      197.54
+    ],
+    "search": {
+      "id": "oX7R79kFl",
+      "complexity": 18,
+      "total": 17
+    },
     "builds": 1,
     "mods": [
       {
@@ -10995,6 +11175,13 @@
   {
     "item": "The Jinxed Juju",
     "stats": "grants level # purity of elements skill, +#% to all maximum resistances",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "QvMr6Vpfw",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -11014,6 +11201,21 @@
   {
     "item": "The Jinxed Juju",
     "stats": "#% of cold damage leeched as life",
+    "average": 118.76999999999998,
+    "prices": [
+      10,
+      10,
+      100,
+      197.54,
+      197.54,
+      197.54,
+      592.62
+    ],
+    "search": {
+      "id": "MVZ04vLUJ",
+      "complexity": 19,
+      "total": 7
+    },
     "builds": 1,
     "mods": [
       {
@@ -11028,6 +11230,24 @@
   {
     "item": "The Jinxed Juju",
     "stats": "determination has #% increased aura effect",
+    "average": 168.15499999999997,
+    "prices": [
+      30,
+      80,
+      80,
+      197.54,
+      197.54,
+      197.54,
+      197.54,
+      197.54,
+      197.54,
+      395.08
+    ],
+    "search": {
+      "id": "aq3p3XKTe",
+      "complexity": 18,
+      "total": 20
+    },
     "builds": 1,
     "mods": [
       {
@@ -11041,6 +11261,24 @@
   {
     "item": "The Jinxed Juju",
     "stats": "hatred has #% increased aura effect",
+    "average": 103.51333333333332,
+    "prices": [
+      9,
+      20,
+      25,
+      35,
+      100,
+      150,
+      197.54,
+      197.54,
+      197.54,
+      395.08
+    ],
+    "search": {
+      "id": "bXW5pJOTL",
+      "complexity": 18,
+      "total": 16
+    },
     "builds": 1,
     "mods": [
       {
@@ -11054,6 +11292,13 @@
   {
     "item": "The Jinxed Juju",
     "stats": "#% increased dexterity, #% increased intelligence, wrath has #% increased aura effect",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "paPKOy5s0",
+      "complexity": 20,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
