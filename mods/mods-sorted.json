@@ -16605,6 +16605,24 @@
   {
     "item": "Crown of the Inward Eye",
     "stats": "regenerate #% of life per second",
+    "average": 32.333333333333336,
+    "prices": [
+      18,
+      20,
+      20,
+      23,
+      30,
+      40,
+      40,
+      50,
+      50,
+      100
+    ],
+    "search": {
+      "id": "qayp5XWsg",
+      "complexity": 18,
+      "total": 31
+    },
     "builds": 1,
     "mods": [
       {
@@ -16618,6 +16636,24 @@
   {
     "item": "Crown of the Inward Eye",
     "stats": "#% increased maximum life",
+    "average": 38,
+    "prices": [
+      20,
+      25,
+      30,
+      35,
+      40,
+      40,
+      40,
+      50,
+      50,
+      50
+    ],
+    "search": {
+      "id": "Bq9WJbXT8",
+      "complexity": 18,
+      "total": 56
+    },
     "builds": 1,
     "mods": [
       {
@@ -16631,6 +16667,13 @@
   {
     "item": "The Poet's Pen",
     "stats": "adds # to # fire damage, #% increased attack speed",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "9YG3RV4tK",
+      "complexity": 31,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -16652,6 +16695,24 @@
   {
     "item": "The Poet's Pen",
     "stats": "#% increased area of effect",
+    "average": 4136.016,
+    "prices": [
+      3725.2799999999997,
+      3820.7999999999997,
+      3820.7999999999997,
+      3820.7999999999997,
+      3820.7999999999997,
+      3820.7999999999997,
+      4393.92,
+      4584.96,
+      4776,
+      4776
+    ],
+    "search": {
+      "id": "4db67QgH9",
+      "complexity": 18,
+      "total": 30
+    },
     "builds": 1,
     "mods": [
       {
@@ -16665,6 +16726,24 @@
   {
     "item": "Viridi's Veil",
     "stats": "socketed skill gems get a #% cost & reservation multiplier",
+    "average": 191.04,
+    "prices": [
+      133.72799999999998,
+      145,
+      160,
+      191.04,
+      191.04,
+      191.04,
+      191.04,
+      191.04,
+      191.04,
+      191.04
+    ],
+    "search": {
+      "id": "9qlwZXQUK",
+      "complexity": 18,
+      "total": 41
+    },
     "builds": 1,
     "mods": [
       {
@@ -16678,6 +16757,24 @@
   {
     "item": "Viridi's Veil",
     "stats": "+# to level of socketed projectile gems",
+    "average": 44,
+    "prices": [
+      10,
+      20,
+      40,
+      40,
+      40,
+      40,
+      40,
+      50,
+      80,
+      80
+    ],
+    "search": {
+      "id": "MVDlgq6UJ",
+      "complexity": 18,
+      "total": 28
+    },
     "builds": 1,
     "mods": [
       {
@@ -16691,6 +16788,13 @@
   {
     "item": "Queen of the Forest",
     "stats": "+# to level of socketed aura gems, +# to level of socketed curse gems",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "DLvDn72H5",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -16710,6 +16814,24 @@
   {
     "item": "Queen of the Forest",
     "stats": "+# to level of socketed gems",
+    "average": 1456.6799999999998,
+    "prices": [
+      573.12,
+      955.1999999999999,
+      1146.24,
+      1337.28,
+      1528.32,
+      1528.32,
+      1528.32,
+      1719.36,
+      1910.3999999999999,
+      2292.48
+    ],
+    "search": {
+      "id": "yrJQLgGsR",
+      "complexity": 18,
+      "total": 30
+    },
     "builds": 1,
     "mods": [
       {
@@ -16723,6 +16845,13 @@
   {
     "item": "Queen of the Forest",
     "stats": "+# to level of socketed gems, +# to level of socketed projectile gems",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "BEOXnMaH8",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -16742,6 +16871,15 @@
   {
     "item": "Queen of the Forest",
     "stats": "+# to level of socketed aoe gems, #% increased damage",
+    "average": 6686.4,
+    "prices": [
+      6686.4
+    ],
+    "search": {
+      "id": "OVwymo0tE",
+      "complexity": 29,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -16761,6 +16899,13 @@
   {
     "item": "Queen of the Forest",
     "stats": "+# to level of socketed trap or mine gems, #% increased maximum life",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "8abybkqhV",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -16780,6 +16925,24 @@
   {
     "item": "Might of the Meek",
     "stats": "#% reduced effect of chill on you",
+    "average": 25.075,
+    "prices": [
+      7,
+      20,
+      20,
+      20,
+      20,
+      20,
+      30,
+      40,
+      40,
+      33.75
+    ],
+    "search": {
+      "id": "pXEoybbH0",
+      "complexity": 18,
+      "total": 23
+    },
     "builds": 1,
     "mods": [
       {
@@ -16793,6 +16956,24 @@
   {
     "item": "Might of the Meek",
     "stats": "damage penetrates #% lightning resistance",
+    "average": 22.5,
+    "prices": [
+      10,
+      10,
+      10,
+      10,
+      15,
+      30,
+      30,
+      30,
+      40,
+      40
+    ],
+    "search": {
+      "id": "lXODXjrhV",
+      "complexity": 19,
+      "total": 25
+    },
     "builds": 1,
     "mods": [
       {
@@ -16807,6 +16988,24 @@
   {
     "item": "Might of the Meek",
     "stats": "#% increased global critical strike chance",
+    "average": 11.9,
+    "prices": [
+      10,
+      10,
+      10,
+      10,
+      10,
+      10,
+      14,
+      15,
+      15,
+      15
+    ],
+    "search": {
+      "id": "3Gw30nJU5",
+      "complexity": 18,
+      "total": 20
+    },
     "builds": 1,
     "mods": [
       {
@@ -16820,6 +17019,24 @@
   {
     "item": "Might of the Meek",
     "stats": "you cannot be maimed",
+    "average": 22.723333333333333,
+    "prices": [
+      5,
+      9,
+      10,
+      15,
+      20,
+      20,
+      36.51,
+      39,
+      50,
+      70
+    ],
+    "search": {
+      "id": "lXJV8VrhV",
+      "complexity": 18,
+      "total": 17
+    },
     "builds": 1,
     "mods": [
       {
