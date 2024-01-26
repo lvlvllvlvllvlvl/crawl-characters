@@ -3278,6 +3278,24 @@
   {
     "item": "Sadima's Touch",
     "stats": "#% increased cast speed",
+    "average": 10,
+    "prices": [
+      1,
+      5,
+      3.4000000000000004,
+      10,
+      10,
+      10,
+      10,
+      10,
+      10,
+      10
+    ],
+    "search": {
+      "id": "K9gKZ2RC5",
+      "complexity": 18,
+      "total": 64
+    },
     "builds": 2,
     "mods": [
       {
@@ -3291,6 +3309,24 @@
   {
     "item": "Sentari's Answer",
     "stats": "#% increased maximum energy shield",
+    "average": 67.7,
+    "prices": [
+      8,
+      20,
+      20,
+      20,
+      99,
+      100,
+      100,
+      100,
+      100,
+      110
+    ],
+    "search": {
+      "id": "EydaRLzh5",
+      "complexity": 18,
+      "total": 21
+    },
     "builds": 2,
     "mods": [
       {
@@ -3304,6 +3340,24 @@
   {
     "item": "Sentari's Answer",
     "stats": "#% of physical damage from hits taken as fire damage",
+    "average": 32.164,
+    "prices": [
+      10,
+      20,
+      20,
+      20,
+      30,
+      35,
+      26.64,
+      50,
+      50,
+      60
+    ],
+    "search": {
+      "id": "LeWraOlFn",
+      "complexity": 18,
+      "total": 32
+    },
     "builds": 2,
     "mods": [
       {
@@ -3317,6 +3371,24 @@
   {
     "item": "Malachai's Loop",
     "stats": "#% of physical damage from hits taken as fire damage",
+    "average": 34,
+    "prices": [
+      30,
+      30,
+      30,
+      30,
+      30,
+      30,
+      40,
+      40,
+      40,
+      40
+    ],
+    "search": {
+      "id": "0BaGbKQhg",
+      "complexity": 18,
+      "total": 294
+    },
     "builds": 2,
     "mods": [
       {
@@ -3330,6 +3402,24 @@
   {
     "item": "Badge of the Brotherhood",
     "stats": "hatred has #% increased aura effect",
+    "average": 4276.114285714286,
+    "prices": [
+      3741.6000000000004,
+      3741.6000000000004,
+      4302.84,
+      4302.84,
+      4489.92,
+      4677,
+      4677,
+      5612.400000000001,
+      5986.56,
+      7483.200000000001
+    ],
+    "search": {
+      "id": "Ey6w67Bh5",
+      "complexity": 18,
+      "total": 18
+    },
     "builds": 2,
     "mods": [
       {
@@ -3343,6 +3433,24 @@
   {
     "item": "Sin Trek",
     "stats": "+# to level of socketed gems",
+    "average": 16.8,
+    "prices": [
+      5,
+      10,
+      10,
+      15,
+      15,
+      18,
+      20,
+      20,
+      25,
+      30
+    ],
+    "search": {
+      "id": "mXjDWmwt6",
+      "complexity": 18,
+      "total": 47
+    },
     "builds": 2,
     "mods": [
       {
@@ -3356,6 +3464,24 @@
   {
     "item": "Prism Guardian",
     "stats": "#% of physical damage from hits taken as fire damage",
+    "average": 30.4,
+    "prices": [
+      20,
+      20,
+      25,
+      30,
+      30,
+      30,
+      30,
+      39,
+      40,
+      40
+    ],
+    "search": {
+      "id": "WVpJWBVfm",
+      "complexity": 18,
+      "total": 50
+    },
     "builds": 2,
     "mods": [
       {
@@ -3369,6 +3495,24 @@
   {
     "item": "Natural Affinity",
     "stats": "#% increased area of effect",
+    "average": 143.54,
+    "prices": [
+      100,
+      100,
+      100,
+      100,
+      100,
+      187.08,
+      187.08,
+      187.08,
+      187.08,
+      187.08
+    ],
+    "search": {
+      "id": "MvR4pwPcJ",
+      "complexity": 18,
+      "total": 14
+    },
     "builds": 2,
     "mods": [
       {
@@ -3382,6 +3526,18 @@
   {
     "item": "Natural Affinity",
     "stats": "damage penetrates #% elemental resistances",
+    "average": 187.08,
+    "prices": [
+      40,
+      187.08,
+      187.08,
+      187.08
+    ],
+    "search": {
+      "id": "R242ZPOi7",
+      "complexity": 18,
+      "total": 4
+    },
     "builds": 2,
     "mods": [
       {
@@ -3395,6 +3551,15 @@
   {
     "item": "Perandus Blazon",
     "stats": "#% increased rarity of items found, zealotry has #% increased aura effect",
+    "average": 561.24,
+    "prices": [
+      561.24
+    ],
+    "search": {
+      "id": "LmonEMVhn",
+      "complexity": 29,
+      "total": 1
+    },
     "builds": 2,
     "mods": [
       {
@@ -3414,6 +3579,24 @@
   {
     "item": "Ceinture of Benevolence",
     "stats": "#% increased strength, #% increased intelligence",
+    "average": 75.69422222222222,
+    "prices": [
+      14,
+      30,
+      40,
+      80,
+      80,
+      100,
+      100,
+      112.248,
+      125,
+      187.08
+    ],
+    "search": {
+      "id": "z27GVXRI4",
+      "complexity": 29,
+      "total": 23
+    },
     "builds": 2,
     "mods": [
       {
@@ -3433,6 +3616,24 @@
   {
     "item": "Ceinture of Benevolence",
     "stats": "wrath has #% increased aura effect",
+    "average": 18.91,
+    "prices": [
+      8,
+      10,
+      10,
+      10,
+      11.100000000000001,
+      15,
+      20,
+      25,
+      40,
+      40
+    ],
+    "search": {
+      "id": "ZbZrYrYHQ",
+      "complexity": 18,
+      "total": 31
+    },
     "builds": 2,
     "mods": [
       {
@@ -3446,6 +3647,24 @@
   {
     "item": "Ceinture of Benevolence",
     "stats": "discipline has #% increased aura effect",
+    "average": 128.66666666666666,
+    "prices": [
+      50,
+      99,
+      100,
+      100,
+      100,
+      120,
+      150,
+      150,
+      159,
+      180
+    ],
+    "search": {
+      "id": "R24XldWi7",
+      "complexity": 18,
+      "total": 44
+    },
     "builds": 2,
     "mods": [
       {
@@ -3459,6 +3678,24 @@
   {
     "item": "Severed in Sleep",
     "stats": "#% chance to gain onslaught for # seconds on kill",
+    "average": 34.708,
+    "prices": [
+      10,
+      10,
+      12.08,
+      20,
+      20,
+      35,
+      50,
+      50,
+      70,
+      70
+    ],
+    "search": {
+      "id": "GkdLwRZHb",
+      "complexity": 18,
+      "total": 17
+    },
     "builds": 2,
     "mods": [
       {
@@ -3472,6 +3709,24 @@
   {
     "item": "Pure Talent",
     "stats": "corrupted blood cannot be inflicted on you",
+    "average": 46.5,
+    "prices": [
+      30,
+      30,
+      40,
+      50,
+      50,
+      50,
+      50,
+      50,
+      55,
+      60
+    ],
+    "search": {
+      "id": "8a2vlBMHV",
+      "complexity": 18,
+      "total": 33
+    },
     "builds": 2,
     "mods": [
       {
