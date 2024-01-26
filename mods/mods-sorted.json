@@ -15338,6 +15338,24 @@
   {
     "item": "Inspired Learning",
     "stats": "damage penetrates #% cold resistance",
+    "average": 20,
+    "prices": [
+      15,
+      20,
+      20,
+      20,
+      20,
+      20,
+      20,
+      20,
+      20,
+      25
+    ],
+    "search": {
+      "id": "KJdeLGqs5",
+      "complexity": 19,
+      "total": 42
+    },
     "builds": 1,
     "mods": [
       {
@@ -15352,6 +15370,24 @@
   {
     "item": "Inspired Learning",
     "stats": "#% reduced poison duration on you",
+    "average": 23.3,
+    "prices": [
+      20,
+      20,
+      20,
+      20,
+      20,
+      25,
+      25,
+      25,
+      28,
+      30
+    ],
+    "search": {
+      "id": "ZbZdZp8HQ",
+      "complexity": 18,
+      "total": 33
+    },
     "builds": 1,
     "mods": [
       {
@@ -15365,6 +15401,24 @@
   {
     "item": "Inspired Learning",
     "stats": "damage penetrates #% lightning resistance",
+    "average": 22.22222222222222,
+    "prices": [
+      20,
+      20,
+      20,
+      20,
+      20,
+      25,
+      25,
+      25,
+      25,
+      30
+    ],
+    "search": {
+      "id": "kXD66RnF5",
+      "complexity": 19,
+      "total": 41
+    },
     "builds": 1,
     "mods": [
       {
@@ -15379,6 +15433,21 @@
   {
     "item": "Fleshcrafter",
     "stats": "+# to level of socketed projectile gems",
+    "average": 291.26714285714286,
+    "prices": [
+      100,
+      180,
+      195.43,
+      195.43,
+      195.43,
+      586.29,
+      586.29
+    ],
+    "search": {
+      "id": "ZwdvaL8iQ",
+      "complexity": 18,
+      "total": 7
+    },
     "builds": 1,
     "mods": [
       {
@@ -15392,6 +15461,18 @@
   {
     "item": "Fleshcrafter",
     "stats": "+# to level of socketed minion gems",
+    "average": 4201.745000000001,
+    "prices": [
+      2931.4500000000003,
+      3517.7400000000002,
+      4494.89,
+      5862.900000000001
+    ],
+    "search": {
+      "id": "4qnzvpvT9",
+      "complexity": 18,
+      "total": 4
+    },
     "builds": 1,
     "mods": [
       {
@@ -15405,6 +15486,24 @@
   {
     "item": "Sign of the Sin Eater",
     "stats": "#% increased area of effect",
+    "average": 46.5,
+    "prices": [
+      20,
+      20,
+      20,
+      20,
+      30,
+      40,
+      40,
+      80,
+      95,
+      100
+    ],
+    "search": {
+      "id": "rXjnOV7CQ",
+      "complexity": 18,
+      "total": 12
+    },
     "builds": 1,
     "mods": [
       {
@@ -15418,6 +15517,16 @@
   {
     "item": "The Poised Prism",
     "stats": "# to # added cold damage with bow attacks, # to # added lightning damage with bow attacks",
+    "average": 488.57500000000005,
+    "prices": [
+      195.43,
+      781.72
+    ],
+    "search": {
+      "id": "lX80WLVsV",
+      "complexity": 29,
+      "total": 2
+    },
     "builds": 1,
     "mods": [
       {
@@ -15437,6 +15546,24 @@
   {
     "item": "The Poised Prism",
     "stats": "#% increased elemental damage with attack skills",
+    "average": 1.3039999999999998,
+    "prices": [
+      1.04,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      2,
+      2,
+      2
+    ],
+    "search": {
+      "id": "rXmvBJzSQ",
+      "complexity": 18,
+      "total": 384
+    },
     "builds": 1,
     "mods": [
       {
@@ -15450,6 +15577,24 @@
   {
     "item": "Seven-League Step",
     "stats": "+#% chance to suppress spell damage",
+    "average": 36,
+    "prices": [
+      25,
+      30,
+      30,
+      30,
+      30,
+      35,
+      40,
+      40,
+      50,
+      50
+    ],
+    "search": {
+      "id": "8av99q8IV",
+      "complexity": 19,
+      "total": 20
+    },
     "builds": 1,
     "mods": [
       {
@@ -15464,6 +15609,13 @@
   {
     "item": "Seven-League Step",
     "stats": "+# to level of socketed aura gems, #% increased maximum life",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "YVEoYy6UY",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -15483,6 +15635,13 @@
   {
     "item": "Doedre's Tenure",
     "stats": "+# to maximum frenzy charges, +#% to spell critical strike chance",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "2BMLzGYIk",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -15502,6 +15661,24 @@
   {
     "item": "Doedre's Tenure",
     "stats": "+#% to spell critical strike chance",
+    "average": 56,
+    "prices": [
+      5,
+      30,
+      40,
+      40,
+      40,
+      50,
+      59,
+      80,
+      80,
+      85
+    ],
+    "search": {
+      "id": "kX4WGpKI5",
+      "complexity": 18,
+      "total": 20
+    },
     "builds": 1,
     "mods": [
       {
@@ -15515,6 +15692,18 @@
   {
     "item": "Black Zenith",
     "stats": "curse enemies with temporal chains on hit",
+    "average": 127.2365,
+    "prices": [
+      10,
+      69,
+      195.43,
+      234.516
+    ],
+    "search": {
+      "id": "VMQOgQrcp",
+      "complexity": 18,
+      "total": 4
+    },
     "builds": 1,
     "mods": [
       {
@@ -15528,6 +15717,24 @@
   {
     "item": "The Gull",
     "stats": "socketed skill gems get a #% cost & reservation multiplier",
+    "average": 119.08600000000001,
+    "prices": [
+      75,
+      80,
+      85,
+      100,
+      100,
+      100,
+      120,
+      140,
+      195.43,
+      195.43
+    ],
+    "search": {
+      "id": "y9EGvmgSR",
+      "complexity": 18,
+      "total": 20
+    },
     "builds": 1,
     "mods": [
       {
@@ -15541,6 +15748,24 @@
   {
     "item": "Replica Dragonfang's Flight",
     "stats": "you can apply an additional curse",
+    "average": 144.85785714285717,
+    "prices": [
+      97.715,
+      100,
+      100,
+      130,
+      195.43,
+      195.43,
+      195.43,
+      293.145,
+      390.86,
+      586.29
+    ],
+    "search": {
+      "id": "no9rlYyH0",
+      "complexity": 18,
+      "total": 20
+    },
     "builds": 1,
     "mods": [
       {
