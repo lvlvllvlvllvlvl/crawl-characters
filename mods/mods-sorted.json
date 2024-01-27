@@ -2789,6 +2789,13 @@
   {
     "item": "Mageblood",
     "stats": "#% increased maximum life, #% increased area of effect",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "kXjqdM3U5",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 2,
     "mods": [
       {
@@ -2808,6 +2815,13 @@
   {
     "item": "Mageblood",
     "stats": "#% increased maximum life, grace has #% increased aura effect",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "pXvPpyvT0",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 2,
     "mods": [
       {
@@ -2827,6 +2841,24 @@
   {
     "item": "Shaper's Touch",
     "stats": "+# to level of socketed aura gems",
+    "average": 46.666666666666664,
+    "prices": [
+      35,
+      40,
+      40,
+      40,
+      45,
+      50,
+      50,
+      60,
+      60,
+      70
+    ],
+    "search": {
+      "id": "0PQ6vEghg",
+      "complexity": 18,
+      "total": 91
+    },
     "builds": 2,
     "mods": [
       {
@@ -2840,6 +2872,22 @@
   {
     "item": "Victario's Influence",
     "stats": "+# to level of socketed gems, +# to level of socketed aoe gems",
+    "average": 3578.5625,
+    "prices": [
+      923.5,
+      1847,
+      1847,
+      1847,
+      2770.5,
+      4617.5,
+      7388,
+      7388
+    ],
+    "search": {
+      "id": "emYDwLYsL",
+      "complexity": 29,
+      "total": 8
+    },
     "builds": 2,
     "mods": [
       {
@@ -2859,6 +2907,20 @@
   {
     "item": "Victario's Influence",
     "stats": "+# to level of socketed aura gems, #% increased damage",
+    "average": 184.69999999999996,
+    "prices": [
+      184.7,
+      184.7,
+      184.7,
+      369.4,
+      1108.1999999999998,
+      2770.5
+    ],
+    "search": {
+      "id": "3BmYQ0Gs5",
+      "complexity": 29,
+      "total": 6
+    },
     "builds": 2,
     "mods": [
       {
@@ -2878,6 +2940,19 @@
   {
     "item": "Victario's Influence",
     "stats": "+# to level of socketed aoe gems, +# to level of socketed curse gems",
+    "average": 184.7,
+    "prices": [
+      80,
+      184.7,
+      184.7,
+      738.8,
+      1477.6
+    ],
+    "search": {
+      "id": "mXYK6eRf6",
+      "complexity": 29,
+      "total": 5
+    },
     "builds": 2,
     "mods": [
       {
@@ -2897,6 +2972,24 @@
   {
     "item": "Victario's Influence",
     "stats": "+# to level of socketed aoe gems",
+    "average": 14,
+    "prices": [
+      9,
+      9,
+      10,
+      10,
+      12,
+      15,
+      16,
+      19,
+      20,
+      20
+    ],
+    "search": {
+      "id": "waPDjkKfb",
+      "complexity": 18,
+      "total": 131
+    },
     "builds": 2,
     "mods": [
       {
@@ -2910,6 +3003,21 @@
   {
     "item": "Victario's Influence",
     "stats": "+# to level of socketed aoe gems, +# to level of socketed aura gems",
+    "average": 9314.157142857142,
+    "prices": [
+      1477.6,
+      5541,
+      5541,
+      11082,
+      12929,
+      13852.5,
+      14776
+    ],
+    "search": {
+      "id": "YD03QoRIY",
+      "complexity": 29,
+      "total": 7
+    },
     "builds": 2,
     "mods": [
       {
@@ -2929,6 +3037,24 @@
   {
     "item": "Hrimsorrow",
     "stats": "#% increased maximum life",
+    "average": 22.8,
+    "prices": [
+      5,
+      5,
+      8,
+      15,
+      20,
+      20,
+      30,
+      30,
+      45,
+      50
+    ],
+    "search": {
+      "id": "jPp7k4XuX",
+      "complexity": 18,
+      "total": 28
+    },
     "builds": 2,
     "mods": [
       {
@@ -2942,6 +3068,24 @@
   {
     "item": "Kaom's Heart",
     "stats": "#% increased maximum life",
+    "average": 30.6,
+    "prices": [
+      10,
+      11,
+      20,
+      30,
+      30,
+      35,
+      40,
+      40,
+      40,
+      50
+    ],
+    "search": {
+      "id": "K9gPY8gt5",
+      "complexity": 18,
+      "total": 32
+    },
     "builds": 2,
     "mods": [
       {
@@ -2955,6 +3099,24 @@
   {
     "item": "Dendrobate",
     "stats": "+# to level of socketed duration gems",
+    "average": 43.333333333333336,
+    "prices": [
+      20,
+      25,
+      30,
+      45,
+      50,
+      50,
+      50,
+      50,
+      70,
+      100
+    ],
+    "search": {
+      "id": "4drQv4ZH9",
+      "complexity": 18,
+      "total": 80
+    },
     "builds": 2,
     "mods": [
       {
@@ -2968,6 +3130,24 @@
   {
     "item": "Primordial Harmony",
     "stats": "#% increased reservation efficiency of skills",
+    "average": 1477.6,
+    "prices": [
+      369.4,
+      369.4,
+      923.5,
+      1292.8999999999999,
+      1662.3,
+      1847,
+      1847,
+      1847,
+      1847,
+      2770.5
+    ],
+    "search": {
+      "id": "vlP9nqJuE",
+      "complexity": 19,
+      "total": 12
+    },
     "builds": 2,
     "mods": [
       {
@@ -2982,6 +3162,24 @@
   {
     "item": "Sadima's Touch",
     "stats": "#% increased maximum energy shield",
+    "average": 21.11,
+    "prices": [
+      10,
+      10,
+      10,
+      14.99,
+      15,
+      30,
+      30,
+      30,
+      40,
+      50
+    ],
+    "search": {
+      "id": "PdDK4Y7iL",
+      "complexity": 18,
+      "total": 23
+    },
     "builds": 2,
     "mods": [
       {
@@ -2995,6 +3193,24 @@
   {
     "item": "Sadima's Touch",
     "stats": "curse enemies with enfeeble on hit",
+    "average": 11.777777777777779,
+    "prices": [
+      5,
+      10,
+      10,
+      10,
+      10,
+      10,
+      12,
+      14,
+      15,
+      15
+    ],
+    "search": {
+      "id": "JVdY989Fl",
+      "complexity": 18,
+      "total": 68
+    },
     "builds": 2,
     "mods": [
       {
@@ -3008,6 +3224,24 @@
   {
     "item": "Sadima's Touch",
     "stats": "#% increased attack speed",
+    "average": 10.4,
+    "prices": [
+      3,
+      5,
+      5,
+      10,
+      10,
+      10,
+      12,
+      15,
+      15,
+      19
+    ],
+    "search": {
+      "id": "2Gb6JDdtk",
+      "complexity": 19,
+      "total": 86
+    },
     "builds": 2,
     "mods": [
       {
