@@ -13966,6 +13966,15 @@
   {
     "item": "Hands of the High Templar",
     "stats": "+# to level of socketed duration gems, +# to level of socketed projectile gems, +# to level of socketed curse gems",
+    "average": 1227.73,
+    "prices": [
+      1227.73
+    ],
+    "search": {
+      "id": "3BYjl0Js5",
+      "complexity": 20,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -13991,6 +14000,13 @@
   {
     "item": "Hands of the High Templar",
     "stats": "+# to level of socketed gems, +# to level of socketed aura gems, curse enemies with temporal chains on hit, curse enemies with elemental weakness on hit, attacks have +#% to critical strike chance",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "9YmROmRcK",
+      "complexity": 22,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -14028,6 +14044,13 @@
   {
     "item": "Hands of the High Templar",
     "stats": "+# to level of socketed gems, +# to level of socketed curse gems, +# to level of socketed warcry gems, curse enemies with enfeeble on hit, attacks have +#% to critical strike chance",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "waqOP7jsb",
+      "complexity": 22,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -14065,6 +14088,24 @@
   {
     "item": "Lori's Lantern",
     "stats": "hatred has #% increased aura effect",
+    "average": 33.1,
+    "prices": [
+      1,
+      5,
+      10,
+      20,
+      20,
+      30,
+      40,
+      50,
+      75,
+      80
+    ],
+    "search": {
+      "id": "oXvlqEkFl",
+      "complexity": 18,
+      "total": 22
+    },
     "builds": 1,
     "mods": [
       {
@@ -14078,6 +14119,24 @@
   {
     "item": "Lori's Lantern",
     "stats": "discipline has #% increased aura effect",
+    "average": 12.222222222222221,
+    "prices": [
+      5,
+      10,
+      10,
+      10,
+      10,
+      10,
+      15,
+      20,
+      20,
+      25
+    ],
+    "search": {
+      "id": "QVYkJBMTw",
+      "complexity": 18,
+      "total": 25
+    },
     "builds": 1,
     "mods": [
       {
@@ -14091,6 +14150,13 @@
   {
     "item": "Lori's Lantern",
     "stats": "anger has #% increased aura effect, bleeding cannot be inflicted on you",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "oXeP6nKhl",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -14110,6 +14176,15 @@
   {
     "item": "Lori's Lantern",
     "stats": "#% increased strength, #% increased dexterity, discipline has #% increased aura effect",
+    "average": 350.78,
+    "prices": [
+      350.78
+    ],
+    "search": {
+      "id": "OV2q9b0TE",
+      "complexity": 20,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -14135,6 +14210,24 @@
   {
     "item": "Null and Void",
     "stats": "+# to maximum frenzy charges",
+    "average": 42.3,
+    "prices": [
+      8,
+      20,
+      20,
+      25,
+      40,
+      40,
+      50,
+      60,
+      80,
+      80
+    ],
+    "search": {
+      "id": "PdaZZ9GhL",
+      "complexity": 18,
+      "total": 29
+    },
     "builds": 1,
     "mods": [
       {
@@ -14148,6 +14241,24 @@
   {
     "item": "Null and Void",
     "stats": "curse enemies with vulnerability on hit",
+    "average": 25.2,
+    "prices": [
+      10,
+      10,
+      13,
+      19,
+      20,
+      25,
+      35,
+      40,
+      40,
+      40
+    ],
+    "search": {
+      "id": "BEDbEmKu8",
+      "complexity": 18,
+      "total": 42
+    },
     "builds": 1,
     "mods": [
       {
@@ -14161,6 +14272,24 @@
   {
     "item": "Null and Void",
     "stats": "+# to level of socketed aura gems",
+    "average": 17.6,
+    "prices": [
+      5,
+      7,
+      10,
+      10,
+      20,
+      20,
+      20,
+      25,
+      29,
+      30
+    ],
+    "search": {
+      "id": "JqXqnPWhl",
+      "complexity": 18,
+      "total": 31
+    },
     "builds": 1,
     "mods": [
       {
@@ -14174,6 +14303,19 @@
   {
     "item": "Astral Projector",
     "stats": "#% increased cast speed",
+    "average": 736.6379999999999,
+    "prices": [
+      175.39,
+      350.78,
+      701.56,
+      876.9499999999999,
+      1578.5099999999998
+    ],
+    "search": {
+      "id": "dXb0bwoFJ",
+      "complexity": 18,
+      "total": 5
+    },
     "builds": 1,
     "mods": [
       {
@@ -14187,6 +14329,17 @@
   {
     "item": "Astral Projector",
     "stats": "hatred has #% increased aura effect",
+    "average": 4560.139999999999,
+    "prices": [
+      1753.8999999999999,
+      4910.92,
+      7015.599999999999
+    ],
+    "search": {
+      "id": "BEXrk6Xt8",
+      "complexity": 18,
+      "total": 3
+    },
     "builds": 1,
     "mods": [
       {
@@ -14200,6 +14353,24 @@
   {
     "item": "Marylene's Fallacy",
     "stats": "+#% to all maximum resistances",
+    "average": 92.878,
+    "prices": [
+      8,
+      15,
+      35,
+      50,
+      100,
+      100,
+      120,
+      150,
+      175.39,
+      175.39
+    ],
+    "search": {
+      "id": "KJ7E63LU5",
+      "complexity": 18,
+      "total": 16
+    },
     "builds": 1,
     "mods": [
       {
@@ -14213,6 +14384,13 @@
   {
     "item": "Marylene's Fallacy",
     "stats": "+#% to all maximum resistances, malevolence has #% increased aura effect",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "nXqVBGyC0",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -14232,6 +14410,17 @@
   {
     "item": "Incandescent Heart",
     "stats": "+# to level of socketed aoe gems, +# to level of socketed aura gems",
+    "average": 17539,
+    "prices": [
+      17539,
+      17539,
+      61386.49999999999
+    ],
+    "search": {
+      "id": "KJBdY5RI5",
+      "complexity": 29,
+      "total": 3
+    },
     "builds": 1,
     "mods": [
       {
@@ -14251,6 +14440,24 @@
   {
     "item": "Incandescent Heart",
     "stats": "#% reduced lightning damage taken",
+    "average": 106.92699999999999,
+    "prices": [
+      10,
+      20,
+      59,
+      80,
+      100,
+      100,
+      175,
+      175.09,
+      175.09,
+      175.09
+    ],
+    "search": {
+      "id": "eXVr4oYhL",
+      "complexity": 18,
+      "total": 27
+    },
     "builds": 1,
     "mods": [
       {
@@ -14264,6 +14471,24 @@
   {
     "item": "Incandescent Heart",
     "stats": "+# to level of socketed duration gems",
+    "average": 175.08999999999997,
+    "prices": [
+      175.09,
+      175.09,
+      175.09,
+      175.09,
+      175.09,
+      175.09,
+      175.09,
+      175.09,
+      175.09,
+      350.18
+    ],
+    "search": {
+      "id": "OpJM878uE",
+      "complexity": 18,
+      "total": 74
+    },
     "builds": 1,
     "mods": [
       {
@@ -14277,6 +14502,24 @@
   {
     "item": "Incandescent Heart",
     "stats": "+# to level of socketed aura gems",
+    "average": 79.3,
+    "prices": [
+      15,
+      20,
+      20,
+      30,
+      90,
+      99,
+      99,
+      120,
+      150,
+      150
+    ],
+    "search": {
+      "id": "9YDrlY0HK",
+      "complexity": 18,
+      "total": 51
+    },
     "builds": 1,
     "mods": [
       {
