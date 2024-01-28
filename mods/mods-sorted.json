@@ -13462,6 +13462,20 @@
   {
     "item": "Anathema",
     "stats": "#% increased attack speed",
+    "average": 2402.435,
+    "prices": [
+      868.3499999999999,
+      1215.6899999999998,
+      2605.0499999999997,
+      2778.72,
+      3473.3999999999996,
+      3473.3999999999996
+    ],
+    "search": {
+      "id": "zeovLqLc4",
+      "complexity": 19,
+      "total": 6
+    },
     "builds": 1,
     "mods": [
       {
@@ -13476,6 +13490,19 @@
   {
     "item": "Anathema",
     "stats": "#% increased cast speed",
+    "average": 868.3499999999999,
+    "prices": [
+      173.67,
+      868.3499999999999,
+      868.3499999999999,
+      868.3499999999999,
+      3473.3999999999996
+    ],
+    "search": {
+      "id": "JYm7jvOIl",
+      "complexity": 18,
+      "total": 5
+    },
     "builds": 1,
     "mods": [
       {
@@ -13489,6 +13516,23 @@
   {
     "item": "Anathema",
     "stats": "#% increased strength, #% increased intelligence",
+    "average": 2151.578333333333,
+    "prices": [
+      173.67,
+      260.505,
+      347.34,
+      1042.02,
+      1215.6899999999998,
+      1563.03,
+      2605.0499999999997,
+      6078.45,
+      6078.45
+    ],
+    "search": {
+      "id": "LmdED02in",
+      "complexity": 29,
+      "total": 9
+    },
     "builds": 1,
     "mods": [
       {
@@ -13508,6 +13552,22 @@
   {
     "item": "Anathema",
     "stats": "adds # to # lightning damage to spells and attacks",
+    "average": 82.34666666666666,
+    "prices": [
+      77.03999999999999,
+      70,
+      100,
+      173.67,
+      347.34,
+      868.3499999999999,
+      1389.36,
+      13893.599999999999
+    ],
+    "search": {
+      "id": "0B8O6p8Fg",
+      "complexity": 18,
+      "total": 8
+    },
     "builds": 1,
     "mods": [
       {
@@ -13521,6 +13581,24 @@
   {
     "item": "Anathema",
     "stats": "zealotry has #% increased aura effect",
+    "average": 1370.0633333333333,
+    "prices": [
+      694.68,
+      694.68,
+      694.68,
+      868.3499999999999,
+      1389.36,
+      1389.36,
+      1736.6999999999998,
+      2257.71,
+      2605.0499999999997,
+      4168.08
+    ],
+    "search": {
+      "id": "wpRMq0Bhb",
+      "complexity": 18,
+      "total": 10
+    },
     "builds": 1,
     "mods": [
       {
@@ -13534,6 +13612,18 @@
   {
     "item": "Anathema",
     "stats": "bleeding cannot be inflicted on you",
+    "average": 7467.81,
+    "prices": [
+      6773.129999999999,
+      6946.799999999999,
+      8683.5,
+      17367
+    ],
+    "search": {
+      "id": "rY5MGMECQ",
+      "complexity": 18,
+      "total": 4
+    },
     "builds": 1,
     "mods": [
       {
@@ -13547,6 +13637,13 @@
   {
     "item": "Coward's Legacy",
     "stats": "#% increased maximum life, zealotry has #% increased aura effect",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "LeW47p5tn",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -13566,6 +13663,24 @@
   {
     "item": "Alpha's Howl",
     "stats": "+# to level of socketed duration gems",
+    "average": 75.1,
+    "prices": [
+      20,
+      21,
+      30,
+      60,
+      100,
+      100,
+      100,
+      100,
+      100,
+      120
+    ],
+    "search": {
+      "id": "Zb5OD8mCQ",
+      "complexity": 18,
+      "total": 21
+    },
     "builds": 1,
     "mods": [
       {
@@ -13579,6 +13694,13 @@
   {
     "item": "Hands of the High Templar",
     "stats": "+# to level of socketed gems, +# to level of socketed aoe gems, #% increased maximum life, curse enemies with vulnerability on hit",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "waVjEXmfb",
+      "complexity": 21,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -13610,6 +13732,24 @@
   {
     "item": "Hands of the High Templar",
     "stats": "+# to level of socketed aoe gems, +# to level of socketed aura gems",
+    "average": 5487.972,
+    "prices": [
+      1910.37,
+      2605.0499999999997,
+      2605.0499999999997,
+      3473.3999999999996,
+      4341.75,
+      6078.45,
+      6946.799999999999,
+      8683.5,
+      8683.5,
+      9551.849999999999
+    ],
+    "search": {
+      "id": "ze59nYqf4",
+      "complexity": 29,
+      "total": 22
+    },
     "builds": 1,
     "mods": [
       {
@@ -13629,6 +13769,13 @@
   {
     "item": "Hands of the High Templar",
     "stats": "+# to level of socketed minion gems, +# to level of socketed aura gems, #% increased attack speed, +# to maximum frenzy charges, curse enemies with elemental weakness on hit",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "moero2Bi6",
+      "complexity": 23,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -13667,6 +13814,24 @@
   {
     "item": "Hands of the High Templar",
     "stats": "+# to level of socketed gems, +# to level of socketed aoe gems",
+    "average": 3087.466666666667,
+    "prices": [
+      1736.6999999999998,
+      2605.0499999999997,
+      2605.0499999999997,
+      2605.0499999999997,
+      2605.0499999999997,
+      3473.3999999999996,
+      3473.3999999999996,
+      3473.3999999999996,
+      3473.3999999999996,
+      3473.3999999999996
+    ],
+    "search": {
+      "id": "QVn0WyRCw",
+      "complexity": 29,
+      "total": 39
+    },
     "builds": 1,
     "mods": [
       {
@@ -13686,6 +13851,24 @@
   {
     "item": "Hands of the High Templar",
     "stats": "+# to level of socketed duration gems, +# to level of socketed aoe gems",
+    "average": 1367.65125,
+    "prices": [
+      694.68,
+      1042.02,
+      1042.02,
+      1215.6899999999998,
+      1736.6999999999998,
+      1736.6999999999998,
+      1736.6999999999998,
+      1736.6999999999998,
+      2605.0499999999997,
+      3473.3999999999996
+    ],
+    "search": {
+      "id": "Pd5y38miL",
+      "complexity": 29,
+      "total": 37
+    },
     "builds": 1,
     "mods": [
       {
@@ -13705,6 +13888,13 @@
   {
     "item": "Hands of the High Templar",
     "stats": "+# to level of socketed duration gems, +# to level of socketed minion gems, +# to level of socketed aura gems, #% increased maximum energy shield, curse enemies with elemental weakness on hit",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "vpkngDJuE",
+      "complexity": 22,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -13742,6 +13932,15 @@
   {
     "item": "Hands of the High Templar",
     "stats": "+# to level of socketed aoe gems, +# to level of socketed curse gems, +# to maximum frenzy charges",
+    "average": 52100.99999999999,
+    "prices": [
+      52100.99999999999
+    ],
+    "search": {
+      "id": "vlJ5eG9HE",
+      "complexity": 20,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
