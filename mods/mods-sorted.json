@@ -6809,6 +6809,24 @@
   {
     "item": "Carcass Jack",
     "stats": "+# to level of socketed trap or mine gems",
+    "average": 53.8,
+    "prices": [
+      5,
+      9,
+      10,
+      19,
+      20,
+      75,
+      100,
+      100,
+      100,
+      100
+    ],
+    "search": {
+      "id": "XqbmDMWTP",
+      "complexity": 18,
+      "total": 31
+    },
     "builds": 1,
     "mods": [
       {
@@ -6822,6 +6840,24 @@
   {
     "item": "Oskarm",
     "stats": "attacks have +#% to critical strike chance",
+    "average": 58.9,
+    "prices": [
+      20,
+      30,
+      39,
+      50,
+      50,
+      60,
+      70,
+      80,
+      90,
+      100
+    ],
+    "search": {
+      "id": "rXpPWX7CQ",
+      "complexity": 18,
+      "total": 39
+    },
     "builds": 1,
     "mods": [
       {
@@ -6835,6 +6871,16 @@
   {
     "item": "Oskarm",
     "stats": "+# to level of socketed trap or mine gems, curse enemies with vulnerability on hit",
+    "average": 584.605,
+    "prices": [
+      334.06,
+      835.15
+    ],
+    "search": {
+      "id": "WVrvPVDum",
+      "complexity": 29,
+      "total": 2
+    },
     "builds": 1,
     "mods": [
       {
@@ -6854,6 +6900,15 @@
   {
     "item": "Oskarm",
     "stats": "curse enemies with vulnerability on hit, attacks have +#% to critical strike chance",
+    "average": 3340.6,
+    "prices": [
+      3340.6
+    ],
+    "search": {
+      "id": "qX42qr3Cg",
+      "complexity": 29,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -6873,6 +6928,24 @@
   {
     "item": "Vixen's Entrapment",
     "stats": "#% increased cast speed",
+    "average": 408.80660000000006,
+    "prices": [
+      100,
+      100,
+      116.92099999999999,
+      180,
+      167.03,
+      167.03,
+      334.06,
+      918.665,
+      1002.1800000000001,
+      1002.1800000000001
+    ],
+    "search": {
+      "id": "PK7l22JCL",
+      "complexity": 18,
+      "total": 11
+    },
     "builds": 1,
     "mods": [
       {
@@ -6886,6 +6959,24 @@
   {
     "item": "Vixen's Entrapment",
     "stats": "+# to level of socketed gems",
+    "average": 117.71199999999999,
+    "prices": [
+      40,
+      40,
+      79,
+      100,
+      100,
+      150,
+      167.03,
+      167.03,
+      167.03,
+      167.03
+    ],
+    "search": {
+      "id": "bPZgddLTL",
+      "complexity": 18,
+      "total": 19
+    },
     "builds": 1,
     "mods": [
       {
@@ -6899,6 +6990,24 @@
   {
     "item": "Heatshiver",
     "stats": "#% increased effect of cold ailments",
+    "average": 18.4,
+    "prices": [
+      10,
+      10,
+      10,
+      15,
+      15,
+      19,
+      20,
+      25,
+      30,
+      30
+    ],
+    "search": {
+      "id": "4drzQXgt9",
+      "complexity": 18,
+      "total": 82
+    },
     "builds": 1,
     "mods": [
       {
@@ -6912,6 +7021,15 @@
   {
     "item": "Heatshiver",
     "stats": "+# to level of socketed duration gems, +# to level of socketed aoe gems",
+    "average": 3340.6,
+    "prices": [
+      3340.6
+    ],
+    "search": {
+      "id": "MvRLBlGcJ",
+      "complexity": 29,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -6931,6 +7049,13 @@
   {
     "item": "Heatshiver",
     "stats": "+# to level of socketed duration gems, #% increased maximum life",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "kXjobJQh5",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -6950,6 +7075,24 @@
   {
     "item": "Heatshiver",
     "stats": "#% increased effect of shock",
+    "average": 15.575,
+    "prices": [
+      10,
+      10,
+      10,
+      10.75,
+      15,
+      20,
+      20,
+      20,
+      20,
+      20
+    ],
+    "search": {
+      "id": "KJLypO6i5",
+      "complexity": 18,
+      "total": 52
+    },
     "builds": 1,
     "mods": [
       {
@@ -6963,6 +7106,24 @@
   {
     "item": "Heatshiver",
     "stats": "#% of lightning damage leeched as life",
+    "average": 12.7,
+    "prices": [
+      7,
+      7,
+      8,
+      10,
+      10,
+      10,
+      15,
+      20,
+      20,
+      20
+    ],
+    "search": {
+      "id": "pXkjkjvT0",
+      "complexity": 19,
+      "total": 48
+    },
     "builds": 1,
     "mods": [
       {
@@ -6977,6 +7138,13 @@
   {
     "item": "Heatshiver",
     "stats": "+# to level of socketed projectile gems, #% increased maximum life",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "gXDZdRgUQ",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -6996,6 +7164,24 @@
   {
     "item": "Kaom's Spirit",
     "stats": "+#% to spell critical strike chance",
+    "average": 40.4,
+    "prices": [
+      10,
+      15,
+      15,
+      20,
+      20,
+      35,
+      45,
+      50,
+      95,
+      99
+    ],
+    "search": {
+      "id": "qaylYl9ug",
+      "complexity": 18,
+      "total": 35
+    },
     "builds": 1,
     "mods": [
       {
@@ -7009,6 +7195,24 @@
   {
     "item": "Kaom's Spirit",
     "stats": "+# to level of socketed aoe gems",
+    "average": 265.5777,
+    "prices": [
+      167.03,
+      167.03,
+      250.54500000000002,
+      250.54500000000002,
+      250.54500000000002,
+      250.54500000000002,
+      317.35699999999997,
+      334.06,
+      334.06,
+      334.06
+    ],
+    "search": {
+      "id": "lPrYyEQUV",
+      "complexity": 18,
+      "total": 65
+    },
     "builds": 1,
     "mods": [
       {
@@ -7022,6 +7226,24 @@
   {
     "item": "Yoke of Suffering",
     "stats": "hatred has #% increased aura effect",
+    "average": 58.5,
+    "prices": [
+      15,
+      15,
+      30,
+      35,
+      50,
+      60,
+      80,
+      100,
+      100,
+      100
+    ],
+    "search": {
+      "id": "yrJvMDrsR",
+      "complexity": 18,
+      "total": 57
+    },
     "builds": 1,
     "mods": [
       {
@@ -7048,6 +7270,13 @@
   {
     "item": "Sandstorm Visage",
     "stats": "+# to level of socketed minion gems, +# to level of socketed trap or mine gems",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "MVZ3BELsJ",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
