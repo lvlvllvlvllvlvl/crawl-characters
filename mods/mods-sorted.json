@@ -8995,6 +8995,15 @@
   {
     "item": "March of the Legion",
     "stats": "+# to level of socketed projectile gems, +# to level of socketed aura gems",
+    "average": 50,
+    "prices": [
+      50
+    ],
+    "search": {
+      "id": "bXpqEozHL",
+      "complexity": 29,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -9014,6 +9023,24 @@
   {
     "item": "March of the Legion",
     "stats": "+# to level of socketed trap or mine gems",
+    "average": 21.6,
+    "prices": [
+      5,
+      6,
+      10,
+      20,
+      20,
+      20,
+      25,
+      30,
+      40,
+      40
+    ],
+    "search": {
+      "id": "DL497bvC5",
+      "complexity": 18,
+      "total": 43
+    },
     "builds": 1,
     "mods": [
       {
@@ -9027,6 +9054,22 @@
   {
     "item": "Shavronne's Revelation",
     "stats": "wrath has #% increased aura effect",
+    "average": 1602.27,
+    "prices": [
+      890.15,
+      1424.24,
+      1424.24,
+      1602.27,
+      1780.3,
+      1780.3,
+      4984.84,
+      5696.96
+    ],
+    "search": {
+      "id": "y9RWJr8tR",
+      "complexity": 18,
+      "total": 8
+    },
     "builds": 1,
     "mods": [
       {
@@ -9040,6 +9083,24 @@
   {
     "item": "Aegis Aurora",
     "stats": "+# to level of socketed aoe gems",
+    "average": 24,
+    "prices": [
+      10,
+      18,
+      19,
+      20,
+      20,
+      20,
+      29,
+      30,
+      30,
+      30
+    ],
+    "search": {
+      "id": "v3mVvJJCE",
+      "complexity": 18,
+      "total": 91
+    },
     "builds": 1,
     "mods": [
       {
@@ -9053,6 +9114,13 @@
   {
     "item": "Aegis Aurora",
     "stats": "+# to level of socketed minion gems, +#% to maximum chance to block attack damage",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "gMZPeB2cQ",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -9072,6 +9140,13 @@
   {
     "item": "Aegis Aurora",
     "stats": "+# to level of socketed duration gems, #% reduced damage taken from projectile hits",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "VMgRqawsp",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -9091,6 +9166,24 @@
   {
     "item": "Aegis Aurora",
     "stats": "#% of physical damage from hits taken as fire damage",
+    "average": 27,
+    "prices": [
+      20,
+      20,
+      25,
+      25,
+      30,
+      30,
+      30,
+      30,
+      30,
+      30
+    ],
+    "search": {
+      "id": "lXjXX7kcV",
+      "complexity": 18,
+      "total": 99
+    },
     "builds": 1,
     "mods": [
       {
@@ -9104,6 +9197,24 @@
   {
     "item": "Aegis Aurora",
     "stats": "+# to level of socketed gems",
+    "average": 38,
+    "prices": [
+      20,
+      20,
+      20,
+      25,
+      45,
+      50,
+      50,
+      50,
+      50,
+      50
+    ],
+    "search": {
+      "id": "80Z8EzGsV",
+      "complexity": 18,
+      "total": 91
+    },
     "builds": 1,
     "mods": [
       {
@@ -9117,6 +9228,24 @@
   {
     "item": "Aegis Aurora",
     "stats": "#% of physical damage from hits taken as cold damage",
+    "average": 30.9,
+    "prices": [
+      15,
+      20,
+      20,
+      25,
+      30,
+      30,
+      30,
+      40,
+      49,
+      50
+    ],
+    "search": {
+      "id": "BGr0mYku8",
+      "complexity": 18,
+      "total": 104
+    },
     "builds": 1,
     "mods": [
       {
@@ -9130,6 +9259,19 @@
   {
     "item": "Mageblood",
     "stats": "wrath has #% increased aura effect, zealotry has #% increased aura effect",
+    "average": 108644.01200000002,
+    "prices": [
+      132860.90999999997,
+      81003.65,
+      106818,
+      106818,
+      115719.5
+    ],
+    "search": {
+      "id": "Mq3y0eMuJ",
+      "complexity": 29,
+      "total": 5
+    },
     "builds": 1,
     "mods": [
       {
@@ -9149,6 +9291,15 @@
   {
     "item": "Mageblood",
     "stats": "#% increased strength, #% increased dexterity, #% increased skill effect duration",
+    "average": 379602.6,
+    "prices": [
+      379602.6
+    ],
+    "search": {
+      "id": "OVQoODgCE",
+      "complexity": 20,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -9174,6 +9325,15 @@
   {
     "item": "Mageblood",
     "stats": "#% increased movement speed during any flask effect, #% increased cast speed during any flask effect",
+    "average": 53409,
+    "prices": [
+      53409
+    ],
+    "search": {
+      "id": "7lVqM8Bu5",
+      "complexity": 29,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -9193,6 +9353,24 @@
   {
     "item": "Mageblood",
     "stats": "#% increased attack speed during any flask effect",
+    "average": 39265.50555555556,
+    "prices": [
+      24924.2,
+      26704.5,
+      31155.25,
+      35606,
+      35606,
+      113880.77999999998,
+      44507.5,
+      51628.7,
+      51628.7,
+      51628.7
+    ],
+    "search": {
+      "id": "vlPnR8BCE",
+      "complexity": 18,
+      "total": 35
+    },
     "builds": 1,
     "mods": [
       {
@@ -9206,6 +9384,15 @@
   {
     "item": "Mageblood",
     "stats": "#% increased dexterity, #% increased intelligence, malevolence has #% increased aura effect",
+    "average": 35606,
+    "prices": [
+      35606
+    ],
+    "search": {
+      "id": "MVZ379PFJ",
+      "complexity": 20,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -9231,6 +9418,13 @@
   {
     "item": "Mageblood",
     "stats": "#% increased maximum life, #% increased cast speed during any flask effect",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "vlGbd5JtE",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
