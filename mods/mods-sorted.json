@@ -11637,6 +11637,24 @@
   {
     "item": "Prism Guardian",
     "stats": "#% increased maximum energy shield",
+    "average": 30.73,
+    "prices": [
+      11.57,
+      15,
+      20,
+      20,
+      30,
+      40,
+      40,
+      45,
+      55,
+      80
+    ],
+    "search": {
+      "id": "XqadzgJSP",
+      "complexity": 18,
+      "total": 24
+    },
     "builds": 1,
     "mods": [
       {
@@ -11650,6 +11668,24 @@
   {
     "item": "Prism Guardian",
     "stats": "#% reduced area damage taken from hits",
+    "average": 88.7,
+    "prices": [
+      20,
+      25,
+      50,
+      50,
+      50,
+      100,
+      112,
+      160,
+      160,
+      160
+    ],
+    "search": {
+      "id": "RqBW8pZU7",
+      "complexity": 18,
+      "total": 12
+    },
     "builds": 1,
     "mods": [
       {
@@ -11663,6 +11699,18 @@
   {
     "item": "Natural Affinity",
     "stats": "corrupted blood cannot be inflicted on you",
+    "average": 16400,
+    "prices": [
+      9600,
+      16000,
+      16000,
+      24000
+    ],
+    "search": {
+      "id": "9qlqMQYsK",
+      "complexity": 18,
+      "total": 4
+    },
     "builds": 1,
     "mods": [
       {
@@ -11676,6 +11724,18 @@
   {
     "item": "Natural Affinity",
     "stats": "minions deal #% increased damage",
+    "average": 143.5,
+    "prices": [
+      44,
+      50,
+      160,
+      320
+    ],
+    "search": {
+      "id": "nXy7VgJH0",
+      "complexity": 18,
+      "total": 4
+    },
     "builds": 1,
     "mods": [
       {
@@ -11689,6 +11749,15 @@
   {
     "item": "Zeel's Amplifier",
     "stats": "+# to level of socketed aoe gems, you take #% reduced extra damage from critical strikes",
+    "average": 480,
+    "prices": [
+      480
+    ],
+    "search": {
+      "id": "8qB66P8UV",
+      "complexity": 29,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -11708,6 +11777,24 @@
   {
     "item": "Zeel's Amplifier",
     "stats": "+# to level of socketed gems",
+    "average": 79.11111111111111,
+    "prices": [
+      30,
+      35,
+      67,
+      90,
+      90,
+      100,
+      100,
+      100,
+      100,
+      160
+    ],
+    "search": {
+      "id": "4qnPaPvC9",
+      "complexity": 18,
+      "total": 20
+    },
     "builds": 1,
     "mods": [
       {
@@ -11721,6 +11808,13 @@
   {
     "item": "Zeel's Amplifier",
     "stats": "+# to level of socketed gems, #% of physical damage from hits taken as lightning damage",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "2BrRVbeUk",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -11740,6 +11834,24 @@
   {
     "item": "Zeel's Amplifier",
     "stats": "+# to level of socketed aoe gems",
+    "average": 184.375,
+    "prices": [
+      10,
+      25,
+      60,
+      100,
+      160,
+      320,
+      320,
+      480,
+      800,
+      1120
+    ],
+    "search": {
+      "id": "Zb4Eb8mHQ",
+      "complexity": 18,
+      "total": 10
+    },
     "builds": 1,
     "mods": [
       {
@@ -11753,6 +11865,15 @@
   {
     "item": "Perandus Blazon",
     "stats": "#% increased rarity of items found, #% increased cast speed during any flask effect",
+    "average": 120,
+    "prices": [
+      120
+    ],
+    "search": {
+      "id": "mXD7YjMt6",
+      "complexity": 29,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -11772,6 +11893,13 @@
   {
     "item": "Perandus Blazon",
     "stats": "#% increased rarity of items found, #% increased critical strike chance during any flask effect",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "7l3DmMgS5",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -11791,6 +11919,23 @@
   {
     "item": "Perandus Blazon",
     "stats": "#% increased quantity of items found",
+    "average": 1777.7777777777778,
+    "prices": [
+      640,
+      1280,
+      1280,
+      1280,
+      1600,
+      1600,
+      1920,
+      3200,
+      3200
+    ],
+    "search": {
+      "id": "9Y6QWVztK",
+      "complexity": 18,
+      "total": 9
+    },
     "builds": 1,
     "mods": [
       {
@@ -11804,6 +11949,13 @@
   {
     "item": "Perandus Blazon",
     "stats": "#% increased maximum energy shield, #% increased movement speed during any flask effect",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "KJXbbKMU5",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -11823,6 +11975,13 @@
   {
     "item": "Watcher's Eye",
     "stats": "#% increased global critical strike chance, #% reduced poison duration on you",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "vlEXWkjHE",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -11842,6 +12001,24 @@
   {
     "item": "Watcher's Eye",
     "stats": "damage penetrates #% lightning resistance",
+    "average": 127,
+    "prices": [
+      50,
+      60,
+      100,
+      100,
+      160,
+      160,
+      160,
+      160,
+      160,
+      160
+    ],
+    "search": {
+      "id": "6ZbVbrXIG",
+      "complexity": 19,
+      "total": 49
+    },
     "builds": 1,
     "mods": [
       {
@@ -11856,6 +12033,24 @@
   {
     "item": "Watcher's Eye",
     "stats": "#% reduced effect of chill on you",
+    "average": 142.22222222222223,
+    "prices": [
+      50,
+      100,
+      100,
+      120,
+      160,
+      160,
+      160,
+      160,
+      160,
+      160
+    ],
+    "search": {
+      "id": "Zb5baJRTQ",
+      "complexity": 18,
+      "total": 43
+    },
     "builds": 1,
     "mods": [
       {
