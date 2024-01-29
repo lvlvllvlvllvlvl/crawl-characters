@@ -4637,6 +4637,24 @@
   {
     "item": "Greed's Embrace",
     "stats": "#% reduced fire damage taken",
+    "average": 16,
+    "prices": [
+      5,
+      5,
+      10,
+      20,
+      20,
+      20,
+      20,
+      20,
+      20,
+      20
+    ],
+    "search": {
+      "id": "VMg46mgfp",
+      "complexity": 18,
+      "total": 124
+    },
     "builds": 1,
     "mods": [
       {
@@ -4650,6 +4668,15 @@
   {
     "item": "String of Servitude",
     "stats": "#% increased maximum energy shield, hatred has #% increased aura effect",
+    "average": 485.90999999999997,
+    "prices": [
+      485.90999999999997
+    ],
+    "search": {
+      "id": "MV4KYqDFJ",
+      "complexity": 29,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -4669,6 +4696,24 @@
   {
     "item": "String of Servitude",
     "stats": "#% increased quantity of items found",
+    "average": 72.5,
+    "prices": [
+      20,
+      20,
+      20,
+      25,
+      30,
+      100,
+      115,
+      125,
+      125,
+      145
+    ],
+    "search": {
+      "id": "lPrYXD0sV",
+      "complexity": 18,
+      "total": 52
+    },
     "builds": 1,
     "mods": [
       {
@@ -4682,6 +4727,13 @@
   {
     "item": "The Covenant",
     "stats": "#% increased damage, #% increased maximum life",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "XqK7DqesP",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -4701,6 +4753,13 @@
   {
     "item": "The Covenant",
     "stats": "+# to level of socketed minion gems, #% increased maximum life",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "YLZD0wkFY",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -4720,6 +4779,13 @@
   {
     "item": "The Covenant",
     "stats": "+# to level of socketed aoe gems, +# to level of socketed minion gems",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "EyQbbmKI5",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -4739,6 +4805,24 @@
   {
     "item": "The Covenant",
     "stats": "+# to level of socketed gems",
+    "average": 1190.4795,
+    "prices": [
+      485.90999999999997,
+      647.88,
+      728.865,
+      809.85,
+      971.8199999999999,
+      1295.76,
+      1619.7,
+      1619.7,
+      1619.7,
+      2105.61
+    ],
+    "search": {
+      "id": "GkdLXY3Ib",
+      "complexity": 18,
+      "total": 18
+    },
     "builds": 1,
     "mods": [
       {
@@ -4752,6 +4836,24 @@
   {
     "item": "The Covenant",
     "stats": "#% increased maximum energy shield",
+    "average": 413.551875,
+    "prices": [
+      50,
+      100,
+      242.95499999999998,
+      323.94,
+      323.94,
+      485.90999999999997,
+      809.85,
+      971.8199999999999,
+      1619.7,
+      2429.55
+    ],
+    "search": {
+      "id": "YVoWm0RiY",
+      "complexity": 18,
+      "total": 10
+    },
     "builds": 1,
     "mods": [
       {
@@ -4765,6 +4867,24 @@
   {
     "item": "The Covenant",
     "stats": "+# to level of socketed projectile gems",
+    "average": 136.84,
+    "prices": [
+      50,
+      90,
+      100,
+      120,
+      161.97,
+      161.97,
+      161.97,
+      161.97,
+      242.95499999999998,
+      323.94
+    ],
+    "search": {
+      "id": "gq7LJ5gTQ",
+      "complexity": 18,
+      "total": 25
+    },
     "builds": 1,
     "mods": [
       {
@@ -4778,6 +4898,24 @@
   {
     "item": "The Covenant",
     "stats": "+# to level of socketed aura gems",
+    "average": 38.9,
+    "prices": [
+      20,
+      20,
+      20,
+      29,
+      30,
+      40,
+      50,
+      60,
+      60,
+      60
+    ],
+    "search": {
+      "id": "7lRgXeBS5",
+      "complexity": 18,
+      "total": 19
+    },
     "builds": 1,
     "mods": [
       {
@@ -4791,6 +4929,24 @@
   {
     "item": "The Covenant",
     "stats": "+# to level of socketed curse gems",
+    "average": 158.91389999999998,
+    "prices": [
+      80,
+      80.985,
+      100,
+      161.97,
+      161.97,
+      161.97,
+      161.97,
+      194.364,
+      242.95499999999998,
+      242.95499999999998
+    ],
+    "search": {
+      "id": "WVrLX0Dfm",
+      "complexity": 18,
+      "total": 14
+    },
     "builds": 1,
     "mods": [
       {
@@ -4804,6 +4960,13 @@
   {
     "item": "The Covenant",
     "stats": "+# to level of socketed duration gems, +# to level of socketed warcry gems",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "lXjEWq6hV",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -4823,6 +4986,16 @@
   {
     "item": "The Covenant",
     "stats": "+# to level of socketed aoe gems, you take #% reduced extra damage from critical strikes",
+    "average": 20246.25,
+    "prices": [
+      8098.5,
+      32394
+    ],
+    "search": {
+      "id": "2ByX6PpIk",
+      "complexity": 29,
+      "total": 2
+    },
     "builds": 1,
     "mods": [
       {
@@ -4842,6 +5015,15 @@
   {
     "item": "Asenath's Gentle Touch",
     "stats": "#% increased attack speed, #% increased cast speed",
+    "average": 161.97,
+    "prices": [
+      161.97
+    ],
+    "search": {
+      "id": "y9RLrPguR",
+      "complexity": 30,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -4862,6 +5044,13 @@
   {
     "item": "Asenath's Gentle Touch",
     "stats": "+# to level of socketed aura gems, #% increased cast speed",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "9Y2KZKOIK",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
