@@ -16032,6 +16032,24 @@
   {
     "item": "Crown of Eyes",
     "stats": "+# to maximum power charges",
+    "average": 1650.3,
+    "prices": [
+      1320.24,
+      1485.27,
+      1485.27,
+      1485.27,
+      1650.3,
+      1650.3,
+      1650.3,
+      1815.33,
+      1980.3600000000001,
+      1980.3600000000001
+    ],
+    "search": {
+      "id": "oXjB4YOcl",
+      "complexity": 18,
+      "total": 27
+    },
     "builds": 1,
     "mods": [
       {
@@ -16045,6 +16063,17 @@
   {
     "item": "Flamesight",
     "stats": "+# to maximum power charges",
+    "average": 19528.55,
+    "prices": [
+      9076.65,
+      16503,
+      33006
+    ],
+    "search": {
+      "id": "jX4GnbkSX",
+      "complexity": 18,
+      "total": 3
+    },
     "builds": 1,
     "mods": [
       {
@@ -16058,6 +16087,15 @@
   {
     "item": "Cherrubim's Maleficence",
     "stats": "+# to level of socketed gems, +# to level of socketed aoe gems",
+    "average": 2475.45,
+    "prices": [
+      2475.45
+    ],
+    "search": {
+      "id": "BGrm5KLf8",
+      "complexity": 29,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -16077,6 +16115,15 @@
   {
     "item": "Grand Spectrum",
     "stats": "#% reduced effect of curses on you",
+    "average": 3300.6,
+    "prices": [
+      3300.6
+    ],
+    "search": {
+      "id": "VyBGo3atp",
+      "complexity": 18,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -16090,6 +16137,24 @@
   {
     "item": "The Magnate",
     "stats": "+#% to critical strike multiplier during any flask effect",
+    "average": 119.01140000000001,
+    "prices": [
+      45,
+      70,
+      88,
+      100,
+      120,
+      140,
+      132.024,
+      165.03,
+      165.03,
+      165.03
+    ],
+    "search": {
+      "id": "y9RWXZ8IR",
+      "complexity": 18,
+      "total": 16
+    },
     "builds": 1,
     "mods": [
       {
@@ -16103,6 +16168,24 @@
   {
     "item": "The Magnate",
     "stats": "hatred has #% increased aura effect",
+    "average": 106.51499999999999,
+    "prices": [
+      30,
+      30,
+      50,
+      50,
+      80,
+      165.03,
+      165.03,
+      165.03,
+      165.03,
+      165.03
+    ],
+    "search": {
+      "id": "RVBg6k4I7",
+      "complexity": 18,
+      "total": 12
+    },
     "builds": 1,
     "mods": [
       {
@@ -16116,6 +16199,24 @@
   {
     "item": "The Magnate",
     "stats": "+#% to all elemental resistances",
+    "average": 97.5,
+    "prices": [
+      80,
+      80,
+      100,
+      100,
+      100,
+      100,
+      110,
+      110,
+      180,
+      165.03
+    ],
+    "search": {
+      "id": "mXjMRMeT6",
+      "complexity": 18,
+      "total": 16
+    },
     "builds": 1,
     "mods": [
       {
@@ -16129,6 +16230,24 @@
   {
     "item": "Abyssus",
     "stats": "+# to maximum power charges",
+    "average": 346.563,
+    "prices": [
+      165.03,
+      165.03,
+      165.03,
+      165.03,
+      330.06,
+      330.06,
+      495.09000000000003,
+      495.09000000000003,
+      495.09000000000003,
+      660.12
+    ],
+    "search": {
+      "id": "aqeEGJ7se",
+      "complexity": 18,
+      "total": 29
+    },
     "builds": 1,
     "mods": [
       {
@@ -16142,6 +16261,24 @@
   {
     "item": "Abyssus",
     "stats": "socketed skill gems get a #% cost & reservation multiplier",
+    "average": 1547.1562499999998,
+    "prices": [
+      825.15,
+      907.665,
+      1320.24,
+      1320.24,
+      1485.27,
+      1650.3,
+      1650.3,
+      1650.3,
+      1650.3,
+      1650.3
+    ],
+    "search": {
+      "id": "OVwqQKaTE",
+      "complexity": 18,
+      "total": 24
+    },
     "builds": 1,
     "mods": [
       {
@@ -16155,6 +16292,24 @@
   {
     "item": "Voidforge",
     "stats": "#% increased elemental damage with attack skills",
+    "average": 8210.2425,
+    "prices": [
+      8086.47,
+      8086.47,
+      8251.5,
+      8251.5,
+      8251.5,
+      8251.5,
+      8251.5,
+      8251.5,
+      9076.65,
+      9076.65
+    ],
+    "search": {
+      "id": "rXmE2XmfQ",
+      "complexity": 18,
+      "total": 26
+    },
     "builds": 1,
     "mods": [
       {
@@ -16168,6 +16323,22 @@
   {
     "item": "Redblade Banner",
     "stats": "#% of physical damage from hits taken as cold damage",
+    "average": 2546.1771428571424,
+    "prices": [
+      495.09000000000003,
+      825.15,
+      1650.3,
+      3300.6,
+      3300.6,
+      4125.75,
+      4125.75,
+      8251.5
+    ],
+    "search": {
+      "id": "5okog5mFa",
+      "complexity": 18,
+      "total": 8
+    },
     "builds": 1,
     "mods": [
       {
@@ -16181,6 +16352,24 @@
   {
     "item": "Redblade Banner",
     "stats": "you take #% reduced extra damage from critical strikes",
+    "average": 10176.849999999999,
+    "prices": [
+      3300.6,
+      4950.9,
+      7426.35,
+      7426.35,
+      8251.5,
+      10726.95,
+      13202.4,
+      16503,
+      19803.6,
+      24754.5
+    ],
+    "search": {
+      "id": "BEJKXnjC8",
+      "complexity": 18,
+      "total": 11
+    },
     "builds": 1,
     "mods": [
       {
@@ -16194,6 +16383,23 @@
   {
     "item": "Redblade Banner",
     "stats": "#% increased maximum life",
+    "average": 1588.4137500000002,
+    "prices": [
+      495.09000000000003,
+      825.15,
+      1320.24,
+      1320.24,
+      1650.3,
+      1650.3,
+      2475.45,
+      2970.54,
+      13202.4
+    ],
+    "search": {
+      "id": "2BrB85dsk",
+      "complexity": 18,
+      "total": 9
+    },
     "builds": 1,
     "mods": [
       {
@@ -16207,6 +16413,15 @@
   {
     "item": "Victario's Flight",
     "stats": "+# to level of socketed gems, +# to level of socketed aoe gems",
+    "average": 825.15,
+    "prices": [
+      825.15
+    ],
+    "search": {
+      "id": "OVwv9wgTE",
+      "complexity": 29,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -16226,6 +16441,13 @@
   {
     "item": "The Stampede",
     "stats": "regenerate # life per second while moving",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "kX4ygJ5c5",
+      "complexity": 18,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
