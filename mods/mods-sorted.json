@@ -9510,6 +9510,13 @@
   {
     "item": "The Jinxed Juju",
     "stats": "grants level # purity of elements skill, +#% to all maximum resistances",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "QvMr6Vpfw",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -9529,6 +9536,22 @@
   {
     "item": "The Jinxed Juju",
     "stats": "#% of cold damage leeched as life",
+    "average": 160,
+    "prices": [
+      30,
+      160,
+      160,
+      160,
+      160,
+      160,
+      160,
+      480
+    ],
+    "search": {
+      "id": "MVZ04vLUJ",
+      "complexity": 19,
+      "total": 8
+    },
     "builds": 1,
     "mods": [
       {
@@ -9543,6 +9566,24 @@
   {
     "item": "The Jinxed Juju",
     "stats": "determination has #% increased aura effect",
+    "average": 32.333333333333336,
+    "prices": [
+      15,
+      20,
+      20,
+      30,
+      50,
+      59,
+      160,
+      320,
+      640,
+      1280
+    ],
+    "search": {
+      "id": "aq3p3XKTe",
+      "complexity": 18,
+      "total": 11
+    },
     "builds": 1,
     "mods": [
       {
@@ -9556,6 +9597,23 @@
   {
     "item": "The Jinxed Juju",
     "stats": "discipline has #% increased aura effect",
+    "average": 285.7142857142857,
+    "prices": [
+      160,
+      160,
+      160,
+      160,
+      320,
+      480,
+      560,
+      1120,
+      4000
+    ],
+    "search": {
+      "id": "qXJRJvkSg",
+      "complexity": 18,
+      "total": 9
+    },
     "builds": 1,
     "mods": [
       {
@@ -9569,6 +9627,22 @@
   {
     "item": "The Jinxed Juju",
     "stats": "hatred has #% increased aura effect",
+    "average": 160,
+    "prices": [
+      75,
+      160,
+      160,
+      160,
+      480,
+      1280,
+      3200,
+      11200
+    ],
+    "search": {
+      "id": "bXW5pJOTL",
+      "complexity": 18,
+      "total": 8
+    },
     "builds": 1,
     "mods": [
       {
@@ -9582,6 +9656,24 @@
   {
     "item": "The Jinxed Juju",
     "stats": "wrath has #% increased aura effect",
+    "average": 83.5,
+    "prices": [
+      20,
+      20,
+      35,
+      35,
+      70,
+      75,
+      100,
+      160,
+      160,
+      160
+    ],
+    "search": {
+      "id": "oX7R79kFl",
+      "complexity": 18,
+      "total": 13
+    },
     "builds": 1,
     "mods": [
       {
@@ -9595,6 +9687,16 @@
   {
     "item": "Victario's Influence",
     "stats": "+# to level of socketed minion gems, +# to level of socketed aura gems",
+    "average": 475,
+    "prices": [
+      150,
+      800
+    ],
+    "search": {
+      "id": "y9E0KkrhR",
+      "complexity": 29,
+      "total": 2
+    },
     "builds": 1,
     "mods": [
       {
@@ -9614,6 +9716,17 @@
   {
     "item": "Victario's Influence",
     "stats": "+# to level of socketed aoe gems, +# to level of socketed projectile gems",
+    "average": 160,
+    "prices": [
+      75,
+      160,
+      160
+    ],
+    "search": {
+      "id": "jXjEjJlHX",
+      "complexity": 29,
+      "total": 3
+    },
     "builds": 1,
     "mods": [
       {
@@ -9633,6 +9746,15 @@
   {
     "item": "Victario's Influence",
     "stats": "+# to level of socketed gems, #% additional physical damage reduction while stationary",
+    "average": 800,
+    "prices": [
+      800
+    ],
+    "search": {
+      "id": "jXZZ5YRuX",
+      "complexity": 29,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -9652,6 +9774,15 @@
   {
     "item": "Victario's Influence",
     "stats": "+# to level of socketed aura gems, #% increased maximum energy shield",
+    "average": 2880,
+    "prices": [
+      2880
+    ],
+    "search": {
+      "id": "4dvYZDwH9",
+      "complexity": 29,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -9671,6 +9802,16 @@
   {
     "item": "Victario's Influence",
     "stats": "+# to level of socketed aura gems, +# to level of socketed curse gems",
+    "average": 92.5,
+    "prices": [
+      25,
+      160
+    ],
+    "search": {
+      "id": "lXkaJKjiV",
+      "complexity": 29,
+      "total": 2
+    },
     "builds": 1,
     "mods": [
       {
@@ -9690,6 +9831,18 @@
   {
     "item": "Victario's Influence",
     "stats": "+# to level of socketed gems, +# to level of socketed trap or mine gems",
+    "average": 112.5,
+    "prices": [
+      50,
+      80,
+      160,
+      160
+    ],
+    "search": {
+      "id": "4dlWXJZt9",
+      "complexity": 29,
+      "total": 4
+    },
     "builds": 1,
     "mods": [
       {
@@ -9709,6 +9862,13 @@
   {
     "item": "Victario's Influence",
     "stats": "+# to level of socketed projectile gems, +# to level of socketed aura gems",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "bXWwyXdfL",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -9728,6 +9888,16 @@
   {
     "item": "Victario's Influence",
     "stats": "+# to level of socketed aoe gems, +# to level of socketed minion gems",
+    "average": 120,
+    "prices": [
+      100,
+      140
+    ],
+    "search": {
+      "id": "jXJDMgZTX",
+      "complexity": 29,
+      "total": 2
+    },
     "builds": 1,
     "mods": [
       {
@@ -9747,6 +9917,15 @@
   {
     "item": "Victario's Influence",
     "stats": "+# to level of socketed aoe gems, #% reduced chaos damage taken",
+    "average": 40,
+    "prices": [
+      40
+    ],
+    "search": {
+      "id": "rXOPGLguQ",
+      "complexity": 29,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
