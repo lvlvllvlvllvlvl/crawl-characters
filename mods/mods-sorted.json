@@ -9945,6 +9945,15 @@
   {
     "item": "Victario's Influence",
     "stats": "+# to level of socketed trap or mine gems, #% increased maximum life",
+    "average": 60,
+    "prices": [
+      60
+    ],
+    "search": {
+      "id": "OVaB4MgHE",
+      "complexity": 29,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -9964,6 +9973,20 @@
   {
     "item": "Victario's Influence",
     "stats": "+# to level of socketed duration gems, +# to level of socketed aura gems",
+    "average": 160.01,
+    "prices": [
+      100,
+      160.01,
+      160.01,
+      160.01,
+      160.01,
+      1120.07
+    ],
+    "search": {
+      "id": "DGvmrmvI5",
+      "complexity": 29,
+      "total": 6
+    },
     "builds": 1,
     "mods": [
       {
@@ -9983,6 +10006,13 @@
   {
     "item": "Victario's Influence",
     "stats": "+# to level of socketed duration gems, +# to level of socketed curse gems",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "3BZyPOdi5",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -10002,6 +10032,16 @@
   {
     "item": "Victario's Influence",
     "stats": "+# to level of socketed trap or mine gems, #% increased damage",
+    "average": 160.01,
+    "prices": [
+      160.01,
+      160.01
+    ],
+    "search": {
+      "id": "qX3mKmLtg",
+      "complexity": 29,
+      "total": 2
+    },
     "builds": 1,
     "mods": [
       {
@@ -10021,6 +10061,21 @@
   {
     "item": "Victario's Influence",
     "stats": "+# to level of socketed aura gems, +# to level of socketed trap or mine gems",
+    "average": 160.01,
+    "prices": [
+      22,
+      160.01,
+      160.01,
+      196,
+      480.03,
+      800.05,
+      1280.08
+    ],
+    "search": {
+      "id": "WVWPWyrCm",
+      "complexity": 29,
+      "total": 7
+    },
     "builds": 1,
     "mods": [
       {
@@ -10040,6 +10095,24 @@
   {
     "item": "Leer Cast",
     "stats": "+# to maximum power charges",
+    "average": 49.22222222222222,
+    "prices": [
+      25,
+      30,
+      39,
+      39,
+      40,
+      50,
+      60,
+      80,
+      80,
+      160.01
+    ],
+    "search": {
+      "id": "Xqb5zPKFP",
+      "complexity": 18,
+      "total": 13
+    },
     "builds": 1,
     "mods": [
       {
@@ -10053,6 +10126,24 @@
   {
     "item": "Hrimsorrow",
     "stats": "curse enemies with elemental weakness on hit",
+    "average": 105.4,
+    "prices": [
+      50,
+      79,
+      80,
+      95,
+      100,
+      100,
+      100,
+      150,
+      150,
+      150
+    ],
+    "search": {
+      "id": "YVqVVY6cY",
+      "complexity": 18,
+      "total": 45
+    },
     "builds": 1,
     "mods": [
       {
@@ -10066,6 +10157,24 @@
   {
     "item": "Hrimsorrow",
     "stats": "+# to maximum frenzy charges",
+    "average": 57.2,
+    "prices": [
+      10,
+      30,
+      35,
+      50,
+      50,
+      60,
+      67,
+      70,
+      100,
+      100
+    ],
+    "search": {
+      "id": "XqDE6QRuP",
+      "complexity": 18,
+      "total": 65
+    },
     "builds": 1,
     "mods": [
       {
@@ -10079,6 +10188,13 @@
   {
     "item": "Hrimsorrow",
     "stats": "+# to level of socketed minion gems, +# to maximum frenzy charges",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "gXnmRZgFQ",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -10098,6 +10214,13 @@
   {
     "item": "Inpulsa's Broken Heart",
     "stats": "+# to level of socketed minion gems, #% increased damage",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "BEzevqjT8",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -10117,6 +10240,23 @@
   {
     "item": "Inpulsa's Broken Heart",
     "stats": "you take #% reduced extra damage from critical strikes",
+    "average": 213.67783333333333,
+    "prices": [
+      30,
+      80,
+      100,
+      144.009,
+      448.02799999999996,
+      480.03,
+      1120.07,
+      1360.085,
+      3360.21
+    ],
+    "search": {
+      "id": "lX80WppIV",
+      "complexity": 18,
+      "total": 9
+    },
     "builds": 1,
     "mods": [
       {
@@ -10130,6 +10270,19 @@
   {
     "item": "Inpulsa's Broken Heart",
     "stats": "#% additional physical damage reduction while stationary",
+    "average": 264.613,
+    "prices": [
+      33,
+      100,
+      150,
+      480.03,
+      560.035
+    ],
+    "search": {
+      "id": "zeqGP0aI4",
+      "complexity": 18,
+      "total": 5
+    },
     "builds": 1,
     "mods": [
       {
@@ -10143,6 +10296,17 @@
   {
     "item": "Inpulsa's Broken Heart",
     "stats": "#% reduced cold damage taken",
+    "average": 386.69,
+    "prices": [
+      40,
+      320.02,
+      800.05
+    ],
+    "search": {
+      "id": "eXDrLwWFL",
+      "complexity": 18,
+      "total": 3
+    },
     "builds": 1,
     "mods": [
       {
@@ -10156,6 +10320,19 @@
   {
     "item": "Inpulsa's Broken Heart",
     "stats": "#% reduced lightning damage taken",
+    "average": 124.00399999999999,
+    "prices": [
+      70,
+      80,
+      150,
+      160.01,
+      160.01
+    ],
+    "search": {
+      "id": "LmXP4Y2hn",
+      "complexity": 18,
+      "total": 5
+    },
     "builds": 1,
     "mods": [
       {
@@ -10169,6 +10346,13 @@
   {
     "item": "Dendrobate",
     "stats": "+# to level of socketed aoe gems, #% increased damage",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "vlPVe4zSE",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
