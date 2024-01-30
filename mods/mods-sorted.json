@@ -5989,6 +5989,13 @@
   {
     "item": "Unnatural Instinct",
     "stats": "#% increased global critical strike chance, damage penetrates #% cold resistance",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "WVkzPqRfm",
+      "complexity": 30,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -6009,6 +6016,13 @@
   {
     "item": "Unnatural Instinct",
     "stats": "damage penetrates #% elemental resistances, corrupted blood cannot be inflicted on you",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "rXj9DVMHQ",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -6028,6 +6042,15 @@
   {
     "item": "Unnatural Instinct",
     "stats": "#% reduced effect of curses on you, damage penetrates #% fire resistance",
+    "average": 1275.84,
+    "prices": [
+      1275.84
+    ],
+    "search": {
+      "id": "wKWX9XnHb",
+      "complexity": 30,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -6048,6 +6071,13 @@
   {
     "item": "Unnatural Instinct",
     "stats": "you cannot be maimed, #% reduced bleed duration on you",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "OqeJXDzhE",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -6067,6 +6097,13 @@
   {
     "item": "Unnatural Instinct",
     "stats": "#% reduced bleed duration on you, you cannot be hindered",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "6ZY69bbhG",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -6086,6 +6123,15 @@
   {
     "item": "Unnatural Instinct",
     "stats": "damage penetrates #% cold resistance, damage penetrates #% lightning resistance",
+    "average": 4784.4,
+    "prices": [
+      4784.4
+    ],
+    "search": {
+      "id": "GkOz8ooub",
+      "complexity": 31,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -6107,6 +6153,15 @@
   {
     "item": "Unnatural Instinct",
     "stats": "#% increased damage, #% increased area of effect",
+    "average": 2392.2,
+    "prices": [
+      2392.2
+    ],
+    "search": {
+      "id": "KJDLoqRi5",
+      "complexity": 29,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -6126,6 +6181,24 @@
   {
     "item": "Ancestral Vision",
     "stats": "you cannot be cursed with silence",
+    "average": 36.1,
+    "prices": [
+      34,
+      34,
+      35,
+      35,
+      35,
+      35,
+      35,
+      39,
+      39,
+      40
+    ],
+    "search": {
+      "id": "kXJ2YOWI5",
+      "complexity": 18,
+      "total": 46
+    },
     "builds": 1,
     "mods": [
       {
@@ -6139,6 +6212,24 @@
   {
     "item": "Ancestral Vision",
     "stats": "#% increased damage",
+    "average": 40.9,
+    "prices": [
+      30,
+      30,
+      39,
+      40,
+      40,
+      40,
+      40,
+      50,
+      50,
+      50
+    ],
+    "search": {
+      "id": "LmdwQrBHn",
+      "complexity": 18,
+      "total": 64
+    },
     "builds": 1,
     "mods": [
       {
@@ -6152,6 +6243,13 @@
   {
     "item": "Ancestral Vision",
     "stats": "corrupted blood cannot be inflicted on you, you cannot be hindered",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "Zwd6Vo7TQ",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -6171,6 +6269,24 @@
   {
     "item": "Lightning Coil",
     "stats": "+# to level of socketed duration gems",
+    "average": 72,
+    "prices": [
+      30,
+      30,
+      40,
+      50,
+      80,
+      90,
+      100,
+      100,
+      100,
+      100
+    ],
+    "search": {
+      "id": "waPeM2jtb",
+      "complexity": 18,
+      "total": 153
+    },
     "builds": 1,
     "mods": [
       {
@@ -6184,6 +6300,24 @@
   {
     "item": "Lightning Coil",
     "stats": "+# to level of socketed minion gems",
+    "average": 43.5,
+    "prices": [
+      40,
+      40,
+      40,
+      40,
+      40,
+      45,
+      45,
+      45,
+      50,
+      50
+    ],
+    "search": {
+      "id": "8aprQ3VTV",
+      "complexity": 18,
+      "total": 122
+    },
     "builds": 1,
     "mods": [
       {
@@ -6197,6 +6331,24 @@
   {
     "item": "Lightning Coil",
     "stats": "+#% to all maximum resistances",
+    "average": 33,
+    "prices": [
+      10,
+      15,
+      20,
+      20,
+      40,
+      40,
+      40,
+      45,
+      50,
+      50
+    ],
+    "search": {
+      "id": "80Z0zlZcV",
+      "complexity": 18,
+      "total": 114
+    },
     "builds": 1,
     "mods": [
       {
@@ -6210,6 +6362,16 @@
   {
     "item": "Lightning Coil",
     "stats": "#% increased damage, #% reduced lightning damage taken",
+    "average": 31098.6,
+    "prices": [
+      14353.199999999999,
+      47844
+    ],
+    "search": {
+      "id": "XqDYal7CP",
+      "complexity": 29,
+      "total": 2
+    },
     "builds": 1,
     "mods": [
       {
@@ -6229,6 +6391,24 @@
   {
     "item": "Lightning Coil",
     "stats": "+# to level of socketed gems",
+    "average": 586.8864,
+    "prices": [
+      478.43999999999994,
+      478.43999999999994,
+      478.43999999999994,
+      478.43999999999994,
+      637.92,
+      637.92,
+      637.92,
+      637.92,
+      637.92,
+      765.5039999999999
+    ],
+    "search": {
+      "id": "2BrQXgYFk",
+      "complexity": 18,
+      "total": 135
+    },
     "builds": 1,
     "mods": [
       {
