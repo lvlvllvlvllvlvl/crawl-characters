@@ -12943,6 +12943,24 @@
   {
     "item": "Void Battery",
     "stats": "#% increased critical strike chance",
+    "average": 61,
+    "prices": [
+      20,
+      25,
+      30,
+      40,
+      50,
+      69,
+      77,
+      99,
+      100,
+      100
+    ],
+    "search": {
+      "id": "LmydjKGIn",
+      "complexity": 18,
+      "total": 38
+    },
     "builds": 1,
     "mods": [
       {
@@ -12956,6 +12974,13 @@
   {
     "item": "Replica Inya's Epiphany",
     "stats": "+# to level of socketed gems",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "aq37vaRFe",
+      "complexity": 18,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -12969,6 +12994,13 @@
   {
     "item": "Doomfletch",
     "stats": "socketed gems are supported by level # momentum, socketed gems are supported by level # faster projectiles",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "2Bam9vjhk",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -12988,6 +13020,24 @@
   {
     "item": "Ephemeral Edge",
     "stats": "#% chance to gain onslaught for # seconds on kill",
+    "average": 44,
+    "prices": [
+      10,
+      15,
+      20,
+      20,
+      20,
+      40,
+      45,
+      70,
+      100,
+      100
+    ],
+    "search": {
+      "id": "z27GpRRI4",
+      "complexity": 18,
+      "total": 29
+    },
     "builds": 1,
     "mods": [
       {
@@ -13001,6 +13051,24 @@
   {
     "item": "Arn's Anguish",
     "stats": "zealotry has #% increased aura effect",
+    "average": 159.51,
+    "prices": [
+      75,
+      100,
+      150,
+      159.51,
+      159.51,
+      159.51,
+      159.51,
+      159.51,
+      159.51,
+      159.51
+    ],
+    "search": {
+      "id": "YVqrzkXsY",
+      "complexity": 18,
+      "total": 15
+    },
     "builds": 1,
     "mods": [
       {
@@ -13014,6 +13082,19 @@
   {
     "item": "Arn's Anguish",
     "stats": "+#% to all elemental resistances",
+    "average": 1148.472,
+    "prices": [
+      478.53,
+      797.55,
+      1116.57,
+      1435.59,
+      1914.12
+    ],
+    "search": {
+      "id": "Ey659y0i5",
+      "complexity": 18,
+      "total": 5
+    },
     "builds": 1,
     "mods": [
       {
@@ -13027,6 +13108,24 @@
   {
     "item": "Arn's Anguish",
     "stats": "#% increased movement speed during any flask effect",
+    "average": 103.16279999999999,
+    "prices": [
+      40,
+      40,
+      45,
+      80,
+      100,
+      100,
+      127.608,
+      180,
+      159.51,
+      159.51
+    ],
+    "search": {
+      "id": "gXWv5KKUQ",
+      "complexity": 18,
+      "total": 12
+    },
     "builds": 1,
     "mods": [
       {
@@ -13040,6 +13139,24 @@
   {
     "item": "Arn's Anguish",
     "stats": "wrath has #% increased aura effect",
+    "average": 107.204,
+    "prices": [
+      45,
+      49,
+      50,
+      60,
+      80,
+      150,
+      159.51,
+      159.51,
+      159.51,
+      159.51
+    ],
+    "search": {
+      "id": "3BrVpPJi5",
+      "complexity": 18,
+      "total": 13
+    },
     "builds": 1,
     "mods": [
       {
@@ -13053,6 +13170,19 @@
   {
     "item": "Mjölner",
     "stats": "#% increased attack speed",
+    "average": 957.06,
+    "prices": [
+      797.55,
+      957.06,
+      1116.57,
+      1914.12,
+      11165.699999999999
+    ],
+    "search": {
+      "id": "kXjE4KjF5",
+      "complexity": 19,
+      "total": 5
+    },
     "builds": 1,
     "mods": [
       {
@@ -13067,6 +13197,24 @@
   {
     "item": "The Ivory Tower",
     "stats": "+# to level of socketed gems",
+    "average": 62.55555555555556,
+    "prices": [
+      35,
+      49,
+      50,
+      50,
+      59,
+      60,
+      60,
+      100,
+      100,
+      120
+    ],
+    "search": {
+      "id": "aboOqYkue",
+      "complexity": 18,
+      "total": 47
+    },
     "builds": 1,
     "mods": [
       {
@@ -13080,6 +13228,13 @@
   {
     "item": "Anathema",
     "stats": "#% increased strength, #% increased dexterity, grace has #% increased aura effect",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "QVOrDlvfw",
+      "complexity": 20,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -13105,6 +13260,15 @@
   {
     "item": "Anathema",
     "stats": "#% increased attack speed",
+    "average": 1116.57,
+    "prices": [
+      1116.57
+    ],
+    "search": {
+      "id": "zeovLqLc4",
+      "complexity": 19,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -13119,6 +13283,16 @@
   {
     "item": "Anathema",
     "stats": "#% increased cast speed",
+    "average": 558.285,
+    "prices": [
+      319.02,
+      797.55
+    ],
+    "search": {
+      "id": "JYm7jvOIl",
+      "complexity": 18,
+      "total": 2
+    },
     "builds": 1,
     "mods": [
       {
@@ -13132,6 +13306,17 @@
   {
     "item": "Anathema",
     "stats": "#% increased strength, #% increased intelligence",
+    "average": 2658.4999999999995,
+    "prices": [
+      797.55,
+      1595.1,
+      5582.849999999999
+    ],
+    "search": {
+      "id": "LmdED02in",
+      "complexity": 29,
+      "total": 3
+    },
     "builds": 1,
     "mods": [
       {
@@ -13151,6 +13336,21 @@
   {
     "item": "Anathema",
     "stats": "adds # to # lightning damage to spells and attacks",
+    "average": 623.0366666666666,
+    "prices": [
+      60,
+      69,
+      100,
+      319.02,
+      1276.08,
+      1914.12,
+      14036.88
+    ],
+    "search": {
+      "id": "0B8O6p8Fg",
+      "complexity": 18,
+      "total": 7
+    },
     "builds": 1,
     "mods": [
       {
