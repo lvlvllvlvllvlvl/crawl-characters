@@ -17044,6 +17044,24 @@
   {
     "item": "Might of the Meek",
     "stats": "#% increased global critical strike chance",
+    "average": 87.86,
+    "prices": [
+      10,
+      30,
+      70,
+      80,
+      80,
+      100,
+      100,
+      100,
+      150,
+      158.6
+    ],
+    "search": {
+      "id": "3Gw30nJU5",
+      "complexity": 18,
+      "total": 15
+    },
     "builds": 1,
     "mods": [
       {
@@ -17057,6 +17075,24 @@
   {
     "item": "Might of the Meek",
     "stats": "you cannot be maimed",
+    "average": 29.7,
+    "prices": [
+      9,
+      10,
+      15,
+      19,
+      20,
+      30,
+      45,
+      49,
+      50,
+      50
+    ],
+    "search": {
+      "id": "lXJV8VrhV",
+      "complexity": 18,
+      "total": 18
+    },
     "builds": 1,
     "mods": [
       {
@@ -17070,6 +17106,24 @@
   {
     "item": "Might of the Meek",
     "stats": "you cannot be cursed with silence",
+    "average": 56.32000000000001,
+    "prices": [
+      10,
+      10,
+      15,
+      20,
+      20,
+      40,
+      61,
+      70,
+      158.6,
+      158.6
+    ],
+    "search": {
+      "id": "BGrV83KC8",
+      "complexity": 18,
+      "total": 12
+    },
     "builds": 1,
     "mods": [
       {
@@ -17083,6 +17137,24 @@
   {
     "item": "Might of the Meek",
     "stats": "you cannot be hindered",
+    "average": 18.8,
+    "prices": [
+      10,
+      10,
+      10,
+      15,
+      18,
+      20,
+      20,
+      25,
+      30,
+      30
+    ],
+    "search": {
+      "id": "RVBXglWU7",
+      "complexity": 18,
+      "total": 19
+    },
     "builds": 1,
     "mods": [
       {
@@ -17096,6 +17168,24 @@
   {
     "item": "Might of the Meek",
     "stats": "#% increased effect of non-damaging ailments",
+    "average": 17.25,
+    "prices": [
+      5,
+      10,
+      15,
+      15,
+      19,
+      20,
+      24,
+      30,
+      45,
+      150
+    ],
+    "search": {
+      "id": "qXjDDjWfg",
+      "complexity": 18,
+      "total": 19
+    },
     "builds": 1,
     "mods": [
       {
@@ -17109,6 +17199,15 @@
   {
     "item": "Crown of Thorns",
     "stats": "#% increased area of effect",
+    "average": 475.79999999999995,
+    "prices": [
+      475.79999999999995
+    ],
+    "search": {
+      "id": "BED35jLs8",
+      "complexity": 18,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -17122,6 +17221,19 @@
   {
     "item": "Machina Mitts",
     "stats": "curse enemies with elemental weakness on hit",
+    "average": 2347.2799999999997,
+    "prices": [
+      1110.2,
+      1427.3999999999999,
+      2854.7999999999997,
+      3172,
+      3172
+    ],
+    "search": {
+      "id": "0B8PL7bFg",
+      "complexity": 18,
+      "total": 5
+    },
     "builds": 1,
     "mods": [
       {
@@ -17135,6 +17247,20 @@
   {
     "item": "Machina Mitts",
     "stats": "curse enemies with enfeeble on hit",
+    "average": 164.6,
+    "prices": [
+      30,
+      158.6,
+      158.6,
+      158.6,
+      317.2,
+      1268.8
+    ],
+    "search": {
+      "id": "WV4WDGvum",
+      "complexity": 18,
+      "total": 6
+    },
     "builds": 1,
     "mods": [
       {
@@ -17148,6 +17274,13 @@
   {
     "item": "Machina Mitts",
     "stats": "#% increased maximum life, +#% to spell critical strike chance",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "RVYKX9qi7",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -17199,6 +17332,24 @@
   {
     "item": "Heartbound Loop",
     "stats": "bleeding cannot be inflicted on you",
+    "average": 65.4,
+    "prices": [
+      20,
+      20,
+      35,
+      40,
+      50,
+      60,
+      99,
+      100,
+      100,
+      130
+    ],
+    "search": {
+      "id": "gXWoX0KFQ",
+      "complexity": 18,
+      "total": 23
+    },
     "builds": 1,
     "mods": [
       {
@@ -17212,6 +17363,24 @@
   {
     "item": "Heartbound Loop",
     "stats": "cannot be ignited",
+    "average": 16.428571428571427,
+    "prices": [
+      10,
+      10,
+      10,
+      10,
+      20,
+      25,
+      30,
+      50,
+      60,
+      75
+    ],
+    "search": {
+      "id": "3GwDRP9S5",
+      "complexity": 18,
+      "total": 24
+    },
     "builds": 1,
     "mods": [
       {
@@ -17225,6 +17394,17 @@
   {
     "item": "Umbilicus Immortalis",
     "stats": "#% increased maximum energy shield",
+    "average": 43.333333333333336,
+    "prices": [
+      10,
+      30,
+      90
+    ],
+    "search": {
+      "id": "MVZbYLGUJ",
+      "complexity": 18,
+      "total": 3
+    },
     "builds": 1,
     "mods": [
       {
@@ -17238,6 +17418,21 @@
   {
     "item": "Umbilicus Immortalis",
     "stats": "#% increased strength, #% increased intelligence",
+    "average": 79.60000000000001,
+    "prices": [
+      10,
+      30,
+      50,
+      60,
+      90,
+      158.6,
+      158.6
+    ],
+    "search": {
+      "id": "MV5YWYMsJ",
+      "complexity": 29,
+      "total": 7
+    },
     "builds": 1,
     "mods": [
       {
@@ -17257,6 +17452,13 @@
   {
     "item": "Umbilicus Immortalis",
     "stats": "#% increased strength, #% increased dexterity, +#% to all elemental resistances",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "GkJ5moZcb",
+      "complexity": 20,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -17282,6 +17484,24 @@
   {
     "item": "Doppelgänger Guise",
     "stats": "+# to level of socketed gems",
+    "average": 2801.9333333333334,
+    "prices": [
+      475.79999999999995,
+      1586,
+      1586,
+      1903.1999999999998,
+      2220.4,
+      2379,
+      2379,
+      6344,
+      6344,
+      7930
+    ],
+    "search": {
+      "id": "JVdRZXasl",
+      "complexity": 18,
+      "total": 10
+    },
     "builds": 1,
     "mods": [
       {
