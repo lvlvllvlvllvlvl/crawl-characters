@@ -15135,6 +15135,24 @@
   {
     "item": "Inspired Learning",
     "stats": "#% reduced poison duration on you",
+    "average": 28,
+    "prices": [
+      20,
+      20,
+      20,
+      20,
+      20,
+      20,
+      20,
+      40,
+      50,
+      50
+    ],
+    "search": {
+      "id": "ZbZdZp8HQ",
+      "complexity": 18,
+      "total": 22
+    },
     "builds": 1,
     "mods": [
       {
@@ -15148,6 +15166,24 @@
   {
     "item": "Inspired Learning",
     "stats": "damage penetrates #% lightning resistance",
+    "average": 20,
+    "prices": [
+      20,
+      20,
+      20,
+      20,
+      20,
+      20,
+      20,
+      20,
+      20,
+      25
+    ],
+    "search": {
+      "id": "kXD66RnF5",
+      "complexity": 19,
+      "total": 29
+    },
     "builds": 1,
     "mods": [
       {
@@ -15162,6 +15198,22 @@
   {
     "item": "Fleshcrafter",
     "stats": "+# to level of socketed projectile gems",
+    "average": 99.224,
+    "prices": [
+      50,
+      50,
+      110,
+      130,
+      156.12,
+      312.24,
+      624.48,
+      1092.8400000000001
+    ],
+    "search": {
+      "id": "ZwdvaL8iQ",
+      "complexity": 18,
+      "total": 8
+    },
     "builds": 1,
     "mods": [
       {
@@ -15175,6 +15227,16 @@
   {
     "item": "Fleshcrafter",
     "stats": "+# to level of socketed minion gems",
+    "average": 4995.84,
+    "prices": [
+      3746.88,
+      6244.8
+    ],
+    "search": {
+      "id": "4qnzvpvT9",
+      "complexity": 18,
+      "total": 2
+    },
     "builds": 1,
     "mods": [
       {
@@ -15188,6 +15250,23 @@
   {
     "item": "Sign of the Sin Eater",
     "stats": "#% increased area of effect",
+    "average": 113.57142857142857,
+    "prices": [
+      80,
+      90,
+      100,
+      100,
+      140,
+      140,
+      145,
+      312.24,
+      780.6
+    ],
+    "search": {
+      "id": "rXjnOV7CQ",
+      "complexity": 18,
+      "total": 9
+    },
     "builds": 1,
     "mods": [
       {
@@ -15201,6 +15280,20 @@
   {
     "item": "The Poised Prism",
     "stats": "# to # added cold damage with bow attacks, # to # added lightning damage with bow attacks",
+    "average": 286.22,
+    "prices": [
+      156.12,
+      156.12,
+      156.12,
+      312.24,
+      468.36,
+      468.36
+    ],
+    "search": {
+      "id": "lX80WLVsV",
+      "complexity": 29,
+      "total": 6
+    },
     "builds": 1,
     "mods": [
       {
@@ -15220,6 +15313,24 @@
   {
     "item": "The Poised Prism",
     "stats": "#% increased elemental damage with attack skills",
+    "average": 1,
+    "prices": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "search": {
+      "id": "rXmvBJzSQ",
+      "complexity": 18,
+      "total": 242
+    },
     "builds": 1,
     "mods": [
       {
@@ -15233,6 +15344,24 @@
   {
     "item": "Seven-League Step",
     "stats": "+#% chance to suppress spell damage",
+    "average": 28.571428571428573,
+    "prices": [
+      20,
+      20,
+      30,
+      30,
+      30,
+      30,
+      40,
+      50,
+      100,
+      120
+    ],
+    "search": {
+      "id": "8av99q8IV",
+      "complexity": 19,
+      "total": 22
+    },
     "builds": 1,
     "mods": [
       {
@@ -15247,6 +15376,13 @@
   {
     "item": "Seven-League Step",
     "stats": "+# to level of socketed aura gems, #% increased maximum life",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "YVEoYy6UY",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -15326,6 +15462,16 @@
   {
     "item": "Black Zenith",
     "stats": "curse enemies with temporal chains on hit",
+    "average": 206.12,
+    "prices": [
+      100,
+      312.24
+    ],
+    "search": {
+      "id": "VMQOgQrcp",
+      "complexity": 18,
+      "total": 2
+    },
     "builds": 1,
     "mods": [
       {
@@ -15339,6 +15485,23 @@
   {
     "item": "The Gull",
     "stats": "socketed skill gems get a #% cost & reservation multiplier",
+    "average": 227.65,
+    "prices": [
+      120,
+      140,
+      156.12,
+      156.12,
+      312.24,
+      312.24,
+      312.24,
+      312.24,
+      468.36
+    ],
+    "search": {
+      "id": "y9EGvmgSR",
+      "complexity": 18,
+      "total": 9
+    },
     "builds": 1,
     "mods": [
       {
@@ -15352,6 +15515,24 @@
   {
     "item": "Replica Dragonfang's Flight",
     "stats": "you can apply an additional curse",
+    "average": 108.96,
+    "prices": [
+      10,
+      20,
+      80,
+      99,
+      100,
+      156.12,
+      156.12,
+      156.12,
+      156.12,
+      156.12
+    ],
+    "search": {
+      "id": "no9rlYyH0",
+      "complexity": 18,
+      "total": 26
+    },
     "builds": 1,
     "mods": [
       {
@@ -15545,6 +15726,16 @@
   {
     "item": "The Fledgling",
     "stats": "+# to level of socketed aoe gems",
+    "average": 1248.96,
+    "prices": [
+      1248.96,
+      1248.96
+    ],
+    "search": {
+      "id": "80ZX7aqIV",
+      "complexity": 18,
+      "total": 2
+    },
     "builds": 1,
     "mods": [
       {
@@ -15558,6 +15749,24 @@
   {
     "item": "Ralakesh's Impatience",
     "stats": "grants level # haste skill",
+    "average": 54.5,
+    "prices": [
+      25,
+      30,
+      40,
+      50,
+      50,
+      50,
+      70,
+      70,
+      80,
+      80
+    ],
+    "search": {
+      "id": "8qBRjrvFV",
+      "complexity": 18,
+      "total": 53
+    },
     "builds": 1,
     "mods": [
       {
@@ -15571,6 +15780,13 @@
   {
     "item": "Ralakesh's Impatience",
     "stats": "+#% chance to suppress spell damage, +# armour while stationary",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "Gqw7qyofb",
+      "complexity": 30,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
