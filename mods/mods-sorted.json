@@ -13458,6 +13458,24 @@
   {
     "item": "Blunderbore",
     "stats": "+# to level of socketed gems",
+    "average": 439.36800000000005,
+    "prices": [
+      40,
+      50,
+      150,
+      153.84,
+      307.68,
+      461.52,
+      769.2,
+      769.2,
+      769.2,
+      923.04
+    ],
+    "search": {
+      "id": "GZy3k8Wsb",
+      "complexity": 18,
+      "total": 19
+    },
     "builds": 1,
     "mods": [
       {
@@ -13471,6 +13489,24 @@
   {
     "item": "Hrimsorrow",
     "stats": "+# to maximum frenzy charges",
+    "average": 54.2,
+    "prices": [
+      33,
+      35,
+      40,
+      40,
+      50,
+      50,
+      64,
+      70,
+      80,
+      80
+    ],
+    "search": {
+      "id": "XqDE6QRuP",
+      "complexity": 18,
+      "total": 89
+    },
     "builds": 1,
     "mods": [
       {
@@ -13484,6 +13520,24 @@
   {
     "item": "Hrimsorrow",
     "stats": "curse enemies with elemental weakness on hit",
+    "average": 79,
+    "prices": [
+      50,
+      50,
+      80,
+      80,
+      80,
+      80,
+      80,
+      90,
+      100,
+      100
+    ],
+    "search": {
+      "id": "YVqVVY6cY",
+      "complexity": 18,
+      "total": 71
+    },
     "builds": 1,
     "mods": [
       {
@@ -13497,6 +13551,13 @@
   {
     "item": "Hrimsorrow",
     "stats": "+# to level of socketed minion gems, +# to maximum frenzy charges",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "gXnmRZgFQ",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -13516,6 +13577,17 @@
   {
     "item": "Natural Affinity",
     "stats": "minions deal #% increased damage",
+    "average": 47,
+    "prices": [
+      44,
+      50,
+      153.84
+    ],
+    "search": {
+      "id": "nXy7VgJH0",
+      "complexity": 18,
+      "total": 3
+    },
     "builds": 1,
     "mods": [
       {
@@ -13529,6 +13601,15 @@
   {
     "item": "Natural Affinity",
     "stats": "corrupted blood cannot be inflicted on you",
+    "average": 15384,
+    "prices": [
+      15384
+    ],
+    "search": {
+      "id": "9qlqMQYsK",
+      "complexity": 18,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -13542,6 +13623,15 @@
   {
     "item": "The Green Dream",
     "stats": "minions deal #% increased damage",
+    "average": 153.84,
+    "prices": [
+      153.84
+    ],
+    "search": {
+      "id": "BEDM6KXH8",
+      "complexity": 18,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -13555,6 +13645,24 @@
   {
     "item": "Zeel's Amplifier",
     "stats": "+# to level of socketed gems",
+    "average": 74.768,
+    "prices": [
+      20,
+      30,
+      30,
+      35,
+      50,
+      75,
+      100,
+      100,
+      153.84,
+      153.84
+    ],
+    "search": {
+      "id": "4qnPaPvC9",
+      "complexity": 18,
+      "total": 17
+    },
     "builds": 1,
     "mods": [
       {
@@ -13568,6 +13676,24 @@
   {
     "item": "Zeel's Amplifier",
     "stats": "+# to level of socketed aoe gems",
+    "average": 32.324444444444445,
+    "prices": [
+      1.92,
+      10,
+      30,
+      30,
+      39,
+      40,
+      40,
+      40,
+      60,
+      100
+    ],
+    "search": {
+      "id": "Zb4Eb8mHQ",
+      "complexity": 18,
+      "total": 17
+    },
     "builds": 1,
     "mods": [
       {
@@ -13581,6 +13707,13 @@
   {
     "item": "Zeel's Amplifier",
     "stats": "+# to level of socketed gems, #% of physical damage from hits taken as lightning damage",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "2BrRVbeUk",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -13600,6 +13733,13 @@
   {
     "item": "Zeel's Amplifier",
     "stats": "+# to level of socketed aoe gems, you take #% reduced extra damage from critical strikes",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "8qB66P8UV",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -13619,6 +13759,15 @@
   {
     "item": "Black Sun Crest",
     "stats": "socketed skill gems get a #% cost & reservation multiplier, cannot be blinded",
+    "average": 153.84,
+    "prices": [
+      153.84
+    ],
+    "search": {
+      "id": "BEQP07Wf8",
+      "complexity": 29,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -13638,6 +13787,15 @@
   {
     "item": "Tanu Ahi",
     "stats": "+# to level of socketed duration gems, attacks have +#% to critical strike chance",
+    "average": 20,
+    "prices": [
+      20
+    ],
+    "search": {
+      "id": "Pd5D2mmiL",
+      "complexity": 29,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -13657,6 +13815,15 @@
   {
     "item": "Tanu Ahi",
     "stats": "curse enemies with enfeeble on hit, attacks have +#% to critical strike chance",
+    "average": 15384,
+    "prices": [
+      15384
+    ],
+    "search": {
+      "id": "Rqr6WzBH7",
+      "complexity": 29,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -13676,6 +13843,24 @@
   {
     "item": "Tanu Ahi",
     "stats": "curse enemies with vulnerability on hit",
+    "average": 83.3,
+    "prices": [
+      20,
+      30,
+      50,
+      50,
+      60,
+      100,
+      120,
+      120,
+      123,
+      160
+    ],
+    "search": {
+      "id": "8a2a76MiV",
+      "complexity": 18,
+      "total": 30
+    },
     "builds": 1,
     "mods": [
       {
