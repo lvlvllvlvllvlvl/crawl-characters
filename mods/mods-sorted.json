@@ -10344,6 +10344,24 @@
   {
     "item": "Inspired Learning",
     "stats": "#% reduced bleed duration on you",
+    "average": 20,
+    "prices": [
+      18,
+      20,
+      20,
+      20,
+      20,
+      20,
+      20,
+      25,
+      40,
+      60
+    ],
+    "search": {
+      "id": "bPZJr2RTL",
+      "complexity": 18,
+      "total": 25
+    },
     "builds": 1,
     "mods": [
       {
@@ -10357,6 +10375,24 @@
   {
     "item": "Inspired Learning",
     "stats": "minions deal #% increased damage",
+    "average": 22.9,
+    "prices": [
+      19,
+      20,
+      20,
+      20,
+      20,
+      20,
+      20,
+      30,
+      30,
+      30
+    ],
+    "search": {
+      "id": "oX70bw4il",
+      "complexity": 18,
+      "total": 18
+    },
     "builds": 1,
     "mods": [
       {
@@ -10370,6 +10406,24 @@
   {
     "item": "Inspired Learning",
     "stats": "#% reduced poison duration on you",
+    "average": 29.9,
+    "prices": [
+      19,
+      20,
+      20,
+      20,
+      20,
+      20,
+      40,
+      40,
+      50,
+      50
+    ],
+    "search": {
+      "id": "ZbZdZp8HQ",
+      "complexity": 18,
+      "total": 24
+    },
     "builds": 1,
     "mods": [
       {
@@ -10383,6 +10437,24 @@
   {
     "item": "Inspired Learning",
     "stats": "corrupted blood cannot be inflicted on you",
+    "average": 457.56,
+    "prices": [
+      381.3,
+      442.308,
+      457.56000000000006,
+      457.56000000000006,
+      457.56000000000006,
+      457.56000000000006,
+      457.56000000000006,
+      457.56000000000006,
+      457.56000000000006,
+      457.56000000000006
+    ],
+    "search": {
+      "id": "wpR9W5jhb",
+      "complexity": 18,
+      "total": 44
+    },
     "builds": 1,
     "mods": [
       {
@@ -10396,6 +10468,24 @@
   {
     "item": "Inspired Learning",
     "stats": "damage penetrates #% cold resistance",
+    "average": 20,
+    "prices": [
+      20,
+      20,
+      20,
+      20,
+      20,
+      20,
+      25,
+      28,
+      30,
+      35
+    ],
+    "search": {
+      "id": "KJdeLGqs5",
+      "complexity": 19,
+      "total": 35
+    },
     "builds": 1,
     "mods": [
       {
@@ -10410,6 +10500,24 @@
   {
     "item": "Inspired Learning",
     "stats": "you cannot be maimed",
+    "average": 42.666666666666664,
+    "prices": [
+      20,
+      30,
+      30,
+      30,
+      50,
+      50,
+      50,
+      55,
+      69,
+      99
+    ],
+    "search": {
+      "id": "v3WbPKZuE",
+      "complexity": 18,
+      "total": 25
+    },
     "builds": 1,
     "mods": [
       {
@@ -10423,6 +10531,24 @@
   {
     "item": "Inspired Learning",
     "stats": "damage penetrates #% lightning resistance",
+    "average": 47,
+    "prices": [
+      20,
+      20,
+      20,
+      30,
+      30,
+      40,
+      50,
+      70,
+      90,
+      100
+    ],
+    "search": {
+      "id": "kXD66RnF5",
+      "complexity": 19,
+      "total": 17
+    },
     "builds": 1,
     "mods": [
       {
@@ -10437,6 +10563,24 @@
   {
     "item": "Hyrri's Ire",
     "stats": "+# to level of socketed minion gems",
+    "average": 152.52,
+    "prices": [
+      30,
+      50,
+      80,
+      150,
+      152.52,
+      152.52,
+      152.52,
+      152.52,
+      152.52,
+      152.52
+    ],
+    "search": {
+      "id": "qXlZDzvTg",
+      "complexity": 18,
+      "total": 15
+    },
     "builds": 1,
     "mods": [
       {
@@ -10450,6 +10594,15 @@
   {
     "item": "Hyrri's Ire",
     "stats": "+# to level of socketed gems, +# to level of socketed projectile gems",
+    "average": 167248.09,
+    "prices": [
+      167248.09
+    ],
+    "search": {
+      "id": "OVnvVyOTE",
+      "complexity": 29,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -10469,6 +10622,15 @@
   {
     "item": "Hyrri's Ire",
     "stats": "+# to level of socketed gems, #% increased maximum energy shield",
+    "average": 4575.6,
+    "prices": [
+      4575.6
+    ],
+    "search": {
+      "id": "6Zy0d3dsG",
+      "complexity": 29,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -10488,6 +10650,13 @@
   {
     "item": "Hyrri's Ire",
     "stats": "you take #% reduced extra damage from critical strikes, +#% to all maximum resistances",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "5o3yDeDsa",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -10507,6 +10676,24 @@
   {
     "item": "The Gull",
     "stats": "socketed skill gems get a #% cost & reservation multiplier",
+    "average": 370.544,
+    "prices": [
+      100,
+      100,
+      150,
+      152.52,
+      152.52,
+      305.04,
+      305.04,
+      762.6,
+      762.6,
+      915.1200000000001
+    ],
+    "search": {
+      "id": "y9EGvmgSR",
+      "complexity": 18,
+      "total": 10
+    },
     "builds": 1,
     "mods": [
       {
@@ -10520,6 +10707,13 @@
   {
     "item": "Replica Heatshiver",
     "stats": "+# to maximum power charges",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "zelZyOmt4",
+      "complexity": 18,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -10533,6 +10727,16 @@
   {
     "item": "Replica Heatshiver",
     "stats": "socketed skill gems get a #% cost & reservation multiplier",
+    "average": 8159.820000000001,
+    "prices": [
+      1067.64,
+      15252.000000000002
+    ],
+    "search": {
+      "id": "KJ2OBZqc5",
+      "complexity": 18,
+      "total": 2
+    },
     "builds": 1,
     "mods": [
       {
@@ -10546,6 +10750,15 @@
   {
     "item": "Unnatural Instinct",
     "stats": "damage penetrates #% elemental resistances, corrupted blood cannot be inflicted on you",
+    "average": 24403.2,
+    "prices": [
+      24403.2
+    ],
+    "search": {
+      "id": "rXj9DVMHQ",
+      "complexity": 29,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
