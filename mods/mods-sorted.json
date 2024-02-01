@@ -4551,6 +4551,24 @@
   {
     "item": "Vaal Caress",
     "stats": "+# to level of socketed gems",
+    "average": 93.57559999999998,
+    "prices": [
+      30,
+      50,
+      50,
+      50,
+      75,
+      80,
+      138.636,
+      154.04,
+      154.04,
+      154.04
+    ],
+    "search": {
+      "id": "abo0rZRue",
+      "complexity": 18,
+      "total": 20
+    },
     "builds": 1,
     "mods": [
       {
@@ -4564,6 +4582,23 @@
   {
     "item": "Prism Guardian",
     "stats": "#% reduced area damage taken from hits",
+    "average": 108.8742857142857,
+    "prices": [
+      40,
+      50,
+      80,
+      130,
+      154.04,
+      154.04,
+      154.04,
+      616.16,
+      1155.3
+    ],
+    "search": {
+      "id": "RqBW8pZU7",
+      "complexity": 18,
+      "total": 9
+    },
     "builds": 1,
     "mods": [
       {
@@ -4577,6 +4612,24 @@
   {
     "item": "Prism Guardian",
     "stats": "#% of physical damage from hits taken as lightning damage",
+    "average": 72,
+    "prices": [
+      28,
+      38,
+      50,
+      69,
+      75,
+      80,
+      80,
+      100,
+      100,
+      100
+    ],
+    "search": {
+      "id": "lPrrL90UV",
+      "complexity": 18,
+      "total": 27
+    },
     "builds": 1,
     "mods": [
       {
@@ -4590,6 +4643,24 @@
   {
     "item": "Prism Guardian",
     "stats": "#% increased maximum energy shield",
+    "average": 78.60799999999999,
+    "prices": [
+      15,
+      15,
+      20,
+      40,
+      90,
+      98,
+      100,
+      100,
+      154.04,
+      154.04
+    ],
+    "search": {
+      "id": "XqadzgJSP",
+      "complexity": 18,
+      "total": 11
+    },
     "builds": 1,
     "mods": [
       {
@@ -4603,6 +4674,15 @@
   {
     "item": "The Torrent's Reclamation",
     "stats": "#% increased dexterity, #% increased intelligence, #% increased maximum energy shield",
+    "average": 1386.36,
+    "prices": [
+      1386.36
+    ],
+    "search": {
+      "id": "KJB87pPi5",
+      "complexity": 20,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -4628,6 +4708,15 @@
   {
     "item": "The Torrent's Reclamation",
     "stats": "#% increased maximum energy shield, discipline has #% increased aura effect",
+    "average": 616.16,
+    "prices": [
+      616.16
+    ],
+    "search": {
+      "id": "plLQw4JC0",
+      "complexity": 29,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -4647,6 +4736,13 @@
   {
     "item": "The Torrent's Reclamation",
     "stats": "#% increased strength, #% increased intelligence, +#% to critical strike multiplier during any flask effect",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "XqadR2bFP",
+      "complexity": 20,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -4672,6 +4768,13 @@
   {
     "item": "The Torrent's Reclamation",
     "stats": "#% increased rarity of items found, +#% to all elemental resistances",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "qXJP6pdfg",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -4691,6 +4794,13 @@
   {
     "item": "The Torrent's Reclamation",
     "stats": "determination has #% increased aura effect, pride has #% increased aura effect",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "5o3Mm3jha",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -4710,6 +4820,13 @@
   {
     "item": "The Torrent's Reclamation",
     "stats": "#% increased maximum life, +#% to critical strike multiplier during any flask effect",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "WVplzVvtm",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -4729,6 +4846,13 @@
   {
     "item": "The Torrent's Reclamation",
     "stats": "+#% to all elemental resistances, discipline has #% increased aura effect",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "3Bm9ryKh5",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -4748,6 +4872,16 @@
   {
     "item": "The Torrent's Reclamation",
     "stats": "#% increased strength, #% increased dexterity, malevolence has #% increased aura effect",
+    "average": 400.504,
+    "prices": [
+      338.88800000000003,
+      462.12
+    ],
+    "search": {
+      "id": "RVepV5ai7",
+      "complexity": 20,
+      "total": 2
+    },
     "builds": 1,
     "mods": [
       {
@@ -4773,6 +4907,13 @@
   {
     "item": "The Torrent's Reclamation",
     "stats": "#% increased strength, #% increased dexterity, #% increased attack speed during any flask effect",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "LmoyqKYSn",
+      "complexity": 20,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -4798,6 +4939,13 @@
   {
     "item": "The Torrent's Reclamation",
     "stats": "#% increased maximum energy shield, wrath has #% increased aura effect",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "oX7PW9ZUl",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -4817,6 +4965,15 @@
   {
     "item": "The Torrent's Reclamation",
     "stats": "#% increased maximum energy shield, determination has #% increased aura effect",
+    "average": 1848.48,
+    "prices": [
+      1848.48
+    ],
+    "search": {
+      "id": "EGp4v04S5",
+      "complexity": 29,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
