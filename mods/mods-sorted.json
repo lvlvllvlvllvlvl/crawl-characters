@@ -12253,6 +12253,24 @@
   {
     "item": "Ancestral Vision",
     "stats": "#% increased damage",
+    "average": 40,
+    "prices": [
+      35,
+      40,
+      40,
+      40,
+      40,
+      40,
+      40,
+      40,
+      40,
+      40
+    ],
+    "search": {
+      "id": "LmdwQrBHn",
+      "complexity": 18,
+      "total": 59
+    },
     "builds": 1,
     "mods": [
       {
@@ -12266,6 +12284,24 @@
   {
     "item": "Indigon",
     "stats": "+# to maximum power charges",
+    "average": 346.125,
+    "prices": [
+      60,
+      150.5,
+      150.5,
+      150.5,
+      301,
+      451.5,
+      752.5,
+      752.5,
+      1505,
+      2257.5
+    ],
+    "search": {
+      "id": "jXJ9MZbHX",
+      "complexity": 18,
+      "total": 17
+    },
     "builds": 1,
     "mods": [
       {
@@ -12279,6 +12315,24 @@
   {
     "item": "Atziri's Foible",
     "stats": "you can apply an additional curse",
+    "average": 120.33333333333333,
+    "prices": [
+      50,
+      50,
+      80,
+      150.5,
+      150.5,
+      150.5,
+      150.5,
+      150.5,
+      150.5,
+      752.5
+    ],
+    "search": {
+      "id": "dX4J9ObcJ",
+      "complexity": 18,
+      "total": 17
+    },
     "builds": 1,
     "mods": [
       {
@@ -12292,6 +12346,13 @@
   {
     "item": "Cloak of Defiance",
     "stats": "#% increased damage",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "3GwWVB0I5",
+      "complexity": 18,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -12305,6 +12366,13 @@
   {
     "item": "Dance of the Offered",
     "stats": "+# to level of socketed gems",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "GkdRWoWCb",
+      "complexity": 18,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -12318,6 +12386,13 @@
   {
     "item": "Shadows and Dust",
     "stats": "curse enemies with elemental weakness on hit, attacks have +#% to critical strike chance",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "60QnQdqIG",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -12337,6 +12412,24 @@
   {
     "item": "Shadows and Dust",
     "stats": "+#% to spell critical strike chance",
+    "average": 11.55,
+    "prices": [
+      5,
+      5,
+      5,
+      10,
+      14,
+      15,
+      20,
+      18.400000000000002,
+      40,
+      50
+    ],
+    "search": {
+      "id": "ZbErrd0uQ",
+      "complexity": 18,
+      "total": 34
+    },
     "builds": 1,
     "mods": [
       {
@@ -12350,6 +12443,24 @@
   {
     "item": "Shadows and Dust",
     "stats": "#% increased attack speed",
+    "average": 45.3,
+    "prices": [
+      39,
+      40,
+      40,
+      45,
+      45,
+      45,
+      49,
+      50,
+      50,
+      50
+    ],
+    "search": {
+      "id": "8aeDbjvFV",
+      "complexity": 19,
+      "total": 50
+    },
     "builds": 1,
     "mods": [
       {
@@ -12364,6 +12475,24 @@
   {
     "item": "Shadows and Dust",
     "stats": "+# to level of socketed minion gems",
+    "average": 22.3,
+    "prices": [
+      8,
+      10,
+      10,
+      15,
+      15,
+      20,
+      20,
+      25,
+      50,
+      50
+    ],
+    "search": {
+      "id": "KJGpJKyU5",
+      "complexity": 18,
+      "total": 17
+    },
     "builds": 1,
     "mods": [
       {
@@ -12377,6 +12506,13 @@
   {
     "item": "Shadows and Dust",
     "stats": "#% increased maximum energy shield, attacks have +#% to critical strike chance",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "EyVjjPBH5",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -12396,6 +12532,24 @@
   {
     "item": "Brightbeak",
     "stats": "#% increased attack speed",
+    "average": 128.975,
+    "prices": [
+      100,
+      90.3,
+      120,
+      120,
+      150,
+      150.5,
+      150.5,
+      150.5,
+      301,
+      451.5
+    ],
+    "search": {
+      "id": "vpeZgOWuE",
+      "complexity": 19,
+      "total": 19
+    },
     "builds": 1,
     "mods": [
       {
@@ -12410,6 +12564,24 @@
   {
     "item": "Memory Vault",
     "stats": "+# to maximum power charges",
+    "average": 150.5,
+    "prices": [
+      150.5,
+      150.5,
+      150.5,
+      150.5,
+      150.5,
+      150.5,
+      150.5,
+      150.5,
+      602,
+      602
+    ],
+    "search": {
+      "id": "YVdGlWbFY",
+      "complexity": 18,
+      "total": 14
+    },
     "builds": 1,
     "mods": [
       {
@@ -12423,6 +12595,19 @@
   {
     "item": "Memory Vault",
     "stats": "+# to level of socketed projectile gems",
+    "average": 89.1,
+    "prices": [
+      15,
+      40,
+      90,
+      150,
+      150.5
+    ],
+    "search": {
+      "id": "VM6vDGdFp",
+      "complexity": 18,
+      "total": 5
+    },
     "builds": 1,
     "mods": [
       {
@@ -12436,6 +12621,13 @@
   {
     "item": "Painseeker",
     "stats": "+# to maximum frenzy charges, curse enemies with elemental weakness on hit",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "dXRmerPsJ",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -12455,6 +12647,21 @@
   {
     "item": "The Primordial Chain",
     "stats": "#% of lightning damage leeched as life",
+    "average": 98.14285714285714,
+    "prices": [
+      10,
+      15,
+      60,
+      150.5,
+      150.5,
+      150.5,
+      150.5
+    ],
+    "search": {
+      "id": "9Yvg7JmTK",
+      "complexity": 19,
+      "total": 7
+    },
     "builds": 1,
     "mods": [
       {
@@ -12469,6 +12676,13 @@
   {
     "item": "The Primordial Chain",
     "stats": "+#% to all elemental resistances, #% increased elemental damage with attack skills",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "eMW22QWcL",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
