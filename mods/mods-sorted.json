@@ -2808,6 +2808,13 @@
   {
     "item": "Dialla's Malefaction",
     "stats": "+# to level of socketed gems, +#% to all maximum resistances",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "Ey6M5KKC5",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 2,
     "mods": [
       {
@@ -2827,6 +2834,24 @@
   {
     "item": "Malachai's Loop",
     "stats": "#% of physical damage from hits taken as fire damage",
+    "average": 44.9,
+    "prices": [
+      35,
+      35,
+      40,
+      40,
+      49,
+      50,
+      50,
+      50,
+      50,
+      50
+    ],
+    "search": {
+      "id": "0BaGbKQhg",
+      "complexity": 18,
+      "total": 249
+    },
     "builds": 2,
     "mods": [
       {
@@ -2840,6 +2865,24 @@
   {
     "item": "Badge of the Brotherhood",
     "stats": "hatred has #% increased aura effect",
+    "average": 4145.856000000001,
+    "prices": [
+      3624,
+      3768.96,
+      3768.96,
+      4203.84,
+      4348.8,
+      4348.8,
+      4348.8,
+      4348.8,
+      4348.8,
+      4348.8
+    ],
+    "search": {
+      "id": "Ey6w67Bh5",
+      "complexity": 18,
+      "total": 24
+    },
     "builds": 2,
     "mods": [
       {
@@ -2853,6 +2896,24 @@
   {
     "item": "Vixen's Entrapment",
     "stats": "+# to level of socketed aoe gems",
+    "average": 144.96,
+    "prices": [
+      20,
+      75,
+      140,
+      130.464,
+      144.96,
+      144.96,
+      144.96,
+      144.96,
+      144.96,
+      217.44
+    ],
+    "search": {
+      "id": "JVdkbvbhl",
+      "complexity": 18,
+      "total": 23
+    },
     "builds": 2,
     "mods": [
       {
@@ -2866,6 +2927,24 @@
   {
     "item": "Ceinture of Benevolence",
     "stats": "#% increased strength, #% increased intelligence",
+    "average": 78,
+    "prices": [
+      5,
+      10,
+      20,
+      70,
+      70,
+      70,
+      120,
+      125,
+      140,
+      150
+    ],
+    "search": {
+      "id": "z27GVXRI4",
+      "complexity": 29,
+      "total": 26
+    },
     "builds": 2,
     "mods": [
       {
@@ -2885,6 +2964,24 @@
   {
     "item": "Ceinture of Benevolence",
     "stats": "wrath has #% increased aura effect",
+    "average": 17.142857142857142,
+    "prices": [
+      10,
+      10,
+      17,
+      18,
+      20,
+      20,
+      25,
+      35,
+      50,
+      75
+    ],
+    "search": {
+      "id": "ZbZrYrYHQ",
+      "complexity": 18,
+      "total": 21
+    },
     "builds": 2,
     "mods": [
       {
@@ -2898,6 +2995,24 @@
   {
     "item": "Ceinture of Benevolence",
     "stats": "discipline has #% increased aura effect",
+    "average": 118.0888888888889,
+    "prices": [
+      30,
+      60,
+      79,
+      99,
+      100,
+      144.96,
+      144.96,
+      144.96,
+      144.96,
+      144.96
+    ],
+    "search": {
+      "id": "R24XldWi7",
+      "complexity": 18,
+      "total": 30
+    },
     "builds": 2,
     "mods": [
       {
@@ -2911,6 +3026,24 @@
   {
     "item": "Kaom's Heart",
     "stats": "#% increased maximum life",
+    "average": 35,
+    "prices": [
+      20,
+      20,
+      20,
+      30,
+      40,
+      40,
+      40,
+      40,
+      50,
+      50
+    ],
+    "search": {
+      "id": "K9gPY8gt5",
+      "complexity": 18,
+      "total": 25
+    },
     "builds": 2,
     "mods": [
       {
@@ -2924,6 +3057,24 @@
   {
     "item": "The Covenant",
     "stats": "+# to level of socketed aoe gems",
+    "average": 630.5760000000001,
+    "prices": [
+      434.88,
+      434.88,
+      434.88,
+      652.32,
+      434.88,
+      724.8000000000001,
+      724.8000000000001,
+      724.8000000000001,
+      869.76,
+      869.76
+    ],
+    "search": {
+      "id": "wpRa4kBcb",
+      "complexity": 18,
+      "total": 42
+    },
     "builds": 2,
     "mods": [
       {
@@ -2937,6 +3088,24 @@
   {
     "item": "Inspired Learning",
     "stats": "#% reduced effect of shock on you",
+    "average": 23.4,
+    "prices": [
+      20,
+      20,
+      20,
+      20,
+      20,
+      20,
+      25,
+      29,
+      30,
+      30
+    ],
+    "search": {
+      "id": "lPrZWRnFV",
+      "complexity": 18,
+      "total": 38
+    },
     "builds": 2,
     "mods": [
       {
@@ -2950,6 +3119,24 @@
   {
     "item": "Sadima's Touch",
     "stats": "curse enemies with enfeeble on hit",
+    "average": 19.8,
+    "prices": [
+      8,
+      10,
+      20,
+      20,
+      20,
+      20,
+      20,
+      25,
+      25,
+      30
+    ],
+    "search": {
+      "id": "JVdY989Fl",
+      "complexity": 18,
+      "total": 70
+    },
     "builds": 2,
     "mods": [
       {
@@ -2963,6 +3150,24 @@
   {
     "item": "Sadima's Touch",
     "stats": "#% increased attack speed",
+    "average": 11.5,
+    "prices": [
+      4,
+      8,
+      9,
+      10,
+      10,
+      10,
+      10,
+      15,
+      19,
+      20
+    ],
+    "search": {
+      "id": "2Gb6JDdtk",
+      "complexity": 19,
+      "total": 76
+    },
     "builds": 2,
     "mods": [
       {
@@ -2977,6 +3182,24 @@
   {
     "item": "Sadima's Touch",
     "stats": "#% increased cast speed",
+    "average": 7.9,
+    "prices": [
+      5,
+      5,
+      5,
+      5,
+      9,
+      10,
+      10,
+      10,
+      10,
+      10
+    ],
+    "search": {
+      "id": "K9gKZ2RC5",
+      "complexity": 18,
+      "total": 42
+    },
     "builds": 2,
     "mods": [
       {
@@ -2990,6 +3213,24 @@
   {
     "item": "Sadima's Touch",
     "stats": "#% increased maximum energy shield",
+    "average": 16.8,
+    "prices": [
+      8,
+      10,
+      10,
+      20,
+      20,
+      20,
+      20,
+      20,
+      20,
+      20
+    ],
+    "search": {
+      "id": "PdDK4Y7iL",
+      "complexity": 18,
+      "total": 24
+    },
     "builds": 2,
     "mods": [
       {
@@ -3003,6 +3244,13 @@
   {
     "item": "Perandus Blazon",
     "stats": "#% increased rarity of items found, zealotry has #% increased aura effect",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "LmonEMVhn",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 2,
     "mods": [
       {
