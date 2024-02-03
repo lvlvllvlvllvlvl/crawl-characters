@@ -17324,6 +17324,19 @@
   {
     "item": "Dissolution of the Flesh",
     "stats": "damage penetrates #% elemental resistances",
+    "average": 176.706,
+    "prices": [
+      100,
+      142.46,
+      142.46,
+      213.69,
+      284.92
+    ],
+    "search": {
+      "id": "vlqGP3BTE",
+      "complexity": 18,
+      "total": 5
+    },
     "builds": 1,
     "mods": [
       {
@@ -17337,6 +17350,24 @@
   {
     "item": "Might of the Meek",
     "stats": "#% reduced effect of chill on you",
+    "average": 60.39200000000001,
+    "prices": [
+      10,
+      10,
+      20,
+      20,
+      30,
+      50,
+      79,
+      100,
+      142.46,
+      142.46
+    ],
+    "search": {
+      "id": "pXEoybbH0",
+      "complexity": 18,
+      "total": 16
+    },
     "builds": 1,
     "mods": [
       {
@@ -17350,6 +17381,24 @@
   {
     "item": "Might of the Meek",
     "stats": "damage penetrates #% lightning resistance",
+    "average": 27.90625,
+    "prices": [
+      9,
+      10,
+      14.25,
+      15,
+      20,
+      30,
+      60,
+      65,
+      100,
+      142.46
+    ],
+    "search": {
+      "id": "lXODXjrhV",
+      "complexity": 19,
+      "total": 12
+    },
     "builds": 1,
     "mods": [
       {
@@ -17364,6 +17413,24 @@
   {
     "item": "Might of the Meek",
     "stats": "#% increased global critical strike chance",
+    "average": 57.9,
+    "prices": [
+      10,
+      15,
+      20,
+      35,
+      50,
+      70,
+      80,
+      99,
+      100,
+      100
+    ],
+    "search": {
+      "id": "3Gw30nJU5",
+      "complexity": 18,
+      "total": 15
+    },
     "builds": 1,
     "mods": [
       {
@@ -17377,6 +17444,24 @@
   {
     "item": "Might of the Meek",
     "stats": "#% increased effect of non-damaging ailments",
+    "average": 33.666666666666664,
+    "prices": [
+      8,
+      15,
+      20,
+      30,
+      40,
+      40,
+      50,
+      50,
+      50,
+      100
+    ],
+    "search": {
+      "id": "qXjDDjWfg",
+      "complexity": 18,
+      "total": 18
+    },
     "builds": 1,
     "mods": [
       {
@@ -17390,6 +17475,23 @@
   {
     "item": "Might of the Meek",
     "stats": "you cannot be maimed",
+    "average": 75.09,
+    "prices": [
+      15,
+      25,
+      45,
+      50,
+      40.8,
+      140,
+      142.46,
+      142.46,
+      997.22
+    ],
+    "search": {
+      "id": "lXJV8VrhV",
+      "complexity": 18,
+      "total": 9
+    },
     "builds": 1,
     "mods": [
       {
@@ -17403,6 +17505,24 @@
   {
     "item": "Might of the Meek",
     "stats": "you cannot be cursed with silence",
+    "average": 13.571428571428571,
+    "prices": [
+      8,
+      9,
+      10,
+      15,
+      15,
+      18,
+      20,
+      27,
+      40,
+      67
+    ],
+    "search": {
+      "id": "BGrV83KC8",
+      "complexity": 18,
+      "total": 19
+    },
     "builds": 1,
     "mods": [
       {
@@ -17416,6 +17536,24 @@
   {
     "item": "Might of the Meek",
     "stats": "you cannot be hindered",
+    "average": 20.53125,
+    "prices": [
+      10,
+      10,
+      14.25,
+      15,
+      20,
+      30,
+      30,
+      35,
+      50,
+      142.46
+    ],
+    "search": {
+      "id": "RVBXglWU7",
+      "complexity": 18,
+      "total": 16
+    },
     "builds": 1,
     "mods": [
       {
@@ -17429,6 +17567,13 @@
   {
     "item": "Gifts from Above",
     "stats": "#% increased strength, #% increased dexterity, #% increased cast speed",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "QVYWQVjTw",
+      "complexity": 20,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -17454,6 +17599,24 @@
   {
     "item": "Doppelgänger Guise",
     "stats": "+# to level of socketed gems",
+    "average": 1200.7342857142855,
+    "prices": [
+      284.92,
+      427.38,
+      427.38,
+      1282.14,
+      1709.52,
+      2136.9,
+      2136.9,
+      4986.1,
+      5698.400000000001,
+      11396.800000000001
+    ],
+    "search": {
+      "id": "JVdRZXasl",
+      "complexity": 18,
+      "total": 10
+    },
     "builds": 1,
     "mods": [
       {
@@ -17467,6 +17630,24 @@
   {
     "item": "Yoke of Suffering",
     "stats": "hatred has #% increased aura effect",
+    "average": 68,
+    "prices": [
+      20,
+      25,
+      40,
+      60,
+      65,
+      80,
+      80,
+      100,
+      100,
+      110
+    ],
+    "search": {
+      "id": "yrJvMDrsR",
+      "complexity": 18,
+      "total": 33
+    },
     "builds": 1,
     "mods": [
       {
@@ -17480,6 +17661,18 @@
   {
     "item": "The Red Dream",
     "stats": "#% reduced effect of curses on you",
+    "average": 94.15333333333335,
+    "prices": [
+      40,
+      100,
+      142.46,
+      712.3000000000001
+    ],
+    "search": {
+      "id": "MV5koWLsJ",
+      "complexity": 18,
+      "total": 4
+    },
     "builds": 1,
     "mods": [
       {
@@ -17493,6 +17686,24 @@
   {
     "item": "Corpsewalker",
     "stats": "+# to maximum endurance charges",
+    "average": 441.62600000000003,
+    "prices": [
+      284.92,
+      284.92,
+      427.38,
+      427.38,
+      427.38,
+      427.38,
+      427.38,
+      569.84,
+      569.84,
+      569.84
+    ],
+    "search": {
+      "id": "lXjqDv6hV",
+      "complexity": 18,
+      "total": 25
+    },
     "builds": 1,
     "mods": [
       {
@@ -17506,6 +17717,24 @@
   {
     "item": "Corpsewalker",
     "stats": "+# to level of socketed aura gems",
+    "average": 235.05900000000003,
+    "prices": [
+      142.46,
+      142.46,
+      142.46,
+      213.69,
+      284.92,
+      284.92,
+      284.92,
+      284.92,
+      284.92,
+      284.92
+    ],
+    "search": {
+      "id": "rXjqaeMtQ",
+      "complexity": 18,
+      "total": 22
+    },
     "builds": 1,
     "mods": [
       {
@@ -17519,6 +17748,13 @@
   {
     "item": "Corpsewalker",
     "stats": "#% increased maximum energy shield, #% increased movement speed",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "OVDEg6VHE",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
