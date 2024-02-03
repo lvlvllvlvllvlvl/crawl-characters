@@ -13915,6 +13915,24 @@
   {
     "item": "Aegis Aurora",
     "stats": "#% of physical damage from hits taken as cold damage",
+    "average": 33,
+    "prices": [
+      15,
+      20,
+      20,
+      30,
+      30,
+      40,
+      40,
+      40,
+      45,
+      50
+    ],
+    "search": {
+      "id": "BGr0mYku8",
+      "complexity": 18,
+      "total": 66
+    },
     "builds": 1,
     "mods": [
       {
@@ -13928,6 +13946,13 @@
   {
     "item": "Aegis Aurora",
     "stats": "+# to level of socketed minion gems, +#% to maximum chance to block attack damage",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "gMZPeB2cQ",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -13947,6 +13972,24 @@
   {
     "item": "Aegis Aurora",
     "stats": "+# to level of socketed aoe gems",
+    "average": 32,
+    "prices": [
+      15,
+      15,
+      20,
+      20,
+      40,
+      40,
+      40,
+      40,
+      40,
+      50
+    ],
+    "search": {
+      "id": "v3mVvJJCE",
+      "complexity": 18,
+      "total": 51
+    },
     "builds": 1,
     "mods": [
       {
@@ -13960,6 +14003,24 @@
   {
     "item": "Aegis Aurora",
     "stats": "#% of physical damage from hits taken as fire damage",
+    "average": 25.333333333333332,
+    "prices": [
+      20,
+      20,
+      20,
+      20,
+      25,
+      28,
+      30,
+      30,
+      35,
+      40
+    ],
+    "search": {
+      "id": "lXjXX7kcV",
+      "complexity": 18,
+      "total": 63
+    },
     "builds": 1,
     "mods": [
       {
@@ -13973,6 +14034,13 @@
   {
     "item": "Aegis Aurora",
     "stats": "+# to level of socketed duration gems, #% reduced damage taken from projectile hits",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "VMgRqawsp",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -13992,6 +14060,13 @@
   {
     "item": "Seven-League Step",
     "stats": "+# to level of socketed aura gems, #% increased maximum life",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "YVEoYy6UY",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -14011,6 +14086,24 @@
   {
     "item": "Seven-League Step",
     "stats": "+#% chance to suppress spell damage",
+    "average": 32,
+    "prices": [
+      20,
+      20,
+      25,
+      30,
+      30,
+      30,
+      30,
+      35,
+      50,
+      50
+    ],
+    "search": {
+      "id": "8av99q8IV",
+      "complexity": 19,
+      "total": 19
+    },
     "builds": 1,
     "mods": [
       {
@@ -14025,6 +14118,15 @@
   {
     "item": "Invictus Solaris",
     "stats": "+# to level of socketed minion gems",
+    "average": 12005.599999999999,
+    "prices": [
+      12005.599999999999
+    ],
+    "search": {
+      "id": "jXR7WqltX",
+      "complexity": 18,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -14038,6 +14140,13 @@
   {
     "item": "Honourhome",
     "stats": "socketed skill gems get a #% cost & reservation multiplier, +# to maximum power charges",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "3Bb5QJ5i5",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -14057,6 +14166,16 @@
   {
     "item": "Machina Mitts",
     "stats": "curse enemies with enfeeble on hit",
+    "average": 615.28,
+    "prices": [
+      30,
+      1200.56
+    ],
+    "search": {
+      "id": "WV4WDGvum",
+      "complexity": 18,
+      "total": 2
+    },
     "builds": 1,
     "mods": [
       {
@@ -14070,6 +14189,19 @@
   {
     "item": "Machina Mitts",
     "stats": "curse enemies with elemental weakness on hit",
+    "average": 1530.714,
+    "prices": [
+      1050.49,
+      1500.6999999999998,
+      1500.6999999999998,
+      1800.84,
+      1800.84
+    ],
+    "search": {
+      "id": "0B8PL7bFg",
+      "complexity": 18,
+      "total": 5
+    },
     "builds": 1,
     "mods": [
       {
@@ -14083,6 +14215,13 @@
   {
     "item": "Machina Mitts",
     "stats": "#% increased maximum life, +#% to spell critical strike chance",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "RVYKX9qi7",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -14102,6 +14241,13 @@
   {
     "item": "Lioneye's Vision",
     "stats": "+# to level of socketed aoe gems, +# to level of socketed projectile gems",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "bX3yDrDuL",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -14121,6 +14267,13 @@
   {
     "item": "Perseverance",
     "stats": "+#% to critical strike multiplier during any flask effect, pride has #% increased aura effect",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "jXZK0QZTX",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -14140,6 +14293,24 @@
   {
     "item": "Perseverance",
     "stats": "determination has #% increased aura effect",
+    "average": 33.125,
+    "prices": [
+      10,
+      20,
+      25,
+      30,
+      30,
+      40,
+      50,
+      60,
+      90,
+      100
+    ],
+    "search": {
+      "id": "8ae6mr8iV",
+      "complexity": 18,
+      "total": 23
+    },
     "builds": 1,
     "mods": [
       {
