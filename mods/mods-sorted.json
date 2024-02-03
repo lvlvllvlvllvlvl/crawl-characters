@@ -5067,6 +5067,13 @@
   {
     "item": "The Torrent's Reclamation",
     "stats": "#% increased strength, #% increased dexterity, #% increased maximum life",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "KJOkOXyU5",
+      "complexity": 20,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -5092,6 +5099,13 @@
   {
     "item": "The Torrent's Reclamation",
     "stats": "#% increased maximum energy shield, #% increased critical strike chance during any flask effect",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "eXWvZrnFL",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -5111,6 +5125,13 @@
   {
     "item": "The Torrent's Reclamation",
     "stats": "#% increased strength, #% increased intelligence, #% increased maximum energy shield",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "KJB87pPi5",
+      "complexity": 20,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -5136,6 +5157,16 @@
   {
     "item": "The Torrent's Reclamation",
     "stats": "#% increased strength, #% increased dexterity, #% increased skill effect duration",
+    "average": 559.84,
+    "prices": [
+      419.88,
+      699.8000000000001
+    ],
+    "search": {
+      "id": "6ZpE6n2iG",
+      "complexity": 20,
+      "total": 2
+    },
     "builds": 1,
     "mods": [
       {
@@ -5161,6 +5192,24 @@
   {
     "item": "Heatshiver",
     "stats": "#% increased effect of cold ailments",
+    "average": 12.8,
+    "prices": [
+      5,
+      9,
+      10,
+      10,
+      10,
+      10,
+      15,
+      19,
+      20,
+      20
+    ],
+    "search": {
+      "id": "4drzQXgt9",
+      "complexity": 18,
+      "total": 78
+    },
     "builds": 1,
     "mods": [
       {
@@ -5174,6 +5223,13 @@
   {
     "item": "Heatshiver",
     "stats": "+# to level of socketed duration gems, #% increased maximum life",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "kXjobJQh5",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -5193,6 +5249,13 @@
   {
     "item": "Heatshiver",
     "stats": "+# to level of socketed projectile gems, #% increased maximum life",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "gXDZdRgUQ",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -5212,6 +5275,24 @@
   {
     "item": "Heatshiver",
     "stats": "#% increased effect of shock",
+    "average": 25.9,
+    "prices": [
+      5,
+      10,
+      20,
+      25,
+      25,
+      30,
+      30,
+      30,
+      40,
+      44
+    ],
+    "search": {
+      "id": "KJLypO6i5",
+      "complexity": 18,
+      "total": 33
+    },
     "builds": 1,
     "mods": [
       {
@@ -5225,6 +5306,13 @@
   {
     "item": "Heatshiver",
     "stats": "+# to level of socketed duration gems, +# to level of socketed aoe gems",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "MvRLBlGcJ",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -5244,6 +5332,24 @@
   {
     "item": "Heatshiver",
     "stats": "#% of lightning damage leeched as life",
+    "average": 24.5,
+    "prices": [
+      5,
+      15,
+      20,
+      20,
+      20,
+      20,
+      30,
+      35,
+      40,
+      40
+    ],
+    "search": {
+      "id": "pXkjkjvT0",
+      "complexity": 19,
+      "total": 44
+    },
     "builds": 1,
     "mods": [
       {
@@ -5258,6 +5364,24 @@
   {
     "item": "Lightning Coil",
     "stats": "+#% to all maximum resistances",
+    "average": 27.666666666666668,
+    "prices": [
+      4,
+      15,
+      20,
+      20,
+      25,
+      30,
+      30,
+      30,
+      39,
+      40
+    ],
+    "search": {
+      "id": "80Z0zlZcV",
+      "complexity": 18,
+      "total": 122
+    },
     "builds": 1,
     "mods": [
       {
@@ -5271,6 +5395,24 @@
   {
     "item": "Lightning Coil",
     "stats": "+# to level of socketed gems",
+    "average": 276.8097777777778,
+    "prices": [
+      209.94,
+      265.924,
+      265.924,
+      279.92,
+      279.92,
+      279.92,
+      279.92,
+      279.92,
+      279.92,
+      279.92
+    ],
+    "search": {
+      "id": "2BrQXgYFk",
+      "complexity": 18,
+      "total": 205
+    },
     "builds": 1,
     "mods": [
       {
@@ -5284,6 +5426,24 @@
   {
     "item": "Lightning Coil",
     "stats": "#% additional physical damage reduction while stationary",
+    "average": 35.1,
+    "prices": [
+      12,
+      20,
+      20,
+      29,
+      30,
+      35,
+      40,
+      50,
+      55,
+      60
+    ],
+    "search": {
+      "id": "6ZBDYWkFG",
+      "complexity": 18,
+      "total": 105
+    },
     "builds": 1,
     "mods": [
       {
@@ -5297,6 +5457,20 @@
   {
     "item": "Lightning Coil",
     "stats": "+# to level of socketed aoe gems, +# to level of socketed projectile gems",
+    "average": 58503.27999999999,
+    "prices": [
+      50385.600000000006,
+      54584.4,
+      60182.8,
+      60182.8,
+      67180.8,
+      248481.885
+    ],
+    "search": {
+      "id": "zeBjrpvH4",
+      "complexity": 29,
+      "total": 6
+    },
     "builds": 1,
     "mods": [
       {
@@ -5316,6 +5490,24 @@
   {
     "item": "Lightning Coil",
     "stats": "+# to level of socketed duration gems",
+    "average": 51.9,
+    "prices": [
+      10,
+      30,
+      30,
+      40,
+      49,
+      50,
+      75,
+      75,
+      80,
+      80
+    ],
+    "search": {
+      "id": "waPeM2jtb",
+      "complexity": 18,
+      "total": 166
+    },
     "builds": 1,
     "mods": [
       {
