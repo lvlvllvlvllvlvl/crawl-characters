@@ -4178,6 +4178,24 @@
   {
     "item": "Headhunter",
     "stats": "#% increased dexterity, #% increased intelligence",
+    "average": 12579.738888888889,
+    "prices": [
+      6779.5,
+      8813.35,
+      9491.300000000001,
+      10847.2,
+      12203.1,
+      13559,
+      13559,
+      14914.9,
+      14914.9,
+      14914.9
+    ],
+    "search": {
+      "id": "DL85jL7H5",
+      "complexity": 29,
+      "total": 19
+    },
     "builds": 2,
     "mods": [
       {
@@ -4197,6 +4215,15 @@
   {
     "item": "The Fledgling",
     "stats": "+# to maximum power charges",
+    "average": 9491.300000000001,
+    "prices": [
+      9491.300000000001
+    ],
+    "search": {
+      "id": "dXWYGdqFJ",
+      "complexity": 18,
+      "total": 1
+    },
     "builds": 2,
     "mods": [
       {
@@ -4210,6 +4237,21 @@
   {
     "item": "Primordial Harmony",
     "stats": "#% increased reservation efficiency of skills",
+    "average": 542.36,
+    "prices": [
+      406.77,
+      542.36,
+      542.36,
+      542.36,
+      677.95,
+      949.13,
+      1627.08
+    ],
+    "search": {
+      "id": "vlP9nqJuE",
+      "complexity": 19,
+      "total": 7
+    },
     "builds": 2,
     "mods": [
       {
@@ -4224,6 +4266,24 @@
   {
     "item": "Viridi's Veil",
     "stats": "+# to level of socketed aoe gems",
+    "average": 135.59,
+    "prices": [
+      80,
+      150,
+      135.59,
+      135.59,
+      135.59,
+      135.59,
+      135.59,
+      135.59,
+      271.18,
+      406.77
+    ],
+    "search": {
+      "id": "BEJGbe4T8",
+      "complexity": 18,
+      "total": 13
+    },
     "builds": 2,
     "mods": [
       {
@@ -4237,6 +4297,13 @@
   {
     "item": "Oskarm",
     "stats": "+# to level of socketed trap or mine gems, curse enemies with vulnerability on hit",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "WVrvPVDum",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -4256,6 +4323,15 @@
   {
     "item": "Oskarm",
     "stats": "curse enemies with vulnerability on hit, attacks have +#% to critical strike chance",
+    "average": 2711.8,
+    "prices": [
+      2711.8
+    ],
+    "search": {
+      "id": "qX42qr3Cg",
+      "complexity": 29,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -4275,6 +4351,24 @@
   {
     "item": "Oskarm",
     "stats": "attacks have +#% to critical strike chance",
+    "average": 78.677,
+    "prices": [
+      10,
+      20,
+      20,
+      50,
+      80,
+      100,
+      100,
+      135.59,
+      135.59,
+      135.59
+    ],
+    "search": {
+      "id": "rXpPWX7CQ",
+      "complexity": 18,
+      "total": 25
+    },
     "builds": 1,
     "mods": [
       {
@@ -4288,6 +4382,21 @@
   {
     "item": "Redblade Banner",
     "stats": "you take #% reduced extra damage from critical strikes",
+    "average": 8022.408333333333,
+    "prices": [
+      2711.8,
+      6101.55,
+      6779.5,
+      6779.5,
+      12203.1,
+      13559,
+      67795
+    ],
+    "search": {
+      "id": "BEJKXnjC8",
+      "complexity": 18,
+      "total": 7
+    },
     "builds": 1,
     "mods": [
       {
@@ -4301,6 +4410,24 @@
   {
     "item": "Redblade Banner",
     "stats": "#% increased maximum life",
+    "average": 1973.5877777777778,
+    "prices": [
+      135.59,
+      813.54,
+      949.13,
+      1084.72,
+      2033.8500000000001,
+      2711.8,
+      2711.8,
+      3254.16,
+      4067.7000000000003,
+      11525.15
+    ],
+    "search": {
+      "id": "2BrB85dsk",
+      "complexity": 18,
+      "total": 10
+    },
     "builds": 1,
     "mods": [
       {
@@ -4314,6 +4441,22 @@
   {
     "item": "Redblade Banner",
     "stats": "#% of physical damage from hits taken as cold damage",
+    "average": 1181.57,
+    "prices": [
+      406.77,
+      677.95,
+      949.13,
+      1084.72,
+      1491.49,
+      1762.67,
+      1898.26,
+      4745.650000000001
+    ],
+    "search": {
+      "id": "5okog5mFa",
+      "complexity": 18,
+      "total": 8
+    },
     "builds": 1,
     "mods": [
       {
@@ -4327,6 +4470,24 @@
   {
     "item": "Watcher's Eye",
     "stats": "damage penetrates #% lightning resistance",
+    "average": 135.59,
+    "prices": [
+      100,
+      100,
+      122.031,
+      135.59,
+      135.59,
+      135.59,
+      135.59,
+      135.59,
+      135.59,
+      135.59
+    ],
+    "search": {
+      "id": "6ZbVbrXIG",
+      "complexity": 19,
+      "total": 28
+    },
     "builds": 1,
     "mods": [
       {
@@ -4341,6 +4502,24 @@
   {
     "item": "Watcher's Eye",
     "stats": "#% reduced effect of chill on you",
+    "average": 123.72666666666669,
+    "prices": [
+      80,
+      100,
+      100,
+      100,
+      135.59,
+      135.59,
+      135.59,
+      135.59,
+      135.59,
+      135.59
+    ],
+    "search": {
+      "id": "Zb5baJRTQ",
+      "complexity": 18,
+      "total": 28
+    },
     "builds": 1,
     "mods": [
       {
@@ -4354,6 +4533,13 @@
   {
     "item": "Watcher's Eye",
     "stats": "#% increased global critical strike chance, #% reduced poison duration on you",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "vlEXWkjHE",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -4373,6 +4559,24 @@
   {
     "item": "Watcher's Eye",
     "stats": "minions deal #% increased damage",
+    "average": 121.60787500000002,
+    "prices": [
+      100,
+      100,
+      122.031,
+      122.031,
+      122.031,
+      135.59,
+      135.59,
+      135.59,
+      203.385,
+      271.18
+    ],
+    "search": {
+      "id": "8a24E4qsV",
+      "complexity": 18,
+      "total": 27
+    },
     "builds": 1,
     "mods": [
       {
@@ -4386,6 +4590,13 @@
   {
     "item": "Vaal Caress",
     "stats": "+# to level of socketed duration gems, +# to level of socketed aura gems",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "yrJ0p7rhR",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
