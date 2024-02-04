@@ -17300,6 +17300,15 @@
   {
     "item": "Dissolution of the Flesh",
     "stats": "damage penetrates #% elemental resistances",
+    "average": 100,
+    "prices": [
+      100
+    ],
+    "search": {
+      "id": "vlqGP3BTE",
+      "complexity": 18,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -17313,6 +17322,23 @@
   {
     "item": "Might of the Meek",
     "stats": "#% reduced effect of chill on you",
+    "average": 30,
+    "prices": [
+      10,
+      10,
+      20,
+      30,
+      30,
+      50,
+      60,
+      142.46,
+      1096.942
+    ],
+    "search": {
+      "id": "pXEoybbH0",
+      "complexity": 18,
+      "total": 9
+    },
     "builds": 1,
     "mods": [
       {
@@ -17326,6 +17352,24 @@
   {
     "item": "Might of the Meek",
     "stats": "damage penetrates #% lightning resistance",
+    "average": 50.55555555555556,
+    "prices": [
+      10,
+      10,
+      35,
+      40,
+      50,
+      50,
+      60,
+      100,
+      100,
+      284.92
+    ],
+    "search": {
+      "id": "lXODXjrhV",
+      "complexity": 19,
+      "total": 11
+    },
     "builds": 1,
     "mods": [
       {
@@ -17340,6 +17384,18 @@
   {
     "item": "Might of the Meek",
     "stats": "#% increased global critical strike chance",
+    "average": 142.46,
+    "prices": [
+      80,
+      142.46,
+      142.46,
+      427.38
+    ],
+    "search": {
+      "id": "3Gw30nJU5",
+      "complexity": 18,
+      "total": 4
+    },
     "builds": 1,
     "mods": [
       {
@@ -17353,6 +17409,24 @@
   {
     "item": "Might of the Meek",
     "stats": "#% increased effect of non-damaging ailments",
+    "average": 78.49000000000001,
+    "prices": [
+      15,
+      20,
+      50,
+      78,
+      80,
+      100,
+      142.46,
+      142.46,
+      356.15000000000003,
+      427.38
+    ],
+    "search": {
+      "id": "qXjDDjWfg",
+      "complexity": 18,
+      "total": 12
+    },
     "builds": 1,
     "mods": [
       {
@@ -17366,6 +17440,24 @@
   {
     "item": "Might of the Meek",
     "stats": "you cannot be maimed",
+    "average": 112.78750000000002,
+    "prices": [
+      20,
+      30,
+      140,
+      142.46,
+      142.46,
+      142.46,
+      142.46,
+      142.46,
+      284.92,
+      427.38
+    ],
+    "search": {
+      "id": "lXJV8VrhV",
+      "complexity": 18,
+      "total": 10
+    },
     "builds": 1,
     "mods": [
       {
@@ -17379,6 +17471,24 @@
   {
     "item": "Might of the Meek",
     "stats": "you cannot be cursed with silence",
+    "average": 76.23800000000001,
+    "prices": [
+      15,
+      15,
+      15,
+      20,
+      40,
+      80,
+      150,
+      142.46,
+      142.46,
+      142.46
+    ],
+    "search": {
+      "id": "BGrV83KC8",
+      "complexity": 18,
+      "total": 14
+    },
     "builds": 1,
     "mods": [
       {
@@ -17392,6 +17502,24 @@
   {
     "item": "Might of the Meek",
     "stats": "you cannot be hindered",
+    "average": 18.221249999999998,
+    "prices": [
+      5,
+      10,
+      10.77,
+      15,
+      20,
+      20,
+      30,
+      35,
+      78,
+      90
+    ],
+    "search": {
+      "id": "RVBXglWU7",
+      "complexity": 18,
+      "total": 16
+    },
     "builds": 1,
     "mods": [
       {
@@ -17405,6 +17533,15 @@
   {
     "item": "Gifts from Above",
     "stats": "#% increased strength, #% increased dexterity, #% increased cast speed",
+    "average": 142.46,
+    "prices": [
+      142.46
+    ],
+    "search": {
+      "id": "QVYWQVjTw",
+      "complexity": 20,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -17430,6 +17567,16 @@
   {
     "item": "Doppelgänger Guise",
     "stats": "+# to level of socketed gems",
+    "average": 6054.55,
+    "prices": [
+      4986.1,
+      7123
+    ],
+    "search": {
+      "id": "JVdRZXasl",
+      "complexity": 18,
+      "total": 2
+    },
     "builds": 1,
     "mods": [
       {
@@ -17443,6 +17590,24 @@
   {
     "item": "Yoke of Suffering",
     "stats": "hatred has #% increased aura effect",
+    "average": 127.48666666666668,
+    "prices": [
+      40,
+      80,
+      100,
+      100,
+      110,
+      150,
+      180,
+      142.46,
+      142.46,
+      142.46
+    ],
+    "search": {
+      "id": "yrJvMDrsR",
+      "complexity": 18,
+      "total": 31
+    },
     "builds": 1,
     "mods": [
       {
@@ -17456,6 +17621,15 @@
   {
     "item": "The Red Dream",
     "stats": "#% reduced effect of curses on you",
+    "average": 40,
+    "prices": [
+      40
+    ],
+    "search": {
+      "id": "MV5koWLsJ",
+      "complexity": 18,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -17469,6 +17643,23 @@
   {
     "item": "Corpsewalker",
     "stats": "+# to maximum endurance charges",
+    "average": 468.0828571428572,
+    "prices": [
+      284.92,
+      284.92,
+      427.38,
+      427.38,
+      569.84,
+      569.84,
+      712.3000000000001,
+      1282.14,
+      11966.640000000001
+    ],
+    "search": {
+      "id": "lXjqDv6hV",
+      "complexity": 18,
+      "total": 9
+    },
     "builds": 1,
     "mods": [
       {
@@ -17482,6 +17673,24 @@
   {
     "item": "Corpsewalker",
     "stats": "+# to level of socketed aura gems",
+    "average": 351.90400000000005,
+    "prices": [
+      100,
+      142.46,
+      142.46,
+      284.92,
+      284.92,
+      284.92,
+      427.38,
+      569.84,
+      569.84,
+      712.3000000000001
+    ],
+    "search": {
+      "id": "rXjqaeMtQ",
+      "complexity": 18,
+      "total": 15
+    },
     "builds": 1,
     "mods": [
       {
@@ -17495,6 +17704,13 @@
   {
     "item": "Corpsewalker",
     "stats": "#% increased maximum energy shield, #% increased movement speed",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "OVDEg6VHE",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
