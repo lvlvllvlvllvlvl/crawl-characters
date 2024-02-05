@@ -13366,6 +13366,15 @@
   {
     "item": "Hrimsorrow",
     "stats": "+# to level of socketed minion gems, +# to maximum frenzy charges",
+    "average": 100,
+    "prices": [
+      100
+    ],
+    "search": {
+      "id": "gXnmRZgFQ",
+      "complexity": 29,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -13385,6 +13394,16 @@
   {
     "item": "Natural Affinity",
     "stats": "minions deal #% increased damage",
+    "average": 107.515,
+    "prices": [
+      80,
+      135.03
+    ],
+    "search": {
+      "id": "nXy7VgJH0",
+      "complexity": 18,
+      "total": 2
+    },
     "builds": 1,
     "mods": [
       {
@@ -13398,6 +13417,13 @@
   {
     "item": "Natural Affinity",
     "stats": "corrupted blood cannot be inflicted on you",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "9qlqMQYsK",
+      "complexity": 18,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -13411,6 +13437,15 @@
   {
     "item": "The Green Dream",
     "stats": "minions deal #% increased damage",
+    "average": 135.03,
+    "prices": [
+      135.03
+    ],
+    "search": {
+      "id": "BEDM6KXH8",
+      "complexity": 18,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -13424,6 +13459,24 @@
   {
     "item": "Zeel's Amplifier",
     "stats": "+# to level of socketed gems",
+    "average": 94.01199999999999,
+    "prices": [
+      25,
+      25,
+      70,
+      80,
+      100,
+      100,
+      135.03,
+      135.03,
+      135.03,
+      135.03
+    ],
+    "search": {
+      "id": "4qnPaPvC9",
+      "complexity": 18,
+      "total": 13
+    },
     "builds": 1,
     "mods": [
       {
@@ -13437,6 +13490,19 @@
   {
     "item": "Zeel's Amplifier",
     "stats": "+# to level of socketed aoe gems",
+    "average": 135.03,
+    "prices": [
+      50,
+      140,
+      135.03,
+      135.03,
+      270.06
+    ],
+    "search": {
+      "id": "Zb4Eb8mHQ",
+      "complexity": 18,
+      "total": 5
+    },
     "builds": 1,
     "mods": [
       {
@@ -13450,6 +13516,15 @@
   {
     "item": "Zeel's Amplifier",
     "stats": "+# to level of socketed gems, #% of physical damage from hits taken as lightning damage",
+    "average": 80,
+    "prices": [
+      80
+    ],
+    "search": {
+      "id": "2BrRVbeUk",
+      "complexity": 29,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -13469,6 +13544,13 @@
   {
     "item": "Zeel's Amplifier",
     "stats": "+# to level of socketed aoe gems, you take #% reduced extra damage from critical strikes",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "8qB66P8UV",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -13488,6 +13570,13 @@
   {
     "item": "Black Sun Crest",
     "stats": "socketed skill gems get a #% cost & reservation multiplier, cannot be blinded",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "BEQP07Wf8",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -13507,6 +13596,16 @@
   {
     "item": "Tanu Ahi",
     "stats": "+# to level of socketed duration gems, attacks have +#% to critical strike chance",
+    "average": 12.5,
+    "prices": [
+      10,
+      15
+    ],
+    "search": {
+      "id": "Pd5D2mmiL",
+      "complexity": 29,
+      "total": 2
+    },
     "builds": 1,
     "mods": [
       {
@@ -13526,6 +13625,13 @@
   {
     "item": "Tanu Ahi",
     "stats": "curse enemies with enfeeble on hit, attacks have +#% to critical strike chance",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "Rqr6WzBH7",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -13545,6 +13651,24 @@
   {
     "item": "Tanu Ahi",
     "stats": "curse enemies with vulnerability on hit",
+    "average": 121.34833333333331,
+    "prices": [
+      30,
+      60,
+      100,
+      100,
+      123,
+      135.03,
+      135.03,
+      135.03,
+      270.06,
+      472.605
+    ],
+    "search": {
+      "id": "8a2a76MiV",
+      "complexity": 18,
+      "total": 15
+    },
     "builds": 1,
     "mods": [
       {
@@ -13558,6 +13682,24 @@
   {
     "item": "Tanu Ahi",
     "stats": "attacks have +#% to critical strike chance",
+    "average": 51.875,
+    "prices": [
+      10,
+      15,
+      40,
+      40,
+      60,
+      70,
+      80,
+      100,
+      160,
+      180
+    ],
+    "search": {
+      "id": "nXJBg42T0",
+      "complexity": 18,
+      "total": 22
+    },
     "builds": 1,
     "mods": [
       {
@@ -13571,6 +13713,24 @@
   {
     "item": "Tanu Ahi",
     "stats": "curse enemies with enfeeble on hit",
+    "average": 73.7575,
+    "prices": [
+      20,
+      20,
+      30,
+      50,
+      100,
+      100,
+      135.03,
+      135.03,
+      202.54500000000002,
+      270.06
+    ],
+    "search": {
+      "id": "2BWwdYGsk",
+      "complexity": 18,
+      "total": 14
+    },
     "builds": 1,
     "mods": [
       {
@@ -13584,6 +13744,24 @@
   {
     "item": "Aegis Aurora",
     "stats": "+# to level of socketed gems",
+    "average": 54.3,
+    "prices": [
+      25,
+      40,
+      40,
+      50,
+      50,
+      50,
+      60,
+      70,
+      78,
+      80
+    ],
+    "search": {
+      "id": "80Z8EzGsV",
+      "complexity": 18,
+      "total": 53
+    },
     "builds": 1,
     "mods": [
       {
