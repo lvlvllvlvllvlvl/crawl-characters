@@ -6896,6 +6896,17 @@
   {
     "item": "Victario's Influence",
     "stats": "+# to level of socketed trap or mine gems, #% increased maximum life",
+    "average": 80.49333333333333,
+    "prices": [
+      30,
+      80,
+      131.48
+    ],
+    "search": {
+      "id": "OVaB4MgHE",
+      "complexity": 29,
+      "total": 3
+    },
     "builds": 1,
     "mods": [
       {
@@ -6915,6 +6926,15 @@
   {
     "item": "Victario's Influence",
     "stats": "+# to level of socketed aoe gems, #% reduced chaos damage taken",
+    "average": 100,
+    "prices": [
+      100
+    ],
+    "search": {
+      "id": "rXOPGLguQ",
+      "complexity": 29,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -6934,6 +6954,15 @@
   {
     "item": "Victario's Influence",
     "stats": "+# to level of socketed aura gems, #% increased maximum energy shield",
+    "average": 25,
+    "prices": [
+      25
+    ],
+    "search": {
+      "id": "4dvYZDwH9",
+      "complexity": 29,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -6953,6 +6982,20 @@
   {
     "item": "Victario's Influence",
     "stats": "+# to level of socketed aoe gems, +# to level of socketed minion gems",
+    "average": 88.59200000000001,
+    "prices": [
+      50,
+      50,
+      80,
+      131.48,
+      131.48,
+      309943.22
+    ],
+    "search": {
+      "id": "jXJDMgZTX",
+      "complexity": 29,
+      "total": 6
+    },
     "builds": 1,
     "mods": [
       {
@@ -6972,6 +7015,18 @@
   {
     "item": "Victario's Influence",
     "stats": "+# to level of socketed duration gems, +# to level of socketed curse gems",
+    "average": 131.48,
+    "prices": [
+      30,
+      100,
+      131.48,
+      131.48
+    ],
+    "search": {
+      "id": "3BZyPOdi5",
+      "complexity": 29,
+      "total": 4
+    },
     "builds": 1,
     "mods": [
       {
@@ -6991,6 +7046,18 @@
   {
     "item": "Victario's Influence",
     "stats": "+# to level of socketed aoe gems, +# to level of socketed projectile gems",
+    "average": 60,
+    "prices": [
+      50,
+      70,
+      788.8799999999999,
+      13016.519999999999
+    ],
+    "search": {
+      "id": "jXjEjJlHX",
+      "complexity": 29,
+      "total": 4
+    },
     "builds": 1,
     "mods": [
       {
@@ -7010,6 +7077,21 @@
   {
     "item": "Victario's Influence",
     "stats": "+# to level of socketed gems, #% additional physical damage reduction while stationary",
+    "average": 535.92,
+    "prices": [
+      20,
+      50,
+      131.48,
+      131.48,
+      1051.84,
+      1051.84,
+      1314.8
+    ],
+    "search": {
+      "id": "jXZZ5YRuX",
+      "complexity": 29,
+      "total": 7
+    },
     "builds": 1,
     "mods": [
       {
@@ -7029,6 +7111,24 @@
   {
     "item": "Shaper's Touch",
     "stats": "curse enemies with temporal chains on hit",
+    "average": 22.5,
+    "prices": [
+      20,
+      20,
+      20,
+      20,
+      20,
+      20,
+      20,
+      25,
+      30,
+      30
+    ],
+    "search": {
+      "id": "gXWRrJjhQ",
+      "complexity": 18,
+      "total": 40
+    },
     "builds": 1,
     "mods": [
       {
@@ -7042,6 +7142,24 @@
   {
     "item": "Shaper's Touch",
     "stats": "#% increased maximum energy shield",
+    "average": 27.4,
+    "prices": [
+      9,
+      15,
+      20,
+      20,
+      20,
+      20,
+      30,
+      40,
+      50,
+      50
+    ],
+    "search": {
+      "id": "VMgl2KlCp",
+      "complexity": 18,
+      "total": 44
+    },
     "builds": 1,
     "mods": [
       {
@@ -7055,6 +7173,16 @@
   {
     "item": "Bated Breath",
     "stats": "#% increased dexterity, #% increased intelligence, #% increased maximum energy shield",
+    "average": 197.21999999999997,
+    "prices": [
+      131.48,
+      262.96
+    ],
+    "search": {
+      "id": "7lKm9nlu5",
+      "complexity": 20,
+      "total": 2
+    },
     "builds": 1,
     "mods": [
       {
@@ -7080,6 +7208,24 @@
   {
     "item": "Bated Breath",
     "stats": "zealotry has #% increased aura effect",
+    "average": 80.5,
+    "prices": [
+      20,
+      20,
+      50,
+      60,
+      65,
+      80,
+      100,
+      130,
+      130,
+      150
+    ],
+    "search": {
+      "id": "gXDl2naFQ",
+      "complexity": 18,
+      "total": 16
+    },
     "builds": 1,
     "mods": [
       {
@@ -7093,6 +7239,24 @@
   {
     "item": "Bated Breath",
     "stats": "discipline has #% increased aura effect",
+    "average": 38.3,
+    "prices": [
+      10,
+      10,
+      20,
+      20,
+      30,
+      50,
+      50,
+      59,
+      65,
+      69
+    ],
+    "search": {
+      "id": "Ey6vgPVf5",
+      "complexity": 18,
+      "total": 24
+    },
     "builds": 1,
     "mods": [
       {
@@ -7106,6 +7270,24 @@
   {
     "item": "Bated Breath",
     "stats": "anger has #% increased aura effect",
+    "average": 66.7265,
+    "prices": [
+      20,
+      24,
+      30,
+      40,
+      50,
+      120,
+      118.332,
+      131.48,
+      276.108,
+      394.43999999999994
+    ],
+    "search": {
+      "id": "jXZk6lZCX",
+      "complexity": 18,
+      "total": 15
+    },
     "builds": 1,
     "mods": [
       {
@@ -7119,6 +7301,17 @@
   {
     "item": "Bated Breath",
     "stats": "wrath has #% increased aura effect, discipline has #% increased aura effect",
+    "average": 131.48,
+    "prices": [
+      50,
+      131.48,
+      131.48
+    ],
+    "search": {
+      "id": "lXqOl76IV",
+      "complexity": 29,
+      "total": 3
+    },
     "builds": 1,
     "mods": [
       {
@@ -7138,6 +7331,24 @@
   {
     "item": "Bated Breath",
     "stats": "#% increased maximum energy shield",
+    "average": 85.018,
+    "prices": [
+      10,
+      40,
+      50,
+      70,
+      65.74,
+      100,
+      120,
+      131.48,
+      131.48,
+      131.48
+    ],
+    "search": {
+      "id": "vlE0L09fE",
+      "complexity": 18,
+      "total": 17
+    },
     "builds": 1,
     "mods": [
       {
