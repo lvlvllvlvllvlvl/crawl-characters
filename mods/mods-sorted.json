@@ -16703,6 +16703,13 @@
   {
     "item": "Lori's Lantern",
     "stats": "#% increased strength, #% increased dexterity, discipline has #% increased aura effect",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "OV2q9b0TE",
+      "complexity": 20,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -16728,6 +16735,13 @@
   {
     "item": "Hyrri's Truth",
     "stats": "#% of fire damage leeched as life, you can apply an additional curse",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "9BZEZX8uK",
+      "complexity": 30,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -16748,6 +16762,24 @@
   {
     "item": "Hyrri's Truth",
     "stats": "#% increased movement speed",
+    "average": 102.79777777777778,
+    "prices": [
+      10,
+      15,
+      30,
+      30,
+      30,
+      135.03,
+      135.03,
+      270.06,
+      270.06,
+      405.09000000000003
+    ],
+    "search": {
+      "id": "y9E6RWBhR",
+      "complexity": 18,
+      "total": 12
+    },
     "builds": 1,
     "mods": [
       {
@@ -16761,6 +16793,24 @@
   {
     "item": "Rat's Nest",
     "stats": "socketed skill gems get a #% cost & reservation multiplier",
+    "average": 82.78444444444443,
+    "prices": [
+      15,
+      50,
+      50,
+      60,
+      100,
+      100,
+      100,
+      135.03,
+      135.03,
+      270.06
+    ],
+    "search": {
+      "id": "6ZDz0ZkcG",
+      "complexity": 18,
+      "total": 14
+    },
     "builds": 1,
     "mods": [
       {
@@ -16774,6 +16824,17 @@
   {
     "item": "Aurseize",
     "stats": "curse enemies with elemental weakness on hit",
+    "average": 270.06,
+    "prices": [
+      100,
+      270.06,
+      270.06
+    ],
+    "search": {
+      "id": "waPLQLRSb",
+      "complexity": 18,
+      "total": 3
+    },
     "builds": 1,
     "mods": [
       {
@@ -16787,6 +16848,16 @@
   {
     "item": "Rainbowstride",
     "stats": "+# to level of socketed aura gems",
+    "average": 117.515,
+    "prices": [
+      100,
+      135.03
+    ],
+    "search": {
+      "id": "RVBMBPZh7",
+      "complexity": 18,
+      "total": 2
+    },
     "builds": 1,
     "mods": [
       {
@@ -16800,6 +16871,20 @@
   {
     "item": "Rainbowstride",
     "stats": "+# to level of socketed duration gems",
+    "average": 50,
+    "prices": [
+      40,
+      50,
+      50,
+      100,
+      540.12,
+      6751.5
+    ],
+    "search": {
+      "id": "BEymZ6aI8",
+      "complexity": 18,
+      "total": 6
+    },
     "builds": 1,
     "mods": [
       {
@@ -16813,6 +16898,21 @@
   {
     "item": "Rainbowstride",
     "stats": "+# to level of socketed gems",
+    "average": 252.55500000000006,
+    "prices": [
+      30,
+      135.03,
+      135.03,
+      405.09000000000003,
+      405.09000000000003,
+      405.09000000000003,
+      1350.3
+    ],
+    "search": {
+      "id": "BEJE2YLC8",
+      "complexity": 18,
+      "total": 7
+    },
     "builds": 1,
     "mods": [
       {
@@ -16826,6 +16926,23 @@
   {
     "item": "Sign of the Sin Eater",
     "stats": "#% increased area of effect",
+    "average": 98.17166666666667,
+    "prices": [
+      40,
+      50,
+      100,
+      119,
+      145,
+      135.03,
+      270.06,
+      405.09000000000003,
+      675.15
+    ],
+    "search": {
+      "id": "rXjnOV7CQ",
+      "complexity": 18,
+      "total": 9
+    },
     "builds": 1,
     "mods": [
       {
@@ -16839,6 +16956,21 @@
   {
     "item": "The Magnate",
     "stats": "hatred has #% increased aura effect",
+    "average": 87.01199999999999,
+    "prices": [
+      25,
+      40,
+      100,
+      135.03,
+      135.03,
+      270.06,
+      931.7070000000001
+    ],
+    "search": {
+      "id": "RVBg6k4I7",
+      "complexity": 18,
+      "total": 7
+    },
     "builds": 1,
     "mods": [
       {
@@ -16852,6 +16984,22 @@
   {
     "item": "The Magnate",
     "stats": "+#% to all elemental resistances",
+    "average": 122.01199999999999,
+    "prices": [
+      30,
+      90,
+      110,
+      140,
+      135.03,
+      135.03,
+      931.7070000000001,
+      27006
+    ],
+    "search": {
+      "id": "mXjMRMeT6",
+      "complexity": 18,
+      "total": 8
+    },
     "builds": 1,
     "mods": [
       {
@@ -16865,6 +17013,24 @@
   {
     "item": "The Magnate",
     "stats": "+#% to critical strike multiplier during any flask effect",
+    "average": 84.44777777777777,
+    "prices": [
+      50,
+      50,
+      60,
+      60,
+      90,
+      95,
+      100,
+      120,
+      180,
+      135.03
+    ],
+    "search": {
+      "id": "y9RWXZ8IR",
+      "complexity": 18,
+      "total": 16
+    },
     "builds": 1,
     "mods": [
       {
@@ -16878,6 +17044,24 @@
   {
     "item": "Legacy of Fury",
     "stats": "#% increased movement speed",
+    "average": 590.6290000000001,
+    "prices": [
+      100,
+      135.03,
+      135.03,
+      135.03,
+      270.06,
+      405.09000000000003,
+      675.15,
+      1350.3,
+      1350.3,
+      1350.3
+    ],
+    "search": {
+      "id": "6Gqvl6XuG",
+      "complexity": 18,
+      "total": 10
+    },
     "builds": 1,
     "mods": [
       {
@@ -16891,6 +17075,21 @@
   {
     "item": "Marylene's Fallacy",
     "stats": "+#% to all maximum resistances",
+    "average": 102.10083333333331,
+    "prices": [
+      60,
+      80,
+      67.515,
+      135.03,
+      135.03,
+      135.03,
+      945.21
+    ],
+    "search": {
+      "id": "KJ7E63LU5",
+      "complexity": 18,
+      "total": 7
+    },
     "builds": 1,
     "mods": [
       {
@@ -16904,6 +17103,13 @@
   {
     "item": "Marylene's Fallacy",
     "stats": "+#% to all maximum resistances, malevolence has #% increased aura effect",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "nXqVBGyC0",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
