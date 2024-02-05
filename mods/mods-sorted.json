@@ -2801,6 +2801,13 @@
   {
     "item": "Dialla's Malefaction",
     "stats": "+# to level of socketed gems, +#% to all maximum resistances",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "Ey6M5KKC5",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 2,
     "mods": [
       {
@@ -2820,6 +2827,24 @@
   {
     "item": "Malachai's Loop",
     "stats": "#% of physical damage from hits taken as fire damage",
+    "average": 38.8,
+    "prices": [
+      30,
+      30,
+      30,
+      30,
+      39,
+      40,
+      44,
+      45,
+      50,
+      50
+    ],
+    "search": {
+      "id": "0BaGbKQhg",
+      "complexity": 18,
+      "total": 166
+    },
     "builds": 2,
     "mods": [
       {
@@ -2833,6 +2858,24 @@
   {
     "item": "Badge of the Brotherhood",
     "stats": "hatred has #% increased aura effect",
+    "average": 3839.4,
+    "prices": [
+      1535.76,
+      2303.64,
+      3199.5,
+      3583.44,
+      3839.4,
+      3839.4,
+      3839.4,
+      4095.36,
+      5119.2,
+      7678.8
+    ],
+    "search": {
+      "id": "Ey6w67Bh5",
+      "complexity": 18,
+      "total": 20
+    },
     "builds": 2,
     "mods": [
       {
@@ -2846,6 +2889,23 @@
   {
     "item": "Vixen's Entrapment",
     "stats": "+# to level of socketed aoe gems",
+    "average": 176.84,
+    "prices": [
+      120,
+      150,
+      127.98,
+      127.98,
+      200,
+      255.96,
+      255.96,
+      383.94,
+      511.92
+    ],
+    "search": {
+      "id": "JVdkbvbhl",
+      "complexity": 18,
+      "total": 9
+    },
     "builds": 2,
     "mods": [
       {
@@ -2859,6 +2919,24 @@
   {
     "item": "Ceinture of Benevolence",
     "stats": "#% increased strength, #% increased intelligence",
+    "average": 142.6488888888889,
+    "prices": [
+      60,
+      100,
+      100,
+      127.98,
+      127.98,
+      127.98,
+      127.98,
+      255.96,
+      255.96,
+      639.9
+    ],
+    "search": {
+      "id": "z27GVXRI4",
+      "complexity": 29,
+      "total": 10
+    },
     "builds": 2,
     "mods": [
       {
@@ -2878,6 +2956,22 @@
   {
     "item": "Ceinture of Benevolence",
     "stats": "wrath has #% increased aura effect",
+    "average": 153.98000000000002,
+    "prices": [
+      17,
+      18,
+      18,
+      75,
+      80,
+      255.96,
+      383.94,
+      383.94
+    ],
+    "search": {
+      "id": "ZbZrYrYHQ",
+      "complexity": 18,
+      "total": 8
+    },
     "builds": 2,
     "mods": [
       {
@@ -2891,6 +2985,24 @@
   {
     "item": "Ceinture of Benevolence",
     "stats": "discipline has #% increased aura effect",
+    "average": 235.865,
+    "prices": [
+      59,
+      60,
+      127.98,
+      127.98,
+      127.98,
+      255.96,
+      255.96,
+      383.94,
+      447.93,
+      511.92
+    ],
+    "search": {
+      "id": "R24XldWi7",
+      "complexity": 18,
+      "total": 15
+    },
     "builds": 2,
     "mods": [
       {
@@ -2904,6 +3016,24 @@
   {
     "item": "Kaom's Heart",
     "stats": "#% increased maximum life",
+    "average": 66.5,
+    "prices": [
+      10,
+      15,
+      40,
+      50,
+      50,
+      100,
+      100,
+      100,
+      100,
+      100
+    ],
+    "search": {
+      "id": "K9gPY8gt5",
+      "complexity": 18,
+      "total": 20
+    },
     "builds": 2,
     "mods": [
       {
@@ -2917,6 +3047,24 @@
   {
     "item": "The Covenant",
     "stats": "+# to level of socketed aoe gems",
+    "average": 817.7922,
+    "prices": [
+      639.9,
+      639.9,
+      639.9,
+      767.88,
+      895.86,
+      895.86,
+      895.86,
+      895.86,
+      895.86,
+      1011.042
+    ],
+    "search": {
+      "id": "wpRa4kBcb",
+      "complexity": 18,
+      "total": 22
+    },
     "builds": 2,
     "mods": [
       {
@@ -2930,6 +3078,24 @@
   {
     "item": "Inspired Learning",
     "stats": "#% reduced effect of shock on you",
+    "average": 25.4,
+    "prices": [
+      20,
+      20,
+      20,
+      20,
+      20,
+      29,
+      30,
+      30,
+      30,
+      35
+    ],
+    "search": {
+      "id": "lPrZWRnFV",
+      "complexity": 18,
+      "total": 21
+    },
     "builds": 2,
     "mods": [
       {
@@ -2943,6 +3109,24 @@
   {
     "item": "Sadima's Touch",
     "stats": "curse enemies with enfeeble on hit",
+    "average": 33.4,
+    "prices": [
+      20,
+      20,
+      25,
+      30,
+      30,
+      30,
+      39,
+      45,
+      45,
+      50
+    ],
+    "search": {
+      "id": "JVdY989Fl",
+      "complexity": 18,
+      "total": 31
+    },
     "builds": 2,
     "mods": [
       {
@@ -2956,6 +3140,24 @@
   {
     "item": "Sadima's Touch",
     "stats": "#% increased attack speed",
+    "average": 21.75,
+    "prices": [
+      10,
+      19,
+      20,
+      20,
+      20,
+      20,
+      25,
+      25,
+      25,
+      30
+    ],
+    "search": {
+      "id": "2Gb6JDdtk",
+      "complexity": 19,
+      "total": 38
+    },
     "builds": 2,
     "mods": [
       {
@@ -2970,6 +3172,24 @@
   {
     "item": "Sadima's Touch",
     "stats": "#% increased cast speed",
+    "average": 13.5,
+    "prices": [
+      5,
+      10,
+      10,
+      10,
+      10,
+      15,
+      15,
+      20,
+      20,
+      20
+    ],
+    "search": {
+      "id": "K9gKZ2RC5",
+      "complexity": 18,
+      "total": 30
+    },
     "builds": 2,
     "mods": [
       {
@@ -2983,6 +3203,24 @@
   {
     "item": "Sadima's Touch",
     "stats": "#% increased maximum energy shield",
+    "average": 67.79100000000001,
+    "prices": [
+      8,
+      8,
+      10,
+      10,
+      16,
+      50,
+      127.98,
+      127.98,
+      127.98,
+      191.97
+    ],
+    "search": {
+      "id": "PdDK4Y7iL",
+      "complexity": 18,
+      "total": 16
+    },
     "builds": 2,
     "mods": [
       {
@@ -2996,6 +3234,15 @@
   {
     "item": "Perandus Blazon",
     "stats": "#% increased rarity of items found, zealotry has #% increased aura effect",
+    "average": 255.96,
+    "prices": [
+      255.96
+    ],
+    "search": {
+      "id": "LmonEMVhn",
+      "complexity": 29,
+      "total": 1
+    },
     "builds": 2,
     "mods": [
       {
