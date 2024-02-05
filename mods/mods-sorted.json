@@ -17982,6 +17982,13 @@
   {
     "item": "Lightpoacher",
     "stats": "regenerate #% of life per second",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "3B6QJKgF5",
+      "complexity": 18,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -17995,6 +18002,13 @@
   {
     "item": "Cospri's Will",
     "stats": "+# to level of socketed aoe gems, +# to level of socketed projectile gems",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "zE22WmgS4",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -18014,6 +18028,18 @@
   {
     "item": "Windripper",
     "stats": "socketed gems are supported by level # momentum",
+    "average": 73.75333333333333,
+    "prices": [
+      19,
+      69,
+      133.26,
+      399.78
+    ],
+    "search": {
+      "id": "rXpw3LrTQ",
+      "complexity": 18,
+      "total": 4
+    },
     "builds": 1,
     "mods": [
       {
@@ -18027,6 +18053,13 @@
   {
     "item": "Leper's Alms",
     "stats": "#% of physical damage from hits taken as lightning damage, #% reduced damage taken from projectile hits",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "VMpJL9whp",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -18046,6 +18079,24 @@
   {
     "item": "Cold Iron Point",
     "stats": "#% increased global critical strike chance",
+    "average": 7,
+    "prices": [
+      5,
+      5,
+      6,
+      7,
+      7,
+      8,
+      8,
+      8,
+      8,
+      8
+    ],
+    "search": {
+      "id": "LeWqod2sn",
+      "complexity": 18,
+      "total": 346
+    },
     "builds": 1,
     "mods": [
       {
@@ -18059,6 +18110,24 @@
   {
     "item": "Cold Iron Point",
     "stats": "#% chance to gain unholy might for 3 seconds on kill",
+    "average": 35,
+    "prices": [
+      15,
+      20,
+      30,
+      35,
+      40,
+      40,
+      50,
+      50,
+      70,
+      80
+    ],
+    "search": {
+      "id": "9Y2wm70uK",
+      "complexity": 18,
+      "total": 18
+    },
     "builds": 1,
     "mods": [
       {
@@ -18072,6 +18141,24 @@
   {
     "item": "Cold Iron Point",
     "stats": "#% increased damage over time",
+    "average": 159.945,
+    "prices": [
+      110,
+      133.26,
+      133.26,
+      133.26,
+      133.26,
+      133.26,
+      133.26,
+      240,
+      250,
+      199.89
+    ],
+    "search": {
+      "id": "z273V4RI4",
+      "complexity": 18,
+      "total": 59
+    },
     "builds": 1,
     "mods": [
       {
@@ -18085,6 +18172,15 @@
   {
     "item": "Bisco's Collar",
     "stats": "#% increased quantity of items found",
+    "average": 533.04,
+    "prices": [
+      533.04
+    ],
+    "search": {
+      "id": "bXWa3OLTL",
+      "complexity": 18,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -18098,6 +18194,22 @@
   {
     "item": "Glimpse of Chaos",
     "stats": "#% increased quantity of items found",
+    "average": 17057.28,
+    "prices": [
+      3997.7999999999997,
+      13326,
+      15991.199999999999,
+      15991.199999999999,
+      19989,
+      19989,
+      33315,
+      626915.8
+    ],
+    "search": {
+      "id": "dXpy2R5IJ",
+      "complexity": 18,
+      "total": 8
+    },
     "builds": 1,
     "mods": [
       {
@@ -18111,6 +18223,20 @@
   {
     "item": "Olesya's Delight",
     "stats": "#% increased attack speed during any flask effect",
+    "average": 127.17333333333333,
+    "prices": [
+      40,
+      50,
+      60,
+      80,
+      266.52,
+      266.52
+    ],
+    "search": {
+      "id": "4zm42y8t9",
+      "complexity": 18,
+      "total": 6
+    },
     "builds": 1,
     "mods": [
       {
@@ -18124,6 +18250,13 @@
   {
     "item": "Snakebite",
     "stats": "#% increased attack speed, +# to maximum frenzy charges",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "EqJWYJRs5",
+      "complexity": 30,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -18144,6 +18277,24 @@
   {
     "item": "Snakebite",
     "stats": "curse enemies with temporal chains on hit",
+    "average": 36.034000000000006,
+    "prices": [
+      12,
+      15,
+      20,
+      26,
+      32.339999999999996,
+      50,
+      50,
+      50,
+      50,
+      55
+    ],
+    "search": {
+      "id": "PK7gj0ZCL",
+      "complexity": 18,
+      "total": 31
+    },
     "builds": 1,
     "mods": [
       {
@@ -18157,6 +18308,13 @@
   {
     "item": "Snakebite",
     "stats": "+# to maximum frenzy charges, curse enemies with despair on hit",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "3Bg95KJs5",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -18176,6 +18334,13 @@
   {
     "item": "Wilma's Requital",
     "stats": "socketed skill gems get a #% cost & reservation multiplier, #% of cold damage leeched as life",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "ewRoE46HL",
+      "complexity": 30,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -18196,6 +18361,24 @@
   {
     "item": "Arn's Anguish",
     "stats": "#% increased movement speed during any flask effect",
+    "average": 79.64571428571428,
+    "prices": [
+      31,
+      55,
+      60,
+      60,
+      85,
+      133.26,
+      133.26,
+      533.04,
+      932.8199999999999,
+      1332.6
+    ],
+    "search": {
+      "id": "gXWv5KKUQ",
+      "complexity": 18,
+      "total": 10
+    },
     "builds": 1,
     "mods": [
       {
