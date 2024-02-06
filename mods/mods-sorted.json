@@ -4676,6 +4676,15 @@
   {
     "item": "Anathema",
     "stats": "#% increased strength, #% increased intelligence",
+    "average": 1225,
+    "prices": [
+      1225
+    ],
+    "search": {
+      "id": "LmdED02in",
+      "complexity": 29,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -6036,6 +6045,24 @@
   {
     "item": "Sadima's Touch",
     "stats": "+# to level of socketed minion gems",
+    "average": 28.88888888888889,
+    "prices": [
+      10,
+      20,
+      20,
+      25,
+      25,
+      30,
+      30,
+      30,
+      40,
+      40
+    ],
+    "search": {
+      "id": "YD0JL6vhY",
+      "complexity": 18,
+      "total": 29
+    },
     "builds": 1,
     "mods": [
       {
@@ -6049,6 +6076,13 @@
   {
     "item": "Sadima's Touch",
     "stats": "+# to level of socketed duration gems, attacks have +#% to critical strike chance",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "3BWqobds5",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -6130,6 +6164,24 @@
   {
     "item": "Sadima's Touch",
     "stats": "+# to maximum frenzy charges",
+    "average": 13.1,
+    "prices": [
+      4,
+      5,
+      8,
+      10,
+      10,
+      15,
+      19,
+      20,
+      20,
+      20
+    ],
+    "search": {
+      "id": "Qr6GOj7Tw",
+      "complexity": 18,
+      "total": 78
+    },
     "builds": 1,
     "mods": [
       {
@@ -7736,6 +7788,24 @@
   {
     "item": "Sentari's Answer",
     "stats": "you take #% reduced extra damage from critical strikes",
+    "average": 23.3,
+    "prices": [
+      10,
+      10,
+      20,
+      20,
+      20,
+      20,
+      29,
+      30,
+      34,
+      40
+    ],
+    "search": {
+      "id": "8adzGlqCV",
+      "complexity": 18,
+      "total": 35
+    },
     "builds": 1,
     "mods": [
       {
@@ -7749,6 +7819,24 @@
   {
     "item": "Sentari's Answer",
     "stats": "#% of physical damage from hits taken as chaos damage",
+    "average": 88.125,
+    "prices": [
+      10,
+      20,
+      60,
+      75,
+      80,
+      80,
+      100,
+      100,
+      100,
+      110
+    ],
+    "search": {
+      "id": "7lozQ2lH5",
+      "complexity": 18,
+      "total": 32
+    },
     "builds": 1,
     "mods": [
       {
@@ -7762,6 +7850,24 @@
   {
     "item": "Sentari's Answer",
     "stats": "#% increased maximum life",
+    "average": 29,
+    "prices": [
+      20,
+      24,
+      30,
+      30,
+      30,
+      40,
+      49,
+      90,
+      100,
+      122.5
+    ],
+    "search": {
+      "id": "mXYGO9aC6",
+      "complexity": 18,
+      "total": 22
+    },
     "builds": 1,
     "mods": [
       {
@@ -9543,6 +9649,24 @@
   {
     "item": "Cloak of Flame",
     "stats": "+# to level of socketed trap or mine gems",
+    "average": 18.5,
+    "prices": [
+      13,
+      15,
+      15,
+      20,
+      20,
+      20,
+      20,
+      25,
+      30,
+      40
+    ],
+    "search": {
+      "id": "BEXWzq4T8",
+      "complexity": 18,
+      "total": 109
+    },
     "builds": 1,
     "mods": [
       {
@@ -9556,6 +9680,24 @@
   {
     "item": "Cloak of Flame",
     "stats": "+# to level of socketed gems",
+    "average": 24,
+    "prices": [
+      9,
+      12,
+      20,
+      20,
+      20,
+      30,
+      30,
+      30,
+      30,
+      39
+    ],
+    "search": {
+      "id": "3Gwb5LGh5",
+      "complexity": 18,
+      "total": 261
+    },
     "builds": 1,
     "mods": [
       {
@@ -12329,6 +12471,13 @@
   {
     "item": "Soulbound",
     "stats": "#% increased strength, #% increased intelligence, wrath has #% increased aura effect",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "WVMV76Rfm",
+      "complexity": 20,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -12354,6 +12503,13 @@
   {
     "item": "Soulbound",
     "stats": "anger has #% increased aura effect, grace has #% increased aura effect",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "9YbJLD8uK",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -14272,6 +14428,13 @@
   {
     "item": "Perandus Blazon",
     "stats": "#% increased rarity of items found, #% increased cast speed during any flask effect",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "mXD7YjMt6",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -14291,6 +14454,13 @@
   {
     "item": "Perandus Blazon",
     "stats": "#% increased maximum energy shield, #% increased movement speed during any flask effect",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "KJXbbKMU5",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -14310,6 +14480,15 @@
   {
     "item": "Perandus Blazon",
     "stats": "#% increased rarity of items found, #% increased critical strike chance during any flask effect",
+    "average": 100,
+    "prices": [
+      100
+    ],
+    "search": {
+      "id": "7l3DmMgS5",
+      "complexity": 29,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -14329,6 +14508,24 @@
   {
     "item": "Perandus Blazon",
     "stats": "#% increased quantity of items found",
+    "average": 1177.75,
+    "prices": [
+      140,
+      245,
+      245,
+      490,
+      735,
+      857.5,
+      1837.5,
+      2327.5,
+      2450,
+      2450
+    ],
+    "search": {
+      "id": "9Y6QWVztK",
+      "complexity": 18,
+      "total": 11
+    },
     "builds": 1,
     "mods": [
       {
