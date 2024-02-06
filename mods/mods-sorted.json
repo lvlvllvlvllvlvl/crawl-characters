@@ -5456,6 +5456,13 @@
   {
     "item": "Lightning Coil",
     "stats": "#% increased damage, #% reduced lightning damage taken",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "XqDYal7CP",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -5475,6 +5482,24 @@
   {
     "item": "Lightning Coil",
     "stats": "+# to level of socketed minion gems",
+    "average": 57.4,
+    "prices": [
+      50,
+      50,
+      50,
+      50,
+      55,
+      60,
+      60,
+      60,
+      69,
+      70
+    ],
+    "search": {
+      "id": "8aprQ3VTV",
+      "complexity": 18,
+      "total": 65
+    },
     "builds": 1,
     "mods": [
       {
@@ -5488,6 +5513,13 @@
   {
     "item": "Southbound",
     "stats": "+# to level of socketed duration gems, +# to level of socketed aura gems",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "nXqLvmMH0",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -5507,6 +5539,15 @@
   {
     "item": "Southbound",
     "stats": "curse enemies with enfeeble on hit, +#% to spell critical strike chance",
+    "average": 1402.28,
+    "prices": [
+      1402.28
+    ],
+    "search": {
+      "id": "PdyQjGDiL",
+      "complexity": 29,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -5526,6 +5567,24 @@
   {
     "item": "Southbound",
     "stats": "attacks have +#% to critical strike chance",
+    "average": 39.3,
+    "prices": [
+      5,
+      10,
+      25,
+      33,
+      35,
+      35,
+      50,
+      60,
+      60,
+      80
+    ],
+    "search": {
+      "id": "oX5GZ7qIl",
+      "complexity": 18,
+      "total": 27
+    },
     "builds": 1,
     "mods": [
       {
@@ -5539,6 +5598,15 @@
   {
     "item": "Southbound",
     "stats": "+# to level of socketed projectile gems, +#% to spell critical strike chance",
+    "average": 35,
+    "prices": [
+      35
+    ],
+    "search": {
+      "id": "DLkBXM5u5",
+      "complexity": 29,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -5558,6 +5626,24 @@
   {
     "item": "Southbound",
     "stats": "+# to level of socketed aoe gems",
+    "average": 70.196,
+    "prices": [
+      5,
+      19,
+      20,
+      25,
+      29,
+      40,
+      140,
+      169,
+      127.48,
+      127.48
+    ],
+    "search": {
+      "id": "rY5Xe0McQ",
+      "complexity": 18,
+      "total": 12
+    },
     "builds": 1,
     "mods": [
       {
@@ -5571,6 +5657,24 @@
   {
     "item": "Southbound",
     "stats": "+# to level of socketed aura gems",
+    "average": 71.51880000000001,
+    "prices": [
+      5,
+      15,
+      20,
+      50,
+      50,
+      60,
+      120,
+      127.48,
+      127.48,
+      140.228
+    ],
+    "search": {
+      "id": "JVyQrpbIl",
+      "complexity": 18,
+      "total": 12
+    },
     "builds": 1,
     "mods": [
       {
@@ -5584,6 +5688,24 @@
   {
     "item": "Southbound",
     "stats": "#% increased maximum energy shield",
+    "average": 51.6,
+    "prices": [
+      9,
+      10,
+      23,
+      29,
+      35,
+      50,
+      60,
+      100,
+      100,
+      100
+    ],
+    "search": {
+      "id": "XqD7VoBhP",
+      "complexity": 18,
+      "total": 16
+    },
     "builds": 1,
     "mods": [
       {
@@ -5597,6 +5719,24 @@
   {
     "item": "Incandescent Heart",
     "stats": "+# to level of socketed aura gems",
+    "average": 72.048,
+    "prices": [
+      20,
+      30,
+      30,
+      45,
+      50,
+      99,
+      100,
+      100,
+      119,
+      127.48
+    ],
+    "search": {
+      "id": "9YDrlY0HK",
+      "complexity": 18,
+      "total": 27
+    },
     "builds": 1,
     "mods": [
       {
@@ -5610,6 +5750,24 @@
   {
     "item": "Incandescent Heart",
     "stats": "#% reduced chaos damage taken",
+    "average": 125.18800000000002,
+    "prices": [
+      8,
+      40,
+      59,
+      130,
+      127.48,
+      127.48,
+      127.48,
+      127.48,
+      250,
+      254.96
+    ],
+    "search": {
+      "id": "pXvdEoJT0",
+      "complexity": 18,
+      "total": 27
+    },
     "builds": 1,
     "mods": [
       {
@@ -5623,6 +5781,17 @@
   {
     "item": "Incandescent Heart",
     "stats": "+# to level of socketed aoe gems, +# to level of socketed aura gems",
+    "average": 17634.733333333334,
+    "prices": [
+      15935,
+      17847.2,
+      19122
+    ],
+    "search": {
+      "id": "KJBdY5RI5",
+      "complexity": 29,
+      "total": 3
+    },
     "builds": 1,
     "mods": [
       {
@@ -5642,6 +5811,15 @@
   {
     "item": "Incandescent Heart",
     "stats": "+# to level of socketed gems, #% increased damage",
+    "average": 101984,
+    "prices": [
+      101984
+    ],
+    "search": {
+      "id": "lXJDRz2UV",
+      "complexity": 29,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -5661,6 +5839,24 @@
   {
     "item": "Incandescent Heart",
     "stats": "you take #% reduced extra damage from critical strikes",
+    "average": 472.554,
+    "prices": [
+      127.48,
+      127.48,
+      127.48,
+      200,
+      254.96,
+      254.96,
+      446.18,
+      637.4,
+      1274.8,
+      1274.8
+    ],
+    "search": {
+      "id": "RVBnoyBU7",
+      "complexity": 18,
+      "total": 18
+    },
     "builds": 1,
     "mods": [
       {
@@ -5674,6 +5870,24 @@
   {
     "item": "Incandescent Heart",
     "stats": "+# to level of socketed minion gems",
+    "average": 86.245,
+    "prices": [
+      30,
+      55,
+      60,
+      70,
+      100,
+      120,
+      127.48,
+      127.48,
+      254.96,
+      382.44
+    ],
+    "search": {
+      "id": "gPeRw97hQ",
+      "complexity": 18,
+      "total": 23
+    },
     "builds": 1,
     "mods": [
       {
