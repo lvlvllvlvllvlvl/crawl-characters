@@ -16045,6 +16045,15 @@
   {
     "item": "Inpulsa's Broken Heart",
     "stats": "#% reduced cold damage taken",
+    "average": 200,
+    "prices": [
+      200
+    ],
+    "search": {
+      "id": "eXDrLwWFL",
+      "complexity": 18,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -16058,6 +16067,13 @@
   {
     "item": "Thread of Hope",
     "stats": "#% increased reservation efficiency of skills, damage penetrates #% lightning resistance",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "BEmJV2jt8",
+      "complexity": 31,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -16079,6 +16095,13 @@
   {
     "item": "Thread of Hope",
     "stats": "#% increased reservation efficiency of skills, damage penetrates #% elemental resistances",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "JYDBYZYsl",
+      "complexity": 30,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -16099,6 +16122,13 @@
   {
     "item": "Thread of Hope",
     "stats": "#% increased damage, #% increased reservation efficiency of skills",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "MVBnn6qUJ",
+      "complexity": 30,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -16119,6 +16149,16 @@
   {
     "item": "Thread of Hope",
     "stats": "damage penetrates #% cold resistance, damage penetrates #% lightning resistance",
+    "average": 627.8499999999999,
+    "prices": [
+      627.8499999999999,
+      627.8499999999999
+    ],
+    "search": {
+      "id": "vlEwbeWtE",
+      "complexity": 31,
+      "total": 2
+    },
     "builds": 1,
     "mods": [
       {
@@ -16140,6 +16180,13 @@
   {
     "item": "Thread of Hope",
     "stats": "damage penetrates #% fire resistance, you cannot be cursed with silence",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "kXlKda6I5",
+      "complexity": 30,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -16160,6 +16207,13 @@
   {
     "item": "Thread of Hope",
     "stats": "#% increased damage, corrupted blood cannot be inflicted on you",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "4dvw82Mt9",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -16179,6 +16233,21 @@
   {
     "item": "Daresso's Defiance",
     "stats": "+# to level of socketed duration gems",
+    "average": 120.228,
+    "prices": [
+      100,
+      100,
+      150,
+      125.57,
+      125.57,
+      251.14,
+      627.8499999999999
+    ],
+    "search": {
+      "id": "zerWLqLc4",
+      "complexity": 18,
+      "total": 7
+    },
     "builds": 1,
     "mods": [
       {
@@ -16192,6 +16261,23 @@
   {
     "item": "Daresso's Defiance",
     "stats": "+# to level of socketed gems",
+    "average": 1548.6966666666667,
+    "prices": [
+      125.57,
+      125.57,
+      125.57,
+      125.57,
+      125.57,
+      125.57,
+      627.8499999999999,
+      6278.5,
+      6278.5
+    ],
+    "search": {
+      "id": "vladEZjCE",
+      "complexity": 18,
+      "total": 9
+    },
     "builds": 1,
     "mods": [
       {
@@ -16205,6 +16291,18 @@
   {
     "item": "Bubonic Trail",
     "stats": "+# to level of socketed gems",
+    "average": 1318.4850000000001,
+    "prices": [
+      125.57,
+      125.57,
+      1883.55,
+      3139.25
+    ],
+    "search": {
+      "id": "4dv3yQYt9",
+      "complexity": 18,
+      "total": 4
+    },
     "builds": 1,
     "mods": [
       {
@@ -16218,6 +16316,18 @@
   {
     "item": "Bubonic Trail",
     "stats": "+# to level of socketed duration gems",
+    "average": 3052.5724999999998,
+    "prices": [
+      30,
+      1506.84,
+      5022.799999999999,
+      5650.65
+    ],
+    "search": {
+      "id": "vljKgqZCE",
+      "complexity": 18,
+      "total": 4
+    },
     "builds": 1,
     "mods": [
       {
@@ -16262,6 +16372,21 @@
   {
     "item": "Perquil's Toe",
     "stats": "you can apply an additional curse",
+    "average": 105.34200000000001,
+    "prices": [
+      20,
+      70,
+      80,
+      125.57,
+      125.57,
+      125.57,
+      753.42
+    ],
+    "search": {
+      "id": "aboaB4aSe",
+      "complexity": 18,
+      "total": 7
+    },
     "builds": 1,
     "mods": [
       {
@@ -16275,6 +16400,24 @@
   {
     "item": "Doedre's Damning",
     "stats": "bleeding cannot be inflicted on you",
+    "average": 63.52333333333334,
+    "prices": [
+      8,
+      12,
+      30,
+      30,
+      35,
+      80,
+      125.57,
+      125.57,
+      125.57,
+      188.355
+    ],
+    "search": {
+      "id": "aqe6VnKue",
+      "complexity": 18,
+      "total": 11
+    },
     "builds": 1,
     "mods": [
       {
@@ -16288,6 +16431,13 @@
   {
     "item": "Windscream",
     "stats": "+# to level of socketed gems, +# to level of socketed minion gems",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "5o5MOmoua",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -16307,6 +16457,24 @@
   {
     "item": "Windscream",
     "stats": "#% increased movement speed",
+    "average": 256.08299999999997,
+    "prices": [
+      175,
+      125.57,
+      125.57,
+      125.57,
+      125.57,
+      125.57,
+      376.71,
+      376.71,
+      502.28,
+      502.28
+    ],
+    "search": {
+      "id": "pXjndPeT0",
+      "complexity": 18,
+      "total": 14
+    },
     "builds": 1,
     "mods": [
       {
