@@ -11608,6 +11608,24 @@
   {
     "item": "Shaper's Touch",
     "stats": "curse enemies with temporal chains on hit",
+    "average": 20,
+    "prices": [
+      10,
+      15,
+      20,
+      20,
+      20,
+      20,
+      20,
+      20,
+      20,
+      20
+    ],
+    "search": {
+      "id": "gXWRrJjhQ",
+      "complexity": 18,
+      "total": 35
+    },
     "builds": 1,
     "mods": [
       {
@@ -11621,6 +11639,24 @@
   {
     "item": "Shaper's Touch",
     "stats": "#% increased maximum energy shield",
+    "average": 43.44444444444444,
+    "prices": [
+      9,
+      10,
+      12,
+      30,
+      40,
+      50,
+      50,
+      90,
+      100,
+      150
+    ],
+    "search": {
+      "id": "VMgl2KlCp",
+      "complexity": 18,
+      "total": 32
+    },
     "builds": 1,
     "mods": [
       {
@@ -11746,6 +11782,15 @@
   {
     "item": "The Torrent's Reclamation",
     "stats": "#% increased strength, #% increased dexterity, #% increased maximum life",
+    "average": 2380.4,
+    "prices": [
+      2380.4
+    ],
+    "search": {
+      "id": "KJOkOXyU5",
+      "complexity": 20,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -11771,6 +11816,13 @@
   {
     "item": "The Torrent's Reclamation",
     "stats": "#% increased maximum energy shield, wrath has #% increased aura effect",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "oX7PW9ZUl",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -11790,6 +11842,15 @@
   {
     "item": "The Torrent's Reclamation",
     "stats": "#% increased strength, #% increased dexterity, #% increased skill effect duration",
+    "average": 357.06,
+    "prices": [
+      357.06
+    ],
+    "search": {
+      "id": "6ZpE6n2iG",
+      "complexity": 20,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -11941,6 +12002,13 @@
   {
     "item": "The Torrent's Reclamation",
     "stats": "#% increased maximum energy shield, #% increased critical strike chance during any flask effect",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "eXWvZrnFL",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -11986,6 +12054,13 @@
   {
     "item": "The Torrent's Reclamation",
     "stats": "#% increased maximum energy shield, determination has #% increased aura effect",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "EGp4v04S5",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -12005,6 +12080,13 @@
   {
     "item": "The Torrent's Reclamation",
     "stats": "#% increased strength, #% increased intelligence, #% increased maximum energy shield",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "KJB87pPi5",
+      "complexity": 20,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -12030,6 +12112,24 @@
   {
     "item": "Hands of the High Templar",
     "stats": "+# to level of socketed duration gems, +# to level of socketed aoe gems",
+    "average": 1978.7075,
+    "prices": [
+      119.02,
+      595.1,
+      714.12,
+      1309.22,
+      1785.3,
+      3570.6,
+      3570.6,
+      4165.7,
+      5951,
+      21423.6
+    ],
+    "search": {
+      "id": "Pd5y38miL",
+      "complexity": 29,
+      "total": 16
+    },
     "builds": 1,
     "mods": [
       {
@@ -12049,6 +12149,24 @@
   {
     "item": "Hands of the High Templar",
     "stats": "+# to level of socketed gems, +# to level of socketed aoe gems",
+    "average": 5382.348888888889,
+    "prices": [
+      1428.24,
+      2380.4,
+      2380.4,
+      2975.5,
+      4760.8,
+      4760.8,
+      7736.3,
+      10116.699999999999,
+      11902,
+      21423.6
+    ],
+    "search": {
+      "id": "QVn0WyRCw",
+      "complexity": 29,
+      "total": 21
+    },
     "builds": 1,
     "mods": [
       {
@@ -12068,6 +12186,15 @@
   {
     "item": "Hands of the High Templar",
     "stats": "+# to level of socketed aoe gems, +# to level of socketed curse gems, +# to maximum frenzy charges",
+    "average": 29755,
+    "prices": [
+      29755
+    ],
+    "search": {
+      "id": "vlJ5eG9HE",
+      "complexity": 20,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -12093,6 +12220,13 @@
   {
     "item": "Hands of the High Templar",
     "stats": "+# to level of socketed gems, +# to level of socketed aoe gems, #% increased maximum life, curse enemies with vulnerability on hit",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "waVjEXmfb",
+      "complexity": 21,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -12124,6 +12258,13 @@
   {
     "item": "Hands of the High Templar",
     "stats": "+# to level of socketed minion gems, +# to level of socketed aura gems, #% increased attack speed, +# to maximum frenzy charges, curse enemies with elemental weakness on hit",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "moero2Bi6",
+      "complexity": 23,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -12162,6 +12303,13 @@
   {
     "item": "Hands of the High Templar",
     "stats": "+# to level of socketed gems, +# to level of socketed aura gems, curse enemies with temporal chains on hit, curse enemies with elemental weakness on hit, attacks have +#% to critical strike chance",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "9YmROmRcK",
+      "complexity": 22,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -12199,6 +12347,24 @@
   {
     "item": "Hands of the High Templar",
     "stats": "+# to level of socketed aoe gems, +# to level of socketed aura gems",
+    "average": 6177.137999999999,
+    "prices": [
+      1428.24,
+      3213.54,
+      3570.6,
+      4165.7,
+      4760.8,
+      7141.2,
+      7736.3,
+      9521.6,
+      9521.6,
+      10711.8
+    ],
+    "search": {
+      "id": "ze59nYqf4",
+      "complexity": 29,
+      "total": 23
+    },
     "builds": 1,
     "mods": [
       {
