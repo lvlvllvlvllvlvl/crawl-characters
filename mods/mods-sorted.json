@@ -11170,6 +11170,24 @@
   {
     "item": "Shadows and Dust",
     "stats": "+#% to spell critical strike chance",
+    "average": 30.714285714285715,
+    "prices": [
+      9,
+      20,
+      25,
+      30,
+      30,
+      30,
+      30,
+      35,
+      35,
+      40
+    ],
+    "search": {
+      "id": "ZbErrd0uQ",
+      "complexity": 18,
+      "total": 37
+    },
     "builds": 1,
     "mods": [
       {
@@ -11183,6 +11201,24 @@
   {
     "item": "Shadows and Dust",
     "stats": "#% increased attack speed",
+    "average": 70,
+    "prices": [
+      20,
+      30,
+      40,
+      50,
+      70,
+      90,
+      100,
+      100,
+      100,
+      100
+    ],
+    "search": {
+      "id": "8aeDbjvFV",
+      "complexity": 19,
+      "total": 32
+    },
     "builds": 1,
     "mods": [
       {
@@ -11197,6 +11233,13 @@
   {
     "item": "Shadows and Dust",
     "stats": "#% increased maximum energy shield, attacks have +#% to critical strike chance",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "EyVjjPBH5",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -11216,6 +11259,13 @@
   {
     "item": "Shadows and Dust",
     "stats": "curse enemies with elemental weakness on hit, attacks have +#% to critical strike chance",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "60QnQdqIG",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -11235,6 +11285,24 @@
   {
     "item": "Mageblood",
     "stats": "#% increased attack speed during any flask effect",
+    "average": 31689.074999999997,
+    "prices": [
+      17853,
+      23804,
+      26184.399999999998,
+      26184.399999999998,
+      33325.6,
+      34515.799999999996,
+      35706,
+      35706,
+      38086.4,
+      111207.23200000002
+    ],
+    "search": {
+      "id": "vlPnR8BCE",
+      "complexity": 18,
+      "total": 21
+    },
     "builds": 1,
     "mods": [
       {
@@ -11248,6 +11316,24 @@
   {
     "item": "Mageblood",
     "stats": "+#% to all elemental resistances",
+    "average": 40024.72571428572,
+    "prices": [
+      23804,
+      32135.399999999998,
+      35586.979999999996,
+      35706,
+      111207.23200000002,
+      41657,
+      41657,
+      125108.13600000001,
+      45822.7,
+      47608
+    ],
+    "search": {
+      "id": "noEVO6Mt0",
+      "complexity": 18,
+      "total": 15
+    },
     "builds": 1,
     "mods": [
       {
@@ -11261,6 +11347,17 @@
   {
     "item": "Mageblood",
     "stats": "wrath has #% increased aura effect, zealotry has #% increased aura effect",
+    "average": 139009.04,
+    "prices": [
+      47608,
+      139009.04,
+      139009.04
+    ],
+    "search": {
+      "id": "Mq3y0eMuJ",
+      "complexity": 29,
+      "total": 3
+    },
     "builds": 1,
     "mods": [
       {
@@ -11280,6 +11377,17 @@
   {
     "item": "Mageblood",
     "stats": "#% increased dexterity, #% increased intelligence, malevolence has #% increased aura effect",
+    "average": 208513.55999999997,
+    "prices": [
+      166810.848,
+      180711.752,
+      278018.08
+    ],
+    "search": {
+      "id": "MVZ379PFJ",
+      "complexity": 20,
+      "total": 3
+    },
     "builds": 1,
     "mods": [
       {
@@ -11305,6 +11413,15 @@
   {
     "item": "Mageblood",
     "stats": "#% increased maximum life, #% increased cast speed during any flask effect",
+    "average": 139009.04,
+    "prices": [
+      139009.04
+    ],
+    "search": {
+      "id": "vlGbd5JtE",
+      "complexity": 29,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -11324,6 +11441,13 @@
   {
     "item": "Mageblood",
     "stats": "#% increased maximum energy shield, #% increased cast speed during any flask effect",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "dPaOkzoFJ",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -11343,6 +11467,13 @@
   {
     "item": "Mageblood",
     "stats": "#% increased movement speed during any flask effect, #% increased cast speed during any flask effect",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "7lVqM8Bu5",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -11362,6 +11493,13 @@
   {
     "item": "Mageblood",
     "stats": "#% increased strength, #% increased dexterity, #% increased skill effect duration",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "OVQoODgCE",
+      "complexity": 20,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -11387,6 +11525,13 @@
   {
     "item": "Cospri's Will",
     "stats": "+# to level of socketed aoe gems, +# to level of socketed projectile gems",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "zE22WmgS4",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -11406,6 +11551,13 @@
   {
     "item": "Rathpith Globe",
     "stats": "+# to level of socketed aoe gems, +# to level of socketed warcry gems",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "KJXDXEPI5",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -11425,6 +11577,24 @@
   {
     "item": "Rathpith Globe",
     "stats": "#% increased maximum life",
+    "average": 178.53,
+    "prices": [
+      119.02,
+      119.02,
+      119.02,
+      119.02,
+      178.53,
+      178.53,
+      238.04,
+      238.04,
+      238.04,
+      238.04
+    ],
+    "search": {
+      "id": "PK7amZvTL",
+      "complexity": 18,
+      "total": 88
+    },
     "builds": 1,
     "mods": [
       {
