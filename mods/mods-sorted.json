@@ -14174,6 +14174,24 @@
   {
     "item": "Tabula Rasa",
     "stats": "+# to level of socketed duration gems",
+    "average": 16.2,
+    "prices": [
+      10,
+      10,
+      12,
+      15,
+      15,
+      20,
+      20,
+      20,
+      20,
+      20
+    ],
+    "search": {
+      "id": "VMgXY92sp",
+      "complexity": 18,
+      "total": 30
+    },
     "builds": 1,
     "mods": [
       {
@@ -14187,6 +14205,24 @@
   {
     "item": "Tabula Rasa",
     "stats": "+# to level of socketed aoe gems",
+    "average": 23.22222222222222,
+    "prices": [
+      19,
+      20,
+      20,
+      20,
+      20,
+      20,
+      30,
+      30,
+      30,
+      40
+    ],
+    "search": {
+      "id": "oXjLOwkUl",
+      "complexity": 18,
+      "total": 18
+    },
     "builds": 1,
     "mods": [
       {
@@ -14200,6 +14236,13 @@
   {
     "item": "Soulbound",
     "stats": "#% increased strength, #% increased intelligence, wrath has #% increased aura effect",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "WVMV76Rfm",
+      "complexity": 20,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -14225,6 +14268,13 @@
   {
     "item": "Soulbound",
     "stats": "anger has #% increased aura effect, grace has #% increased aura effect",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "9YbJLD8uK",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -14244,6 +14294,13 @@
   {
     "item": "Brutal Restraint",
     "stats": "you cannot be maimed, #% reduced poison duration on you",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "gqwb0w6IQ",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -14346,6 +14403,13 @@
   {
     "item": "Painseeker",
     "stats": "+# to maximum frenzy charges, curse enemies with elemental weakness on hit",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "dXRmerPsJ",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -14365,6 +14429,18 @@
   {
     "item": "The Primordial Chain",
     "stats": "#% of lightning damage leeched as life",
+    "average": 96.51499999999999,
+    "prices": [
+      9,
+      20,
+      119.02,
+      238.04
+    ],
+    "search": {
+      "id": "9Yvg7JmTK",
+      "complexity": 19,
+      "total": 4
+    },
     "builds": 1,
     "mods": [
       {
@@ -14379,6 +14455,13 @@
   {
     "item": "The Primordial Chain",
     "stats": "+#% to all elemental resistances, #% increased elemental damage with attack skills",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "eMW22QWcL",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -14398,6 +14481,24 @@
   {
     "item": "Gravebind",
     "stats": "curse enemies with enfeeble on hit",
+    "average": 119.02000000000001,
+    "prices": [
+      90,
+      119.02,
+      119.02,
+      119.02,
+      119.02,
+      119.02,
+      119.02,
+      119.02,
+      119.02,
+      119.02
+    ],
+    "search": {
+      "id": "rXJbP57TQ",
+      "complexity": 18,
+      "total": 16
+    },
     "builds": 1,
     "mods": [
       {
@@ -14411,6 +14512,24 @@
   {
     "item": "Gravebind",
     "stats": "curse enemies with temporal chains on hit",
+    "average": 168.97099999999998,
+    "prices": [
+      50,
+      100,
+      100,
+      119.02,
+      119.02,
+      190,
+      238.04,
+      238.04,
+      238.04,
+      297.55
+    ],
+    "search": {
+      "id": "jXjawVWTX",
+      "complexity": 18,
+      "total": 13
+    },
     "builds": 1,
     "mods": [
       {
@@ -14424,6 +14543,20 @@
   {
     "item": "Arakaali's Fang",
     "stats": "#% chance to gain a frenzy charge on kill",
+    "average": 261.844,
+    "prices": [
+      119.02,
+      119.02,
+      238.04,
+      357.06,
+      476.08,
+      952.16
+    ],
+    "search": {
+      "id": "oXjZ0EOsl",
+      "complexity": 18,
+      "total": 6
+    },
     "builds": 1,
     "mods": [
       {
@@ -14437,6 +14570,15 @@
   {
     "item": "Sin Trek",
     "stats": "+# to level of socketed aura gems, +# to global evasion rating while moving",
+    "average": 5,
+    "prices": [
+      5
+    ],
+    "search": {
+      "id": "JVn8QVOcl",
+      "complexity": 29,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -14456,6 +14598,15 @@
   {
     "item": "Sin Trek",
     "stats": "+# to level of socketed aura gems, +# to maximum endurance charges",
+    "average": 119.02,
+    "prices": [
+      119.02
+    ],
+    "search": {
+      "id": "EyDeL0Yf5",
+      "complexity": 29,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -14475,6 +14626,24 @@
   {
     "item": "Null and Void",
     "stats": "+# to level of socketed aura gems",
+    "average": 119.02000000000001,
+    "prices": [
+      4,
+      40,
+      60,
+      100,
+      150,
+      119.02,
+      119.02,
+      119.02,
+      119.02,
+      119.02
+    ],
+    "search": {
+      "id": "JqXqnPWhl",
+      "complexity": 18,
+      "total": 14
+    },
     "builds": 1,
     "mods": [
       {
@@ -14488,6 +14657,24 @@
   {
     "item": "Null and Void",
     "stats": "curse enemies with vulnerability on hit",
+    "average": 60.702,
+    "prices": [
+      20,
+      20,
+      25,
+      30,
+      43,
+      50,
+      100,
+      100,
+      100,
+      119.02
+    ],
+    "search": {
+      "id": "BEDbEmKu8",
+      "complexity": 18,
+      "total": 21
+    },
     "builds": 1,
     "mods": [
       {
