@@ -11018,6 +11018,15 @@
   {
     "item": "Unnatural Instinct",
     "stats": "#% reduced effect of curses on you, damage penetrates #% fire resistance",
+    "average": 979.2,
+    "prices": [
+      979.2
+    ],
+    "search": {
+      "id": "wKWX9XnHb",
+      "complexity": 30,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -11038,6 +11047,13 @@
   {
     "item": "Unnatural Instinct",
     "stats": "you cannot be maimed, #% reduced bleed duration on you",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "OqeJXDzhE",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -11207,6 +11223,13 @@
   {
     "item": "Perandus Blazon",
     "stats": "#% increased rarity of items found, #% increased cast speed during any flask effect",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "mXD7YjMt6",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -11226,6 +11249,24 @@
   {
     "item": "Perandus Blazon",
     "stats": "#% increased quantity of items found",
+    "average": 1238,
+    "prices": [
+      140,
+      122.4,
+      244.8,
+      734.4000000000001,
+      979.2,
+      1224,
+      1836,
+      2203.2000000000003,
+      2448,
+      2448
+    ],
+    "search": {
+      "id": "9Y6QWVztK",
+      "complexity": 18,
+      "total": 11
+    },
     "builds": 1,
     "mods": [
       {
@@ -11239,6 +11280,13 @@
   {
     "item": "Perandus Blazon",
     "stats": "#% increased rarity of items found, #% increased critical strike chance during any flask effect",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "7l3DmMgS5",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -11258,6 +11306,13 @@
   {
     "item": "Perandus Blazon",
     "stats": "#% increased maximum energy shield, #% increased movement speed during any flask effect",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "KJXbbKMU5",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -11277,6 +11332,24 @@
   {
     "item": "Sentari's Answer",
     "stats": "#% increased maximum life",
+    "average": 69.38,
+    "prices": [
+      30,
+      30,
+      40,
+      40,
+      50,
+      79,
+      80,
+      100,
+      122.4,
+      122.4
+    ],
+    "search": {
+      "id": "mXYGO9aC6",
+      "complexity": 18,
+      "total": 19
+    },
     "builds": 1,
     "mods": [
       {
@@ -11290,6 +11363,24 @@
   {
     "item": "Sentari's Answer",
     "stats": "you take #% reduced extra damage from critical strikes",
+    "average": 41.714285714285715,
+    "prices": [
+      10,
+      29,
+      30,
+      33,
+      40,
+      50,
+      50,
+      60,
+      99,
+      122.4
+    ],
+    "search": {
+      "id": "8adzGlqCV",
+      "complexity": 18,
+      "total": 19
+    },
     "builds": 1,
     "mods": [
       {
@@ -11303,6 +11394,24 @@
   {
     "item": "Sentari's Answer",
     "stats": "#% of physical damage from hits taken as chaos damage",
+    "average": 103.33333333333333,
+    "prices": [
+      15,
+      90,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      120,
+      120
+    ],
+    "search": {
+      "id": "7lozQ2lH5",
+      "complexity": 18,
+      "total": 22
+    },
     "builds": 1,
     "mods": [
       {
@@ -11316,6 +11425,13 @@
   {
     "item": "Soulbound",
     "stats": "anger has #% increased aura effect, grace has #% increased aura effect",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "9YbJLD8uK",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -11335,6 +11451,13 @@
   {
     "item": "Soulbound",
     "stats": "#% increased strength, #% increased intelligence, wrath has #% increased aura effect",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "WVMV76Rfm",
+      "complexity": 20,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -11360,6 +11483,24 @@
   {
     "item": "Cloak of Flame",
     "stats": "+# to level of socketed gems",
+    "average": 32.5,
+    "prices": [
+      25,
+      30,
+      30,
+      30,
+      30,
+      30,
+      30,
+      40,
+      40,
+      40
+    ],
+    "search": {
+      "id": "3Gwb5LGh5",
+      "complexity": 18,
+      "total": 181
+    },
     "builds": 1,
     "mods": [
       {
@@ -11373,6 +11514,24 @@
   {
     "item": "Cloak of Flame",
     "stats": "+# to level of socketed trap or mine gems",
+    "average": 33.6,
+    "prices": [
+      8,
+      10,
+      13,
+      15,
+      20,
+      40,
+      50,
+      50,
+      60,
+      70
+    ],
+    "search": {
+      "id": "BEXWzq4T8",
+      "complexity": 18,
+      "total": 69
+    },
     "builds": 1,
     "mods": [
       {
@@ -11562,6 +11721,24 @@
   {
     "item": "Eyes of the Greatwolf",
     "stats": "#% increased maximum life",
+    "average": 10,
+    "prices": [
+      10,
+      10,
+      10,
+      10,
+      10,
+      10,
+      10.67,
+      15,
+      18,
+      20
+    ],
+    "search": {
+      "id": "Zb5LQL0uQ",
+      "complexity": 18,
+      "total": 722
+    },
     "builds": 1,
     "mods": [
       {
@@ -11575,6 +11752,24 @@
   {
     "item": "Eyes of the Greatwolf",
     "stats": "#% increased damage, #% increased quantity of items found",
+    "average": 89.9,
+    "prices": [
+      50,
+      60,
+      70,
+      80,
+      90,
+      99,
+      100,
+      100,
+      120,
+      130
+    ],
+    "search": {
+      "id": "plLlQGdH0",
+      "complexity": 29,
+      "total": 87
+    },
     "builds": 1,
     "mods": [
       {
