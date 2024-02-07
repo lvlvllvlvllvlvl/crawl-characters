@@ -9757,6 +9757,23 @@
   {
     "item": "Ceinture of Benevolence",
     "stats": "#% increased area of effect",
+    "average": 63.336666666666666,
+    "prices": [
+      10,
+      20,
+      50,
+      75,
+      100,
+      125.02,
+      250.04,
+      1250.2,
+      1750.28
+    ],
+    "search": {
+      "id": "LmoGMRGSn",
+      "complexity": 18,
+      "total": 9
+    },
     "builds": 1,
     "mods": [
       {
@@ -9770,6 +9787,18 @@
   {
     "item": "Ceinture of Benevolence",
     "stats": "anger has #% increased aura effect",
+    "average": 85.00666666666666,
+    "prices": [
+      30,
+      100,
+      125.02,
+      1750.28
+    ],
+    "search": {
+      "id": "2Ba6Ypjhk",
+      "complexity": 18,
+      "total": 4
+    },
     "builds": 1,
     "mods": [
       {
@@ -9783,6 +9812,23 @@
   {
     "item": "Ceinture of Benevolence",
     "stats": "grace has #% increased aura effect",
+    "average": 82.50666666666666,
+    "prices": [
+      10,
+      60,
+      75,
+      100,
+      125.02,
+      125.02,
+      375.06,
+      625.1,
+      2250.36
+    ],
+    "search": {
+      "id": "eXvX9pghL",
+      "complexity": 18,
+      "total": 9
+    },
     "builds": 1,
     "mods": [
       {
@@ -9796,6 +9842,21 @@
   {
     "item": "Ceinture of Benevolence",
     "stats": "#% increased dexterity, #% increased intelligence",
+    "average": 478.6457142857143,
+    "prices": [
+      100,
+      125.02,
+      125.02,
+      125.02,
+      125.02,
+      1250.2,
+      1500.24
+    ],
+    "search": {
+      "id": "z27GVXRI4",
+      "complexity": 29,
+      "total": 7
+    },
     "builds": 1,
     "mods": [
       {
@@ -9815,6 +9876,24 @@
   {
     "item": "Ceinture of Benevolence",
     "stats": "hatred has #% increased aura effect",
+    "average": 93.13749999999999,
+    "prices": [
+      5,
+      20,
+      20,
+      25,
+      50,
+      125.02,
+      250.04,
+      250.04,
+      1250.2,
+      3750.6
+    ],
+    "search": {
+      "id": "oX7Dn3Osl",
+      "complexity": 18,
+      "total": 10
+    },
     "builds": 1,
     "mods": [
       {
@@ -9828,6 +9907,23 @@
   {
     "item": "Ceinture of Benevolence",
     "stats": "determination has #% increased aura effect",
+    "average": 26.25,
+    "prices": [
+      5,
+      20,
+      30,
+      50,
+      125.02,
+      625.1,
+      875.14,
+      1500.24,
+      2250.36
+    ],
+    "search": {
+      "id": "DL89vj2T5",
+      "complexity": 18,
+      "total": 9
+    },
     "builds": 1,
     "mods": [
       {
@@ -9841,6 +9937,24 @@
   {
     "item": "Ceinture of Benevolence",
     "stats": "#% increased maximum energy shield",
+    "average": 484.7988888888888,
+    "prices": [
+      50,
+      125.02,
+      125.02,
+      250.04,
+      250.04,
+      500.08,
+      875.14,
+      937.65,
+      1250.2,
+      1750.28
+    ],
+    "search": {
+      "id": "XkOX59dCP",
+      "complexity": 18,
+      "total": 10
+    },
     "builds": 1,
     "mods": [
       {
@@ -9854,6 +9968,13 @@
   {
     "item": "Ceinture of Benevolence",
     "stats": "#% increased maximum energy shield, #% increased cast speed during any flask effect",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "kXlZRd3U5",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -9873,6 +9994,16 @@
   {
     "item": "The Covenant",
     "stats": "#% increased maximum energy shield",
+    "average": 375.06,
+    "prices": [
+      125.02,
+      625.1
+    ],
+    "search": {
+      "id": "YVoWm0RiY",
+      "complexity": 18,
+      "total": 2
+    },
     "builds": 1,
     "mods": [
       {
@@ -9886,6 +10017,22 @@
   {
     "item": "The Covenant",
     "stats": "+# to level of socketed aura gems",
+    "average": 527.7971428571428,
+    "prices": [
+      69,
+      250.04,
+      375.06,
+      375.06,
+      500.08,
+      1000.16,
+      1125.18,
+      13752.199999999999
+    ],
+    "search": {
+      "id": "7lRgXeBS5",
+      "complexity": 18,
+      "total": 8
+    },
     "builds": 1,
     "mods": [
       {
@@ -9899,6 +10046,13 @@
   {
     "item": "The Covenant",
     "stats": "+# to level of socketed aoe gems, +# to level of socketed minion gems",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "EyQbbmKI5",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -9918,6 +10072,20 @@
   {
     "item": "The Covenant",
     "stats": "+# to level of socketed gems",
+    "average": 1775.284,
+    "prices": [
+      1000.16,
+      1750.28,
+      1750.28,
+      1875.3,
+      2500.4,
+      147557.72
+    ],
+    "search": {
+      "id": "GkdLXY3Ib",
+      "complexity": 18,
+      "total": 6
+    },
     "builds": 1,
     "mods": [
       {
@@ -9931,6 +10099,15 @@
   {
     "item": "The Covenant",
     "stats": "+# to level of socketed minion gems, #% increased maximum life",
+    "average": 12502,
+    "prices": [
+      12502
+    ],
+    "search": {
+      "id": "YLZD0wkFY",
+      "complexity": 29,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -9950,6 +10127,13 @@
   {
     "item": "The Covenant",
     "stats": "+# to level of socketed duration gems, +# to level of socketed warcry gems",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "lXjEWq6hV",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -9969,6 +10153,13 @@
   {
     "item": "The Covenant",
     "stats": "#% increased damage, #% increased maximum life",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "XqK7DqesP",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
