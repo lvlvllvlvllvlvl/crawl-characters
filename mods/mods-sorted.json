@@ -17076,6 +17076,24 @@
   {
     "item": "Might of the Meek",
     "stats": "#% reduced effect of chill on you",
+    "average": 59.24,
+    "prices": [
+      10,
+      15,
+      20,
+      30,
+      50,
+      80,
+      150,
+      118.92,
+      237.84,
+      1189.2
+    ],
+    "search": {
+      "id": "pXEoybbH0",
+      "complexity": 18,
+      "total": 10
+    },
     "builds": 1,
     "mods": [
       {
@@ -17089,6 +17107,19 @@
   {
     "item": "Might of the Meek",
     "stats": "you cannot be maimed",
+    "average": 81.96000000000001,
+    "prices": [
+      40,
+      50,
+      118.92,
+      118.92,
+      237.84
+    ],
+    "search": {
+      "id": "lXJV8VrhV",
+      "complexity": 18,
+      "total": 5
+    },
     "builds": 1,
     "mods": [
       {
@@ -17102,6 +17133,20 @@
   {
     "item": "Might of the Meek",
     "stats": "you cannot be cursed with silence",
+    "average": 103.56800000000001,
+    "prices": [
+      80,
+      100,
+      100,
+      118.92,
+      118.92,
+      11773.08
+    ],
+    "search": {
+      "id": "BGrV83KC8",
+      "complexity": 18,
+      "total": 6
+    },
     "builds": 1,
     "mods": [
       {
@@ -17115,6 +17160,24 @@
   {
     "item": "Might of the Meek",
     "stats": "you cannot be hindered",
+    "average": 67.988,
+    "prices": [
+      4.2,
+      10,
+      10,
+      20,
+      60,
+      100,
+      118.92,
+      118.92,
+      118.92,
+      118.92
+    ],
+    "search": {
+      "id": "RVBXglWU7",
+      "complexity": 18,
+      "total": 15
+    },
     "builds": 1,
     "mods": [
       {
@@ -17128,6 +17191,22 @@
   {
     "item": "Might of the Meek",
     "stats": "damage penetrates #% lightning resistance",
+    "average": 65.13,
+    "prices": [
+      4.2,
+      10,
+      20,
+      60,
+      89,
+      100,
+      118.92,
+      118.92
+    ],
+    "search": {
+      "id": "lXODXjrhV",
+      "complexity": 19,
+      "total": 8
+    },
     "builds": 1,
     "mods": [
       {
@@ -17142,6 +17221,24 @@
   {
     "item": "Might of the Meek",
     "stats": "#% increased global critical strike chance",
+    "average": 87.91333333333334,
+    "prices": [
+      20,
+      35,
+      50,
+      50,
+      100,
+      120,
+      118.92,
+      118.92,
+      178.38,
+      8324.4
+    ],
+    "search": {
+      "id": "3Gw30nJU5",
+      "complexity": 18,
+      "total": 10
+    },
     "builds": 1,
     "mods": [
       {
@@ -17155,6 +17252,24 @@
   {
     "item": "Might of the Meek",
     "stats": "#% increased effect of non-damaging ailments",
+    "average": 53.21333333333334,
+    "prices": [
+      10,
+      20,
+      30,
+      30,
+      40,
+      50,
+      80,
+      100,
+      150,
+      118.92
+    ],
+    "search": {
+      "id": "qXjDDjWfg",
+      "complexity": 18,
+      "total": 17
+    },
     "builds": 1,
     "mods": [
       {
@@ -17168,6 +17283,13 @@
   {
     "item": "Piscator's Vigil",
     "stats": "adds # to # cold damage, #% increased attack speed",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "dM4VOoZsJ",
+      "complexity": 31,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -17189,6 +17311,15 @@
   {
     "item": "Piscator's Vigil",
     "stats": "#% increased critical strike chance, damage penetrates #% elemental resistances",
+    "average": 70,
+    "prices": [
+      70
+    ],
+    "search": {
+      "id": "Rq6rDKrt7",
+      "complexity": 29,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -17208,6 +17339,15 @@
   {
     "item": "Esh's Mirror",
     "stats": "+# to level of socketed aoe gems",
+    "average": 118.92,
+    "prices": [
+      118.92
+    ],
+    "search": {
+      "id": "MV779X6IJ",
+      "complexity": 18,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -17221,6 +17361,24 @@
   {
     "item": "Cold Iron Point",
     "stats": "#% chance to gain unholy might for 3 seconds on kill",
+    "average": 38.4,
+    "prices": [
+      20,
+      30,
+      30,
+      30,
+      30,
+      35,
+      40,
+      50,
+      59,
+      60
+    ],
+    "search": {
+      "id": "9Y2wm70uK",
+      "complexity": 18,
+      "total": 26
+    },
     "builds": 1,
     "mods": [
       {
@@ -17234,6 +17392,24 @@
   {
     "item": "Cold Iron Point",
     "stats": "#% increased damage over time",
+    "average": 118.91999999999999,
+    "prices": [
+      125,
+      150,
+      107.028,
+      118.92,
+      118.92,
+      118.92,
+      118.92,
+      118.92,
+      118.92,
+      118.92
+    ],
+    "search": {
+      "id": "z273V4RI4",
+      "complexity": 18,
+      "total": 45
+    },
     "builds": 1,
     "mods": [
       {
@@ -17247,6 +17423,24 @@
   {
     "item": "Cold Iron Point",
     "stats": "#% increased global critical strike chance",
+    "average": 6.555555555555555,
+    "prices": [
+      5,
+      6,
+      6,
+      6,
+      6,
+      7,
+      7,
+      7,
+      7,
+      7
+    ],
+    "search": {
+      "id": "LeWqod2sn",
+      "complexity": 18,
+      "total": 319
+    },
     "builds": 1,
     "mods": [
       {
@@ -17260,6 +17454,13 @@
   {
     "item": "Tainted Pact",
     "stats": "+#% to all maximum resistances, grace has #% increased aura effect",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "qYRbO5Xhg",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
