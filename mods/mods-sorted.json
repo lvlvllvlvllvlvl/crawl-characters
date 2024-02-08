@@ -8060,6 +8060,13 @@
   {
     "item": "Asenath's Gentle Touch",
     "stats": "+# to level of socketed aura gems, #% increased cast speed",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "9Y2KZKOIK",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -8079,6 +8086,13 @@
   {
     "item": "Asenath's Gentle Touch",
     "stats": "+# to level of socketed aura gems, curse enemies with elemental weakness on hit",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "YVRG64RhY",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -8098,6 +8112,16 @@
   {
     "item": "Asenath's Gentle Touch",
     "stats": "+# to level of socketed aura gems, curse enemies with vulnerability on hit",
+    "average": 476.08,
+    "prices": [
+      238.04,
+      714.12
+    ],
+    "search": {
+      "id": "vlPE4wLCE",
+      "complexity": 29,
+      "total": 2
+    },
     "builds": 1,
     "mods": [
       {
@@ -8117,6 +8141,13 @@
   {
     "item": "Asenath's Gentle Touch",
     "stats": "#% increased cast speed, #% increased maximum life",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "eXWqWYbcL",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -8136,6 +8167,15 @@
   {
     "item": "Asenath's Gentle Touch",
     "stats": "+# to level of socketed minion gems, attacks have +#% to critical strike chance",
+    "average": 100,
+    "prices": [
+      100
+    ],
+    "search": {
+      "id": "VMpPDK2tp",
+      "complexity": 29,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -8155,6 +8195,13 @@
   {
     "item": "Asenath's Gentle Touch",
     "stats": "#% increased attack speed, curse enemies with enfeeble on hit",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "5okjk8Dia",
+      "complexity": 30,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -8175,6 +8222,16 @@
   {
     "item": "Asenath's Gentle Touch",
     "stats": "#% increased maximum life, +# to maximum frenzy charges",
+    "average": 71052.79000000001,
+    "prices": [
+      3570.6,
+      138534.98
+    ],
+    "search": {
+      "id": "qXj3723Cg",
+      "complexity": 29,
+      "total": 2
+    },
     "builds": 1,
     "mods": [
       {
@@ -8194,6 +8251,15 @@
   {
     "item": "Asenath's Gentle Touch",
     "stats": "+# to level of socketed warcry gems, curse enemies with enfeeble on hit",
+    "average": 119.02,
+    "prices": [
+      119.02
+    ],
+    "search": {
+      "id": "3BDl699I5",
+      "complexity": 29,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -8213,6 +8279,13 @@
   {
     "item": "Asenath's Gentle Touch",
     "stats": "#% increased attack speed, #% increased cast speed",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "y9RLrPguR",
+      "complexity": 30,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -8233,6 +8306,15 @@
   {
     "item": "Asenath's Gentle Touch",
     "stats": "#% increased maximum energy shield, attacks have +#% to critical strike chance",
+    "average": 11902,
+    "prices": [
+      11902
+    ],
+    "search": {
+      "id": "2BaeBW5hk",
+      "complexity": 29,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -8252,6 +8334,13 @@
   {
     "item": "Asenath's Gentle Touch",
     "stats": "+# to level of socketed warcry gems, #% increased attack speed",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "5odkd22Sa",
+      "complexity": 30,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -8272,6 +8361,13 @@
   {
     "item": "Asenath's Gentle Touch",
     "stats": "curse enemies with elemental weakness on hit, curse enemies with enfeeble on hit",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "QV05ojvHw",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -8291,6 +8387,24 @@
   {
     "item": "Sentari's Answer",
     "stats": "you take #% reduced extra damage from critical strikes",
+    "average": 31.9,
+    "prices": [
+      5,
+      10,
+      15,
+      20,
+      29,
+      30,
+      40,
+      50,
+      60,
+      60
+    ],
+    "search": {
+      "id": "8adzGlqCV",
+      "complexity": 18,
+      "total": 30
+    },
     "builds": 1,
     "mods": [
       {
@@ -8304,6 +8418,24 @@
   {
     "item": "Sentari's Answer",
     "stats": "#% of physical damage from hits taken as chaos damage",
+    "average": 78.902,
+    "prices": [
+      20,
+      40,
+      50,
+      50,
+      70,
+      100,
+      100,
+      100,
+      140,
+      119.02
+    ],
+    "search": {
+      "id": "7lozQ2lH5",
+      "complexity": 18,
+      "total": 24
+    },
     "builds": 1,
     "mods": [
       {
@@ -8317,6 +8449,24 @@
   {
     "item": "Sentari's Answer",
     "stats": "#% increased maximum life",
+    "average": 60.2625,
+    "prices": [
+      15,
+      29.099999999999998,
+      30,
+      39,
+      70,
+      99,
+      100,
+      100,
+      214.236,
+      476.08
+    ],
+    "search": {
+      "id": "mXYGO9aC6",
+      "complexity": 18,
+      "total": 17
+    },
     "builds": 1,
     "mods": [
       {
