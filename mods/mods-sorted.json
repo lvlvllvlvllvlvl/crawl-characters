@@ -3198,6 +3198,24 @@
   {
     "item": "Greed's Embrace",
     "stats": "#% increased damage",
+    "average": 16.8,
+    "prices": [
+      8,
+      10,
+      10,
+      10,
+      20,
+      20,
+      20,
+      20,
+      25,
+      25
+    ],
+    "search": {
+      "id": "Ey6EjzVI5",
+      "complexity": 18,
+      "total": 248
+    },
     "builds": 2,
     "mods": [
       {
@@ -3211,6 +3229,24 @@
   {
     "item": "Greed's Embrace",
     "stats": "+# to level of socketed gems",
+    "average": 17.1,
+    "prices": [
+      5,
+      10,
+      10,
+      14,
+      18,
+      20,
+      20,
+      20,
+      24,
+      30
+    ],
+    "search": {
+      "id": "3GwpXDPh5",
+      "complexity": 18,
+      "total": 347
+    },
     "builds": 2,
     "mods": [
       {
@@ -3224,6 +3260,24 @@
   {
     "item": "Headhunter",
     "stats": "#% increased dexterity, #% increased intelligence",
+    "average": 15273.8366,
+    "prices": [
+      6343.766,
+      8926.5,
+      9521.6,
+      9521.6,
+      16662.8,
+      17853,
+      19043.2,
+      21066.54,
+      21423.6,
+      22375.76
+    ],
+    "search": {
+      "id": "DL85jL7H5",
+      "complexity": 29,
+      "total": 18
+    },
     "builds": 2,
     "mods": [
       {
@@ -3243,6 +3297,13 @@
   {
     "item": "The Fledgling",
     "stats": "+# to maximum power charges",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "dXWYGdqFJ",
+      "complexity": 18,
+      "total": 0
+    },
     "builds": 2,
     "mods": [
       {
@@ -3256,6 +3317,24 @@
   {
     "item": "Ancestral Vision",
     "stats": "#% reduced effect of curses on you",
+    "average": 68,
+    "prices": [
+      40,
+      45,
+      50,
+      50,
+      50,
+      50,
+      95,
+      100,
+      100,
+      100
+    ],
+    "search": {
+      "id": "DL8ypadf5",
+      "complexity": 18,
+      "total": 30
+    },
     "builds": 2,
     "mods": [
       {
@@ -3269,6 +3348,24 @@
   {
     "item": "Malachai's Loop",
     "stats": "#% of physical damage from hits taken as fire damage",
+    "average": 51.55555555555556,
+    "prices": [
+      40,
+      40,
+      44,
+      50,
+      50,
+      60,
+      60,
+      60,
+      60,
+      78
+    ],
+    "search": {
+      "id": "0BaGbKQhg",
+      "complexity": 18,
+      "total": 108
+    },
     "builds": 2,
     "mods": [
       {
@@ -3282,6 +3379,24 @@
   {
     "item": "Hyrri's Truth",
     "stats": "+#% to all elemental resistances",
+    "average": 29.8,
+    "prices": [
+      10,
+      10,
+      15,
+      20,
+      28,
+      30,
+      30,
+      50,
+      50,
+      55
+    ],
+    "search": {
+      "id": "gXJ32daFQ",
+      "complexity": 18,
+      "total": 21
+    },
     "builds": 2,
     "mods": [
       {
@@ -3295,6 +3410,17 @@
   {
     "item": "Natural Affinity",
     "stats": "#% increased area of effect",
+    "average": 595.1,
+    "prices": [
+      119.02,
+      238.04,
+      1428.24
+    ],
+    "search": {
+      "id": "MvR4pwPcJ",
+      "complexity": 18,
+      "total": 3
+    },
     "builds": 2,
     "mods": [
       {
@@ -3308,6 +3434,13 @@
   {
     "item": "Natural Affinity",
     "stats": "damage penetrates #% elemental resistances",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "R242ZPOi7",
+      "complexity": 18,
+      "total": 0
+    },
     "builds": 2,
     "mods": [
       {
@@ -3321,6 +3454,19 @@
   {
     "item": "Saffell's Frame",
     "stats": "#% of physical damage from hits taken as chaos damage",
+    "average": 896.7479999999999,
+    "prices": [
+      80,
+      238.04,
+      1071.18,
+      1071.18,
+      2023.34
+    ],
+    "search": {
+      "id": "2BrBPO5hk",
+      "complexity": 18,
+      "total": 5
+    },
     "builds": 2,
     "mods": [
       {
@@ -3334,6 +3480,24 @@
   {
     "item": "Eyes of the Greatwolf",
     "stats": "+#% to global critical strike multiplier",
+    "average": 11.455,
+    "prices": [
+      3,
+      7,
+      9,
+      10,
+      10,
+      10,
+      10,
+      16.55,
+      19,
+      20
+    ],
+    "search": {
+      "id": "RVBvyrGF7",
+      "complexity": 18,
+      "total": 795
+    },
     "builds": 2,
     "mods": [
       {
@@ -3347,6 +3511,24 @@
   {
     "item": "Shadows and Dust",
     "stats": "curse enemies with elemental weakness on hit",
+    "average": 146.08124999999998,
+    "prices": [
+      40,
+      60,
+      86,
+      90,
+      178.53,
+      238.04,
+      238.04,
+      238.04,
+      595.1,
+      1190.2
+    ],
+    "search": {
+      "id": "2Gb25ZGfk",
+      "complexity": 18,
+      "total": 14
+    },
     "builds": 2,
     "mods": [
       {
@@ -3360,6 +3542,16 @@
   {
     "item": "Mageblood",
     "stats": "#% increased maximum life, grace has #% increased aura effect",
+    "average": 69626.7,
+    "prices": [
+      58319.799999999996,
+      80933.59999999999
+    ],
+    "search": {
+      "id": "pXvPpyvT0",
+      "complexity": 29,
+      "total": 2
+    },
     "builds": 2,
     "mods": [
       {
@@ -3379,6 +3571,13 @@
   {
     "item": "Mageblood",
     "stats": "#% increased maximum life, #% increased area of effect",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "kXjqdM3U5",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 2,
     "mods": [
       {
@@ -3398,6 +3597,24 @@
   {
     "item": "Shaper's Touch",
     "stats": "+# to level of socketed aura gems",
+    "average": 105.13,
+    "prices": [
+      50,
+      70,
+      85,
+      98,
+      100,
+      100,
+      100,
+      120,
+      119.02,
+      119.02
+    ],
+    "search": {
+      "id": "0PQ6vEghg",
+      "complexity": 18,
+      "total": 31
+    },
     "builds": 2,
     "mods": [
       {
