@@ -12408,6 +12408,24 @@
   {
     "item": "Inspired Learning",
     "stats": "#% reduced poison duration on you",
+    "average": 20,
+    "prices": [
+      18,
+      20,
+      20,
+      20,
+      20,
+      20,
+      20,
+      20,
+      20,
+      30
+    ],
+    "search": {
+      "id": "ZbZdZp8HQ",
+      "complexity": 18,
+      "total": 25
+    },
     "builds": 1,
     "mods": [
       {
@@ -12421,6 +12439,24 @@
   {
     "item": "Inspired Learning",
     "stats": "damage penetrates #% lightning resistance",
+    "average": 20,
+    "prices": [
+      19,
+      20,
+      20,
+      20,
+      20,
+      20,
+      20,
+      20,
+      25,
+      25
+    ],
+    "search": {
+      "id": "kXD66RnF5",
+      "complexity": 19,
+      "total": 30
+    },
     "builds": 1,
     "mods": [
       {
@@ -12435,6 +12471,24 @@
   {
     "item": "Inspired Learning",
     "stats": "corrupted blood cannot be inflicted on you",
+    "average": 349.56,
+    "prices": [
+      349.56,
+      349.56,
+      349.56,
+      349.56,
+      349.56,
+      349.56,
+      349.56,
+      349.56,
+      349.56,
+      349.56
+    ],
+    "search": {
+      "id": "wpR9W5jhb",
+      "complexity": 18,
+      "total": 32
+    },
     "builds": 1,
     "mods": [
       {
@@ -12448,6 +12502,24 @@
   {
     "item": "Inspired Learning",
     "stats": "#% reduced bleed duration on you",
+    "average": 19.333333333333332,
+    "prices": [
+      15,
+      17,
+      17,
+      20,
+      20,
+      20,
+      20,
+      20,
+      20,
+      20
+    ],
+    "search": {
+      "id": "bPZJr2RTL",
+      "complexity": 18,
+      "total": 25
+    },
     "builds": 1,
     "mods": [
       {
@@ -12461,6 +12533,24 @@
   {
     "item": "Inspired Learning",
     "stats": "#% reduced effect of curses on you",
+    "average": 33.4,
+    "prices": [
+      20,
+      25,
+      25,
+      30,
+      35,
+      39,
+      40,
+      40,
+      40,
+      40
+    ],
+    "search": {
+      "id": "LmdejwjHn",
+      "complexity": 18,
+      "total": 23
+    },
     "builds": 1,
     "mods": [
       {
@@ -12474,6 +12564,24 @@
   {
     "item": "Inspired Learning",
     "stats": "you cannot be maimed",
+    "average": 24.4,
+    "prices": [
+      20,
+      20,
+      20,
+      20,
+      25,
+      25,
+      25,
+      29,
+      30,
+      30
+    ],
+    "search": {
+      "id": "v3WbPKZuE",
+      "complexity": 18,
+      "total": 33
+    },
     "builds": 1,
     "mods": [
       {
@@ -12487,6 +12595,22 @@
   {
     "item": "Marylene's Fallacy",
     "stats": "+#% to all maximum resistances",
+    "average": 87.42666666666666,
+    "prices": [
+      35,
+      40,
+      100,
+      116.52,
+      116.52,
+      116.52,
+      233.04,
+      407.82
+    ],
+    "search": {
+      "id": "KJ7E63LU5",
+      "complexity": 18,
+      "total": 8
+    },
     "builds": 1,
     "mods": [
       {
@@ -12500,6 +12624,13 @@
   {
     "item": "Marylene's Fallacy",
     "stats": "+#% to all maximum resistances, malevolence has #% increased aura effect",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "nXqVBGyC0",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -12519,6 +12650,15 @@
   {
     "item": "Surgebinders",
     "stats": "+# to level of socketed aoe gems, curse enemies with elemental weakness on hit",
+    "average": 1165.2,
+    "prices": [
+      1165.2
+    ],
+    "search": {
+      "id": "DqMl5OXf5",
+      "complexity": 29,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -12538,6 +12678,15 @@
   {
     "item": "Surgebinders",
     "stats": "+# to level of socketed aura gems, curse enemies with elemental weakness on hit",
+    "average": 466.08,
+    "prices": [
+      466.08
+    ],
+    "search": {
+      "id": "jXZ4nRoTX",
+      "complexity": 29,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -12557,6 +12706,24 @@
   {
     "item": "Surgebinders",
     "stats": "curse enemies with elemental weakness on hit",
+    "average": 146.90666666666664,
+    "prices": [
+      50,
+      70,
+      80,
+      90,
+      100,
+      233.04,
+      233.04,
+      233.04,
+      233.04,
+      349.56
+    ],
+    "search": {
+      "id": "YVqMpa6sY",
+      "complexity": 18,
+      "total": 25
+    },
     "builds": 1,
     "mods": [
       {
@@ -12570,6 +12737,24 @@
   {
     "item": "Crown of Eyes",
     "stats": "+# to maximum power charges",
+    "average": 1592.4399999999996,
+    "prices": [
+      1165.2,
+      1398.24,
+      1398.24,
+      1514.76,
+      1514.76,
+      1631.28,
+      1631.28,
+      1747.8,
+      1747.8,
+      1747.8
+    ],
+    "search": {
+      "id": "oXjB4YOcl",
+      "complexity": 18,
+      "total": 26
+    },
     "builds": 1,
     "mods": [
       {
@@ -12583,6 +12768,13 @@
   {
     "item": "Lethal Pride",
     "stats": "#% reduced effect of curses on you, #% reduced bleed duration on you",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "MV4RGqMsJ",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -12602,6 +12794,13 @@
   {
     "item": "The Annihilating Light",
     "stats": "#% increased cast speed, #% increased critical strike chance",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "DGEDdB2f5",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -12621,6 +12820,24 @@
   {
     "item": "The Annihilating Light",
     "stats": "#% chance to gain a power charge on critical strike",
+    "average": 71.72,
+    "prices": [
+      30,
+      30,
+      40,
+      69,
+      100,
+      116.52,
+      116.52,
+      349.56,
+      699.12,
+      815.64
+    ],
+    "search": {
+      "id": "PK7GzpZhL",
+      "complexity": 18,
+      "total": 17
+    },
     "builds": 1,
     "mods": [
       {
