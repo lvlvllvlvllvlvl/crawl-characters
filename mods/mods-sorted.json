@@ -18854,6 +18854,13 @@
   {
     "item": "The Squire",
     "stats": "you take #% reduced extra damage from critical strikes, #% increased maximum life",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "Pd8pwJMhL",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -18873,6 +18880,13 @@
   {
     "item": "The Brass Dome",
     "stats": "+# to level of socketed trap or mine gems, #% reduced lightning damage taken",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "XqDVoE7UP",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -18892,6 +18906,24 @@
   {
     "item": "Indigon",
     "stats": "+# to maximum power charges",
+    "average": 665.0288888888888,
+    "prices": [
+      177.78,
+      237.04,
+      237.04,
+      592.6,
+      592.6,
+      592.6,
+      1185.2,
+      1185.2,
+      1185.2,
+      3555.6
+    ],
+    "search": {
+      "id": "jXJ9MZbHX",
+      "complexity": 18,
+      "total": 11
+    },
     "builds": 1,
     "mods": [
       {
@@ -18905,6 +18937,18 @@
   {
     "item": "Atziri's Foible",
     "stats": "you can apply an additional curse",
+    "average": 118.52,
+    "prices": [
+      118.52,
+      118.52,
+      829.64,
+      2963
+    ],
+    "search": {
+      "id": "dX4J9ObcJ",
+      "complexity": 18,
+      "total": 4
+    },
     "builds": 1,
     "mods": [
       {
@@ -18918,6 +18962,18 @@
   {
     "item": "Cloak of Defiance",
     "stats": "#% increased damage",
+    "average": 118.52,
+    "prices": [
+      20,
+      118.52,
+      118.52,
+      1185.2
+    ],
+    "search": {
+      "id": "3GwWVB0I5",
+      "complexity": 18,
+      "total": 4
+    },
     "builds": 1,
     "mods": [
       {
@@ -18931,6 +18987,13 @@
   {
     "item": "Dance of the Offered",
     "stats": "+# to level of socketed gems",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "GkdRWoWCb",
+      "complexity": 18,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -18944,6 +19007,20 @@
   {
     "item": "Skin of the Loyal",
     "stats": "+# to level of socketed minion gems",
+    "average": 681.49,
+    "prices": [
+      237.04,
+      592.6,
+      711.12,
+      1185.2,
+      2370.4,
+      19674.32
+    ],
+    "search": {
+      "id": "Eyeq6dYf5",
+      "complexity": 18,
+      "total": 6
+    },
     "builds": 1,
     "mods": [
       {
@@ -18957,6 +19034,13 @@
   {
     "item": "Skin of the Loyal",
     "stats": "+# to level of socketed duration gems, #% increased maximum energy shield",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "DL3Vd74H5",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -18976,6 +19060,15 @@
   {
     "item": "Skin of the Loyal",
     "stats": "+# to level of socketed aoe gems, +# to level of socketed projectile gems",
+    "average": 47408,
+    "prices": [
+      47408
+    ],
+    "search": {
+      "id": "XqD4GedCP",
+      "complexity": 29,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -18995,6 +19088,13 @@
   {
     "item": "Grand Spectrum",
     "stats": "#% reduced effect of curses on you",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "VyBGo3atp",
+      "complexity": 18,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -19008,6 +19108,13 @@
   {
     "item": "Gifts from Above",
     "stats": "#% increased strength, #% increased dexterity, #% increased cast speed",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "QVYWQVjTw",
+      "complexity": 20,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -19033,6 +19140,24 @@
   {
     "item": "The Untouched Soul",
     "stats": "#% increased rarity of items found",
+    "average": 4.5,
+    "prices": [
+      3,
+      3,
+      4,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5
+    ],
+    "search": {
+      "id": "vlE0LQXHE",
+      "complexity": 18,
+      "total": 248
+    },
     "builds": 1,
     "mods": [
       {
@@ -19046,6 +19171,21 @@
   {
     "item": "Machina Mitts",
     "stats": "curse enemies with elemental weakness on hit",
+    "average": 1354.5142857142857,
+    "prices": [
+      355.56,
+      592.6,
+      1185.2,
+      1185.2,
+      1777.8,
+      2014.84,
+      2370.4
+    ],
+    "search": {
+      "id": "0B8PL7bFg",
+      "complexity": 18,
+      "total": 7
+    },
     "builds": 1,
     "mods": [
       {
@@ -19059,6 +19199,16 @@
   {
     "item": "Machina Mitts",
     "stats": "curse enemies with enfeeble on hit",
+    "average": 20,
+    "prices": [
+      20,
+      20
+    ],
+    "search": {
+      "id": "WV4WDGvum",
+      "complexity": 18,
+      "total": 2
+    },
     "builds": 1,
     "mods": [
       {
@@ -19072,6 +19222,13 @@
   {
     "item": "Machina Mitts",
     "stats": "#% increased maximum life, +#% to spell critical strike chance",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "RVYKX9qi7",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
