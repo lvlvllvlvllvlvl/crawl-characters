@@ -6780,6 +6780,15 @@
   {
     "item": "Lightning Coil",
     "stats": "#% increased damage, #% reduced lightning damage taken",
+    "average": 118.52,
+    "prices": [
+      118.52
+    ],
+    "search": {
+      "id": "XqDYal7CP",
+      "complexity": 29,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -6799,6 +6808,24 @@
   {
     "item": "Lightning Coil",
     "stats": "+# to level of socketed gems",
+    "average": 237.04,
+    "prices": [
+      177.78,
+      177.78,
+      237.04,
+      237.04,
+      237.04,
+      237.04,
+      237.04,
+      237.04,
+      237.04,
+      237.04
+    ],
+    "search": {
+      "id": "2BrQXgYFk",
+      "complexity": 18,
+      "total": 125
+    },
     "builds": 1,
     "mods": [
       {
@@ -6812,6 +6839,24 @@
   {
     "item": "Lightning Coil",
     "stats": "+# to level of socketed minion gems",
+    "average": 36.8,
+    "prices": [
+      20,
+      25,
+      29,
+      35,
+      39,
+      40,
+      40,
+      45,
+      45,
+      50
+    ],
+    "search": {
+      "id": "8aprQ3VTV",
+      "complexity": 18,
+      "total": 72
+    },
     "builds": 1,
     "mods": [
       {
@@ -6825,6 +6870,24 @@
   {
     "item": "Lightning Coil",
     "stats": "+# to level of socketed duration gems",
+    "average": 53.4,
+    "prices": [
+      39,
+      45,
+      45,
+      50,
+      50,
+      50,
+      60,
+      60,
+      65,
+      70
+    ],
+    "search": {
+      "id": "waPeM2jtb",
+      "complexity": 18,
+      "total": 89
+    },
     "builds": 1,
     "mods": [
       {
@@ -6838,6 +6901,24 @@
   {
     "item": "Lightning Coil",
     "stats": "+#% to all maximum resistances",
+    "average": 30.875,
+    "prices": [
+      13,
+      20,
+      23,
+      30,
+      36,
+      40,
+      40,
+      45,
+      60,
+      70
+    ],
+    "search": {
+      "id": "80Z0zlZcV",
+      "complexity": 18,
+      "total": 81
+    },
     "builds": 1,
     "mods": [
       {
@@ -6851,6 +6932,24 @@
   {
     "item": "Lightning Coil",
     "stats": "#% additional physical damage reduction while stationary",
+    "average": 46.8,
+    "prices": [
+      20,
+      20,
+      20,
+      25,
+      25,
+      50,
+      63,
+      75,
+      80,
+      90
+    ],
+    "search": {
+      "id": "6ZBDYWkFG",
+      "complexity": 18,
+      "total": 55
+    },
     "builds": 1,
     "mods": [
       {
@@ -6864,6 +6963,13 @@
   {
     "item": "Lightning Coil",
     "stats": "+# to level of socketed aoe gems, +# to level of socketed projectile gems",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "zeBjrpvH4",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -6883,6 +6989,13 @@
   {
     "item": "Black Zenith",
     "stats": "curse enemies with temporal chains on hit",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "VMQOgQrcp",
+      "complexity": 18,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -6896,6 +7009,13 @@
   {
     "item": "Dialla's Malefaction",
     "stats": "+# to level of socketed aura gems, #% increased maximum energy shield",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "XwP3WGKIP",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -6915,6 +7035,13 @@
   {
     "item": "Dialla's Malefaction",
     "stats": "+# to level of socketed aoe gems, +# to level of socketed projectile gems",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "QVnkP97Tw",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -6934,6 +7061,23 @@
   {
     "item": "Dialla's Malefaction",
     "stats": "+# to level of socketed duration gems",
+    "average": 4368.308571428572,
+    "prices": [
+      1777.8,
+      2370.4,
+      4622.28,
+      4977.84,
+      5214.88,
+      5688.96,
+      5926,
+      59260,
+      263864.7
+    ],
+    "search": {
+      "id": "JVdoQ85cl",
+      "complexity": 18,
+      "total": 9
+    },
     "builds": 1,
     "mods": [
       {
@@ -6947,6 +7091,24 @@
   {
     "item": "Dialla's Malefaction",
     "stats": "+#% to all maximum resistances",
+    "average": 309.87999999999994,
+    "prices": [
+      100,
+      100,
+      118.52,
+      118.52,
+      592.6,
+      829.64,
+      1659.28,
+      5926,
+      8296.4,
+      9481.6
+    ],
+    "search": {
+      "id": "qX3PwlXtg",
+      "complexity": 18,
+      "total": 12
+    },
     "builds": 1,
     "mods": [
       {
@@ -6960,6 +7122,15 @@
   {
     "item": "Dialla's Malefaction",
     "stats": "+# to level of socketed projectile gems, #% increased maximum life",
+    "average": 4740.8,
+    "prices": [
+      4740.8
+    ],
+    "search": {
+      "id": "Zb2nDbEtQ",
+      "complexity": 29,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -6979,6 +7150,16 @@
   {
     "item": "Dialla's Malefaction",
     "stats": "+# to level of socketed curse gems, #% reduced lightning damage taken",
+    "average": 1244.46,
+    "prices": [
+      118.52,
+      2370.4
+    ],
+    "search": {
+      "id": "LqXmRGlSn",
+      "complexity": 29,
+      "total": 2
+    },
     "builds": 1,
     "mods": [
       {
@@ -6998,6 +7179,16 @@
   {
     "item": "Dialla's Malefaction",
     "stats": "+# to level of socketed gems, +# to level of socketed aura gems",
+    "average": 32593,
+    "prices": [
+      29630,
+      35556
+    ],
+    "search": {
+      "id": "3Brgqp5i5",
+      "complexity": 29,
+      "total": 2
+    },
     "builds": 1,
     "mods": [
       {
