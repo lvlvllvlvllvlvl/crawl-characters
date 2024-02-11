@@ -17635,6 +17635,15 @@
   {
     "item": "The Red Dream",
     "stats": "#% reduced effect of curses on you",
+    "average": 22,
+    "prices": [
+      22
+    ],
+    "search": {
+      "id": "MV5koWLsJ",
+      "complexity": 18,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -17648,6 +17657,13 @@
   {
     "item": "Sandstorm Visage",
     "stats": "#% increased effect of cold ailments",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "MqWWYMPCJ",
+      "complexity": 18,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -17661,6 +17677,13 @@
   {
     "item": "Sandstorm Visage",
     "stats": "+# to level of socketed minion gems, +# to level of socketed trap or mine gems",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "MVZ3BELsJ",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -17680,6 +17703,24 @@
   {
     "item": "Ventor's Gamble",
     "stats": "bleeding cannot be inflicted on you",
+    "average": 52.7,
+    "prices": [
+      5,
+      17,
+      30,
+      30,
+      30,
+      35,
+      80,
+      100,
+      100,
+      100
+    ],
+    "search": {
+      "id": "YVg902DIY",
+      "complexity": 18,
+      "total": 58
+    },
     "builds": 1,
     "mods": [
       {
@@ -17693,6 +17734,24 @@
   {
     "item": "Ventor's Gamble",
     "stats": "#% increased rarity of items found",
+    "average": 1,
+    "prices": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "search": {
+      "id": "v3mJV8DFE",
+      "complexity": 18,
+      "total": 10000
+    },
     "builds": 1,
     "mods": [
       {
@@ -17706,6 +17765,13 @@
   {
     "item": "Doryani's Prototype",
     "stats": "+# to level of socketed projectile gems, +#% to all maximum resistances",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "9YKMX5YsK",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -17725,6 +17791,24 @@
   {
     "item": "Redblade Banner",
     "stats": "#% increased maximum life",
+    "average": 970.8333333333334,
+    "prices": [
+      466,
+      582.5,
+      582.5,
+      699,
+      932,
+      1165,
+      1281.5,
+      1514.5,
+      1514.5,
+      2912.5
+    ],
+    "search": {
+      "id": "2BrB85dsk",
+      "complexity": 18,
+      "total": 14
+    },
     "builds": 1,
     "mods": [
       {
@@ -17738,6 +17822,22 @@
   {
     "item": "Redblade Banner",
     "stats": "you take #% reduced extra damage from critical strikes",
+    "average": 4854.166666666667,
+    "prices": [
+      3495,
+      3495,
+      4077.5,
+      5242.5,
+      5825,
+      6990,
+      23300,
+      34950
+    ],
+    "search": {
+      "id": "BEJKXnjC8",
+      "complexity": 18,
+      "total": 8
+    },
     "builds": 1,
     "mods": [
       {
@@ -17751,6 +17851,21 @@
   {
     "item": "Redblade Banner",
     "stats": "#% of physical damage from hits taken as cold damage",
+    "average": 3395.1428571428573,
+    "prices": [
+      699,
+      932,
+      1165,
+      2912.5,
+      5242.5,
+      5825,
+      6990
+    ],
+    "search": {
+      "id": "5okog5mFa",
+      "complexity": 18,
+      "total": 7
+    },
     "builds": 1,
     "mods": [
       {
@@ -17764,6 +17879,24 @@
   {
     "item": "Vixen's Entrapment",
     "stats": "+# to level of socketed gems",
+    "average": 87.33333333333333,
+    "prices": [
+      20,
+      30,
+      40,
+      80,
+      150,
+      116.5,
+      116.5,
+      116.5,
+      116.5,
+      1165
+    ],
+    "search": {
+      "id": "bPZgddLTL",
+      "complexity": 18,
+      "total": 12
+    },
     "builds": 1,
     "mods": [
       {
@@ -17777,6 +17910,18 @@
   {
     "item": "Vixen's Entrapment",
     "stats": "#% increased cast speed",
+    "average": 845.5,
+    "prices": [
+      50,
+      70,
+      1165,
+      2097
+    ],
+    "search": {
+      "id": "PK7l22JCL",
+      "complexity": 18,
+      "total": 4
+    },
     "builds": 1,
     "mods": [
       {
@@ -17790,6 +17935,24 @@
   {
     "item": "Eye of Malice",
     "stats": "regenerate #% of life per second",
+    "average": 46.1,
+    "prices": [
+      16,
+      20,
+      20,
+      20,
+      25,
+      30,
+      50,
+      80,
+      100,
+      100
+    ],
+    "search": {
+      "id": "LmdYYb5Fn",
+      "complexity": 18,
+      "total": 13
+    },
     "builds": 1,
     "mods": [
       {
@@ -17803,6 +17966,24 @@
   {
     "item": "Eye of Malice",
     "stats": "+# to maximum power charges",
+    "average": 113.25,
+    "prices": [
+      75,
+      100,
+      100,
+      120,
+      120,
+      150,
+      116.5,
+      116.5,
+      116.5,
+      116.5
+    ],
+    "search": {
+      "id": "Lmdj637un",
+      "complexity": 18,
+      "total": 29
+    },
     "builds": 1,
     "mods": [
       {
@@ -17816,6 +17997,24 @@
   {
     "item": "Eye of Malice",
     "stats": "+# to level of socketed aoe gems",
+    "average": 54.7,
+    "prices": [
+      5,
+      5,
+      14,
+      15,
+      25,
+      60,
+      80,
+      110,
+      116.5,
+      116.5
+    ],
+    "search": {
+      "id": "YVozYvgIY",
+      "complexity": 18,
+      "total": 15
+    },
     "builds": 1,
     "mods": [
       {
@@ -17829,6 +18028,24 @@
   {
     "item": "Perquil's Toe",
     "stats": "you can apply an additional curse",
+    "average": 106.9,
+    "prices": [
+      40,
+      40,
+      40,
+      70,
+      80,
+      100,
+      116.5,
+      116.5,
+      233,
+      233
+    ],
+    "search": {
+      "id": "aboaB4aSe",
+      "complexity": 18,
+      "total": 11
+    },
     "builds": 1,
     "mods": [
       {
