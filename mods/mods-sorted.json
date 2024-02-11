@@ -18487,6 +18487,24 @@
   {
     "item": "Void Battery",
     "stats": "#% increased critical strike chance",
+    "average": 60,
+    "prices": [
+      20,
+      30,
+      30,
+      50,
+      70,
+      80,
+      80,
+      80,
+      100,
+      150
+    ],
+    "search": {
+      "id": "LmydjKGIn",
+      "complexity": 18,
+      "total": 30
+    },
     "builds": 1,
     "mods": [
       {
@@ -18500,6 +18518,13 @@
   {
     "item": "Replica Inya's Epiphany",
     "stats": "+# to level of socketed gems",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "aq37vaRFe",
+      "complexity": 18,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -18513,6 +18538,15 @@
   {
     "item": "Lioneye's Vision",
     "stats": "+# to level of socketed aoe gems, +# to level of socketed projectile gems",
+    "average": 128379.78,
+    "prices": [
+      128379.78
+    ],
+    "search": {
+      "id": "bX3yDrDuL",
+      "complexity": 29,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -18532,6 +18566,13 @@
   {
     "item": "Perseverance",
     "stats": "+#% to critical strike multiplier during any flask effect, pride has #% increased aura effect",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "jXZK0QZTX",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -18551,6 +18592,24 @@
   {
     "item": "Perseverance",
     "stats": "determination has #% increased aura effect",
+    "average": 80.95,
+    "prices": [
+      20,
+      20,
+      40,
+      70,
+      100,
+      100,
+      110,
+      116.5,
+      116.5,
+      116.5
+    ],
+    "search": {
+      "id": "8ae6mr8iV",
+      "complexity": 18,
+      "total": 24
+    },
     "builds": 1,
     "mods": [
       {
@@ -18564,6 +18623,18 @@
   {
     "item": "Memory Vault",
     "stats": "+# to level of socketed projectile gems",
+    "average": 194.75,
+    "prices": [
+      80,
+      116.5,
+      233,
+      349.5
+    ],
+    "search": {
+      "id": "VM6vDGdFp",
+      "complexity": 18,
+      "total": 4
+    },
     "builds": 1,
     "mods": [
       {
@@ -18577,6 +18648,24 @@
   {
     "item": "Memory Vault",
     "stats": "+# to maximum power charges",
+    "average": 116.5,
+    "prices": [
+      100,
+      116.5,
+      116.5,
+      116.5,
+      116.5,
+      116.5,
+      116.5,
+      174.75,
+      233,
+      407.75
+    ],
+    "search": {
+      "id": "YVdGlWbFY",
+      "complexity": 18,
+      "total": 12
+    },
     "builds": 1,
     "mods": [
       {
@@ -18590,6 +18679,24 @@
   {
     "item": "Voidwalker",
     "stats": "+# to maximum endurance charges",
+    "average": 31.314999999999998,
+    "prices": [
+      10,
+      10,
+      16.15,
+      20,
+      22,
+      40,
+      45,
+      50,
+      50,
+      50
+    ],
+    "search": {
+      "id": "rXmqqpmfQ",
+      "complexity": 18,
+      "total": 20
+    },
     "builds": 1,
     "mods": [
       {
@@ -18603,6 +18710,23 @@
   {
     "item": "Mind of the Council",
     "stats": "+# to maximum power charges",
+    "average": 45.464285714285715,
+    "prices": [
+      30,
+      40,
+      40,
+      40,
+      50,
+      60,
+      80,
+      58.25,
+      116.5
+    ],
+    "search": {
+      "id": "Ey6gq3VS5",
+      "complexity": 18,
+      "total": 9
+    },
     "builds": 1,
     "mods": [
       {
@@ -18616,6 +18740,13 @@
   {
     "item": "Breathstealer",
     "stats": "+# to level of socketed gems",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "WVWz0XZtm",
+      "complexity": 18,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -18629,6 +18760,18 @@
   {
     "item": "Breathstealer",
     "stats": "+# to level of socketed aoe gems",
+    "average": 116.5,
+    "prices": [
+      116.5,
+      116.5,
+      116.5,
+      2330
+    ],
+    "search": {
+      "id": "2BaPbYjIk",
+      "complexity": 18,
+      "total": 4
+    },
     "builds": 1,
     "mods": [
       {
@@ -18642,6 +18785,17 @@
   {
     "item": "Umbilicus Immortalis",
     "stats": "#% increased strength, #% increased intelligence",
+    "average": 78.83333333333333,
+    "prices": [
+      40,
+      80,
+      116.5
+    ],
+    "search": {
+      "id": "MV5YWYMsJ",
+      "complexity": 29,
+      "total": 3
+    },
     "builds": 1,
     "mods": [
       {
@@ -18661,6 +18815,15 @@
   {
     "item": "Umbilicus Immortalis",
     "stats": "#% increased maximum energy shield",
+    "average": 70,
+    "prices": [
+      70
+    ],
+    "search": {
+      "id": "MVZbYLGUJ",
+      "complexity": 18,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -18674,6 +18837,13 @@
   {
     "item": "Umbilicus Immortalis",
     "stats": "#% increased strength, #% increased dexterity, +#% to all elemental resistances",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "GkJ5moZcb",
+      "complexity": 20,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -18699,6 +18869,16 @@
   {
     "item": "Replica Dreamfeather",
     "stats": "#% increased physical damage, #% increased attack speed",
+    "average": 21843.75,
+    "prices": [
+      14562.5,
+      29125
+    ],
+    "search": {
+      "id": "gqPOMrOFQ",
+      "complexity": 30,
+      "total": 2
+    },
     "builds": 1,
     "mods": [
       {
