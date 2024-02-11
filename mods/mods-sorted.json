@@ -6316,6 +6316,24 @@
   {
     "item": "Bisco's Leash",
     "stats": "#% increased critical strike chance during any flask effect",
+    "average": 21,
+    "prices": [
+      10,
+      10,
+      20,
+      20,
+      20,
+      20,
+      20,
+      30,
+      30,
+      30
+    ],
+    "search": {
+      "id": "jPpo3RdfX",
+      "complexity": 18,
+      "total": 26
+    },
     "builds": 1,
     "mods": [
       {
@@ -6329,6 +6347,24 @@
   {
     "item": "Sadima's Touch",
     "stats": "+# to level of socketed minion gems",
+    "average": 27.5,
+    "prices": [
+      20,
+      20,
+      20,
+      20,
+      25,
+      30,
+      30,
+      30,
+      40,
+      40
+    ],
+    "search": {
+      "id": "YD0JL6vhY",
+      "complexity": 18,
+      "total": 20
+    },
     "builds": 1,
     "mods": [
       {
@@ -6342,6 +6378,13 @@
   {
     "item": "Sadima's Touch",
     "stats": "+# to level of socketed duration gems, attacks have +#% to critical strike chance",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "3BWqobds5",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -6361,6 +6404,24 @@
   {
     "item": "Sadima's Touch",
     "stats": "curse enemies with vulnerability on hit",
+    "average": 17.4,
+    "prices": [
+      10,
+      10,
+      15,
+      19,
+      20,
+      20,
+      20,
+      20,
+      20,
+      20
+    ],
+    "search": {
+      "id": "JYmporJsl",
+      "complexity": 18,
+      "total": 41
+    },
     "builds": 1,
     "mods": [
       {
@@ -6374,6 +6435,24 @@
   {
     "item": "Sadima's Touch",
     "stats": "curse enemies with despair on hit",
+    "average": 41.111111111111114,
+    "prices": [
+      20,
+      30,
+      30,
+      35,
+      40,
+      40,
+      45,
+      50,
+      50,
+      50
+    ],
+    "search": {
+      "id": "v3mvnDMCE",
+      "complexity": 18,
+      "total": 51
+    },
     "builds": 1,
     "mods": [
       {
@@ -6387,6 +6466,24 @@
   {
     "item": "Sadima's Touch",
     "stats": "+# to maximum frenzy charges",
+    "average": 14.190000000000001,
+    "prices": [
+      4,
+      5,
+      10,
+      10.98,
+      13,
+      15,
+      20,
+      20,
+      21.96,
+      21.96
+    ],
+    "search": {
+      "id": "Qr6GOj7Tw",
+      "complexity": 18,
+      "total": 47
+    },
     "builds": 1,
     "mods": [
       {
@@ -6400,6 +6497,15 @@
   {
     "item": "Leper's Alms",
     "stats": "#% of physical damage from hits taken as lightning damage, #% reduced damage taken from projectile hits",
+    "average": 592.6,
+    "prices": [
+      592.6
+    ],
+    "search": {
+      "id": "VMpJL9whp",
+      "complexity": 29,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -6419,6 +6525,16 @@
   {
     "item": "March of the Legion",
     "stats": "+# to level of socketed aoe gems, +# to level of socketed aura gems",
+    "average": 295139.925,
+    "prices": [
+      262346.6,
+      327933.25
+    ],
+    "search": {
+      "id": "eXW9nbWFL",
+      "complexity": 29,
+      "total": 2
+    },
     "builds": 1,
     "mods": [
       {
@@ -6438,6 +6554,24 @@
   {
     "item": "March of the Legion",
     "stats": "+# to level of socketed trap or mine gems",
+    "average": 47.9,
+    "prices": [
+      15,
+      20,
+      50,
+      50,
+      50,
+      50,
+      50,
+      55,
+      60,
+      79
+    ],
+    "search": {
+      "id": "DL497bvC5",
+      "complexity": 18,
+      "total": 48
+    },
     "builds": 1,
     "mods": [
       {
@@ -6451,6 +6585,24 @@
   {
     "item": "March of the Legion",
     "stats": "+# to level of socketed projectile gems",
+    "average": 20.7,
+    "prices": [
+      10,
+      10,
+      10,
+      12,
+      15,
+      20,
+      25,
+      30,
+      35,
+      40
+    ],
+    "search": {
+      "id": "rXjkzWgCQ",
+      "complexity": 18,
+      "total": 62
+    },
     "builds": 1,
     "mods": [
       {
@@ -6464,6 +6616,16 @@
   {
     "item": "March of the Legion",
     "stats": "+# to level of socketed aoe gems, +# to level of socketed projectile gems",
+    "average": 3674.12,
+    "prices": [
+      3555.6,
+      3792.64
+    ],
+    "search": {
+      "id": "VMKlbvwhp",
+      "complexity": 29,
+      "total": 2
+    },
     "builds": 1,
     "mods": [
       {
@@ -6483,6 +6645,18 @@
   {
     "item": "March of the Legion",
     "stats": "+# to level of socketed gems, +# to level of socketed aura gems",
+    "average": 142284.55,
+    "prices": [
+      17778,
+      26667,
+      262346.6,
+      262346.6
+    ],
+    "search": {
+      "id": "GZyEJaBhb",
+      "complexity": 29,
+      "total": 4
+    },
     "builds": 1,
     "mods": [
       {
@@ -6502,6 +6676,15 @@
   {
     "item": "March of the Legion",
     "stats": "+# to level of socketed aura gems, #% increased movement speed",
+    "average": 60208.159999999996,
+    "prices": [
+      60208.159999999996
+    ],
+    "search": {
+      "id": "eXJOaKrIL",
+      "complexity": 29,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -6521,6 +6704,13 @@
   {
     "item": "March of the Legion",
     "stats": "#% increased maximum energy shield, #% increased maximum life",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "jPpzDkXSX",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -6540,6 +6730,18 @@
   {
     "item": "March of the Legion",
     "stats": "+# to level of socketed projectile gems, +# to level of socketed aura gems",
+    "average": 1540.76,
+    "prices": [
+      829.64,
+      1303.72,
+      1777.8,
+      2251.88
+    ],
+    "search": {
+      "id": "bXpqEozHL",
+      "complexity": 29,
+      "total": 4
+    },
     "builds": 1,
     "mods": [
       {
