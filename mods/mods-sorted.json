@@ -4581,6 +4581,13 @@
   {
     "item": "The Poet's Pen",
     "stats": "adds # to # fire damage, #% increased attack speed",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "9YG3RV4tK",
+      "complexity": 31,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -4602,6 +4609,24 @@
   {
     "item": "The Poet's Pen",
     "stats": "#% increased area of effect",
+    "average": 1274.0900000000001,
+    "prices": [
+      1185.2,
+      1185.2,
+      1185.2,
+      1185.2,
+      1303.72,
+      1303.72,
+      1422.24,
+      1422.24,
+      1659.28,
+      1777.8
+    ],
+    "search": {
+      "id": "4db67QgH9",
+      "complexity": 18,
+      "total": 22
+    },
     "builds": 1,
     "mods": [
       {
@@ -4615,6 +4640,24 @@
   {
     "item": "Viridi's Veil",
     "stats": "+# to level of socketed projectile gems",
+    "average": 111.51333333333332,
+    "prices": [
+      60,
+      95,
+      100,
+      118.52,
+      118.52,
+      118.52,
+      118.52,
+      177.78,
+      237.04,
+      355.56
+    ],
+    "search": {
+      "id": "MVDlgq6UJ",
+      "complexity": 18,
+      "total": 10
+    },
     "builds": 1,
     "mods": [
       {
@@ -4628,6 +4671,21 @@
   {
     "item": "Viridi's Veil",
     "stats": "socketed skill gems get a #% cost & reservation multiplier",
+    "average": 2275.5840000000003,
+    "prices": [
+      355.56,
+      1777.8,
+      2133.36,
+      2370.4,
+      4740.8,
+      15407.6,
+      30815.2
+    ],
+    "search": {
+      "id": "9qlwZXQUK",
+      "complexity": 18,
+      "total": 7
+    },
     "builds": 1,
     "mods": [
       {
@@ -4641,6 +4699,24 @@
   {
     "item": "Kaom's Spirit",
     "stats": "+#% to spell critical strike chance",
+    "average": 55,
+    "prices": [
+      40,
+      40,
+      40,
+      50,
+      50,
+      50,
+      60,
+      70,
+      70,
+      80
+    ],
+    "search": {
+      "id": "qaylYl9ug",
+      "complexity": 18,
+      "total": 28
+    },
     "builds": 1,
     "mods": [
       {
@@ -4654,6 +4730,24 @@
   {
     "item": "Kaom's Spirit",
     "stats": "+# to level of socketed aoe gems",
+    "average": 134.44599999999997,
+    "prices": [
+      100,
+      118.52,
+      118.52,
+      118.52,
+      118.52,
+      118.52,
+      118.52,
+      177.78,
+      177.78,
+      177.78
+    ],
+    "search": {
+      "id": "lPrYyEQUV",
+      "complexity": 18,
+      "total": 36
+    },
     "builds": 1,
     "mods": [
       {
@@ -4667,6 +4761,13 @@
   {
     "item": "Anathema",
     "stats": "#% increased strength, #% increased dexterity, grace has #% increased aura effect",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "QVOrDlvfw",
+      "complexity": 20,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -4692,6 +4793,17 @@
   {
     "item": "Anathema",
     "stats": "bleeding cannot be inflicted on you",
+    "average": 10192.72,
+    "prices": [
+      4503.76,
+      8296.4,
+      17778
+    ],
+    "search": {
+      "id": "rY5MGMECQ",
+      "complexity": 18,
+      "total": 3
+    },
     "builds": 1,
     "mods": [
       {
@@ -4705,6 +4817,18 @@
   {
     "item": "Anathema",
     "stats": "adds # to # lightning damage to spells and attacks",
+    "average": 118.52,
+    "prices": [
+      80,
+      120,
+      118.52,
+      118.52
+    ],
+    "search": {
+      "id": "0B8O6p8Fg",
+      "complexity": 18,
+      "total": 4
+    },
     "builds": 1,
     "mods": [
       {
@@ -4718,6 +4842,15 @@
   {
     "item": "Anathema",
     "stats": "#% increased strength, #% increased intelligence",
+    "average": 3555.6,
+    "prices": [
+      3555.6
+    ],
+    "search": {
+      "id": "LmdED02in",
+      "complexity": 29,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -4737,6 +4870,18 @@
   {
     "item": "Anathema",
     "stats": "#% increased attack speed",
+    "average": 770.38,
+    "prices": [
+      118.52,
+      829.64,
+      948.16,
+      1185.2
+    ],
+    "search": {
+      "id": "zeovLqLc4",
+      "complexity": 19,
+      "total": 4
+    },
     "builds": 1,
     "mods": [
       {
@@ -4751,6 +4896,22 @@
   {
     "item": "Anathema",
     "stats": "zealotry has #% increased aura effect",
+    "average": 2740.775,
+    "prices": [
+      1185.2,
+      1777.8,
+      1777.8,
+      2370.4,
+      2370.4,
+      3555.6,
+      4148.2,
+      4740.8
+    ],
+    "search": {
+      "id": "wpRMq0Bhb",
+      "complexity": 18,
+      "total": 8
+    },
     "builds": 1,
     "mods": [
       {
@@ -4764,6 +4925,16 @@
   {
     "item": "Anathema",
     "stats": "#% increased cast speed",
+    "average": 355.56,
+    "prices": [
+      355.56,
+      355.56
+    ],
+    "search": {
+      "id": "JYm7jvOIl",
+      "complexity": 18,
+      "total": 2
+    },
     "builds": 1,
     "mods": [
       {
@@ -4777,6 +4948,17 @@
   {
     "item": "Victario's Influence",
     "stats": "+# to level of socketed aoe gems, +# to level of socketed minion gems",
+    "average": 100,
+    "prices": [
+      90,
+      100,
+      100
+    ],
+    "search": {
+      "id": "jXJDMgZTX",
+      "complexity": 29,
+      "total": 3
+    },
     "builds": 1,
     "mods": [
       {
@@ -4796,6 +4978,17 @@
   {
     "item": "Victario's Influence",
     "stats": "+# to level of socketed aoe gems, #% reduced chaos damage taken",
+    "average": 32.5,
+    "prices": [
+      30,
+      35,
+      100
+    ],
+    "search": {
+      "id": "rXOPGLguQ",
+      "complexity": 29,
+      "total": 3
+    },
     "builds": 1,
     "mods": [
       {
