@@ -15781,6 +15781,19 @@
   {
     "item": "Inpulsa's Broken Heart",
     "stats": "#% reduced lightning damage taken",
+    "average": 82.875,
+    "prices": [
+      35,
+      80,
+      100,
+      116.5,
+      233
+    ],
+    "search": {
+      "id": "LmXP4Y2hn",
+      "complexity": 18,
+      "total": 5
+    },
     "builds": 1,
     "mods": [
       {
@@ -15794,6 +15807,15 @@
   {
     "item": "Inpulsa's Broken Heart",
     "stats": "#% reduced cold damage taken",
+    "average": 116.5,
+    "prices": [
+      116.5
+    ],
+    "search": {
+      "id": "eXDrLwWFL",
+      "complexity": 18,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -15807,6 +15829,13 @@
   {
     "item": "Belly of the Beast",
     "stats": "+# to level of socketed aoe gems, #% increased damage",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "rXVmnzmfQ",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -15826,6 +15855,13 @@
   {
     "item": "Belly of the Beast",
     "stats": "+# to level of socketed gems, +# to level of socketed warcry gems",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "zel8K6OT4",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -15845,6 +15881,20 @@
   {
     "item": "The Magnate",
     "stats": "+#% to critical strike multiplier during any flask effect",
+    "average": 86.5875,
+    "prices": [
+      50,
+      75,
+      104.85000000000001,
+      116.5,
+      699,
+      1165
+    ],
+    "search": {
+      "id": "y9RWXZ8IR",
+      "complexity": 18,
+      "total": 6
+    },
     "builds": 1,
     "mods": [
       {
@@ -15858,6 +15908,23 @@
   {
     "item": "The Magnate",
     "stats": "+#% to all elemental resistances",
+    "average": 130.44444444444446,
+    "prices": [
+      90,
+      90,
+      95,
+      100,
+      100,
+      116.5,
+      116.5,
+      233,
+      233
+    ],
+    "search": {
+      "id": "mXjMRMeT6",
+      "complexity": 18,
+      "total": 9
+    },
     "builds": 1,
     "mods": [
       {
@@ -15871,6 +15938,21 @@
   {
     "item": "The Magnate",
     "stats": "hatred has #% increased aura effect",
+    "average": 79.5,
+    "prices": [
+      24,
+      40,
+      80,
+      100,
+      116.5,
+      116.5,
+      466
+    ],
+    "search": {
+      "id": "RVBg6k4I7",
+      "complexity": 18,
+      "total": 7
+    },
     "builds": 1,
     "mods": [
       {
@@ -15884,6 +15966,24 @@
   {
     "item": "Abyssus",
     "stats": "+# to maximum power charges",
+    "average": 191.45,
+    "prices": [
+      100,
+      100,
+      116.5,
+      116.5,
+      116.5,
+      200,
+      233,
+      233,
+      349.5,
+      349.5
+    ],
+    "search": {
+      "id": "aqeEGJ7se",
+      "complexity": 18,
+      "total": 15
+    },
     "builds": 1,
     "mods": [
       {
@@ -15897,6 +15997,24 @@
   {
     "item": "Abyssus",
     "stats": "socketed skill gems get a #% cost & reservation multiplier",
+    "average": 1063.0625,
+    "prices": [
+      466,
+      815.5,
+      815.5,
+      932,
+      1048.5,
+      1165,
+      1165,
+      1165,
+      1398,
+      1747.5
+    ],
+    "search": {
+      "id": "OVwqQKaTE",
+      "complexity": 18,
+      "total": 18
+    },
     "builds": 1,
     "mods": [
       {
@@ -15910,6 +16028,24 @@
   {
     "item": "Voidforge",
     "stats": "#% increased elemental damage with attack skills",
+    "average": 8038.5,
+    "prices": [
+      7572.5,
+      7572.5,
+      7572.5,
+      7805.5,
+      8038.5,
+      8038.5,
+      8155,
+      8155,
+      8737.5,
+      8737.5
+    ],
+    "search": {
+      "id": "rXmE2XmfQ",
+      "complexity": 18,
+      "total": 23
+    },
     "builds": 1,
     "mods": [
       {
@@ -15923,6 +16059,24 @@
   {
     "item": "Ixchel's Temptation",
     "stats": "#% increased rarity of items found",
+    "average": 19.714285714285715,
+    "prices": [
+      1,
+      10,
+      15,
+      19,
+      19,
+      20,
+      20,
+      20,
+      20,
+      20
+    ],
+    "search": {
+      "id": "y9qnw9OiR",
+      "complexity": 18,
+      "total": 195
+    },
     "builds": 1,
     "mods": [
       {
@@ -15936,6 +16090,24 @@
   {
     "item": "Ralakesh's Impatience",
     "stats": "#% increased movement speed",
+    "average": 368.9166666666667,
+    "prices": [
+      150,
+      291.25,
+      349.5,
+      349.5,
+      349.5,
+      349.5,
+      349.5,
+      349.5,
+      466,
+      466
+    ],
+    "search": {
+      "id": "mP2QMJLu6",
+      "complexity": 18,
+      "total": 33
+    },
     "builds": 1,
     "mods": [
       {
@@ -15949,6 +16121,24 @@
   {
     "item": "Ralakesh's Impatience",
     "stats": "+# to maximum endurance charges",
+    "average": 5149.3,
+    "prices": [
+      4660,
+      4660,
+      4660,
+      5009.5,
+      5126,
+      5242.5,
+      5242.5,
+      5475.5,
+      5592,
+      5825
+    ],
+    "search": {
+      "id": "wpRQMGQUb",
+      "complexity": 18,
+      "total": 23
+    },
     "builds": 1,
     "mods": [
       {
@@ -15962,6 +16152,24 @@
   {
     "item": "Ralakesh's Impatience",
     "stats": "grants level # haste skill",
+    "average": 72.55555555555556,
+    "prices": [
+      30,
+      50,
+      50,
+      60,
+      60,
+      80,
+      90,
+      150,
+      116.5,
+      116.5
+    ],
+    "search": {
+      "id": "8qBRjrvFV",
+      "complexity": 18,
+      "total": 19
+    },
     "builds": 1,
     "mods": [
       {
@@ -15975,6 +16183,13 @@
   {
     "item": "Ralakesh's Impatience",
     "stats": "+#% chance to suppress spell damage, +# armour while stationary",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "Gqw7qyofb",
+      "complexity": 30,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
