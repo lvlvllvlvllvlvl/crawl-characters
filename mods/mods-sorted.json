@@ -19144,6 +19144,24 @@
   {
     "item": "The Consuming Dark",
     "stats": "#% chance to gain a frenzy charge on kill",
+    "average": 25,
+    "prices": [
+      10,
+      10,
+      15,
+      20,
+      25,
+      30,
+      40,
+      50,
+      70,
+      80
+    ],
+    "search": {
+      "id": "0BRpybYFg",
+      "complexity": 18,
+      "total": 19
+    },
     "builds": 1,
     "mods": [
       {
@@ -19157,6 +19175,19 @@
   {
     "item": "Shavronne's Revelation",
     "stats": "wrath has #% increased aura effect",
+    "average": 1677.6,
+    "prices": [
+      815.5,
+      815.5,
+      932,
+      2330,
+      3495
+    ],
+    "search": {
+      "id": "y9RWJr8tR",
+      "complexity": 18,
+      "total": 5
+    },
     "builds": 1,
     "mods": [
       {
@@ -19170,6 +19201,13 @@
   {
     "item": "The Fourth Vow",
     "stats": "+# to level of socketed minion gems, #% additional physical damage reduction while stationary",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "9Yv3JpKcK",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -19189,6 +19227,24 @@
   {
     "item": "The Fourth Vow",
     "stats": "+# to level of socketed projectile gems",
+    "average": 82.9,
+    "prices": [
+      15,
+      20,
+      25,
+      70,
+      116.5,
+      116.5,
+      116.5,
+      116.5,
+      116.5,
+      116.5
+    ],
+    "search": {
+      "id": "Zb5kpJEHQ",
+      "complexity": 18,
+      "total": 23
+    },
     "builds": 1,
     "mods": [
       {
@@ -19202,6 +19258,24 @@
   {
     "item": "The Fourth Vow",
     "stats": "+# to level of socketed gems",
+    "average": 78.55,
+    "prices": [
+      40,
+      50,
+      50,
+      69,
+      70,
+      70,
+      100,
+      100,
+      120,
+      116.5
+    ],
+    "search": {
+      "id": "VyBKDqPSp",
+      "complexity": 18,
+      "total": 40
+    },
     "builds": 1,
     "mods": [
       {
@@ -19215,6 +19289,13 @@
   {
     "item": "The Fourth Vow",
     "stats": "+# to level of socketed gems, #% increased damage",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "0BZLdGwUg",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -19234,6 +19315,13 @@
   {
     "item": "The Fourth Vow",
     "stats": "+# to level of socketed gems, #% increased maximum energy shield",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "9Bda8KOuK",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -19253,6 +19341,24 @@
   {
     "item": "Replica Dragonfang's Flight",
     "stats": "you can apply an additional curse",
+    "average": 139.4375,
+    "prices": [
+      100,
+      100,
+      100,
+      116.5,
+      116.5,
+      116.5,
+      233,
+      233,
+      349.5,
+      1165
+    ],
+    "search": {
+      "id": "no9rlYyH0",
+      "complexity": 18,
+      "total": 18
+    },
     "builds": 1,
     "mods": [
       {
@@ -19266,6 +19372,18 @@
   {
     "item": "Bubonic Trail",
     "stats": "+# to level of socketed gems",
+    "average": 1762.5,
+    "prices": [
+      60,
+      116.5,
+      2330,
+      4543.5
+    ],
+    "search": {
+      "id": "4dv3yQYt9",
+      "complexity": 18,
+      "total": 4
+    },
     "builds": 1,
     "mods": [
       {
@@ -19279,6 +19397,19 @@
   {
     "item": "Bubonic Trail",
     "stats": "+# to level of socketed duration gems",
+    "average": 116.5,
+    "prices": [
+      20,
+      100,
+      116.5,
+      116.5,
+      1747.5
+    ],
+    "search": {
+      "id": "vljKgqZCE",
+      "complexity": 18,
+      "total": 5
+    },
     "builds": 1,
     "mods": [
       {
@@ -19292,6 +19423,24 @@
   {
     "item": "Leer Cast",
     "stats": "+# to maximum power charges",
+    "average": 55.3,
+    "prices": [
+      20,
+      20,
+      20,
+      20,
+      30,
+      30,
+      80,
+      100,
+      116.5,
+      116.5
+    ],
+    "search": {
+      "id": "Xqb5zPKFP",
+      "complexity": 18,
+      "total": 14
+    },
     "builds": 1,
     "mods": [
       {
@@ -19305,6 +19454,13 @@
   {
     "item": "Honourhome",
     "stats": "socketed skill gems get a #% cost & reservation multiplier, +# to maximum power charges",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "3Bb5QJ5i5",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -19324,6 +19480,13 @@
   {
     "item": "Bronn's Lithe",
     "stats": "+# to level of socketed aoe gems, you take #% reduced extra damage from critical strikes",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "zeG3n6RF4",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -19343,6 +19506,24 @@
   {
     "item": "Bloodnotch",
     "stats": "#% increased damage",
+    "average": 46.9,
+    "prices": [
+      20,
+      25,
+      35,
+      35,
+      40,
+      40,
+      45,
+      65,
+      80,
+      84
+    ],
+    "search": {
+      "id": "LeVvdK2Cn",
+      "complexity": 18,
+      "total": 45
+    },
     "builds": 1,
     "mods": [
       {
@@ -19356,6 +19537,15 @@
   {
     "item": "Bisco's Collar",
     "stats": "#% increased quantity of items found",
+    "average": 29125,
+    "prices": [
+      29125
+    ],
+    "search": {
+      "id": "bXWa3OLTL",
+      "complexity": 18,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
