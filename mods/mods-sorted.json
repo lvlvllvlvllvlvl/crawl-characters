@@ -10604,6 +10604,21 @@
   {
     "item": "Watcher's Eye",
     "stats": "#% reduced effect of chill on you",
+    "average": 905.4,
+    "prices": [
+      100,
+      116.5,
+      233,
+      1747.5,
+      2330,
+      8155,
+      29125
+    ],
+    "search": {
+      "id": "Zb5baJRTQ",
+      "complexity": 18,
+      "total": 7
+    },
     "builds": 1,
     "mods": [
       {
@@ -10617,6 +10632,24 @@
   {
     "item": "Watcher's Eye",
     "stats": "damage penetrates #% lightning resistance",
+    "average": 116.5,
+    "prices": [
+      35,
+      50,
+      80,
+      100,
+      116.5,
+      116.5,
+      116.5,
+      116.5,
+      116.5,
+      291.25
+    ],
+    "search": {
+      "id": "6ZbVbrXIG",
+      "complexity": 19,
+      "total": 16
+    },
     "builds": 1,
     "mods": [
       {
@@ -10631,6 +10664,13 @@
   {
     "item": "Watcher's Eye",
     "stats": "#% increased global critical strike chance, #% reduced poison duration on you",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "vlEXWkjHE",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -10650,6 +10690,24 @@
   {
     "item": "Cloak of Flame",
     "stats": "+# to level of socketed trap or mine gems",
+    "average": 46.2,
+    "prices": [
+      12,
+      20,
+      30,
+      30,
+      40,
+      50,
+      50,
+      70,
+      70,
+      90
+    ],
+    "search": {
+      "id": "BEXWzq4T8",
+      "complexity": 18,
+      "total": 47
+    },
     "builds": 1,
     "mods": [
       {
@@ -10663,6 +10721,24 @@
   {
     "item": "Cloak of Flame",
     "stats": "+# to level of socketed gems",
+    "average": 26.5,
+    "prices": [
+      5,
+      10,
+      20,
+      20,
+      22,
+      30,
+      30,
+      30,
+      30,
+      30
+    ],
+    "search": {
+      "id": "3Gwb5LGh5",
+      "complexity": 18,
+      "total": 162
+    },
     "builds": 1,
     "mods": [
       {
@@ -10676,6 +10752,24 @@
   {
     "item": "Eyes of the Greatwolf",
     "stats": "#% increased damage, #% increased quantity of items found",
+    "average": 105.44444444444444,
+    "prices": [
+      50,
+      80,
+      80,
+      90,
+      116.5,
+      116.5,
+      116.5,
+      116.5,
+      116.5,
+      116.5
+    ],
+    "search": {
+      "id": "plLlQGdH0",
+      "complexity": 29,
+      "total": 63
+    },
     "builds": 1,
     "mods": [
       {
@@ -10695,6 +10789,24 @@
   {
     "item": "Eyes of the Greatwolf",
     "stats": "#% increased maximum life",
+    "average": 11.393,
+    "prices": [
+      8.93,
+      10,
+      10,
+      10,
+      10,
+      10,
+      10,
+      15,
+      15,
+      15
+    ],
+    "search": {
+      "id": "Zb5LQL0uQ",
+      "complexity": 18,
+      "total": 614
+    },
     "builds": 1,
     "mods": [
       {
@@ -10708,6 +10820,16 @@
   {
     "item": "The Jinxed Juju",
     "stats": "#% of cold damage leeched as life",
+    "average": 110,
+    "prices": [
+      100,
+      120
+    ],
+    "search": {
+      "id": "MVZ04vLUJ",
+      "complexity": 19,
+      "total": 2
+    },
     "builds": 1,
     "mods": [
       {
@@ -10722,6 +10844,24 @@
   {
     "item": "The Jinxed Juju",
     "stats": "wrath has #% increased aura effect",
+    "average": 76.16666666666667,
+    "prices": [
+      19,
+      25,
+      80,
+      100,
+      116.5,
+      116.5,
+      233,
+      349.5,
+      582.5,
+      2097
+    ],
+    "search": {
+      "id": "oX7R79kFl",
+      "complexity": 18,
+      "total": 10
+    },
     "builds": 1,
     "mods": [
       {
@@ -10735,6 +10875,20 @@
   {
     "item": "The Jinxed Juju",
     "stats": "discipline has #% increased aura effect",
+    "average": 68.75,
+    "prices": [
+      40,
+      50,
+      90,
+      95,
+      233,
+      349.5
+    ],
+    "search": {
+      "id": "qXJRJvkSg",
+      "complexity": 18,
+      "total": 6
+    },
     "builds": 1,
     "mods": [
       {
@@ -10748,6 +10902,24 @@
   {
     "item": "The Jinxed Juju",
     "stats": "hatred has #% increased aura effect",
+    "average": 118.83333333333333,
+    "prices": [
+      50,
+      60,
+      90,
+      100,
+      180,
+      233,
+      582.5,
+      699,
+      1747.5,
+      3495
+    ],
+    "search": {
+      "id": "bXW5pJOTL",
+      "complexity": 18,
+      "total": 11
+    },
     "builds": 1,
     "mods": [
       {
@@ -10761,6 +10933,19 @@
   {
     "item": "The Jinxed Juju",
     "stats": "determination has #% increased aura effect",
+    "average": 243,
+    "prices": [
+      40,
+      116.5,
+      233,
+      582.5,
+      5825
+    ],
+    "search": {
+      "id": "aq3p3XKTe",
+      "complexity": 18,
+      "total": 5
+    },
     "builds": 1,
     "mods": [
       {
@@ -10774,6 +10959,13 @@
   {
     "item": "The Jinxed Juju",
     "stats": "grants level # purity of elements skill, +#% to all maximum resistances",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "QvMr6Vpfw",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -10793,6 +10985,13 @@
   {
     "item": "The Jinxed Juju",
     "stats": "#% increased dexterity, #% increased intelligence, wrath has #% increased aura effect",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "paPKOy5s0",
+      "complexity": 20,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -10818,6 +11017,20 @@
   {
     "item": "Shadows and Dust",
     "stats": "+# to level of socketed minion gems",
+    "average": 79,
+    "prices": [
+      50,
+      60,
+      80,
+      100,
+      105,
+      582.5
+    ],
+    "search": {
+      "id": "KJGpJKyU5",
+      "complexity": 18,
+      "total": 6
+    },
     "builds": 1,
     "mods": [
       {
