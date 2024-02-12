@@ -2299,6 +2299,24 @@
   {
     "item": "String of Servitude",
     "stats": "zealotry has #% increased aura effect",
+    "average": 13,
+    "prices": [
+      4,
+      5,
+      5,
+      8,
+      10,
+      10,
+      15,
+      30,
+      30,
+      38
+    ],
+    "search": {
+      "id": "qXjkkjlCg",
+      "complexity": 18,
+      "total": 39
+    },
     "builds": 2,
     "mods": [
       {
@@ -2312,6 +2330,16 @@
   {
     "item": "Matua Tupuna",
     "stats": "#% of physical damage from hits taken as fire damage",
+    "average": 144.975,
+    "prices": [
+      115.98,
+      173.97
+    ],
+    "search": {
+      "id": "PdlBV3ghL",
+      "complexity": 18,
+      "total": 2
+    },
     "builds": 2,
     "mods": [
       {
@@ -2325,6 +2353,24 @@
   {
     "item": "Ephemeral Edge",
     "stats": "resolute technique",
+    "average": 171.372,
+    "prices": [
+      90,
+      115.98,
+      115.98,
+      115.98,
+      115.98,
+      231.96,
+      231.96,
+      231.96,
+      231.96,
+      231.96
+    ],
+    "search": {
+      "id": "3BrQ3l9c5",
+      "complexity": 18,
+      "total": 45
+    },
     "builds": 2,
     "mods": [
       {
@@ -2338,6 +2384,24 @@
   {
     "item": "Call of the Brotherhood",
     "stats": "+#% to all elemental resistances",
+    "average": 79.5657142857143,
+    "prices": [
+      15,
+      40,
+      80,
+      90,
+      100,
+      115.98,
+      115.98,
+      231.96,
+      463.92,
+      927.84
+    ],
+    "search": {
+      "id": "LeV9n8jHn",
+      "complexity": 18,
+      "total": 11
+    },
     "builds": 2,
     "mods": [
       {
@@ -2351,6 +2415,24 @@
   {
     "item": "Heatshiver",
     "stats": "#% increased maximum life",
+    "average": 28.8,
+    "prices": [
+      9,
+      10,
+      20,
+      25,
+      30,
+      30,
+      39,
+      40,
+      40,
+      45
+    ],
+    "search": {
+      "id": "PK7qy2ZCL",
+      "complexity": 18,
+      "total": 36
+    },
     "builds": 2,
     "mods": [
       {
@@ -2364,6 +2446,24 @@
   {
     "item": "Heatshiver",
     "stats": "+# to level of socketed aura gems",
+    "average": 26.9,
+    "prices": [
+      20,
+      20,
+      23,
+      26,
+      30,
+      30,
+      30,
+      30,
+      30,
+      30
+    ],
+    "search": {
+      "id": "9Y2Z83ysK",
+      "complexity": 18,
+      "total": 62
+    },
     "builds": 2,
     "mods": [
       {
@@ -2377,6 +2477,24 @@
   {
     "item": "Sadima's Touch",
     "stats": "curse enemies with enfeeble on hit",
+    "average": 33.6,
+    "prices": [
+      20,
+      20,
+      20,
+      30,
+      30,
+      36,
+      40,
+      40,
+      50,
+      50
+    ],
+    "search": {
+      "id": "JVdY989Fl",
+      "complexity": 18,
+      "total": 27
+    },
     "builds": 2,
     "mods": [
       {
@@ -2390,6 +2508,24 @@
   {
     "item": "Sadima's Touch",
     "stats": "#% increased maximum energy shield",
+    "average": 29.5,
+    "prices": [
+      5,
+      6,
+      8,
+      14,
+      15,
+      27,
+      50,
+      50,
+      60,
+      60
+    ],
+    "search": {
+      "id": "PdDK4Y7iL",
+      "complexity": 18,
+      "total": 19
+    },
     "builds": 2,
     "mods": [
       {
@@ -2403,6 +2539,24 @@
   {
     "item": "Sadima's Touch",
     "stats": "#% increased attack speed",
+    "average": 21.2,
+    "prices": [
+      10,
+      12,
+      20,
+      20,
+      20,
+      20,
+      25,
+      25,
+      30,
+      30
+    ],
+    "search": {
+      "id": "2Gb6JDdtk",
+      "complexity": 19,
+      "total": 24
+    },
     "builds": 2,
     "mods": [
       {
@@ -2417,6 +2571,24 @@
   {
     "item": "Sadima's Touch",
     "stats": "#% increased cast speed",
+    "average": 33.3,
+    "prices": [
+      9,
+      15,
+      20,
+      20,
+      20,
+      20,
+      40,
+      49,
+      70,
+      70
+    ],
+    "search": {
+      "id": "K9gKZ2RC5",
+      "complexity": 18,
+      "total": 19
+    },
     "builds": 2,
     "mods": [
       {
@@ -2430,6 +2602,16 @@
   {
     "item": "Grip of the Council",
     "stats": "+# to level of socketed gems",
+    "average": 75.49000000000001,
+    "prices": [
+      35,
+      115.98
+    ],
+    "search": {
+      "id": "0BZV3XQhg",
+      "complexity": 18,
+      "total": 2
+    },
     "builds": 2,
     "mods": [
       {
@@ -2443,6 +2625,24 @@
   {
     "item": "March of the Legion",
     "stats": "+# to level of socketed duration gems",
+    "average": 43,
+    "prices": [
+      20,
+      20,
+      20,
+      25,
+      33,
+      45,
+      50,
+      68,
+      69,
+      80
+    ],
+    "search": {
+      "id": "rXjkno7TQ",
+      "complexity": 18,
+      "total": 43
+    },
     "builds": 2,
     "mods": [
       {
@@ -2456,6 +2656,24 @@
   {
     "item": "Lightning Coil",
     "stats": "#% increased damage",
+    "average": 73.22222222222223,
+    "prices": [
+      20,
+      40,
+      54,
+      60,
+      70,
+      80,
+      80,
+      80,
+      95,
+      100
+    ],
+    "search": {
+      "id": "DGEGlVVc5",
+      "complexity": 18,
+      "total": 101
+    },
     "builds": 2,
     "mods": [
       {
@@ -2469,6 +2687,24 @@
   {
     "item": "Dialla's Malefaction",
     "stats": "+# to level of socketed gems",
+    "average": 8292.57,
+    "prices": [
+      5799,
+      6958.8,
+      7538.7,
+      7770.66,
+      8118.6,
+      8118.6,
+      8698.5,
+      9278.4,
+      9858.300000000001,
+      13917.6
+    ],
+    "search": {
+      "id": "waPQeqdUb",
+      "complexity": 18,
+      "total": 15
+    },
     "builds": 2,
     "mods": [
       {
@@ -2482,6 +2718,13 @@
   {
     "item": "Dialla's Malefaction",
     "stats": "+# to level of socketed gems, +#% to all maximum resistances",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "Ey6M5KKC5",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 2,
     "mods": [
       {
