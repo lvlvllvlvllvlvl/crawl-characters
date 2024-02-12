@@ -9761,6 +9761,24 @@
   {
     "item": "Greed's Embrace",
     "stats": "+# to level of socketed projectile gems",
+    "average": 16.133,
+    "prices": [
+      8,
+      10,
+      10,
+      10,
+      18.33,
+      15,
+      15,
+      25,
+      25,
+      25
+    ],
+    "search": {
+      "id": "6Gqw55qsG",
+      "complexity": 18,
+      "total": 133
+    },
     "builds": 1,
     "mods": [
       {
@@ -9774,6 +9792,24 @@
   {
     "item": "Greed's Embrace",
     "stats": "+# to level of socketed duration gems",
+    "average": 19.207,
+    "prices": [
+      9,
+      10,
+      10,
+      11.07,
+      18,
+      19,
+      25,
+      30,
+      30,
+      30
+    ],
+    "search": {
+      "id": "W5XjLLzfm",
+      "complexity": 18,
+      "total": 145
+    },
     "builds": 1,
     "mods": [
       {
@@ -9787,6 +9823,17 @@
   {
     "item": "Greed's Embrace",
     "stats": "+# to level of socketed duration gems, +#% to all maximum resistances",
+    "average": 29556.946666666667,
+    "prices": [
+      1052.82,
+      17547,
+      70071.02
+    ],
+    "search": {
+      "id": "gqY98v5iQ",
+      "complexity": 29,
+      "total": 3
+    },
     "builds": 1,
     "mods": [
       {
@@ -9806,6 +9853,24 @@
   {
     "item": "Greed's Embrace",
     "stats": "+# to level of socketed warcry gems",
+    "average": 54.9,
+    "prices": [
+      10,
+      10,
+      13,
+      18,
+      50,
+      80,
+      80,
+      90,
+      99,
+      99
+    ],
+    "search": {
+      "id": "YVqMX5kUY",
+      "complexity": 18,
+      "total": 56
+    },
     "builds": 1,
     "mods": [
       {
@@ -9819,6 +9884,13 @@
   {
     "item": "Headhunter",
     "stats": "#% increased area of effect, wrath has #% increased aura effect",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "6Zv5PPXcG",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -9838,6 +9910,15 @@
   {
     "item": "Headhunter",
     "stats": "anger has #% increased aura effect, #% increased cast speed during any flask effect",
+    "average": 6433.900000000001,
+    "prices": [
+      6433.900000000001
+    ],
+    "search": {
+      "id": "bXg3WPdHL",
+      "complexity": 29,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -9857,6 +9938,24 @@
   {
     "item": "Headhunter",
     "stats": "#% increased strength, #% increased dexterity",
+    "average": 12107.430000000002,
+    "prices": [
+      8188.6,
+      8773.5,
+      10528.2,
+      11698,
+      11698,
+      12867.800000000001,
+      14037.6,
+      14037.6,
+      14622.5,
+      14622.5
+    ],
+    "search": {
+      "id": "waP7Xanib",
+      "complexity": 29,
+      "total": 37
+    },
     "builds": 1,
     "mods": [
       {
@@ -9876,6 +9975,15 @@
   {
     "item": "Headhunter",
     "stats": "#% increased movement speed during any flask effect, #% increased critical strike chance during any flask effect",
+    "average": 58490,
+    "prices": [
+      58490
+    ],
+    "search": {
+      "id": "9qllWp0hK",
+      "complexity": 29,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -9895,6 +10003,24 @@
   {
     "item": "Headhunter",
     "stats": "#% increased maximum energy shield",
+    "average": 8282.184,
+    "prices": [
+      5849,
+      6433.900000000001,
+      6433.900000000001,
+      6901.820000000001,
+      7603.7,
+      8188.6,
+      9358.4,
+      10528.2,
+      10528.2,
+      10996.12
+    ],
+    "search": {
+      "id": "Eydr2bzH5",
+      "complexity": 18,
+      "total": 16
+    },
     "builds": 1,
     "mods": [
       {
@@ -9908,6 +10034,24 @@
   {
     "item": "Headhunter",
     "stats": "#% increased area of effect",
+    "average": 8913.876,
+    "prices": [
+      5615.04,
+      6901.820000000001,
+      7018.8,
+      8773.5,
+      8773.5,
+      9358.4,
+      9943.300000000001,
+      10528.2,
+      10528.2,
+      11698
+    ],
+    "search": {
+      "id": "OVwVMgVTE",
+      "complexity": 18,
+      "total": 17
+    },
     "builds": 1,
     "mods": [
       {
@@ -9921,6 +10065,13 @@
   {
     "item": "The Fledgling",
     "stats": "+# to level of socketed aoe gems",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "80ZX7aqIV",
+      "complexity": 18,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -9934,6 +10085,13 @@
   {
     "item": "Karui Ward",
     "stats": "#% increased movement speed, you can apply an additional curse",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "JV4yb55Il",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -9953,6 +10111,15 @@
   {
     "item": "Invictus Solaris",
     "stats": "+# to level of socketed minion gems",
+    "average": 5849,
+    "prices": [
+      5849
+    ],
+    "search": {
+      "id": "jXR7WqltX",
+      "complexity": 18,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -9966,6 +10133,24 @@
   {
     "item": "Ancestral Vision",
     "stats": "#% increased damage",
+    "average": 43,
+    "prices": [
+      40,
+      40,
+      40,
+      40,
+      40,
+      40,
+      40,
+      50,
+      50,
+      50
+    ],
+    "search": {
+      "id": "LmdwQrBHn",
+      "complexity": 18,
+      "total": 27
+    },
     "builds": 1,
     "mods": [
       {
@@ -9979,6 +10164,24 @@
   {
     "item": "Ancestral Vision",
     "stats": "you cannot be cursed with silence",
+    "average": 51.44444444444444,
+    "prices": [
+      30,
+      33,
+      40,
+      40,
+      40,
+      60,
+      60,
+      80,
+      80,
+      116.98
+    ],
+    "search": {
+      "id": "kXJ2YOWI5",
+      "complexity": 18,
+      "total": 12
+    },
     "builds": 1,
     "mods": [
       {
