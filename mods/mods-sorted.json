@@ -17563,6 +17563,13 @@
   {
     "item": "Rearguard",
     "stats": "#% of fire damage leeched as life, bow attacks fire an additional arrow",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "JVnJRBRIl",
+      "complexity": 30,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -17583,6 +17590,13 @@
   {
     "item": "Replica Inya's Epiphany",
     "stats": "+# to level of socketed gems",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "aq37vaRFe",
+      "complexity": 18,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -17596,6 +17610,13 @@
   {
     "item": "The Poised Prism",
     "stats": "# to # added cold damage with bow attacks, # to # added lightning damage with bow attacks",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "lX80WLVsV",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -17615,6 +17636,24 @@
   {
     "item": "The Poised Prism",
     "stats": "#% increased elemental damage with attack skills",
+    "average": 1,
+    "prices": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "search": {
+      "id": "rXmvBJzSQ",
+      "complexity": 18,
+      "total": 208
+    },
     "builds": 1,
     "mods": [
       {
@@ -17628,6 +17667,24 @@
   {
     "item": "Flamesight",
     "stats": "+# to maximum power charges",
+    "average": 3279.662222222222,
+    "prices": [
+      2142.36,
+      2261.38,
+      2380.4,
+      3094.52,
+      3570.6,
+      3570.6,
+      3570.6,
+      4165.7,
+      4760.8,
+      8331.4
+    ],
+    "search": {
+      "id": "jX4GnbkSX",
+      "complexity": 18,
+      "total": 10
+    },
     "builds": 1,
     "mods": [
       {
@@ -17641,6 +17698,24 @@
   {
     "item": "Rat's Nest",
     "stats": "socketed skill gems get a #% cost & reservation multiplier",
+    "average": 37.22222222222222,
+    "prices": [
+      10,
+      20,
+      25,
+      40,
+      40,
+      40,
+      50,
+      50,
+      60,
+      178.53
+    ],
+    "search": {
+      "id": "6ZDz0ZkcG",
+      "complexity": 18,
+      "total": 17
+    },
     "builds": 1,
     "mods": [
       {
@@ -17654,6 +17729,24 @@
   {
     "item": "Aurseize",
     "stats": "curse enemies with elemental weakness on hit",
+    "average": 70.60799999999999,
+    "prices": [
+      20,
+      20,
+      30,
+      50,
+      50,
+      60,
+      119.02,
+      119.02,
+      119.02,
+      119.02
+    ],
+    "search": {
+      "id": "waPLQLRSb",
+      "complexity": 18,
+      "total": 14
+    },
     "builds": 1,
     "mods": [
       {
@@ -17667,6 +17760,24 @@
   {
     "item": "Leer Cast",
     "stats": "+# to maximum power charges",
+    "average": 70.006,
+    "prices": [
+      10,
+      10,
+      38,
+      50,
+      55,
+      80,
+      100,
+      119.02,
+      119.02,
+      119.02
+    ],
+    "search": {
+      "id": "Xqb5zPKFP",
+      "complexity": 18,
+      "total": 16
+    },
     "builds": 1,
     "mods": [
       {
@@ -17680,6 +17791,24 @@
   {
     "item": "Saffell's Frame",
     "stats": "#% of physical damage from hits taken as cold damage",
+    "average": 75.902,
+    "prices": [
+      20,
+      40,
+      40,
+      60,
+      80,
+      100,
+      100,
+      100,
+      100,
+      119.02
+    ],
+    "search": {
+      "id": "LmdmLM7tn",
+      "complexity": 18,
+      "total": 15
+    },
     "builds": 1,
     "mods": [
       {
@@ -17693,6 +17822,24 @@
   {
     "item": "Might of the Meek",
     "stats": "damage penetrates #% lightning resistance",
+    "average": 84.31199999999998,
+    "prices": [
+      10,
+      15,
+      35,
+      69,
+      119.02,
+      119.02,
+      119.02,
+      119.02,
+      119.02,
+      119.02
+    ],
+    "search": {
+      "id": "lXODXjrhV",
+      "complexity": 19,
+      "total": 10
+    },
     "builds": 1,
     "mods": [
       {
@@ -17707,6 +17854,22 @@
   {
     "item": "Might of the Meek",
     "stats": "#% increased global critical strike chance",
+    "average": 41.25,
+    "prices": [
+      20,
+      20,
+      21,
+      49,
+      50,
+      50,
+      50,
+      70
+    ],
+    "search": {
+      "id": "3Gw30nJU5",
+      "complexity": 18,
+      "total": 8
+    },
     "builds": 1,
     "mods": [
       {
@@ -17720,6 +17883,16 @@
   {
     "item": "Might of the Meek",
     "stats": "you cannot be maimed",
+    "average": 625.1,
+    "prices": [
+      60,
+      1190.2
+    ],
+    "search": {
+      "id": "lXJV8VrhV",
+      "complexity": 18,
+      "total": 2
+    },
     "builds": 1,
     "mods": [
       {
@@ -17733,6 +17906,24 @@
   {
     "item": "Might of the Meek",
     "stats": "you cannot be cursed with silence",
+    "average": 65.46228571428571,
+    "prices": [
+      25,
+      30,
+      40,
+      49,
+      100,
+      95.21600000000001,
+      119.02,
+      238.04,
+      476.08,
+      2380.4
+    ],
+    "search": {
+      "id": "BGrV83KC8",
+      "complexity": 18,
+      "total": 10
+    },
     "builds": 1,
     "mods": [
       {
@@ -17746,6 +17937,19 @@
   {
     "item": "Might of the Meek",
     "stats": "you cannot be hindered",
+    "average": 40,
+    "prices": [
+      10,
+      30,
+      40,
+      40,
+      80
+    ],
+    "search": {
+      "id": "RVBXglWU7",
+      "complexity": 18,
+      "total": 5
+    },
     "builds": 1,
     "mods": [
       {
@@ -17759,6 +17963,22 @@
   {
     "item": "Might of the Meek",
     "stats": "#% increased effect of non-damaging ailments",
+    "average": 65.00666666666666,
+    "prices": [
+      20,
+      22,
+      30,
+      80,
+      119.02,
+      119.02,
+      595.1,
+      714.12
+    ],
+    "search": {
+      "id": "qXjDDjWfg",
+      "complexity": 18,
+      "total": 8
+    },
     "builds": 1,
     "mods": [
       {
