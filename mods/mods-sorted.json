@@ -4714,6 +4714,24 @@
   {
     "item": "Asenath's Gentle Touch",
     "stats": "curse enemies with enfeeble on hit",
+    "average": 44.3,
+    "prices": [
+      20,
+      24,
+      24,
+      35,
+      40,
+      50,
+      60,
+      60,
+      60,
+      70
+    ],
+    "search": {
+      "id": "jMvWk0XiX",
+      "complexity": 18,
+      "total": 38
+    },
     "builds": 1,
     "mods": [
       {
@@ -8338,6 +8356,24 @@
   {
     "item": "Southbound",
     "stats": "attacks have +#% to critical strike chance",
+    "average": 51,
+    "prices": [
+      20,
+      30,
+      30,
+      35,
+      40,
+      40,
+      50,
+      105,
+      109,
+      150
+    ],
+    "search": {
+      "id": "oX5GZ7qIl",
+      "complexity": 18,
+      "total": 18
+    },
     "builds": 1,
     "mods": [
       {
@@ -8351,6 +8387,24 @@
   {
     "item": "Southbound",
     "stats": "+# to level of socketed aura gems",
+    "average": 67.4,
+    "prices": [
+      20,
+      25,
+      40,
+      49,
+      50,
+      80,
+      100,
+      100,
+      100,
+      110
+    ],
+    "search": {
+      "id": "JVyQrpbIl",
+      "complexity": 18,
+      "total": 15
+    },
     "builds": 1,
     "mods": [
       {
@@ -8364,6 +8418,13 @@
   {
     "item": "Southbound",
     "stats": "+# to level of socketed projectile gems, +#% to spell critical strike chance",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "DLkBXM5u5",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -8383,6 +8444,13 @@
   {
     "item": "Southbound",
     "stats": "curse enemies with enfeeble on hit, +#% to spell critical strike chance",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "PdyQjGDiL",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -8402,6 +8470,22 @@
   {
     "item": "Southbound",
     "stats": "#% increased maximum energy shield",
+    "average": 80.6875,
+    "prices": [
+      9,
+      20,
+      80,
+      80,
+      90,
+      100,
+      150,
+      116.5
+    ],
+    "search": {
+      "id": "XqD7VoBhP",
+      "complexity": 18,
+      "total": 8
+    },
     "builds": 1,
     "mods": [
       {
@@ -8415,6 +8499,13 @@
   {
     "item": "Southbound",
     "stats": "+# to level of socketed duration gems, +# to level of socketed aura gems",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "nXqLvmMH0",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -8434,6 +8525,24 @@
   {
     "item": "Southbound",
     "stats": "+# to level of socketed aoe gems",
+    "average": 166.3,
+    "prices": [
+      18,
+      50,
+      50,
+      50,
+      100,
+      100,
+      130,
+      233,
+      466,
+      466
+    ],
+    "search": {
+      "id": "rY5Xe0McQ",
+      "complexity": 18,
+      "total": 11
+    },
     "builds": 1,
     "mods": [
       {
@@ -9219,6 +9328,15 @@
   {
     "item": "Dendrobate",
     "stats": "+# to level of socketed aoe gems, #% increased damage",
+    "average": 2912.5,
+    "prices": [
+      2912.5
+    ],
+    "search": {
+      "id": "vlPVe4zSE",
+      "complexity": 29,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -9238,6 +9356,24 @@
   {
     "item": "Dendrobate",
     "stats": "+# to level of socketed projectile gems",
+    "average": 99.55555555555556,
+    "prices": [
+      20,
+      50,
+      80,
+      80,
+      100,
+      100,
+      116.5,
+      174.75,
+      174.75,
+      233
+    ],
+    "search": {
+      "id": "QVnvvrjHw",
+      "complexity": 18,
+      "total": 22
+    },
     "builds": 1,
     "mods": [
       {
@@ -9251,6 +9387,24 @@
   {
     "item": "Dendrobate",
     "stats": "+# to level of socketed trap or mine gems",
+    "average": 83.71428571428571,
+    "prices": [
+      20,
+      40,
+      60,
+      116.5,
+      116.5,
+      116.5,
+      116.5,
+      233,
+      349.5,
+      1165
+    ],
+    "search": {
+      "id": "0B8P3w8ig",
+      "complexity": 18,
+      "total": 16
+    },
     "builds": 1,
     "mods": [
       {
@@ -9264,6 +9418,13 @@
   {
     "item": "Dendrobate",
     "stats": "+# to level of socketed gems, +# to level of socketed duration gems",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "yrJqJ6qhR",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -12009,6 +12170,21 @@
   {
     "item": "Daresso's Defiance",
     "stats": "+# to level of socketed gems",
+    "average": 105.25,
+    "prices": [
+      1,
+      90,
+      98,
+      116.5,
+      116.5,
+      582.5,
+      2912.5
+    ],
+    "search": {
+      "id": "vladEZjCE",
+      "complexity": 18,
+      "total": 7
+    },
     "builds": 1,
     "mods": [
       {
@@ -12022,6 +12198,16 @@
   {
     "item": "Daresso's Defiance",
     "stats": "+# to level of socketed duration gems",
+    "average": 258.25,
+    "prices": [
+      116.5,
+      400
+    ],
+    "search": {
+      "id": "zerWLqLc4",
+      "complexity": 18,
+      "total": 2
+    },
     "builds": 1,
     "mods": [
       {
@@ -12972,6 +13158,13 @@
   {
     "item": "Dissolution of the Flesh",
     "stats": "damage penetrates #% elemental resistances",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "vlqGP3BTE",
+      "complexity": 18,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
