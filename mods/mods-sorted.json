@@ -11360,6 +11360,15 @@
   {
     "item": "Bated Breath",
     "stats": "wrath has #% increased aura effect, discipline has #% increased aura effect",
+    "average": 234.56,
+    "prices": [
+      234.56
+    ],
+    "search": {
+      "id": "lXqOl76IV",
+      "complexity": 29,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -11392,6 +11401,18 @@
   {
     "item": "Bated Breath",
     "stats": "anger has #% increased aura effect",
+    "average": 103.96000000000001,
+    "prices": [
+      4,
+      60,
+      117.28,
+      234.56
+    ],
+    "search": {
+      "id": "jXZk6lZCX",
+      "complexity": 18,
+      "total": 4
+    },
     "builds": 1,
     "mods": [
       {
@@ -11418,6 +11439,18 @@
   {
     "item": "Bated Breath",
     "stats": "#% increased maximum energy shield",
+    "average": 42.5,
+    "prices": [
+      20,
+      40,
+      50,
+      60
+    ],
+    "search": {
+      "id": "vlE0L09fE",
+      "complexity": 18,
+      "total": 4
+    },
     "builds": 1,
     "mods": [
       {
@@ -12380,6 +12413,24 @@
   {
     "item": "Corpsewalker",
     "stats": "regenerate # life per second while moving",
+    "average": 92.41199999999999,
+    "prices": [
+      50,
+      55,
+      70,
+      70,
+      100,
+      110,
+      117.28,
+      117.28,
+      117.28,
+      117.28
+    ],
+    "search": {
+      "id": "50GO9zeta",
+      "complexity": 18,
+      "total": 13
+    },
     "builds": 1,
     "mods": [
       {
@@ -12450,6 +12501,20 @@
   {
     "item": "Corpsewalker",
     "stats": "+# to level of socketed aoe gems",
+    "average": 488.6666666666667,
+    "prices": [
+      234.56,
+      234.56,
+      234.56,
+      586.4,
+      820.96,
+      820.96
+    ],
+    "search": {
+      "id": "3BZ8DW9c5",
+      "complexity": 18,
+      "total": 6
+    },
     "builds": 1,
     "mods": [
       {
@@ -13291,6 +13356,23 @@
   {
     "item": "The Covenant",
     "stats": "+# to level of socketed aura gems",
+    "average": 84.07,
+    "prices": [
+      49,
+      50,
+      60,
+      80,
+      99,
+      100,
+      117.28,
+      117.28,
+      8209.6
+    ],
+    "search": {
+      "id": "7lRgXeBS5",
+      "complexity": 18,
+      "total": 9
+    },
     "builds": 1,
     "mods": [
       {
@@ -13304,6 +13386,13 @@
   {
     "item": "The Covenant",
     "stats": "+# to level of socketed duration gems, +# to level of socketed warcry gems",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "lXjEWq6hV",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -13323,6 +13412,13 @@
   {
     "item": "The Covenant",
     "stats": "#% increased damage, #% increased maximum life",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "XqK7DqesP",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -13342,6 +13438,13 @@
   {
     "item": "The Covenant",
     "stats": "+# to level of socketed aoe gems, you take #% reduced extra damage from critical strikes",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "2ByX6PpIk",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -13361,6 +13464,19 @@
   {
     "item": "The Covenant",
     "stats": "#% increased maximum energy shield",
+    "average": 79.936,
+    "prices": [
+      50,
+      35.184,
+      117.28,
+      117.28,
+      703.6800000000001
+    ],
+    "search": {
+      "id": "YVoWm0RiY",
+      "complexity": 18,
+      "total": 5
+    },
     "builds": 1,
     "mods": [
       {
@@ -13374,6 +13490,19 @@
   {
     "item": "The Covenant",
     "stats": "+# to level of socketed curse gems",
+    "average": 184.192,
+    "prices": [
+      100,
+      117.28,
+      117.28,
+      234.56,
+      351.84000000000003
+    ],
+    "search": {
+      "id": "WVrLX0Dfm",
+      "complexity": 18,
+      "total": 5
+    },
     "builds": 1,
     "mods": [
       {
@@ -13387,6 +13516,22 @@
   {
     "item": "The Covenant",
     "stats": "+# to level of socketed projectile gems",
+    "average": 435.6114285714285,
+    "prices": [
+      117.28,
+      234.56,
+      234.56,
+      234.56,
+      586.4,
+      703.6800000000001,
+      938.24,
+      14073.6
+    ],
+    "search": {
+      "id": "gq7LJ5gTQ",
+      "complexity": 18,
+      "total": 8
+    },
     "builds": 1,
     "mods": [
       {
@@ -13400,6 +13545,13 @@
   {
     "item": "The Covenant",
     "stats": "+# to level of socketed minion gems, #% increased maximum life",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "YLZD0wkFY",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -13419,6 +13571,18 @@
   {
     "item": "The Covenant",
     "stats": "+# to level of socketed gems",
+    "average": 2111.0400000000004,
+    "prices": [
+      1759.2,
+      2228.32,
+      2345.6,
+      70368
+    ],
+    "search": {
+      "id": "GkdLXY3Ib",
+      "complexity": 18,
+      "total": 4
+    },
     "builds": 1,
     "mods": [
       {
@@ -13432,6 +13596,13 @@
   {
     "item": "The Covenant",
     "stats": "+# to level of socketed aoe gems, +# to level of socketed minion gems",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "EyQbbmKI5",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
