@@ -17554,6 +17554,21 @@
   {
     "item": "Eye of Malice",
     "stats": "regenerate #% of life per second",
+    "average": 47.833333333333336,
+    "prices": [
+      30,
+      30,
+      50,
+      52,
+      55,
+      70,
+      100
+    ],
+    "search": {
+      "id": "LmdYYb5Fn",
+      "complexity": 18,
+      "total": 7
+    },
     "builds": 1,
     "mods": [
       {
@@ -17567,6 +17582,24 @@
   {
     "item": "Eye of Malice",
     "stats": "+# to maximum power charges",
+    "average": 147.458,
+    "prices": [
+      45,
+      90,
+      102,
+      120,
+      117.64,
+      117.64,
+      176.46,
+      235.28,
+      235.28,
+      235.28
+    ],
+    "search": {
+      "id": "Lmdj637un",
+      "complexity": 18,
+      "total": 15
+    },
     "builds": 1,
     "mods": [
       {
@@ -17580,6 +17613,23 @@
   {
     "item": "Eye of Malice",
     "stats": "+# to level of socketed aoe gems",
+    "average": 77.89714285714285,
+    "prices": [
+      30,
+      40,
+      60,
+      70,
+      110,
+      117.64,
+      117.64,
+      333,
+      235.28
+    ],
+    "search": {
+      "id": "YVozYvgIY",
+      "complexity": 18,
+      "total": 9
+    },
     "builds": 1,
     "mods": [
       {
@@ -17593,6 +17643,21 @@
   {
     "item": "Perquil's Toe",
     "stats": "you can apply an additional curse",
+    "average": 88.58399999999999,
+    "prices": [
+      40,
+      50,
+      117.64,
+      117.64,
+      117.64,
+      235.28,
+      588.2
+    ],
+    "search": {
+      "id": "aboaB4aSe",
+      "complexity": 18,
+      "total": 7
+    },
     "builds": 1,
     "mods": [
       {
@@ -17606,6 +17671,17 @@
   {
     "item": "Doedre's Damning",
     "stats": "bleeding cannot be inflicted on you",
+    "average": 235.28,
+    "prices": [
+      40,
+      235.28,
+      235.28
+    ],
+    "search": {
+      "id": "aqe6VnKue",
+      "complexity": 18,
+      "total": 3
+    },
     "builds": 1,
     "mods": [
       {
@@ -17676,6 +17752,24 @@
   {
     "item": "Lioneye's Fall",
     "stats": "corrupted blood cannot be inflicted on you",
+    "average": 117.64,
+    "prices": [
+      100,
+      115,
+      117.64,
+      117.64,
+      117.64,
+      117.64,
+      117.64,
+      117.64,
+      117.64,
+      117.64
+    ],
+    "search": {
+      "id": "EG8yMgKs5",
+      "complexity": 18,
+      "total": 26
+    },
     "builds": 1,
     "mods": [
       {
@@ -17796,6 +17890,19 @@
   {
     "item": "Chains of Command",
     "stats": "+#% to all maximum resistances",
+    "average": 6462.3192,
+    "prices": [
+      90,
+      117.64,
+      341.156,
+      10587.6,
+      21175.2
+    ],
+    "search": {
+      "id": "nXqyZm2C0",
+      "complexity": 18,
+      "total": 5
+    },
     "builds": 1,
     "mods": [
       {
@@ -17809,6 +17916,20 @@
   {
     "item": "Leash of Oblation",
     "stats": "discipline has #% increased aura effect",
+    "average": 117.64,
+    "prices": [
+      120,
+      117.64,
+      117.64,
+      117.64,
+      235.28,
+      588.2
+    ],
+    "search": {
+      "id": "kXJQ05WI5",
+      "complexity": 18,
+      "total": 6
+    },
     "builds": 1,
     "mods": [
       {
@@ -17822,6 +17943,13 @@
   {
     "item": "Triad Grip",
     "stats": "+# to level of socketed aura gems, #% increased maximum energy shield",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "waq7K2jcb",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -17841,6 +17969,13 @@
   {
     "item": "Hrimnor's Resolve",
     "stats": "socketed skill gems get a #% cost & reservation multiplier, #% increased maximum life",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "RVebL5qU7",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -17988,6 +18123,13 @@
   {
     "item": "Lioneye's Vision",
     "stats": "+# to level of socketed aoe gems, +# to level of socketed projectile gems",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "bX3yDrDuL",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -18007,6 +18149,13 @@
   {
     "item": "Perseverance",
     "stats": "+#% to critical strike multiplier during any flask effect, pride has #% increased aura effect",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "jXZK0QZTX",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -18026,6 +18175,24 @@
   {
     "item": "Perseverance",
     "stats": "determination has #% increased aura effect",
+    "average": 66.9,
+    "prices": [
+      20,
+      20,
+      49,
+      50,
+      70,
+      80,
+      80,
+      100,
+      100,
+      100
+    ],
+    "search": {
+      "id": "8ae6mr8iV",
+      "complexity": 18,
+      "total": 20
+    },
     "builds": 1,
     "mods": [
       {
@@ -18123,6 +18290,22 @@
   {
     "item": "Mind of the Council",
     "stats": "+# to maximum power charges",
+    "average": 153.3542857142857,
+    "prices": [
+      50,
+      60,
+      60,
+      80,
+      117.64,
+      352.92,
+      352.92,
+      2941
+    ],
+    "search": {
+      "id": "Ey6gq3VS5",
+      "complexity": 18,
+      "total": 8
+    },
     "builds": 1,
     "mods": [
       {
@@ -18290,6 +18473,13 @@
   {
     "item": "The Squire",
     "stats": "you take #% reduced extra damage from critical strikes, #% increased maximum life",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "Pd8pwJMhL",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
