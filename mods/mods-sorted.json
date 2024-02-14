@@ -4113,6 +4113,24 @@
   {
     "item": "Saffell's Frame",
     "stats": "#% of physical damage from hits taken as chaos damage",
+    "average": 312.47222222222223,
+    "prices": [
+      100,
+      100,
+      182.25,
+      243,
+      364.5,
+      364.5,
+      364.5,
+      486,
+      607.5,
+      1215
+    ],
+    "search": {
+      "id": "2BrBPO5hk",
+      "complexity": 18,
+      "total": 12
+    },
     "builds": 2,
     "mods": [
       {
@@ -4126,6 +4144,24 @@
   {
     "item": "Legacy of Fury",
     "stats": "+# to maximum endurance charges",
+    "average": 80.55,
+    "prices": [
+      30,
+      35,
+      50,
+      70,
+      80,
+      99,
+      100,
+      100,
+      120,
+      121.5
+    ],
+    "search": {
+      "id": "0PQZ0g7Ig",
+      "complexity": 18,
+      "total": 26
+    },
     "builds": 2,
     "mods": [
       {
@@ -4139,6 +4175,13 @@
   {
     "item": "The Fledgling",
     "stats": "+# to maximum power charges",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "dXWYGdqFJ",
+      "complexity": 18,
+      "total": 0
+    },
     "builds": 2,
     "mods": [
       {
@@ -4152,6 +4195,24 @@
   {
     "item": "Pure Talent",
     "stats": "corrupted blood cannot be inflicted on you",
+    "average": 55.8,
+    "prices": [
+      40,
+      49,
+      49,
+      50,
+      50,
+      50,
+      50,
+      60,
+      80,
+      80
+    ],
+    "search": {
+      "id": "8a2vlBMHV",
+      "complexity": 18,
+      "total": 21
+    },
     "builds": 2,
     "mods": [
       {
@@ -4165,6 +4226,16 @@
   {
     "item": "Mageblood",
     "stats": "#% increased dexterity, #% increased intelligence, malevolence has #% increased aura effect",
+    "average": 118310.508,
+    "prices": [
+      65728.06,
+      170892.956
+    ],
+    "search": {
+      "id": "MVZ379PFJ",
+      "complexity": 20,
+      "total": 2
+    },
     "builds": 1,
     "mods": [
       {
@@ -4190,6 +4261,17 @@
   {
     "item": "Mageblood",
     "stats": "#% increased strength, #% increased dexterity, #% increased skill effect duration",
+    "average": 181715.4733333333,
+    "prices": [
+      197184.18,
+      85050,
+      262912.24
+    ],
+    "search": {
+      "id": "OVQoODgCE",
+      "complexity": 20,
+      "total": 3
+    },
     "builds": 1,
     "mods": [
       {
@@ -4215,6 +4297,13 @@
   {
     "item": "Mageblood",
     "stats": "#% increased movement speed during any flask effect, #% increased cast speed during any flask effect",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "7lVqM8Bu5",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -4234,6 +4323,24 @@
   {
     "item": "Mageblood",
     "stats": "#% increased attack speed during any flask effect",
+    "average": 64698.7032,
+    "prices": [
+      15187.5,
+      21262.5,
+      23085,
+      78873.67199999999,
+      30375,
+      36450,
+      47385,
+      131456.12,
+      131456.12,
+      131456.12
+    ],
+    "search": {
+      "id": "vlPnR8BCE",
+      "complexity": 18,
+      "total": 20
+    },
     "builds": 1,
     "mods": [
       {
@@ -4247,6 +4354,24 @@
   {
     "item": "Mageblood",
     "stats": "+#% to all elemental resistances",
+    "average": 67332.892,
+    "prices": [
+      24300,
+      92019.28399999999,
+      36450,
+      36450,
+      36450,
+      38880,
+      105164.89600000001,
+      40702.5,
+      131456.12,
+      131456.12
+    ],
+    "search": {
+      "id": "noEVO6Mt0",
+      "complexity": 18,
+      "total": 21
+    },
     "builds": 1,
     "mods": [
       {
@@ -4260,6 +4385,16 @@
   {
     "item": "Mageblood",
     "stats": "#% increased maximum energy shield, #% increased cast speed during any flask effect",
+    "average": 65792.25,
+    "prices": [
+      40459.5,
+      91125
+    ],
+    "search": {
+      "id": "dPaOkzoFJ",
+      "complexity": 29,
+      "total": 2
+    },
     "builds": 1,
     "mods": [
       {
@@ -4279,6 +4414,13 @@
   {
     "item": "Mageblood",
     "stats": "#% increased maximum life, #% increased cast speed during any flask effect",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "vlGbd5JtE",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -4298,6 +4440,17 @@
   {
     "item": "Mageblood",
     "stats": "wrath has #% increased aura effect, zealotry has #% increased aura effect",
+    "average": 98493.70666666667,
+    "prices": [
+      131456.12,
+      54675,
+      109350
+    ],
+    "search": {
+      "id": "Mq3y0eMuJ",
+      "complexity": 29,
+      "total": 3
+    },
     "builds": 1,
     "mods": [
       {
@@ -4317,6 +4470,13 @@
   {
     "item": "Seven-League Step",
     "stats": "+# to level of socketed aura gems, #% increased maximum life",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "YVEoYy6UY",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -4336,6 +4496,24 @@
   {
     "item": "Seven-League Step",
     "stats": "+#% chance to suppress spell damage",
+    "average": 59.5,
+    "prices": [
+      30,
+      30,
+      30,
+      35,
+      40,
+      50,
+      90,
+      90,
+      100,
+      100
+    ],
+    "search": {
+      "id": "8av99q8IV",
+      "complexity": 19,
+      "total": 13
+    },
     "builds": 1,
     "mods": [
       {
@@ -4350,6 +4528,13 @@
   {
     "item": "Asenath's Gentle Touch",
     "stats": "#% increased attack speed, #% increased cast speed",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "y9RLrPguR",
+      "complexity": 30,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
