@@ -10598,6 +10598,13 @@
   {
     "item": "Sin Trek",
     "stats": "+# to level of socketed aura gems, +# to maximum endurance charges",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "EyDeL0Yf5",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -10617,6 +10624,15 @@
   {
     "item": "Soul Mantle",
     "stats": "+# to level of socketed gems, +# to level of socketed projectile gems",
+    "average": 131561.44,
+    "prices": [
+      131561.44
+    ],
+    "search": {
+      "id": "0PQbWp7Ig",
+      "complexity": 29,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -10636,6 +10652,17 @@
   {
     "item": "Anathema",
     "stats": "adds # to # lightning damage to spells and attacks",
+    "average": 224.75,
+    "prices": [
+      85,
+      364.5,
+      6682.5
+    ],
+    "search": {
+      "id": "0B8O6p8Fg",
+      "complexity": 18,
+      "total": 3
+    },
     "builds": 1,
     "mods": [
       {
@@ -10649,6 +10676,17 @@
   {
     "item": "Anathema",
     "stats": "#% increased strength, #% increased intelligence",
+    "average": 6682.5,
+    "prices": [
+      1215,
+      6682.5,
+      12150
+    ],
+    "search": {
+      "id": "LmdED02in",
+      "complexity": 29,
+      "total": 3
+    },
     "builds": 1,
     "mods": [
       {
@@ -10668,6 +10706,13 @@
   {
     "item": "Anathema",
     "stats": "#% increased strength, #% increased dexterity, grace has #% increased aura effect",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "QVOrDlvfw",
+      "complexity": 20,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -10693,6 +10738,17 @@
   {
     "item": "Anathema",
     "stats": "#% increased cast speed",
+    "average": 2733.75,
+    "prices": [
+      1822.5,
+      3645,
+      24178.5
+    ],
+    "search": {
+      "id": "JYm7jvOIl",
+      "complexity": 18,
+      "total": 3
+    },
     "builds": 1,
     "mods": [
       {
@@ -10706,6 +10762,13 @@
   {
     "item": "Anathema",
     "stats": "#% increased attack speed",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "zeovLqLc4",
+      "complexity": 19,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -10720,6 +10783,20 @@
   {
     "item": "Anathema",
     "stats": "zealotry has #% increased aura effect",
+    "average": 1506.6,
+    "prices": [
+      850.5,
+      1215,
+      1822.5,
+      1822.5,
+      1822.5,
+      4252.5
+    ],
+    "search": {
+      "id": "wpRMq0Bhb",
+      "complexity": 18,
+      "total": 6
+    },
     "builds": 1,
     "mods": [
       {
@@ -10733,6 +10810,16 @@
   {
     "item": "Anathema",
     "stats": "bleeding cannot be inflicted on you",
+    "average": 21870,
+    "prices": [
+      7290,
+      36450
+    ],
+    "search": {
+      "id": "rY5MGMECQ",
+      "complexity": 18,
+      "total": 2
+    },
     "builds": 1,
     "mods": [
       {
@@ -10746,6 +10833,24 @@
   {
     "item": "The Gull",
     "stats": "socketed skill gems get a #% cost & reservation multiplier",
+    "average": 93.5,
+    "prices": [
+      19,
+      70,
+      80,
+      80,
+      80,
+      90,
+      100,
+      100,
+      120,
+      121.5
+    ],
+    "search": {
+      "id": "y9EGvmgSR",
+      "complexity": 18,
+      "total": 20
+    },
     "builds": 1,
     "mods": [
       {
@@ -10759,6 +10864,24 @@
   {
     "item": "Cold Iron Point",
     "stats": "#% increased global critical strike chance",
+    "average": 6.666666666666667,
+    "prices": [
+      5,
+      6,
+      6,
+      6,
+      7,
+      7,
+      7,
+      7,
+      7,
+      7
+    ],
+    "search": {
+      "id": "LeWqod2sn",
+      "complexity": 18,
+      "total": 211
+    },
     "builds": 1,
     "mods": [
       {
@@ -10772,6 +10895,24 @@
   {
     "item": "Cold Iron Point",
     "stats": "#% chance to gain unholy might for 3 seconds on kill",
+    "average": 77.35,
+    "prices": [
+      20,
+      30,
+      30,
+      40,
+      89,
+      100,
+      100,
+      121.5,
+      121.5,
+      121.5
+    ],
+    "search": {
+      "id": "9Y2wm70uK",
+      "complexity": 18,
+      "total": 13
+    },
     "builds": 1,
     "mods": [
       {
@@ -10785,6 +10926,24 @@
   {
     "item": "Cold Iron Point",
     "stats": "#% increased damage over time",
+    "average": 121.5,
+    "prices": [
+      100,
+      100,
+      121.5,
+      121.5,
+      121.5,
+      121.5,
+      121.5,
+      121.5,
+      121.5,
+      121.5
+    ],
+    "search": {
+      "id": "z273V4RI4",
+      "complexity": 18,
+      "total": 36
+    },
     "builds": 1,
     "mods": [
       {
@@ -10798,6 +10957,24 @@
   {
     "item": "Utula's Hunger",
     "stats": "#% increased maximum life",
+    "average": 213.78571428571428,
+    "prices": [
+      10,
+      50,
+      100,
+      121.5,
+      121.5,
+      486,
+      607.5,
+      850.5,
+      1701,
+      18225
+    ],
+    "search": {
+      "id": "9YKk2wYFK",
+      "complexity": 18,
+      "total": 11
+    },
     "builds": 1,
     "mods": [
       {
@@ -10811,6 +10988,15 @@
   {
     "item": "Prismweave",
     "stats": "grace has #% increased aura effect, +#% to critical strike multiplier during any flask effect",
+    "average": 486,
+    "prices": [
+      486
+    ],
+    "search": {
+      "id": "ze5WBkgT4",
+      "complexity": 29,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
