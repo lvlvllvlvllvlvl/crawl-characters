@@ -18359,6 +18359,24 @@
   {
     "item": "Eye of Malice",
     "stats": "+# to maximum power charges",
+    "average": 93.67666666666666,
+    "prices": [
+      50,
+      60,
+      80,
+      90,
+      100,
+      100,
+      121.03,
+      121.03,
+      121.03,
+      242.06
+    ],
+    "search": {
+      "id": "Lmdj637un",
+      "complexity": 18,
+      "total": 22
+    },
     "builds": 1,
     "mods": [
       {
@@ -18372,6 +18390,19 @@
   {
     "item": "Eye of Malice",
     "stats": "regenerate #% of life per second",
+    "average": 82.20599999999999,
+    "prices": [
+      30,
+      60,
+      100,
+      100,
+      121.03
+    ],
+    "search": {
+      "id": "LmdYYb5Fn",
+      "complexity": 18,
+      "total": 5
+    },
     "builds": 1,
     "mods": [
       {
@@ -18385,6 +18416,22 @@
   {
     "item": "Eye of Malice",
     "stats": "+# to level of socketed aoe gems",
+    "average": 59.33833333333333,
+    "prices": [
+      5,
+      30,
+      40,
+      50,
+      110,
+      121.03,
+      242.06,
+      6051.5
+    ],
+    "search": {
+      "id": "YVozYvgIY",
+      "complexity": 18,
+      "total": 8
+    },
     "builds": 1,
     "mods": [
       {
@@ -18398,6 +18445,13 @@
   {
     "item": "Lioneye's Vision",
     "stats": "+# to level of socketed aoe gems, +# to level of socketed projectile gems",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "bX3yDrDuL",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -18417,6 +18471,15 @@
   {
     "item": "Perseverance",
     "stats": "+#% to critical strike multiplier during any flask effect, pride has #% increased aura effect",
+    "average": 12103,
+    "prices": [
+      12103
+    ],
+    "search": {
+      "id": "jXZK0QZTX",
+      "complexity": 29,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -18436,6 +18499,24 @@
   {
     "item": "Perseverance",
     "stats": "determination has #% increased aura effect",
+    "average": 82.31199999999998,
+    "prices": [
+      20,
+      20,
+      49,
+      70,
+      80,
+      100,
+      121.03,
+      121.03,
+      121.03,
+      121.03
+    ],
+    "search": {
+      "id": "8ae6mr8iV",
+      "complexity": 18,
+      "total": 16
+    },
     "builds": 1,
     "mods": [
       {
@@ -18449,6 +18530,15 @@
   {
     "item": "Astral Projector",
     "stats": "#% increased cast speed",
+    "average": 726.1800000000001,
+    "prices": [
+      726.1800000000001
+    ],
+    "search": {
+      "id": "dXb0bwoFJ",
+      "complexity": 18,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -18462,6 +18552,19 @@
   {
     "item": "Astral Projector",
     "stats": "hatred has #% increased aura effect",
+    "average": 2517.424,
+    "prices": [
+      1210.3,
+      2178.54,
+      2420.6,
+      2662.66,
+      4115.02
+    ],
+    "search": {
+      "id": "BEXrk6Xt8",
+      "complexity": 18,
+      "total": 5
+    },
     "builds": 1,
     "mods": [
       {
@@ -18475,6 +18578,20 @@
   {
     "item": "The Vertex",
     "stats": "+# to level of socketed duration gems",
+    "average": 82.50999999999999,
+    "prices": [
+      50,
+      50,
+      53,
+      100,
+      121.03,
+      121.03
+    ],
+    "search": {
+      "id": "Eyd2Obyt5",
+      "complexity": 18,
+      "total": 6
+    },
     "builds": 1,
     "mods": [
       {
@@ -18488,6 +18605,24 @@
   {
     "item": "The Vertex",
     "stats": "socketed skill gems get a #% cost & reservation multiplier",
+    "average": 300.18111111111114,
+    "prices": [
+      60,
+      100,
+      121.03,
+      121.03,
+      121.03,
+      121.03,
+      363.09000000000003,
+      847.21,
+      847.21,
+      1210.3
+    ],
+    "search": {
+      "id": "DL4rObwC5",
+      "complexity": 18,
+      "total": 11
+    },
     "builds": 1,
     "mods": [
       {
@@ -18501,6 +18636,21 @@
   {
     "item": "The Vertex",
     "stats": "+# to level of socketed aura gems",
+    "average": 174.82399999999998,
+    "prices": [
+      90,
+      100,
+      200,
+      242.06,
+      242.06,
+      605.15,
+      5555
+    ],
+    "search": {
+      "id": "ZbZOJlEHQ",
+      "complexity": 18,
+      "total": 7
+    },
     "builds": 1,
     "mods": [
       {
@@ -18514,6 +18664,13 @@
   {
     "item": "Crown of Thorns",
     "stats": "#% increased area of effect",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "BED35jLs8",
+      "complexity": 18,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -18527,6 +18684,15 @@
   {
     "item": "The Brass Dome",
     "stats": "+# to level of socketed trap or mine gems, #% reduced lightning damage taken",
+    "average": 4236.05,
+    "prices": [
+      4236.05
+    ],
+    "search": {
+      "id": "XqDVoE7UP",
+      "complexity": 29,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -18546,6 +18712,13 @@
   {
     "item": "Hrimnor's Resolve",
     "stats": "socketed skill gems get a #% cost & reservation multiplier, #% increased maximum life",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "RVebL5qU7",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -18565,6 +18738,21 @@
   {
     "item": "Machina Mitts",
     "stats": "curse enemies with elemental weakness on hit",
+    "average": 887.5533333333334,
+    "prices": [
+      363.09000000000003,
+      605.15,
+      968.24,
+      1089.27,
+      1089.27,
+      1210.3,
+      1815.45
+    ],
+    "search": {
+      "id": "0B8PL7bFg",
+      "complexity": 18,
+      "total": 7
+    },
     "builds": 1,
     "mods": [
       {
@@ -18578,6 +18766,13 @@
   {
     "item": "Machina Mitts",
     "stats": "#% increased maximum life, +#% to spell critical strike chance",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "RVYKX9qi7",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
