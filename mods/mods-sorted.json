@@ -18096,6 +18096,19 @@
   {
     "item": "Redblade Banner",
     "stats": "#% of physical damage from hits taken as cold damage",
+    "average": 2403.66,
+    "prices": [
+      247.8,
+      619.5,
+      2478,
+      3717,
+      4956
+    ],
+    "search": {
+      "id": "5okog5mFa",
+      "complexity": 18,
+      "total": 5
+    },
     "builds": 1,
     "mods": [
       {
@@ -18109,6 +18122,15 @@
   {
     "item": "Mjölner",
     "stats": "#% increased attack speed",
+    "average": 2478,
+    "prices": [
+      2478
+    ],
+    "search": {
+      "id": "kXjE4KjF5",
+      "complexity": 19,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -18123,6 +18145,24 @@
   {
     "item": "The Ivory Tower",
     "stats": "+# to level of socketed gems",
+    "average": 190.86,
+    "prices": [
+      25,
+      30,
+      39,
+      80,
+      123.9,
+      247.8,
+      247.8,
+      371.70000000000005,
+      371.70000000000005,
+      371.70000000000005
+    ],
+    "search": {
+      "id": "aboOqYkue",
+      "complexity": 18,
+      "total": 38
+    },
     "builds": 1,
     "mods": [
       {
@@ -18136,6 +18176,24 @@
   {
     "item": "Sign of the Sin Eater",
     "stats": "#% increased area of effect",
+    "average": 135.51,
+    "prices": [
+      40,
+      50,
+      70,
+      80,
+      123.9,
+      123.9,
+      123.9,
+      247.8,
+      247.8,
+      247.8
+    ],
+    "search": {
+      "id": "rXjnOV7CQ",
+      "complexity": 18,
+      "total": 11
+    },
     "builds": 1,
     "mods": [
       {
@@ -18149,6 +18207,17 @@
   {
     "item": "Chains of Command",
     "stats": "+#% to all maximum resistances",
+    "average": 82.5,
+    "prices": [
+      75,
+      90,
+      11151
+    ],
+    "search": {
+      "id": "nXqyZm2C0",
+      "complexity": 18,
+      "total": 3
+    },
     "builds": 1,
     "mods": [
       {
