@@ -15024,6 +15024,24 @@
   {
     "item": "Lightning Coil",
     "stats": "+# to level of socketed minion gems",
+    "average": 49,
+    "prices": [
+      20,
+      30,
+      40,
+      45,
+      45,
+      49,
+      50,
+      54,
+      60,
+      80
+    ],
+    "search": {
+      "id": "8aprQ3VTV",
+      "complexity": 18,
+      "total": 45
+    },
     "builds": 1,
     "mods": [
       {
@@ -15037,6 +15055,13 @@
   {
     "item": "Lightning Coil",
     "stats": "+# to level of socketed aoe gems, +# to level of socketed projectile gems",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "zeBjrpvH4",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -15056,6 +15081,24 @@
   {
     "item": "Lightning Coil",
     "stats": "#% additional physical damage reduction while stationary",
+    "average": 60.351,
+    "prices": [
+      10,
+      10,
+      20,
+      50,
+      50,
+      60,
+      80,
+      100,
+      100,
+      123.51
+    ],
+    "search": {
+      "id": "6ZBDYWkFG",
+      "complexity": 18,
+      "total": 47
+    },
     "builds": 1,
     "mods": [
       {
@@ -15069,6 +15112,24 @@
   {
     "item": "Lightning Coil",
     "stats": "+# to level of socketed gems",
+    "average": 326.06640000000004,
+    "prices": [
+      123.51,
+      123.51,
+      185.26500000000001,
+      247.02,
+      308.77500000000003,
+      370.53000000000003,
+      432.285,
+      481.689,
+      494.04,
+      494.04
+    ],
+    "search": {
+      "id": "2BrQXgYFk",
+      "complexity": 18,
+      "total": 74
+    },
     "builds": 1,
     "mods": [
       {
@@ -15082,6 +15143,18 @@
   {
     "item": "Daresso's Defiance",
     "stats": "+# to level of socketed gems",
+    "average": 123.51,
+    "prices": [
+      79,
+      123.51,
+      123.51,
+      9880.800000000001
+    ],
+    "search": {
+      "id": "vladEZjCE",
+      "complexity": 18,
+      "total": 4
+    },
     "builds": 1,
     "mods": [
       {
