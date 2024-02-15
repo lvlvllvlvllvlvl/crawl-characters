@@ -16693,6 +16693,19 @@
   {
     "item": "Natural Affinity",
     "stats": "corrupted blood cannot be inflicted on you",
+    "average": 8196.416000000001,
+    "prices": [
+      6172,
+      7036.08,
+      8640.8,
+      9258,
+      9875.2
+    ],
+    "search": {
+      "id": "9qlqMQYsK",
+      "complexity": 18,
+      "total": 5
+    },
     "builds": 1,
     "mods": [
       {
@@ -16706,6 +16719,13 @@
   {
     "item": "The Green Dream",
     "stats": "minions deal #% increased damage",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "BEDM6KXH8",
+      "complexity": 18,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -16719,6 +16739,16 @@
   {
     "item": "Dissolution of the Flesh",
     "stats": "damage penetrates #% elemental resistances",
+    "average": 323.6,
+    "prices": [
+      30,
+      617.2
+    ],
+    "search": {
+      "id": "vlqGP3BTE",
+      "complexity": 18,
+      "total": 2
+    },
     "builds": 1,
     "mods": [
       {
@@ -16732,6 +16762,24 @@
   {
     "item": "Hrimsorrow",
     "stats": "curse enemies with elemental weakness on hit",
+    "average": 91.66666666666667,
+    "prices": [
+      80,
+      80,
+      80,
+      90,
+      95,
+      100,
+      100,
+      100,
+      100,
+      123.44
+    ],
+    "search": {
+      "id": "YVqVVY6cY",
+      "complexity": 18,
+      "total": 39
+    },
     "builds": 1,
     "mods": [
       {
@@ -16745,6 +16793,24 @@
   {
     "item": "Hrimsorrow",
     "stats": "+# to maximum frenzy charges",
+    "average": 74.4,
+    "prices": [
+      50,
+      50,
+      50,
+      60,
+      75,
+      79,
+      80,
+      100,
+      100,
+      100
+    ],
+    "search": {
+      "id": "XqDE6QRuP",
+      "complexity": 18,
+      "total": 42
+    },
     "builds": 1,
     "mods": [
       {
