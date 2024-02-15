@@ -17843,6 +17843,22 @@
   {
     "item": "Might of the Meek",
     "stats": "#% reduced effect of chill on you",
+    "average": 42.714285714285715,
+    "prices": [
+      5,
+      19,
+      20,
+      30,
+      50,
+      75,
+      100,
+      243.12
+    ],
+    "search": {
+      "id": "pXEoybbH0",
+      "complexity": 18,
+      "total": 8
+    },
     "builds": 1,
     "mods": [
       {
@@ -17856,6 +17872,18 @@
   {
     "item": "Dawnbreaker",
     "stats": "grants level # determination skill",
+    "average": 121.56,
+    "prices": [
+      121.56,
+      121.56,
+      607.8,
+      67465.8
+    ],
+    "search": {
+      "id": "JVrP0kWIl",
+      "complexity": 18,
+      "total": 4
+    },
     "builds": 1,
     "mods": [
       {
@@ -17869,6 +17897,24 @@
   {
     "item": "Dawnbreaker",
     "stats": "+#% chance to block",
+    "average": 150.15333333333334,
+    "prices": [
+      50,
+      121.56,
+      121.56,
+      121.56,
+      243.12,
+      243.12,
+      607.8,
+      1215.6,
+      1701.8400000000001,
+      4011.48
+    ],
+    "search": {
+      "id": "5okJQ8dia",
+      "complexity": 18,
+      "total": 13
+    },
     "builds": 1,
     "mods": [
       {
@@ -17882,6 +17928,20 @@
   {
     "item": "Voidwalker",
     "stats": "+# to maximum endurance charges",
+    "average": 52.4,
+    "prices": [
+      30,
+      33,
+      50,
+      70,
+      79,
+      1215.6
+    ],
+    "search": {
+      "id": "rXmqqpmfQ",
+      "complexity": 18,
+      "total": 6
+    },
     "builds": 1,
     "mods": [
       {
@@ -17895,6 +17955,21 @@
   {
     "item": "Windripper",
     "stats": "socketed gems are supported by level # momentum",
+    "average": 80.26,
+    "prices": [
+      35,
+      60,
+      60,
+      100,
+      105,
+      121.56,
+      243.12
+    ],
+    "search": {
+      "id": "rXpw3LrTQ",
+      "complexity": 18,
+      "total": 7
+    },
     "builds": 1,
     "mods": [
       {
@@ -17908,6 +17983,13 @@
   {
     "item": "The Fourth Vow",
     "stats": "+# to level of socketed minion gems, #% additional physical damage reduction while stationary",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "9Yv3JpKcK",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -17927,6 +18009,24 @@
   {
     "item": "The Fourth Vow",
     "stats": "+# to level of socketed projectile gems",
+    "average": 166.816,
+    "prices": [
+      11,
+      70,
+      121.56,
+      121.56,
+      121.56,
+      121.56,
+      121.56,
+      250,
+      364.68,
+      364.68
+    ],
+    "search": {
+      "id": "Zb5kpJEHQ",
+      "complexity": 18,
+      "total": 15
+    },
     "builds": 1,
     "mods": [
       {
@@ -17940,6 +18040,13 @@
   {
     "item": "The Fourth Vow",
     "stats": "+# to level of socketed gems, #% increased damage",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "0BZLdGwUg",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -17959,6 +18066,13 @@
   {
     "item": "The Fourth Vow",
     "stats": "+# to level of socketed gems, #% increased maximum energy shield",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "9Bda8KOuK",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -17978,6 +18092,24 @@
   {
     "item": "The Fourth Vow",
     "stats": "+# to level of socketed gems",
+    "average": 121.55999999999999,
+    "prices": [
+      40,
+      70,
+      100,
+      120,
+      121.56,
+      121.56,
+      121.56,
+      121.56,
+      121.56,
+      121.56
+    ],
+    "search": {
+      "id": "VyBKDqPSp",
+      "complexity": 18,
+      "total": 25
+    },
     "builds": 1,
     "mods": [
       {
@@ -17991,6 +18123,24 @@
   {
     "item": "Gravebind",
     "stats": "curse enemies with temporal chains on hit",
+    "average": 121.55999999999999,
+    "prices": [
+      70,
+      80,
+      100,
+      121.56,
+      121.56,
+      121.56,
+      121.56,
+      121.56,
+      121.56,
+      243.12
+    ],
+    "search": {
+      "id": "jXjawVWTX",
+      "complexity": 18,
+      "total": 18
+    },
     "builds": 1,
     "mods": [
       {
@@ -18004,6 +18154,24 @@
   {
     "item": "Gravebind",
     "stats": "curse enemies with enfeeble on hit",
+    "average": 121.55999999999997,
+    "prices": [
+      72.93599999999999,
+      160,
+      121.56,
+      121.56,
+      121.56,
+      121.56,
+      121.56,
+      121.56,
+      121.56,
+      158.02800000000002
+    ],
+    "search": {
+      "id": "rXJbP57TQ",
+      "complexity": 18,
+      "total": 13
+    },
     "builds": 1,
     "mods": [
       {
@@ -18017,6 +18185,17 @@
   {
     "item": "The Red Dream",
     "stats": "#% reduced effect of curses on you",
+    "average": 364.68,
+    "prices": [
+      121.56,
+      364.68,
+      607.8
+    ],
+    "search": {
+      "id": "MV5koWLsJ",
+      "complexity": 18,
+      "total": 3
+    },
     "builds": 1,
     "mods": [
       {
@@ -18030,6 +18209,15 @@
   {
     "item": "Redblade Banner",
     "stats": "#% increased maximum life",
+    "average": 486.24,
+    "prices": [
+      486.24
+    ],
+    "search": {
+      "id": "2BrB85dsk",
+      "complexity": 18,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -18043,6 +18231,20 @@
   {
     "item": "Redblade Banner",
     "stats": "you take #% reduced extra damage from critical strikes",
+    "average": 7779.839999999999,
+    "prices": [
+      3039,
+      5470.2,
+      5470.2,
+      10332.6,
+      14587.2,
+      34279.92
+    ],
+    "search": {
+      "id": "BEJKXnjC8",
+      "complexity": 18,
+      "total": 6
+    },
     "builds": 1,
     "mods": [
       {
