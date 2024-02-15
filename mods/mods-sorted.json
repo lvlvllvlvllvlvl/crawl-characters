@@ -14744,6 +14744,22 @@
   {
     "item": "Lori's Lantern",
     "stats": "hatred has #% increased aura effect",
+    "average": 61.53333333333333,
+    "prices": [
+      20,
+      22,
+      30,
+      50,
+      123.6,
+      123.6,
+      618,
+      1977.6
+    ],
+    "search": {
+      "id": "oXvlqEkFl",
+      "complexity": 18,
+      "total": 8
+    },
     "builds": 1,
     "mods": [
       {
@@ -14757,6 +14773,24 @@
   {
     "item": "Lori's Lantern",
     "stats": "discipline has #% increased aura effect",
+    "average": 118.78000000000002,
+    "prices": [
+      20,
+      30,
+      49,
+      100,
+      123.6,
+      123.6,
+      123.6,
+      123.6,
+      247.2,
+      247.2
+    ],
+    "search": {
+      "id": "QVYkJBMTw",
+      "complexity": 18,
+      "total": 12
+    },
     "builds": 1,
     "mods": [
       {
@@ -14770,6 +14804,13 @@
   {
     "item": "Lori's Lantern",
     "stats": "#% increased strength, #% increased dexterity, discipline has #% increased aura effect",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "OV2q9b0TE",
+      "complexity": 20,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -14795,6 +14836,24 @@
   {
     "item": "Indigon",
     "stats": "+# to maximum power charges",
+    "average": 448.04999999999995,
+    "prices": [
+      123.6,
+      247.2,
+      370.79999999999995,
+      370.79999999999995,
+      494.4,
+      618,
+      618,
+      741.5999999999999,
+      3213.6,
+      24720
+    ],
+    "search": {
+      "id": "jXJ9MZbHX",
+      "complexity": 18,
+      "total": 10
+    },
     "builds": 1,
     "mods": [
       {
@@ -14808,6 +14867,18 @@
   {
     "item": "Atziri's Foible",
     "stats": "you can apply an additional curse",
+    "average": 1854,
+    "prices": [
+      865.1999999999999,
+      988.8,
+      1854,
+      3708
+    ],
+    "search": {
+      "id": "dX4J9ObcJ",
+      "complexity": 18,
+      "total": 4
+    },
     "builds": 1,
     "mods": [
       {
