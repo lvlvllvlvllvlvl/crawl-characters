@@ -5313,6 +5313,13 @@
   {
     "item": "Goldwyrm",
     "stats": "+# to level of socketed gems, +# to level of socketed minion gems",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "R3624VqI7",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -5332,6 +5339,24 @@
   {
     "item": "Goldwyrm",
     "stats": "grants level # haste skill",
+    "average": 23.3,
+    "prices": [
+      5,
+      10,
+      10,
+      10,
+      29,
+      30,
+      30,
+      30,
+      39,
+      40
+    ],
+    "search": {
+      "id": "3BYY9LJi5",
+      "complexity": 18,
+      "total": 35
+    },
     "builds": 1,
     "mods": [
       {
@@ -5345,6 +5370,20 @@
   {
     "item": "Sentari's Answer",
     "stats": "#% increased maximum life",
+    "average": 124.51666666666667,
+    "prices": [
+      15,
+      40,
+      80,
+      122.42,
+      244.84,
+      244.84
+    ],
+    "search": {
+      "id": "mXYGO9aC6",
+      "complexity": 18,
+      "total": 6
+    },
     "builds": 1,
     "mods": [
       {
@@ -5358,6 +5397,22 @@
   {
     "item": "Sentari's Answer",
     "stats": "#% of physical damage from hits taken as chaos damage",
+    "average": 86.03714285714285,
+    "prices": [
+      20,
+      30,
+      85,
+      100,
+      122.42,
+      122.42,
+      122.42,
+      244.84
+    ],
+    "search": {
+      "id": "7lozQ2lH5",
+      "complexity": 18,
+      "total": 8
+    },
     "builds": 1,
     "mods": [
       {
@@ -5371,6 +5426,24 @@
   {
     "item": "Sentari's Answer",
     "stats": "you take #% reduced extra damage from critical strikes",
+    "average": 502.68,
+    "prices": [
+      30,
+      100,
+      122.42,
+      122.42,
+      244.84,
+      612.1,
+      612.1,
+      979.36,
+      979.36,
+      1224.2
+    ],
+    "search": {
+      "id": "8adzGlqCV",
+      "complexity": 18,
+      "total": 13
+    },
     "builds": 1,
     "mods": [
       {
@@ -5384,6 +5457,24 @@
   {
     "item": "Shaper's Touch",
     "stats": "#% increased maximum energy shield",
+    "average": 57.9,
+    "prices": [
+      10,
+      19,
+      20,
+      30,
+      40,
+      70,
+      90,
+      100,
+      100,
+      100
+    ],
+    "search": {
+      "id": "VMgl2KlCp",
+      "complexity": 18,
+      "total": 18
+    },
     "builds": 1,
     "mods": [
       {
@@ -5397,6 +5488,24 @@
   {
     "item": "Shaper's Touch",
     "stats": "curse enemies with temporal chains on hit",
+    "average": 32.875,
+    "prices": [
+      20,
+      20,
+      30,
+      33,
+      35,
+      35,
+      40,
+      50,
+      60,
+      70
+    ],
+    "search": {
+      "id": "gXWRrJjhQ",
+      "complexity": 18,
+      "total": 18
+    },
     "builds": 1,
     "mods": [
       {
@@ -5410,6 +5519,24 @@
   {
     "item": "String of Servitude",
     "stats": "#% increased quantity of items found",
+    "average": 254.03750000000002,
+    "prices": [
+      20,
+      30,
+      47,
+      99,
+      367.26,
+      367.26,
+      489.68,
+      612.1,
+      856.94,
+      1224.2
+    ],
+    "search": {
+      "id": "lPrYXD0sV",
+      "complexity": 18,
+      "total": 13
+    },
     "builds": 1,
     "mods": [
       {
@@ -5423,6 +5550,13 @@
   {
     "item": "String of Servitude",
     "stats": "#% increased maximum energy shield, hatred has #% increased aura effect",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "MV4KYqDFJ",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -5442,6 +5576,13 @@
   {
     "item": "Corpsewalker",
     "stats": "#% increased maximum energy shield, #% increased movement speed",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "OVDEg6VHE",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -5461,6 +5602,18 @@
   {
     "item": "Corpsewalker",
     "stats": "+# to level of socketed aura gems",
+    "average": 214.235,
+    "prices": [
+      122.42,
+      183.63,
+      244.84,
+      306.05
+    ],
+    "search": {
+      "id": "rXjqaeMtQ",
+      "complexity": 18,
+      "total": 4
+    },
     "builds": 1,
     "mods": [
       {
@@ -5474,6 +5627,24 @@
   {
     "item": "Corpsewalker",
     "stats": "+# to maximum endurance charges",
+    "average": 367.26,
+    "prices": [
+      122.42,
+      244.84,
+      355.018,
+      367.26,
+      367.26,
+      367.26,
+      367.26,
+      612.1,
+      1224.2,
+      9671.18
+    ],
+    "search": {
+      "id": "lXjqDv6hV",
+      "complexity": 18,
+      "total": 10
+    },
     "builds": 1,
     "mods": [
       {
@@ -5487,6 +5658,21 @@
   {
     "item": "Corpsewalker",
     "stats": "+# to level of socketed aoe gems",
+    "average": 227.35142857142858,
+    "prices": [
+      122.42,
+      122.42,
+      244.84,
+      244.84,
+      244.84,
+      244.84,
+      367.26
+    ],
+    "search": {
+      "id": "3BZ8DW9c5",
+      "complexity": 18,
+      "total": 7
+    },
     "builds": 1,
     "mods": [
       {
@@ -5500,6 +5686,21 @@
   {
     "item": "Corpsewalker",
     "stats": "regenerate # life per second while moving",
+    "average": 92.47333333333334,
+    "prices": [
+      40,
+      70,
+      100,
+      100,
+      122.42,
+      122.42,
+      183.63
+    ],
+    "search": {
+      "id": "50GO9zeta",
+      "complexity": 18,
+      "total": 7
+    },
     "builds": 1,
     "mods": [
       {
@@ -5513,6 +5714,21 @@
   {
     "item": "Dialla's Malefaction",
     "stats": "+# to level of socketed duration gems",
+    "average": 82500,
+    "prices": [
+      6121,
+      6733.1,
+      11017.8,
+      11017.8,
+      12119.58,
+      265245.36,
+      265245.36
+    ],
+    "search": {
+      "id": "JVdoQ85cl",
+      "complexity": 18,
+      "total": 7
+    },
     "builds": 1,
     "mods": [
       {
