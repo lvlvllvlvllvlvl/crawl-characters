@@ -16268,6 +16268,19 @@
   {
     "item": "Severed in Sleep",
     "stats": "#% increased physical damage",
+    "average": 55.5,
+    "prices": [
+      22,
+      40,
+      60,
+      100,
+      246.8
+    ],
+    "search": {
+      "id": "4d95MJZt9",
+      "complexity": 18,
+      "total": 5
+    },
     "builds": 1,
     "mods": [
       {
@@ -16281,6 +16294,22 @@
   {
     "item": "Severed in Sleep",
     "stats": "#% increased area of effect",
+    "average": 143.66666666666666,
+    "prices": [
+      70,
+      80,
+      95,
+      123.4,
+      246.8,
+      246.8,
+      2097.8,
+      2714.8
+    ],
+    "search": {
+      "id": "oZ8W3yqhl",
+      "complexity": 18,
+      "total": 8
+    },
     "builds": 1,
     "mods": [
       {
@@ -16294,6 +16323,20 @@
   {
     "item": "Severed in Sleep",
     "stats": "#% increased attack speed",
+    "average": 58.23333333333333,
+    "prices": [
+      5,
+      25,
+      35,
+      50,
+      111,
+      123.4
+    ],
+    "search": {
+      "id": "y9R7VBlSR",
+      "complexity": 19,
+      "total": 6
+    },
     "builds": 1,
     "mods": [
       {
@@ -16308,6 +16351,13 @@
   {
     "item": "Umbilicus Immortalis",
     "stats": "#% increased strength, #% increased dexterity, +#% to all elemental resistances",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "GkJ5moZcb",
+      "complexity": 20,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -16333,6 +16383,15 @@
   {
     "item": "Umbilicus Immortalis",
     "stats": "#% increased maximum energy shield",
+    "average": 55,
+    "prices": [
+      55
+    ],
+    "search": {
+      "id": "MVZbYLGUJ",
+      "complexity": 18,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
