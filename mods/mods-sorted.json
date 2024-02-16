@@ -11369,6 +11369,24 @@
   {
     "item": "The Consuming Dark",
     "stats": "#% chance to gain a frenzy charge on kill",
+    "average": 45.2,
+    "prices": [
+      10,
+      12,
+      15,
+      35,
+      40,
+      50,
+      50,
+      50,
+      90,
+      100
+    ],
+    "search": {
+      "id": "0BRpybYFg",
+      "complexity": 18,
+      "total": 20
+    },
     "builds": 1,
     "mods": [
       {
@@ -11382,6 +11400,18 @@
   {
     "item": "Victario's Influence",
     "stats": "+# to level of socketed minion gems, +# to level of socketed aura gems",
+    "average": 66.465,
+    "prices": [
+      20,
+      40,
+      80,
+      125.86
+    ],
+    "search": {
+      "id": "y9E0KkrhR",
+      "complexity": 29,
+      "total": 4
+    },
     "builds": 1,
     "mods": [
       {
@@ -11401,6 +11431,15 @@
   {
     "item": "Victario's Influence",
     "stats": "+# to level of socketed trap or mine gems, #% increased maximum life",
+    "average": 377.58,
+    "prices": [
+      377.58
+    ],
+    "search": {
+      "id": "OVaB4MgHE",
+      "complexity": 29,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -11420,6 +11459,20 @@
   {
     "item": "Victario's Influence",
     "stats": "+# to level of socketed aura gems, #% increased maximum energy shield",
+    "average": 174.515,
+    "prices": [
+      50,
+      80,
+      99,
+      188.79,
+      251.72,
+      377.58
+    ],
+    "search": {
+      "id": "4dvYZDwH9",
+      "complexity": 29,
+      "total": 6
+    },
     "builds": 1,
     "mods": [
       {
@@ -11439,6 +11492,20 @@
   {
     "item": "Victario's Influence",
     "stats": "+# to level of socketed aura gems, +# to level of socketed curse gems",
+    "average": 322.06399999999996,
+    "prices": [
+      100,
+      251.72,
+      377.58,
+      377.58,
+      503.44,
+      11327.4
+    ],
+    "search": {
+      "id": "lXkaJKjiV",
+      "complexity": 29,
+      "total": 6
+    },
     "builds": 1,
     "mods": [
       {
