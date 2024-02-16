@@ -3162,6 +3162,24 @@
   {
     "item": "Headhunter",
     "stats": "#% increased dexterity, #% increased intelligence",
+    "average": 14806.05,
+    "prices": [
+      7434,
+      8673,
+      8673,
+      11151,
+      12390,
+      14248.5,
+      17346,
+      18585,
+      24780,
+      24780
+    ],
+    "search": {
+      "id": "DL85jL7H5",
+      "complexity": 29,
+      "total": 12
+    },
     "builds": 2,
     "mods": [
       {
@@ -3181,6 +3199,17 @@
   {
     "item": "Victario's Influence",
     "stats": "+# to level of socketed gems, +# to level of socketed aoe gems",
+    "average": 495.6,
+    "prices": [
+      247.8,
+      743.4000000000001,
+      9788.1
+    ],
+    "search": {
+      "id": "emYDwLYsL",
+      "complexity": 29,
+      "total": 3
+    },
     "builds": 2,
     "mods": [
       {
@@ -3200,6 +3229,24 @@
   {
     "item": "Victario's Influence",
     "stats": "+# to level of socketed aoe gems",
+    "average": 45,
+    "prices": [
+      10,
+      20,
+      25,
+      35,
+      35,
+      40,
+      60,
+      60,
+      75,
+      90
+    ],
+    "search": {
+      "id": "waPDjkKfb",
+      "complexity": 18,
+      "total": 45
+    },
     "builds": 2,
     "mods": [
       {
@@ -3213,6 +3260,15 @@
   {
     "item": "Victario's Influence",
     "stats": "+# to level of socketed aura gems, #% increased damage",
+    "average": 40,
+    "prices": [
+      40
+    ],
+    "search": {
+      "id": "3BmYQ0Gs5",
+      "complexity": 29,
+      "total": 1
+    },
     "builds": 2,
     "mods": [
       {
@@ -3232,6 +3288,15 @@
   {
     "item": "Victario's Influence",
     "stats": "+# to level of socketed aoe gems, +# to level of socketed aura gems",
+    "average": 6195,
+    "prices": [
+      6195
+    ],
+    "search": {
+      "id": "YD03QoRIY",
+      "complexity": 29,
+      "total": 1
+    },
     "builds": 2,
     "mods": [
       {
