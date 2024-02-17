@@ -18696,6 +18696,24 @@
   {
     "item": "Perseverance",
     "stats": "determination has #% increased aura effect",
+    "average": 65.71,
+    "prices": [
+      19,
+      20,
+      20,
+      20,
+      49,
+      70,
+      80,
+      120,
+      129.55,
+      129.55
+    ],
+    "search": {
+      "id": "8ae6mr8iV",
+      "complexity": 18,
+      "total": 16
+    },
     "builds": 1,
     "mods": [
       {
@@ -18709,6 +18727,17 @@
   {
     "item": "Astral Projector",
     "stats": "#% increased cast speed",
+    "average": 654.4166666666666,
+    "prices": [
+      20,
+      777.3000000000001,
+      1165.95
+    ],
+    "search": {
+      "id": "dXb0bwoFJ",
+      "complexity": 18,
+      "total": 3
+    },
     "builds": 1,
     "mods": [
       {
@@ -18722,6 +18751,16 @@
   {
     "item": "Astral Projector",
     "stats": "hatred has #% increased aura effect",
+    "average": 1943.2500000000002,
+    "prices": [
+      1943.2500000000002,
+      1943.2500000000002
+    ],
+    "search": {
+      "id": "BEXrk6Xt8",
+      "complexity": 18,
+      "total": 2
+    },
     "builds": 1,
     "mods": [
       {
@@ -18735,6 +18774,21 @@
   {
     "item": "The Vertex",
     "stats": "+# to level of socketed duration gems",
+    "average": 129.55,
+    "prices": [
+      50,
+      100,
+      129.55,
+      129.55,
+      129.55,
+      388.65000000000003,
+      647.75
+    ],
+    "search": {
+      "id": "Eyd2Obyt5",
+      "complexity": 18,
+      "total": 7
+    },
     "builds": 1,
     "mods": [
       {
@@ -18748,6 +18802,23 @@
   {
     "item": "The Vertex",
     "stats": "socketed skill gems get a #% cost & reservation multiplier",
+    "average": 404.8437500000001,
+    "prices": [
+      129.55,
+      129.55,
+      129.55,
+      129.55,
+      388.65000000000003,
+      518.2,
+      906.8500000000001,
+      906.8500000000001,
+      4275.150000000001
+    ],
+    "search": {
+      "id": "DL4rObwC5",
+      "complexity": 18,
+      "total": 9
+    },
     "builds": 1,
     "mods": [
       {
