@@ -18278,6 +18278,19 @@
   {
     "item": "Leash of Oblation",
     "stats": "discipline has #% increased aura effect",
+    "average": 119.67999999999999,
+    "prices": [
+      4,
+      80,
+      128.6,
+      128.6,
+      257.2
+    ],
+    "search": {
+      "id": "kXJQ05WI5",
+      "complexity": 18,
+      "total": 5
+    },
     "builds": 1,
     "mods": [
       {
@@ -18291,6 +18304,13 @@
   {
     "item": "Triad Grip",
     "stats": "+# to level of socketed aura gems, #% increased maximum energy shield",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "waq7K2jcb",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -18310,6 +18330,16 @@
   {
     "item": "Legacy of Fury",
     "stats": "#% increased movement speed",
+    "average": 356.5,
+    "prices": [
+      70,
+      643
+    ],
+    "search": {
+      "id": "6Gqvl6XuG",
+      "complexity": 18,
+      "total": 2
+    },
     "builds": 1,
     "mods": [
       {
@@ -18323,6 +18353,20 @@
   {
     "item": "Arakaali's Fang",
     "stats": "#% chance to gain a frenzy charge on kill",
+    "average": 342.93333333333334,
+    "prices": [
+      128.6,
+      128.6,
+      257.2,
+      385.79999999999995,
+      514.4,
+      643
+    ],
+    "search": {
+      "id": "oXjZ0EOsl",
+      "complexity": 18,
+      "total": 6
+    },
     "builds": 1,
     "mods": [
       {
@@ -18336,6 +18380,20 @@
   {
     "item": "Primordial Eminence",
     "stats": "corrupted blood cannot be inflicted on you",
+    "average": 720.1599999999999,
+    "prices": [
+      385.79999999999995,
+      643,
+      643,
+      771.5999999999999,
+      1157.3999999999999,
+      6430
+    ],
+    "search": {
+      "id": "80ZJ5VZcV",
+      "complexity": 18,
+      "total": 6
+    },
     "builds": 1,
     "mods": [
       {
