@@ -17309,6 +17309,13 @@
   {
     "item": "Rearguard",
     "stats": "#% of fire damage leeched as life, bow attacks fire an additional arrow",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "JVnJRBRIl",
+      "complexity": 30,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -17329,6 +17336,13 @@
   {
     "item": "Replica Inya's Epiphany",
     "stats": "+# to level of socketed gems",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "aq37vaRFe",
+      "complexity": 18,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -17342,6 +17356,13 @@
   {
     "item": "The Poised Prism",
     "stats": "# to # added cold damage with bow attacks, # to # added lightning damage with bow attacks",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "lX80WLVsV",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -17361,6 +17382,24 @@
   {
     "item": "The Poised Prism",
     "stats": "#% increased elemental damage with attack skills",
+    "average": 1,
+    "prices": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "search": {
+      "id": "rXmvBJzSQ",
+      "complexity": 18,
+      "total": 174
+    },
     "builds": 1,
     "mods": [
       {
@@ -17374,6 +17413,19 @@
   {
     "item": "Flamesight",
     "stats": "+# to maximum power charges",
+    "average": 2557.4,
+    "prices": [
+      2544.613,
+      2557.4,
+      2557.4,
+      2557.4,
+      3196.75
+    ],
+    "search": {
+      "id": "jX4GnbkSX",
+      "complexity": 18,
+      "total": 5
+    },
     "builds": 1,
     "mods": [
       {
