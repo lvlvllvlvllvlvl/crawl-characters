@@ -17999,6 +17999,17 @@
   {
     "item": "Gravebind",
     "stats": "curse enemies with temporal chains on hit",
+    "average": 259.1,
+    "prices": [
+      129.55,
+      259.1,
+      388.65000000000003
+    ],
+    "search": {
+      "id": "jXjawVWTX",
+      "complexity": 18,
+      "total": 3
+    },
     "builds": 1,
     "mods": [
       {
@@ -18012,6 +18023,24 @@
   {
     "item": "Gravebind",
     "stats": "curse enemies with enfeeble on hit",
+    "average": 129.54999999999998,
+    "prices": [
+      40,
+      150,
+      129.55,
+      129.55,
+      129.55,
+      129.55,
+      129.55,
+      129.55,
+      168.41500000000002,
+      259.1
+    ],
+    "search": {
+      "id": "rXJbP57TQ",
+      "complexity": 18,
+      "total": 14
+    },
     "builds": 1,
     "mods": [
       {
@@ -18025,6 +18054,13 @@
   {
     "item": "The Red Dream",
     "stats": "#% reduced effect of curses on you",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "MV5koWLsJ",
+      "complexity": 18,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -18038,6 +18074,20 @@
   {
     "item": "Redblade Banner",
     "stats": "#% increased maximum life",
+    "average": 4383.108333333334,
+    "prices": [
+      647.75,
+      2850.1000000000004,
+      3368.3,
+      3886.5000000000005,
+      7773.000000000001,
+      7773.000000000001
+    ],
+    "search": {
+      "id": "2BrB85dsk",
+      "complexity": 18,
+      "total": 6
+    },
     "builds": 1,
     "mods": [
       {
@@ -18051,6 +18101,22 @@
   {
     "item": "Redblade Banner",
     "stats": "you take #% reduced extra damage from critical strikes",
+    "average": 7044.28125,
+    "prices": [
+      3886.5000000000005,
+      5182,
+      5829.750000000001,
+      6477.500000000001,
+      6477.500000000001,
+      9068.5,
+      9716.25,
+      9716.25
+    ],
+    "search": {
+      "id": "BEJKXnjC8",
+      "complexity": 18,
+      "total": 8
+    },
     "builds": 1,
     "mods": [
       {
