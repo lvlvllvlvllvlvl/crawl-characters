@@ -16934,6 +16934,24 @@
   {
     "item": "Ephemeral Edge",
     "stats": "#% chance to gain onslaught for # seconds on kill",
+    "average": 61.835,
+    "prices": [
+      20,
+      20,
+      50,
+      50,
+      54.349999999999994,
+      60,
+      80,
+      85,
+      99,
+      100
+    ],
+    "search": {
+      "id": "z27GpRRI4",
+      "complexity": 18,
+      "total": 25
+    },
     "builds": 1,
     "mods": [
       {
@@ -16947,6 +16965,16 @@
   {
     "item": "Breathstealer",
     "stats": "+# to level of socketed gems",
+    "average": 1468.3200000000002,
+    "prices": [
+      1276.8000000000002,
+      1659.8400000000001
+    ],
+    "search": {
+      "id": "WVWz0XZtm",
+      "complexity": 18,
+      "total": 2
+    },
     "builds": 1,
     "mods": [
       {
@@ -16960,6 +16988,13 @@
   {
     "item": "Breathstealer",
     "stats": "+# to level of socketed aoe gems",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "2BaPbYjIk",
+      "complexity": 18,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -16973,6 +17008,20 @@
   {
     "item": "The Jinxed Juju",
     "stats": "wrath has #% increased aura effect",
+    "average": 3596.706666666667,
+    "prices": [
+      50,
+      80,
+      127.68,
+      255.36,
+      8299.2,
+      12768
+    ],
+    "search": {
+      "id": "oX7R79kFl",
+      "complexity": 18,
+      "total": 6
+    },
     "builds": 1,
     "mods": [
       {
