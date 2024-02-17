@@ -17725,6 +17725,20 @@
   {
     "item": "Might of the Meek",
     "stats": "#% reduced effect of chill on you",
+    "average": 28.875,
+    "prices": [
+      5,
+      20,
+      35.5,
+      30,
+      30,
+      1284.1999999999998
+    ],
+    "search": {
+      "id": "pXEoybbH0",
+      "complexity": 18,
+      "total": 6
+    },
     "builds": 1,
     "mods": [
       {
@@ -17738,6 +17752,22 @@
   {
     "item": "Dawnbreaker",
     "stats": "grants level # determination skill",
+    "average": 758.8359999999999,
+    "prices": [
+      70,
+      642.0999999999999,
+      642.0999999999999,
+      1155.78,
+      1284.1999999999998,
+      6420.999999999999,
+      12841.999999999998,
+      71273.09999999999
+    ],
+    "search": {
+      "id": "JVrP0kWIl",
+      "complexity": 18,
+      "total": 8
+    },
     "builds": 1,
     "mods": [
       {
@@ -17751,6 +17781,24 @@
   {
     "item": "Dawnbreaker",
     "stats": "+#% chance to block",
+    "average": 1584.1449999999998,
+    "prices": [
+      64.21,
+      110,
+      513.68,
+      770.52,
+      770.52,
+      1541.04,
+      1797.8799999999999,
+      3210.4999999999995,
+      3210.4999999999995,
+      3852.5999999999995
+    ],
+    "search": {
+      "id": "5okJQ8dia",
+      "complexity": 18,
+      "total": 16
+    },
     "builds": 1,
     "mods": [
       {
@@ -17764,6 +17812,20 @@
   {
     "item": "Voidwalker",
     "stats": "+# to maximum endurance charges",
+    "average": 73.684,
+    "prices": [
+      10,
+      30,
+      100,
+      100,
+      128.42,
+      1284.1999999999998
+    ],
+    "search": {
+      "id": "rXmqqpmfQ",
+      "complexity": 18,
+      "total": 6
+    },
     "builds": 1,
     "mods": [
       {
@@ -17777,6 +17839,13 @@
   {
     "item": "Windripper",
     "stats": "socketed gems are supported by level # momentum",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "rXpw3LrTQ",
+      "complexity": 18,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
