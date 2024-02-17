@@ -2458,6 +2458,13 @@
   {
     "item": "Dialla's Malefaction",
     "stats": "+# to level of socketed gems, +#% to all maximum resistances",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "Ey6M5KKC5",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 2,
     "mods": [
       {
@@ -2477,6 +2484,24 @@
   {
     "item": "Heatshiver",
     "stats": "+# to level of socketed aura gems",
+    "average": 30.5,
+    "prices": [
+      20,
+      20,
+      20,
+      25,
+      30,
+      30,
+      40,
+      40,
+      40,
+      40
+    ],
+    "search": {
+      "id": "9Y2Z83ysK",
+      "complexity": 18,
+      "total": 44
+    },
     "builds": 2,
     "mods": [
       {
@@ -2490,6 +2515,24 @@
   {
     "item": "Heatshiver",
     "stats": "#% increased maximum life",
+    "average": 21.11111111111111,
+    "prices": [
+      10,
+      15,
+      15,
+      20,
+      20,
+      20,
+      30,
+      30,
+      30,
+      40
+    ],
+    "search": {
+      "id": "PK7qy2ZCL",
+      "complexity": 18,
+      "total": 34
+    },
     "builds": 2,
     "mods": [
       {
@@ -2503,6 +2546,24 @@
   {
     "item": "Matua Tupuna",
     "stats": "#% of physical damage from hits taken as fire damage",
+    "average": 90.39000000000001,
+    "prices": [
+      8,
+      8,
+      70,
+      80,
+      80,
+      131.58,
+      131.58,
+      131.58,
+      131.58,
+      131.58
+    ],
+    "search": {
+      "id": "PdlBV3ghL",
+      "complexity": 18,
+      "total": 14
+    },
     "builds": 2,
     "mods": [
       {
@@ -2516,6 +2577,24 @@
   {
     "item": "The Covenant",
     "stats": "+# to level of socketed aoe gems",
+    "average": 964.9200000000003,
+    "prices": [
+      20,
+      526.32,
+      657.9000000000001,
+      657.9000000000001,
+      921.0600000000001,
+      1052.64,
+      1052.64,
+      1184.22,
+      1315.8000000000002,
+      1315.8000000000002
+    ],
+    "search": {
+      "id": "wpRa4kBcb",
+      "complexity": 18,
+      "total": 20
+    },
     "builds": 2,
     "mods": [
       {
