@@ -15005,6 +15005,17 @@
   {
     "item": "Cloak of Defiance",
     "stats": "#% increased damage",
+    "average": 137.68,
+    "prices": [
+      20,
+      255.36,
+      5107.200000000001
+    ],
+    "search": {
+      "id": "3GwWVB0I5",
+      "complexity": 18,
+      "total": 3
+    },
     "builds": 1,
     "mods": [
       {
@@ -15018,6 +15029,13 @@
   {
     "item": "Dance of the Offered",
     "stats": "+# to level of socketed gems",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "GkdRWoWCb",
+      "complexity": 18,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -15031,6 +15049,24 @@
   {
     "item": "Lightning Coil",
     "stats": "+#% to all maximum resistances",
+    "average": 91.85600000000002,
+    "prices": [
+      20,
+      38.304,
+      60,
+      70,
+      127.68,
+      127.68,
+      127.68,
+      127.68,
+      127.68,
+      255.36
+    ],
+    "search": {
+      "id": "80Z0zlZcV",
+      "complexity": 18,
+      "total": 47
+    },
     "builds": 1,
     "mods": [
       {
@@ -15044,6 +15080,24 @@
   {
     "item": "Lightning Coil",
     "stats": "+# to level of socketed duration gems",
+    "average": 89.4,
+    "prices": [
+      40,
+      45,
+      50,
+      60,
+      80,
+      99,
+      100,
+      100,
+      160,
+      160
+    ],
+    "search": {
+      "id": "waPeM2jtb",
+      "complexity": 18,
+      "total": 56
+    },
     "builds": 1,
     "mods": [
       {
@@ -15057,6 +15111,13 @@
   {
     "item": "Lightning Coil",
     "stats": "#% increased damage, #% reduced lightning damage taken",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "XqDYal7CP",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
