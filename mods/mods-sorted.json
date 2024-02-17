@@ -2,6 +2,24 @@
   {
     "item": "String of Servitude",
     "stats": "hatred has #% increased aura effect",
+    "average": 10,
+    "prices": [
+      1,
+      5,
+      5,
+      5,
+      8,
+      10,
+      10,
+      16,
+      20,
+      20
+    ],
+    "search": {
+      "id": "OpJoQXOSE",
+      "complexity": 18,
+      "total": 48
+    },
     "builds": 17,
     "mods": [
       {
@@ -15,6 +33,24 @@
   {
     "item": "Vaal Caress",
     "stats": "+# to level of socketed duration gems",
+    "average": 282.40600000000006,
+    "prices": [
+      40,
+      131.12,
+      131.12,
+      200,
+      262.24,
+      393.36,
+      550.7040000000001,
+      550.7040000000001,
+      1835.68,
+      13112
+    ],
+    "search": {
+      "id": "abo0zLRHe",
+      "complexity": 18,
+      "total": 10
+    },
     "builds": 16,
     "mods": [
       {
@@ -28,6 +64,24 @@
   {
     "item": "Matua Tupuna",
     "stats": "+# to level of socketed aura gems",
+    "average": 182.2568,
+    "prices": [
+      118.00800000000001,
+      131.12,
+      131.12,
+      131.12,
+      131.12,
+      131.12,
+      262.24,
+      262.24,
+      262.24,
+      262.24
+    ],
+    "search": {
+      "id": "0PQlkZ8ig",
+      "complexity": 18,
+      "total": 32
+    },
     "builds": 15,
     "mods": [
       {
@@ -41,6 +95,24 @@
   {
     "item": "Southbound",
     "stats": "+#% to spell critical strike chance",
+    "average": 71.48444444444445,
+    "prices": [
+      10,
+      10,
+      20,
+      60,
+      60,
+      90,
+      131.12,
+      131.12,
+      131.12,
+      262.24
+    ],
+    "search": {
+      "id": "XkO2WqdSP",
+      "complexity": 18,
+      "total": 15
+    },
     "builds": 13,
     "mods": [
       {
@@ -54,6 +126,24 @@
   {
     "item": "Matua Tupuna",
     "stats": "+# to level of socketed aoe gems",
+    "average": 166.2776,
+    "prices": [
+      50,
+      118.00800000000001,
+      118.00800000000001,
+      131.12,
+      131.12,
+      131.12,
+      196.68,
+      262.24,
+      262.24,
+      262.24
+    ],
+    "search": {
+      "id": "2GbYYzYHk",
+      "complexity": 18,
+      "total": 31
+    },
     "builds": 12,
     "mods": [
       {
