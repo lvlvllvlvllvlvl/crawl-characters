@@ -4697,6 +4697,15 @@
   {
     "item": "Asenath's Gentle Touch",
     "stats": "#% increased maximum life, +# to maximum frenzy charges",
+    "average": 19767,
+    "prices": [
+      19767
+    ],
+    "search": {
+      "id": "qXj3723Cg",
+      "complexity": 29,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -4716,6 +4725,13 @@
   {
     "item": "Asenath's Gentle Touch",
     "stats": "#% increased maximum energy shield, attacks have +#% to critical strike chance",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "2BaeBW5hk",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -4735,6 +4751,24 @@
   {
     "item": "Asenath's Gentle Touch",
     "stats": "curse enemies with enfeeble on hit",
+    "average": 31.11111111111111,
+    "prices": [
+      10,
+      20,
+      25,
+      30,
+      30,
+      30,
+      30,
+      35,
+      40,
+      40
+    ],
+    "search": {
+      "id": "jMvWk0XiX",
+      "complexity": 18,
+      "total": 47
+    },
     "builds": 1,
     "mods": [
       {
@@ -4748,6 +4782,13 @@
   {
     "item": "Asenath's Gentle Touch",
     "stats": "+# to level of socketed aura gems, curse enemies with vulnerability on hit",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "vlPE4wLCE",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -4767,6 +4808,13 @@
   {
     "item": "Asenath's Gentle Touch",
     "stats": "#% increased cast speed, #% increased maximum life",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "eXWqWYbcL",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
