@@ -17439,6 +17439,24 @@
   {
     "item": "Rat's Nest",
     "stats": "socketed skill gems get a #% cost & reservation multiplier",
+    "average": 56.193333333333335,
+    "prices": [
+      15,
+      25,
+      25,
+      35,
+      50,
+      50,
+      50,
+      127.87,
+      127.87,
+      191.805
+    ],
+    "search": {
+      "id": "6ZDz0ZkcG",
+      "complexity": 18,
+      "total": 15
+    },
     "builds": 1,
     "mods": [
       {
@@ -17452,6 +17470,22 @@
   {
     "item": "Aurseize",
     "stats": "curse enemies with elemental weakness on hit",
+    "average": 40,
+    "prices": [
+      30,
+      30,
+      40,
+      60,
+      127.87,
+      255.74,
+      3196.75,
+      6393.5
+    ],
+    "search": {
+      "id": "waPLQLRSb",
+      "complexity": 18,
+      "total": 8
+    },
     "builds": 1,
     "mods": [
       {
@@ -17465,6 +17499,22 @@
   {
     "item": "Leer Cast",
     "stats": "+# to maximum power charges",
+    "average": 127.87,
+    "prices": [
+      60,
+      100,
+      130,
+      127.87,
+      127.87,
+      127.87,
+      639.35,
+      3836.1000000000004
+    ],
+    "search": {
+      "id": "Xqb5zPKFP",
+      "complexity": 18,
+      "total": 8
+    },
     "builds": 1,
     "mods": [
       {
@@ -17478,6 +17528,23 @@
   {
     "item": "Saffell's Frame",
     "stats": "#% of physical damage from hits taken as cold damage",
+    "average": 88.16666666666667,
+    "prices": [
+      40,
+      80,
+      80,
+      80,
+      89,
+      100,
+      100,
+      383.61,
+      639.35
+    ],
+    "search": {
+      "id": "LmdmLM7tn",
+      "complexity": 18,
+      "total": 9
+    },
     "builds": 1,
     "mods": [
       {
@@ -17491,6 +17558,16 @@
   {
     "item": "Might of the Meek",
     "stats": "damage penetrates #% lightning resistance",
+    "average": 75.04150000000001,
+    "prices": [
+      35,
+      115.08300000000001
+    ],
+    "search": {
+      "id": "lXODXjrhV",
+      "complexity": 19,
+      "total": 2
+    },
     "builds": 1,
     "mods": [
       {
