@@ -7632,6 +7632,15 @@
   {
     "item": "Unnatural Instinct",
     "stats": "damage penetrates #% cold resistance, damage penetrates #% lightning resistance",
+    "average": 2637.4,
+    "prices": [
+      2637.4
+    ],
+    "search": {
+      "id": "GkOz8ooub",
+      "complexity": 31,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -7653,6 +7662,13 @@
   {
     "item": "Unnatural Instinct",
     "stats": "#% reduced bleed duration on you, you cannot be hindered",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "6ZY69bbhG",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -7672,6 +7688,17 @@
   {
     "item": "Olesya's Delight",
     "stats": "#% increased attack speed during any flask effect",
+    "average": 164.8375,
+    "prices": [
+      131.87,
+      197.805,
+      3824.23
+    ],
+    "search": {
+      "id": "4zm42y8t9",
+      "complexity": 18,
+      "total": 3
+    },
     "builds": 1,
     "mods": [
       {
@@ -7685,6 +7712,13 @@
   {
     "item": "Snakebite",
     "stats": "#% increased attack speed, +# to maximum frenzy charges",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "EqJWYJRs5",
+      "complexity": 30,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -7705,6 +7739,24 @@
   {
     "item": "Snakebite",
     "stats": "curse enemies with temporal chains on hit",
+    "average": 51.666666666666664,
+    "prices": [
+      15,
+      20,
+      40,
+      40,
+      40,
+      50,
+      60,
+      100,
+      100,
+      131.87
+    ],
+    "search": {
+      "id": "PK7gj0ZCL",
+      "complexity": 18,
+      "total": 14
+    },
     "builds": 1,
     "mods": [
       {
