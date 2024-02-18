@@ -14661,6 +14661,13 @@
   {
     "item": "Inpulsa's Broken Heart",
     "stats": "#% reduced cold damage taken",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "eXDrLwWFL",
+      "complexity": 18,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -14674,6 +14681,17 @@
   {
     "item": "Inpulsa's Broken Heart",
     "stats": "#% reduced lightning damage taken",
+    "average": 287.04,
+    "prices": [
+      60,
+      133.52,
+      667.6
+    ],
+    "search": {
+      "id": "LmXP4Y2hn",
+      "complexity": 18,
+      "total": 3
+    },
     "builds": 1,
     "mods": [
       {
@@ -14687,6 +14705,24 @@
   {
     "item": "The Annihilating Light",
     "stats": "#% chance to gain a power charge on critical strike",
+    "average": 231.97000000000003,
+    "prices": [
+      20,
+      100,
+      133.52,
+      133.52,
+      133.52,
+      267.04,
+      534.08,
+      534.08,
+      2536.88,
+      2670.4
+    ],
+    "search": {
+      "id": "PK7GzpZhL",
+      "complexity": 18,
+      "total": 13
+    },
     "builds": 1,
     "mods": [
       {
@@ -14700,6 +14736,13 @@
   {
     "item": "The Annihilating Light",
     "stats": "#% increased cast speed, #% increased critical strike chance",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "DGEDdB2f5",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -14719,6 +14762,24 @@
   {
     "item": "Watcher's Eye",
     "stats": "damage penetrates #% lightning resistance",
+    "average": 136.57333333333332,
+    "prices": [
+      1,
+      60,
+      100,
+      133.52,
+      133.52,
+      133.52,
+      133.52,
+      267.04,
+      267.04,
+      400.56000000000006
+    ],
+    "search": {
+      "id": "6ZbVbrXIG",
+      "complexity": 19,
+      "total": 26
+    },
     "builds": 1,
     "mods": [
       {
