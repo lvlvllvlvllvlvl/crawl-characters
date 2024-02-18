@@ -17301,6 +17301,22 @@
   {
     "item": "The Jinxed Juju",
     "stats": "hatred has #% increased aura effect",
+    "average": 2620.4750000000004,
+    "prices": [
+      30,
+      100,
+      534.2,
+      1602.6000000000001,
+      4006.5000000000005,
+      4674.25,
+      4674.25,
+      5342
+    ],
+    "search": {
+      "id": "bXW5pJOTL",
+      "complexity": 18,
+      "total": 8
+    },
     "builds": 1,
     "mods": [
       {
@@ -17314,6 +17330,22 @@
   {
     "item": "Memory Vault",
     "stats": "+# to maximum power charges",
+    "average": 110.104,
+    "prices": [
+      30,
+      100,
+      100,
+      133.55,
+      186.97,
+      400.65000000000003,
+      801.3000000000001,
+      3338.7500000000005
+    ],
+    "search": {
+      "id": "YVdGlWbFY",
+      "complexity": 18,
+      "total": 8
+    },
     "builds": 1,
     "mods": [
       {
@@ -17327,6 +17359,18 @@
   {
     "item": "Memory Vault",
     "stats": "+# to level of socketed projectile gems",
+    "average": 63.6375,
+    "prices": [
+      1,
+      50,
+      70,
+      133.55
+    ],
+    "search": {
+      "id": "VM6vDGdFp",
+      "complexity": 18,
+      "total": 4
+    },
     "builds": 1,
     "mods": [
       {
@@ -17340,6 +17384,24 @@
   {
     "item": "Rathpith Globe",
     "stats": "#% increased maximum life",
+    "average": 347.23,
+    "prices": [
+      133.55,
+      267.1,
+      267.1,
+      267.1,
+      267.1,
+      400.65000000000003,
+      400.65000000000003,
+      400.65000000000003,
+      534.2,
+      534.2
+    ],
+    "search": {
+      "id": "PK7amZvTL",
+      "complexity": 18,
+      "total": 46
+    },
     "builds": 1,
     "mods": [
       {
@@ -17353,6 +17415,13 @@
   {
     "item": "Rathpith Globe",
     "stats": "+# to level of socketed aoe gems, +# to level of socketed warcry gems",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "KJXDXEPI5",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
