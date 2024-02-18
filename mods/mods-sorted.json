@@ -12701,6 +12701,16 @@
   {
     "item": "The Supreme Truth",
     "stats": "#% increased cast speed",
+    "average": 933.17,
+    "prices": [
+      533.24,
+      1333.1
+    ],
+    "search": {
+      "id": "OVyp2G8TE",
+      "complexity": 18,
+      "total": 2
+    },
     "builds": 1,
     "mods": [
       {
@@ -12714,6 +12724,24 @@
   {
     "item": "Abyssus",
     "stats": "socketed skill gems get a #% cost & reservation multiplier",
+    "average": 1288.6633333333332,
+    "prices": [
+      1199.79,
+      1199.79,
+      1333.1,
+      1333.1,
+      1333.1,
+      1333.1,
+      1599.72,
+      1999.65,
+      2266.27,
+      2666.2
+    ],
+    "search": {
+      "id": "OVwqQKaTE",
+      "complexity": 18,
+      "total": 24
+    },
     "builds": 1,
     "mods": [
       {
@@ -12727,6 +12755,24 @@
   {
     "item": "Abyssus",
     "stats": "+# to maximum power charges",
+    "average": 245.88288888888889,
+    "prices": [
+      133.31,
+      133.31,
+      133.31,
+      133.31,
+      266.62,
+      266.62,
+      346.606,
+      399.93,
+      399.93,
+      533.24
+    ],
+    "search": {
+      "id": "aqeEGJ7se",
+      "complexity": 18,
+      "total": 21
+    },
     "builds": 1,
     "mods": [
       {
@@ -12740,6 +12786,13 @@
   {
     "item": "Hands of the High Templar",
     "stats": "+# to level of socketed minion gems, +# to level of socketed aura gems, #% increased attack speed, +# to maximum frenzy charges, curse enemies with elemental weakness on hit",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "moero2Bi6",
+      "complexity": 23,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -12778,6 +12831,13 @@
   {
     "item": "Hands of the High Templar",
     "stats": "+# to level of socketed gems, +# to level of socketed aoe gems, #% increased maximum life, curse enemies with vulnerability on hit",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "waVjEXmfb",
+      "complexity": 21,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
