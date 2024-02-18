@@ -14540,6 +14540,17 @@
   {
     "item": "Fleshcrafter",
     "stats": "+# to level of socketed projectile gems",
+    "average": 106.645,
+    "prices": [
+      80,
+      133.29,
+      13329
+    ],
+    "search": {
+      "id": "ZwdvaL8iQ",
+      "complexity": 18,
+      "total": 3
+    },
     "builds": 1,
     "mods": [
       {
@@ -14553,6 +14564,17 @@
   {
     "item": "Fleshcrafter",
     "stats": "+# to level of socketed minion gems",
+    "average": 8441.699999999999,
+    "prices": [
+      3998.7,
+      5331.599999999999,
+      15994.8
+    ],
+    "search": {
+      "id": "4qnzvpvT9",
+      "complexity": 18,
+      "total": 3
+    },
     "builds": 1,
     "mods": [
       {
@@ -14566,6 +14588,15 @@
   {
     "item": "Inpulsa's Broken Heart",
     "stats": "#% additional physical damage reduction while stationary",
+    "average": 133.29,
+    "prices": [
+      133.29
+    ],
+    "search": {
+      "id": "zeqGP0aI4",
+      "complexity": 18,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -14579,6 +14610,18 @@
   {
     "item": "Inpulsa's Broken Heart",
     "stats": "you take #% reduced extra damage from critical strikes",
+    "average": 133.29,
+    "prices": [
+      133.29,
+      133.29,
+      266.58,
+      2265.93
+    ],
+    "search": {
+      "id": "lX80WppIV",
+      "complexity": 18,
+      "total": 4
+    },
     "builds": 1,
     "mods": [
       {
@@ -14592,6 +14635,13 @@
   {
     "item": "Inpulsa's Broken Heart",
     "stats": "+# to level of socketed minion gems, #% increased damage",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "BEzevqjT8",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
