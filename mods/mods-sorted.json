@@ -6832,6 +6832,17 @@
   {
     "item": "Replica Heatshiver",
     "stats": "+# to maximum power charges",
+    "average": 10540,
+    "prices": [
+      10540,
+      10540,
+      65875
+    ],
+    "search": {
+      "id": "zelZyOmt4",
+      "complexity": 18,
+      "total": 3
+    },
     "builds": 1,
     "mods": [
       {
@@ -6845,6 +6856,15 @@
   {
     "item": "Replica Heatshiver",
     "stats": "socketed skill gems get a #% cost & reservation multiplier",
+    "average": 922.25,
+    "prices": [
+      922.25
+    ],
+    "search": {
+      "id": "KJ2OBZqc5",
+      "complexity": 18,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -6858,6 +6878,19 @@
   {
     "item": "The Covenant",
     "stats": "+# to level of socketed aura gems",
+    "average": 86.58333333333333,
+    "prices": [
+      49,
+      79,
+      131.75,
+      658.75,
+      4611.25
+    ],
+    "search": {
+      "id": "7lRgXeBS5",
+      "complexity": 18,
+      "total": 5
+    },
     "builds": 1,
     "mods": [
       {
@@ -6871,6 +6904,13 @@
   {
     "item": "The Covenant",
     "stats": "#% increased damage, #% increased maximum life",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "XqK7DqesP",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -6890,6 +6930,13 @@
   {
     "item": "The Covenant",
     "stats": "+# to level of socketed aoe gems, you take #% reduced extra damage from critical strikes",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "2ByX6PpIk",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
