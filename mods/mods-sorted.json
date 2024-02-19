@@ -6213,6 +6213,13 @@
   {
     "item": "Heatshiver",
     "stats": "+# to level of socketed duration gems, +# to level of socketed aoe gems",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "MvRLBlGcJ",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -6232,6 +6239,13 @@
   {
     "item": "Heatshiver",
     "stats": "+# to level of socketed duration gems, #% increased maximum life",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "kXjobJQh5",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -6251,6 +6265,13 @@
   {
     "item": "Heatshiver",
     "stats": "+# to level of socketed projectile gems, #% increased maximum life",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "gXDZdRgUQ",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -6270,6 +6291,24 @@
   {
     "item": "Heatshiver",
     "stats": "#% increased effect of shock",
+    "average": 33.333333333333336,
+    "prices": [
+      10,
+      20,
+      25,
+      30,
+      35,
+      40,
+      40,
+      50,
+      50,
+      80
+    ],
+    "search": {
+      "id": "KJLypO6i5",
+      "complexity": 18,
+      "total": 28
+    },
     "builds": 1,
     "mods": [
       {
@@ -6283,6 +6322,24 @@
   {
     "item": "Heatshiver",
     "stats": "#% increased effect of cold ailments",
+    "average": 36,
+    "prices": [
+      20,
+      20,
+      25,
+      25,
+      30,
+      30,
+      40,
+      50,
+      60,
+      60
+    ],
+    "search": {
+      "id": "4drzQXgt9",
+      "complexity": 18,
+      "total": 28
+    },
     "builds": 1,
     "mods": [
       {
