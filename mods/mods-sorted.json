@@ -3168,6 +3168,24 @@
   {
     "item": "Headhunter",
     "stats": "#% increased dexterity, #% increased intelligence",
+    "average": 15462.9,
+    "prices": [
+      8067.6,
+      10084.5,
+      12101.400000000001,
+      12101.400000000001,
+      15462.900000000001,
+      18824.4,
+      18824.4,
+      18824.4,
+      20169,
+      20169
+    ],
+    "search": {
+      "id": "DL85jL7H5",
+      "complexity": 29,
+      "total": 17
+    },
     "builds": 2,
     "mods": [
       {
@@ -3187,6 +3205,17 @@
   {
     "item": "Victario's Influence",
     "stats": "+# to level of socketed gems, +# to level of socketed aoe gems",
+    "average": 717.12,
+    "prices": [
+      134.46,
+      672.3000000000001,
+      1344.6000000000001
+    ],
+    "search": {
+      "id": "emYDwLYsL",
+      "complexity": 29,
+      "total": 3
+    },
     "builds": 2,
     "mods": [
       {
@@ -3206,6 +3235,24 @@
   {
     "item": "Victario's Influence",
     "stats": "+# to level of socketed aoe gems",
+    "average": 63.446000000000005,
+    "prices": [
+      10,
+      20,
+      20,
+      30,
+      60,
+      70,
+      90,
+      100,
+      100,
+      134.46
+    ],
+    "search": {
+      "id": "waPDjkKfb",
+      "complexity": 18,
+      "total": 55
+    },
     "builds": 2,
     "mods": [
       {
@@ -3219,6 +3266,16 @@
   {
     "item": "Victario's Influence",
     "stats": "+# to level of socketed aura gems, #% increased damage",
+    "average": 82.23,
+    "prices": [
+      30,
+      134.46
+    ],
+    "search": {
+      "id": "3BmYQ0Gs5",
+      "complexity": 29,
+      "total": 2
+    },
     "builds": 2,
     "mods": [
       {
@@ -3238,6 +3295,16 @@
   {
     "item": "Victario's Influence",
     "stats": "+# to level of socketed aoe gems, +# to level of socketed aura gems",
+    "average": 2890.8900000000003,
+    "prices": [
+      403.38,
+      5378.400000000001
+    ],
+    "search": {
+      "id": "YD03QoRIY",
+      "complexity": 29,
+      "total": 2
+    },
     "builds": 2,
     "mods": [
       {
