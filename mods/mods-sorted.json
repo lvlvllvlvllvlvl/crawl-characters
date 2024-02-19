@@ -5346,6 +5346,16 @@
   {
     "item": "Goldwyrm",
     "stats": "+# to level of socketed gems, +# to level of socketed minion gems",
+    "average": 23535.75,
+    "prices": [
+      13449,
+      33622.5
+    ],
+    "search": {
+      "id": "R3624VqI7",
+      "complexity": 29,
+      "total": 2
+    },
     "builds": 1,
     "mods": [
       {
@@ -5365,6 +5375,24 @@
   {
     "item": "Goldwyrm",
     "stats": "grants level # haste skill",
+    "average": 22.4,
+    "prices": [
+      2,
+      5,
+      7,
+      10,
+      15,
+      25,
+      30,
+      40,
+      40,
+      50
+    ],
+    "search": {
+      "id": "3BYY9LJi5",
+      "complexity": 18,
+      "total": 36
+    },
     "builds": 1,
     "mods": [
       {
@@ -5378,6 +5406,21 @@
   {
     "item": "Sentari's Answer",
     "stats": "#% increased maximum life",
+    "average": 247.85750000000002,
+    "prices": [
+      50,
+      268.98,
+      268.98,
+      403.47,
+      941.4300000000001,
+      2689.8,
+      6724.5
+    ],
+    "search": {
+      "id": "mXYGO9aC6",
+      "complexity": 18,
+      "total": 7
+    },
     "builds": 1,
     "mods": [
       {
@@ -5391,6 +5434,24 @@
   {
     "item": "Sentari's Answer",
     "stats": "#% of physical damage from hits taken as chaos damage",
+    "average": 134.49,
+    "prices": [
+      100,
+      120,
+      150,
+      134.49,
+      134.49,
+      134.49,
+      134.49,
+      134.49,
+      134.49,
+      403.47
+    ],
+    "search": {
+      "id": "7lozQ2lH5",
+      "complexity": 18,
+      "total": 15
+    },
     "builds": 1,
     "mods": [
       {
@@ -5404,6 +5465,24 @@
   {
     "item": "Sentari's Answer",
     "stats": "you take #% reduced extra damage from critical strikes",
+    "average": 215.68055555555557,
+    "prices": [
+      40,
+      50,
+      50,
+      60,
+      60,
+      134.49,
+      201.735,
+      672.45,
+      672.45,
+      941.4300000000001
+    ],
+    "search": {
+      "id": "8adzGlqCV",
+      "complexity": 18,
+      "total": 23
+    },
     "builds": 1,
     "mods": [
       {
