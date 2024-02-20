@@ -18938,6 +18938,24 @@
   {
     "item": "Zeel's Amplifier",
     "stats": "+# to level of socketed gems",
+    "average": 40.833333333333336,
+    "prices": [
+      20,
+      20,
+      25,
+      60,
+      60,
+      60,
+      135.85,
+      163.01999999999998,
+      203.77499999999998,
+      271.7
+    ],
+    "search": {
+      "id": "4qnPaPvC9",
+      "complexity": 18,
+      "total": 11
+    },
     "builds": 1,
     "mods": [
       {
@@ -18951,6 +18969,13 @@
   {
     "item": "Zeel's Amplifier",
     "stats": "+# to level of socketed aoe gems, you take #% reduced extra damage from critical strikes",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "8qB66P8UV",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -18970,6 +18995,19 @@
   {
     "item": "Marylene's Fallacy",
     "stats": "+#% to all maximum resistances",
+    "average": 210.18999999999997,
+    "prices": [
+      20,
+      80,
+      135.85,
+      407.54999999999995,
+      407.54999999999995
+    ],
+    "search": {
+      "id": "KJ7E63LU5",
+      "complexity": 18,
+      "total": 5
+    },
     "builds": 1,
     "mods": [
       {
@@ -18983,6 +19021,13 @@
   {
     "item": "Marylene's Fallacy",
     "stats": "+#% to all maximum resistances, malevolence has #% increased aura effect",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "nXqVBGyC0",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -19002,6 +19047,20 @@
   {
     "item": "Asenath's Mark",
     "stats": "socketed skill gems get a #% cost & reservation multiplier",
+    "average": 221.8125,
+    "prices": [
+      88,
+      120,
+      271.7,
+      407.54999999999995,
+      815.0999999999999,
+      5434
+    ],
+    "search": {
+      "id": "GkdDyk9Fb",
+      "complexity": 18,
+      "total": 6
+    },
     "builds": 1,
     "mods": [
       {
