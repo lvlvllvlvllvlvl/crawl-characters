@@ -18408,6 +18408,24 @@
   {
     "item": "Eye of Malice",
     "stats": "+# to maximum power charges",
+    "average": 152.65999999999997,
+    "prices": [
+      38,
+      100,
+      135.41,
+      135.41,
+      135.41,
+      135.41,
+      270.82,
+      270.82,
+      406.23,
+      677.05
+    ],
+    "search": {
+      "id": "Lmdj637un",
+      "complexity": 18,
+      "total": 18
+    },
     "builds": 1,
     "mods": [
       {
@@ -18421,6 +18439,23 @@
   {
     "item": "Eye of Malice",
     "stats": "regenerate #% of life per second",
+    "average": 64.67625,
+    "prices": [
+      7,
+      20,
+      20,
+      70,
+      75,
+      90,
+      100,
+      135.41,
+      677.05
+    ],
+    "search": {
+      "id": "LmdYYb5Fn",
+      "complexity": 18,
+      "total": 9
+    },
     "builds": 1,
     "mods": [
       {
@@ -18434,6 +18469,22 @@
   {
     "item": "Eye of Malice",
     "stats": "+# to level of socketed aoe gems",
+    "average": 164.9485714285714,
+    "prices": [
+      20,
+      40,
+      70,
+      150,
+      135.41,
+      333,
+      406.23,
+      3385.25
+    ],
+    "search": {
+      "id": "YVozYvgIY",
+      "complexity": 18,
+      "total": 8
+    },
     "builds": 1,
     "mods": [
       {
@@ -18447,6 +18498,15 @@
   {
     "item": "Lioneye's Vision",
     "stats": "+# to level of socketed aoe gems, +# to level of socketed projectile gems",
+    "average": 146922.09,
+    "prices": [
+      146922.09
+    ],
+    "search": {
+      "id": "bX3yDrDuL",
+      "complexity": 29,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -18466,6 +18526,13 @@
   {
     "item": "Perseverance",
     "stats": "+#% to critical strike multiplier during any flask effect, pride has #% increased aura effect",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "jXZK0QZTX",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
