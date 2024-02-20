@@ -17324,6 +17324,24 @@
   {
     "item": "Rat's Nest",
     "stats": "socketed skill gems get a #% cost & reservation multiplier",
+    "average": 69.58800000000001,
+    "prices": [
+      1,
+      15,
+      30,
+      30,
+      30,
+      50,
+      134.97,
+      134.97,
+      134.97,
+      134.97
+    ],
+    "search": {
+      "id": "6ZDz0ZkcG",
+      "complexity": 18,
+      "total": 22
+    },
     "builds": 1,
     "mods": [
       {
@@ -17337,6 +17355,19 @@
   {
     "item": "Aurseize",
     "stats": "curse enemies with elemental weakness on hit",
+    "average": 341.17499999999995,
+    "prices": [
+      15,
+      134.97,
+      404.90999999999997,
+      809.8199999999999,
+      6748.5
+    ],
+    "search": {
+      "id": "waPLQLRSb",
+      "complexity": 18,
+      "total": 5
+    },
     "builds": 1,
     "mods": [
       {
@@ -17350,6 +17381,24 @@
   {
     "item": "Leer Cast",
     "stats": "+# to maximum power charges",
+    "average": 109.27285714285715,
+    "prices": [
+      20,
+      60,
+      80,
+      90,
+      130,
+      134.97,
+      134.97,
+      134.97,
+      229.44899999999998,
+      1349.7
+    ],
+    "search": {
+      "id": "Xqb5zPKFP",
+      "complexity": 18,
+      "total": 11
+    },
     "builds": 1,
     "mods": [
       {
@@ -17363,6 +17412,21 @@
   {
     "item": "Saffell's Frame",
     "stats": "#% of physical damage from hits taken as cold damage",
+    "average": 77.7057142857143,
+    "prices": [
+      20,
+      25,
+      60,
+      69,
+      100,
+      134.97,
+      134.97
+    ],
+    "search": {
+      "id": "LmdmLM7tn",
+      "complexity": 18,
+      "total": 7
+    },
     "builds": 1,
     "mods": [
       {
@@ -17376,6 +17440,15 @@
   {
     "item": "Might of the Meek",
     "stats": "damage penetrates #% lightning resistance",
+    "average": 10,
+    "prices": [
+      10
+    ],
+    "search": {
+      "id": "lXODXjrhV",
+      "complexity": 19,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
