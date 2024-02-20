@@ -19605,6 +19605,16 @@
   {
     "item": "Perquil's Toe",
     "stats": "you can apply an additional curse",
+    "average": 342.35,
+    "prices": [
+      136.94,
+      547.76
+    ],
+    "search": {
+      "id": "aboaB4aSe",
+      "complexity": 18,
+      "total": 2
+    },
     "builds": 1,
     "mods": [
       {
@@ -19618,6 +19628,20 @@
   {
     "item": "Doedre's Damning",
     "stats": "bleeding cannot be inflicted on you",
+    "average": 136.94,
+    "prices": [
+      50,
+      100,
+      136.94,
+      136.94,
+      136.94,
+      1095.52
+    ],
+    "search": {
+      "id": "aqe6VnKue",
+      "complexity": 18,
+      "total": 6
+    },
     "builds": 1,
     "mods": [
       {
@@ -19631,6 +19655,20 @@
   {
     "item": "Mind of the Council",
     "stats": "+# to maximum power charges",
+    "average": 136.94,
+    "prices": [
+      100,
+      136.94,
+      136.94,
+      821.64,
+      20541,
+      149215.41
+    ],
+    "search": {
+      "id": "Ey6gq3VS5",
+      "complexity": 18,
+      "total": 6
+    },
     "builds": 1,
     "mods": [
       {
@@ -19644,6 +19682,13 @@
   {
     "item": "Transcendent Mind",
     "stats": "corrupted blood cannot be inflicted on you",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "8ad6EgbfV",
+      "complexity": 18,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -19657,6 +19702,13 @@
   {
     "item": "Brutal Restraint",
     "stats": "you cannot be maimed, #% reduced poison duration on you",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "gqwb0w6IQ",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
