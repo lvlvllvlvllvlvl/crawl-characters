@@ -14064,6 +14064,24 @@
   {
     "item": "Inspired Learning",
     "stats": "damage penetrates #% lightning resistance",
+    "average": 35.55555555555556,
+    "prices": [
+      20,
+      20,
+      20,
+      25,
+      25,
+      50,
+      50,
+      50,
+      60,
+      100
+    ],
+    "search": {
+      "id": "kXD66RnF5",
+      "complexity": 19,
+      "total": 11
+    },
     "builds": 1,
     "mods": [
       {
@@ -14078,6 +14096,24 @@
   {
     "item": "Inspired Learning",
     "stats": "minions deal #% increased damage",
+    "average": 59.7025,
+    "prices": [
+      19,
+      20,
+      20,
+      20,
+      45,
+      80,
+      136.81,
+      136.81,
+      410.43,
+      2736.2
+    ],
+    "search": {
+      "id": "oX70bw4il",
+      "complexity": 18,
+      "total": 10
+    },
     "builds": 1,
     "mods": [
       {
@@ -14091,6 +14127,21 @@
   {
     "item": "Inspired Learning",
     "stats": "#% reduced bleed duration on you",
+    "average": 65.25857142857143,
+    "prices": [
+      20,
+      20,
+      40,
+      50,
+      60,
+      130,
+      136.81
+    ],
+    "search": {
+      "id": "bPZJr2RTL",
+      "complexity": 18,
+      "total": 7
+    },
     "builds": 1,
     "mods": [
       {
@@ -14104,6 +14155,24 @@
   {
     "item": "The Poet's Pen",
     "stats": "#% increased area of effect",
+    "average": 615.6450000000001,
+    "prices": [
+      410.43,
+      410.43,
+      684.05,
+      684.05,
+      684.05,
+      820.86,
+      1162.885,
+      1368.1,
+      2052.15,
+      3420.25
+    ],
+    "search": {
+      "id": "4db67QgH9",
+      "complexity": 18,
+      "total": 15
+    },
     "builds": 1,
     "mods": [
       {
@@ -14117,6 +14186,13 @@
   {
     "item": "The Poet's Pen",
     "stats": "adds # to # fire damage, #% increased attack speed",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "9YG3RV4tK",
+      "complexity": 31,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
