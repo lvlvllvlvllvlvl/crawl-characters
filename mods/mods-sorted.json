@@ -8848,6 +8848,13 @@
   {
     "item": "Devoto's Devotion",
     "stats": "#% of fire damage leeched as life, +# to maximum power charges",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "jXqy39oTX",
+      "complexity": 30,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -8868,6 +8875,13 @@
   {
     "item": "Bisco's Leash",
     "stats": "#% increased rarity of items found, discipline has #% increased aura effect",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "3BZbrBkF5",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -8887,6 +8901,24 @@
   {
     "item": "Bisco's Leash",
     "stats": "#% increased critical strike chance during any flask effect",
+    "average": 57.10085714285714,
+    "prices": [
+      10,
+      15,
+      20,
+      25,
+      30,
+      136.23,
+      163.47599999999997,
+      544.92,
+      885.4949999999999,
+      1089.84
+    ],
+    "search": {
+      "id": "jPpo3RdfX",
+      "complexity": 18,
+      "total": 11
+    },
     "builds": 1,
     "mods": [
       {
@@ -8900,6 +8932,22 @@
   {
     "item": "Bisco's Leash",
     "stats": "#% increased maximum energy shield",
+    "average": 49.7975,
+    "prices": [
+      5,
+      10,
+      12,
+      13.92,
+      25,
+      60,
+      136.23,
+      136.23
+    ],
+    "search": {
+      "id": "kX5We2ji5",
+      "complexity": 18,
+      "total": 8
+    },
     "builds": 1,
     "mods": [
       {
@@ -8913,6 +8961,24 @@
   {
     "item": "Bisco's Leash",
     "stats": "#% increased quantity of items found",
+    "average": 510.8625,
+    "prices": [
+      136.23,
+      272.46,
+      340.575,
+      408.68999999999994,
+      408.68999999999994,
+      544.92,
+      681.15,
+      681.15,
+      817.3799999999999,
+      817.3799999999999
+    ],
+    "search": {
+      "id": "80ZXWR2UV",
+      "complexity": 18,
+      "total": 17
+    },
     "builds": 1,
     "mods": [
       {
