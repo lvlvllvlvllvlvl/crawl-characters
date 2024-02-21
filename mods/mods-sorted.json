@@ -11445,6 +11445,17 @@
   {
     "item": "Victario's Influence",
     "stats": "+# to level of socketed duration gems, +# to level of socketed curse gems",
+    "average": 249.72,
+    "prices": [
+      137.29,
+      200,
+      411.87
+    ],
+    "search": {
+      "id": "3BZyPOdi5",
+      "complexity": 29,
+      "total": 3
+    },
     "builds": 1,
     "mods": [
       {
@@ -11464,6 +11475,23 @@
   {
     "item": "Victario's Influence",
     "stats": "+# to level of socketed aura gems, +# to level of socketed trap or mine gems",
+    "average": 926.7075,
+    "prices": [
+      274.58,
+      549.16,
+      686.4499999999999,
+      961.03,
+      961.03,
+      961.03,
+      1372.8999999999999,
+      1647.48,
+      2059.35
+    ],
+    "search": {
+      "id": "WVWPWyrCm",
+      "complexity": 29,
+      "total": 9
+    },
     "builds": 1,
     "mods": [
       {
@@ -11483,6 +11511,13 @@
   {
     "item": "Victario's Influence",
     "stats": "+# to level of socketed duration gems, +# to level of socketed aura gems",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "DGvmrmvI5",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -11502,6 +11537,16 @@
   {
     "item": "Victario's Influence",
     "stats": "+# to level of socketed trap or mine gems, #% increased damage",
+    "average": 137.29,
+    "prices": [
+      137.29,
+      137.29
+    ],
+    "search": {
+      "id": "qX3mKmLtg",
+      "complexity": 29,
+      "total": 2
+    },
     "builds": 1,
     "mods": [
       {
@@ -11521,6 +11566,16 @@
   {
     "item": "Victario's Influence",
     "stats": "+# to level of socketed aoe gems, #% reduced chaos damage taken",
+    "average": 287.08,
+    "prices": [
+      25,
+      549.16
+    ],
+    "search": {
+      "id": "rXOPGLguQ",
+      "complexity": 29,
+      "total": 2
+    },
     "builds": 1,
     "mods": [
       {
