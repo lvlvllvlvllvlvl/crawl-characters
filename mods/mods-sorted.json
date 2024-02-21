@@ -17044,6 +17044,13 @@
   {
     "item": "The Jinxed Juju",
     "stats": "grants level # purity of elements skill, +#% to all maximum resistances",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "QvMr6Vpfw",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -17063,6 +17070,13 @@
   {
     "item": "The Jinxed Juju",
     "stats": "#% increased dexterity, #% increased intelligence, wrath has #% increased aura effect",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "paPKOy5s0",
+      "complexity": 20,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -17088,6 +17102,18 @@
   {
     "item": "The Jinxed Juju",
     "stats": "hatred has #% increased aura effect",
+    "average": 4793.699999999999,
+    "prices": [
+      20,
+      1368.1999999999998,
+      8209.199999999999,
+      9577.4
+    ],
+    "search": {
+      "id": "bXW5pJOTL",
+      "complexity": 18,
+      "total": 4
+    },
     "builds": 1,
     "mods": [
       {
@@ -17101,6 +17127,18 @@
   {
     "item": "Memory Vault",
     "stats": "+# to maximum power charges",
+    "average": 375.3833333333334,
+    "prices": [
+      100,
+      205.23,
+      820.92,
+      6841
+    ],
+    "search": {
+      "id": "YVdGlWbFY",
+      "complexity": 18,
+      "total": 4
+    },
     "builds": 1,
     "mods": [
       {
@@ -17114,6 +17152,19 @@
   {
     "item": "Memory Vault",
     "stats": "+# to level of socketed projectile gems",
+    "average": 105.728,
+    "prices": [
+      50,
+      65,
+      140,
+      136.82,
+      136.82
+    ],
+    "search": {
+      "id": "VM6vDGdFp",
+      "complexity": 18,
+      "total": 5
+    },
     "builds": 1,
     "mods": [
       {
