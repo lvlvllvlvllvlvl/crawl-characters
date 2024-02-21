@@ -9860,6 +9860,24 @@
   {
     "item": "Incandescent Heart",
     "stats": "#% reduced chaos damage taken",
+    "average": 346.55,
+    "prices": [
+      18,
+      35,
+      136.5,
+      136.5,
+      273,
+      546,
+      546,
+      546,
+      546,
+      682.5
+    ],
+    "search": {
+      "id": "pXvdEoJT0",
+      "complexity": 18,
+      "total": 15
+    },
     "builds": 1,
     "mods": [
       {
@@ -9873,6 +9891,24 @@
   {
     "item": "Incandescent Heart",
     "stats": "+# to level of socketed aura gems",
+    "average": 136.5,
+    "prices": [
+      30,
+      136.5,
+      136.5,
+      136.5,
+      136.5,
+      136.5,
+      136.5,
+      136.5,
+      682.5,
+      682.5
+    ],
+    "search": {
+      "id": "9YDrlY0HK",
+      "complexity": 18,
+      "total": 18
+    },
     "builds": 1,
     "mods": [
       {
@@ -9886,6 +9922,13 @@
   {
     "item": "Incandescent Heart",
     "stats": "+# to level of socketed aoe gems, +# to level of socketed aura gems",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "KJBdY5RI5",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -9905,6 +9948,24 @@
   {
     "item": "Incandescent Heart",
     "stats": "+# to level of socketed minion gems",
+    "average": 364.25,
+    "prices": [
+      30,
+      50,
+      150,
+      136.5,
+      273,
+      273,
+      682.5,
+      682.5,
+      682.5,
+      682.5
+    ],
+    "search": {
+      "id": "gPeRw97hQ",
+      "complexity": 18,
+      "total": 16
+    },
     "builds": 1,
     "mods": [
       {
@@ -9918,6 +9979,24 @@
   {
     "item": "Incandescent Heart",
     "stats": "you take #% reduced extra damage from critical strikes",
+    "average": 100,
+    "prices": [
+      50,
+      100,
+      100,
+      100,
+      120,
+      273,
+      546,
+      682.5,
+      2047.5,
+      2320.5
+    ],
+    "search": {
+      "id": "RVBnoyBU7",
+      "complexity": 18,
+      "total": 18
+    },
     "builds": 1,
     "mods": [
       {
