@@ -2,6 +2,24 @@
   {
     "item": "String of Servitude",
     "stats": "hatred has #% increased aura effect",
+    "average": 16.4,
+    "prices": [
+      1,
+      8,
+      10,
+      10,
+      20,
+      20,
+      20,
+      20,
+      25,
+      30
+    ],
+    "search": {
+      "id": "OpJoQXOSE",
+      "complexity": 18,
+      "total": 33
+    },
     "builds": 17,
     "mods": [
       {
@@ -15,6 +33,17 @@
   {
     "item": "Vaal Caress",
     "stats": "+# to level of socketed duration gems",
+    "average": 324.02,
+    "prices": [
+      100,
+      548.04,
+      13701
+    ],
+    "search": {
+      "id": "abo0zLRHe",
+      "complexity": 18,
+      "total": 3
+    },
     "builds": 16,
     "mods": [
       {
@@ -28,6 +57,24 @@
   {
     "item": "Matua Tupuna",
     "stats": "+# to level of socketed aura gems",
+    "average": 531.937,
+    "prices": [
+      100,
+      150,
+      137.01,
+      274.02,
+      274.02,
+      411.03,
+      822.06,
+      822.06,
+      1096.08,
+      1233.09
+    ],
+    "search": {
+      "id": "0PQlkZ8ig",
+      "complexity": 18,
+      "total": 11
+    },
     "builds": 15,
     "mods": [
       {
@@ -41,6 +88,24 @@
   {
     "item": "Southbound",
     "stats": "+#% to spell critical strike chance",
+    "average": 1653.525,
+    "prices": [
+      19.05,
+      75,
+      137.01,
+      137.01,
+      137.01,
+      548.04,
+      1096.08,
+      4110.299999999999,
+      4795.349999999999,
+      5480.4
+    ],
+    "search": {
+      "id": "XkO2WqdSP",
+      "complexity": 18,
+      "total": 11
+    },
     "builds": 13,
     "mods": [
       {
@@ -54,6 +119,24 @@
   {
     "item": "Matua Tupuna",
     "stats": "+# to level of socketed aoe gems",
+    "average": 566.441,
+    "prices": [
+      47,
+      274.02,
+      274.02,
+      274.02,
+      274.02,
+      411.03,
+      548.04,
+      1096.08,
+      1096.08,
+      1370.1
+    ],
+    "search": {
+      "id": "2GbYYzYHk",
+      "complexity": 18,
+      "total": 14
+    },
     "builds": 12,
     "mods": [
       {
