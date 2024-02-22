@@ -19324,6 +19324,13 @@
   {
     "item": "Piscator's Vigil",
     "stats": "adds # to # cold damage, #% increased attack speed",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "dM4VOoZsJ",
+      "complexity": 31,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -19345,6 +19352,13 @@
   {
     "item": "Tainted Pact",
     "stats": "+#% to all maximum resistances, grace has #% increased aura effect",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "qYRbO5Xhg",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -19364,6 +19378,13 @@
   {
     "item": "The Primordial Chain",
     "stats": "+#% to all elemental resistances, #% increased elemental damage with attack skills",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "eMW22QWcL",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -19383,6 +19404,18 @@
   {
     "item": "The Primordial Chain",
     "stats": "#% of lightning damage leeched as life",
+    "average": 489.93333333333334,
+    "prices": [
+      100,
+      273.96,
+      1095.84,
+      4109.4
+    ],
+    "search": {
+      "id": "9Yvg7JmTK",
+      "complexity": 19,
+      "total": 4
+    },
     "builds": 1,
     "mods": [
       {
@@ -19397,6 +19430,22 @@
   {
     "item": "Replica Dragonfang's Flight",
     "stats": "you can apply an additional curse",
+    "average": 1150.632,
+    "prices": [
+      136.98,
+      136.98,
+      684.9,
+      2054.7,
+      2739.6,
+      6848.999999999999,
+      16437.6,
+      27395.999999999996
+    ],
+    "search": {
+      "id": "no9rlYyH0",
+      "complexity": 18,
+      "total": 8
+    },
     "builds": 1,
     "mods": [
       {
