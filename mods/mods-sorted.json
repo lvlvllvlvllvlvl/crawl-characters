@@ -18335,6 +18335,20 @@
   {
     "item": "Heartbound Loop",
     "stats": "bleeding cannot be inflicted on you",
+    "average": 136.98,
+    "prices": [
+      29,
+      120,
+      136.98,
+      136.98,
+      410.93999999999994,
+      684.9
+    ],
+    "search": {
+      "id": "gXWoX0KFQ",
+      "complexity": 18,
+      "total": 6
+    },
     "builds": 1,
     "mods": [
       {
@@ -18348,6 +18362,24 @@
   {
     "item": "Lioneye's Fall",
     "stats": "corrupted blood cannot be inflicted on you",
+    "average": 136.98,
+    "prices": [
+      100,
+      130,
+      136.98,
+      136.98,
+      136.98,
+      136.98,
+      136.98,
+      136.98,
+      136.98,
+      136.98
+    ],
+    "search": {
+      "id": "EG8yMgKs5",
+      "complexity": 18,
+      "total": 13
+    },
     "builds": 1,
     "mods": [
       {
@@ -18361,6 +18393,24 @@
   {
     "item": "Eye of Malice",
     "stats": "+# to maximum power charges",
+    "average": 528.3514285714285,
+    "prices": [
+      136.98,
+      136.98,
+      136.98,
+      684.9,
+      684.9,
+      821.8799999999999,
+      1095.84,
+      6027.12,
+      8218.8,
+      11643.3
+    ],
+    "search": {
+      "id": "Lmdj637un",
+      "complexity": 18,
+      "total": 10
+    },
     "builds": 1,
     "mods": [
       {
@@ -18374,6 +18424,18 @@
   {
     "item": "Eye of Malice",
     "stats": "regenerate #% of life per second",
+    "average": 41.666666666666664,
+    "prices": [
+      20,
+      50,
+      55,
+      684.9
+    ],
+    "search": {
+      "id": "LmdYYb5Fn",
+      "complexity": 18,
+      "total": 4
+    },
     "builds": 1,
     "mods": [
       {
@@ -18387,6 +18449,17 @@
   {
     "item": "Eye of Malice",
     "stats": "+# to level of socketed aoe gems",
+    "average": 50,
+    "prices": [
+      40,
+      50,
+      60
+    ],
+    "search": {
+      "id": "YVozYvgIY",
+      "complexity": 18,
+      "total": 3
+    },
     "builds": 1,
     "mods": [
       {
