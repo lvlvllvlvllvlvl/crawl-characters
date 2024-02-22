@@ -1956,6 +1956,13 @@
   {
     "item": "Asenath's Gentle Touch",
     "stats": "+# to level of socketed aoe gems, curse enemies with vulnerability on hit",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "GkJjeOBUb",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 2,
     "mods": [
       {
@@ -1975,6 +1982,24 @@
   {
     "item": "Sadima's Touch",
     "stats": "#% increased attack speed",
+    "average": 42,
+    "prices": [
+      10,
+      20,
+      20,
+      20,
+      30,
+      40,
+      50,
+      55,
+      85,
+      90
+    ],
+    "search": {
+      "id": "2Gb6JDdtk",
+      "complexity": 19,
+      "total": 19
+    },
     "builds": 2,
     "mods": [
       {
@@ -1989,6 +2014,24 @@
   {
     "item": "Sadima's Touch",
     "stats": "#% increased cast speed",
+    "average": 81.945,
+    "prices": [
+      4,
+      20,
+      39,
+      50,
+      75,
+      100,
+      120,
+      137.15,
+      137.15,
+      137.15
+    ],
+    "search": {
+      "id": "K9gKZ2RC5",
+      "complexity": 18,
+      "total": 13
+    },
     "builds": 2,
     "mods": [
       {
@@ -2002,6 +2045,24 @@
   {
     "item": "Sadima's Touch",
     "stats": "curse enemies with enfeeble on hit",
+    "average": 36.375,
+    "prices": [
+      15,
+      20,
+      25,
+      30,
+      41,
+      50,
+      50,
+      60,
+      80,
+      123.435
+    ],
+    "search": {
+      "id": "JVdY989Fl",
+      "complexity": 18,
+      "total": 24
+    },
     "builds": 2,
     "mods": [
       {
@@ -2015,6 +2076,24 @@
   {
     "item": "Sadima's Touch",
     "stats": "#% increased maximum energy shield",
+    "average": 70.16875,
+    "prices": [
+      24.2,
+      40,
+      50,
+      50,
+      50,
+      70,
+      140,
+      137.15,
+      274.3,
+      548.6
+    ],
+    "search": {
+      "id": "PdDK4Y7iL",
+      "complexity": 18,
+      "total": 10
+    },
     "builds": 2,
     "mods": [
       {
