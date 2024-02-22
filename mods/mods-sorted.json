@@ -4742,6 +4742,13 @@
   {
     "item": "Asenath's Gentle Touch",
     "stats": "+# to level of socketed warcry gems, curse enemies with enfeeble on hit",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "3BDl699I5",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -4761,6 +4768,13 @@
   {
     "item": "Asenath's Gentle Touch",
     "stats": "+# to level of socketed aura gems, #% increased cast speed",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "9Y2KZKOIK",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -4780,6 +4794,24 @@
   {
     "item": "Ventor's Gamble",
     "stats": "#% increased rarity of items found",
+    "average": 1.5,
+    "prices": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      2,
+      2,
+      2,
+      2,
+      2
+    ],
+    "search": {
+      "id": "v3mJV8DFE",
+      "complexity": 18,
+      "total": 10000
+    },
     "builds": 1,
     "mods": [
       {
@@ -4793,6 +4825,24 @@
   {
     "item": "Ventor's Gamble",
     "stats": "bleeding cannot be inflicted on you",
+    "average": 590.39,
+    "prices": [
+      274.6,
+      274.6,
+      274.6,
+      274.6,
+      411.90000000000003,
+      686.5,
+      686.5,
+      823.8000000000001,
+      1098.4,
+      1098.4
+    ],
+    "search": {
+      "id": "YVg902DIY",
+      "complexity": 18,
+      "total": 26
+    },
     "builds": 1,
     "mods": [
       {
@@ -4806,6 +4856,24 @@
   {
     "item": "Sadima's Touch",
     "stats": "curse enemies with vulnerability on hit",
+    "average": 18.5,
+    "prices": [
+      3,
+      10,
+      15,
+      15,
+      18,
+      20,
+      20,
+      20,
+      20,
+      20
+    ],
+    "search": {
+      "id": "JYmporJsl",
+      "complexity": 18,
+      "total": 34
+    },
     "builds": 1,
     "mods": [
       {
