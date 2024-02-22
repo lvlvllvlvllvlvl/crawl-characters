@@ -5336,6 +5336,15 @@
   {
     "item": "Goldwyrm",
     "stats": "+# to level of socketed gems, +# to level of socketed minion gems",
+    "average": 13730.000000000002,
+    "prices": [
+      13730.000000000002
+    ],
+    "search": {
+      "id": "R3624VqI7",
+      "complexity": 29,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -5355,6 +5364,24 @@
   {
     "item": "Goldwyrm",
     "stats": "grants level # haste skill",
+    "average": 17.1,
+    "prices": [
+      7,
+      10,
+      10,
+      14,
+      15,
+      20,
+      20,
+      20,
+      25,
+      30
+    ],
+    "search": {
+      "id": "3BYY9LJi5",
+      "complexity": 18,
+      "total": 36
+    },
     "builds": 1,
     "mods": [
       {
@@ -5368,6 +5395,23 @@
   {
     "item": "Sentari's Answer",
     "stats": "#% increased maximum life",
+    "average": 66.05,
+    "prices": [
+      10,
+      19,
+      70,
+      80,
+      80,
+      137.3,
+      549.2,
+      961.1000000000001,
+      2059.5
+    ],
+    "search": {
+      "id": "mXYGO9aC6",
+      "complexity": 18,
+      "total": 9
+    },
     "builds": 1,
     "mods": [
       {
@@ -5381,6 +5425,24 @@
   {
     "item": "Sentari's Answer",
     "stats": "#% of physical damage from hits taken as chaos damage",
+    "average": 125.60000000000001,
+    "prices": [
+      50,
+      100,
+      110,
+      120,
+      180,
+      137.3,
+      137.3,
+      137.3,
+      137.3,
+      411.90000000000003
+    ],
+    "search": {
+      "id": "7lozQ2lH5",
+      "complexity": 18,
+      "total": 15
+    },
     "builds": 1,
     "mods": [
       {
@@ -5394,6 +5456,24 @@
   {
     "item": "Sentari's Answer",
     "stats": "you take #% reduced extra damage from critical strikes",
+    "average": 78.33333333333333,
+    "prices": [
+      30,
+      40,
+      60,
+      100,
+      100,
+      140,
+      205.95000000000002,
+      411.90000000000003,
+      549.2,
+      686.5
+    ],
+    "search": {
+      "id": "8adzGlqCV",
+      "complexity": 18,
+      "total": 15
+    },
     "builds": 1,
     "mods": [
       {
