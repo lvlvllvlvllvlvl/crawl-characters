@@ -5180,6 +5180,24 @@
   {
     "item": "Goldwyrm",
     "stats": "+# to level of socketed gems",
+    "average": 20,
+    "prices": [
+      10,
+      10,
+      15,
+      20,
+      20,
+      20,
+      20,
+      25,
+      30,
+      30
+    ],
+    "search": {
+      "id": "DGEnq8vf5",
+      "complexity": 18,
+      "total": 103
+    },
     "builds": 1,
     "mods": [
       {
@@ -5193,6 +5211,18 @@
   {
     "item": "Goldwyrm",
     "stats": "+# to level of socketed gems, +#% chance to suppress spell damage",
+    "average": 6865,
+    "prices": [
+      2746,
+      6865.000000000001,
+      10984,
+      450555.60000000003
+    ],
+    "search": {
+      "id": "r9Wm2B4SQ",
+      "complexity": 30,
+      "total": 4
+    },
     "builds": 1,
     "mods": [
       {
@@ -5213,6 +5243,24 @@
   {
     "item": "Goldwyrm",
     "stats": "+# to level of socketed aura gems",
+    "average": 13,
+    "prices": [
+      10,
+      10,
+      10,
+      10,
+      10,
+      10,
+      15,
+      15,
+      20,
+      20
+    ],
+    "search": {
+      "id": "nXjoKgRS0",
+      "complexity": 18,
+      "total": 102
+    },
     "builds": 1,
     "mods": [
       {
@@ -5226,6 +5274,24 @@
   {
     "item": "Goldwyrm",
     "stats": "+# to maximum endurance charges",
+    "average": 13.5,
+    "prices": [
+      5,
+      7,
+      10,
+      14,
+      14,
+      15,
+      15,
+      15,
+      20,
+      20
+    ],
+    "search": {
+      "id": "0B8P0wYcg",
+      "complexity": 18,
+      "total": 112
+    },
     "builds": 1,
     "mods": [
       {
@@ -5239,6 +5305,24 @@
   {
     "item": "Goldwyrm",
     "stats": "+# to level of socketed minion gems",
+    "average": 12.7,
+    "prices": [
+      10,
+      10,
+      10,
+      10,
+      10,
+      15,
+      15,
+      15,
+      15,
+      17
+    ],
+    "search": {
+      "id": "Lqa7LY2tn",
+      "complexity": 18,
+      "total": 86
+    },
     "builds": 1,
     "mods": [
       {
