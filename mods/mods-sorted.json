@@ -439,6 +439,24 @@
   {
     "item": "String of Servitude",
     "stats": "wrath has #% increased aura effect",
+    "average": 23.7,
+    "prices": [
+      4,
+      5,
+      9,
+      10,
+      20,
+      20,
+      29,
+      40,
+      50,
+      50
+    ],
+    "search": {
+      "id": "GZyglgohb",
+      "complexity": 18,
+      "total": 26
+    },
     "builds": 7,
     "mods": [
       {
@@ -452,6 +470,24 @@
   {
     "item": "Heatshiver",
     "stats": "socketed skill gems get a #% cost & reservation multiplier",
+    "average": 136.98,
+    "prices": [
+      160,
+      136.98,
+      136.98,
+      136.98,
+      136.98,
+      136.98,
+      136.98,
+      136.98,
+      136.98,
+      136.98
+    ],
+    "search": {
+      "id": "plLWklwf0",
+      "complexity": 18,
+      "total": 43
+    },
     "builds": 7,
     "mods": [
       {
@@ -465,6 +501,24 @@
   {
     "item": "March of the Legion",
     "stats": "+# to level of socketed aoe gems",
+    "average": 176.08825,
+    "prices": [
+      80,
+      136.98,
+      136.98,
+      136.98,
+      136.98,
+      232.86599999999999,
+      273.96,
+      273.96,
+      586,
+      547.92
+    ],
+    "search": {
+      "id": "MVDlG4qFJ",
+      "complexity": 18,
+      "total": 34
+    },
     "builds": 7,
     "mods": [
       {
@@ -478,6 +532,24 @@
   {
     "item": "String of Servitude",
     "stats": "discipline has #% increased aura effect",
+    "average": 49.596000000000004,
+    "prices": [
+      4,
+      5,
+      5,
+      10,
+      18,
+      20,
+      60,
+      100,
+      136.98,
+      136.98
+    ],
+    "search": {
+      "id": "0PQe4Kehg",
+      "complexity": 18,
+      "total": 19
+    },
     "builds": 6,
     "mods": [
       {
@@ -491,6 +563,24 @@
   {
     "item": "Shadows and Dust",
     "stats": "attacks have +#% to critical strike chance",
+    "average": 551.42,
+    "prices": [
+      35,
+      136.98,
+      136.98,
+      273.96,
+      273.96,
+      273.96,
+      684.9,
+      958.8599999999999,
+      1369.8,
+      1369.8
+    ],
+    "search": {
+      "id": "2BrO0y5sk",
+      "complexity": 18,
+      "total": 14
+    },
     "builds": 6,
     "mods": [
       {
@@ -7485,6 +7575,78 @@
     ]
   },
   {
+    "item": "Watcher's Eye",
+    "stats": "#% reduced poison duration on you",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "#% reduced poison duration on you",
+        "trade_ids": [
+          "implicit.stat_3301100256"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Watcher's Eye",
+    "stats": "damage penetrates #% lightning resistance",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "damage penetrates #% lightning resistance",
+        "trade_ids": [
+          "implicit.stat_818778753",
+          "implicit.stat_3301510262"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Watcher's Eye",
+    "stats": "#% reduced effect of chill on you",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "#% reduced effect of chill on you",
+        "trade_ids": [
+          "implicit.stat_1478653032"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Watcher's Eye",
+    "stats": "minions deal #% increased damage",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "minions deal #% increased damage",
+        "trade_ids": [
+          "implicit.stat_1589917703"
+        ]
+      }
+    ]
+  },
+  {
+    "item": "Watcher's Eye",
+    "stats": "#% increased global critical strike chance, #% reduced poison duration on you",
+    "builds": 1,
+    "mods": [
+      {
+        "text": "#% increased global critical strike chance",
+        "trade_ids": [
+          "implicit.stat_587431675"
+        ]
+      },
+      {
+        "text": "#% reduced poison duration on you",
+        "trade_ids": [
+          "implicit.stat_3301100256"
+        ]
+      }
+    ]
+  },
+  {
     "item": "Replica Dreamfeather",
     "stats": "#% increased physical damage, #% increased attack speed",
     "builds": 1,
@@ -8239,65 +8401,6 @@
         "text": "#% increased critical strike chance",
         "trade_ids": [
           "implicit.stat_2375316951"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Watcher's Eye",
-    "stats": "damage penetrates #% lightning resistance",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "damage penetrates #% lightning resistance",
-        "trade_ids": [
-          "implicit.stat_818778753",
-          "implicit.stat_3301510262"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Watcher's Eye",
-    "stats": "#% reduced effect of chill on you",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "#% reduced effect of chill on you",
-        "trade_ids": [
-          "implicit.stat_1478653032"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Watcher's Eye",
-    "stats": "minions deal #% increased damage",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "minions deal #% increased damage",
-        "trade_ids": [
-          "implicit.stat_1589917703"
-        ]
-      }
-    ]
-  },
-  {
-    "item": "Watcher's Eye",
-    "stats": "#% increased global critical strike chance, #% reduced poison duration on you",
-    "builds": 1,
-    "mods": [
-      {
-        "text": "#% increased global critical strike chance",
-        "trade_ids": [
-          "implicit.stat_587431675"
-        ]
-      },
-      {
-        "text": "#% reduced poison duration on you",
-        "trade_ids": [
-          "implicit.stat_3301100256"
         ]
       }
     ]
