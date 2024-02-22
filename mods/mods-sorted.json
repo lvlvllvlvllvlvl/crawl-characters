@@ -17446,6 +17446,20 @@
   {
     "item": "Saffell's Frame",
     "stats": "#% of physical damage from hits taken as cold damage",
+    "average": 115.94999999999999,
+    "prices": [
+      90,
+      100,
+      136.9,
+      136.9,
+      410.70000000000005,
+      1026.75
+    ],
+    "search": {
+      "id": "LmdmLM7tn",
+      "complexity": 18,
+      "total": 6
+    },
     "builds": 1,
     "mods": [
       {
@@ -17459,6 +17473,16 @@
   {
     "item": "Might of the Meek",
     "stats": "damage penetrates #% lightning resistance",
+    "average": 30,
+    "prices": [
+      10,
+      50
+    ],
+    "search": {
+      "id": "lXODXjrhV",
+      "complexity": 19,
+      "total": 2
+    },
     "builds": 1,
     "mods": [
       {
@@ -17473,6 +17497,21 @@
   {
     "item": "Might of the Meek",
     "stats": "#% increased global critical strike chance",
+    "average": 22,
+    "prices": [
+      10,
+      20,
+      20,
+      30,
+      30,
+      50,
+      136.9
+    ],
+    "search": {
+      "id": "3Gw30nJU5",
+      "complexity": 18,
+      "total": 7
+    },
     "builds": 1,
     "mods": [
       {
@@ -17486,6 +17525,20 @@
   {
     "item": "Might of the Meek",
     "stats": "you cannot be maimed",
+    "average": 184.28000000000003,
+    "prices": [
+      100,
+      136.9,
+      136.9,
+      273.8,
+      273.8,
+      1369
+    ],
+    "search": {
+      "id": "lXJV8VrhV",
+      "complexity": 18,
+      "total": 6
+    },
     "builds": 1,
     "mods": [
       {
@@ -17499,6 +17552,17 @@
   {
     "item": "Might of the Meek",
     "stats": "you cannot be cursed with silence",
+    "average": 15,
+    "prices": [
+      10,
+      20,
+      136.9
+    ],
+    "search": {
+      "id": "BGrV83KC8",
+      "complexity": 18,
+      "total": 3
+    },
     "builds": 1,
     "mods": [
       {
