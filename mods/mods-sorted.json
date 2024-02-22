@@ -7690,6 +7690,15 @@
   {
     "item": "Snakebite",
     "stats": "+# to maximum frenzy charges, curse enemies with despair on hit",
+    "average": 22410.870000000003,
+    "prices": [
+      22410.870000000003
+    ],
+    "search": {
+      "id": "3Bg95KJs5",
+      "complexity": 29,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -7709,6 +7718,13 @@
   {
     "item": "Wilma's Requital",
     "stats": "socketed skill gems get a #% cost & reservation multiplier, #% of cold damage leeched as life",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "ewRoE46HL",
+      "complexity": 30,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -7729,6 +7745,24 @@
   {
     "item": "Kaom's Spirit",
     "stats": "+#% to spell critical strike chance",
+    "average": 92.396,
+    "prices": [
+      15,
+      50,
+      50,
+      59,
+      100,
+      100,
+      137.49,
+      137.49,
+      137.49,
+      137.49
+    ],
+    "search": {
+      "id": "qaylYl9ug",
+      "complexity": 18,
+      "total": 17
+    },
     "builds": 1,
     "mods": [
       {
@@ -7742,6 +7776,24 @@
   {
     "item": "Kaom's Spirit",
     "stats": "+# to level of socketed aoe gems",
+    "average": 222.48600000000002,
+    "prices": [
+      137.49,
+      137.49,
+      137.49,
+      137.49,
+      300,
+      274.98,
+      274.98,
+      274.98,
+      274.98,
+      274.98
+    ],
+    "search": {
+      "id": "lPrYyEQUV",
+      "complexity": 18,
+      "total": 24
+    },
     "builds": 1,
     "mods": [
       {
@@ -7755,6 +7807,24 @@
   {
     "item": "Yoke of Suffering",
     "stats": "hatred has #% increased aura effect",
+    "average": 705.0896666666667,
+    "prices": [
+      25,
+      40,
+      70,
+      120,
+      316.227,
+      549.96,
+      1374.9,
+      1787.3700000000001,
+      2062.3500000000004,
+      2749.8
+    ],
+    "search": {
+      "id": "yrJvMDrsR",
+      "complexity": 18,
+      "total": 11
+    },
     "builds": 1,
     "mods": [
       {
