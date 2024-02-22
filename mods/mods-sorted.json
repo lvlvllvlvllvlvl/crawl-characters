@@ -747,6 +747,24 @@
   {
     "item": "Sadima's Touch",
     "stats": "attacks have +#% to critical strike chance",
+    "average": 30.625,
+    "prices": [
+      15,
+      20,
+      30,
+      30,
+      30,
+      35,
+      40,
+      45,
+      65,
+      75
+    ],
+    "search": {
+      "id": "2Gb38wjTk",
+      "complexity": 18,
+      "total": 33
+    },
     "builds": 5,
     "mods": [
       {
@@ -760,6 +778,24 @@
   {
     "item": "Incandescent Heart",
     "stats": "+# to level of socketed projectile gems",
+    "average": 4241.044444444445,
+    "prices": [
+      137.3,
+      137.3,
+      549.2,
+      961.1000000000001,
+      1373,
+      2059.5,
+      6865.000000000001,
+      12357.000000000002,
+      13730.000000000002,
+      20595
+    ],
+    "search": {
+      "id": "JVdkP85sl",
+      "complexity": 18,
+      "total": 13
+    },
     "builds": 5,
     "mods": [
       {
@@ -773,6 +809,24 @@
   {
     "item": "Obliteration",
     "stats": "#% increased area of effect",
+    "average": 114.16666666666667,
+    "prices": [
+      80,
+      80,
+      80,
+      101,
+      137.3,
+      137.3,
+      137.3,
+      137.3,
+      137.3,
+      274.6
+    ],
+    "search": {
+      "id": "dX4QqW3hJ",
+      "complexity": 18,
+      "total": 18
+    },
     "builds": 5,
     "mods": [
       {
@@ -786,6 +840,24 @@
   {
     "item": "Black Sun Crest",
     "stats": "socketed skill gems get a #% cost & reservation multiplier",
+    "average": 102.92,
+    "prices": [
+      30,
+      40,
+      60,
+      100,
+      100,
+      150,
+      137.3,
+      137.3,
+      137.3,
+      137.3
+    ],
+    "search": {
+      "id": "Qr6G3Mpuw",
+      "complexity": 18,
+      "total": 74
+    },
     "builds": 5,
     "mods": [
       {
@@ -799,6 +871,18 @@
   {
     "item": "Victario's Influence",
     "stats": "+# to level of socketed gems, +# to level of socketed aura gems",
+    "average": 2162.475,
+    "prices": [
+      1098.4,
+      1373,
+      2746,
+      3432.5000000000005
+    ],
+    "search": {
+      "id": "emYBeMnsL",
+      "complexity": 29,
+      "total": 4
+    },
     "builds": 5,
     "mods": [
       {
