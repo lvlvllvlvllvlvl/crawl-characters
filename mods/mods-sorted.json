@@ -17703,6 +17703,15 @@
   {
     "item": "Voidwalker",
     "stats": "+# to maximum endurance charges",
+    "average": 20,
+    "prices": [
+      20
+    ],
+    "search": {
+      "id": "rXmqqpmfQ",
+      "complexity": 18,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -17716,6 +17725,22 @@
   {
     "item": "Windripper",
     "stats": "socketed gems are supported by level # momentum",
+    "average": 109.56666666666668,
+    "prices": [
+      15,
+      45,
+      95,
+      160,
+      136.96,
+      205.44,
+      6848,
+      10956.800000000001
+    ],
+    "search": {
+      "id": "rXpw3LrTQ",
+      "complexity": 18,
+      "total": 8
+    },
     "builds": 1,
     "mods": [
       {
@@ -17729,6 +17754,13 @@
   {
     "item": "The Fourth Vow",
     "stats": "+# to level of socketed minion gems, #% additional physical damage reduction while stationary",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "9Yv3JpKcK",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -17748,6 +17780,20 @@
   {
     "item": "The Fourth Vow",
     "stats": "+# to level of socketed projectile gems",
+    "average": 136.96,
+    "prices": [
+      100,
+      136.96,
+      136.96,
+      136.96,
+      410.88,
+      299116.94
+    ],
+    "search": {
+      "id": "Zb5kpJEHQ",
+      "complexity": 18,
+      "total": 6
+    },
     "builds": 1,
     "mods": [
       {
@@ -17761,6 +17807,13 @@
   {
     "item": "The Fourth Vow",
     "stats": "+# to level of socketed gems, #% increased damage",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "0BZLdGwUg",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
