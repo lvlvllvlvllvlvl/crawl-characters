@@ -5487,6 +5487,24 @@
   {
     "item": "Shaper's Touch",
     "stats": "#% increased maximum energy shield",
+    "average": 65.862,
+    "prices": [
+      9,
+      30,
+      30,
+      30,
+      35,
+      50,
+      100,
+      100,
+      137.31,
+      137.31
+    ],
+    "search": {
+      "id": "VMgl2KlCp",
+      "complexity": 18,
+      "total": 19
+    },
     "builds": 1,
     "mods": [
       {
@@ -5500,6 +5518,24 @@
   {
     "item": "Shaper's Touch",
     "stats": "curse enemies with temporal chains on hit",
+    "average": 19,
+    "prices": [
+      10,
+      10,
+      11,
+      15,
+      20,
+      20,
+      25,
+      30,
+      30,
+      40
+    ],
+    "search": {
+      "id": "gXWRrJjhQ",
+      "complexity": 18,
+      "total": 27
+    },
     "builds": 1,
     "mods": [
       {
@@ -5513,6 +5549,24 @@
   {
     "item": "String of Servitude",
     "stats": "#% increased quantity of items found",
+    "average": 335.082,
+    "prices": [
+      30,
+      40,
+      110,
+      150,
+      137.31,
+      274.62,
+      549.24,
+      686.55,
+      686.55,
+      686.55
+    ],
+    "search": {
+      "id": "lPrYXD0sV",
+      "complexity": 18,
+      "total": 14
+    },
     "builds": 1,
     "mods": [
       {
@@ -5526,6 +5580,13 @@
   {
     "item": "String of Servitude",
     "stats": "#% increased maximum energy shield, hatred has #% increased aura effect",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "MV4KYqDFJ",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -5545,6 +5606,13 @@
   {
     "item": "Corpsewalker",
     "stats": "#% increased maximum energy shield, #% increased movement speed",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "OVDEg6VHE",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
