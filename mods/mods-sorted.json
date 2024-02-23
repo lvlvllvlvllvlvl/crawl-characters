@@ -14624,6 +14624,13 @@
   {
     "item": "Lori's Lantern",
     "stats": "anger has #% increased aura effect, bleeding cannot be inflicted on you",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "oXeP6nKhl",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -14643,6 +14650,24 @@
   {
     "item": "Lori's Lantern",
     "stats": "hatred has #% increased aura effect",
+    "average": 94.686,
+    "prices": [
+      22,
+      40,
+      50,
+      90,
+      100,
+      110,
+      119,
+      138.62,
+      138.62,
+      138.62
+    ],
+    "search": {
+      "id": "oXvlqEkFl",
+      "complexity": 18,
+      "total": 12
+    },
     "builds": 1,
     "mods": [
       {
@@ -14656,6 +14681,24 @@
   {
     "item": "Lori's Lantern",
     "stats": "discipline has #% increased aura effect",
+    "average": 26.142857142857142,
+    "prices": [
+      3,
+      10,
+      10,
+      10,
+      40,
+      50,
+      60,
+      90,
+      140,
+      207.93
+    ],
+    "search": {
+      "id": "QVYkJBMTw",
+      "complexity": 18,
+      "total": 12
+    },
     "builds": 1,
     "mods": [
       {
@@ -14669,6 +14712,15 @@
   {
     "item": "Lori's Lantern",
     "stats": "#% increased strength, #% increased dexterity, discipline has #% increased aura effect",
+    "average": 40,
+    "prices": [
+      40
+    ],
+    "search": {
+      "id": "OV2q9b0TE",
+      "complexity": 20,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -14694,6 +14746,19 @@
   {
     "item": "Indigon",
     "stats": "+# to maximum power charges",
+    "average": 762.4100000000001,
+    "prices": [
+      138.62,
+      693.1,
+      1108.96,
+      1108.96,
+      5544.8
+    ],
+    "search": {
+      "id": "jXJ9MZbHX",
+      "complexity": 18,
+      "total": 5
+    },
     "builds": 1,
     "mods": [
       {
