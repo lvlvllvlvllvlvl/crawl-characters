@@ -17455,6 +17455,23 @@
   {
     "item": "Might of the Meek",
     "stats": "#% increased effect of non-damaging ailments",
+    "average": 92.44999999999999,
+    "prices": [
+      15,
+      20,
+      50,
+      100,
+      138.65,
+      138.65,
+      138.65,
+      138.65,
+      693.25
+    ],
+    "search": {
+      "id": "qXjDDjWfg",
+      "complexity": 18,
+      "total": 9
+    },
     "builds": 1,
     "mods": [
       {
@@ -17468,6 +17485,18 @@
   {
     "item": "Might of the Meek",
     "stats": "#% reduced effect of chill on you",
+    "average": 27.25,
+    "prices": [
+      9,
+      20,
+      30,
+      50
+    ],
+    "search": {
+      "id": "pXEoybbH0",
+      "complexity": 18,
+      "total": 4
+    },
     "builds": 1,
     "mods": [
       {
@@ -17481,6 +17510,21 @@
   {
     "item": "Dawnbreaker",
     "stats": "grants level # determination skill",
+    "average": 1386.5,
+    "prices": [
+      138.65,
+      1109.2,
+      1386.5,
+      1386.5,
+      6932.5,
+      16638,
+      69325
+    ],
+    "search": {
+      "id": "JVrP0kWIl",
+      "complexity": 18,
+      "total": 7
+    },
     "builds": 1,
     "mods": [
       {
@@ -17494,6 +17538,23 @@
   {
     "item": "Dawnbreaker",
     "stats": "+#% chance to block",
+    "average": 7656.561111111111,
+    "prices": [
+      693.25,
+      1386.5,
+      3466.25,
+      5546,
+      5546,
+      6932.5,
+      11785.25,
+      16638,
+      16915.3
+    ],
+    "search": {
+      "id": "5okJQ8dia",
+      "complexity": 18,
+      "total": 9
+    },
     "builds": 1,
     "mods": [
       {
@@ -17507,6 +17568,16 @@
   {
     "item": "Voidwalker",
     "stats": "+# to maximum endurance charges",
+    "average": 151.15,
+    "prices": [
+      25,
+      277.3
+    ],
+    "search": {
+      "id": "rXmqqpmfQ",
+      "complexity": 18,
+      "total": 2
+    },
     "builds": 1,
     "mods": [
       {
