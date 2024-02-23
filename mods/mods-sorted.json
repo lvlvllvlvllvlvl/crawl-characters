@@ -13156,6 +13156,24 @@
   {
     "item": "Watcher's Eye",
     "stats": "damage penetrates #% lightning resistance",
+    "average": 307.38,
+    "prices": [
+      60,
+      70,
+      90,
+      90,
+      138.19,
+      276.38,
+      276.38,
+      690.95,
+      690.95,
+      690.95
+    ],
+    "search": {
+      "id": "6ZbVbrXIG",
+      "complexity": 19,
+      "total": 18
+    },
     "builds": 1,
     "mods": [
       {
@@ -13170,6 +13188,24 @@
   {
     "item": "Watcher's Eye",
     "stats": "#% reduced effect of chill on you",
+    "average": 630.8550000000001,
+    "prices": [
+      90,
+      138.19,
+      138.19,
+      276.38,
+      690.95,
+      690.95,
+      967.3299999999999,
+      1105.52,
+      1105.52,
+      1105.52
+    ],
+    "search": {
+      "id": "Zb5baJRTQ",
+      "complexity": 18,
+      "total": 19
+    },
     "builds": 1,
     "mods": [
       {
@@ -13183,6 +13219,24 @@
   {
     "item": "Watcher's Eye",
     "stats": "minions deal #% increased damage",
+    "average": 194.81571428571428,
+    "prices": [
+      60,
+      60,
+      138.19,
+      276.38,
+      276.38,
+      276.38,
+      276.38,
+      690.95,
+      967.3299999999999,
+      1105.52
+    ],
+    "search": {
+      "id": "8a24E4qsV",
+      "complexity": 18,
+      "total": 17
+    },
     "builds": 1,
     "mods": [
       {
@@ -13196,6 +13250,13 @@
   {
     "item": "Watcher's Eye",
     "stats": "#% increased global critical strike chance, #% reduced poison duration on you",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "vlEXWkjHE",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -13215,6 +13276,16 @@
   {
     "item": "Replica Dreamfeather",
     "stats": "#% increased physical damage, #% increased attack speed",
+    "average": 25565.15,
+    "prices": [
+      6909.5,
+      44220.8
+    ],
+    "search": {
+      "id": "gqPOMrOFQ",
+      "complexity": 30,
+      "total": 2
+    },
     "builds": 1,
     "mods": [
       {
