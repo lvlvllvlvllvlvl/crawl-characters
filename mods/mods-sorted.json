@@ -14271,6 +14271,18 @@
   {
     "item": "Vixen's Entrapment",
     "stats": "+# to level of socketed gems",
+    "average": 227.59,
+    "prices": [
+      79,
+      138.56,
+      277.12,
+      415.68
+    ],
+    "search": {
+      "id": "bPZgddLTL",
+      "complexity": 18,
+      "total": 4
+    },
     "builds": 1,
     "mods": [
       {
@@ -14284,6 +14296,15 @@
   {
     "item": "Arn's Anguish",
     "stats": "+#% to all elemental resistances",
+    "average": 1385.6,
+    "prices": [
+      1385.6
+    ],
+    "search": {
+      "id": "Ey659y0i5",
+      "complexity": 18,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -14297,6 +14318,17 @@
   {
     "item": "Arn's Anguish",
     "stats": "zealotry has #% increased aura effect",
+    "average": 1385.5999999999997,
+    "prices": [
+      138.56,
+      1385.6,
+      2632.64
+    ],
+    "search": {
+      "id": "YVqrzkXsY",
+      "complexity": 18,
+      "total": 3
+    },
     "builds": 1,
     "mods": [
       {
@@ -14310,6 +14342,17 @@
   {
     "item": "Arn's Anguish",
     "stats": "#% increased movement speed during any flask effect",
+    "average": 138.56,
+    "prices": [
+      100,
+      138.56,
+      138.56
+    ],
+    "search": {
+      "id": "gXWv5KKUQ",
+      "complexity": 18,
+      "total": 3
+    },
     "builds": 1,
     "mods": [
       {
@@ -14323,6 +14366,16 @@
   {
     "item": "Arn's Anguish",
     "stats": "wrath has #% increased aura effect",
+    "average": 138.56,
+    "prices": [
+      138.56,
+      138.56
+    ],
+    "search": {
+      "id": "3BrVpPJi5",
+      "complexity": 18,
+      "total": 2
+    },
     "builds": 1,
     "mods": [
       {
