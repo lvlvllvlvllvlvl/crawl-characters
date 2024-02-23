@@ -18128,6 +18128,17 @@
   {
     "item": "Primordial Eminence",
     "stats": "corrupted blood cannot be inflicted on you",
+    "average": 1387.7,
+    "prices": [
+      416.31000000000006,
+      1526.47,
+      2220.32
+    ],
+    "search": {
+      "id": "80ZJ5VZcV",
+      "complexity": 18,
+      "total": 3
+    },
     "builds": 1,
     "mods": [
       {
@@ -18141,6 +18152,15 @@
   {
     "item": "Replica Kaom's Heart",
     "stats": "#% increased maximum energy shield",
+    "average": null,
+    "prices": [
+      null
+    ],
+    "search": {
+      "id": "LmyJk4GFn",
+      "complexity": 18,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -18154,6 +18174,17 @@
   {
     "item": "Winterweave",
     "stats": "hatred has #% increased aura effect",
+    "average": 277.54,
+    "prices": [
+      277.54,
+      277.54,
+      555.08
+    ],
+    "search": {
+      "id": "Ey6zz5zc5",
+      "complexity": 18,
+      "total": 3
+    },
     "builds": 1,
     "mods": [
       {
@@ -18167,6 +18198,21 @@
   {
     "item": "Heartbound Loop",
     "stats": "cannot be ignited",
+    "average": 79.385,
+    "prices": [
+      10,
+      30,
+      138.77,
+      138.77,
+      693.85,
+      2775.4,
+      7632.35
+    ],
+    "search": {
+      "id": "3GwDRP9S5",
+      "complexity": 18,
+      "total": 7
+    },
     "builds": 1,
     "mods": [
       {
@@ -18180,6 +18226,24 @@
   {
     "item": "Heartbound Loop",
     "stats": "bleeding cannot be inflicted on you",
+    "average": 158.90666666666664,
+    "prices": [
+      100,
+      100,
+      120,
+      138.77,
+      138.77,
+      138.77,
+      138.77,
+      277.54,
+      277.54,
+      2775.4
+    ],
+    "search": {
+      "id": "gXWoX0KFQ",
+      "complexity": 18,
+      "total": 10
+    },
     "builds": 1,
     "mods": [
       {
