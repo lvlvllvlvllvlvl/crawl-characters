@@ -12089,6 +12089,19 @@
   {
     "item": "Ceinture of Benevolence",
     "stats": "determination has #% increased aura effect",
+    "average": 112.87,
+    "prices": [
+      7,
+      30,
+      138.16,
+      276.32,
+      1381.6
+    ],
+    "search": {
+      "id": "DL89vj2T5",
+      "complexity": 18,
+      "total": 5
+    },
     "builds": 1,
     "mods": [
       {
@@ -12102,6 +12115,18 @@
   {
     "item": "Ceinture of Benevolence",
     "stats": "grace has #% increased aura effect",
+    "average": 124,
+    "prices": [
+      85,
+      100,
+      187,
+      9671.199999999999
+    ],
+    "search": {
+      "id": "eXvX9pghL",
+      "complexity": 18,
+      "total": 4
+    },
     "builds": 1,
     "mods": [
       {
@@ -12115,6 +12140,16 @@
   {
     "item": "Prism Guardian",
     "stats": "#% reduced area damage taken from hits",
+    "average": 108.62,
+    "prices": [
+      10,
+      207.24
+    ],
+    "search": {
+      "id": "RqBW8pZU7",
+      "complexity": 18,
+      "total": 2
+    },
     "builds": 1,
     "mods": [
       {
@@ -12128,6 +12163,16 @@
   {
     "item": "Prism Guardian",
     "stats": "#% increased maximum energy shield",
+    "average": 310.86,
+    "prices": [
+      207.24,
+      414.48
+    ],
+    "search": {
+      "id": "XqadzgJSP",
+      "complexity": 18,
+      "total": 2
+    },
     "builds": 1,
     "mods": [
       {
@@ -12141,6 +12186,22 @@
   {
     "item": "Prism Guardian",
     "stats": "#% of physical damage from hits taken as lightning damage",
+    "average": 79.05333333333333,
+    "prices": [
+      30,
+      40,
+      59,
+      69,
+      138.16,
+      138.16,
+      690.8,
+      6908
+    ],
+    "search": {
+      "id": "lPrrL90UV",
+      "complexity": 18,
+      "total": 8
+    },
     "builds": 1,
     "mods": [
       {
