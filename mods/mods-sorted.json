@@ -14209,6 +14209,13 @@
   {
     "item": "The Poet's Pen",
     "stats": "adds # to # fire damage, #% increased attack speed",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "9YG3RV4tK",
+      "complexity": 31,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -14230,6 +14237,13 @@
   {
     "item": "Fairgraves' Tricorne",
     "stats": "#% increased area of effect",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "VMKQLR8fp",
+      "complexity": 18,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -14243,6 +14257,17 @@
   {
     "item": "Vixen's Entrapment",
     "stats": "#% increased cast speed",
+    "average": 333.3833333333333,
+    "prices": [
+      300,
+      280.06,
+      420.09000000000003
+    ],
+    "search": {
+      "id": "PK7l22JCL",
+      "complexity": 18,
+      "total": 3
+    },
     "builds": 1,
     "mods": [
       {
@@ -14256,6 +14281,18 @@
   {
     "item": "Vixen's Entrapment",
     "stats": "+# to level of socketed gems",
+    "average": 243.38333333333335,
+    "prices": [
+      30,
+      280.06,
+      420.09000000000003,
+      null
+    ],
+    "search": {
+      "id": "bPZgddLTL",
+      "complexity": 18,
+      "total": 4
+    },
     "builds": 1,
     "mods": [
       {
@@ -14269,6 +14306,16 @@
   {
     "item": "Arn's Anguish",
     "stats": "+#% to all elemental resistances",
+    "average": 7281.5599999999995,
+    "prices": [
+      700.15,
+      13862.97
+    ],
+    "search": {
+      "id": "Ey659y0i5",
+      "complexity": 18,
+      "total": 2
+    },
     "builds": 1,
     "mods": [
       {
