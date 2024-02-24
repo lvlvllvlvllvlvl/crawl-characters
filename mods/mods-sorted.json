@@ -10063,6 +10063,24 @@
   {
     "item": "March of the Legion",
     "stats": "+# to level of socketed trap or mine gems",
+    "average": 34,
+    "prices": [
+      10,
+      20,
+      20,
+      20,
+      20,
+      40,
+      50,
+      50,
+      55,
+      55
+    ],
+    "search": {
+      "id": "DL497bvC5",
+      "complexity": 18,
+      "total": 28
+    },
     "builds": 1,
     "mods": [
       {
@@ -10076,6 +10094,24 @@
   {
     "item": "March of the Legion",
     "stats": "+# to level of socketed projectile gems",
+    "average": 55.7,
+    "prices": [
+      8,
+      20,
+      30,
+      30,
+      40,
+      60,
+      80,
+      89,
+      100,
+      100
+    ],
+    "search": {
+      "id": "rXjkzWgCQ",
+      "complexity": 18,
+      "total": 34
+    },
     "builds": 1,
     "mods": [
       {
@@ -10089,6 +10125,17 @@
   {
     "item": "March of the Legion",
     "stats": "+# to level of socketed aoe gems, +# to level of socketed projectile gems",
+    "average": 2613.8933333333334,
+    "prices": [
+      1120.24,
+      2800.6,
+      3920.84
+    ],
+    "search": {
+      "id": "VMKlbvwhp",
+      "complexity": 29,
+      "total": 3
+    },
     "builds": 1,
     "mods": [
       {
@@ -10108,6 +10155,16 @@
   {
     "item": "March of the Legion",
     "stats": "+# to level of socketed gems, +# to level of socketed aura gems",
+    "average": 42034,
+    "prices": [
+      50,
+      84018
+    ],
+    "search": {
+      "id": "GZyEJaBhb",
+      "complexity": 29,
+      "total": 2
+    },
     "builds": 1,
     "mods": [
       {
@@ -10127,6 +10184,13 @@
   {
     "item": "March of the Legion",
     "stats": "+# to level of socketed projectile gems, +# to level of socketed aura gems",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "bXpqEozHL",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
