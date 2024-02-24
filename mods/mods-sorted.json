@@ -11062,6 +11062,13 @@
   {
     "item": "Headhunter",
     "stats": "#% increased area of effect, wrath has #% increased aura effect",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "6Zv5PPXcG",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -11081,6 +11088,24 @@
   {
     "item": "Headhunter",
     "stats": "#% increased area of effect",
+    "average": 14073.015,
+    "prices": [
+      8401.8,
+      10502.25,
+      11202.4,
+      12602.7,
+      12602.7,
+      12602.7,
+      16803.6,
+      16803.6,
+      18203.9,
+      21004.5
+    ],
+    "search": {
+      "id": "OVwVMgVTE",
+      "complexity": 18,
+      "total": 19
+    },
     "builds": 1,
     "mods": [
       {
@@ -11094,6 +11119,15 @@
   {
     "item": "Black Sun Crest",
     "stats": "socketed skill gems get a #% cost & reservation multiplier, cannot be blinded",
+    "average": 112024,
+    "prices": [
+      112024
+    ],
+    "search": {
+      "id": "BEQP07Wf8",
+      "complexity": 29,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -11113,6 +11147,24 @@
   {
     "item": "Void Battery",
     "stats": "#% increased critical strike chance",
+    "average": 131.57888888888888,
+    "prices": [
+      19,
+      20,
+      20,
+      40,
+      50,
+      55,
+      140.03,
+      420.09000000000003,
+      420.09000000000003,
+      560.12
+    ],
+    "search": {
+      "id": "LmydjKGIn",
+      "complexity": 18,
+      "total": 20
+    },
     "builds": 1,
     "mods": [
       {
@@ -11126,6 +11178,24 @@
   {
     "item": "Void Battery",
     "stats": "damage penetrates #% elemental resistances",
+    "average": 660.1414285714285,
+    "prices": [
+      140.03,
+      280.06,
+      420.09000000000003,
+      560.12,
+      560.12,
+      700.15,
+      700.15,
+      700.15,
+      700.15,
+      700.15
+    ],
+    "search": {
+      "id": "mP20bDrt6",
+      "complexity": 18,
+      "total": 63
+    },
     "builds": 1,
     "mods": [
       {
