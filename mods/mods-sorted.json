@@ -7633,6 +7633,13 @@
   {
     "item": "Wilma's Requital",
     "stats": "socketed skill gems get a #% cost & reservation multiplier, #% of cold damage leeched as life",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "ewRoE46HL",
+      "complexity": 30,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -7653,6 +7660,24 @@
   {
     "item": "Kaom's Spirit",
     "stats": "+#% to spell critical strike chance",
+    "average": 99.51499999999999,
+    "prices": [
+      25,
+      35,
+      45,
+      70,
+      120,
+      140.03,
+      140.03,
+      140.03,
+      140.03,
+      140.03
+    ],
+    "search": {
+      "id": "qaylYl9ug",
+      "complexity": 18,
+      "total": 14
+    },
     "builds": 1,
     "mods": [
       {
@@ -7666,6 +7691,24 @@
   {
     "item": "Kaom's Spirit",
     "stats": "+# to level of socketed aoe gems",
+    "average": 316.4678,
+    "prices": [
+      140.03,
+      140.03,
+      140.03,
+      224.048,
+      280.06,
+      420.09000000000003,
+      420.09000000000003,
+      420.09000000000003,
+      420.09000000000003,
+      560.12
+    ],
+    "search": {
+      "id": "lPrYyEQUV",
+      "complexity": 18,
+      "total": 18
+    },
     "builds": 1,
     "mods": [
       {
@@ -7679,6 +7722,24 @@
   {
     "item": "Yoke of Suffering",
     "stats": "hatred has #% increased aura effect",
+    "average": 132.24555555555554,
+    "prices": [
+      40,
+      40,
+      50,
+      80,
+      140.03,
+      140.03,
+      140.03,
+      280.06,
+      280.06,
+      700.15
+    ],
+    "search": {
+      "id": "yrJvMDrsR",
+      "complexity": 18,
+      "total": 16
+    },
     "builds": 1,
     "mods": [
       {
