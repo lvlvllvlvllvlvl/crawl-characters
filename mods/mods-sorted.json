@@ -4988,6 +4988,24 @@
   {
     "item": "Eyes of the Greatwolf",
     "stats": "#% increased damage, #% increased quantity of items found",
+    "average": 140.03,
+    "prices": [
+      40,
+      45,
+      90,
+      140.03,
+      140.03,
+      140.03,
+      140.03,
+      140.03,
+      140.03,
+      140.03
+    ],
+    "search": {
+      "id": "plLlQGdH0",
+      "complexity": 29,
+      "total": 41
+    },
     "builds": 1,
     "mods": [
       {
@@ -5007,6 +5025,13 @@
   {
     "item": "Perandus Blazon",
     "stats": "#% increased rarity of items found, #% increased critical strike chance during any flask effect",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "7l3DmMgS5",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -5026,6 +5051,21 @@
   {
     "item": "Perandus Blazon",
     "stats": "#% increased quantity of items found",
+    "average": 1568.336,
+    "prices": [
+      980.21,
+      1260.27,
+      1680.3600000000001,
+      1820.39,
+      2100.45,
+      3360.7200000000003,
+      4200.9
+    ],
+    "search": {
+      "id": "9Y6QWVztK",
+      "complexity": 18,
+      "total": 7
+    },
     "builds": 1,
     "mods": [
       {
@@ -5039,6 +5079,13 @@
   {
     "item": "Perandus Blazon",
     "stats": "#% increased rarity of items found, #% increased cast speed during any flask effect",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "mXD7YjMt6",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -5058,6 +5105,15 @@
   {
     "item": "Perandus Blazon",
     "stats": "#% increased maximum energy shield, #% increased movement speed during any flask effect",
+    "average": 140.03,
+    "prices": [
+      140.03
+    ],
+    "search": {
+      "id": "KJXbbKMU5",
+      "complexity": 29,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
