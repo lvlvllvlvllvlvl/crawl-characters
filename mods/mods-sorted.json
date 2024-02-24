@@ -13148,6 +13148,24 @@
   {
     "item": "Watcher's Eye",
     "stats": "damage penetrates #% lightning resistance",
+    "average": 592.123,
+    "prices": [
+      60,
+      120,
+      280.06,
+      280.06,
+      280.06,
+      420.09000000000003,
+      420.09000000000003,
+      1260.27,
+      1400.3,
+      1400.3
+    ],
+    "search": {
+      "id": "6ZbVbrXIG",
+      "complexity": 19,
+      "total": 12
+    },
     "builds": 1,
     "mods": [
       {
@@ -13162,6 +13180,24 @@
   {
     "item": "Watcher's Eye",
     "stats": "#% reduced effect of chill on you",
+    "average": 201.1494444444444,
+    "prices": [
+      50,
+      50,
+      100,
+      140.03,
+      210.04500000000002,
+      280.06,
+      280.06,
+      280.06,
+      420.09000000000003,
+      700.15
+    ],
+    "search": {
+      "id": "Zb5baJRTQ",
+      "complexity": 18,
+      "total": 15
+    },
     "builds": 1,
     "mods": [
       {
@@ -13175,6 +13211,24 @@
   {
     "item": "Watcher's Eye",
     "stats": "minions deal #% increased damage",
+    "average": 212.042,
+    "prices": [
+      40,
+      60,
+      60,
+      140.03,
+      140.03,
+      280.06,
+      280.06,
+      280.06,
+      420.09000000000003,
+      420.09000000000003
+    ],
+    "search": {
+      "id": "8a24E4qsV",
+      "complexity": 18,
+      "total": 15
+    },
     "builds": 1,
     "mods": [
       {
@@ -13188,6 +13242,13 @@
   {
     "item": "Watcher's Eye",
     "stats": "#% increased global critical strike chance, #% reduced poison duration on you",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "vlEXWkjHE",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -13207,6 +13268,15 @@
   {
     "item": "Replica Dreamfeather",
     "stats": "#% increased physical damage, #% increased attack speed",
+    "average": 39208.4,
+    "prices": [
+      39208.4
+    ],
+    "search": {
+      "id": "gqPOMrOFQ",
+      "complexity": 30,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
