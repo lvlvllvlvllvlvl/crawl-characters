@@ -18155,6 +18155,15 @@
   {
     "item": "Winterweave",
     "stats": "hatred has #% increased aura effect",
+    "average": 100,
+    "prices": [
+      100
+    ],
+    "search": {
+      "id": "Ey6zz5zc5",
+      "complexity": 18,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -18168,6 +18177,20 @@
   {
     "item": "Heartbound Loop",
     "stats": "cannot be ignited",
+    "average": 12.666666666666666,
+    "prices": [
+      2,
+      6,
+      30,
+      320,
+      700.15,
+      7701.65
+    ],
+    "search": {
+      "id": "3GwDRP9S5",
+      "complexity": 18,
+      "total": 6
+    },
     "builds": 1,
     "mods": [
       {
@@ -18181,6 +18204,18 @@
   {
     "item": "Heartbound Loop",
     "stats": "bleeding cannot be inflicted on you",
+    "average": 101.26499999999999,
+    "prices": [
+      25,
+      100,
+      140.03,
+      140.03
+    ],
+    "search": {
+      "id": "gXWoX0KFQ",
+      "complexity": 18,
+      "total": 4
+    },
     "builds": 1,
     "mods": [
       {
@@ -18194,6 +18229,24 @@
   {
     "item": "Lioneye's Fall",
     "stats": "corrupted blood cannot be inflicted on you",
+    "average": 140.03,
+    "prices": [
+      140.03,
+      140.03,
+      140.03,
+      140.03,
+      140.03,
+      140.03,
+      140.03,
+      140.03,
+      140.03,
+      280.06
+    ],
+    "search": {
+      "id": "EG8yMgKs5",
+      "complexity": 18,
+      "total": 12
+    },
     "builds": 1,
     "mods": [
       {
@@ -18207,6 +18260,24 @@
   {
     "item": "Eye of Malice",
     "stats": "+# to maximum power charges",
+    "average": 180.90499999999997,
+    "prices": [
+      37,
+      130,
+      160,
+      140.03,
+      140.03,
+      280.06,
+      280.06,
+      280.06,
+      420.09000000000003,
+      700.15
+    ],
+    "search": {
+      "id": "Lmdj637un",
+      "complexity": 18,
+      "total": 19
+    },
     "builds": 1,
     "mods": [
       {
