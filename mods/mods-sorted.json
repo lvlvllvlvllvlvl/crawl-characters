@@ -19425,6 +19425,21 @@
   {
     "item": "Doedre's Damning",
     "stats": "bleeding cannot be inflicted on you",
+    "average": 109.76499999999999,
+    "prices": [
+      60,
+      99,
+      140.03,
+      140.03,
+      280.06,
+      700.15,
+      1680.3600000000001
+    ],
+    "search": {
+      "id": "aqe6VnKue",
+      "complexity": 18,
+      "total": 7
+    },
     "builds": 1,
     "mods": [
       {
@@ -19438,6 +19453,17 @@
   {
     "item": "Mind of the Council",
     "stats": "+# to maximum power charges",
+    "average": 80.01,
+    "prices": [
+      20,
+      80,
+      140.03
+    ],
+    "search": {
+      "id": "Ey6gq3VS5",
+      "complexity": 18,
+      "total": 3
+    },
     "builds": 1,
     "mods": [
       {
@@ -19451,6 +19477,13 @@
   {
     "item": "Transcendent Mind",
     "stats": "corrupted blood cannot be inflicted on you",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "8ad6EgbfV",
+      "complexity": 18,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -19464,6 +19497,13 @@
   {
     "item": "Brutal Restraint",
     "stats": "you cannot be maimed, #% reduced poison duration on you",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "gqwb0w6IQ",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -19483,6 +19523,13 @@
   {
     "item": "Painseeker",
     "stats": "+# to maximum frenzy charges, curse enemies with elemental weakness on hit",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "dXRmerPsJ",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
