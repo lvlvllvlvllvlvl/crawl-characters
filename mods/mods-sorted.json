@@ -17516,6 +17516,18 @@
   {
     "item": "Dawnbreaker",
     "stats": "grants level # determination skill",
+    "average": 140.03,
+    "prices": [
+      140.03,
+      140.03,
+      980.21,
+      7001.5
+    ],
+    "search": {
+      "id": "JVrP0kWIl",
+      "complexity": 18,
+      "total": 4
+    },
     "builds": 1,
     "mods": [
       {
@@ -17529,6 +17541,21 @@
   {
     "item": "Dawnbreaker",
     "stats": "+#% chance to block",
+    "average": 4520.9685714285715,
+    "prices": [
+      420.09000000000003,
+      420.09000000000003,
+      700.15,
+      1400.3,
+      5601.2,
+      11202.4,
+      11902.55
+    ],
+    "search": {
+      "id": "5okJQ8dia",
+      "complexity": 18,
+      "total": 7
+    },
     "builds": 1,
     "mods": [
       {
@@ -17542,6 +17569,16 @@
   {
     "item": "Voidwalker",
     "stats": "+# to maximum endurance charges",
+    "average": 22.5,
+    "prices": [
+      20,
+      25
+    ],
+    "search": {
+      "id": "rXmqqpmfQ",
+      "complexity": 18,
+      "total": 2
+    },
     "builds": 1,
     "mods": [
       {
@@ -17555,6 +17592,18 @@
   {
     "item": "Windripper",
     "stats": "socketed gems are supported by level # momentum",
+    "average": 166.6966666666667,
+    "prices": [
+      80,
+      140.03,
+      280.06,
+      11202.4
+    ],
+    "search": {
+      "id": "rXpw3LrTQ",
+      "complexity": 18,
+      "total": 4
+    },
     "builds": 1,
     "mods": [
       {
@@ -17568,6 +17617,13 @@
   {
     "item": "The Fourth Vow",
     "stats": "+# to level of socketed minion gems, #% additional physical damage reduction while stationary",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "9Yv3JpKcK",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
