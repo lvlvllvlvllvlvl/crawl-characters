@@ -6325,6 +6325,24 @@
   {
     "item": "Heatshiver",
     "stats": "#% of lightning damage leeched as life",
+    "average": 90.461,
+    "prices": [
+      15,
+      20,
+      20,
+      30,
+      40,
+      60,
+      255.16799999999998,
+      283.52,
+      1275.84,
+      7088
+    ],
+    "search": {
+      "id": "pXkjkjvT0",
+      "complexity": 19,
+      "total": 10
+    },
     "builds": 1,
     "mods": [
       {
@@ -6339,6 +6357,13 @@
   {
     "item": "Matua Tupuna",
     "stats": "+# to level of socketed aoe gems, +#% to maximum chance to block attack damage",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "GkWVPQBtb",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -6358,6 +6383,13 @@
   {
     "item": "Matua Tupuna",
     "stats": "+# to level of socketed aura gems, #% reduced area damage taken from hits",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "nXm4lKBu0",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -6377,6 +6409,15 @@
   {
     "item": "Matua Tupuna",
     "stats": "+# to level of socketed gems, #% increased maximum energy shield",
+    "average": 1134.08,
+    "prices": [
+      1134.08
+    ],
+    "search": {
+      "id": "RVYRokac7",
+      "complexity": 29,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -6396,6 +6437,13 @@
   {
     "item": "Matua Tupuna",
     "stats": "+# to level of socketed aura gems, +# to level of socketed trap or mine gems",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "Jq0k5L5Hl",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
