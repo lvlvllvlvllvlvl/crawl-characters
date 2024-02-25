@@ -16976,6 +16976,19 @@
   {
     "item": "Memory Vault",
     "stats": "+# to maximum power charges",
+    "average": 566.117,
+    "prices": [
+      100,
+      210.04500000000002,
+      700.15,
+      840.1800000000001,
+      980.21
+    ],
+    "search": {
+      "id": "YVdGlWbFY",
+      "complexity": 18,
+      "total": 5
+    },
     "builds": 1,
     "mods": [
       {
@@ -16989,6 +17002,18 @@
   {
     "item": "Memory Vault",
     "stats": "+# to level of socketed projectile gems",
+    "average": 196.70666666666668,
+    "prices": [
+      30,
+      140.03,
+      420.09000000000003,
+      1400.3
+    ],
+    "search": {
+      "id": "VM6vDGdFp",
+      "complexity": 18,
+      "total": 4
+    },
     "builds": 1,
     "mods": [
       {
@@ -17002,6 +17027,24 @@
   {
     "item": "Rathpith Globe",
     "stats": "#% increased maximum life",
+    "average": 684.5911111111111,
+    "prices": [
+      420.09000000000003,
+      420.09000000000003,
+      560.12,
+      560.12,
+      560.12,
+      700.15,
+      700.15,
+      1120.24,
+      1120.24,
+      1386.297
+    ],
+    "search": {
+      "id": "PK7amZvTL",
+      "complexity": 18,
+      "total": 28
+    },
     "builds": 1,
     "mods": [
       {
@@ -17015,6 +17058,13 @@
   {
     "item": "Rathpith Globe",
     "stats": "+# to level of socketed aoe gems, +# to level of socketed warcry gems",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "KJXDXEPI5",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -17034,6 +17084,13 @@
   {
     "item": "Rearguard",
     "stats": "#% of fire damage leeched as life, bow attacks fire an additional arrow",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "JVnJRBRIl",
+      "complexity": 30,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
