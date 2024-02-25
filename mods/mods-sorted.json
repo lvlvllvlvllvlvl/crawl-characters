@@ -16123,6 +16123,15 @@
   {
     "item": "Bisco's Collar",
     "stats": "#% increased quantity of items found",
+    "average": 35,
+    "prices": [
+      35
+    ],
+    "search": {
+      "id": "bXWa3OLTL",
+      "complexity": 18,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -16136,6 +16145,16 @@
   {
     "item": "Glimpse of Chaos",
     "stats": "#% increased quantity of items found",
+    "average": 6820.07,
+    "prices": [
+      6609.14,
+      7031
+    ],
+    "search": {
+      "id": "dXpy2R5IJ",
+      "complexity": 18,
+      "total": 2
+    },
     "builds": 1,
     "mods": [
       {
@@ -16149,6 +16168,18 @@
   {
     "item": "Severed in Sleep",
     "stats": "#% increased physical damage",
+    "average": 95.31,
+    "prices": [
+      50,
+      50,
+      140.62,
+      140.62
+    ],
+    "search": {
+      "id": "4d95MJZt9",
+      "complexity": 18,
+      "total": 4
+    },
     "builds": 1,
     "mods": [
       {
