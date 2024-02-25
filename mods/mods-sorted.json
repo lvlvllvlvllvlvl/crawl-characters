@@ -18026,6 +18026,13 @@
   {
     "item": "Triad Grip",
     "stats": "+# to level of socketed aura gems, #% increased maximum energy shield",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "waq7K2jcb",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -18045,6 +18052,24 @@
   {
     "item": "Legacy of Fury",
     "stats": "#% increased movement speed",
+    "average": 127.8785714285714,
+    "prices": [
+      95,
+      100,
+      140.03,
+      140.03,
+      140.03,
+      140.03,
+      140.03,
+      560.12,
+      700.15,
+      1400.3
+    ],
+    "search": {
+      "id": "6Gqvl6XuG",
+      "complexity": 18,
+      "total": 11
+    },
     "builds": 1,
     "mods": [
       {
@@ -18058,6 +18083,16 @@
   {
     "item": "Arakaali's Fang",
     "stats": "#% chance to gain a frenzy charge on kill",
+    "average": 350.07500000000005,
+    "prices": [
+      280.06,
+      420.09000000000003
+    ],
+    "search": {
+      "id": "oXjZ0EOsl",
+      "complexity": 18,
+      "total": 2
+    },
     "builds": 1,
     "mods": [
       {
@@ -18071,6 +18106,19 @@
   {
     "item": "Primordial Eminence",
     "stats": "corrupted blood cannot be inflicted on you",
+    "average": 1470.315,
+    "prices": [
+      980.21,
+      1400.3,
+      1400.3,
+      2100.45,
+      3500.75
+    ],
+    "search": {
+      "id": "80ZJ5VZcV",
+      "complexity": 18,
+      "total": 5
+    },
     "builds": 1,
     "mods": [
       {
@@ -18084,6 +18132,16 @@
   {
     "item": "Replica Kaom's Heart",
     "stats": "#% increased maximum energy shield",
+    "average": 3500.75,
+    "prices": [
+      3500.75,
+      null
+    ],
+    "search": {
+      "id": "LmyJk4GFn",
+      "complexity": 18,
+      "total": 2
+    },
     "builds": 1,
     "mods": [
       {
