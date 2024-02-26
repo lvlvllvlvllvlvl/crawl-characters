@@ -18322,6 +18322,15 @@
   {
     "item": "Perseverance",
     "stats": "+#% to critical strike multiplier during any flask effect, pride has #% increased aura effect",
+    "average": 100,
+    "prices": [
+      100
+    ],
+    "search": {
+      "id": "jXZK0QZTX",
+      "complexity": 29,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -18341,6 +18350,19 @@
   {
     "item": "Perseverance",
     "stats": "determination has #% increased aura effect",
+    "average": 50,
+    "prices": [
+      20,
+      50,
+      50,
+      286.04,
+      1001.1400000000001
+    ],
+    "search": {
+      "id": "8ae6mr8iV",
+      "complexity": 18,
+      "total": 5
+    },
     "builds": 1,
     "mods": [
       {
@@ -18354,6 +18376,13 @@
   {
     "item": "Astral Projector",
     "stats": "#% increased cast speed",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "dXb0bwoFJ",
+      "complexity": 18,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -18367,6 +18396,16 @@
   {
     "item": "Astral Projector",
     "stats": "hatred has #% increased aura effect",
+    "average": 4290.6,
+    "prices": [
+      1430.2,
+      7151.000000000001
+    ],
+    "search": {
+      "id": "BEXrk6Xt8",
+      "complexity": 18,
+      "total": 2
+    },
     "builds": 1,
     "mods": [
       {
@@ -18380,6 +18419,15 @@
   {
     "item": "The Vertex",
     "stats": "+# to level of socketed duration gems",
+    "average": 31,
+    "prices": [
+      31
+    ],
+    "search": {
+      "id": "Eyd2Obyt5",
+      "complexity": 18,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
