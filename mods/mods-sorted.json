@@ -12381,6 +12381,15 @@
   {
     "item": "The Supreme Truth",
     "stats": "#% increased cast speed",
+    "average": 852.42,
+    "prices": [
+      852.42
+    ],
+    "search": {
+      "id": "OVyp2G8TE",
+      "complexity": 18,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -12394,6 +12403,23 @@
   {
     "item": "Abyssus",
     "stats": "socketed skill gems get a #% cost & reservation multiplier",
+    "average": 2841.3999999999996,
+    "prices": [
+      2131.0499999999997,
+      2699.33,
+      2841.3999999999996,
+      2841.3999999999996,
+      2841.3999999999996,
+      2841.3999999999996,
+      4262.099999999999,
+      5682.799999999999,
+      7103.5
+    ],
+    "search": {
+      "id": "OVwqQKaTE",
+      "complexity": 18,
+      "total": 9
+    },
     "builds": 1,
     "mods": [
       {
@@ -12407,6 +12433,24 @@
   {
     "item": "Abyssus",
     "stats": "+# to maximum power charges",
+    "average": 245.86375,
+    "prices": [
+      120,
+      142.07,
+      142.07,
+      142.07,
+      284.14,
+      284.14,
+      426.21,
+      426.21,
+      710.3499999999999,
+      852.42
+    ],
+    "search": {
+      "id": "aqeEGJ7se",
+      "complexity": 18,
+      "total": 14
+    },
     "builds": 1,
     "mods": [
       {
@@ -12420,6 +12464,13 @@
   {
     "item": "Hands of the High Templar",
     "stats": "+# to level of socketed minion gems, +# to level of socketed aura gems, #% increased attack speed, +# to maximum frenzy charges, curse enemies with elemental weakness on hit",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "moero2Bi6",
+      "complexity": 23,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -12458,6 +12509,13 @@
   {
     "item": "Hands of the High Templar",
     "stats": "+# to level of socketed gems, +# to level of socketed aoe gems, #% increased maximum life, curse enemies with vulnerability on hit",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "waVjEXmfb",
+      "complexity": 21,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
