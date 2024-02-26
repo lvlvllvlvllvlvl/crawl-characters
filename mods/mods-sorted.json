@@ -13606,6 +13606,13 @@
   {
     "item": "Thread of Hope",
     "stats": "damage penetrates #% cold resistance, damage penetrates #% lightning resistance",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "vlEwbeWtE",
+      "complexity": 31,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -13627,6 +13634,13 @@
   {
     "item": "Thread of Hope",
     "stats": "#% increased damage, #% increased reservation efficiency of skills",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "MVBnn6qUJ",
+      "complexity": 30,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -13647,6 +13661,24 @@
   {
     "item": "The Magnate",
     "stats": "+#% to critical strike multiplier during any flask effect",
+    "average": 97.00399999999999,
+    "prices": [
+      40,
+      50,
+      50,
+      50,
+      75,
+      100,
+      180,
+      141.68,
+      141.68,
+      141.68
+    ],
+    "search": {
+      "id": "y9RWXZ8IR",
+      "complexity": 18,
+      "total": 13
+    },
     "builds": 1,
     "mods": [
       {
@@ -13660,6 +13692,21 @@
   {
     "item": "The Magnate",
     "stats": "hatred has #% increased aura effect",
+    "average": 100.00800000000001,
+    "prices": [
+      30,
+      45,
+      141.68,
+      141.68,
+      141.68,
+      425.04,
+      708.4000000000001
+    ],
+    "search": {
+      "id": "RVBg6k4I7",
+      "complexity": 18,
+      "total": 7
+    },
     "builds": 1,
     "mods": [
       {
@@ -13673,6 +13720,16 @@
   {
     "item": "The Magnate",
     "stats": "+#% to all elemental resistances",
+    "average": 2479.4,
+    "prices": [
+      141.68,
+      4817.12
+    ],
+    "search": {
+      "id": "mXjMRMeT6",
+      "complexity": 18,
+      "total": 2
+    },
     "builds": 1,
     "mods": [
       {
