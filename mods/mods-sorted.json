@@ -13047,6 +13047,24 @@
   {
     "item": "Watcher's Eye",
     "stats": "damage penetrates #% lightning resistance",
+    "average": 378.24999999999994,
+    "prices": [
+      60,
+      90,
+      90,
+      141.7,
+      283.4,
+      283.4,
+      425.09999999999997,
+      708.5,
+      850.1999999999999,
+      850.1999999999999
+    ],
+    "search": {
+      "id": "6ZbVbrXIG",
+      "complexity": 19,
+      "total": 15
+    },
     "builds": 1,
     "mods": [
       {
@@ -13061,6 +13079,24 @@
   {
     "item": "Watcher's Eye",
     "stats": "#% reduced effect of chill on you",
+    "average": 734.2444444444444,
+    "prices": [
+      90,
+      141.7,
+      708.5,
+      850.1999999999999,
+      850.1999999999999,
+      850.1999999999999,
+      850.1999999999999,
+      850.1999999999999,
+      1417,
+      8502
+    ],
+    "search": {
+      "id": "Zb5baJRTQ",
+      "complexity": 18,
+      "total": 11
+    },
     "builds": 1,
     "mods": [
       {
@@ -13074,6 +13110,24 @@
   {
     "item": "Watcher's Eye",
     "stats": "minions deal #% increased damage",
+    "average": 634.9375,
+    "prices": [
+      60,
+      60,
+      283.4,
+      708.5,
+      850.1999999999999,
+      850.1999999999999,
+      850.1999999999999,
+      1417,
+      2834,
+      8502
+    ],
+    "search": {
+      "id": "8a24E4qsV",
+      "complexity": 18,
+      "total": 11
+    },
     "builds": 1,
     "mods": [
       {
@@ -13087,6 +13141,13 @@
   {
     "item": "Watcher's Eye",
     "stats": "#% increased global critical strike chance, #% reduced poison duration on you",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "vlEXWkjHE",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -13106,6 +13167,13 @@
   {
     "item": "Replica Dreamfeather",
     "stats": "#% increased physical damage, #% increased attack speed",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "gqPOMrOFQ",
+      "complexity": 30,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
