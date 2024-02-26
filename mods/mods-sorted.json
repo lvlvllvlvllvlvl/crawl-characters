@@ -15757,6 +15757,24 @@
   {
     "item": "Crown of the Inward Eye",
     "stats": "regenerate #% of life per second",
+    "average": 293.23900000000003,
+    "prices": [
+      50,
+      50,
+      100,
+      143.81,
+      287.62,
+      431.43,
+      431.43,
+      431.43,
+      431.43,
+      575.24
+    ],
+    "search": {
+      "id": "qayp5XWsg",
+      "complexity": 18,
+      "total": 12
+    },
     "builds": 1,
     "mods": [
       {
@@ -15770,6 +15788,24 @@
   {
     "item": "Crown of the Inward Eye",
     "stats": "#% increased maximum life",
+    "average": 94.905,
+    "prices": [
+      20,
+      25,
+      30,
+      55,
+      100,
+      143.81,
+      143.81,
+      143.81,
+      143.81,
+      143.81
+    ],
+    "search": {
+      "id": "Bq9WJbXT8",
+      "complexity": 18,
+      "total": 14
+    },
     "builds": 1,
     "mods": [
       {
@@ -15783,6 +15819,24 @@
   {
     "item": "Viridi's Veil",
     "stats": "socketed skill gems get a #% cost & reservation multiplier",
+    "average": 2133.181666666667,
+    "prices": [
+      1438.1,
+      1438.1,
+      2013.3400000000001,
+      2157.15,
+      2876.2,
+      2876.2,
+      4314.3,
+      7190.5,
+      21571.5,
+      21571.5
+    ],
+    "search": {
+      "id": "9qlwZXQUK",
+      "complexity": 18,
+      "total": 11
+    },
     "builds": 1,
     "mods": [
       {
@@ -15796,6 +15850,22 @@
   {
     "item": "Viridi's Veil",
     "stats": "+# to level of socketed projectile gems",
+    "average": 177.77833333333334,
+    "prices": [
+      60,
+      143.81,
+      143.81,
+      143.81,
+      287.62,
+      287.62,
+      575.24,
+      1150.48
+    ],
+    "search": {
+      "id": "MVDlgq6UJ",
+      "complexity": 18,
+      "total": 8
+    },
     "builds": 1,
     "mods": [
       {
@@ -15809,6 +15879,13 @@
   {
     "item": "Queen of the Forest",
     "stats": "+# to level of socketed aura gems, +# to level of socketed curse gems",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "DLvDn72H5",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
