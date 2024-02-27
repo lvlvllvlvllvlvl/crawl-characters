@@ -10469,6 +10469,24 @@
   {
     "item": "Cold Iron Point",
     "stats": "#% increased global critical strike chance",
+    "average": 5,
+    "prices": [
+      3,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5
+    ],
+    "search": {
+      "id": "LeWqod2sn",
+      "complexity": 18,
+      "total": 149
+    },
     "builds": 1,
     "mods": [
       {
@@ -10482,6 +10500,24 @@
   {
     "item": "Cold Iron Point",
     "stats": "#% chance to gain unholy might for 3 seconds on kill",
+    "average": 90.75999999999999,
+    "prices": [
+      10,
+      30,
+      40,
+      40,
+      70,
+      143.52,
+      143.52,
+      143.52,
+      143.52,
+      143.52
+    ],
+    "search": {
+      "id": "9Y2wm70uK",
+      "complexity": 18,
+      "total": 12
+    },
     "builds": 1,
     "mods": [
       {
@@ -10495,6 +10531,24 @@
   {
     "item": "Cold Iron Point",
     "stats": "#% increased damage over time",
+    "average": 228.92800000000003,
+    "prices": [
+      143.52,
+      143.52,
+      143.52,
+      143.52,
+      280,
+      287.04,
+      287.04,
+      287.04,
+      287.04,
+      287.04
+    ],
+    "search": {
+      "id": "z273V4RI4",
+      "complexity": 18,
+      "total": 15
+    },
     "builds": 1,
     "mods": [
       {
@@ -10508,6 +10562,24 @@
   {
     "item": "Utula's Hunger",
     "stats": "#% increased maximum life",
+    "average": 311.89599999999996,
+    "prices": [
+      55,
+      60,
+      80,
+      143.52,
+      172.22400000000002,
+      287.04,
+      574.08,
+      717.6,
+      717.6,
+      1435.2
+    ],
+    "search": {
+      "id": "9YKk2wYFK",
+      "complexity": 18,
+      "total": 12
+    },
     "builds": 1,
     "mods": [
       {
@@ -10521,6 +10593,13 @@
   {
     "item": "Prismweave",
     "stats": "grace has #% increased aura effect, +#% to critical strike multiplier during any flask effect",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "ze5WBkgT4",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
