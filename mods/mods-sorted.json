@@ -5734,6 +5734,13 @@
   {
     "item": "Dialla's Malefaction",
     "stats": "+# to level of socketed curse gems, #% reduced lightning damage taken",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "LqXmRGlSn",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -5753,6 +5760,13 @@
   {
     "item": "Dialla's Malefaction",
     "stats": "+# to level of socketed gems, +# to level of socketed aura gems",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "3Brgqp5i5",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -5772,6 +5786,13 @@
   {
     "item": "Dialla's Malefaction",
     "stats": "+# to level of socketed duration gems, #% reduced fire damage taken",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "y9RQ9vgsR",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -5791,6 +5812,21 @@
   {
     "item": "Dialla's Malefaction",
     "stats": "+# to level of socketed warcry gems",
+    "average": 1108.3020000000001,
+    "prices": [
+      142.09,
+      284.18,
+      710.45,
+      1562.99,
+      2841.8,
+      6394.05,
+      11367.2
+    ],
+    "search": {
+      "id": "50mXpQdua",
+      "complexity": 18,
+      "total": 7
+    },
     "builds": 1,
     "mods": [
       {
@@ -5804,6 +5840,24 @@
   {
     "item": "Dialla's Malefaction",
     "stats": "+# to level of socketed aoe gems",
+    "average": 8212.802,
+    "prices": [
+      5541.51,
+      6820.32,
+      7104.5,
+      7104.5,
+      8241.22,
+      8525.4,
+      9235.85,
+      9662.12,
+      9946.300000000001,
+      9946.300000000001
+    ],
+    "search": {
+      "id": "KJDMJPDs5",
+      "complexity": 18,
+      "total": 22
+    },
     "builds": 1,
     "mods": [
       {
