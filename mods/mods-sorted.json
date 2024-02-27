@@ -7480,6 +7480,13 @@
   {
     "item": "Snakebite",
     "stats": "+# to maximum frenzy charges, curse enemies with despair on hit",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "3Bg95KJs5",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -7499,6 +7506,13 @@
   {
     "item": "Wilma's Requital",
     "stats": "socketed skill gems get a #% cost & reservation multiplier, #% of cold damage leeched as life",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "ewRoE46HL",
+      "complexity": 30,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -7519,6 +7533,24 @@
   {
     "item": "Kaom's Spirit",
     "stats": "+#% to spell critical strike chance",
+    "average": 117.83600000000001,
+    "prices": [
+      5,
+      25,
+      70,
+      70,
+      90,
+      100,
+      120,
+      130,
+      284.18,
+      284.18
+    ],
+    "search": {
+      "id": "qaylYl9ug",
+      "complexity": 18,
+      "total": 14
+    },
     "builds": 1,
     "mods": [
       {
@@ -7532,6 +7564,24 @@
   {
     "item": "Kaom's Spirit",
     "stats": "+# to level of socketed aoe gems",
+    "average": 442.0577777777778,
+    "prices": [
+      142.09,
+      142.09,
+      284.18,
+      426.27,
+      426.27,
+      426.27,
+      568.36,
+      710.45,
+      852.54,
+      1136.72
+    ],
+    "search": {
+      "id": "lPrYyEQUV",
+      "complexity": 18,
+      "total": 13
+    },
     "builds": 1,
     "mods": [
       {
@@ -7545,6 +7595,24 @@
   {
     "item": "Yoke of Suffering",
     "stats": "hatred has #% increased aura effect",
+    "average": 540.442,
+    "prices": [
+      5,
+      142.09,
+      142.09,
+      142.09,
+      142.09,
+      284.18,
+      710.45,
+      994.63,
+      1420.9,
+      1420.9
+    ],
+    "search": {
+      "id": "yrJvMDrsR",
+      "complexity": 18,
+      "total": 10
+    },
     "builds": 1,
     "mods": [
       {
