@@ -2,6 +2,24 @@
   {
     "item": "String of Servitude",
     "stats": "hatred has #% increased aura effect",
+    "average": 20.2,
+    "prices": [
+      4,
+      6,
+      10,
+      10,
+      17,
+      20,
+      25,
+      30,
+      40,
+      40
+    ],
+    "search": {
+      "id": "OpJoQXOSE",
+      "complexity": 18,
+      "total": 28
+    },
     "builds": 17,
     "mods": [
       {
@@ -15,6 +33,18 @@
   {
     "item": "Vaal Caress",
     "stats": "+# to level of socketed duration gems",
+    "average": 523.8566666666667,
+    "prices": [
+      142.87,
+      428.61,
+      1000.09,
+      3143.1400000000003
+    ],
+    "search": {
+      "id": "abo0zLRHe",
+      "complexity": 18,
+      "total": 4
+    },
     "builds": 16,
     "mods": [
       {
@@ -28,6 +58,22 @@
   {
     "item": "Matua Tupuna",
     "stats": "+# to level of socketed aura gems",
+    "average": 366.69666666666666,
+    "prices": [
+      142.87,
+      142.87,
+      200,
+      285.74,
+      714.35,
+      714.35,
+      4286.1,
+      28574
+    ],
+    "search": {
+      "id": "0PQlkZ8ig",
+      "complexity": 18,
+      "total": 8
+    },
     "builds": 15,
     "mods": [
       {
@@ -41,6 +87,24 @@
   {
     "item": "Southbound",
     "stats": "+#% to spell critical strike chance",
+    "average": 95.648,
+    "prices": [
+      25,
+      50,
+      50,
+      60,
+      60,
+      140,
+      142.87,
+      142.87,
+      142.87,
+      142.87
+    ],
+    "search": {
+      "id": "XkO2WqdSP",
+      "complexity": 18,
+      "total": 14
+    },
     "builds": 13,
     "mods": [
       {
@@ -54,6 +118,24 @@
   {
     "item": "Matua Tupuna",
     "stats": "+# to level of socketed aoe gems",
+    "average": 757.211,
+    "prices": [
+      285.74,
+      285.74,
+      285.74,
+      571.48,
+      571.48,
+      714.35,
+      857.22,
+      1142.96,
+      1428.7,
+      1428.7
+    ],
+    "search": {
+      "id": "2GbYYzYHk",
+      "complexity": 18,
+      "total": 17
+    },
     "builds": 12,
     "mods": [
       {
