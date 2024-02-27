@@ -1779,6 +1779,21 @@
   {
     "item": "Ancient Skull",
     "stats": "socketed skill gems get a #% cost & reservation multiplier",
+    "average": 1370.54,
+    "prices": [
+      708.9,
+      708.9,
+      708.9,
+      1417.8,
+      2126.7,
+      2552.04,
+      5387.64
+    ],
+    "search": {
+      "id": "9Y2Zr48UK",
+      "complexity": 18,
+      "total": 7
+    },
     "builds": 3,
     "mods": [
       {
@@ -1792,6 +1807,16 @@
   {
     "item": "Haemophilia",
     "stats": "curse enemies with vulnerability on hit",
+    "average": 425.34000000000003,
+    "prices": [
+      283.56,
+      567.12
+    ],
+    "search": {
+      "id": "W5XVezVsm",
+      "complexity": 18,
+      "total": 2
+    },
     "builds": 3,
     "mods": [
       {
@@ -1805,6 +1830,15 @@
   {
     "item": "Mageblood",
     "stats": "#% increased maximum life, grace has #% increased aura effect",
+    "average": 70890,
+    "prices": [
+      70890
+    ],
+    "search": {
+      "id": "pXvPpyvT0",
+      "complexity": 29,
+      "total": 1
+    },
     "builds": 2,
     "mods": [
       {
@@ -1824,6 +1858,13 @@
   {
     "item": "Mageblood",
     "stats": "#% increased maximum life, #% increased area of effect",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "kXjqdM3U5",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 2,
     "mods": [
       {
@@ -1843,6 +1884,13 @@
   {
     "item": "Asenath's Gentle Touch",
     "stats": "+# to level of socketed trap or mine gems, curse enemies with vulnerability on hit",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "mXgb3lrT6",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 2,
     "mods": [
       {
