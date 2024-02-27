@@ -10212,6 +10212,13 @@
   {
     "item": "Sin Trek",
     "stats": "+# to level of socketed aura gems, +# to maximum endurance charges",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "EyDeL0Yf5",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -10231,6 +10238,13 @@
   {
     "item": "Soul Mantle",
     "stats": "+# to level of socketed gems, +# to level of socketed projectile gems",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "0PQbWp7Ig",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -10250,6 +10264,16 @@
   {
     "item": "Anathema",
     "stats": "adds # to # lightning damage to spells and attacks",
+    "average": 143.52,
+    "prices": [
+      143.52,
+      143.52
+    ],
+    "search": {
+      "id": "0B8O6p8Fg",
+      "complexity": 18,
+      "total": 2
+    },
     "builds": 1,
     "mods": [
       {
@@ -10263,6 +10287,18 @@
   {
     "item": "Anathema",
     "stats": "#% increased strength, #% increased intelligence",
+    "average": 9221.16,
+    "prices": [
+      1722.2400000000002,
+      3588.0000000000005,
+      14352.000000000002,
+      17222.4
+    ],
+    "search": {
+      "id": "LmdED02in",
+      "complexity": 29,
+      "total": 4
+    },
     "builds": 1,
     "mods": [
       {
@@ -10282,6 +10318,13 @@
   {
     "item": "Anathema",
     "stats": "#% increased strength, #% increased dexterity, grace has #% increased aura effect",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "QVOrDlvfw",
+      "complexity": 20,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
