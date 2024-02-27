@@ -10350,6 +10350,18 @@
   {
     "item": "Anathema",
     "stats": "#% increased cast speed",
+    "average": 789.305,
+    "prices": [
+      717.55,
+      861.06,
+      3587.75,
+      14351
+    ],
+    "search": {
+      "id": "JYm7jvOIl",
+      "complexity": 18,
+      "total": 4
+    },
     "builds": 1,
     "mods": [
       {
@@ -10363,6 +10375,17 @@
   {
     "item": "Anathema",
     "stats": "#% increased attack speed",
+    "average": 717.55,
+    "prices": [
+      717.55,
+      717.55,
+      861.06
+    ],
+    "search": {
+      "id": "zeovLqLc4",
+      "complexity": 19,
+      "total": 3
+    },
     "builds": 1,
     "mods": [
       {
@@ -10377,6 +10400,15 @@
   {
     "item": "Anathema",
     "stats": "zealotry has #% increased aura effect",
+    "average": 2870.2,
+    "prices": [
+      2870.2
+    ],
+    "search": {
+      "id": "wpRMq0Bhb",
+      "complexity": 18,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -10390,6 +10422,13 @@
   {
     "item": "Anathema",
     "stats": "bleeding cannot be inflicted on you",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "rY5MGMECQ",
+      "complexity": 18,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -10403,6 +10442,20 @@
   {
     "item": "The Gull",
     "stats": "socketed skill gems get a #% cost & reservation multiplier",
+    "average": 172.861,
+    "prices": [
+      75,
+      143.51,
+      143.51,
+      215.265,
+      287.02,
+      574.04
+    ],
+    "search": {
+      "id": "y9EGvmgSR",
+      "complexity": 18,
+      "total": 6
+    },
     "builds": 1,
     "mods": [
       {
