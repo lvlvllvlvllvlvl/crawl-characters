@@ -3892,6 +3892,16 @@
   {
     "item": "Saffell's Frame",
     "stats": "#% of physical damage from hits taken as chaos damage",
+    "average": 3191.8500000000004,
+    "prices": [
+      2837.2000000000003,
+      3546.5000000000005
+    ],
+    "search": {
+      "id": "2BrBPO5hk",
+      "complexity": 18,
+      "total": 2
+    },
     "builds": 2,
     "mods": [
       {
@@ -3905,6 +3915,24 @@
   {
     "item": "Legacy of Fury",
     "stats": "+# to maximum endurance charges",
+    "average": 529.0422222222223,
+    "prices": [
+      80,
+      141.86,
+      141.86,
+      141.86,
+      283.72,
+      567.44,
+      567.44,
+      1418.6000000000001,
+      1418.6000000000001,
+      2127.9
+    ],
+    "search": {
+      "id": "0PQZ0g7Ig",
+      "complexity": 18,
+      "total": 11
+    },
     "builds": 2,
     "mods": [
       {
@@ -3918,6 +3946,13 @@
   {
     "item": "The Fledgling",
     "stats": "+# to maximum power charges",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "dXWYGdqFJ",
+      "complexity": 18,
+      "total": 0
+    },
     "builds": 2,
     "mods": [
       {
@@ -3931,6 +3966,24 @@
   {
     "item": "Pure Talent",
     "stats": "corrupted blood cannot be inflicted on you",
+    "average": 114.57333333333334,
+    "prices": [
+      60,
+      60,
+      141.86,
+      141.86,
+      141.86,
+      141.86,
+      425.58000000000004,
+      851.1600000000001,
+      1418.6000000000001,
+      14186.000000000002
+    ],
+    "search": {
+      "id": "8a2vlBMHV",
+      "complexity": 18,
+      "total": 12
+    },
     "builds": 2,
     "mods": [
       {
@@ -3944,6 +3997,15 @@
   {
     "item": "Mageblood",
     "stats": "#% increased dexterity, #% increased intelligence, malevolence has #% increased aura effect",
+    "average": 156512.32,
+    "prices": [
+      156512.32
+    ],
+    "search": {
+      "id": "MVZ379PFJ",
+      "complexity": 20,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
