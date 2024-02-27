@@ -8217,6 +8217,18 @@
   {
     "item": "Shadows and Dust",
     "stats": "#% increased attack speed",
+    "average": 524.52,
+    "prices": [
+      100,
+      142.72,
+      713.6,
+      1141.76
+    ],
+    "search": {
+      "id": "8aeDbjvFV",
+      "complexity": 19,
+      "total": 4
+    },
     "builds": 1,
     "mods": [
       {
@@ -8231,6 +8243,13 @@
   {
     "item": "Shadows and Dust",
     "stats": "curse enemies with elemental weakness on hit, attacks have +#% to critical strike chance",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "60QnQdqIG",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -8250,6 +8269,24 @@
   {
     "item": "Cloak of Flame",
     "stats": "+# to level of socketed gems",
+    "average": 40,
+    "prices": [
+      20,
+      30,
+      40,
+      40,
+      40,
+      40,
+      40,
+      40,
+      55,
+      60
+    ],
+    "search": {
+      "id": "3Gwb5LGh5",
+      "complexity": 18,
+      "total": 89
+    },
     "builds": 1,
     "mods": [
       {
@@ -8263,6 +8300,24 @@
   {
     "item": "Cloak of Flame",
     "stats": "+# to level of socketed trap or mine gems",
+    "average": 28.339999999999996,
+    "prices": [
+      8,
+      20,
+      20,
+      20,
+      20,
+      40.4,
+      30,
+      40,
+      40,
+      45
+    ],
+    "search": {
+      "id": "BEXWzq4T8",
+      "complexity": 18,
+      "total": 46
+    },
     "builds": 1,
     "mods": [
       {
@@ -8276,6 +8331,13 @@
   {
     "item": "Gifts from Above",
     "stats": "#% increased strength, #% increased dexterity, #% increased cast speed",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "QVYWQVjTw",
+      "complexity": 20,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
