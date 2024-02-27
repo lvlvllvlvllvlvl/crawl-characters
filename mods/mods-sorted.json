@@ -3225,6 +3225,13 @@
   {
     "item": "Victario's Influence",
     "stats": "+# to level of socketed aoe gems, +# to level of socketed curse gems",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "mXYK6eRf6",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 2,
     "mods": [
       {
@@ -3244,6 +3251,18 @@
   {
     "item": "Ceinture of Benevolence",
     "stats": "wrath has #% increased aura effect",
+    "average": 20,
+    "prices": [
+      15,
+      25,
+      284.22,
+      2273.76
+    ],
+    "search": {
+      "id": "ZbZrYrYHQ",
+      "complexity": 18,
+      "total": 4
+    },
     "builds": 2,
     "mods": [
       {
@@ -3257,6 +3276,17 @@
   {
     "item": "Ceinture of Benevolence",
     "stats": "discipline has #% increased aura effect",
+    "average": 131.40666666666667,
+    "prices": [
+      10,
+      100,
+      284.22
+    ],
+    "search": {
+      "id": "R24XldWi7",
+      "complexity": 18,
+      "total": 3
+    },
     "builds": 2,
     "mods": [
       {
@@ -3270,6 +3300,20 @@
   {
     "item": "Ceinture of Benevolence",
     "stats": "#% increased strength, #% increased intelligence",
+    "average": 171.11,
+    "prices": [
+      10,
+      50,
+      85,
+      284.22,
+      426.33000000000004,
+      1136.88
+    ],
+    "search": {
+      "id": "z27GVXRI4",
+      "complexity": 29,
+      "total": 6
+    },
     "builds": 2,
     "mods": [
       {
@@ -3289,6 +3333,20 @@
   {
     "item": "Prism Guardian",
     "stats": "#% of physical damage from hits taken as fire damage",
+    "average": 519.0516666666667,
+    "prices": [
+      30,
+      100,
+      142.11,
+      284.22,
+      1136.88,
+      1421.1000000000001
+    ],
+    "search": {
+      "id": "WVpJWBVfm",
+      "complexity": 18,
+      "total": 6
+    },
     "builds": 2,
     "mods": [
       {
