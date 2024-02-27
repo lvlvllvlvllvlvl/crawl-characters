@@ -2194,6 +2194,24 @@
   {
     "item": "Sentari's Answer",
     "stats": "#% of physical damage from hits taken as fire damage",
+    "average": 175.36714285714285,
+    "prices": [
+      60,
+      70,
+      100,
+      142.51,
+      285.02,
+      285.02,
+      285.02,
+      570.04,
+      1282.59,
+      1425.1
+    ],
+    "search": {
+      "id": "LeWraOlFn",
+      "complexity": 18,
+      "total": 12
+    },
     "builds": 2,
     "mods": [
       {
@@ -2207,6 +2225,24 @@
   {
     "item": "Shaper's Touch",
     "stats": "+# to level of socketed aura gems",
+    "average": 1723.4533333333331,
+    "prices": [
+      120,
+      142.51,
+      285.02,
+      285.02,
+      1425.1,
+      2137.6499999999996,
+      2850.2,
+      3990.2799999999997,
+      4275.299999999999,
+      11400.8
+    ],
+    "search": {
+      "id": "0PQ6vEghg",
+      "complexity": 18,
+      "total": 10
+    },
     "builds": 2,
     "mods": [
       {
@@ -2220,6 +2256,24 @@
   {
     "item": "String of Servitude",
     "stats": "+#% to all elemental resistances",
+    "average": 142.51,
+    "prices": [
+      80,
+      100,
+      142.51,
+      142.51,
+      142.51,
+      142.51,
+      142.51,
+      142.51,
+      142.51,
+      142.51
+    ],
+    "search": {
+      "id": "XqQ8n9eIP",
+      "complexity": 18,
+      "total": 15
+    },
     "builds": 2,
     "mods": [
       {
@@ -2233,6 +2287,24 @@
   {
     "item": "String of Servitude",
     "stats": "zealotry has #% increased aura effect",
+    "average": 89.72,
+    "prices": [
+      8,
+      10,
+      40,
+      142.51,
+      142.51,
+      142.51,
+      142.51,
+      285.02,
+      712.55,
+      855.06
+    ],
+    "search": {
+      "id": "qXjkkjlCg",
+      "complexity": 18,
+      "total": 14
+    },
     "builds": 2,
     "mods": [
       {
@@ -2246,6 +2318,24 @@
   {
     "item": "Dialla's Malefaction",
     "stats": "+# to level of socketed gems",
+    "average": 46850.1625,
+    "prices": [
+      21376.5,
+      21376.5,
+      28502,
+      39902.799999999996,
+      126158.696,
+      57004,
+      57004,
+      157698.37,
+      64129.49999999999,
+      85506
+    ],
+    "search": {
+      "id": "waPQeqdUb",
+      "complexity": 18,
+      "total": 10
+    },
     "builds": 2,
     "mods": [
       {
@@ -2259,6 +2349,13 @@
   {
     "item": "Dialla's Malefaction",
     "stats": "+# to level of socketed gems, +#% to all maximum resistances",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "Ey6M5KKC5",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 2,
     "mods": [
       {
