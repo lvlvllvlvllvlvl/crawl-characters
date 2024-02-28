@@ -16824,6 +16824,15 @@
   {
     "item": "Flamesight",
     "stats": "+# to maximum power charges",
+    "average": 2158.9500000000003,
+    "prices": [
+      2158.9500000000003
+    ],
+    "search": {
+      "id": "jX4GnbkSX",
+      "complexity": 18,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -16837,6 +16846,24 @@
   {
     "item": "Rat's Nest",
     "stats": "socketed skill gems get a #% cost & reservation multiplier",
+    "average": 768.9216,
+    "prices": [
+      100,
+      100,
+      120,
+      143.93,
+      431.79,
+      431.79,
+      1439.3000000000002,
+      1439.3000000000002,
+      1439.3000000000002,
+      2043.806
+    ],
+    "search": {
+      "id": "6ZDz0ZkcG",
+      "complexity": 18,
+      "total": 10
+    },
     "builds": 1,
     "mods": [
       {
@@ -16850,6 +16877,17 @@
   {
     "item": "Aurseize",
     "stats": "curse enemies with elemental weakness on hit",
+    "average": 65,
+    "prices": [
+      40,
+      90,
+      3598.25
+    ],
+    "search": {
+      "id": "waPLQLRSb",
+      "complexity": 18,
+      "total": 3
+    },
     "builds": 1,
     "mods": [
       {
@@ -16863,6 +16901,20 @@
   {
     "item": "Leer Cast",
     "stats": "+# to maximum power charges",
+    "average": 97.572,
+    "prices": [
+      30,
+      80,
+      90,
+      143.93,
+      143.93,
+      2158.9500000000003
+    ],
+    "search": {
+      "id": "Xqb5zPKFP",
+      "complexity": 18,
+      "total": 6
+    },
     "builds": 1,
     "mods": [
       {
@@ -16876,6 +16928,21 @@
   {
     "item": "Saffell's Frame",
     "stats": "#% of physical damage from hits taken as cold damage",
+    "average": 386.83000000000004,
+    "prices": [
+      2,
+      50,
+      50,
+      59,
+      100,
+      1151.44,
+      1295.3700000000001
+    ],
+    "search": {
+      "id": "LmdmLM7tn",
+      "complexity": 18,
+      "total": 7
+    },
     "builds": 1,
     "mods": [
       {
