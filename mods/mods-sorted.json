@@ -2,6 +2,24 @@
   {
     "item": "String of Servitude",
     "stats": "hatred has #% increased aura effect",
+    "average": 24.5,
+    "prices": [
+      5,
+      5,
+      5,
+      10,
+      20,
+      30,
+      40,
+      40,
+      40,
+      50
+    ],
+    "search": {
+      "id": "OpJoQXOSE",
+      "complexity": 18,
+      "total": 25
+    },
     "builds": 17,
     "mods": [
       {
@@ -15,6 +33,19 @@
   {
     "item": "Vaal Caress",
     "stats": "+# to level of socketed duration gems",
+    "average": 829.265,
+    "prices": [
+      288.44,
+      721.1,
+      865.3199999999999,
+      1442.2,
+      3172.84
+    ],
+    "search": {
+      "id": "abo0zLRHe",
+      "complexity": 18,
+      "total": 5
+    },
     "builds": 16,
     "mods": [
       {
@@ -28,6 +59,24 @@
   {
     "item": "Matua Tupuna",
     "stats": "+# to level of socketed aura gems",
+    "average": 289.48857142857145,
+    "prices": [
+      90,
+      150,
+      200,
+      288.44,
+      288.44,
+      432.65999999999997,
+      576.88,
+      1442.2,
+      2884.4,
+      9951.18
+    ],
+    "search": {
+      "id": "0PQlkZ8ig",
+      "complexity": 18,
+      "total": 11
+    },
     "builds": 15,
     "mods": [
       {
@@ -41,6 +90,24 @@
   {
     "item": "Southbound",
     "stats": "+#% to spell critical strike chance",
+    "average": 844.3822222222223,
+    "prices": [
+      50,
+      50,
+      144.22,
+      288.44,
+      576.88,
+      721.1,
+      1442.2,
+      2163.3,
+      2163.3,
+      5047.7
+    ],
+    "search": {
+      "id": "XkO2WqdSP",
+      "complexity": 18,
+      "total": 11
+    },
     "builds": 13,
     "mods": [
       {
@@ -54,6 +121,24 @@
   {
     "item": "Matua Tupuna",
     "stats": "+# to level of socketed aoe gems",
+    "average": 304.662,
+    "prices": [
+      18,
+      144.22,
+      144.22,
+      144.22,
+      288.44,
+      288.44,
+      288.44,
+      288.44,
+      721.1,
+      721.1
+    ],
+    "search": {
+      "id": "2GbYYzYHk",
+      "complexity": 18,
+      "total": 22
+    },
     "builds": 12,
     "mods": [
       {
