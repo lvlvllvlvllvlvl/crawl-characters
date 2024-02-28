@@ -17608,6 +17608,19 @@
   {
     "item": "Chains of Command",
     "stats": "+#% to all maximum resistances",
+    "average": 432.15000000000003,
+    "prices": [
+      288.1,
+      288.1,
+      576.2,
+      576.2,
+      1440.5
+    ],
+    "search": {
+      "id": "nXqyZm2C0",
+      "complexity": 18,
+      "total": 5
+    },
     "builds": 1,
     "mods": [
       {
@@ -17621,6 +17634,16 @@
   {
     "item": "Leash of Oblation",
     "stats": "discipline has #% increased aura effect",
+    "average": 288.1,
+    "prices": [
+      144.05,
+      432.15000000000003
+    ],
+    "search": {
+      "id": "kXJQ05WI5",
+      "complexity": 18,
+      "total": 2
+    },
     "builds": 1,
     "mods": [
       {
@@ -17634,6 +17657,13 @@
   {
     "item": "Triad Grip",
     "stats": "+# to level of socketed aura gems, #% increased maximum energy shield",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "waq7K2jcb",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -17653,6 +17683,20 @@
   {
     "item": "Legacy of Fury",
     "stats": "#% increased movement speed",
+    "average": 936.3249999999999,
+    "prices": [
+      144.05,
+      432.15000000000003,
+      720.25,
+      1440.5,
+      1440.5,
+      1440.5
+    ],
+    "search": {
+      "id": "6Gqvl6XuG",
+      "complexity": 18,
+      "total": 6
+    },
     "builds": 1,
     "mods": [
       {
@@ -17666,6 +17710,16 @@
   {
     "item": "Arakaali's Fang",
     "stats": "#% chance to gain a frenzy charge on kill",
+    "average": 648.225,
+    "prices": [
+      144.05,
+      1152.4
+    ],
+    "search": {
+      "id": "oXjZ0EOsl",
+      "complexity": 18,
+      "total": 2
+    },
     "builds": 1,
     "mods": [
       {
