@@ -3451,6 +3451,24 @@
   {
     "item": "Ancestral Vision",
     "stats": "#% reduced effect of curses on you",
+    "average": 110.245,
+    "prices": [
+      35,
+      50,
+      70,
+      100,
+      120,
+      145.49,
+      145.49,
+      145.49,
+      145.49,
+      145.49
+    ],
+    "search": {
+      "id": "DL8ypadf5",
+      "complexity": 18,
+      "total": 20
+    },
     "builds": 2,
     "mods": [
       {
@@ -3464,6 +3482,24 @@
   {
     "item": "Doomfletch",
     "stats": "#% increased elemental damage with attack skills",
+    "average": 4.428571428571429,
+    "prices": [
+      1,
+      4,
+      4,
+      4,
+      4,
+      5,
+      5,
+      5,
+      15,
+      15
+    ],
+    "search": {
+      "id": "Eyd2PQKc5",
+      "complexity": 18,
+      "total": 63
+    },
     "builds": 2,
     "mods": [
       {
@@ -3477,6 +3513,24 @@
   {
     "item": "Darkray Vectors",
     "stats": "+# to level of socketed gems",
+    "average": 223.488,
+    "prices": [
+      19,
+      50,
+      145.49,
+      145.49,
+      145.49,
+      145.49,
+      290.98,
+      420,
+      436.47,
+      436.47
+    ],
+    "search": {
+      "id": "3BrQzW5s5",
+      "complexity": 18,
+      "total": 19
+    },
     "builds": 2,
     "mods": [
       {
@@ -3490,6 +3544,19 @@
   {
     "item": "Primordial Harmony",
     "stats": "#% increased reservation efficiency of skills",
+    "average": 654.705,
+    "prices": [
+      581.96,
+      581.96,
+      727.45,
+      727.45,
+      1454.9
+    ],
+    "search": {
+      "id": "vlP9nqJuE",
+      "complexity": 19,
+      "total": 5
+    },
     "builds": 2,
     "mods": [
       {
@@ -3504,6 +3571,21 @@
   {
     "item": "Inspired Learning",
     "stats": "#% reduced effect of shock on you",
+    "average": 37,
+    "prices": [
+      20,
+      30,
+      35,
+      40,
+      40,
+      40,
+      60
+    ],
+    "search": {
+      "id": "lPrZWRnFV",
+      "complexity": 18,
+      "total": 7
+    },
     "builds": 2,
     "mods": [
       {
