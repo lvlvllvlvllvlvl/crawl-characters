@@ -15872,6 +15872,17 @@
   {
     "item": "Glimpse of Chaos",
     "stats": "#% increased quantity of items found",
+    "average": 79948,
+    "prices": [
+      72680,
+      87216.00000000001,
+      483461.49
+    ],
+    "search": {
+      "id": "dXpy2R5IJ",
+      "complexity": 18,
+      "total": 3
+    },
     "builds": 1,
     "mods": [
       {
@@ -15885,6 +15896,16 @@
   {
     "item": "Severed in Sleep",
     "stats": "#% increased physical damage",
+    "average": 22.5,
+    "prices": [
+      20,
+      25
+    ],
+    "search": {
+      "id": "4d95MJZt9",
+      "complexity": 18,
+      "total": 2
+    },
     "builds": 1,
     "mods": [
       {
@@ -15898,6 +15919,21 @@
   {
     "item": "Severed in Sleep",
     "stats": "#% increased area of effect",
+    "average": 138.1657142857143,
+    "prices": [
+      40,
+      55,
+      145.36,
+      145.36,
+      145.36,
+      218.04000000000002,
+      218.04000000000002
+    ],
+    "search": {
+      "id": "oZ8W3yqhl",
+      "complexity": 18,
+      "total": 7
+    },
     "builds": 1,
     "mods": [
       {
@@ -15911,6 +15947,16 @@
   {
     "item": "Severed in Sleep",
     "stats": "#% increased attack speed",
+    "average": 82.68,
+    "prices": [
+      20,
+      145.36
+    ],
+    "search": {
+      "id": "y9R7VBlSR",
+      "complexity": 19,
+      "total": 2
+    },
     "builds": 1,
     "mods": [
       {
@@ -15925,6 +15971,13 @@
   {
     "item": "Umbilicus Immortalis",
     "stats": "#% increased strength, #% increased dexterity, +#% to all elemental resistances",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "GkJ5moZcb",
+      "complexity": 20,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
