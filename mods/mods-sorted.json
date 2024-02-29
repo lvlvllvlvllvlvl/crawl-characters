@@ -16643,6 +16643,13 @@
   {
     "item": "The Jinxed Juju",
     "stats": "#% increased dexterity, #% increased intelligence, wrath has #% increased aura effect",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "paPKOy5s0",
+      "complexity": 20,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -16668,6 +16675,17 @@
   {
     "item": "The Jinxed Juju",
     "stats": "hatred has #% increased aura effect",
+    "average": 824.4433333333333,
+    "prices": [
+      145.49,
+      872.94,
+      1454.9
+    ],
+    "search": {
+      "id": "bXW5pJOTL",
+      "complexity": 18,
+      "total": 3
+    },
     "builds": 1,
     "mods": [
       {
@@ -16681,6 +16699,15 @@
   {
     "item": "Memory Vault",
     "stats": "+# to maximum power charges",
+    "average": 3637.25,
+    "prices": [
+      3637.25
+    ],
+    "search": {
+      "id": "YVdGlWbFY",
+      "complexity": 18,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -16694,6 +16721,16 @@
   {
     "item": "Memory Vault",
     "stats": "+# to level of socketed projectile gems",
+    "average": 75,
+    "prices": [
+      30,
+      120
+    ],
+    "search": {
+      "id": "VM6vDGdFp",
+      "complexity": 18,
+      "total": 2
+    },
     "builds": 1,
     "mods": [
       {
@@ -16707,6 +16744,24 @@
   {
     "item": "Rathpith Globe",
     "stats": "#% increased maximum life",
+    "average": 709.2637500000001,
+    "prices": [
+      30,
+      436.47,
+      436.47,
+      581.96,
+      581.96,
+      727.45,
+      727.45,
+      1018.4300000000001,
+      1163.92,
+      1891.3700000000001
+    ],
+    "search": {
+      "id": "PK7amZvTL",
+      "complexity": 18,
+      "total": 14
+    },
     "builds": 1,
     "mods": [
       {
