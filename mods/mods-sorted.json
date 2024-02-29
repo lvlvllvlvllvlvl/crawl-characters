@@ -12233,6 +12233,17 @@
   {
     "item": "The Supreme Truth",
     "stats": "#% increased cast speed",
+    "average": 870.06,
+    "prices": [
+      290.02,
+      870.06,
+      870.06
+    ],
+    "search": {
+      "id": "OVyp2G8TE",
+      "complexity": 18,
+      "total": 3
+    },
     "builds": 1,
     "mods": [
       {
@@ -12246,6 +12257,24 @@
   {
     "item": "Abyssus",
     "stats": "socketed skill gems get a #% cost & reservation multiplier",
+    "average": 1657.2571428571425,
+    "prices": [
+      1160.08,
+      1450.1,
+      1450.1,
+      1450.1,
+      1740.12,
+      2175.1499999999996,
+      2175.1499999999996,
+      3625.25,
+      5075.349999999999,
+      50753.5
+    ],
+    "search": {
+      "id": "OVwqQKaTE",
+      "complexity": 18,
+      "total": 10
+    },
     "builds": 1,
     "mods": [
       {
@@ -12259,6 +12288,22 @@
   {
     "item": "Abyssus",
     "stats": "+# to maximum power charges",
+    "average": 558.9538333333334,
+    "prices": [
+      120,
+      145.01,
+      145.01,
+      435.03,
+      1116.577,
+      1392.0959999999998,
+      2175.1499999999996,
+      7250.5
+    ],
+    "search": {
+      "id": "aqeEGJ7se",
+      "complexity": 18,
+      "total": 8
+    },
     "builds": 1,
     "mods": [
       {
@@ -12272,6 +12317,13 @@
   {
     "item": "Hands of the High Templar",
     "stats": "+# to level of socketed minion gems, +# to level of socketed aura gems, #% increased attack speed, +# to maximum frenzy charges, curse enemies with elemental weakness on hit",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "moero2Bi6",
+      "complexity": 23,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -12310,6 +12362,13 @@
   {
     "item": "Hands of the High Templar",
     "stats": "+# to level of socketed gems, +# to level of socketed aoe gems, #% increased maximum life, curse enemies with vulnerability on hit",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "waVjEXmfb",
+      "complexity": 21,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
