@@ -16003,6 +16003,15 @@
   {
     "item": "Umbilicus Immortalis",
     "stats": "#% increased maximum energy shield",
+    "average": 1,
+    "prices": [
+      1
+    ],
+    "search": {
+      "id": "MVZbYLGUJ",
+      "complexity": 18,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -16016,6 +16025,16 @@
   {
     "item": "Umbilicus Immortalis",
     "stats": "#% increased strength, #% increased intelligence",
+    "average": 50,
+    "prices": [
+      40,
+      60
+    ],
+    "search": {
+      "id": "MV5YWYMsJ",
+      "complexity": 29,
+      "total": 2
+    },
     "builds": 1,
     "mods": [
       {
@@ -16035,6 +16054,19 @@
   {
     "item": "Null and Void",
     "stats": "+# to level of socketed aura gems",
+    "average": 415.60800000000006,
+    "prices": [
+      5,
+      38,
+      581.44,
+      726.8000000000001,
+      726.8000000000001
+    ],
+    "search": {
+      "id": "JqXqnPWhl",
+      "complexity": 18,
+      "total": 5
+    },
     "builds": 1,
     "mods": [
       {
@@ -16048,6 +16080,23 @@
   {
     "item": "Null and Void",
     "stats": "curse enemies with vulnerability on hit",
+    "average": 321.0177777777778,
+    "prices": [
+      20,
+      30,
+      60,
+      90,
+      145.36,
+      436.08000000000004,
+      508.76000000000005,
+      726.8000000000001,
+      872.1600000000001
+    ],
+    "search": {
+      "id": "BEDbEmKu8",
+      "complexity": 18,
+      "total": 9
+    },
     "builds": 1,
     "mods": [
       {
@@ -16061,6 +16110,24 @@
   {
     "item": "Null and Void",
     "stats": "+# to maximum frenzy charges",
+    "average": 539.796,
+    "prices": [
+      10,
+      25,
+      25,
+      40,
+      65,
+      726.8000000000001,
+      726.8000000000001,
+      872.1600000000001,
+      1453.6000000000001,
+      1453.6000000000001
+    ],
+    "search": {
+      "id": "PdaZZ9GhL",
+      "complexity": 18,
+      "total": 12
+    },
     "builds": 1,
     "mods": [
       {
