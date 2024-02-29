@@ -15611,6 +15611,18 @@
   {
     "item": "Crown of the Inward Eye",
     "stats": "regenerate #% of life per second",
+    "average": 303.24,
+    "prices": [
+      50,
+      290.74,
+      436.11,
+      436.11
+    ],
+    "search": {
+      "id": "qayp5XWsg",
+      "complexity": 18,
+      "total": 4
+    },
     "builds": 1,
     "mods": [
       {
@@ -15624,6 +15636,23 @@
   {
     "item": "Crown of the Inward Eye",
     "stats": "#% increased maximum life",
+    "average": 1228.72375,
+    "prices": [
+      90,
+      145.37,
+      145.37,
+      145.37,
+      145.37,
+      1453.7,
+      3634.25,
+      4070.36,
+      14537
+    ],
+    "search": {
+      "id": "Bq9WJbXT8",
+      "complexity": 18,
+      "total": 9
+    },
     "builds": 1,
     "mods": [
       {
@@ -15637,6 +15666,19 @@
   {
     "item": "Viridi's Veil",
     "stats": "socketed skill gems get a #% cost & reservation multiplier",
+    "average": 2762.03,
+    "prices": [
+      726.85,
+      2762.03,
+      2907.4,
+      4651.84,
+      14537
+    ],
+    "search": {
+      "id": "9qlwZXQUK",
+      "complexity": 18,
+      "total": 5
+    },
     "builds": 1,
     "mods": [
       {
@@ -15650,6 +15692,22 @@
   {
     "item": "Viridi's Veil",
     "stats": "+# to level of socketed projectile gems",
+    "average": 145.37,
+    "prices": [
+      80,
+      110,
+      145.37,
+      145.37,
+      145.37,
+      145.37,
+      436.11,
+      581.48
+    ],
+    "search": {
+      "id": "MVDlgq6UJ",
+      "complexity": 18,
+      "total": 8
+    },
     "builds": 1,
     "mods": [
       {
@@ -15663,6 +15721,13 @@
   {
     "item": "Queen of the Forest",
     "stats": "+# to level of socketed aura gems, +# to level of socketed curse gems",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "DLvDn72H5",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
