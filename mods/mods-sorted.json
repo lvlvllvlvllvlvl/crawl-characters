@@ -13616,6 +13616,24 @@
   {
     "item": "Voidforge",
     "stats": "#% increased elemental damage with attack skills",
+    "average": 15791.232,
+    "prices": [
+      13062.599999999999,
+      13788.3,
+      14513.999999999998,
+      14513.999999999998,
+      14513.999999999998,
+      15239.699999999999,
+      17126.519999999997,
+      17416.8,
+      18868.199999999997,
+      18868.199999999997
+    ],
+    "search": {
+      "id": "rXmE2XmfQ",
+      "complexity": 18,
+      "total": 17
+    },
     "builds": 1,
     "mods": [
       {
@@ -13629,6 +13647,13 @@
   {
     "item": "Primordial Harmony",
     "stats": "#% reduced ignite duration on you, #% increased reservation efficiency of skills",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "oX4VYegcl",
+      "complexity": 30,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -13649,6 +13674,18 @@
   {
     "item": "The Anima Stone",
     "stats": "corrupted blood cannot be inflicted on you",
+    "average": 3882.495,
+    "prices": [
+      290.28,
+      1451.3999999999999,
+      5079.9,
+      8708.4
+    ],
+    "search": {
+      "id": "K9gPvrPT5",
+      "complexity": 18,
+      "total": 4
+    },
     "builds": 1,
     "mods": [
       {
@@ -13662,6 +13699,24 @@
   {
     "item": "Inspired Learning",
     "stats": "#% reduced effect of curses on you",
+    "average": 38,
+    "prices": [
+      24,
+      25,
+      30,
+      33,
+      40,
+      40,
+      50,
+      50,
+      50,
+      145.14
+    ],
+    "search": {
+      "id": "LmdejwjHn",
+      "complexity": 18,
+      "total": 13
+    },
     "builds": 1,
     "mods": [
       {
@@ -13675,6 +13730,17 @@
   {
     "item": "Inspired Learning",
     "stats": "damage penetrates #% cold resistance",
+    "average": 145.14,
+    "prices": [
+      19,
+      145.14,
+      145.14
+    ],
+    "search": {
+      "id": "KJdeLGqs5",
+      "complexity": 19,
+      "total": 3
+    },
     "builds": 1,
     "mods": [
       {
