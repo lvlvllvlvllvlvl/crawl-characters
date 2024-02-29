@@ -9787,6 +9787,17 @@
   {
     "item": "Incandescent Heart",
     "stats": "#% reduced lightning damage taken",
+    "average": 724.6500000000001,
+    "prices": [
+      80,
+      724.6500000000001,
+      724.6500000000001
+    ],
+    "search": {
+      "id": "eXVr4oYhL",
+      "complexity": 18,
+      "total": 3
+    },
     "builds": 1,
     "mods": [
       {
@@ -9800,6 +9811,24 @@
   {
     "item": "Incandescent Heart",
     "stats": "+# to level of socketed duration gems",
+    "average": 3850.6450000000004,
+    "prices": [
+      100,
+      1449.3000000000002,
+      1884.0900000000001,
+      2463.81,
+      2898.6000000000004,
+      3623.25,
+      3623.25,
+      7246.5,
+      7246.5,
+      7971.150000000001
+    ],
+    "search": {
+      "id": "OpJM878uE",
+      "complexity": 18,
+      "total": 11
+    },
     "builds": 1,
     "mods": [
       {
@@ -9813,6 +9842,13 @@
   {
     "item": "Warrior's Tale",
     "stats": "#% increased reservation efficiency of skills, you cannot be hindered",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "nXjQQJJf0",
+      "complexity": 30,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -9833,6 +9869,13 @@
   {
     "item": "Warrior's Tale",
     "stats": "#% reduced ignite duration on you, you cannot be cursed with silence",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "BEQQX3kF8",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -9852,6 +9895,13 @@
   {
     "item": "Warrior's Tale",
     "stats": "damage penetrates #% fire resistance",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "wagX6rmsb",
+      "complexity": 19,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
