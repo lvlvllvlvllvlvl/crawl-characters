@@ -12101,6 +12101,24 @@
   {
     "item": "Oskarm",
     "stats": "attacks have +#% to critical strike chance",
+    "average": 425.65625,
+    "prices": [
+      100,
+      144.75,
+      144.75,
+      555,
+      434.25,
+      579,
+      723.75,
+      723.75,
+      7237.5,
+      7816.5
+    ],
+    "search": {
+      "id": "rXpPWX7CQ",
+      "complexity": 18,
+      "total": 10
+    },
     "builds": 1,
     "mods": [
       {
@@ -12114,6 +12132,13 @@
   {
     "item": "Oskarm",
     "stats": "curse enemies with vulnerability on hit, attacks have +#% to critical strike chance",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "qX42qr3Cg",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -12133,6 +12158,13 @@
   {
     "item": "Oskarm",
     "stats": "+# to level of socketed trap or mine gems, curse enemies with vulnerability on hit",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "WVrvPVDum",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -12152,6 +12184,17 @@
   {
     "item": "The Supreme Truth",
     "stats": "adds # to # lightning damage",
+    "average": 76.58333333333333,
+    "prices": [
+      35,
+      50,
+      144.75
+    ],
+    "search": {
+      "id": "EybrLryC5",
+      "complexity": 19,
+      "total": 3
+    },
     "builds": 1,
     "mods": [
       {
@@ -12166,6 +12209,16 @@
   {
     "item": "The Supreme Truth",
     "stats": "adds # to # fire damage",
+    "average": 50,
+    "prices": [
+      50,
+      50
+    ],
+    "search": {
+      "id": "EyRdbkYT5",
+      "complexity": 19,
+      "total": 2
+    },
     "builds": 1,
     "mods": [
       {
