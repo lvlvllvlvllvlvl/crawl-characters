@@ -5213,6 +5213,13 @@
   {
     "item": "Goldwyrm",
     "stats": "+# to level of socketed gems, +# to level of socketed minion gems",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "R3624VqI7",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -5232,6 +5239,24 @@
   {
     "item": "Goldwyrm",
     "stats": "grants level # haste skill",
+    "average": 48.2,
+    "prices": [
+      10,
+      20,
+      20,
+      20,
+      30,
+      30,
+      30,
+      100,
+      111,
+      111
+    ],
+    "search": {
+      "id": "3BYY9LJi5",
+      "complexity": 18,
+      "total": 16
+    },
     "builds": 1,
     "mods": [
       {
@@ -5245,6 +5270,23 @@
   {
     "item": "Sentari's Answer",
     "stats": "#% increased maximum life",
+    "average": 661.69375,
+    "prices": [
+      145.53,
+      145.53,
+      200,
+      436.59000000000003,
+      727.65,
+      873.1800000000001,
+      1309.77,
+      1455.3,
+      10914.75
+    ],
+    "search": {
+      "id": "mXYGO9aC6",
+      "complexity": 18,
+      "total": 9
+    },
     "builds": 1,
     "mods": [
       {
@@ -5258,6 +5300,21 @@
   {
     "item": "Sentari's Answer",
     "stats": "#% of physical damage from hits taken as chaos damage",
+    "average": 567.8649999999999,
+    "prices": [
+      60,
+      145.53,
+      145.53,
+      145.53,
+      1455.3,
+      1455.3,
+      8586.27
+    ],
+    "search": {
+      "id": "7lozQ2lH5",
+      "complexity": 18,
+      "total": 7
+    },
     "builds": 1,
     "mods": [
       {
@@ -5271,6 +5328,24 @@
   {
     "item": "Sentari's Answer",
     "stats": "you take #% reduced extra damage from critical strikes",
+    "average": 319.81,
+    "prices": [
+      50,
+      60,
+      120,
+      145.53,
+      291.06,
+      436.59000000000003,
+      727.65,
+      727.65,
+      1164.24,
+      1455.3
+    ],
+    "search": {
+      "id": "8adzGlqCV",
+      "complexity": 18,
+      "total": 19
+    },
     "builds": 1,
     "mods": [
       {
