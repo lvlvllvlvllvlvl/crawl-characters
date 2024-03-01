@@ -18902,6 +18902,13 @@
   {
     "item": "Tainted Pact",
     "stats": "+#% to all maximum resistances, grace has #% increased aura effect",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "qYRbO5Xhg",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -18921,6 +18928,13 @@
   {
     "item": "The Primordial Chain",
     "stats": "+#% to all elemental resistances, #% increased elemental damage with attack skills",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "eMW22QWcL",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -18940,6 +18954,16 @@
   {
     "item": "The Primordial Chain",
     "stats": "#% of lightning damage leeched as life",
+    "average": 65,
+    "prices": [
+      50,
+      80
+    ],
+    "search": {
+      "id": "9Yvg7JmTK",
+      "complexity": 19,
+      "total": 2
+    },
     "builds": 1,
     "mods": [
       {
@@ -18954,6 +18978,17 @@
   {
     "item": "Replica Dragonfang's Flight",
     "stats": "you can apply an additional curse",
+    "average": 1454.1999999999998,
+    "prices": [
+      872.52,
+      1454.1999999999998,
+      1454.1999999999998
+    ],
+    "search": {
+      "id": "no9rlYyH0",
+      "complexity": 18,
+      "total": 3
+    },
     "builds": 1,
     "mods": [
       {
@@ -18967,6 +19002,16 @@
   {
     "item": "One With Nothing",
     "stats": "corrupted blood cannot be inflicted on you",
+    "average": 1454.1999999999998,
+    "prices": [
+      1454.1999999999998,
+      1454.1999999999998
+    ],
+    "search": {
+      "id": "lXjMz8wFV",
+      "complexity": 18,
+      "total": 2
+    },
     "builds": 1,
     "mods": [
       {
