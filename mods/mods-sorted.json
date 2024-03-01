@@ -7952,6 +7952,17 @@
   {
     "item": "Greed's Embrace",
     "stats": "+# to level of socketed duration gems, +#% to all maximum resistances",
+    "average": 11549.34666666667,
+    "prices": [
+      2620.44,
+      14558.000000000002,
+      17469.600000000002
+    ],
+    "search": {
+      "id": "gqY98v5iQ",
+      "complexity": 29,
+      "total": 3
+    },
     "builds": 1,
     "mods": [
       {
@@ -7971,6 +7982,16 @@
   {
     "item": "Greed's Embrace",
     "stats": "+# to level of socketed aoe gems, #% reduced lightning damage taken",
+    "average": 17105.65,
+    "prices": [
+      13102.2,
+      21109.100000000002
+    ],
+    "search": {
+      "id": "jXJd8wdHX",
+      "complexity": 29,
+      "total": 2
+    },
     "builds": 1,
     "mods": [
       {
@@ -7990,6 +8011,24 @@
   {
     "item": "Greed's Embrace",
     "stats": "#% reduced fire damage taken",
+    "average": 54.168000000000006,
+    "prices": [
+      10,
+      14,
+      20,
+      20,
+      20,
+      20,
+      50,
+      122.10000000000001,
+      120,
+      145.58
+    ],
+    "search": {
+      "id": "VMg46mgfp",
+      "complexity": 18,
+      "total": 35
+    },
     "builds": 1,
     "mods": [
       {
@@ -8003,6 +8042,24 @@
   {
     "item": "Greed's Embrace",
     "stats": "#% reduced cold damage taken",
+    "average": 66.837,
+    "prices": [
+      10,
+      20,
+      20,
+      35,
+      40,
+      72.79,
+      100,
+      100,
+      125,
+      145.58
+    ],
+    "search": {
+      "id": "vlG5Ew9fE",
+      "complexity": 18,
+      "total": 41
+    },
     "builds": 1,
     "mods": [
       {
@@ -8016,6 +8073,24 @@
   {
     "item": "Greed's Embrace",
     "stats": "you take #% reduced extra damage from critical strikes",
+    "average": 43.6,
+    "prices": [
+      15,
+      20,
+      25,
+      26,
+      30,
+      50,
+      60,
+      60,
+      70,
+      80
+    ],
+    "search": {
+      "id": "LeWjZQZSn",
+      "complexity": 18,
+      "total": 75
+    },
     "builds": 1,
     "mods": [
       {
