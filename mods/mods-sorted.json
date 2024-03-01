@@ -7800,6 +7800,24 @@
   {
     "item": "Greed's Embrace",
     "stats": "+# to level of socketed warcry gems",
+    "average": 84.375,
+    "prices": [
+      30,
+      30,
+      35,
+      50,
+      60,
+      122.10000000000001,
+      80,
+      145.55,
+      145.55,
+      145.55
+    ],
+    "search": {
+      "id": "YVqMX5kUY",
+      "complexity": 18,
+      "total": 30
+    },
     "builds": 1,
     "mods": [
       {
@@ -7813,6 +7831,24 @@
   {
     "item": "Greed's Embrace",
     "stats": "+# to level of socketed aoe gems",
+    "average": 50,
+    "prices": [
+      20,
+      35,
+      40,
+      40,
+      45,
+      50,
+      50,
+      60,
+      80,
+      80
+    ],
+    "search": {
+      "id": "5okGbdjUa",
+      "complexity": 18,
+      "total": 76
+    },
     "builds": 1,
     "mods": [
       {
@@ -7826,6 +7862,24 @@
   {
     "item": "Greed's Embrace",
     "stats": "+# to level of socketed duration gems",
+    "average": 21.125,
+    "prices": [
+      9,
+      10,
+      10,
+      20,
+      20,
+      20,
+      40,
+      40,
+      60,
+      80
+    ],
+    "search": {
+      "id": "W5XjLLzfm",
+      "complexity": 18,
+      "total": 76
+    },
     "builds": 1,
     "mods": [
       {
@@ -7839,6 +7893,24 @@
   {
     "item": "Greed's Embrace",
     "stats": "+# to level of socketed projectile gems",
+    "average": 31.125,
+    "prices": [
+      10,
+      15,
+      19,
+      20,
+      25,
+      50,
+      50,
+      60,
+      100,
+      145.55
+    ],
+    "search": {
+      "id": "6Gqw55qsG",
+      "complexity": 18,
+      "total": 60
+    },
     "builds": 1,
     "mods": [
       {
@@ -7852,6 +7924,15 @@
   {
     "item": "Greed's Embrace",
     "stats": "+# to level of socketed minion gems, #% reduced lightning damage taken",
+    "average": 4366.5,
+    "prices": [
+      4366.5
+    ],
+    "search": {
+      "id": "EymnKQBs5",
+      "complexity": 29,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
