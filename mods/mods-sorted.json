@@ -17910,6 +17910,24 @@
   {
     "item": "Lioneye's Fall",
     "stats": "corrupted blood cannot be inflicted on you",
+    "average": 654.345,
+    "prices": [
+      145.41,
+      145.41,
+      145.41,
+      145.41,
+      290.82,
+      436.23,
+      1163.28,
+      1163.28,
+      1454.1,
+      1454.1
+    ],
+    "search": {
+      "id": "EG8yMgKs5",
+      "complexity": 18,
+      "total": 10
+    },
     "builds": 1,
     "mods": [
       {
@@ -17923,6 +17941,24 @@
   {
     "item": "Eye of Malice",
     "stats": "+# to maximum power charges",
+    "average": 302.1077777777778,
+    "prices": [
+      37,
+      40,
+      40,
+      130,
+      290.82,
+      436.23,
+      436.23,
+      581.64,
+      727.05,
+      1163.28
+    ],
+    "search": {
+      "id": "Lmdj637un",
+      "complexity": 18,
+      "total": 16
+    },
     "builds": 1,
     "mods": [
       {
@@ -17936,6 +17972,16 @@
   {
     "item": "Eye of Malice",
     "stats": "regenerate #% of life per second",
+    "average": 170.41,
+    "prices": [
+      50,
+      290.82
+    ],
+    "search": {
+      "id": "LmdYYb5Fn",
+      "complexity": 18,
+      "total": 2
+    },
     "builds": 1,
     "mods": [
       {
@@ -17949,6 +17995,23 @@
   {
     "item": "Eye of Malice",
     "stats": "+# to level of socketed aoe gems",
+    "average": 70.67625,
+    "prices": [
+      10,
+      30,
+      40,
+      60,
+      70,
+      90,
+      120,
+      145.41,
+      3199.02
+    ],
+    "search": {
+      "id": "YVozYvgIY",
+      "complexity": 18,
+      "total": 9
+    },
     "builds": 1,
     "mods": [
       {
@@ -17962,6 +18025,17 @@
   {
     "item": "Lioneye's Vision",
     "stats": "+# to level of socketed aoe gems, +# to level of socketed projectile gems",
+    "average": 161103.08,
+    "prices": [
+      80551.54,
+      161103.08,
+      161103.08
+    ],
+    "search": {
+      "id": "bX3yDrDuL",
+      "complexity": 29,
+      "total": 3
+    },
     "builds": 1,
     "mods": [
       {
