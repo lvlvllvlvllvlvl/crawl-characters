@@ -3521,6 +3521,21 @@
   {
     "item": "Vixen's Entrapment",
     "stats": "+# to level of socketed aoe gems",
+    "average": 100,
+    "prices": [
+      100,
+      100,
+      145.24,
+      290.48,
+      726.2,
+      1742.88,
+      29048
+    ],
+    "search": {
+      "id": "JVdkbvbhl",
+      "complexity": 18,
+      "total": 7
+    },
     "builds": 2,
     "mods": [
       {
@@ -3534,6 +3549,16 @@
   {
     "item": "Grip of the Council",
     "stats": "+# to level of socketed gems",
+    "average": 50.5,
+    "prices": [
+      1,
+      100
+    ],
+    "search": {
+      "id": "0BZV3XQhg",
+      "complexity": 18,
+      "total": 2
+    },
     "builds": 2,
     "mods": [
       {
@@ -3547,6 +3572,13 @@
   {
     "item": "Fleshcrafter",
     "stats": "+# to level of socketed duration gems",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "GZypBposb",
+      "complexity": 18,
+      "total": 0
+    },
     "builds": 2,
     "mods": [
       {
@@ -3560,6 +3592,24 @@
   {
     "item": "Alpha's Howl",
     "stats": "+# to maximum power charges",
+    "average": 145.24,
+    "prices": [
+      70,
+      145.24,
+      145.24,
+      145.24,
+      290.48,
+      435.72,
+      600,
+      1016.6800000000001,
+      1452.4,
+      2178.6000000000004
+    ],
+    "search": {
+      "id": "lXjLVaVUV",
+      "complexity": 18,
+      "total": 10
+    },
     "builds": 2,
     "mods": [
       {
@@ -3573,6 +3623,24 @@
   {
     "item": "Lightning Coil",
     "stats": "#% increased damage",
+    "average": 145.24,
+    "prices": [
+      120,
+      145.24,
+      145.24,
+      145.24,
+      145.24,
+      145.24,
+      145.24,
+      145.24,
+      145.24,
+      145.24
+    ],
+    "search": {
+      "id": "DGEGlVVc5",
+      "complexity": 18,
+      "total": 70
+    },
     "builds": 2,
     "mods": [
       {
