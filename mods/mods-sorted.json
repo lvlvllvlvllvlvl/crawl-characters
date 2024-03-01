@@ -18531,6 +18531,15 @@
   {
     "item": "Asenath's Mark",
     "stats": "socketed skill gems get a #% cost & reservation multiplier",
+    "average": 1455,
+    "prices": [
+      1455
+    ],
+    "search": {
+      "id": "GkdDyk9Fb",
+      "complexity": 18,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -18544,6 +18553,19 @@
   {
     "item": "Blunderbore",
     "stats": "+# to level of socketed gems",
+    "average": 1463,
+    "prices": [
+      10,
+      30,
+      1455,
+      2910,
+      2910
+    ],
+    "search": {
+      "id": "GZy3k8Wsb",
+      "complexity": 18,
+      "total": 5
+    },
     "builds": 1,
     "mods": [
       {
@@ -18557,6 +18579,13 @@
   {
     "item": "Invictus Solaris",
     "stats": "+# to level of socketed minion gems",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "jXR7WqltX",
+      "complexity": 18,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -18570,6 +18599,15 @@
   {
     "item": "Grand Spectrum",
     "stats": "#% reduced effect of curses on you",
+    "average": 436.5,
+    "prices": [
+      436.5
+    ],
+    "search": {
+      "id": "VyBGo3atp",
+      "complexity": 18,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -18583,6 +18621,13 @@
   {
     "item": "Cherrubim's Maleficence",
     "stats": "+# to level of socketed gems, +# to level of socketed aoe gems",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "BGrm5KLf8",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
