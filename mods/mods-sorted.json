@@ -3654,6 +3654,18 @@
   {
     "item": "Ylfeban's Trickery",
     "stats": "+# to maximum power charges",
+    "average": 3522.07,
+    "prices": [
+      145.24,
+      145.24,
+      6535.8,
+      7262
+    ],
+    "search": {
+      "id": "bXRmpQGTL",
+      "complexity": 18,
+      "total": 4
+    },
     "builds": 2,
     "mods": [
       {
@@ -3667,6 +3679,18 @@
   {
     "item": "Belly of the Beast",
     "stats": "+# to level of socketed aoe gems",
+    "average": 1016.68,
+    "prices": [
+      290.48,
+      1307.16,
+      1452.4,
+      4357.200000000001
+    ],
+    "search": {
+      "id": "jPpMq8btX",
+      "complexity": 18,
+      "total": 4
+    },
     "builds": 2,
     "mods": [
       {
@@ -3680,6 +3704,24 @@
   {
     "item": "Shavronne's Wrappings",
     "stats": "+# to level of socketed aura gems",
+    "average": 155.79555555555555,
+    "prices": [
+      45,
+      50,
+      145.24,
+      145.24,
+      145.24,
+      145.24,
+      145.24,
+      290.48,
+      290.48,
+      1016.6800000000001
+    ],
+    "search": {
+      "id": "3BrP4bGs5",
+      "complexity": 18,
+      "total": 11
+    },
     "builds": 2,
     "mods": [
       {
@@ -3693,6 +3735,19 @@
   {
     "item": "Viridi's Veil",
     "stats": "+# to level of socketed aoe gems",
+    "average": 726.2,
+    "prices": [
+      290.48,
+      290.48,
+      871.44,
+      1452.4,
+      43572
+    ],
+    "search": {
+      "id": "BEJGbe4T8",
+      "complexity": 18,
+      "total": 5
+    },
     "builds": 2,
     "mods": [
       {
@@ -3706,6 +3761,15 @@
   {
     "item": "Severed in Sleep",
     "stats": "#% chance to gain onslaught for # seconds on kill",
+    "average": 145.24,
+    "prices": [
+      145.24
+    ],
+    "search": {
+      "id": "GkdLwRZHb",
+      "complexity": 18,
+      "total": 1
+    },
     "builds": 2,
     "mods": [
       {
