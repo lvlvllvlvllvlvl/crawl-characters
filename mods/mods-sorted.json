@@ -8104,6 +8104,16 @@
   {
     "item": "Greed's Embrace",
     "stats": "+# to level of socketed aoe gems, +# to level of socketed aura gems",
+    "average": 17105.65,
+    "prices": [
+      5095.3,
+      29116.000000000004
+    ],
+    "search": {
+      "id": "9YD9l8yIK",
+      "complexity": 29,
+      "total": 2
+    },
     "builds": 1,
     "mods": [
       {
@@ -8123,6 +8133,24 @@
   {
     "item": "Darkscorn",
     "stats": "+#% to global critical strike multiplier",
+    "average": 26.6,
+    "prices": [
+      10,
+      14,
+      17,
+      20,
+      20,
+      30,
+      35,
+      40,
+      40,
+      40
+    ],
+    "search": {
+      "id": "mXjqZ8wt6",
+      "complexity": 18,
+      "total": 36
+    },
     "builds": 1,
     "mods": [
       {
@@ -8136,6 +8164,24 @@
   {
     "item": "Shadows and Dust",
     "stats": "+# to level of socketed minion gems",
+    "average": 71.79555555555557,
+    "prices": [
+      15,
+      20,
+      20,
+      25,
+      85,
+      90,
+      100,
+      145.58,
+      145.58,
+      727.9000000000001
+    ],
+    "search": {
+      "id": "KJGpJKyU5",
+      "complexity": 18,
+      "total": 11
+    },
     "builds": 1,
     "mods": [
       {
@@ -8149,6 +8195,13 @@
   {
     "item": "Shadows and Dust",
     "stats": "#% increased maximum energy shield, attacks have +#% to critical strike chance",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "EyVjjPBH5",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -8168,6 +8221,24 @@
   {
     "item": "Shadows and Dust",
     "stats": "+#% to spell critical strike chance",
+    "average": 203.81200000000004,
+    "prices": [
+      10,
+      145.58,
+      145.58,
+      218.37,
+      218.37,
+      291.16,
+      727.9000000000001,
+      1455.8000000000002,
+      7133.420000000001,
+      36249.420000000006
+    ],
+    "search": {
+      "id": "ZbErrd0uQ",
+      "complexity": 18,
+      "total": 10
+    },
     "builds": 1,
     "mods": [
       {
