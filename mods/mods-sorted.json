@@ -17039,6 +17039,16 @@
   {
     "item": "Might of the Meek",
     "stats": "damage penetrates #% lightning resistance",
+    "average": 29.5,
+    "prices": [
+      20,
+      39
+    ],
+    "search": {
+      "id": "lXODXjrhV",
+      "complexity": 19,
+      "total": 2
+    },
     "builds": 1,
     "mods": [
       {
@@ -17053,6 +17063,19 @@
   {
     "item": "Might of the Meek",
     "stats": "#% increased global critical strike chance",
+    "average": 20,
+    "prices": [
+      20,
+      20,
+      40,
+      145.6,
+      582.4
+    ],
+    "search": {
+      "id": "3Gw30nJU5",
+      "complexity": 18,
+      "total": 5
+    },
     "builds": 1,
     "mods": [
       {
@@ -17066,6 +17089,16 @@
   {
     "item": "Might of the Meek",
     "stats": "you cannot be maimed",
+    "average": 112.8,
+    "prices": [
+      80,
+      145.6
+    ],
+    "search": {
+      "id": "lXJV8VrhV",
+      "complexity": 18,
+      "total": 2
+    },
     "builds": 1,
     "mods": [
       {
@@ -17079,6 +17112,18 @@
   {
     "item": "Might of the Meek",
     "stats": "you cannot be cursed with silence",
+    "average": 519.5999999999999,
+    "prices": [
+      20,
+      20,
+      873.5999999999999,
+      1164.8
+    ],
+    "search": {
+      "id": "BGrV83KC8",
+      "complexity": 18,
+      "total": 4
+    },
     "builds": 1,
     "mods": [
       {
@@ -17092,6 +17137,16 @@
   {
     "item": "Might of the Meek",
     "stats": "you cannot be hindered",
+    "average": 7310,
+    "prices": [
+      60,
+      14560
+    ],
+    "search": {
+      "id": "RVBXglWU7",
+      "complexity": 18,
+      "total": 2
+    },
     "builds": 1,
     "mods": [
       {
