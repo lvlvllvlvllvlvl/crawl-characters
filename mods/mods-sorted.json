@@ -10593,6 +10593,19 @@
   {
     "item": "Hyrri's Truth",
     "stats": "#% increased movement speed",
+    "average": 145.5,
+    "prices": [
+      45,
+      145.5,
+      145.5,
+      727.5,
+      1455
+    ],
+    "search": {
+      "id": "y9E6RWBhR",
+      "complexity": 18,
+      "total": 5
+    },
     "builds": 1,
     "mods": [
       {
@@ -10606,6 +10619,13 @@
   {
     "item": "Hyrri's Truth",
     "stats": "#% of fire damage leeched as life, you can apply an additional curse",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "9BZEZX8uK",
+      "complexity": 30,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -10626,6 +10646,16 @@
   {
     "item": "Dendrobate",
     "stats": "+# to level of socketed aoe gems, #% increased damage",
+    "average": 654.75,
+    "prices": [
+      145.5,
+      1164
+    ],
+    "search": {
+      "id": "vlPVe4zSE",
+      "complexity": 29,
+      "total": 2
+    },
     "builds": 1,
     "mods": [
       {
@@ -10645,6 +10675,24 @@
   {
     "item": "Dendrobate",
     "stats": "+# to level of socketed projectile gems",
+    "average": 138.5,
+    "prices": [
+      25,
+      35,
+      75,
+      100,
+      145.5,
+      145.5,
+      291,
+      291,
+      582,
+      1164
+    ],
+    "search": {
+      "id": "QVnvvrjHw",
+      "complexity": 18,
+      "total": 12
+    },
     "builds": 1,
     "mods": [
       {
@@ -10658,6 +10706,24 @@
   {
     "item": "Dendrobate",
     "stats": "+# to level of socketed trap or mine gems",
+    "average": 759.8333333333334,
+    "prices": [
+      145.5,
+      145.5,
+      291,
+      436.5,
+      582,
+      1164,
+      1164,
+      1455,
+      1455,
+      2910
+    ],
+    "search": {
+      "id": "0B8P3w8ig",
+      "complexity": 18,
+      "total": 12
+    },
     "builds": 1,
     "mods": [
       {
