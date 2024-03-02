@@ -17502,6 +17502,13 @@
   {
     "item": "Redblade Banner",
     "stats": "you take #% reduced extra damage from critical strikes",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "BEJKXnjC8",
+      "complexity": 18,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -17515,6 +17522,20 @@
   {
     "item": "Redblade Banner",
     "stats": "#% of physical damage from hits taken as cold damage",
+    "average": 3255.0833333333335,
+    "prices": [
+      2186.25,
+      2186.25,
+      3643.75,
+      3643.75,
+      3643.75,
+      4226.75
+    ],
+    "search": {
+      "id": "5okog5mFa",
+      "complexity": 18,
+      "total": 6
+    },
     "builds": 1,
     "mods": [
       {
@@ -17528,6 +17549,19 @@
   {
     "item": "Mjölner",
     "stats": "#% increased attack speed",
+    "average": 1632.4,
+    "prices": [
+      437.25,
+      728.75,
+      1166,
+      2915,
+      2915
+    ],
+    "search": {
+      "id": "kXjE4KjF5",
+      "complexity": 19,
+      "total": 5
+    },
     "builds": 1,
     "mods": [
       {
@@ -17542,6 +17576,24 @@
   {
     "item": "The Ivory Tower",
     "stats": "+# to level of socketed gems",
+    "average": 291.5,
+    "prices": [
+      145.75,
+      145.75,
+      145.75,
+      291.5,
+      291.5,
+      291.5,
+      291.5,
+      437.25,
+      437.25,
+      437.25
+    ],
+    "search": {
+      "id": "aboOqYkue",
+      "complexity": 18,
+      "total": 25
+    },
     "builds": 1,
     "mods": [
       {
@@ -17555,6 +17607,20 @@
   {
     "item": "Sign of the Sin Eater",
     "stats": "#% increased area of effect",
+    "average": 314.8333333333333,
+    "prices": [
+      40,
+      100,
+      145.75,
+      291.5,
+      583,
+      728.75
+    ],
+    "search": {
+      "id": "rXjnOV7CQ",
+      "complexity": 18,
+      "total": 6
+    },
     "builds": 1,
     "mods": [
       {
