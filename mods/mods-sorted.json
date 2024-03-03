@@ -8086,6 +8086,17 @@
   {
     "item": "Greed's Embrace",
     "stats": "+# to level of socketed aoe gems, +# to level of socketed aura gems",
+    "average": 14553,
+    "prices": [
+      8731.8,
+      14553,
+      14553
+    ],
+    "search": {
+      "id": "9YD9l8yIK",
+      "complexity": 29,
+      "total": 3
+    },
     "builds": 1,
     "mods": [
       {
@@ -8105,6 +8116,24 @@
   {
     "item": "Darkscorn",
     "stats": "+#% to global critical strike multiplier",
+    "average": 31.625,
+    "prices": [
+      10,
+      20,
+      29,
+      30,
+      35,
+      39,
+      40,
+      50,
+      100,
+      120
+    ],
+    "search": {
+      "id": "mXjqZ8wt6",
+      "complexity": 18,
+      "total": 24
+    },
     "builds": 1,
     "mods": [
       {
@@ -8118,6 +8147,17 @@
   {
     "item": "Shadows and Dust",
     "stats": "+# to level of socketed minion gems",
+    "average": 96.84333333333332,
+    "prices": [
+      60,
+      85,
+      145.53
+    ],
+    "search": {
+      "id": "KJGpJKyU5",
+      "complexity": 18,
+      "total": 3
+    },
     "builds": 1,
     "mods": [
       {
@@ -8131,6 +8171,13 @@
   {
     "item": "Shadows and Dust",
     "stats": "#% increased maximum energy shield, attacks have +#% to critical strike chance",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "EyVjjPBH5",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -8150,6 +8197,23 @@
   {
     "item": "Shadows and Dust",
     "stats": "+#% to spell critical strike chance",
+    "average": 274.5557142857143,
+    "prices": [
+      30,
+      145.53,
+      145.53,
+      291.06,
+      436.59000000000003,
+      436.59000000000003,
+      436.59000000000003,
+      727.65,
+      1018.71
+    ],
+    "search": {
+      "id": "ZbErrd0uQ",
+      "complexity": 18,
+      "total": 9
+    },
     "builds": 1,
     "mods": [
       {
