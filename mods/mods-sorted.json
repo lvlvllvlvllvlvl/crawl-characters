@@ -10484,6 +10484,24 @@
   {
     "item": "Cold Iron Point",
     "stats": "#% increased global critical strike chance",
+    "average": 7,
+    "prices": [
+      6,
+      7,
+      7,
+      7,
+      7,
+      7,
+      7,
+      7,
+      7,
+      8
+    ],
+    "search": {
+      "id": "LeWqod2sn",
+      "complexity": 18,
+      "total": 100
+    },
     "builds": 1,
     "mods": [
       {
@@ -10497,6 +10515,17 @@
   {
     "item": "Cold Iron Point",
     "stats": "#% chance to gain unholy might for 3 seconds on kill",
+    "average": 37.333333333333336,
+    "prices": [
+      12,
+      30,
+      70
+    ],
+    "search": {
+      "id": "9Y2wm70uK",
+      "complexity": 18,
+      "total": 3
+    },
     "builds": 1,
     "mods": [
       {
@@ -10510,6 +10539,24 @@
   {
     "item": "Cold Iron Point",
     "stats": "#% increased damage over time",
+    "average": 357.3777777777778,
+    "prices": [
+      146.2,
+      146.2,
+      292.4,
+      292.4,
+      292.4,
+      292.4,
+      292.4,
+      731,
+      731,
+      3216.3999999999996
+    ],
+    "search": {
+      "id": "z273V4RI4",
+      "complexity": 18,
+      "total": 10
+    },
     "builds": 1,
     "mods": [
       {
@@ -10523,6 +10570,19 @@
   {
     "item": "Utula's Hunger",
     "stats": "#% increased maximum life",
+    "average": 328.95,
+    "prices": [
+      146.2,
+      292.4,
+      438.59999999999997,
+      438.59999999999997,
+      1462
+    ],
+    "search": {
+      "id": "9YKk2wYFK",
+      "complexity": 18,
+      "total": 5
+    },
     "builds": 1,
     "mods": [
       {
@@ -10536,6 +10596,13 @@
   {
     "item": "Prismweave",
     "stats": "grace has #% increased aura effect, +#% to critical strike multiplier during any flask effect",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "ze5WBkgT4",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
