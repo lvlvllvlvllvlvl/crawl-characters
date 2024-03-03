@@ -12962,6 +12962,24 @@
   {
     "item": "Watcher's Eye",
     "stats": "damage penetrates #% lightning resistance",
+    "average": 186.545,
+    "prices": [
+      40,
+      60,
+      145.61,
+      145.61,
+      291.22,
+      436.83000000000004,
+      1456.1000000000001,
+      2184.15,
+      4368.3,
+      7280.500000000001
+    ],
+    "search": {
+      "id": "6ZbVbrXIG",
+      "complexity": 19,
+      "total": 11
+    },
     "builds": 1,
     "mods": [
       {
@@ -12976,6 +12994,24 @@
   {
     "item": "Watcher's Eye",
     "stats": "#% reduced effect of chill on you",
+    "average": 429.2283333333333,
+    "prices": [
+      100,
+      145.61,
+      291.22,
+      582.44,
+      582.44,
+      873.6600000000001,
+      1456.1000000000001,
+      8736.6,
+      12231.240000000002,
+      29122.000000000004
+    ],
+    "search": {
+      "id": "Zb5baJRTQ",
+      "complexity": 18,
+      "total": 10
+    },
     "builds": 1,
     "mods": [
       {
@@ -12989,6 +13025,20 @@
   {
     "item": "Watcher's Eye",
     "stats": "minions deal #% increased damage",
+    "average": 4071.958,
+    "prices": [
+      60,
+      60,
+      582.44,
+      8008.550000000001,
+      11648.800000000001,
+      162074.86
+    ],
+    "search": {
+      "id": "8a24E4qsV",
+      "complexity": 18,
+      "total": 6
+    },
     "builds": 1,
     "mods": [
       {
@@ -13002,6 +13052,13 @@
   {
     "item": "Watcher's Eye",
     "stats": "#% increased global critical strike chance, #% reduced poison duration on you",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "vlEXWkjHE",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -13021,6 +13078,13 @@
   {
     "item": "Replica Dreamfeather",
     "stats": "#% increased physical damage, #% increased attack speed",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "gqPOMrOFQ",
+      "complexity": 30,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
