@@ -14682,6 +14682,13 @@
   {
     "item": "Lightning Coil",
     "stats": "#% increased damage, #% reduced lightning damage taken",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "XqDYal7CP",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -14701,6 +14708,24 @@
   {
     "item": "Lightning Coil",
     "stats": "+# to level of socketed minion gems",
+    "average": 293.546,
+    "prices": [
+      40,
+      50,
+      100,
+      100,
+      146.97,
+      293.94,
+      293.94,
+      440.90999999999997,
+      734.85,
+      734.85
+    ],
+    "search": {
+      "id": "8aprQ3VTV",
+      "complexity": 18,
+      "total": 34
+    },
     "builds": 1,
     "mods": [
       {
@@ -14714,6 +14739,16 @@
   {
     "item": "Lightning Coil",
     "stats": "+# to level of socketed aoe gems, +# to level of socketed projectile gems",
+    "average": 85977.45000000001,
+    "prices": [
+      85242.6,
+      86712.3
+    ],
+    "search": {
+      "id": "zeBjrpvH4",
+      "complexity": 29,
+      "total": 2
+    },
     "builds": 1,
     "mods": [
       {
@@ -14733,6 +14768,24 @@
   {
     "item": "Lightning Coil",
     "stats": "#% additional physical damage reduction while stationary",
+    "average": 70.56285714285715,
+    "prices": [
+      10,
+      20,
+      20,
+      30,
+      120,
+      146.97,
+      146.97,
+      293.94,
+      440.90999999999997,
+      1028.79
+    ],
+    "search": {
+      "id": "6ZBDYWkFG",
+      "complexity": 18,
+      "total": 28
+    },
     "builds": 1,
     "mods": [
       {
@@ -14746,6 +14799,24 @@
   {
     "item": "Lightning Coil",
     "stats": "+# to level of socketed gems",
+    "average": 845.0775,
+    "prices": [
+      367.425,
+      440.90999999999997,
+      587.88,
+      881.8199999999999,
+      881.8199999999999,
+      881.8199999999999,
+      1028.79,
+      1028.79,
+      1175.76,
+      1175.76
+    ],
+    "search": {
+      "id": "2BrQXgYFk",
+      "complexity": 18,
+      "total": 44
+    },
     "builds": 1,
     "mods": [
       {
