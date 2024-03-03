@@ -3954,6 +3954,20 @@
   {
     "item": "Legacy of Fury",
     "stats": "+# to maximum endurance charges",
+    "average": 183.548,
+    "prices": [
+      40,
+      146.29,
+      146.29,
+      292.58,
+      292.58,
+      1462.8999999999999
+    ],
+    "search": {
+      "id": "0PQZ0g7Ig",
+      "complexity": 18,
+      "total": 6
+    },
     "builds": 2,
     "mods": [
       {
@@ -3967,6 +3981,15 @@
   {
     "item": "The Fledgling",
     "stats": "+# to maximum power charges",
+    "average": 21943.5,
+    "prices": [
+      21943.5
+    ],
+    "search": {
+      "id": "dXWYGdqFJ",
+      "complexity": 18,
+      "total": 1
+    },
     "builds": 2,
     "mods": [
       {
@@ -3980,6 +4003,24 @@
   {
     "item": "Pure Talent",
     "stats": "corrupted blood cannot be inflicted on you",
+    "average": 77.71499999999999,
+    "prices": [
+      40,
+      50,
+      50,
+      60,
+      120,
+      146.29,
+      292.58,
+      585.16,
+      1316.61,
+      1462.8999999999999
+    ],
+    "search": {
+      "id": "8a2vlBMHV",
+      "complexity": 18,
+      "total": 10
+    },
     "builds": 2,
     "mods": [
       {
@@ -3993,6 +4034,13 @@
   {
     "item": "Mageblood",
     "stats": "#% increased dexterity, #% increased intelligence, malevolence has #% increased aura effect",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "MVZ379PFJ",
+      "complexity": 20,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
