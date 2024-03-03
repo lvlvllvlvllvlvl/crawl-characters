@@ -12285,6 +12285,17 @@
   {
     "item": "The Supreme Truth",
     "stats": "#% increased cast speed",
+    "average": 436.77,
+    "prices": [
+      145.59,
+      291.18,
+      873.54
+    ],
+    "search": {
+      "id": "OVyp2G8TE",
+      "complexity": 18,
+      "total": 3
+    },
     "builds": 1,
     "mods": [
       {
@@ -12298,6 +12309,24 @@
   {
     "item": "Abyssus",
     "stats": "socketed skill gems get a #% cost & reservation multiplier",
+    "average": 2576.943,
+    "prices": [
+      1164.72,
+      1455.9,
+      1601.49,
+      1747.08,
+      2038.26,
+      2766.21,
+      2766.21,
+      3639.75,
+      4222.11,
+      4367.7
+    ],
+    "search": {
+      "id": "OVwqQKaTE",
+      "complexity": 18,
+      "total": 12
+    },
     "builds": 1,
     "mods": [
       {
@@ -12311,6 +12340,22 @@
   {
     "item": "Abyssus",
     "stats": "+# to maximum power charges",
+    "average": 717.6767142857143,
+    "prices": [
+      30,
+      291.18,
+      436.77,
+      582.36,
+      1121.0430000000001,
+      1164.72,
+      1397.664,
+      4367.7
+    ],
+    "search": {
+      "id": "aqeEGJ7se",
+      "complexity": 18,
+      "total": 8
+    },
     "builds": 1,
     "mods": [
       {
@@ -12324,6 +12369,13 @@
   {
     "item": "Hands of the High Templar",
     "stats": "+# to level of socketed minion gems, +# to level of socketed aura gems, #% increased attack speed, +# to maximum frenzy charges, curse enemies with elemental weakness on hit",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "moero2Bi6",
+      "complexity": 23,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -12362,6 +12414,13 @@
   {
     "item": "Hands of the High Templar",
     "stats": "+# to level of socketed gems, +# to level of socketed aoe gems, #% increased maximum life, curse enemies with vulnerability on hit",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "waVjEXmfb",
+      "complexity": 21,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
