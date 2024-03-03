@@ -2393,6 +2393,13 @@
   {
     "item": "Dialla's Malefaction",
     "stats": "+# to level of socketed gems, +#% to all maximum resistances",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "Ey6M5KKC5",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 2,
     "mods": [
       {
@@ -2412,6 +2419,24 @@
   {
     "item": "Heatshiver",
     "stats": "+# to level of socketed aura gems",
+    "average": 88.9,
+    "prices": [
+      50,
+      70,
+      70,
+      84,
+      80,
+      85,
+      100,
+      100,
+      120,
+      130
+    ],
+    "search": {
+      "id": "9Y2Z83ysK",
+      "complexity": 18,
+      "total": 23
+    },
     "builds": 2,
     "mods": [
       {
@@ -2425,6 +2450,24 @@
   {
     "item": "Heatshiver",
     "stats": "#% increased maximum life",
+    "average": 68.952,
+    "prices": [
+      8,
+      20,
+      35,
+      40,
+      50,
+      79,
+      80,
+      85,
+      146.26,
+      146.26
+    ],
+    "search": {
+      "id": "PK7qy2ZCL",
+      "complexity": 18,
+      "total": 14
+    },
     "builds": 2,
     "mods": [
       {
@@ -2438,6 +2481,24 @@
   {
     "item": "Matua Tupuna",
     "stats": "#% of physical damage from hits taken as fire damage",
+    "average": 188.9175,
+    "prices": [
+      35,
+      60,
+      100,
+      146.26,
+      146.26,
+      146.26,
+      438.78,
+      438.78,
+      877.56,
+      2925.2
+    ],
+    "search": {
+      "id": "PdlBV3ghL",
+      "complexity": 18,
+      "total": 11
+    },
     "builds": 2,
     "mods": [
       {
@@ -2451,6 +2512,21 @@
   {
     "item": "The Covenant",
     "stats": "+# to level of socketed aoe gems",
+    "average": 2252.404,
+    "prices": [
+      1755.12,
+      1901.3799999999999,
+      2193.8999999999996,
+      2486.42,
+      2925.2,
+      5119.099999999999,
+      7313
+    ],
+    "search": {
+      "id": "wpRa4kBcb",
+      "complexity": 18,
+      "total": 7
+    },
     "builds": 2,
     "mods": [
       {
