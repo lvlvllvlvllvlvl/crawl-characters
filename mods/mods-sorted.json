@@ -9386,6 +9386,13 @@
   {
     "item": "The Torrent's Reclamation",
     "stats": "#% increased maximum life, +#% to critical strike multiplier during any flask effect",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "WVplzVvtm",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -9405,6 +9412,13 @@
   {
     "item": "The Torrent's Reclamation",
     "stats": "#% increased strength, #% increased dexterity, malevolence has #% increased aura effect",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "RVepV5ai7",
+      "complexity": 20,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -9430,6 +9444,23 @@
   {
     "item": "Southbound",
     "stats": "attacks have +#% to critical strike chance",
+    "average": 220.60333333333335,
+    "prices": [
+      28,
+      50,
+      64,
+      83.93,
+      85,
+      99,
+      120,
+      727.75,
+      727.75
+    ],
+    "search": {
+      "id": "oX5GZ7qIl",
+      "complexity": 18,
+      "total": 9
+    },
     "builds": 1,
     "mods": [
       {
@@ -9443,6 +9474,20 @@
   {
     "item": "Southbound",
     "stats": "+# to level of socketed aura gems",
+    "average": 101.3875,
+    "prices": [
+      50,
+      90,
+      120,
+      145.55,
+      291.1,
+      582.2
+    ],
+    "search": {
+      "id": "JVyQrpbIl",
+      "complexity": 18,
+      "total": 6
+    },
     "builds": 1,
     "mods": [
       {
@@ -9456,6 +9501,15 @@
   {
     "item": "Southbound",
     "stats": "+# to level of socketed projectile gems, +#% to spell critical strike chance",
+    "average": 40,
+    "prices": [
+      40
+    ],
+    "search": {
+      "id": "DLkBXM5u5",
+      "complexity": 29,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
