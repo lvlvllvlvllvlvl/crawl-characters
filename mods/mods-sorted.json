@@ -5212,6 +5212,13 @@
   {
     "item": "Goldwyrm",
     "stats": "+# to level of socketed gems, +# to level of socketed minion gems",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "R3624VqI7",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -5231,6 +5238,24 @@
   {
     "item": "Goldwyrm",
     "stats": "grants level # haste skill",
+    "average": 131.68124999999998,
+    "prices": [
+      40,
+      50,
+      100,
+      111,
+      111,
+      146.29,
+      146.29,
+      146.29,
+      146.29,
+      146.29
+    ],
+    "search": {
+      "id": "3BYY9LJi5",
+      "complexity": 18,
+      "total": 12
+    },
     "builds": 1,
     "mods": [
       {
@@ -5244,6 +5269,18 @@
   {
     "item": "Sentari's Answer",
     "stats": "#% increased maximum life",
+    "average": 731.4499999999999,
+    "prices": [
+      73.145,
+      731.4499999999999,
+      731.4499999999999,
+      877.74
+    ],
+    "search": {
+      "id": "mXYGO9aC6",
+      "complexity": 18,
+      "total": 4
+    },
     "builds": 1,
     "mods": [
       {
@@ -5257,6 +5294,24 @@
   {
     "item": "Sentari's Answer",
     "stats": "#% of physical damage from hits taken as chaos damage",
+    "average": 253.02374999999995,
+    "prices": [
+      80,
+      85,
+      100,
+      150,
+      146.29,
+      292.58,
+      585.16,
+      585.16,
+      877.74,
+      1462.8999999999999
+    ],
+    "search": {
+      "id": "7lozQ2lH5",
+      "complexity": 18,
+      "total": 13
+    },
     "builds": 1,
     "mods": [
       {
@@ -5270,6 +5325,24 @@
   {
     "item": "Sentari's Answer",
     "stats": "you take #% reduced extra damage from critical strikes",
+    "average": 1019.4010000000001,
+    "prices": [
+      50,
+      50,
+      146.29,
+      146.29,
+      438.87,
+      585.16,
+      1462.8999999999999,
+      2194.35,
+      2194.35,
+      2925.7999999999997
+    ],
+    "search": {
+      "id": "8adzGlqCV",
+      "complexity": 18,
+      "total": 11
+    },
     "builds": 1,
     "mods": [
       {
