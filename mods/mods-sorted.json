@@ -7248,6 +7248,16 @@
   {
     "item": "Unnatural Instinct",
     "stats": "you cannot be maimed, corrupted blood cannot be inflicted on you",
+    "average": 26928.6,
+    "prices": [
+      24745.2,
+      29112
+    ],
+    "search": {
+      "id": "8a2EZDvtV",
+      "complexity": 29,
+      "total": 2
+    },
     "builds": 1,
     "mods": [
       {
@@ -7267,6 +7277,13 @@
   {
     "item": "Unnatural Instinct",
     "stats": "#% reduced effect of chill on you, #% increased area of effect",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "y9OdoVjcR",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -7286,6 +7303,13 @@
   {
     "item": "Unnatural Instinct",
     "stats": "damage penetrates #% elemental resistances, corrupted blood cannot be inflicted on you",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "rXj9DVMHQ",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -7305,6 +7329,24 @@
   {
     "item": "Unnatural Instinct",
     "stats": "damage penetrates #% fire resistance",
+    "average": 67,
+    "prices": [
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      70,
+      100,
+      100,
+      100
+    ],
+    "search": {
+      "id": "jwa3MYbfX",
+      "complexity": 19,
+      "total": 15
+    },
     "builds": 1,
     "mods": [
       {
