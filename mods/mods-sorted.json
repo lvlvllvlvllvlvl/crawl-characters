@@ -16722,6 +16722,13 @@
   {
     "item": "Rathpith Globe",
     "stats": "+# to level of socketed aoe gems, +# to level of socketed warcry gems",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "KJXDXEPI5",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -16741,6 +16748,13 @@
   {
     "item": "Rearguard",
     "stats": "#% of fire damage leeched as life, bow attacks fire an additional arrow",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "JVnJRBRIl",
+      "complexity": 30,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -16761,6 +16775,15 @@
   {
     "item": "Replica Inya's Epiphany",
     "stats": "+# to level of socketed gems",
+    "average": 160,
+    "prices": [
+      160
+    ],
+    "search": {
+      "id": "aq37vaRFe",
+      "complexity": 18,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -16774,6 +16797,13 @@
   {
     "item": "The Poised Prism",
     "stats": "# to # added cold damage with bow attacks, # to # added lightning damage with bow attacks",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "lX80WLVsV",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -16793,6 +16823,24 @@
   {
     "item": "The Poised Prism",
     "stats": "#% increased elemental damage with attack skills",
+    "average": 1.7,
+    "prices": [
+      1,
+      1,
+      1,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2
+    ],
+    "search": {
+      "id": "rXmvBJzSQ",
+      "complexity": 18,
+      "total": 109
+    },
     "builds": 1,
     "mods": [
       {
