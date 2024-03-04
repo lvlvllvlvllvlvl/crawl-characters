@@ -2384,6 +2384,13 @@
   {
     "item": "Dialla's Malefaction",
     "stats": "+# to level of socketed gems, +#% to all maximum resistances",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "Ey6M5KKC5",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 2,
     "mods": [
       {
@@ -2403,6 +2410,24 @@
   {
     "item": "Heatshiver",
     "stats": "+# to level of socketed aura gems",
+    "average": 64.58666666666666,
+    "prices": [
+      39,
+      40,
+      50,
+      60,
+      70,
+      51.22,
+      81.06,
+      90,
+      100,
+      120
+    ],
+    "search": {
+      "id": "9Y2Z83ysK",
+      "complexity": 18,
+      "total": 31
+    },
     "builds": 2,
     "mods": [
       {
@@ -2416,6 +2441,24 @@
   {
     "item": "Heatshiver",
     "stats": "#% increased maximum life",
+    "average": 111.53428571428573,
+    "prices": [
+      25,
+      79,
+      80,
+      85,
+      100,
+      145.58,
+      145.58,
+      145.58,
+      291.16,
+      436.74
+    ],
+    "search": {
+      "id": "PK7qy2ZCL",
+      "complexity": 18,
+      "total": 14
+    },
     "builds": 2,
     "mods": [
       {
@@ -2429,6 +2472,24 @@
   {
     "item": "Matua Tupuna",
     "stats": "#% of physical damage from hits taken as fire damage",
+    "average": 273.51500000000004,
+    "prices": [
+      60,
+      90,
+      145.58,
+      145.58,
+      291.16,
+      436.74,
+      436.74,
+      582.32,
+      1455.8000000000002,
+      2183.7000000000003
+    ],
+    "search": {
+      "id": "PdlBV3ghL",
+      "complexity": 18,
+      "total": 11
+    },
     "builds": 2,
     "mods": [
       {
@@ -2442,6 +2503,24 @@
   {
     "item": "The Covenant",
     "stats": "+# to level of socketed aoe gems",
+    "average": 5007.952,
+    "prices": [
+      727.9000000000001,
+      2911.6000000000004,
+      2911.6000000000004,
+      3493.92,
+      4076.2400000000002,
+      4221.820000000001,
+      7279.000000000001,
+      7279.000000000001,
+      8006.900000000001,
+      9171.54
+    ],
+    "search": {
+      "id": "wpRa4kBcb",
+      "complexity": 18,
+      "total": 11
+    },
     "builds": 2,
     "mods": [
       {
