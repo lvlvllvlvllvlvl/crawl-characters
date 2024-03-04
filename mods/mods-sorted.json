@@ -14952,6 +14952,17 @@
   {
     "item": "Rainbowstride",
     "stats": "+# to level of socketed gems",
+    "average": 444,
+    "prices": [
+      296,
+      444,
+      592
+    ],
+    "search": {
+      "id": "BEJE2YLC8",
+      "complexity": 18,
+      "total": 3
+    },
     "builds": 1,
     "mods": [
       {
@@ -14965,6 +14976,13 @@
   {
     "item": "Rainbowstride",
     "stats": "+# to level of socketed aura gems",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "RVBMBPZh7",
+      "complexity": 18,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -14978,6 +14996,20 @@
   {
     "item": "Tabula Rasa",
     "stats": "+# to level of socketed gems",
+    "average": 118,
+    "prices": [
+      65,
+      111,
+      148,
+      148,
+      296,
+      13320
+    ],
+    "search": {
+      "id": "KJBXejMh5",
+      "complexity": 18,
+      "total": 6
+    },
     "builds": 1,
     "mods": [
       {
@@ -14991,6 +15023,24 @@
   {
     "item": "Tabula Rasa",
     "stats": "#% increased damage",
+    "average": 160,
+    "prices": [
+      20,
+      100,
+      148,
+      148,
+      148,
+      148,
+      148,
+      148,
+      296,
+      296
+    ],
+    "search": {
+      "id": "lXj2OynFV",
+      "complexity": 18,
+      "total": 12
+    },
     "builds": 1,
     "mods": [
       {
@@ -15004,6 +15054,24 @@
   {
     "item": "Tabula Rasa",
     "stats": "+# to level of socketed aoe gems",
+    "average": 41.3,
+    "prices": [
+      15,
+      20,
+      20,
+      20,
+      23,
+      25,
+      40,
+      50,
+      100,
+      100
+    ],
+    "search": {
+      "id": "oXjLOwkUl",
+      "complexity": 18,
+      "total": 11
+    },
     "builds": 1,
     "mods": [
       {
