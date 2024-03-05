@@ -15176,6 +15176,19 @@
   {
     "item": "Crown of the Inward Eye",
     "stats": "#% increased maximum life",
+    "average": 268.3425,
+    "prices": [
+      45,
+      146.91,
+      440.73,
+      440.73,
+      1762.92
+    ],
+    "search": {
+      "id": "Bq9WJbXT8",
+      "complexity": 18,
+      "total": 5
+    },
     "builds": 1,
     "mods": [
       {
@@ -16956,6 +16969,16 @@
   {
     "item": "Zeel's Amplifier",
     "stats": "+# to level of socketed aoe gems",
+    "average": 293.82,
+    "prices": [
+      146.91,
+      440.73
+    ],
+    "search": {
+      "id": "Zb4Eb8mHQ",
+      "complexity": 18,
+      "total": 2
+    },
     "builds": 1,
     "mods": [
       {
@@ -16969,6 +16992,13 @@
   {
     "item": "Zeel's Amplifier",
     "stats": "+# to level of socketed gems, #% of physical damage from hits taken as lightning damage",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "2BrRVbeUk",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -16988,6 +17018,18 @@
   {
     "item": "Zeel's Amplifier",
     "stats": "+# to level of socketed gems",
+    "average": 146.91,
+    "prices": [
+      146.91,
+      146.91,
+      146.91,
+      2203.65
+    ],
+    "search": {
+      "id": "4qnPaPvC9",
+      "complexity": 18,
+      "total": 4
+    },
     "builds": 1,
     "mods": [
       {
@@ -17001,6 +17043,15 @@
   {
     "item": "Zeel's Amplifier",
     "stats": "+# to level of socketed aoe gems, you take #% reduced extra damage from critical strikes",
+    "average": 440.73,
+    "prices": [
+      440.73
+    ],
+    "search": {
+      "id": "8qB66P8UV",
+      "complexity": 29,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
