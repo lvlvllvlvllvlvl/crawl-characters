@@ -3795,6 +3795,17 @@
   {
     "item": "Badge of the Brotherhood",
     "stats": "hatred has #% increased aura effect",
+    "average": 12126.666666666666,
+    "prices": [
+      5093.200000000001,
+      9458.800000000001,
+      21828
+    ],
+    "search": {
+      "id": "Ey6w67Bh5",
+      "complexity": 18,
+      "total": 3
+    },
     "builds": 2,
     "mods": [
       {
@@ -3808,6 +3819,13 @@
   {
     "item": "Natural Affinity",
     "stats": "#% increased area of effect",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "MvR4pwPcJ",
+      "complexity": 18,
+      "total": 0
+    },
     "builds": 2,
     "mods": [
       {
@@ -3821,6 +3839,16 @@
   {
     "item": "Natural Affinity",
     "stats": "damage penetrates #% elemental resistances",
+    "average": 873.1200000000001,
+    "prices": [
+      727.6,
+      1018.6400000000001
+    ],
+    "search": {
+      "id": "R242ZPOi7",
+      "complexity": 18,
+      "total": 2
+    },
     "builds": 2,
     "mods": [
       {
@@ -3834,6 +3862,15 @@
   {
     "item": "Hrimsorrow",
     "stats": "#% increased maximum life",
+    "average": 60,
+    "prices": [
+      60
+    ],
+    "search": {
+      "id": "jPp7k4XuX",
+      "complexity": 18,
+      "total": 1
+    },
     "builds": 2,
     "mods": [
       {
@@ -3847,6 +3884,24 @@
   {
     "item": "Ephemeral Edge",
     "stats": "resolute technique",
+    "average": 630.5866666666667,
+    "prices": [
+      436.56000000000006,
+      582.08,
+      582.08,
+      727.6,
+      727.6,
+      727.6,
+      1164.16,
+      1455.2,
+      1891.7600000000002,
+      2619.36
+    ],
+    "search": {
+      "id": "3BrQ3l9c5",
+      "complexity": 18,
+      "total": 17
+    },
     "builds": 2,
     "mods": [
       {
