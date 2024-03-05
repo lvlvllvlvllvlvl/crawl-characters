@@ -5196,6 +5196,13 @@
   {
     "item": "Goldwyrm",
     "stats": "+# to level of socketed gems, +# to level of socketed minion gems",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "R3624VqI7",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -5215,6 +5222,24 @@
   {
     "item": "Goldwyrm",
     "stats": "grants level # haste skill",
+    "average": 79.088,
+    "prices": [
+      5,
+      20,
+      30,
+      50,
+      90,
+      90,
+      100,
+      100,
+      160,
+      145.88
+    ],
+    "search": {
+      "id": "3BYY9LJi5",
+      "complexity": 18,
+      "total": 21
+    },
     "builds": 1,
     "mods": [
       {
@@ -5228,6 +5253,18 @@
   {
     "item": "Sentari's Answer",
     "stats": "#% increased maximum life",
+    "average": 331.76,
+    "prices": [
+      80,
+      80,
+      437.64,
+      729.4
+    ],
+    "search": {
+      "id": "mXYGO9aC6",
+      "complexity": 18,
+      "total": 4
+    },
     "builds": 1,
     "mods": [
       {
@@ -5241,6 +5278,19 @@
   {
     "item": "Sentari's Answer",
     "stats": "#% of physical damage from hits taken as chaos damage",
+    "average": 291.76,
+    "prices": [
+      291.76,
+      291.76,
+      437.64,
+      875.28,
+      1458.8
+    ],
+    "search": {
+      "id": "7lozQ2lH5",
+      "complexity": 18,
+      "total": 5
+    },
     "builds": 1,
     "mods": [
       {
@@ -5254,6 +5304,21 @@
   {
     "item": "Sentari's Answer",
     "stats": "you take #% reduced extra damage from critical strikes",
+    "average": 1322.92,
+    "prices": [
+      50,
+      729.4,
+      729.4,
+      2188.2,
+      2917.6,
+      6564.599999999999,
+      21882
+    ],
+    "search": {
+      "id": "8adzGlqCV",
+      "complexity": 18,
+      "total": 7
+    },
     "builds": 1,
     "mods": [
       {
