@@ -10783,6 +10783,13 @@
   {
     "item": "Headhunter",
     "stats": "#% increased area of effect, wrath has #% increased aura effect",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "6Zv5PPXcG",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -10802,6 +10809,24 @@
   {
     "item": "Headhunter",
     "stats": "#% increased area of effect",
+    "average": 10455.656249999998,
+    "prices": [
+      7273.5,
+      7273.5,
+      9455.55,
+      10182.9,
+      10910.25,
+      11637.6,
+      13092.3,
+      13819.65,
+      21820.5,
+      40004.25
+    ],
+    "search": {
+      "id": "OVwVMgVTE",
+      "complexity": 18,
+      "total": 16
+    },
     "builds": 1,
     "mods": [
       {
@@ -10815,6 +10840,13 @@
   {
     "item": "Black Sun Crest",
     "stats": "socketed skill gems get a #% cost & reservation multiplier, cannot be blinded",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "BEQP07Wf8",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -10834,6 +10866,24 @@
   {
     "item": "Void Battery",
     "stats": "#% increased critical strike chance",
+    "average": 268.61333333333334,
+    "prices": [
+      40,
+      50,
+      145.47,
+      145.47,
+      145.47,
+      290.94,
+      436.40999999999997,
+      581.88,
+      581.88,
+      872.8199999999999
+    ],
+    "search": {
+      "id": "LmydjKGIn",
+      "complexity": 18,
+      "total": 11
+    },
     "builds": 1,
     "mods": [
       {
@@ -10847,6 +10897,24 @@
   {
     "item": "Void Battery",
     "stats": "damage penetrates #% elemental resistances",
+    "average": 1047.3840000000002,
+    "prices": [
+      581.88,
+      581.88,
+      581.88,
+      872.8199999999999,
+      1163.76,
+      1163.76,
+      1309.23,
+      1309.23,
+      1454.7,
+      1454.7
+    ],
+    "search": {
+      "id": "mP20bDrt6",
+      "complexity": 18,
+      "total": 38
+    },
     "builds": 1,
     "mods": [
       {
