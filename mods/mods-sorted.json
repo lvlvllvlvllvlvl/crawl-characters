@@ -144,6 +144,15 @@
   {
     "item": "Vaal Caress",
     "stats": "+# to level of socketed aura gems",
+    "average": 731.75,
+    "prices": [
+      731.75
+    ],
+    "search": {
+      "id": "lPr5YawFV",
+      "complexity": 18,
+      "total": 1
+    },
     "builds": 12,
     "mods": [
       {
@@ -157,6 +166,24 @@
   {
     "item": "String of Servitude",
     "stats": "#% increased rarity of items found",
+    "average": 21.46,
+    "prices": [
+      5,
+      19.6,
+      8,
+      10,
+      10,
+      12,
+      20,
+      40,
+      40,
+      50
+    ],
+    "search": {
+      "id": "YVrXkEDUY",
+      "complexity": 18,
+      "total": 25
+    },
     "builds": 10,
     "mods": [
       {
@@ -170,6 +197,24 @@
   {
     "item": "Goldwyrm",
     "stats": "+#% chance to suppress spell damage",
+    "average": 35.7,
+    "prices": [
+      5,
+      12,
+      15,
+      20,
+      30,
+      35,
+      40,
+      60,
+      70,
+      70
+    ],
+    "search": {
+      "id": "EG8VqLZU5",
+      "complexity": 19,
+      "total": 70
+    },
     "builds": 9,
     "mods": [
       {
@@ -184,6 +229,24 @@
   {
     "item": "Heatshiver",
     "stats": "+# to maximum power charges",
+    "average": 2283.06,
+    "prices": [
+      1756.1999999999998,
+      1756.1999999999998,
+      2195.25,
+      2195.25,
+      2195.25,
+      2195.25,
+      2341.6,
+      2634.2999999999997,
+      2634.2999999999997,
+      2927
+    ],
+    "search": {
+      "id": "R24kzDqc7",
+      "complexity": 18,
+      "total": 15
+    },
     "builds": 9,
     "mods": [
       {
@@ -197,6 +260,24 @@
   {
     "item": "Eyes of the Greatwolf",
     "stats": "#% increased quantity of items found",
+    "average": 37,
+    "prices": [
+      20,
+      30,
+      30,
+      30,
+      40,
+      40,
+      40,
+      40,
+      50,
+      50
+    ],
+    "search": {
+      "id": "ZPQr9XbfQ",
+      "complexity": 18,
+      "total": 556
+    },
     "builds": 8,
     "mods": [
       {
