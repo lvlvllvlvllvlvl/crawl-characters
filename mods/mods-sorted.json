@@ -16132,6 +16132,13 @@
   {
     "item": "Dissolution of the Flesh",
     "stats": "damage penetrates #% elemental resistances",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "vlqGP3BTE",
+      "complexity": 18,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -16145,6 +16152,16 @@
   {
     "item": "Hrimsorrow",
     "stats": "curse enemies with elemental weakness on hit",
+    "average": 512.2950000000001,
+    "prices": [
+      146.37,
+      878.22
+    ],
+    "search": {
+      "id": "YVqVVY6cY",
+      "complexity": 18,
+      "total": 2
+    },
     "builds": 1,
     "mods": [
       {
@@ -16158,6 +16175,22 @@
   {
     "item": "Hrimsorrow",
     "stats": "+# to maximum frenzy charges",
+    "average": 245.72428571428574,
+    "prices": [
+      110,
+      146.37,
+      146.37,
+      292.74,
+      292.74,
+      292.74,
+      439.11,
+      1463.7
+    ],
+    "search": {
+      "id": "XqDE6QRuP",
+      "complexity": 18,
+      "total": 8
+    },
     "builds": 1,
     "mods": [
       {
@@ -16171,6 +16204,13 @@
   {
     "item": "Hrimsorrow",
     "stats": "+# to level of socketed minion gems, +# to maximum frenzy charges",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "gXnmRZgFQ",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -16260,6 +16300,17 @@
   {
     "item": "The Jinxed Juju",
     "stats": "wrath has #% increased aura effect",
+    "average": 3951.9900000000002,
+    "prices": [
+      878.22,
+      2927.4,
+      8050.35
+    ],
+    "search": {
+      "id": "oX7R79kFl",
+      "complexity": 18,
+      "total": 3
+    },
     "builds": 1,
     "mods": [
       {
