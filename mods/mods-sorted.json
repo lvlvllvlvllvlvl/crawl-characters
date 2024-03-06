@@ -15888,6 +15888,22 @@
   {
     "item": "Null and Void",
     "stats": "curse enemies with vulnerability on hit",
+    "average": 146.34,
+    "prices": [
+      20,
+      125,
+      146.34,
+      146.34,
+      146.34,
+      292.68,
+      512.19,
+      878.04
+    ],
+    "search": {
+      "id": "BEDbEmKu8",
+      "complexity": 18,
+      "total": 8
+    },
     "builds": 1,
     "mods": [
       {
@@ -15901,6 +15917,17 @@
   {
     "item": "Null and Void",
     "stats": "+# to maximum frenzy charges",
+    "average": 445.6866666666667,
+    "prices": [
+      20,
+      292.68,
+      1024.38
+    ],
+    "search": {
+      "id": "PdaZZ9GhL",
+      "complexity": 18,
+      "total": 3
+    },
     "builds": 1,
     "mods": [
       {
@@ -15914,6 +15941,17 @@
   {
     "item": "Badge of the Brotherhood",
     "stats": "#% of cold damage leeched as life",
+    "average": 14634,
+    "prices": [
+      2926.8,
+      11707.2,
+      29268
+    ],
+    "search": {
+      "id": "9Yv62Y4iK",
+      "complexity": 19,
+      "total": 3
+    },
     "builds": 1,
     "mods": [
       {
@@ -15928,6 +15966,16 @@
   {
     "item": "Badge of the Brotherhood",
     "stats": "+#% to all maximum resistances",
+    "average": 32926.5,
+    "prices": [
+      29268,
+      36585
+    ],
+    "search": {
+      "id": "3Br0vBZU5",
+      "complexity": 18,
+      "total": 2
+    },
     "builds": 1,
     "mods": [
       {
@@ -15941,6 +15989,13 @@
   {
     "item": "Badge of the Brotherhood",
     "stats": "you can apply an additional curse, wrath has #% increased aura effect",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "Yw9Z6MXtY",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
