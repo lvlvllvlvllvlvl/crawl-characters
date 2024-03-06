@@ -1948,6 +1948,24 @@
   {
     "item": "Sadima's Touch",
     "stats": "#% increased cast speed",
+    "average": 108.13142857142859,
+    "prices": [
+      40,
+      40,
+      90,
+      146.73,
+      146.73,
+      146.73,
+      146.73,
+      293.46,
+      2934.6,
+      22009.5
+    ],
+    "search": {
+      "id": "K9gKZ2RC5",
+      "complexity": 18,
+      "total": 10
+    },
     "builds": 2,
     "mods": [
       {
@@ -1961,6 +1979,24 @@
   {
     "item": "Sadima's Touch",
     "stats": "curse enemies with enfeeble on hit",
+    "average": 98.177,
+    "prices": [
+      40,
+      29.85,
+      50,
+      75,
+      100,
+      100,
+      146.73,
+      146.73,
+      146.73,
+      146.73
+    ],
+    "search": {
+      "id": "JVdY989Fl",
+      "complexity": 18,
+      "total": 21
+    },
     "builds": 2,
     "mods": [
       {
@@ -1974,6 +2010,17 @@
   {
     "item": "Sadima's Touch",
     "stats": "#% increased maximum energy shield",
+    "average": 180.0633333333333,
+    "prices": [
+      100,
+      146.73,
+      293.46
+    ],
+    "search": {
+      "id": "PdDK4Y7iL",
+      "complexity": 18,
+      "total": 3
+    },
     "builds": 2,
     "mods": [
       {
@@ -1987,6 +2034,24 @@
   {
     "item": "Eyes of the Greatwolf",
     "stats": "+#% to global critical strike multiplier",
+    "average": 12.6,
+    "prices": [
+      4,
+      10,
+      10,
+      10,
+      10,
+      10,
+      15,
+      17,
+      20,
+      20
+    ],
+    "search": {
+      "id": "RVBvyrGF7",
+      "complexity": 18,
+      "total": 401
+    },
     "builds": 2,
     "mods": [
       {
@@ -2000,6 +2065,13 @@
   {
     "item": "Perandus Blazon",
     "stats": "#% increased rarity of items found, zealotry has #% increased aura effect",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "LmonEMVhn",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 2,
     "mods": [
       {
