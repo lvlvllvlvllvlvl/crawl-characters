@@ -4995,6 +4995,13 @@
   {
     "item": "The Torrent's Reclamation",
     "stats": "#% increased dexterity, #% increased intelligence, #% increased maximum energy shield",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "KJB87pPi5",
+      "complexity": 20,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -5020,6 +5027,24 @@
   {
     "item": "Lightning Coil",
     "stats": "#% additional physical damage reduction while stationary",
+    "average": 79.37555555555556,
+    "prices": [
+      10,
+      17,
+      30,
+      60,
+      80,
+      90,
+      135,
+      146.19,
+      146.19,
+      438.57
+    ],
+    "search": {
+      "id": "6ZBDYWkFG",
+      "complexity": 18,
+      "total": 29
+    },
     "builds": 1,
     "mods": [
       {
@@ -5033,6 +5058,24 @@
   {
     "item": "Lightning Coil",
     "stats": "+# to level of socketed duration gems",
+    "average": 152.952,
+    "prices": [
+      40,
+      100,
+      100,
+      120,
+      146.19,
+      146.19,
+      146.19,
+      146.19,
+      292.38,
+      292.38
+    ],
+    "search": {
+      "id": "waPeM2jtb",
+      "complexity": 18,
+      "total": 36
+    },
     "builds": 1,
     "mods": [
       {
@@ -5046,6 +5089,13 @@
   {
     "item": "Lightning Coil",
     "stats": "#% increased damage, #% reduced lightning damage taken",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "XqDYal7CP",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -5065,6 +5115,24 @@
   {
     "item": "Lightning Coil",
     "stats": "+# to level of socketed gems",
+    "average": 657.855,
+    "prices": [
+      438.57,
+      438.57,
+      438.57,
+      438.57,
+      584.76,
+      584.76,
+      877.14,
+      877.14,
+      877.14,
+      1023.3299999999999
+    ],
+    "search": {
+      "id": "2BrQXgYFk",
+      "complexity": 18,
+      "total": 44
+    },
     "builds": 1,
     "mods": [
       {
