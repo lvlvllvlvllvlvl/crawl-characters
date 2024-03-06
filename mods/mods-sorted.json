@@ -6271,6 +6271,18 @@
   {
     "item": "Victario's Influence",
     "stats": "+# to level of socketed aoe gems, +# to level of socketed projectile gems",
+    "average": 424.8533333333333,
+    "prices": [
+      100,
+      440.46,
+      734.0999999999999,
+      2642.7599999999998
+    ],
+    "search": {
+      "id": "jXjEjJlHX",
+      "complexity": 29,
+      "total": 4
+    },
     "builds": 1,
     "mods": [
       {
@@ -6290,6 +6302,16 @@
   {
     "item": "Victario's Influence",
     "stats": "+# to level of socketed aura gems, +# to level of socketed trap or mine gems",
+    "average": 318.64,
+    "prices": [
+      50,
+      587.28
+    ],
+    "search": {
+      "id": "WVWPWyrCm",
+      "complexity": 29,
+      "total": 2
+    },
     "builds": 1,
     "mods": [
       {
@@ -6309,6 +6331,19 @@
   {
     "item": "Alpha's Howl",
     "stats": "+# to level of socketed duration gems",
+    "average": 595.5749999999999,
+    "prices": [
+      30,
+      150,
+      734.0999999999999,
+      1468.1999999999998,
+      29364
+    ],
+    "search": {
+      "id": "Zb5OD8mCQ",
+      "complexity": 18,
+      "total": 5
+    },
     "builds": 1,
     "mods": [
       {
@@ -6322,6 +6357,15 @@
   {
     "item": "Dialla's Malefaction",
     "stats": "+# to level of socketed projectile gems, #% increased damage",
+    "average": 7341,
+    "prices": [
+      7341
+    ],
+    "search": {
+      "id": "3BeXoqdc5",
+      "complexity": 29,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -6341,6 +6385,13 @@
   {
     "item": "Dialla's Malefaction",
     "stats": "+# to level of socketed curse gems, #% reduced lightning damage taken",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "LqXmRGlSn",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
