@@ -16647,6 +16647,24 @@
   {
     "item": "The Poised Prism",
     "stats": "#% increased elemental damage with attack skills",
+    "average": 1.8,
+    "prices": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      2,
+      2,
+      3,
+      3,
+      3
+    ],
+    "search": {
+      "id": "rXmvBJzSQ",
+      "complexity": 18,
+      "total": 72
+    },
     "builds": 1,
     "mods": [
       {
@@ -16682,6 +16700,19 @@
   {
     "item": "Rat's Nest",
     "stats": "socketed skill gems get a #% cost & reservation multiplier",
+    "average": 195.584,
+    "prices": [
+      40,
+      60,
+      146.32,
+      292.64,
+      438.96
+    ],
+    "search": {
+      "id": "6ZDz0ZkcG",
+      "complexity": 18,
+      "total": 5
+    },
     "builds": 1,
     "mods": [
       {
@@ -16695,6 +16726,18 @@
   {
     "item": "Aurseize",
     "stats": "curse enemies with elemental weakness on hit",
+    "average": 140,
+    "prices": [
+      40,
+      120,
+      200,
+      200
+    ],
+    "search": {
+      "id": "waPLQLRSb",
+      "complexity": 18,
+      "total": 4
+    },
     "builds": 1,
     "mods": [
       {
@@ -16708,6 +16751,20 @@
   {
     "item": "Leer Cast",
     "stats": "+# to maximum power charges",
+    "average": 99.08,
+    "prices": [
+      70,
+      80,
+      100,
+      146.32,
+      365.79999999999995,
+      1170.56
+    ],
+    "search": {
+      "id": "Xqb5zPKFP",
+      "complexity": 18,
+      "total": 6
+    },
     "builds": 1,
     "mods": [
       {
@@ -16751,6 +16808,15 @@
   {
     "item": "Might of the Meek",
     "stats": "damage penetrates #% lightning resistance",
+    "average": 38,
+    "prices": [
+      38
+    ],
+    "search": {
+      "id": "lXODXjrhV",
+      "complexity": 19,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
