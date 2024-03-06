@@ -5591,6 +5591,24 @@
   {
     "item": "Ventor's Gamble",
     "stats": "bleeding cannot be inflicted on you",
+    "average": 297.36,
+    "prices": [
+      20,
+      146.68,
+      293.36,
+      440.04,
+      586.72,
+      1466.8000000000002,
+      2200.2000000000003,
+      2933.6000000000004,
+      4400.400000000001,
+      12467.800000000001
+    ],
+    "search": {
+      "id": "YVg902DIY",
+      "complexity": 18,
+      "total": 12
+    },
     "builds": 1,
     "mods": [
       {
@@ -5604,6 +5622,24 @@
   {
     "item": "Ventor's Gamble",
     "stats": "#% increased rarity of items found",
+    "average": 1.4,
+    "prices": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      2,
+      2,
+      2,
+      2
+    ],
+    "search": {
+      "id": "v3mJV8DFE",
+      "complexity": 18,
+      "total": 6081
+    },
     "builds": 1,
     "mods": [
       {
@@ -5617,6 +5653,13 @@
   {
     "item": "Invictus Solaris",
     "stats": "+# to level of socketed minion gems",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "jXR7WqltX",
+      "complexity": 18,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -5630,6 +5673,13 @@
   {
     "item": "Soulbound",
     "stats": "anger has #% increased aura effect, grace has #% increased aura effect",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "9YbJLD8uK",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -5649,6 +5699,15 @@
   {
     "item": "Soulbound",
     "stats": "#% increased strength, #% increased intelligence, wrath has #% increased aura effect",
+    "average": 586.72,
+    "prices": [
+      586.72
+    ],
+    "search": {
+      "id": "WVMV76Rfm",
+      "complexity": 20,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
