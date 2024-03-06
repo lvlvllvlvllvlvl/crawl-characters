@@ -15761,6 +15761,13 @@
   {
     "item": "Severed in Sleep",
     "stats": "#% increased attack speed",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "y9R7VBlSR",
+      "complexity": 19,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -15775,6 +15782,13 @@
   {
     "item": "Umbilicus Immortalis",
     "stats": "#% increased strength, #% increased dexterity, +#% to all elemental resistances",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "GkJ5moZcb",
+      "complexity": 20,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -15800,6 +15814,15 @@
   {
     "item": "Umbilicus Immortalis",
     "stats": "#% increased maximum energy shield",
+    "average": 100,
+    "prices": [
+      100
+    ],
+    "search": {
+      "id": "MVZbYLGUJ",
+      "complexity": 18,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -15813,6 +15836,13 @@
   {
     "item": "Umbilicus Immortalis",
     "stats": "#% increased strength, #% increased intelligence",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "MV5YWYMsJ",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -15832,6 +15862,19 @@
   {
     "item": "Null and Void",
     "stats": "+# to level of socketed aura gems",
+    "average": 47.05,
+    "prices": [
+      6.6,
+      6.6,
+      50,
+      125,
+      1097.55
+    ],
+    "search": {
+      "id": "JqXqnPWhl",
+      "complexity": 18,
+      "total": 5
+    },
     "builds": 1,
     "mods": [
       {
