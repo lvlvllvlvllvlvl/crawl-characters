@@ -2019,6 +2019,24 @@
   {
     "item": "Goldwyrm",
     "stats": "#% increased maximum energy shield",
+    "average": 13.875,
+    "prices": [
+      8,
+      10,
+      10,
+      14,
+      14,
+      15,
+      20,
+      20,
+      50,
+      50
+    ],
+    "search": {
+      "id": "5okOd7nTa",
+      "complexity": 18,
+      "total": 27
+    },
     "builds": 2,
     "mods": [
       {
@@ -2032,6 +2050,24 @@
   {
     "item": "Goldwyrm",
     "stats": "+# to level of socketed curse gems",
+    "average": 26.25,
+    "prices": [
+      5,
+      15,
+      20,
+      20,
+      30,
+      30,
+      40,
+      50,
+      70,
+      80
+    ],
+    "search": {
+      "id": "oZ89EgYsl",
+      "complexity": 18,
+      "total": 19
+    },
     "builds": 2,
     "mods": [
       {
@@ -2315,6 +2351,18 @@
   {
     "item": "Shadows and Dust",
     "stats": "curse enemies with elemental weakness on hit",
+    "average": 310.71,
+    "prices": [
+      29,
+      40,
+      440.18999999999994,
+      733.65
+    ],
+    "search": {
+      "id": "2Gb25ZGfk",
+      "complexity": 18,
+      "total": 4
+    },
     "builds": 2,
     "mods": [
       {
@@ -2607,6 +2655,13 @@
   {
     "item": "Ceinture of Benevolence",
     "stats": "discipline has #% increased aura effect",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "R24XldWi7",
+      "complexity": 18,
+      "total": 0
+    },
     "builds": 2,
     "mods": [
       {
@@ -2827,6 +2882,21 @@
   {
     "item": "Shavronne's Wrappings",
     "stats": "+# to level of socketed aura gems",
+    "average": 269.00499999999994,
+    "prices": [
+      146.73,
+      146.73,
+      293.46,
+      293.46,
+      293.46,
+      440.18999999999994,
+      5869.2
+    ],
+    "search": {
+      "id": "3BrP4bGs5",
+      "complexity": 18,
+      "total": 7
+    },
     "builds": 2,
     "mods": [
       {
