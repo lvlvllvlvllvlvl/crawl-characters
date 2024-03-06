@@ -4026,6 +4026,18 @@
   {
     "item": "Bisco's Leash",
     "stats": "#% increased quantity of items found",
+    "average": 439.5,
+    "prices": [
+      439.5,
+      439.5,
+      439.5,
+      732.5
+    ],
+    "search": {
+      "id": "80ZXWR2UV",
+      "complexity": 18,
+      "total": 4
+    },
     "builds": 1,
     "mods": [
       {
@@ -4039,6 +4051,24 @@
   {
     "item": "Bisco's Leash",
     "stats": "#% increased critical strike chance during any flask effect",
+    "average": 95.16666666666667,
+    "prices": [
+      20,
+      25,
+      29,
+      50,
+      146.5,
+      146.5,
+      146.5,
+      146.5,
+      146.5,
+      14650
+    ],
+    "search": {
+      "id": "jPpo3RdfX",
+      "complexity": 18,
+      "total": 10
+    },
     "builds": 1,
     "mods": [
       {
@@ -4052,6 +4082,13 @@
   {
     "item": "Bisco's Leash",
     "stats": "#% increased rarity of items found, discipline has #% increased aura effect",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "3BZbrBkF5",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -4071,6 +4108,18 @@
   {
     "item": "Demon Stitcher",
     "stats": "+# to level of socketed aura gems",
+    "average": 91.25,
+    "prices": [
+      4,
+      50,
+      219.75,
+      732.5
+    ],
+    "search": {
+      "id": "8a2GpmBIV",
+      "complexity": 18,
+      "total": 4
+    },
     "builds": 1,
     "mods": [
       {
@@ -4084,6 +4133,21 @@
   {
     "item": "Matua Tupuna",
     "stats": "#% increased maximum energy shield",
+    "average": 127.1,
+    "prices": [
+      98,
+      98,
+      146.5,
+      146.5,
+      146.5,
+      439.5,
+      1172
+    ],
+    "search": {
+      "id": "LeW45Y7sn",
+      "complexity": 18,
+      "total": 7
+    },
     "builds": 1,
     "mods": [
       {
