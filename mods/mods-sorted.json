@@ -2032,6 +2032,21 @@
   {
     "item": "Ceinture of Benevolence",
     "stats": "#% increased strength, #% increased intelligence",
+    "average": 94.92166666666667,
+    "prices": [
+      20,
+      30,
+      80,
+      146.51,
+      146.51,
+      146.51,
+      293.02
+    ],
+    "search": {
+      "id": "z27GVXRI4",
+      "complexity": 29,
+      "total": 7
+    },
     "builds": 2,
     "mods": [
       {
@@ -2224,6 +2239,19 @@
   {
     "item": "Alpha's Howl",
     "stats": "+# to maximum power charges",
+    "average": 293.02,
+    "prices": [
+      146.51,
+      146.51,
+      439.53,
+      439.53,
+      1172.08
+    ],
+    "search": {
+      "id": "lXjLVaVUV",
+      "complexity": 18,
+      "total": 5
+    },
     "builds": 2,
     "mods": [
       {
@@ -2470,6 +2498,18 @@
   {
     "item": "Saffell's Frame",
     "stats": "#% of physical damage from hits taken as chaos damage",
+    "average": 1318.59,
+    "prices": [
+      439.53,
+      439.53,
+      1465.1,
+      2930.2
+    ],
+    "search": {
+      "id": "2BrBPO5hk",
+      "complexity": 18,
+      "total": 4
+    },
     "builds": 2,
     "mods": [
       {
@@ -2483,6 +2523,15 @@
   {
     "item": "Fleshcrafter",
     "stats": "+# to level of socketed duration gems",
+    "average": 4395.299999999999,
+    "prices": [
+      4395.299999999999
+    ],
+    "search": {
+      "id": "GZypBposb",
+      "complexity": 18,
+      "total": 1
+    },
     "builds": 2,
     "mods": [
       {
@@ -2578,6 +2627,19 @@
   {
     "item": "Belly of the Beast",
     "stats": "+# to level of socketed aoe gems",
+    "average": 263.1766666666667,
+    "prices": [
+      50,
+      300,
+      439.53,
+      1318.59,
+      4395.299999999999
+    ],
+    "search": {
+      "id": "jPpMq8btX",
+      "complexity": 18,
+      "total": 5
+    },
     "builds": 2,
     "mods": [
       {
