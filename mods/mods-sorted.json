@@ -18018,6 +18018,15 @@
   {
     "item": "Winterweave",
     "stats": "hatred has #% increased aura effect",
+    "average": 587.16,
+    "prices": [
+      587.16
+    ],
+    "search": {
+      "id": "Ey6zz5zc5",
+      "complexity": 18,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -18031,6 +18040,13 @@
   {
     "item": "Lethal Pride",
     "stats": "#% reduced effect of curses on you, #% reduced bleed duration on you",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "MV4RGqMsJ",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -18050,6 +18066,24 @@
   {
     "item": "Darkscorn",
     "stats": "+#% to global critical strike multiplier",
+    "average": 43.3,
+    "prices": [
+      9,
+      20,
+      25,
+      25,
+      40,
+      50,
+      50,
+      60,
+      75,
+      79
+    ],
+    "search": {
+      "id": "mXjqZ8wt6",
+      "complexity": 18,
+      "total": 29
+    },
     "builds": 1,
     "mods": [
       {
@@ -18063,6 +18097,24 @@
   {
     "item": "The Untouched Soul",
     "stats": "#% increased rarity of items found",
+    "average": 5,
+    "prices": [
+      4,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      7.59,
+      10
+    ],
+    "search": {
+      "id": "vlE0LQXHE",
+      "complexity": 18,
+      "total": 72
+    },
     "builds": 1,
     "mods": [
       {
