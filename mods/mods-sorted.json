@@ -12227,6 +12227,19 @@
   {
     "item": "Heatshiver",
     "stats": "#% of lightning damage leeched as life",
+    "average": 146.81,
+    "prices": [
+      40,
+      146.81,
+      146.81,
+      1468.1,
+      7193.6900000000005
+    ],
+    "search": {
+      "id": "pXkjkjvT0",
+      "complexity": 19,
+      "total": 5
+    },
     "builds": 1,
     "mods": [
       {
@@ -12241,6 +12254,16 @@
   {
     "item": "Greed's Embrace",
     "stats": "+# to level of socketed gems, #% additional physical damage reduction while stationary",
+    "average": 11744.8,
+    "prices": [
+      5138.35,
+      18351.25
+    ],
+    "search": {
+      "id": "jXjr0VZTX",
+      "complexity": 29,
+      "total": 2
+    },
     "builds": 1,
     "mods": [
       {
@@ -12260,6 +12283,15 @@
   {
     "item": "Greed's Embrace",
     "stats": "+# to level of socketed aoe gems, #% reduced lightning damage taken",
+    "average": 2202.15,
+    "prices": [
+      2202.15
+    ],
+    "search": {
+      "id": "jXJd8wdHX",
+      "complexity": 29,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -12279,6 +12311,24 @@
   {
     "item": "Greed's Embrace",
     "stats": "+# to level of socketed warcry gems",
+    "average": 21.428571428571427,
+    "prices": [
+      20,
+      20,
+      20,
+      20,
+      20,
+      25,
+      25,
+      30,
+      70,
+      146.81
+    ],
+    "search": {
+      "id": "YVqMX5kUY",
+      "complexity": 18,
+      "total": 26
+    },
     "builds": 1,
     "mods": [
       {
@@ -12292,6 +12342,16 @@
   {
     "item": "Greed's Embrace",
     "stats": "+# to level of socketed aoe gems, +# to level of socketed aura gems",
+    "average": 14681,
+    "prices": [
+      14681,
+      14681
+    ],
+    "search": {
+      "id": "9YD9l8yIK",
+      "complexity": 29,
+      "total": 2
+    },
     "builds": 1,
     "mods": [
       {
