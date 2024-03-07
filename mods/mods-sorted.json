@@ -590,6 +590,24 @@
   {
     "item": "String of Servitude",
     "stats": "discipline has #% increased aura effect",
+    "average": 57,
+    "prices": [
+      5,
+      20,
+      30,
+      30,
+      40,
+      70,
+      75,
+      100,
+      100,
+      100
+    ],
+    "search": {
+      "id": "0PQe4Kehg",
+      "complexity": 18,
+      "total": 17
+    },
     "builds": 6,
     "mods": [
       {
@@ -603,6 +621,22 @@
   {
     "item": "Soul Mantle",
     "stats": "+# to level of socketed projectile gems",
+    "average": 740.0508333333333,
+    "prices": [
+      30,
+      80,
+      146.79,
+      220.185,
+      1761.48,
+      2201.85,
+      7339.5,
+      36697.5
+    ],
+    "search": {
+      "id": "rY5anw7cQ",
+      "complexity": 18,
+      "total": 8
+    },
     "builds": 6,
     "mods": [
       {
@@ -616,6 +650,24 @@
   {
     "item": "March of the Legion",
     "stats": "+# to level of socketed gems",
+    "average": 169.85699999999997,
+    "prices": [
+      4,
+      60,
+      146.79,
+      146.79,
+      146.79,
+      146.79,
+      161.469,
+      220.185,
+      220.185,
+      293.58
+    ],
+    "search": {
+      "id": "jPpB8gdHX",
+      "complexity": 18,
+      "total": 39
+    },
     "builds": 6,
     "mods": [
       {
@@ -629,6 +681,20 @@
   {
     "item": "Hrimsorrow",
     "stats": "+#% to spell critical strike chance",
+    "average": 369.1766666666667,
+    "prices": [
+      80,
+      80,
+      146.79,
+      440.37,
+      587.16,
+      880.74
+    ],
+    "search": {
+      "id": "mP2PGvrt6",
+      "complexity": 18,
+      "total": 6
+    },
     "builds": 6,
     "mods": [
       {
@@ -642,6 +708,19 @@
   {
     "item": "Oskarm",
     "stats": "curse enemies with vulnerability on hit",
+    "average": 489.29999999999995,
+    "prices": [
+      146.79,
+      587.16,
+      733.9499999999999,
+      14679,
+      29358
+    ],
+    "search": {
+      "id": "Ey658Gzh5",
+      "complexity": 18,
+      "total": 5
+    },
     "builds": 6,
     "mods": [
       {
