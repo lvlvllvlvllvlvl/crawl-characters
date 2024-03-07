@@ -14433,6 +14433,13 @@
   {
     "item": "Malachai's Loop",
     "stats": "+# to level of socketed gems, #% of physical damage from hits taken as chaos damage",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "WV4aBkbCm",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -14452,6 +14459,24 @@
   {
     "item": "Malachai's Loop",
     "stats": "+# to level of socketed minion gems",
+    "average": 87.7145,
+    "prices": [
+      30,
+      30,
+      35,
+      81.06,
+      89,
+      73.155,
+      100,
+      146.31,
+      146.31,
+      146.31
+    ],
+    "search": {
+      "id": "R3pplRBf7",
+      "complexity": 18,
+      "total": 14
+    },
     "builds": 1,
     "mods": [
       {
@@ -14465,6 +14490,18 @@
   {
     "item": "Badge of the Brotherhood",
     "stats": "+#% to all elemental resistances",
+    "average": 2158.0725,
+    "prices": [
+      146.31,
+      731.55,
+      3365.13,
+      4389.3
+    ],
+    "search": {
+      "id": "4dla0gMH9",
+      "complexity": 18,
+      "total": 4
+    },
     "builds": 1,
     "mods": [
       {
@@ -14478,6 +14515,22 @@
   {
     "item": "Badge of the Brotherhood",
     "stats": "+#% to all maximum resistances",
+    "average": 6968.01375,
+    "prices": [
+      2340.96,
+      2926.2,
+      5120.85,
+      5852.4,
+      7315.5,
+      7315.5,
+      11704.8,
+      13167.9
+    ],
+    "search": {
+      "id": "3Br0vBZU5",
+      "complexity": 18,
+      "total": 8
+    },
     "builds": 1,
     "mods": [
       {
@@ -14491,6 +14544,15 @@
   {
     "item": "Badge of the Brotherhood",
     "stats": "#% of cold damage leeched as life",
+    "average": 2926.2,
+    "prices": [
+      2926.2
+    ],
+    "search": {
+      "id": "9Yv62Y4iK",
+      "complexity": 19,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
