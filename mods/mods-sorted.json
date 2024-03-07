@@ -10451,6 +10451,24 @@
   {
     "item": "Unnatural Instinct",
     "stats": "damage penetrates #% fire resistance",
+    "average": 111.9,
+    "prices": [
+      50,
+      60,
+      100,
+      100,
+      146.3,
+      146.3,
+      146.3,
+      146.3,
+      292.6,
+      2926
+    ],
+    "search": {
+      "id": "jwa3MYbfX",
+      "complexity": 19,
+      "total": 12
+    },
     "builds": 1,
     "mods": [
       {
@@ -10465,6 +10483,13 @@
   {
     "item": "Unnatural Instinct",
     "stats": "damage penetrates #% lightning resistance, #% reduced effect of shock on you",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "dXJVXvvUJ",
+      "complexity": 30,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -10485,6 +10510,13 @@
   {
     "item": "Unnatural Instinct",
     "stats": "you cannot be maimed, corrupted blood cannot be inflicted on you",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "8a2EZDvtV",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -10504,6 +10536,13 @@
   {
     "item": "Unnatural Instinct",
     "stats": "#% increased damage, #% increased area of effect",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "KJDLoqRi5",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
