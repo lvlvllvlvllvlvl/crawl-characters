@@ -11054,6 +11054,13 @@
   {
     "item": "Thread of Hope",
     "stats": "damage penetrates #% cold resistance, damage penetrates #% lightning resistance",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "vlEwbeWtE",
+      "complexity": 31,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -11075,6 +11082,13 @@
   {
     "item": "Primordial Harmony",
     "stats": "#% reduced ignite duration on you, #% increased reservation efficiency of skills",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "oX4VYegcl",
+      "complexity": 30,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -11095,6 +11109,15 @@
   {
     "item": "The Anima Stone",
     "stats": "corrupted blood cannot be inflicted on you",
+    "average": 733.9,
+    "prices": [
+      733.9
+    ],
+    "search": {
+      "id": "K9gPvrPT5",
+      "complexity": 18,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -11108,6 +11131,24 @@
   {
     "item": "Sadima's Touch",
     "stats": "+# to maximum frenzy charges",
+    "average": 82.06222222222222,
+    "prices": [
+      10,
+      35,
+      40,
+      50,
+      60,
+      100,
+      150,
+      146.78,
+      146.78,
+      293.56
+    ],
+    "search": {
+      "id": "Qr6GOj7Tw",
+      "complexity": 18,
+      "total": 16
+    },
     "builds": 1,
     "mods": [
       {
@@ -11121,6 +11162,24 @@
   {
     "item": "Sadima's Touch",
     "stats": "curse enemies with despair on hit",
+    "average": 106.38999999999999,
+    "prices": [
+      30,
+      50,
+      50,
+      100,
+      100,
+      146.78,
+      146.78,
+      146.78,
+      146.78,
+      146.78
+    ],
+    "search": {
+      "id": "v3mvnDMCE",
+      "complexity": 18,
+      "total": 20
+    },
     "builds": 1,
     "mods": [
       {
