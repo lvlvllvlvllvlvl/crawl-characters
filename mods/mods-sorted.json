@@ -17101,6 +17101,13 @@
   {
     "item": "Cherrubim's Maleficence",
     "stats": "+# to level of socketed gems, +# to level of socketed aoe gems",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "BGrm5KLf8",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -17120,6 +17127,20 @@
   {
     "item": "Viridi's Veil",
     "stats": "+# to level of socketed projectile gems",
+    "average": 145.89499999999998,
+    "prices": [
+      140,
+      150,
+      146.79,
+      146.79,
+      366.97499999999997,
+      587.16
+    ],
+    "search": {
+      "id": "MVDlgq6UJ",
+      "complexity": 18,
+      "total": 6
+    },
     "builds": 1,
     "mods": [
       {
@@ -17133,6 +17154,16 @@
   {
     "item": "Viridi's Veil",
     "stats": "socketed skill gems get a #% cost & reservation multiplier",
+    "average": 5431.23,
+    "prices": [
+      4256.91,
+      6605.549999999999
+    ],
+    "search": {
+      "id": "9qlwZXQUK",
+      "complexity": 18,
+      "total": 2
+    },
     "builds": 1,
     "mods": [
       {
@@ -17146,6 +17177,17 @@
   {
     "item": "Redblade Banner",
     "stats": "#% increased maximum life",
+    "average": 5871.599999999999,
+    "prices": [
+      2935.7999999999997,
+      5871.599999999999,
+      8807.4
+    ],
+    "search": {
+      "id": "2BrB85dsk",
+      "complexity": 18,
+      "total": 3
+    },
     "builds": 1,
     "mods": [
       {
@@ -17159,6 +17201,17 @@
   {
     "item": "Redblade Banner",
     "stats": "#% of physical damage from hits taken as cold damage",
+    "average": 1859.3400000000001,
+    "prices": [
+      440.37,
+      1467.8999999999999,
+      3669.75
+    ],
+    "search": {
+      "id": "5okog5mFa",
+      "complexity": 18,
+      "total": 3
+    },
     "builds": 1,
     "mods": [
       {
