@@ -16246,6 +16246,20 @@
   {
     "item": "Seven-League Step",
     "stats": "+#% chance to suppress spell damage",
+    "average": 272.91333333333336,
+    "prices": [
+      30,
+      30,
+      40,
+      69.48,
+      734,
+      734
+    ],
+    "search": {
+      "id": "8av99q8IV",
+      "complexity": 19,
+      "total": 6
+    },
     "builds": 1,
     "mods": [
       {
@@ -16260,6 +16274,13 @@
   {
     "item": "Marylene's Fallacy",
     "stats": "+#% to all maximum resistances",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "KJ7E63LU5",
+      "complexity": 18,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -16273,6 +16294,13 @@
   {
     "item": "Marylene's Fallacy",
     "stats": "+#% to all maximum resistances, malevolence has #% increased aura effect",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "nXqVBGyC0",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -16292,6 +16320,24 @@
   {
     "item": "Ixchel's Temptation",
     "stats": "#% increased rarity of items found",
+    "average": 32.77777777777778,
+    "prices": [
+      10,
+      20,
+      20,
+      25,
+      30,
+      40,
+      40,
+      40,
+      40,
+      40
+    ],
+    "search": {
+      "id": "y9qnw9OiR",
+      "complexity": 18,
+      "total": 107
+    },
     "builds": 1,
     "mods": [
       {
@@ -16305,6 +16351,13 @@
   {
     "item": "Lioneye's Vision",
     "stats": "+# to level of socketed aoe gems, +# to level of socketed projectile gems",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "bX3yDrDuL",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
