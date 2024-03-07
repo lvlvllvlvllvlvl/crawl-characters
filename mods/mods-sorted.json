@@ -14025,6 +14025,16 @@
   {
     "item": "The Supreme Truth",
     "stats": "adds # to # lightning damage",
+    "average": 88.025,
+    "prices": [
+      30,
+      146.05
+    ],
+    "search": {
+      "id": "EybrLryC5",
+      "complexity": 19,
+      "total": 2
+    },
     "builds": 1,
     "mods": [
       {
@@ -14039,6 +14049,13 @@
   {
     "item": "The Supreme Truth",
     "stats": "adds # to # fire damage",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "EyRdbkYT5",
+      "complexity": 19,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -14053,6 +14070,15 @@
   {
     "item": "The Supreme Truth",
     "stats": "#% increased cast speed",
+    "average": 1460.5,
+    "prices": [
+      1460.5
+    ],
+    "search": {
+      "id": "OVyp2G8TE",
+      "complexity": 18,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -14066,6 +14092,22 @@
   {
     "item": "Inspired Learning",
     "stats": "minions deal #% increased damage",
+    "average": 70.6375,
+    "prices": [
+      15,
+      15,
+      25,
+      98,
+      60,
+      60,
+      146.05,
+      146.05
+    ],
+    "search": {
+      "id": "oX70bw4il",
+      "complexity": 18,
+      "total": 8
+    },
     "builds": 1,
     "mods": [
       {
@@ -14079,6 +14121,22 @@
   {
     "item": "Inspired Learning",
     "stats": "damage penetrates #% lightning resistance",
+    "average": 34.21142857142858,
+    "prices": [
+      20,
+      20,
+      20,
+      25,
+      25,
+      60,
+      69.48,
+      730.25
+    ],
+    "search": {
+      "id": "kXD66RnF5",
+      "complexity": 19,
+      "total": 8
+    },
     "builds": 1,
     "mods": [
       {
