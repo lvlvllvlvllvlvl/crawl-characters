@@ -18374,6 +18374,24 @@
   {
     "item": "Cloak of Flame",
     "stats": "+# to level of socketed trap or mine gems",
+    "average": 80.224,
+    "prices": [
+      10,
+      10,
+      20,
+      45,
+      50,
+      80,
+      146.81,
+      146.81,
+      146.81,
+      146.81
+    ],
+    "search": {
+      "id": "BEXWzq4T8",
+      "complexity": 18,
+      "total": 33
+    },
     "builds": 1,
     "mods": [
       {
@@ -18387,6 +18405,24 @@
   {
     "item": "Cloak of Flame",
     "stats": "+# to level of socketed gems",
+    "average": 36.75,
+    "prices": [
+      30,
+      30,
+      35,
+      39,
+      40,
+      40,
+      40,
+      40,
+      50,
+      75
+    ],
+    "search": {
+      "id": "3Gwb5LGh5",
+      "complexity": 18,
+      "total": 76
+    },
     "builds": 1,
     "mods": [
       {
@@ -18400,6 +18436,13 @@
   {
     "item": "Bronn's Lithe",
     "stats": "+# to level of socketed aoe gems, you take #% reduced extra damage from critical strikes",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "zeG3n6RF4",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -18419,6 +18462,20 @@
   {
     "item": "Leer Cast",
     "stats": "+# to maximum power charges",
+    "average": 108.405,
+    "prices": [
+      70,
+      70,
+      146.81,
+      146.81,
+      293.62,
+      1174.48
+    ],
+    "search": {
+      "id": "Xqb5zPKFP",
+      "complexity": 18,
+      "total": 6
+    },
     "builds": 1,
     "mods": [
       {
@@ -18432,6 +18489,13 @@
   {
     "item": "Lori's Lantern",
     "stats": "anger has #% increased aura effect, bleeding cannot be inflicted on you",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "oXeP6nKhl",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
