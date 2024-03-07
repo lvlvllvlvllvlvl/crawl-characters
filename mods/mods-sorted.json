@@ -17342,6 +17342,16 @@
   {
     "item": "Piscator's Vigil",
     "stats": "#% increased critical strike chance, damage penetrates #% elemental resistances",
+    "average": 225.20000000000002,
+    "prices": [
+      10,
+      440.40000000000003
+    ],
+    "search": {
+      "id": "Rq6rDKrt7",
+      "complexity": 29,
+      "total": 2
+    },
     "builds": 1,
     "mods": [
       {
@@ -17361,6 +17371,13 @@
   {
     "item": "Piscator's Vigil",
     "stats": "adds # to # cold damage, #% increased attack speed",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "dM4VOoZsJ",
+      "complexity": 31,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -17382,6 +17399,13 @@
   {
     "item": "The Squire",
     "stats": "you take #% reduced extra damage from critical strikes, #% increased maximum life",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "Pd8pwJMhL",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -17401,6 +17425,20 @@
   {
     "item": "Brightbeak",
     "stats": "#% increased attack speed",
+    "average": 450.18666666666667,
+    "prices": [
+      176.16,
+      176.16,
+      440.40000000000003,
+      587.2,
+      587.2,
+      734
+    ],
+    "search": {
+      "id": "vpeZgOWuE",
+      "complexity": 19,
+      "total": 6
+    },
     "builds": 1,
     "mods": [
       {
@@ -17415,6 +17453,24 @@
   {
     "item": "Void Battery",
     "stats": "damage penetrates #% elemental resistances",
+    "average": 719.3200000000002,
+    "prices": [
+      293.6,
+      440.40000000000003,
+      440.40000000000003,
+      587.2,
+      734,
+      880.8000000000001,
+      880.8000000000001,
+      880.8000000000001,
+      1027.6000000000001,
+      1027.6000000000001
+    ],
+    "search": {
+      "id": "mP20bDrt6",
+      "complexity": 18,
+      "total": 36
+    },
     "builds": 1,
     "mods": [
       {
