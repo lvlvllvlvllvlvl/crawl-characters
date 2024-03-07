@@ -16628,6 +16628,13 @@
   {
     "item": "Asenath's Mark",
     "stats": "socketed skill gems get a #% cost & reservation multiplier",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "GkdDyk9Fb",
+      "complexity": 18,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -16641,6 +16648,15 @@
   {
     "item": "Might of the Meek",
     "stats": "#% increased effect of non-damaging ailments",
+    "average": 120,
+    "prices": [
+      120
+    ],
+    "search": {
+      "id": "qXjDDjWfg",
+      "complexity": 18,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -16654,6 +16670,18 @@
   {
     "item": "Might of the Meek",
     "stats": "you cannot be maimed",
+    "average": 188.47500000000002,
+    "prices": [
+      20,
+      146.78,
+      146.78,
+      440.34000000000003
+    ],
+    "search": {
+      "id": "lXJV8VrhV",
+      "complexity": 18,
+      "total": 4
+    },
     "builds": 1,
     "mods": [
       {
@@ -16667,6 +16695,16 @@
   {
     "item": "Might of the Meek",
     "stats": "you cannot be cursed with silence",
+    "average": 12.5,
+    "prices": [
+      10,
+      15
+    ],
+    "search": {
+      "id": "BGrV83KC8",
+      "complexity": 18,
+      "total": 2
+    },
     "builds": 1,
     "mods": [
       {
@@ -16680,6 +16718,16 @@
   {
     "item": "Might of the Meek",
     "stats": "you cannot be hindered",
+    "average": 80.89,
+    "prices": [
+      15,
+      146.78
+    ],
+    "search": {
+      "id": "RVBXglWU7",
+      "complexity": 18,
+      "total": 2
+    },
     "builds": 1,
     "mods": [
       {
