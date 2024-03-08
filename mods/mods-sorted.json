@@ -8182,6 +8182,24 @@
   {
     "item": "Tabula Rasa",
     "stats": "#% increased damage",
+    "average": 412.509375,
+    "prices": [
+      220.005,
+      293.34,
+      293.34,
+      440.01,
+      440.01,
+      440.01,
+      586.68,
+      586.68,
+      12906.96,
+      113962.59
+    ],
+    "search": {
+      "id": "lXj2OynFV",
+      "complexity": 18,
+      "total": 10
+    },
     "builds": 1,
     "mods": [
       {
@@ -8195,6 +8213,20 @@
   {
     "item": "Cold Iron Point",
     "stats": "#% chance to gain unholy might for 3 seconds on kill",
+    "average": 73.83333333333333,
+    "prices": [
+      40,
+      40,
+      70,
+      93,
+      100,
+      100
+    ],
+    "search": {
+      "id": "9Y2wm70uK",
+      "complexity": 18,
+      "total": 6
+    },
     "builds": 1,
     "mods": [
       {
@@ -8208,6 +8240,19 @@
   {
     "item": "Cold Iron Point",
     "stats": "#% increased damage over time",
+    "average": 3006.7349999999997,
+    "prices": [
+      1466.6999999999998,
+      2933.3999999999996,
+      3226.74,
+      4400.099999999999,
+      null
+    ],
+    "search": {
+      "id": "z273V4RI4",
+      "complexity": 18,
+      "total": 5
+    },
     "builds": 1,
     "mods": [
       {
@@ -8221,6 +8266,24 @@
   {
     "item": "Cold Iron Point",
     "stats": "#% increased global critical strike chance",
+    "average": 12.299999999999999,
+    "prices": [
+      7,
+      12.3,
+      12.3,
+      12.3,
+      12.3,
+      12.3,
+      12.3,
+      12.3,
+      12.3,
+      12.3
+    ],
+    "search": {
+      "id": "LeWqod2sn",
+      "complexity": 18,
+      "total": 84
+    },
     "builds": 1,
     "mods": [
       {
@@ -8234,6 +8297,16 @@
   {
     "item": "Breathstealer",
     "stats": "+# to level of socketed aoe gems",
+    "average": 1130.0249999999999,
+    "prices": [
+      60,
+      2200.0499999999997
+    ],
+    "search": {
+      "id": "2BaPbYjIk",
+      "complexity": 18,
+      "total": 2
+    },
     "builds": 1,
     "mods": [
       {
