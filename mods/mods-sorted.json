@@ -6241,6 +6241,13 @@
   {
     "item": "Dialla's Malefaction",
     "stats": "+# to level of socketed aoe gems, +# to level of socketed projectile gems",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "QVnkP97Tw",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -6260,6 +6267,13 @@
   {
     "item": "Dialla's Malefaction",
     "stats": "+# to level of socketed aoe gems, #% reduced chaos damage taken",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "jXj7RKLfX",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -6279,6 +6293,13 @@
   {
     "item": "Dialla's Malefaction",
     "stats": "+# to level of socketed aoe gems, #% reduced fire damage taken",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "gXWOJ2KUQ",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -6298,6 +6319,24 @@
   {
     "item": "Dialla's Malefaction",
     "stats": "+#% to all maximum resistances",
+    "average": 1531.8866666666663,
+    "prices": [
+      146.67,
+      586.68,
+      586.68,
+      1466.6999999999998,
+      1466.6999999999998,
+      1466.6999999999998,
+      2200.0499999999997,
+      2933.3999999999996,
+      2933.3999999999996,
+      4400.099999999999
+    ],
+    "search": {
+      "id": "qX3PwlXtg",
+      "complexity": 18,
+      "total": 18
+    },
     "builds": 1,
     "mods": [
       {
@@ -6311,6 +6350,24 @@
   {
     "item": "Dialla's Malefaction",
     "stats": "+# to level of socketed duration gems",
+    "average": 5657.271428571427,
+    "prices": [
+      4400.099999999999,
+      4400.099999999999,
+      5866.799999999999,
+      5866.799999999999,
+      5866.799999999999,
+      5866.799999999999,
+      7333.499999999999,
+      15693.689999999999,
+      17600.399999999998,
+      22000.499999999996
+    ],
+    "search": {
+      "id": "JVdoQ85cl",
+      "complexity": 18,
+      "total": 13
+    },
     "builds": 1,
     "mods": [
       {
