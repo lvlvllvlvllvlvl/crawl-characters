@@ -6657,6 +6657,15 @@
   {
     "item": "String of Servitude",
     "stats": "#% increased maximum energy shield, hatred has #% increased aura effect",
+    "average": 1320.21,
+    "prices": [
+      1320.21
+    ],
+    "search": {
+      "id": "MV4KYqDFJ",
+      "complexity": 29,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -6676,6 +6685,13 @@
   {
     "item": "Memory Vault",
     "stats": "+# to level of socketed projectile gems",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "VM6vDGdFp",
+      "complexity": 18,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -6689,6 +6705,18 @@
   {
     "item": "Memory Vault",
     "stats": "+# to maximum power charges",
+    "average": 440.07,
+    "prices": [
+      146.69,
+      293.38,
+      880.14,
+      7334.5
+    ],
+    "search": {
+      "id": "YVdGlWbFY",
+      "complexity": 18,
+      "total": 4
+    },
     "builds": 1,
     "mods": [
       {
@@ -6702,6 +6730,13 @@
   {
     "item": "Black Sun Crest",
     "stats": "socketed skill gems get a #% cost & reservation multiplier, cannot be blinded",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "BEQP07Wf8",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -6721,6 +6756,22 @@
   {
     "item": "Shaper's Touch",
     "stats": "curse enemies with temporal chains on hit",
+    "average": 123.345,
+    "prices": [
+      20,
+      100,
+      100,
+      146.69,
+      146.69,
+      733.45,
+      7334.5,
+      8801.4
+    ],
+    "search": {
+      "id": "gXWRrJjhQ",
+      "complexity": 18,
+      "total": 8
+    },
     "builds": 1,
     "mods": [
       {
