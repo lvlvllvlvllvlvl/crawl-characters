@@ -10685,6 +10685,13 @@
   {
     "item": "Snakebite",
     "stats": "#% increased attack speed, +# to maximum frenzy charges",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "EqJWYJRs5",
+      "complexity": 30,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -10705,6 +10712,13 @@
   {
     "item": "Soul Mantle",
     "stats": "+# to level of socketed gems, +# to level of socketed projectile gems",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "0PQbWp7Ig",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -10724,6 +10738,21 @@
   {
     "item": "The Annihilating Light",
     "stats": "#% chance to gain a power charge on critical strike",
+    "average": 7974.657142857142,
+    "prices": [
+      69,
+      733.6,
+      8803.2,
+      10270.4,
+      10270.4,
+      11004,
+      14672
+    ],
+    "search": {
+      "id": "PK7GzpZhL",
+      "complexity": 18,
+      "total": 7
+    },
     "builds": 1,
     "mods": [
       {
@@ -10737,6 +10766,13 @@
   {
     "item": "The Annihilating Light",
     "stats": "#% increased cast speed, #% increased critical strike chance",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "DGEDdB2f5",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -10756,6 +10792,16 @@
   {
     "item": "Flamesight",
     "stats": "+# to maximum power charges",
+    "average": 2200.8,
+    "prices": [
+      2200.8,
+      2200.8
+    ],
+    "search": {
+      "id": "jX4GnbkSX",
+      "complexity": 18,
+      "total": 2
+    },
     "builds": 1,
     "mods": [
       {
