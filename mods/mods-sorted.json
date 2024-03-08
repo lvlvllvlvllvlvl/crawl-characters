@@ -2571,6 +2571,13 @@
   {
     "item": "Mageblood",
     "stats": "#% increased maximum life, #% increased area of effect",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "kXjqdM3U5",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 2,
     "mods": [
       {
@@ -2590,6 +2597,17 @@
   {
     "item": "Belly of the Beast",
     "stats": "+# to level of socketed aoe gems",
+    "average": 4208.72,
+    "prices": [
+      300,
+      1320.66,
+      11005.5
+    ],
+    "search": {
+      "id": "jPpMq8btX",
+      "complexity": 18,
+      "total": 3
+    },
     "builds": 2,
     "mods": [
       {
@@ -2603,6 +2621,24 @@
   {
     "item": "Incandescent Heart",
     "stats": "+# to level of socketed aoe gems",
+    "average": 9948.972,
+    "prices": [
+      1907.6200000000001,
+      2934.8,
+      3668.5,
+      6603.3,
+      7337,
+      7337,
+      10271.800000000001,
+      17608.800000000003,
+      19809.9,
+      22011
+    ],
+    "search": {
+      "id": "4drqr3kH9",
+      "complexity": 18,
+      "total": 11
+    },
     "builds": 2,
     "mods": [
       {
@@ -2616,6 +2652,24 @@
   {
     "item": "Incandescent Heart",
     "stats": "+# to level of socketed gems",
+    "average": 6089.710000000001,
+    "prices": [
+      1907.6200000000001,
+      2054.36,
+      2641.32,
+      2934.8,
+      4402.200000000001,
+      7337,
+      8804.400000000001,
+      8804.400000000001,
+      10271.800000000001,
+      11739.2
+    ],
+    "search": {
+      "id": "kPK0blrU5",
+      "complexity": 18,
+      "total": 14
+    },
     "builds": 2,
     "mods": [
       {
@@ -2629,6 +2683,17 @@
   {
     "item": "Incandescent Heart",
     "stats": "#% increased damage",
+    "average": 4793.506666666667,
+    "prices": [
+      1173.92,
+      4402.200000000001,
+      8804.400000000001
+    ],
+    "search": {
+      "id": "y9RQZY8uR",
+      "complexity": 18,
+      "total": 3
+    },
     "builds": 2,
     "mods": [
       {
