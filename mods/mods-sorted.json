@@ -9513,6 +9513,13 @@
   {
     "item": "Vaal Caress",
     "stats": "+# to level of socketed duration gems, +# to level of socketed aura gems",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "yrJ0p7rhR",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -9532,6 +9539,24 @@
   {
     "item": "Kaom's Spirit",
     "stats": "+#% to spell critical strike chance",
+    "average": 87.92000000000002,
+    "prices": [
+      20,
+      60,
+      60,
+      70,
+      100,
+      100,
+      146.68,
+      146.68,
+      733.4000000000001,
+      733.4000000000001
+    ],
+    "search": {
+      "id": "qaylYl9ug",
+      "complexity": 18,
+      "total": 11
+    },
     "builds": 1,
     "mods": [
       {
@@ -9545,6 +9570,24 @@
   {
     "item": "Kaom's Spirit",
     "stats": "+# to level of socketed aoe gems",
+    "average": 675.1264,
+    "prices": [
+      180,
+      146.68,
+      264.024,
+      293.36,
+      440.04,
+      586.72,
+      586.72,
+      1320.1200000000001,
+      1466.8000000000002,
+      1466.8000000000002
+    ],
+    "search": {
+      "id": "lPrYyEQUV",
+      "complexity": 18,
+      "total": 14
+    },
     "builds": 1,
     "mods": [
       {
@@ -9558,6 +9601,13 @@
   {
     "item": "Bated Breath",
     "stats": "#% increased dexterity, #% increased intelligence, #% increased maximum energy shield",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "7lKm9nlu5",
+      "complexity": 20,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -9583,6 +9633,18 @@
   {
     "item": "Bated Breath",
     "stats": "zealotry has #% increased aura effect",
+    "average": 89.17,
+    "prices": [
+      50,
+      60,
+      100,
+      146.68
+    ],
+    "search": {
+      "id": "gXDl2naFQ",
+      "complexity": 18,
+      "total": 4
+    },
     "builds": 1,
     "mods": [
       {
