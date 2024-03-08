@@ -7603,6 +7603,13 @@
   {
     "item": "Call of the Brotherhood",
     "stats": "adds # to # lightning damage to spells and attacks, bleeding cannot be inflicted on you",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "v3We26XhE",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -7622,6 +7629,19 @@
   {
     "item": "Call of the Brotherhood",
     "stats": "zealotry has #% increased aura effect",
+    "average": 1314.37375,
+    "prices": [
+      50,
+      1173.52,
+      1833.625,
+      2200.35,
+      5867.6
+    ],
+    "search": {
+      "id": "wpVlMn9ib",
+      "complexity": 18,
+      "total": 5
+    },
     "builds": 1,
     "mods": [
       {
@@ -7635,6 +7655,20 @@
   {
     "item": "Call of the Brotherhood",
     "stats": "wrath has #% increased aura effect",
+    "average": 2347.04,
+    "prices": [
+      440.07,
+      733.45,
+      3667.25,
+      4547.39,
+      14669,
+      58676
+    ],
+    "search": {
+      "id": "OVwYd2VtE",
+      "complexity": 18,
+      "total": 6
+    },
     "builds": 1,
     "mods": [
       {
@@ -7648,6 +7682,24 @@
   {
     "item": "Aegis Aurora",
     "stats": "+# to level of socketed gems",
+    "average": 97.64,
+    "prices": [
+      30,
+      37,
+      60,
+      65,
+      100,
+      146.69,
+      146.69,
+      146.69,
+      146.69,
+      293.38
+    ],
+    "search": {
+      "id": "80Z8EzGsV",
+      "complexity": 18,
+      "total": 21
+    },
     "builds": 1,
     "mods": [
       {
@@ -7661,6 +7713,24 @@
   {
     "item": "Aegis Aurora",
     "stats": "+# to level of socketed aoe gems",
+    "average": 105.25142857142858,
+    "prices": [
+      30,
+      40,
+      80,
+      146.69,
+      146.69,
+      146.69,
+      146.69,
+      293.38,
+      733.45,
+      733.45
+    ],
+    "search": {
+      "id": "v3mVvJJCE",
+      "complexity": 18,
+      "total": 16
+    },
     "builds": 1,
     "mods": [
       {
