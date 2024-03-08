@@ -8981,6 +8981,18 @@
   {
     "item": "Prism Guardian",
     "stats": "#% of physical damage from hits taken as lightning damage",
+    "average": 163.37666666666667,
+    "prices": [
+      50,
+      146.71,
+      293.42,
+      2200.65
+    ],
+    "search": {
+      "id": "lPrrL90UV",
+      "complexity": 18,
+      "total": 4
+    },
     "builds": 1,
     "mods": [
       {
@@ -8994,6 +9006,16 @@
   {
     "item": "Prism Guardian",
     "stats": "#% reduced area damage taken from hits",
+    "average": 78.355,
+    "prices": [
+      10,
+      146.71
+    ],
+    "search": {
+      "id": "RqBW8pZU7",
+      "complexity": 18,
+      "total": 2
+    },
     "builds": 1,
     "mods": [
       {
@@ -9007,6 +9029,15 @@
   {
     "item": "Legacy of Fury",
     "stats": "#% increased movement speed",
+    "average": 120,
+    "prices": [
+      120
+    ],
+    "search": {
+      "id": "6Gqvl6XuG",
+      "complexity": 18,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -9020,6 +9051,15 @@
   {
     "item": "The Brass Dome",
     "stats": "+# to level of socketed trap or mine gems, #% reduced lightning damage taken",
+    "average": 2934.2000000000003,
+    "prices": [
+      2934.2000000000003
+    ],
+    "search": {
+      "id": "XqDVoE7UP",
+      "complexity": 29,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -9039,6 +9079,13 @@
   {
     "item": "Headhunter",
     "stats": "#% increased movement speed during any flask effect, #% increased critical strike chance during any flask effect",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "9qllWp0hK",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
