@@ -9892,6 +9892,17 @@
   {
     "item": "Crown of the Inward Eye",
     "stats": "regenerate #% of life per second",
+    "average": 3055.8333333333335,
+    "prices": [
+      1466.8000000000002,
+      3740.34,
+      3960.36
+    ],
+    "search": {
+      "id": "qayp5XWsg",
+      "complexity": 18,
+      "total": 3
+    },
     "builds": 1,
     "mods": [
       {
@@ -9905,6 +9916,24 @@
   {
     "item": "Rathpith Globe",
     "stats": "#% increased maximum life",
+    "average": 880.0800000000002,
+    "prices": [
+      586.72,
+      586.72,
+      733.4000000000001,
+      733.4000000000001,
+      733.4000000000001,
+      880.08,
+      1026.76,
+      1173.44,
+      1173.44,
+      1173.44
+    ],
+    "search": {
+      "id": "PK7amZvTL",
+      "complexity": 18,
+      "total": 24
+    },
     "builds": 1,
     "mods": [
       {
@@ -9918,6 +9947,13 @@
   {
     "item": "Rathpith Globe",
     "stats": "+# to level of socketed aoe gems, +# to level of socketed warcry gems",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "KJXDXEPI5",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -9937,6 +9973,24 @@
   {
     "item": "Eyes of the Greatwolf",
     "stats": "#% increased maximum life",
+    "average": 20,
+    "prices": [
+      1,
+      10,
+      56.05,
+      20,
+      20,
+      20,
+      20,
+      20,
+      20,
+      20
+    ],
+    "search": {
+      "id": "Zb5LQL0uQ",
+      "complexity": 18,
+      "total": 322
+    },
     "builds": 1,
     "mods": [
       {
@@ -9950,6 +10004,24 @@
   {
     "item": "Eyes of the Greatwolf",
     "stats": "#% increased damage, #% increased quantity of items found",
+    "average": 118.38000000000001,
+    "prices": [
+      50,
+      62,
+      73.34,
+      146.68,
+      146.68,
+      146.68,
+      146.68,
+      146.68,
+      146.68,
+      293.36
+    ],
+    "search": {
+      "id": "plLlQGdH0",
+      "complexity": 29,
+      "total": 40
+    },
     "builds": 1,
     "mods": [
       {
