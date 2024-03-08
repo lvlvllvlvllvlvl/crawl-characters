@@ -8042,6 +8042,13 @@
   {
     "item": "Mageblood",
     "stats": "#% increased maximum life, #% increased cast speed during any flask effect",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "vlGbd5JtE",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -8061,6 +8068,15 @@
   {
     "item": "Mageblood",
     "stats": "#% increased movement speed during any flask effect, #% increased cast speed during any flask effect",
+    "average": 505437.57,
+    "prices": [
+      505437.57
+    ],
+    "search": {
+      "id": "7lVqM8Bu5",
+      "complexity": 29,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -8080,6 +8096,19 @@
   {
     "item": "Tabula Rasa",
     "stats": "+# to level of socketed aoe gems",
+    "average": 36.25,
+    "prices": [
+      20,
+      25,
+      50,
+      50,
+      293.36
+    ],
+    "search": {
+      "id": "oXjLOwkUl",
+      "complexity": 18,
+      "total": 5
+    },
     "builds": 1,
     "mods": [
       {
@@ -8093,6 +8122,23 @@
   {
     "item": "Tabula Rasa",
     "stats": "+# to level of socketed gems",
+    "average": 146.68,
+    "prices": [
+      100,
+      146.68,
+      146.68,
+      146.68,
+      146.68,
+      146.68,
+      293.36,
+      440.04,
+      733.4000000000001
+    ],
+    "search": {
+      "id": "KJBXejMh5",
+      "complexity": 18,
+      "total": 9
+    },
     "builds": 1,
     "mods": [
       {
@@ -8106,6 +8152,23 @@
   {
     "item": "Tabula Rasa",
     "stats": "+# to level of socketed duration gems",
+    "average": 60.525555555555556,
+    "prices": [
+      10,
+      15,
+      20,
+      43.05,
+      40,
+      50,
+      100,
+      120,
+      146.68
+    ],
+    "search": {
+      "id": "VMgXY92sp",
+      "complexity": 18,
+      "total": 9
+    },
     "builds": 1,
     "mods": [
       {
