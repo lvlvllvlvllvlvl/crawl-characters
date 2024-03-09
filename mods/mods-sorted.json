@@ -589,6 +589,24 @@
   {
     "item": "String of Servitude",
     "stats": "discipline has #% increased aura effect",
+    "average": 33.44444444444444,
+    "prices": [
+      1,
+      1,
+      1,
+      8,
+      10,
+      20,
+      60,
+      100,
+      100,
+      160
+    ],
+    "search": {
+      "id": "0PQe4Kehg",
+      "complexity": 18,
+      "total": 16
+    },
     "builds": 6,
     "mods": [
       {
@@ -602,6 +620,22 @@
   {
     "item": "Soul Mantle",
     "stats": "+# to level of socketed projectile gems",
+    "average": 146.77,
+    "prices": [
+      80,
+      146.77,
+      146.77,
+      146.77,
+      293.54,
+      440.31000000000006,
+      2201.55,
+      36692.5
+    ],
+    "search": {
+      "id": "rY5anw7cQ",
+      "complexity": 18,
+      "total": 8
+    },
     "builds": 6,
     "mods": [
       {
@@ -615,6 +649,24 @@
   {
     "item": "March of the Legion",
     "stats": "+# to level of socketed gems",
+    "average": 227.70022222222224,
+    "prices": [
+      146.77,
+      146.77,
+      146.77,
+      200,
+      161.44700000000003,
+      293.54,
+      293.54,
+      293.54,
+      366.925,
+      440.31000000000006
+    ],
+    "search": {
+      "id": "jPpB8gdHX",
+      "complexity": 18,
+      "total": 39
+    },
     "builds": 6,
     "mods": [
       {
@@ -628,6 +680,21 @@
   {
     "item": "Hrimsorrow",
     "stats": "+#% to spell critical strike chance",
+    "average": 212.49833333333336,
+    "prices": [
+      30,
+      70,
+      147.6,
+      146.77,
+      440.31000000000006,
+      440.31000000000006,
+      1408.992
+    ],
+    "search": {
+      "id": "mP2PGvrt6",
+      "complexity": 18,
+      "total": 7
+    },
     "builds": 6,
     "mods": [
       {
@@ -641,6 +708,18 @@
   {
     "item": "Oskarm",
     "stats": "curse enemies with vulnerability on hit",
+    "average": 366.92500000000007,
+    "prices": [
+      220.15500000000003,
+      220.15500000000003,
+      440.31000000000006,
+      587.08
+    ],
+    "search": {
+      "id": "Ey658Gzh5",
+      "complexity": 18,
+      "total": 4
+    },
     "builds": 6,
     "mods": [
       {
