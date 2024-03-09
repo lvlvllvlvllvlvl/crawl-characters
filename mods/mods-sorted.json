@@ -13856,6 +13856,16 @@
   {
     "item": "Severed in Sleep",
     "stats": "#% increased physical damage",
+    "average": 20,
+    "prices": [
+      10,
+      30
+    ],
+    "search": {
+      "id": "4d95MJZt9",
+      "complexity": 18,
+      "total": 2
+    },
     "builds": 1,
     "mods": [
       {
@@ -13869,6 +13879,16 @@
   {
     "item": "Umbilicus Immortalis",
     "stats": "#% increased strength, #% increased intelligence",
+    "average": 439.98,
+    "prices": [
+      439.98,
+      439.98
+    ],
+    "search": {
+      "id": "MV5YWYMsJ",
+      "complexity": 29,
+      "total": 2
+    },
     "builds": 1,
     "mods": [
       {
@@ -13888,6 +13908,13 @@
   {
     "item": "Umbilicus Immortalis",
     "stats": "#% increased strength, #% increased dexterity, +#% to all elemental resistances",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "GkJ5moZcb",
+      "complexity": 20,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -13913,6 +13940,13 @@
   {
     "item": "Umbilicus Immortalis",
     "stats": "#% increased maximum energy shield",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "MVZbYLGUJ",
+      "complexity": 18,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -13926,6 +13960,16 @@
   {
     "item": "The Supreme Truth",
     "stats": "adds # to # lightning damage",
+    "average": 32.5,
+    "prices": [
+      25,
+      40
+    ],
+    "search": {
+      "id": "EybrLryC5",
+      "complexity": 19,
+      "total": 2
+    },
     "builds": 1,
     "mods": [
       {
