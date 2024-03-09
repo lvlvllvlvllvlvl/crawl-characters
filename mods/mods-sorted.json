@@ -14769,6 +14769,13 @@
   {
     "item": "Hrimnor's Resolve",
     "stats": "socketed skill gems get a #% cost & reservation multiplier, #% increased maximum life",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "RVebL5qU7",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -14788,6 +14795,13 @@
   {
     "item": "Karui Ward",
     "stats": "#% increased movement speed, you can apply an additional curse",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "JV4yb55Il",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -14807,6 +14821,13 @@
   {
     "item": "Leper's Alms",
     "stats": "#% of physical damage from hits taken as lightning damage, #% reduced damage taken from projectile hits",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "VMpJL9whp",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -14826,6 +14847,18 @@
   {
     "item": "Intuitive Leap",
     "stats": "you cannot be hindered",
+    "average": 30,
+    "prices": [
+      20,
+      30,
+      30,
+      2933.3999999999996
+    ],
+    "search": {
+      "id": "waPQLqKhb",
+      "complexity": 18,
+      "total": 4
+    },
     "builds": 1,
     "mods": [
       {
@@ -14839,6 +14872,19 @@
   {
     "item": "Intuitive Leap",
     "stats": "#% reduced poison duration on you",
+    "average": 158.92,
+    "prices": [
+      49,
+      146.67,
+      146.67,
+      293.34,
+      2933.3999999999996
+    ],
+    "search": {
+      "id": "Lm2qgr5Sn",
+      "complexity": 18,
+      "total": 5
+    },
     "builds": 1,
     "mods": [
       {
