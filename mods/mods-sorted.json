@@ -16159,6 +16159,15 @@
   {
     "item": "Marylene's Fallacy",
     "stats": "+#% to all maximum resistances",
+    "average": 733.3,
+    "prices": [
+      733.3
+    ],
+    "search": {
+      "id": "KJ7E63LU5",
+      "complexity": 18,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -16172,6 +16181,13 @@
   {
     "item": "Marylene's Fallacy",
     "stats": "+#% to all maximum resistances, malevolence has #% increased aura effect",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "nXqVBGyC0",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -16191,6 +16207,24 @@
   {
     "item": "Ixchel's Temptation",
     "stats": "#% increased rarity of items found",
+    "average": 55.3,
+    "prices": [
+      20,
+      25,
+      30,
+      30,
+      40,
+      40,
+      60,
+      100,
+      100,
+      108
+    ],
+    "search": {
+      "id": "y9qnw9OiR",
+      "complexity": 18,
+      "total": 65
+    },
     "builds": 1,
     "mods": [
       {
@@ -16204,6 +16238,16 @@
   {
     "item": "Lioneye's Vision",
     "stats": "+# to level of socketed aoe gems, +# to level of socketed projectile gems",
+    "average": 87996,
+    "prices": [
+      87996,
+      87996
+    ],
+    "search": {
+      "id": "bX3yDrDuL",
+      "complexity": 29,
+      "total": 2
+    },
     "builds": 1,
     "mods": [
       {
@@ -16223,6 +16267,13 @@
   {
     "item": "Perseverance",
     "stats": "+#% to critical strike multiplier during any flask effect, pride has #% increased aura effect",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "jXZK0QZTX",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
