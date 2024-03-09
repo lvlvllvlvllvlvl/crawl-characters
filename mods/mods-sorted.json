@@ -15524,6 +15524,18 @@
   {
     "item": "Daresso's Defiance",
     "stats": "+# to level of socketed gems",
+    "average": 904.96,
+    "prices": [
+      100,
+      439.98,
+      1319.94,
+      1759.92
+    ],
+    "search": {
+      "id": "vladEZjCE",
+      "complexity": 18,
+      "total": 4
+    },
     "builds": 1,
     "mods": [
       {
@@ -15537,6 +15549,19 @@
   {
     "item": "Abyssus",
     "stats": "socketed skill gems get a #% cost & reservation multiplier",
+    "average": 3666.5,
+    "prices": [
+      293.32,
+      3666.5,
+      3666.5,
+      4106.48,
+      73330
+    ],
+    "search": {
+      "id": "OVwqQKaTE",
+      "complexity": 18,
+      "total": 5
+    },
     "builds": 1,
     "mods": [
       {
@@ -15550,6 +15575,24 @@
   {
     "item": "Abyssus",
     "stats": "+# to maximum power charges",
+    "average": 547.8924999999999,
+    "prices": [
+      30,
+      100,
+      146.66,
+      293.32,
+      293.32,
+      879.96,
+      1173.28,
+      1466.6,
+      4399.8,
+      4399.8
+    ],
+    "search": {
+      "id": "aqeEGJ7se",
+      "complexity": 18,
+      "total": 12
+    },
     "builds": 1,
     "mods": [
       {
@@ -15563,6 +15606,20 @@
   {
     "item": "Utula's Hunger",
     "stats": "#% increased maximum life",
+    "average": 684.4133333333333,
+    "prices": [
+      146.66,
+      146.66,
+      146.66,
+      733.3,
+      1466.6,
+      1466.6
+    ],
+    "search": {
+      "id": "9YKk2wYFK",
+      "complexity": 18,
+      "total": 6
+    },
     "builds": 1,
     "mods": [
       {
@@ -15576,6 +15633,13 @@
   {
     "item": "Prismweave",
     "stats": "grace has #% increased aura effect, +#% to critical strike multiplier during any flask effect",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "ze5WBkgT4",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
