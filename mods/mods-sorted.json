@@ -4472,6 +4472,13 @@
   {
     "item": "Matua Tupuna",
     "stats": "+# to level of socketed aoe gems, +# to level of socketed trap or mine gems",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "Ey6lVBVu5",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -4491,6 +4498,13 @@
   {
     "item": "Sin Trek",
     "stats": "+# to level of socketed aura gems, +# to global evasion rating while moving",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "JVn8QVOcl",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -4510,6 +4524,13 @@
   {
     "item": "Sin Trek",
     "stats": "+# to level of socketed aura gems, +# to maximum endurance charges",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "EyDeL0Yf5",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -4529,6 +4550,18 @@
   {
     "item": "Eye of Malice",
     "stats": "+# to level of socketed aoe gems",
+    "average": 122.52499999999999,
+    "prices": [
+      20,
+      30,
+      146.7,
+      293.4
+    ],
+    "search": {
+      "id": "YVozYvgIY",
+      "complexity": 18,
+      "total": 4
+    },
     "builds": 1,
     "mods": [
       {
@@ -4542,6 +4575,19 @@
   {
     "item": "Eye of Malice",
     "stats": "regenerate #% of life per second",
+    "average": 146.7,
+    "prices": [
+      35,
+      100,
+      146.7,
+      146.7,
+      146.7
+    ],
+    "search": {
+      "id": "LmdYYb5Fn",
+      "complexity": 18,
+      "total": 5
+    },
     "builds": 1,
     "mods": [
       {
