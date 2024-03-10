@@ -10002,6 +10002,17 @@
   {
     "item": "Crown of the Inward Eye",
     "stats": "regenerate #% of life per second",
+    "average": 3290.3033333333333,
+    "prices": [
+      40,
+      3961.7099999999996,
+      5869.2
+    ],
+    "search": {
+      "id": "qayp5XWsg",
+      "complexity": 18,
+      "total": 3
+    },
     "builds": 1,
     "mods": [
       {
@@ -10015,6 +10026,24 @@
   {
     "item": "Rathpith Globe",
     "stats": "#% increased maximum life",
+    "average": 880.3799999999999,
+    "prices": [
+      146.73,
+      293.46,
+      440.18999999999994,
+      440.18999999999994,
+      733.65,
+      1173.84,
+      1173.84,
+      1467.3,
+      1467.3,
+      1467.3
+    ],
+    "search": {
+      "id": "PK7amZvTL",
+      "complexity": 18,
+      "total": 17
+    },
     "builds": 1,
     "mods": [
       {
@@ -10028,6 +10057,13 @@
   {
     "item": "Rathpith Globe",
     "stats": "+# to level of socketed aoe gems, +# to level of socketed warcry gems",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "KJXDXEPI5",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -10047,6 +10083,24 @@
   {
     "item": "Eyes of the Greatwolf",
     "stats": "#% increased maximum life",
+    "average": 20.9,
+    "prices": [
+      10,
+      10,
+      19,
+      20,
+      20,
+      20,
+      20,
+      30,
+      30,
+      30
+    ],
+    "search": {
+      "id": "Zb5LQL0uQ",
+      "complexity": 18,
+      "total": 264
+    },
     "builds": 1,
     "mods": [
       {
@@ -10060,6 +10114,24 @@
   {
     "item": "Eyes of the Greatwolf",
     "stats": "#% increased damage, #% increased quantity of items found",
+    "average": 116.03562500000001,
+    "prices": [
+      38,
+      60,
+      70,
+      100,
+      146.73,
+      146.73,
+      146.73,
+      220.09499999999997,
+      293.46,
+      440.18999999999994
+    ],
+    "search": {
+      "id": "plLlQGdH0",
+      "complexity": 29,
+      "total": 40
+    },
     "builds": 1,
     "mods": [
       {
