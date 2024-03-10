@@ -15468,6 +15468,15 @@
   {
     "item": "Perandus Blazon",
     "stats": "#% increased rarity of items found, #% increased cast speed during any flask effect",
+    "average": 20,
+    "prices": [
+      20
+    ],
+    "search": {
+      "id": "mXD7YjMt6",
+      "complexity": 29,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -15487,6 +15496,13 @@
   {
     "item": "Perandus Blazon",
     "stats": "#% increased maximum energy shield, #% increased movement speed during any flask effect",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "KJXbbKMU5",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -15506,6 +15522,13 @@
   {
     "item": "The Red Dream",
     "stats": "#% reduced effect of curses on you",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "MV5koWLsJ",
+      "complexity": 18,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -15519,6 +15542,13 @@
   {
     "item": "Victario's Flight",
     "stats": "+# to level of socketed gems, +# to level of socketed aoe gems",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "OVwv9wgTE",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -15538,6 +15568,24 @@
   {
     "item": "One With Nothing",
     "stats": "corrupted blood cannot be inflicted on you",
+    "average": 440.15999999999997,
+    "prices": [
+      264.096,
+      293.44,
+      410.816,
+      440.15999999999997,
+      440.15999999999997,
+      440.15999999999997,
+      440.15999999999997,
+      440.15999999999997,
+      733.6,
+      3668
+    ],
+    "search": {
+      "id": "lXjMz8wFV",
+      "complexity": 18,
+      "total": 10
+    },
     "builds": 1,
     "mods": [
       {
