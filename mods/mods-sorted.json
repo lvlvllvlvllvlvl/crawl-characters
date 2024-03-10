@@ -14408,6 +14408,19 @@
   {
     "item": "Vixen's Entrapment",
     "stats": "#% increased cast speed",
+    "average": 73.33333333333333,
+    "prices": [
+      50,
+      70,
+      100,
+      440.46,
+      880.92
+    ],
+    "search": {
+      "id": "PK7l22JCL",
+      "complexity": 18,
+      "total": 5
+    },
     "builds": 1,
     "mods": [
       {
@@ -14421,6 +14434,18 @@
   {
     "item": "Vixen's Entrapment",
     "stats": "+# to level of socketed gems",
+    "average": 2734.5225,
+    "prices": [
+      293.64,
+      367.04999999999995,
+      2936.3999999999996,
+      7341
+    ],
+    "search": {
+      "id": "bPZgddLTL",
+      "complexity": 18,
+      "total": 4
+    },
     "builds": 1,
     "mods": [
       {
@@ -14434,6 +14459,13 @@
   {
     "item": "Malachai's Loop",
     "stats": "#% increased maximum life, #% reduced area damage taken from hits",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "jXymWWLTX",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -14453,6 +14485,24 @@
   {
     "item": "Malachai's Loop",
     "stats": "+# to level of socketed gems",
+    "average": 115.41,
+    "prices": [
+      30,
+      50,
+      80,
+      80,
+      180,
+      146.82,
+      146.82,
+      146.82,
+      146.82,
+      146.82
+    ],
+    "search": {
+      "id": "rXjkBWrfQ",
+      "complexity": 18,
+      "total": 31
+    },
     "builds": 1,
     "mods": [
       {
@@ -14466,6 +14516,15 @@
   {
     "item": "Malachai's Loop",
     "stats": "+# to level of socketed gems, #% of physical damage from hits taken as chaos damage",
+    "average": 335218.04,
+    "prices": [
+      335218.04
+    ],
+    "search": {
+      "id": "WV4aBkbCm",
+      "complexity": 29,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
