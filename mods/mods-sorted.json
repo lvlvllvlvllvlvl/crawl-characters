@@ -6715,6 +6715,13 @@
   {
     "item": "Dialla's Malefaction",
     "stats": "+# to level of socketed duration gems, +# to level of socketed warcry gems",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "BEQJ2oku8",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -6734,6 +6741,15 @@
   {
     "item": "Dialla's Malefaction",
     "stats": "+# to level of socketed duration gems, #% reduced fire damage taken",
+    "average": 14855.000000000002,
+    "prices": [
+      14855.000000000002
+    ],
+    "search": {
+      "id": "y9RQ9vgsR",
+      "complexity": 29,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -6753,6 +6769,15 @@
   {
     "item": "Dialla's Malefaction",
     "stats": "+# to level of socketed projectile gems, #% increased maximum life",
+    "average": 2971,
+    "prices": [
+      2971
+    ],
+    "search": {
+      "id": "Zb2nDbEtQ",
+      "complexity": 29,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -6772,6 +6797,22 @@
   {
     "item": "Dialla's Malefaction",
     "stats": "+# to level of socketed aoe gems",
+    "average": 20629.88125,
+    "prices": [
+      3713.7500000000005,
+      6833.3,
+      7427.500000000001,
+      7427.500000000001,
+      14855.000000000002,
+      34166.5,
+      44565,
+      46050.5
+    ],
+    "search": {
+      "id": "KJDMJPDs5",
+      "complexity": 18,
+      "total": 8
+    },
     "builds": 1,
     "mods": [
       {
@@ -6785,6 +6826,19 @@
   {
     "item": "String of Servitude",
     "stats": "#% increased quantity of items found",
+    "average": 742.75,
+    "prices": [
+      40,
+      742.75,
+      742.75,
+      742.75,
+      5942
+    ],
+    "search": {
+      "id": "lPrYXD0sV",
+      "complexity": 18,
+      "total": 5
+    },
     "builds": 1,
     "mods": [
       {
