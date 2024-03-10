@@ -16118,6 +16118,13 @@
   {
     "item": "Mind of the Council",
     "stats": "+# to maximum power charges",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "Ey6gq3VS5",
+      "complexity": 18,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -16131,6 +16138,21 @@
   {
     "item": "Sentari's Answer",
     "stats": "#% increased maximum life",
+    "average": 313.5,
+    "prices": [
+      40,
+      60,
+      146.75,
+      587,
+      733.75,
+      1467.5,
+      7337.5
+    ],
+    "search": {
+      "id": "mXYGO9aC6",
+      "complexity": 18,
+      "total": 7
+    },
     "builds": 1,
     "mods": [
       {
@@ -16144,6 +16166,24 @@
   {
     "item": "Sentari's Answer",
     "stats": "you take #% reduced extra damage from critical strikes",
+    "average": 907.175,
+    "prices": [
+      20,
+      100,
+      293.5,
+      293.5,
+      733.75,
+      733.75,
+      1174,
+      1761,
+      1761,
+      2201.25
+    ],
+    "search": {
+      "id": "8adzGlqCV",
+      "complexity": 18,
+      "total": 13
+    },
     "builds": 1,
     "mods": [
       {
@@ -16157,6 +16197,24 @@
   {
     "item": "Sentari's Answer",
     "stats": "#% of physical damage from hits taken as chaos damage",
+    "average": 343.9375,
+    "prices": [
+      40,
+      70,
+      146.75,
+      146.75,
+      146.75,
+      733.75,
+      733.75,
+      733.75,
+      2935,
+      4402.5
+    ],
+    "search": {
+      "id": "7lozQ2lH5",
+      "complexity": 18,
+      "total": 11
+    },
     "builds": 1,
     "mods": [
       {
@@ -16170,6 +16228,13 @@
   {
     "item": "Grand Spectrum",
     "stats": "#% reduced effect of curses on you",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "VyBGo3atp",
+      "complexity": 18,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
