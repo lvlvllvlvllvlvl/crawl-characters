@@ -17348,6 +17348,13 @@
   {
     "item": "Perquil's Toe",
     "stats": "you can apply an additional curse",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "aboaB4aSe",
+      "complexity": 18,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -17361,6 +17368,18 @@
   {
     "item": "Doedre's Damning",
     "stats": "bleeding cannot be inflicted on you",
+    "average": 33.333333333333336,
+    "prices": [
+      10,
+      30,
+      60,
+      249.475
+    ],
+    "search": {
+      "id": "aqe6VnKue",
+      "complexity": 18,
+      "total": 4
+    },
     "builds": 1,
     "mods": [
       {
@@ -17374,6 +17393,13 @@
   {
     "item": "Windscream",
     "stats": "+# to level of socketed gems, +# to level of socketed minion gems",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "5o5MOmoua",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -17393,6 +17419,20 @@
   {
     "item": "Windscream",
     "stats": "#% increased movement speed",
+    "average": 206.20833333333334,
+    "prices": [
+      50,
+      60,
+      100,
+      146.75,
+      440.25,
+      440.25
+    ],
+    "search": {
+      "id": "pXjndPeT0",
+      "complexity": 18,
+      "total": 6
+    },
     "builds": 1,
     "mods": [
       {
@@ -17406,6 +17446,15 @@
   {
     "item": "Piscator's Vigil",
     "stats": "#% increased critical strike chance, damage penetrates #% elemental resistances",
+    "average": 10,
+    "prices": [
+      10
+    ],
+    "search": {
+      "id": "Rq6rDKrt7",
+      "complexity": 29,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
