@@ -2226,6 +2226,24 @@
   {
     "item": "String of Servitude",
     "stats": "zealotry has #% increased aura effect",
+    "average": 13.030000000000001,
+    "prices": [
+      0.21000000000000002,
+      1,
+      5,
+      10,
+      20,
+      25,
+      30,
+      46.2,
+      60,
+      80
+    ],
+    "search": {
+      "id": "qXjkkjlCg",
+      "complexity": 18,
+      "total": 22
+    },
     "builds": 2,
     "mods": [
       {
@@ -2239,6 +2257,24 @@
   {
     "item": "String of Servitude",
     "stats": "+#% to all elemental resistances",
+    "average": 146.72,
+    "prices": [
+      100,
+      140,
+      150,
+      146.72,
+      146.72,
+      146.72,
+      146.72,
+      146.72,
+      278.768,
+      733.6
+    ],
+    "search": {
+      "id": "XqQ8n9eIP",
+      "complexity": 18,
+      "total": 14
+    },
     "builds": 2,
     "mods": [
       {
@@ -2252,6 +2288,22 @@
   {
     "item": "Shaper's Touch",
     "stats": "+# to level of socketed aura gems",
+    "average": 2445.645714285714,
+    "prices": [
+      100,
+      146.72,
+      146.72,
+      733.6,
+      4254.88,
+      5135.2,
+      6602.4,
+      167205.06
+    ],
+    "search": {
+      "id": "0PQ6vEghg",
+      "complexity": 18,
+      "total": 8
+    },
     "builds": 2,
     "mods": [
       {
@@ -2265,6 +2317,13 @@
   {
     "item": "Asenath's Gentle Touch",
     "stats": "+# to level of socketed trap or mine gems, curse enemies with vulnerability on hit",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "mXgb3lrT6",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 2,
     "mods": [
       {
@@ -2284,6 +2343,13 @@
   {
     "item": "Asenath's Gentle Touch",
     "stats": "+# to level of socketed aoe gems, curse enemies with vulnerability on hit",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "GkJjeOBUb",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 2,
     "mods": [
       {
