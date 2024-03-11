@@ -18365,6 +18365,16 @@
   {
     "item": "Dawnbreaker",
     "stats": "grants level # determination skill",
+    "average": 35146.625,
+    "prices": [
+      11740,
+      58553.25
+    ],
+    "search": {
+      "id": "JVrP0kWIl",
+      "complexity": 18,
+      "total": 2
+    },
     "builds": 1,
     "mods": [
       {
@@ -18378,6 +18388,13 @@
   {
     "item": "Heretic's Veil",
     "stats": "+# to level of socketed duration gems",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "jXy6orlHX",
+      "complexity": 18,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -18391,6 +18408,13 @@
   {
     "item": "Doryani's Prototype",
     "stats": "+# to level of socketed projectile gems, +#% to all maximum resistances",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "9YKMX5YsK",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -18410,6 +18434,13 @@
   {
     "item": "Replica Voidwalker",
     "stats": "regenerate # life per second while moving",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "RVD9VYZI7",
+      "complexity": 18,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -18423,6 +18454,24 @@
   {
     "item": "Cloak of Flame",
     "stats": "+# to level of socketed trap or mine gems",
+    "average": 124.015625,
+    "prices": [
+      50,
+      65,
+      70,
+      146.75,
+      146.75,
+      146.75,
+      146.75,
+      220.125,
+      587,
+      1174
+    ],
+    "search": {
+      "id": "BEXWzq4T8",
+      "complexity": 18,
+      "total": 22
+    },
     "builds": 1,
     "mods": [
       {
