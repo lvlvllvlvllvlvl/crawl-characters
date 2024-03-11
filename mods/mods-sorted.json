@@ -2,6 +2,24 @@
   {
     "item": "String of Servitude",
     "stats": "hatred has #% increased aura effect",
+    "average": 33.4,
+    "prices": [
+      4,
+      10,
+      10,
+      20,
+      30,
+      40,
+      40,
+      60,
+      60,
+      60
+    ],
+    "search": {
+      "id": "OpJoQXOSE",
+      "complexity": 18,
+      "total": 21
+    },
     "builds": 17,
     "mods": [
       {
@@ -15,6 +33,16 @@
   {
     "item": "Vaal Caress",
     "stats": "+# to level of socketed duration gems",
+    "average": 477.00250000000005,
+    "prices": [
+      220.15500000000003,
+      733.85
+    ],
+    "search": {
+      "id": "abo0zLRHe",
+      "complexity": 18,
+      "total": 2
+    },
     "builds": 16,
     "mods": [
       {
@@ -28,6 +56,17 @@
   {
     "item": "Matua Tupuna",
     "stats": "+# to level of socketed aura gems",
+    "average": 15117.310000000003,
+    "prices": [
+      1320.93,
+      14677.000000000002,
+      29354.000000000004
+    ],
+    "search": {
+      "id": "0PQlkZ8ig",
+      "complexity": 18,
+      "total": 3
+    },
     "builds": 15,
     "mods": [
       {
@@ -41,6 +80,17 @@
   {
     "item": "Southbound",
     "stats": "+#% to spell critical strike chance",
+    "average": 807.2350000000001,
+    "prices": [
+      587.08,
+      1027.39,
+      29354.000000000004
+    ],
+    "search": {
+      "id": "XkO2WqdSP",
+      "complexity": 18,
+      "total": 3
+    },
     "builds": 13,
     "mods": [
       {
@@ -54,6 +104,21 @@
   {
     "item": "Matua Tupuna",
     "stats": "+# to level of socketed aoe gems",
+    "average": 946.21,
+    "prices": [
+      100,
+      293.54,
+      587.08,
+      1027.39,
+      1467.7,
+      2201.55,
+      5870.8
+    ],
+    "search": {
+      "id": "2GbYYzYHk",
+      "complexity": 18,
+      "total": 7
+    },
     "builds": 12,
     "mods": [
       {
