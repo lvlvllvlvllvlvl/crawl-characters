@@ -4778,6 +4778,13 @@
   {
     "item": "The Torrent's Reclamation",
     "stats": "#% increased dexterity, #% increased intelligence, #% increased maximum energy shield",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "KJB87pPi5",
+      "complexity": 20,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -4803,6 +4810,24 @@
   {
     "item": "Lightning Coil",
     "stats": "#% additional physical damage reduction while stationary",
+    "average": 527.848,
+    "prices": [
+      10,
+      80,
+      100,
+      100,
+      146.72,
+      440.15999999999997,
+      733.6,
+      1173.76,
+      1173.76,
+      1320.48
+    ],
+    "search": {
+      "id": "6ZBDYWkFG",
+      "complexity": 18,
+      "total": 25
+    },
     "builds": 1,
     "mods": [
       {
@@ -4816,6 +4841,24 @@
   {
     "item": "Lightning Coil",
     "stats": "+# to level of socketed duration gems",
+    "average": 210.29333333333332,
+    "prices": [
+      32,
+      100,
+      146.72,
+      146.72,
+      146.72,
+      146.72,
+      293.44,
+      440.15999999999997,
+      440.15999999999997,
+      1173.76
+    ],
+    "search": {
+      "id": "waPeM2jtb",
+      "complexity": 18,
+      "total": 34
+    },
     "builds": 1,
     "mods": [
       {
@@ -4829,6 +4872,13 @@
   {
     "item": "Lightning Coil",
     "stats": "#% increased damage, #% reduced lightning damage taken",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "XqDYal7CP",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -4848,6 +4898,24 @@
   {
     "item": "Lightning Coil",
     "stats": "+# to level of socketed gems",
+    "average": 679.912,
+    "prices": [
+      50,
+      440.15999999999997,
+      586.88,
+      586.88,
+      586.88,
+      586.88,
+      586.88,
+      880.3199999999999,
+      1173.76,
+      1320.48
+    ],
+    "search": {
+      "id": "2BrQXgYFk",
+      "complexity": 18,
+      "total": 35
+    },
     "builds": 1,
     "mods": [
       {
