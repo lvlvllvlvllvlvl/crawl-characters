@@ -9338,6 +9338,19 @@
   {
     "item": "Watcher's Eye",
     "stats": "#% reduced effect of chill on you",
+    "average": 1076.0199999999998,
+    "prices": [
+      440.18999999999994,
+      1320.57,
+      1467.3,
+      4401.9,
+      14672.999999999998
+    ],
+    "search": {
+      "id": "Zb5baJRTQ",
+      "complexity": 18,
+      "total": 5
+    },
     "builds": 1,
     "mods": [
       {
@@ -9351,6 +9364,18 @@
   {
     "item": "Watcher's Eye",
     "stats": "damage penetrates #% lightning resistance",
+    "average": 684.7399999999999,
+    "prices": [
+      146.73,
+      440.18999999999994,
+      1467.3,
+      8070.15
+    ],
+    "search": {
+      "id": "6ZbVbrXIG",
+      "complexity": 19,
+      "total": 4
+    },
     "builds": 1,
     "mods": [
       {
@@ -9365,6 +9390,19 @@
   {
     "item": "Watcher's Eye",
     "stats": "#% reduced poison duration on you",
+    "average": 6485.4659999999985,
+    "prices": [
+      880.3799999999999,
+      2934.6,
+      4401.9,
+      11004.75,
+      13205.699999999999
+    ],
+    "search": {
+      "id": "jPpekPluX",
+      "complexity": 18,
+      "total": 5
+    },
     "builds": 1,
     "mods": [
       {
@@ -9378,6 +9416,17 @@
   {
     "item": "Vaal Caress",
     "stats": "+# to level of socketed gems",
+    "average": 220.09499999999997,
+    "prices": [
+      146.73,
+      293.46,
+      2200.95
+    ],
+    "search": {
+      "id": "abo0rZRue",
+      "complexity": 18,
+      "total": 3
+    },
     "builds": 1,
     "mods": [
       {
@@ -9391,6 +9440,13 @@
   {
     "item": "Vaal Caress",
     "stats": "+# to level of socketed duration gems, +# to level of socketed aura gems",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "yrJ0p7rhR",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
