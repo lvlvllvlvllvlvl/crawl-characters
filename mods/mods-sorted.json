@@ -8240,6 +8240,13 @@
   {
     "item": "Breathstealer",
     "stats": "+# to level of socketed gems",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "WVWz0XZtm",
+      "complexity": 18,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -8279,6 +8286,13 @@
   {
     "item": "Belly of the Beast",
     "stats": "+# to level of socketed aoe gems, #% increased damage",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "rXVmnzmfQ",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -8298,6 +8312,20 @@
   {
     "item": "The Vertex",
     "stats": "+# to level of socketed aura gems",
+    "average": 1161.7708333333333,
+    "prices": [
+      73.375,
+      146.75,
+      146.75,
+      1467.5,
+      2201.25,
+      2935
+    ],
+    "search": {
+      "id": "ZbZOJlEHQ",
+      "complexity": 18,
+      "total": 6
+    },
     "builds": 1,
     "mods": [
       {
@@ -8311,6 +8339,21 @@
   {
     "item": "The Vertex",
     "stats": "socketed skill gems get a #% cost & reservation multiplier",
+    "average": 836.475,
+    "prices": [
+      146.75,
+      366.875,
+      733.75,
+      1467.5,
+      1467.5,
+      3375.25,
+      17610
+    ],
+    "search": {
+      "id": "DL4rObwC5",
+      "complexity": 18,
+      "total": 7
+    },
     "builds": 1,
     "mods": [
       {
@@ -8324,6 +8367,19 @@
   {
     "item": "The Vertex",
     "stats": "+# to level of socketed duration gems",
+    "average": 150.0625,
+    "prices": [
+      60,
+      100,
+      146.75,
+      293.5,
+      733.75
+    ],
+    "search": {
+      "id": "Eyd2Obyt5",
+      "complexity": 18,
+      "total": 5
+    },
     "builds": 1,
     "mods": [
       {
