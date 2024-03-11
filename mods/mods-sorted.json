@@ -555,6 +555,23 @@
   {
     "item": "String of Servitude",
     "stats": "discipline has #% increased aura effect",
+    "average": 23.666666666666668,
+    "prices": [
+      1,
+      1,
+      30,
+      30,
+      30,
+      50,
+      100,
+      130,
+      167688.59
+    ],
+    "search": {
+      "id": "0PQe4Kehg",
+      "complexity": 18,
+      "total": 9
+    },
     "builds": 6,
     "mods": [
       {
@@ -568,6 +585,16 @@
   {
     "item": "Soul Mantle",
     "stats": "+# to level of socketed projectile gems",
+    "average": 113.37,
+    "prices": [
+      80,
+      146.74
+    ],
+    "search": {
+      "id": "rY5anw7cQ",
+      "complexity": 18,
+      "total": 2
+    },
     "builds": 6,
     "mods": [
       {
@@ -581,6 +608,24 @@
   {
     "item": "March of the Legion",
     "stats": "+# to level of socketed gems",
+    "average": 365.61555555555555,
+    "prices": [
+      9,
+      146.74,
+      146.74,
+      146.74,
+      200,
+      440.22,
+      733.7,
+      733.7,
+      733.7,
+      1467.4
+    ],
+    "search": {
+      "id": "jPpB8gdHX",
+      "complexity": 18,
+      "total": 23
+    },
     "builds": 6,
     "mods": [
       {
@@ -594,6 +639,18 @@
   {
     "item": "Hrimsorrow",
     "stats": "+#% to spell critical strike chance",
+    "average": 145.37,
+    "prices": [
+      70,
+      144,
+      146.74,
+      440.22
+    ],
+    "search": {
+      "id": "mP2PGvrt6",
+      "complexity": 18,
+      "total": 4
+    },
     "builds": 6,
     "mods": [
       {
@@ -607,6 +664,19 @@
   {
     "item": "Oskarm",
     "stats": "curse enemies with vulnerability on hit",
+    "average": 95.58,
+    "prices": [
+      60,
+      80,
+      146.74,
+      440.22,
+      29348
+    ],
+    "search": {
+      "id": "Ey658Gzh5",
+      "complexity": 18,
+      "total": 5
+    },
     "builds": 6,
     "mods": [
       {
