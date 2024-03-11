@@ -9211,6 +9211,18 @@
   {
     "item": "Zeel's Amplifier",
     "stats": "+# to level of socketed gems",
+    "average": 146.73,
+    "prices": [
+      146.73,
+      146.73,
+      146.73,
+      440.18999999999994
+    ],
+    "search": {
+      "id": "4qnPaPvC9",
+      "complexity": 18,
+      "total": 4
+    },
     "builds": 1,
     "mods": [
       {
@@ -9224,6 +9236,16 @@
   {
     "item": "Zeel's Amplifier",
     "stats": "+# to level of socketed aoe gems",
+    "average": 186.23,
+    "prices": [
+      79,
+      293.46
+    ],
+    "search": {
+      "id": "Zb4Eb8mHQ",
+      "complexity": 18,
+      "total": 2
+    },
     "builds": 1,
     "mods": [
       {
@@ -9237,6 +9259,13 @@
   {
     "item": "Zeel's Amplifier",
     "stats": "+# to level of socketed gems, #% of physical damage from hits taken as lightning damage",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "2BrRVbeUk",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -9256,6 +9285,20 @@
   {
     "item": "Watcher's Eye",
     "stats": "minions deal #% increased damage",
+    "average": 917.0625,
+    "prices": [
+      440.18999999999994,
+      586.92,
+      1173.84,
+      1467.3,
+      168085.37,
+      86570.7
+    ],
+    "search": {
+      "id": "8a24E4qsV",
+      "complexity": 18,
+      "total": 6
+    },
     "builds": 1,
     "mods": [
       {
@@ -9269,6 +9312,13 @@
   {
     "item": "Watcher's Eye",
     "stats": "#% increased global critical strike chance, #% reduced poison duration on you",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "vlEXWkjHE",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
