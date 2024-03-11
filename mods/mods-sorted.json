@@ -8795,6 +8795,20 @@
   {
     "item": "Southbound",
     "stats": "+# to level of socketed aura gems",
+    "average": 61.126666666666665,
+    "prices": [
+      11.76,
+      25,
+      70,
+      80,
+      80,
+      100
+    ],
+    "search": {
+      "id": "JVyQrpbIl",
+      "complexity": 18,
+      "total": 6
+    },
     "builds": 1,
     "mods": [
       {
@@ -8808,6 +8822,13 @@
   {
     "item": "Southbound",
     "stats": "+# to level of socketed duration gems, +# to level of socketed aura gems",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "nXqLvmMH0",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -8827,6 +8848,24 @@
   {
     "item": "Ephemeral Edge",
     "stats": "#% chance to gain onslaught for # seconds on kill",
+    "average": 127.46444444444445,
+    "prices": [
+      5,
+      5,
+      50,
+      60,
+      146.74,
+      146.74,
+      146.74,
+      293.48,
+      293.48,
+      586.96
+    ],
+    "search": {
+      "id": "z27GpRRI4",
+      "complexity": 18,
+      "total": 11
+    },
     "builds": 1,
     "mods": [
       {
@@ -8840,6 +8879,22 @@
   {
     "item": "Prism Guardian",
     "stats": "#% increased maximum energy shield",
+    "average": 146.74,
+    "prices": [
+      60,
+      146.74,
+      146.74,
+      146.74,
+      146.74,
+      146.74,
+      293.48,
+      733.7
+    ],
+    "search": {
+      "id": "XqadzgJSP",
+      "complexity": 18,
+      "total": 8
+    },
     "builds": 1,
     "mods": [
       {
@@ -8853,6 +8908,18 @@
   {
     "item": "Prism Guardian",
     "stats": "#% of physical damage from hits taken as lightning damage",
+    "average": 20,
+    "prices": [
+      10,
+      20,
+      20,
+      2201.1000000000004
+    ],
+    "search": {
+      "id": "lPrrL90UV",
+      "complexity": 18,
+      "total": 4
+    },
     "builds": 1,
     "mods": [
       {
