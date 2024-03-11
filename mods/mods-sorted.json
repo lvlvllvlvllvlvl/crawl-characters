@@ -7527,6 +7527,13 @@
   {
     "item": "Call of the Brotherhood",
     "stats": "adds # to # lightning damage to spells and attacks, bleeding cannot be inflicted on you",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "v3We26XhE",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -7546,6 +7553,22 @@
   {
     "item": "Call of the Brotherhood",
     "stats": "zealotry has #% increased aura effect",
+    "average": 1945.810714285714,
+    "prices": [
+      50,
+      293.42,
+      1173.68,
+      1467.1000000000001,
+      1833.875,
+      4401.3,
+      4401.3,
+      10269.7
+    ],
+    "search": {
+      "id": "wpVlMn9ib",
+      "complexity": 18,
+      "total": 8
+    },
     "builds": 1,
     "mods": [
       {
@@ -7559,6 +7582,19 @@
   {
     "item": "Call of the Brotherhood",
     "stats": "wrath has #% increased aura effect",
+    "average": 368.025,
+    "prices": [
+      5,
+      293.42,
+      440.13,
+      733.5500000000001,
+      58684
+    ],
+    "search": {
+      "id": "OVwYd2VtE",
+      "complexity": 18,
+      "total": 5
+    },
     "builds": 1,
     "mods": [
       {
@@ -7572,6 +7608,24 @@
   {
     "item": "Aegis Aurora",
     "stats": "+# to level of socketed gems",
+    "average": 116.69555555555559,
+    "prices": [
+      50,
+      55,
+      65,
+      146.71,
+      146.71,
+      146.71,
+      146.71,
+      146.71,
+      146.71,
+      293.42
+    ],
+    "search": {
+      "id": "80Z8EzGsV",
+      "complexity": 18,
+      "total": 23
+    },
     "builds": 1,
     "mods": [
       {
@@ -7585,6 +7639,24 @@
   {
     "item": "Aegis Aurora",
     "stats": "+# to level of socketed aoe gems",
+    "average": 188.20111111111112,
+    "prices": [
+      80,
+      146.71,
+      146.71,
+      146.71,
+      146.71,
+      146.71,
+      293.42,
+      293.42,
+      293.42,
+      425.459
+    ],
+    "search": {
+      "id": "v3mVvJJCE",
+      "complexity": 18,
+      "total": 16
+    },
     "builds": 1,
     "mods": [
       {
