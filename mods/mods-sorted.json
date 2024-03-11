@@ -8526,6 +8526,18 @@
   {
     "item": "Incandescent Heart",
     "stats": "#% reduced lightning damage taken",
+    "average": 331.3925,
+    "prices": [
+      5,
+      146.73,
+      440.18999999999994,
+      733.65
+    ],
+    "search": {
+      "id": "eXVr4oYhL",
+      "complexity": 18,
+      "total": 4
+    },
     "builds": 1,
     "mods": [
       {
@@ -8539,6 +8551,15 @@
   {
     "item": "Incandescent Heart",
     "stats": "+# to level of socketed aoe gems, +# to level of socketed aura gems",
+    "average": 14672.999999999998,
+    "prices": [
+      14672.999999999998
+    ],
+    "search": {
+      "id": "KJBdY5RI5",
+      "complexity": 29,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -8558,6 +8579,24 @@
   {
     "item": "Incandescent Heart",
     "stats": "you take #% reduced extra damage from critical strikes",
+    "average": 596.92,
+    "prices": [
+      20,
+      60,
+      146.73,
+      293.46,
+      293.46,
+      1027.11,
+      1320.57,
+      1614.03,
+      2200.95,
+      2934.6
+    ],
+    "search": {
+      "id": "RVBnoyBU7",
+      "complexity": 18,
+      "total": 15
+    },
     "builds": 1,
     "mods": [
       {
@@ -8571,6 +8610,24 @@
   {
     "item": "Incandescent Heart",
     "stats": "+# to level of socketed duration gems",
+    "average": 345.86357142857145,
+    "prices": [
+      146.73,
+      220.09499999999997,
+      220.09499999999997,
+      220.09499999999997,
+      440.18999999999994,
+      586.92,
+      586.92,
+      880.3799999999999,
+      1173.84,
+      2347.68
+    ],
+    "search": {
+      "id": "OpJM878uE",
+      "complexity": 18,
+      "total": 20
+    },
     "builds": 1,
     "mods": [
       {
@@ -8584,6 +8641,15 @@
   {
     "item": "Incandescent Heart",
     "stats": "+# to level of socketed gems, #% increased damage",
+    "average": 35802.119999999995,
+    "prices": [
+      35802.119999999995
+    ],
+    "search": {
+      "id": "lXJDRz2UV",
+      "complexity": 29,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
