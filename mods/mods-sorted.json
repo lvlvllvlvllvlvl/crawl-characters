@@ -3566,6 +3566,17 @@
   {
     "item": "The Fledgling",
     "stats": "+# to maximum power charges",
+    "average": 8265.789999999999,
+    "prices": [
+      7923.419999999999,
+      8070.15,
+      8803.8
+    ],
+    "search": {
+      "id": "dXWYGdqFJ",
+      "complexity": 18,
+      "total": 3
+    },
     "builds": 2,
     "mods": [
       {
@@ -3579,6 +3590,24 @@
   {
     "item": "Ancestral Vision",
     "stats": "#% reduced effect of curses on you",
+    "average": 153.4118888888889,
+    "prices": [
+      40,
+      80,
+      90,
+      105,
+      132.057,
+      146.73,
+      200,
+      293.46,
+      293.46,
+      440.18999999999994
+    ],
+    "search": {
+      "id": "DL8ypadf5",
+      "complexity": 18,
+      "total": 14
+    },
     "builds": 2,
     "mods": [
       {
@@ -3592,6 +3621,22 @@
   {
     "item": "Darkray Vectors",
     "stats": "+# to level of socketed gems",
+    "average": 856.242,
+    "prices": [
+      84,
+      115.5,
+      120,
+      1467.3,
+      2494.41,
+      7189.7699999999995,
+      13205.699999999999,
+      167237.52
+    ],
+    "search": {
+      "id": "3BrQzW5s5",
+      "complexity": 18,
+      "total": 8
+    },
     "builds": 2,
     "mods": [
       {
@@ -3605,6 +3650,13 @@
   {
     "item": "Perandus Blazon",
     "stats": "#% increased rarity of items found, zealotry has #% increased aura effect",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "LmonEMVhn",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 2,
     "mods": [
       {
@@ -3624,6 +3676,21 @@
   {
     "item": "Sentari's Answer",
     "stats": "#% of physical damage from hits taken as fire damage",
+    "average": 1462.52,
+    "prices": [
+      40,
+      60,
+      60,
+      100,
+      440.18999999999994,
+      4401.9,
+      5135.549999999999
+    ],
+    "search": {
+      "id": "LeWraOlFn",
+      "complexity": 18,
+      "total": 7
+    },
     "builds": 2,
     "mods": [
       {
