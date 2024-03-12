@@ -17040,6 +17040,19 @@
   {
     "item": "Voidwalker",
     "stats": "+# to maximum endurance charges",
+    "average": 121.4025,
+    "prices": [
+      15,
+      30,
+      146.87,
+      293.74,
+      734.35
+    ],
+    "search": {
+      "id": "rXmqqpmfQ",
+      "complexity": 18,
+      "total": 5
+    },
     "builds": 1,
     "mods": [
       {
@@ -17111,6 +17124,17 @@
   {
     "item": "Null and Void",
     "stats": "+# to maximum frenzy charges",
+    "average": 125,
+    "prices": [
+      100,
+      135,
+      140
+    ],
+    "search": {
+      "id": "PdaZZ9GhL",
+      "complexity": 18,
+      "total": 3
+    },
     "builds": 1,
     "mods": [
       {
@@ -17124,6 +17148,16 @@
   {
     "item": "Null and Void",
     "stats": "+# to level of socketed aura gems",
+    "average": 145.1525,
+    "prices": [
+      70,
+      220.305
+    ],
+    "search": {
+      "id": "JqXqnPWhl",
+      "complexity": 18,
+      "total": 2
+    },
     "builds": 1,
     "mods": [
       {
@@ -17137,6 +17171,21 @@
   {
     "item": "Null and Void",
     "stats": "curse enemies with vulnerability on hit",
+    "average": 34.75,
+    "prices": [
+      20,
+      30,
+      39,
+      50,
+      220.305,
+      440.61,
+      734.35
+    ],
+    "search": {
+      "id": "BEDbEmKu8",
+      "complexity": 18,
+      "total": 7
+    },
     "builds": 1,
     "mods": [
       {
@@ -17389,6 +17438,13 @@
   {
     "item": "Le Heup of All",
     "stats": "anger has #% increased aura effect, wrath has #% increased aura effect",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "qXDjO2kSg",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
