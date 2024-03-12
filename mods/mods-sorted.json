@@ -17384,6 +17384,13 @@
   {
     "item": "The Stampede",
     "stats": "regenerate # life per second while moving",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "kX4ygJ5c5",
+      "complexity": 18,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -17397,6 +17404,18 @@
   {
     "item": "Blunderbore",
     "stats": "+# to level of socketed gems",
+    "average": 1219.6000000000001,
+    "prices": [
+      60,
+      599.8,
+      2999,
+      44985
+    ],
+    "search": {
+      "id": "GZy3k8Wsb",
+      "complexity": 18,
+      "total": 4
+    },
     "builds": 1,
     "mods": [
       {
@@ -17510,6 +17529,16 @@
   {
     "item": "Mjölner",
     "stats": "#% increased attack speed",
+    "average": 2249.25,
+    "prices": [
+      1499.5,
+      2999
+    ],
+    "search": {
+      "id": "kXjE4KjF5",
+      "complexity": 19,
+      "total": 2
+    },
     "builds": 1,
     "mods": [
       {
@@ -17524,6 +17553,24 @@
   {
     "item": "The Ivory Tower",
     "stats": "+# to level of socketed gems",
+    "average": 1180.8562499999998,
+    "prices": [
+      149.95,
+      149.95,
+      599.8,
+      749.75,
+      1349.55,
+      1799.3999999999999,
+      2249.25,
+      2399.2,
+      3748.7499999999995,
+      8997
+    ],
+    "search": {
+      "id": "aboOqYkue",
+      "complexity": 18,
+      "total": 11
+    },
     "builds": 1,
     "mods": [
       {
@@ -17537,6 +17584,24 @@
   {
     "item": "Voidforge",
     "stats": "#% increased elemental damage with attack skills",
+    "average": 13445.516666666666,
+    "prices": [
+      11246.25,
+      11696.099999999999,
+      12745.749999999998,
+      12745.749999999998,
+      13495.499999999998,
+      13495.499999999998,
+      14994.999999999998,
+      14994.999999999998,
+      15594.8,
+      18743.75
+    ],
+    "search": {
+      "id": "rXmE2XmfQ",
+      "complexity": 18,
+      "total": 13
+    },
     "builds": 1,
     "mods": [
       {
