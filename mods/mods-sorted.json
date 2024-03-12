@@ -979,6 +979,24 @@
   {
     "item": "Goldwyrm",
     "stats": "regenerate # life per second while moving",
+    "average": 19.166666666666668,
+    "prices": [
+      5,
+      15,
+      15,
+      20,
+      20,
+      20,
+      25,
+      30,
+      40,
+      50
+    ],
+    "search": {
+      "id": "qay7pV3hg",
+      "complexity": 18,
+      "total": 44
+    },
     "builds": 4,
     "mods": [
       {
@@ -992,6 +1010,24 @@
   {
     "item": "Ephemeral Edge",
     "stats": "#% increased area of effect",
+    "average": 95.7,
+    "prices": [
+      10,
+      60,
+      60,
+      90,
+      150,
+      149.95,
+      149.95,
+      449.84999999999997,
+      749.75,
+      1499.5
+    ],
+    "search": {
+      "id": "vlP9onDSE",
+      "complexity": 18,
+      "total": 14
+    },
     "builds": 4,
     "mods": [
       {
@@ -1067,6 +1103,24 @@
   {
     "item": "Willclash",
     "stats": "+# to maximum power charges",
+    "average": 1713.7142857142858,
+    "prices": [
+      1499.5,
+      1499.5,
+      1649.4499999999998,
+      1649.4499999999998,
+      1799.3999999999999,
+      1949.35,
+      1949.35,
+      2549.1499999999996,
+      2999,
+      4498.5
+    ],
+    "search": {
+      "id": "Qr6G5weSw",
+      "complexity": 18,
+      "total": 21
+    },
     "builds": 4,
     "mods": [
       {
@@ -1223,6 +1277,24 @@
   {
     "item": "Prism Guardian",
     "stats": "+# to level of socketed aura gems",
+    "average": 269.90999999999997,
+    "prices": [
+      149.95,
+      149.95,
+      149.95,
+      149.95,
+      299.9,
+      299.9,
+      299.9,
+      299.9,
+      449.84999999999997,
+      449.84999999999997
+    ],
+    "search": {
+      "id": "bPZDn0aCL",
+      "complexity": 18,
+      "total": 12
+    },
     "builds": 3,
     "mods": [
       {
@@ -1236,6 +1308,19 @@
   {
     "item": "Prism Guardian",
     "stats": "+# to level of socketed gems",
+    "average": 108.96999999999998,
+    "prices": [
+      35,
+      60,
+      149.95,
+      149.95,
+      149.95
+    ],
+    "search": {
+      "id": "gPemZjjsQ",
+      "complexity": 18,
+      "total": 5
+    },
     "builds": 3,
     "mods": [
       {
