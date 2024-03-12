@@ -17877,6 +17877,13 @@
   {
     "item": "Doomfletch",
     "stats": "socketed gems are supported by level # momentum, socketed gems are supported by level # faster projectiles",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "2Bam9vjhk",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -17896,6 +17903,13 @@
   {
     "item": "Transcendent Mind",
     "stats": "corrupted blood cannot be inflicted on you",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "8ad6EgbfV",
+      "complexity": 18,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -17935,6 +17949,17 @@
   {
     "item": "The Consuming Dark",
     "stats": "#% chance to gain a frenzy charge on kill",
+    "average": 99.46666666666665,
+    "prices": [
+      50,
+      100,
+      148.4
+    ],
+    "search": {
+      "id": "0BRpybYFg",
+      "complexity": 18,
+      "total": 3
+    },
     "builds": 1,
     "mods": [
       {
@@ -17948,6 +17973,18 @@
   {
     "item": "Dawnbreaker",
     "stats": "+#% chance to block",
+    "average": 10647.7,
+    "prices": [
+      2671.2000000000003,
+      2819.6,
+      10388,
+      26712
+    ],
+    "search": {
+      "id": "5okJQ8dia",
+      "complexity": 18,
+      "total": 4
+    },
     "builds": 1,
     "mods": [
       {
@@ -17961,6 +17998,16 @@
   {
     "item": "Dawnbreaker",
     "stats": "grants level # determination skill",
+    "average": 24486,
+    "prices": [
+      4452,
+      44520
+    ],
+    "search": {
+      "id": "JVrP0kWIl",
+      "complexity": 18,
+      "total": 2
+    },
     "builds": 1,
     "mods": [
       {
