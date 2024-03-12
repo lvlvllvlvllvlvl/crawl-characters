@@ -15712,6 +15712,20 @@
   {
     "item": "Heartbound Loop",
     "stats": "cannot be ignited",
+    "average": 10,
+    "prices": [
+      10,
+      10,
+      50,
+      146.73,
+      293.46,
+      586.92
+    ],
+    "search": {
+      "id": "3GwDRP9S5",
+      "complexity": 18,
+      "total": 6
+    },
     "builds": 1,
     "mods": [
       {
@@ -15725,6 +15739,15 @@
   {
     "item": "Mind of the Council",
     "stats": "+# to maximum power charges",
+    "average": 70,
+    "prices": [
+      70
+    ],
+    "search": {
+      "id": "Ey6gq3VS5",
+      "complexity": 18,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -15738,6 +15761,20 @@
   {
     "item": "Sentari's Answer",
     "stats": "#% increased maximum life",
+    "average": 215.91249999999997,
+    "prices": [
+      30,
+      100,
+      293.46,
+      440.18999999999994,
+      1320.57,
+      7336.499999999999
+    ],
+    "search": {
+      "id": "mXYGO9aC6",
+      "complexity": 18,
+      "total": 6
+    },
     "builds": 1,
     "mods": [
       {
@@ -15751,6 +15788,22 @@
   {
     "item": "Sentari's Answer",
     "stats": "you take #% reduced extra damage from critical strikes",
+    "average": 621.9200000000001,
+    "prices": [
+      25,
+      100,
+      120,
+      146.73,
+      733.65,
+      1467.3,
+      1760.7599999999998,
+      6456.12
+    ],
+    "search": {
+      "id": "8adzGlqCV",
+      "complexity": 18,
+      "total": 8
+    },
     "builds": 1,
     "mods": [
       {
@@ -15764,6 +15817,22 @@
   {
     "item": "Sentari's Answer",
     "stats": "#% of physical damage from hits taken as chaos damage",
+    "average": 1345.0249999999999,
+    "prices": [
+      146.73,
+      586.92,
+      1027.11,
+      1467.3,
+      1907.4899999999998,
+      2934.6,
+      4401.9,
+      7336.499999999999
+    ],
+    "search": {
+      "id": "7lozQ2lH5",
+      "complexity": 18,
+      "total": 8
+    },
     "builds": 1,
     "mods": [
       {
