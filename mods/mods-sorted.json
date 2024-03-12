@@ -10892,6 +10892,13 @@
   {
     "item": "Primordial Harmony",
     "stats": "#% reduced ignite duration on you, #% increased reservation efficiency of skills",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "oX4VYegcl",
+      "complexity": 30,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -10912,6 +10919,15 @@
   {
     "item": "The Anima Stone",
     "stats": "corrupted blood cannot be inflicted on you",
+    "average": 2200.8,
+    "prices": [
+      2200.8
+    ],
+    "search": {
+      "id": "K9gPvrPT5",
+      "complexity": 18,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -10925,6 +10941,24 @@
   {
     "item": "Sadima's Touch",
     "stats": "+# to maximum frenzy charges",
+    "average": 66.84400000000001,
+    "prices": [
+      10,
+      20,
+      30,
+      40,
+      40,
+      50,
+      60,
+      125,
+      146.72,
+      146.72
+    ],
+    "search": {
+      "id": "Qr6GOj7Tw",
+      "complexity": 18,
+      "total": 14
+    },
     "builds": 1,
     "mods": [
       {
@@ -10938,6 +10972,24 @@
   {
     "item": "Sadima's Touch",
     "stats": "curse enemies with despair on hit",
+    "average": 107.86844444444445,
+    "prices": [
+      40,
+      80,
+      80,
+      100,
+      100,
+      100,
+      100,
+      117.376,
+      146.72,
+      146.72
+    ],
+    "search": {
+      "id": "v3mvnDMCE",
+      "complexity": 18,
+      "total": 17
+    },
     "builds": 1,
     "mods": [
       {
@@ -10951,6 +11003,23 @@
   {
     "item": "Sadima's Touch",
     "stats": "curse enemies with vulnerability on hit",
+    "average": 76.12,
+    "prices": [
+      20,
+      50,
+      60,
+      80,
+      100,
+      146.72,
+      293.44,
+      733.6,
+      29344
+    ],
+    "search": {
+      "id": "JYmporJsl",
+      "complexity": 18,
+      "total": 9
+    },
     "builds": 1,
     "mods": [
       {
