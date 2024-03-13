@@ -7894,6 +7894,15 @@
   {
     "item": "Astral Projector",
     "stats": "hatred has #% increased aura effect",
+    "average": 2199.6,
+    "prices": [
+      2199.6
+    ],
+    "search": {
+      "id": "BEXrk6Xt8",
+      "complexity": 18,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -7907,6 +7916,13 @@
   {
     "item": "Astral Projector",
     "stats": "#% increased cast speed",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "dXb0bwoFJ",
+      "complexity": 18,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -8294,6 +8310,19 @@
   {
     "item": "Intuitive Leap",
     "stats": "#% increased reservation efficiency of skills",
+    "average": 133.88,
+    "prices": [
+      125,
+      130,
+      146.64,
+      219.95999999999998,
+      2932.7999999999997
+    ],
+    "search": {
+      "id": "dPajBpOIJ",
+      "complexity": 19,
+      "total": 5
+    },
     "builds": 1,
     "mods": [
       {
@@ -8308,6 +8337,20 @@
   {
     "item": "Intuitive Leap",
     "stats": "#% reduced poison duration on you",
+    "average": 69.65599999999999,
+    "prices": [
+      15,
+      20,
+      20,
+      146.64,
+      146.64,
+      586.56
+    ],
+    "search": {
+      "id": "Lm2qgr5Sn",
+      "complexity": 18,
+      "total": 6
+    },
     "builds": 1,
     "mods": [
       {
@@ -8321,6 +8364,17 @@
   {
     "item": "Intuitive Leap",
     "stats": "you cannot be hindered",
+    "average": 60,
+    "prices": [
+      40,
+      80,
+      733.1999999999999
+    ],
+    "search": {
+      "id": "waPQLqKhb",
+      "complexity": 18,
+      "total": 3
+    },
     "builds": 1,
     "mods": [
       {
