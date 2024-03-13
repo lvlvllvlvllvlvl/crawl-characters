@@ -9729,6 +9729,21 @@
   {
     "item": "Crown of the Inward Eye",
     "stats": "regenerate #% of life per second",
+    "average": 61.666666666666664,
+    "prices": [
+      50,
+      55,
+      80,
+      146.8,
+      440.40000000000003,
+      3963.6000000000004,
+      58720.00000000001
+    ],
+    "search": {
+      "id": "qayp5XWsg",
+      "complexity": 18,
+      "total": 7
+    },
     "builds": 1,
     "mods": [
       {
@@ -9742,6 +9757,23 @@
   {
     "item": "Rathpith Globe",
     "stats": "#% increased maximum life",
+    "average": 1663.7333333333333,
+    "prices": [
+      146.8,
+      146.8,
+      734,
+      1174.4,
+      1174.4,
+      2055.2000000000003,
+      2936,
+      2936,
+      3670.0000000000005
+    ],
+    "search": {
+      "id": "PK7amZvTL",
+      "complexity": 18,
+      "total": 9
+    },
     "builds": 1,
     "mods": [
       {
@@ -9755,6 +9787,13 @@
   {
     "item": "Rathpith Globe",
     "stats": "+# to level of socketed aoe gems, +# to level of socketed warcry gems",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "KJXDXEPI5",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -9774,6 +9813,24 @@
   {
     "item": "Eyes of the Greatwolf",
     "stats": "#% increased maximum life",
+    "average": 19.714285714285715,
+    "prices": [
+      10,
+      18,
+      19,
+      19,
+      20,
+      20,
+      20,
+      20,
+      20,
+      30
+    ],
+    "search": {
+      "id": "Zb5LQL0uQ",
+      "complexity": 18,
+      "total": 242
+    },
     "builds": 1,
     "mods": [
       {
@@ -9787,6 +9844,24 @@
   {
     "item": "Eyes of the Greatwolf",
     "stats": "#% increased damage, #% increased quantity of items found",
+    "average": 209.00000000000006,
+    "prices": [
+      55,
+      100,
+      100,
+      146.8,
+      146.8,
+      146.8,
+      220.20000000000002,
+      293.6,
+      440.40000000000003,
+      440.40000000000003
+    ],
+    "search": {
+      "id": "plLlQGdH0",
+      "complexity": 29,
+      "total": 31
+    },
     "builds": 1,
     "mods": [
       {
