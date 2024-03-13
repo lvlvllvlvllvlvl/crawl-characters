@@ -1838,6 +1838,17 @@
   {
     "item": "Kaom's Heart",
     "stats": "#% increased maximum life",
+    "average": 217.30000000000004,
+    "prices": [
+      70,
+      140,
+      441.90000000000003
+    ],
+    "search": {
+      "id": "K9gPY8gt5",
+      "complexity": 18,
+      "total": 3
+    },
     "builds": 2,
     "mods": [
       {
@@ -2994,6 +3005,20 @@
   {
     "item": "Hyrri's Truth",
     "stats": "+#% to all elemental resistances",
+    "average": 162.3,
+    "prices": [
+      10,
+      25,
+      40,
+      294.6,
+      441.90000000000003,
+      1473
+    ],
+    "search": {
+      "id": "gXJ32daFQ",
+      "complexity": 18,
+      "total": 6
+    },
     "builds": 2,
     "mods": [
       {
@@ -3378,6 +3403,13 @@
   {
     "item": "Natural Affinity",
     "stats": "#% increased area of effect",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "MvR4pwPcJ",
+      "complexity": 18,
+      "total": 0
+    },
     "builds": 2,
     "mods": [
       {
@@ -3391,6 +3423,15 @@
   {
     "item": "Natural Affinity",
     "stats": "damage penetrates #% elemental resistances",
+    "average": 1178.4,
+    "prices": [
+      1178.4
+    ],
+    "search": {
+      "id": "R242ZPOi7",
+      "complexity": 18,
+      "total": 1
+    },
     "builds": 2,
     "mods": [
       {
@@ -3404,6 +3445,15 @@
   {
     "item": "Badge of the Brotherhood",
     "stats": "hatred has #% increased aura effect",
+    "average": 17676,
+    "prices": [
+      17676
+    ],
+    "search": {
+      "id": "Ey6w67Bh5",
+      "complexity": 18,
+      "total": 1
+    },
     "builds": 2,
     "mods": [
       {
