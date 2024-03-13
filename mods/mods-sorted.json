@@ -9000,6 +9000,24 @@
   {
     "item": "Headhunter",
     "stats": "#% increased strength, #% increased dexterity",
+    "average": 12110.175,
+    "prices": [
+      7339.5,
+      8807.4,
+      9541.35,
+      11743.199999999999,
+      12477.15,
+      13211.099999999999,
+      13945.05,
+      14679,
+      14679,
+      14679
+    ],
+    "search": {
+      "id": "waP7Xanib",
+      "complexity": 29,
+      "total": 33
+    },
     "builds": 1,
     "mods": [
       {
@@ -9019,6 +9037,24 @@
   {
     "item": "Headhunter",
     "stats": "#% increased area of effect",
+    "average": 12623.939999999999,
+    "prices": [
+      10275.3,
+      11743.199999999999,
+      11743.199999999999,
+      11743.199999999999,
+      11743.199999999999,
+      12477.15,
+      12477.15,
+      14679,
+      14679,
+      14679
+    ],
+    "search": {
+      "id": "OVwVMgVTE",
+      "complexity": 18,
+      "total": 17
+    },
     "builds": 1,
     "mods": [
       {
@@ -9032,6 +9068,15 @@
   {
     "item": "Headhunter",
     "stats": "#% increased area of effect, wrath has #% increased aura effect",
+    "average": 14679,
+    "prices": [
+      14679
+    ],
+    "search": {
+      "id": "6Zv5PPXcG",
+      "complexity": 29,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -9051,6 +9096,13 @@
   {
     "item": "Zeel's Amplifier",
     "stats": "+# to level of socketed aoe gems, you take #% reduced extra damage from critical strikes",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "8qB66P8UV",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -9070,6 +9122,20 @@
   {
     "item": "Zeel's Amplifier",
     "stats": "+# to level of socketed gems",
+    "average": 146.79,
+    "prices": [
+      146.79,
+      146.79,
+      146.79,
+      146.79,
+      146.79,
+      440.37
+    ],
+    "search": {
+      "id": "4qnPaPvC9",
+      "complexity": 18,
+      "total": 6
+    },
     "builds": 1,
     "mods": [
       {
