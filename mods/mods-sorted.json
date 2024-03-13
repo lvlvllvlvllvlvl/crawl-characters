@@ -8164,6 +8164,16 @@
   {
     "item": "Carcass Jack",
     "stats": "+# to level of socketed duration gems",
+    "average": 7400.5,
+    "prices": [
+      120,
+      14681
+    ],
+    "search": {
+      "id": "0BXn8pQUg",
+      "complexity": 18,
+      "total": 2
+    },
     "builds": 1,
     "mods": [
       {
@@ -8177,6 +8187,15 @@
   {
     "item": "Carcass Jack",
     "stats": "+# to level of socketed trap or mine gems",
+    "average": 7340.5,
+    "prices": [
+      7340.5
+    ],
+    "search": {
+      "id": "XqbmDMWTP",
+      "complexity": 18,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -12863,6 +12882,19 @@
   {
     "item": "Tanu Ahi",
     "stats": "attacks have +#% to critical strike chance",
+    "average": 151.448,
+    "prices": [
+      20,
+      50,
+      100,
+      293.62,
+      293.62
+    ],
+    "search": {
+      "id": "nXJBg42T0",
+      "complexity": 18,
+      "total": 5
+    },
     "builds": 1,
     "mods": [
       {
@@ -12889,6 +12921,13 @@
   {
     "item": "Tanu Ahi",
     "stats": "curse enemies with enfeeble on hit, attacks have +#% to critical strike chance",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "Rqr6WzBH7",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -12908,6 +12947,13 @@
   {
     "item": "Tanu Ahi",
     "stats": "+# to level of socketed duration gems, attacks have +#% to critical strike chance",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "Pd5D2mmiL",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
