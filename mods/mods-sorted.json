@@ -10408,6 +10408,19 @@
   {
     "item": "Arn's Anguish",
     "stats": "+#% to all elemental resistances",
+    "average": 12608.460000000001,
+    "prices": [
+      1466.1000000000001,
+      2932.2000000000003,
+      7330.500000000001,
+      21991.500000000004,
+      29322.000000000004
+    ],
+    "search": {
+      "id": "Ey659y0i5",
+      "complexity": 18,
+      "total": 5
+    },
     "builds": 1,
     "mods": [
       {
@@ -10421,6 +10434,13 @@
   {
     "item": "Replica Heatshiver",
     "stats": "socketed skill gems get a #% cost & reservation multiplier",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "KJ2OBZqc5",
+      "complexity": 18,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -10434,6 +10454,13 @@
   {
     "item": "Replica Heatshiver",
     "stats": "+# to maximum power charges",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "zelZyOmt4",
+      "complexity": 18,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -10447,6 +10474,15 @@
   {
     "item": "Snakebite",
     "stats": "+# to maximum frenzy charges, curse enemies with despair on hit",
+    "average": 0.01,
+    "prices": [
+      0.01
+    ],
+    "search": {
+      "id": "3Bg95KJs5",
+      "complexity": 29,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -10466,6 +10502,20 @@
   {
     "item": "Snakebite",
     "stats": "curse enemies with temporal chains on hit",
+    "average": 91.4325,
+    "prices": [
+      50,
+      60,
+      109.12,
+      146.61,
+      293.22,
+      733.0500000000001
+    ],
+    "search": {
+      "id": "PK7gj0ZCL",
+      "complexity": 18,
+      "total": 6
+    },
     "builds": 1,
     "mods": [
       {
