@@ -8388,6 +8388,20 @@
   {
     "item": "Intuitive Leap",
     "stats": "corrupted blood cannot be inflicted on you",
+    "average": 1173.12,
+    "prices": [
+      659.8799999999999,
+      1026.48,
+      1173.12,
+      1173.12,
+      1319.7599999999998,
+      3665.9999999999995
+    ],
+    "search": {
+      "id": "mP2eB7Zt6",
+      "complexity": 18,
+      "total": 6
+    },
     "builds": 1,
     "mods": [
       {
@@ -8401,6 +8415,16 @@
   {
     "item": "Hyrri's Ire",
     "stats": "+# to level of socketed minion gems",
+    "average": 146.64,
+    "prices": [
+      146.64,
+      146.64
+    ],
+    "search": {
+      "id": "qXlZDzvTg",
+      "complexity": 18,
+      "total": 2
+    },
     "builds": 1,
     "mods": [
       {
@@ -8414,6 +8438,13 @@
   {
     "item": "Hyrri's Ire",
     "stats": "+# to level of socketed gems, +# to level of socketed projectile gems",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "OVnvVyOTE",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -8433,6 +8464,13 @@
   {
     "item": "Hyrri's Ire",
     "stats": "you take #% reduced extra damage from critical strikes, +#% to all maximum resistances",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "5o3yDeDsa",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -8452,6 +8490,13 @@
   {
     "item": "Hyrri's Ire",
     "stats": "+# to level of socketed gems, #% increased maximum energy shield",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "6Zy0d3dsG",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
