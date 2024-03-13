@@ -5331,6 +5331,17 @@
   {
     "item": "Goldwyrm",
     "stats": "grants level # haste skill",
+    "average": 149.95,
+    "prices": [
+      80,
+      149.95,
+      149.95
+    ],
+    "search": {
+      "id": "3BYY9LJi5",
+      "complexity": 18,
+      "total": 3
+    },
     "builds": 1,
     "mods": [
       {
@@ -5344,6 +5355,24 @@
   {
     "item": "Goldwyrm",
     "stats": "+# to level of socketed gems",
+    "average": 149.95000000000002,
+    "prices": [
+      10,
+      70,
+      80,
+      149.95,
+      149.95,
+      149.95,
+      149.95,
+      149.95,
+      149.95,
+      299.9
+    ],
+    "search": {
+      "id": "DGEnq8vf5",
+      "complexity": 18,
+      "total": 28
+    },
     "builds": 1,
     "mods": [
       {
@@ -5357,6 +5386,24 @@
   {
     "item": "Ventor's Gamble",
     "stats": "bleeding cannot be inflicted on you",
+    "average": 7328.80625,
+    "prices": [
+      1349.55,
+      2999,
+      3748.7499999999995,
+      7497.499999999999,
+      7497.499999999999,
+      11846.05,
+      11846.05,
+      11846.05,
+      29989.999999999996,
+      170969.76
+    ],
+    "search": {
+      "id": "YVg902DIY",
+      "complexity": 18,
+      "total": 11
+    },
     "builds": 1,
     "mods": [
       {
@@ -5370,6 +5417,24 @@
   {
     "item": "Ventor's Gamble",
     "stats": "#% increased rarity of items found",
+    "average": 3,
+    "prices": [
+      1,
+      2,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3
+    ],
+    "search": {
+      "id": "v3mJV8DFE",
+      "complexity": 18,
+      "total": 3393
+    },
     "builds": 1,
     "mods": [
       {
@@ -5383,6 +5448,13 @@
   {
     "item": "Invictus Solaris",
     "stats": "+# to level of socketed minion gems",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "jXR7WqltX",
+      "complexity": 18,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
