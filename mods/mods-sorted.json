@@ -8516,6 +8516,16 @@
   {
     "item": "The Supreme Truth",
     "stats": "#% increased cast speed",
+    "average": 65.5,
+    "prices": [
+      31,
+      100
+    ],
+    "search": {
+      "id": "OVyp2G8TE",
+      "complexity": 18,
+      "total": 2
+    },
     "builds": 1,
     "mods": [
       {
@@ -8529,6 +8539,13 @@
   {
     "item": "The Supreme Truth",
     "stats": "adds # to # fire damage",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "EyRdbkYT5",
+      "complexity": 19,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -8543,6 +8560,13 @@
   {
     "item": "The Supreme Truth",
     "stats": "adds # to # lightning damage",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "EybrLryC5",
+      "complexity": 19,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -8794,6 +8818,13 @@
   {
     "item": "Seven-League Step",
     "stats": "+# to level of socketed aura gems, #% increased maximum life",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "YVEoYy6UY",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -8813,6 +8844,23 @@
   {
     "item": "Seven-League Step",
     "stats": "+#% chance to suppress spell damage",
+    "average": 91.61688888888888,
+    "prices": [
+      25,
+      30,
+      39,
+      50,
+      50,
+      146.64,
+      146.64,
+      146.64,
+      190.63199999999998
+    ],
+    "search": {
+      "id": "8av99q8IV",
+      "complexity": 19,
+      "total": 9
+    },
     "builds": 1,
     "mods": [
       {
