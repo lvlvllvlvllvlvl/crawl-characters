@@ -7433,6 +7433,16 @@
   {
     "item": "Greed's Embrace",
     "stats": "+# to level of socketed gems, #% additional physical damage reduction while stationary",
+    "average": 6965.4,
+    "prices": [
+      2199.6,
+      11731.199999999999
+    ],
+    "search": {
+      "id": "jXjr0VZTX",
+      "complexity": 29,
+      "total": 2
+    },
     "builds": 1,
     "mods": [
       {
@@ -7833,6 +7843,18 @@
   {
     "item": "Hrimsorrow",
     "stats": "+# to maximum frenzy charges",
+    "average": 641.55,
+    "prices": [
+      293.28,
+      586.56,
+      733.1999999999999,
+      953.1599999999999
+    ],
+    "search": {
+      "id": "XqDE6QRuP",
+      "complexity": 18,
+      "total": 4
+    },
     "builds": 1,
     "mods": [
       {
@@ -10874,6 +10896,24 @@
   {
     "item": "Oskarm",
     "stats": "attacks have +#% to critical strike chance",
+    "average": 253.2888888888889,
+    "prices": [
+      80,
+      146.64,
+      146.64,
+      146.64,
+      293.28,
+      293.28,
+      293.28,
+      439.91999999999996,
+      439.91999999999996,
+      733.1999999999999
+    ],
+    "search": {
+      "id": "rXpPWX7CQ",
+      "complexity": 18,
+      "total": 12
+    },
     "builds": 1,
     "mods": [
       {
@@ -10887,6 +10927,13 @@
   {
     "item": "Oskarm",
     "stats": "+# to level of socketed trap or mine gems, curse enemies with vulnerability on hit",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "WVrvPVDum",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -10906,6 +10953,13 @@
   {
     "item": "Oskarm",
     "stats": "curse enemies with vulnerability on hit, attacks have +#% to critical strike chance",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "qX42qr3Cg",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
