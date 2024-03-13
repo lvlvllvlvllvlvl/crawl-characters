@@ -7859,6 +7859,13 @@
   {
     "item": "Mageblood",
     "stats": "#% increased dexterity, #% increased intelligence, malevolence has #% increased aura effect",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "MVZ379PFJ",
+      "complexity": 20,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -7884,6 +7891,13 @@
   {
     "item": "Mageblood",
     "stats": "wrath has #% increased aura effect, zealotry has #% increased aura effect",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "Mq3y0eMuJ",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -7903,6 +7917,24 @@
   {
     "item": "Mageblood",
     "stats": "#% increased attack speed during any flask effect",
+    "average": 134974.34560000003,
+    "prices": [
+      166952.32,
+      166952.32,
+      166952.32,
+      61613.99999999999,
+      66015,
+      217038.016,
+      80685,
+      85086,
+      88020,
+      250428.48
+    ],
+    "search": {
+      "id": "vlPnR8BCE",
+      "complexity": 18,
+      "total": 13
+    },
     "builds": 1,
     "mods": [
       {
@@ -7916,6 +7948,24 @@
   {
     "item": "Mageblood",
     "stats": "+#% to all elemental resistances",
+    "average": 77043.0564,
+    "prices": [
+      11589.3,
+      35208,
+      36675,
+      116866.624,
+      44010,
+      166952.32,
+      166952.32,
+      61613.99999999999,
+      64547.99999999999,
+      66015
+    ],
+    "search": {
+      "id": "noEVO6Mt0",
+      "complexity": 18,
+      "total": 22
+    },
     "builds": 1,
     "mods": [
       {
@@ -7957,6 +8007,16 @@
   {
     "item": "Mageblood",
     "stats": "#% increased strength, #% increased dexterity, #% increased skill effect duration",
+    "average": 66015,
+    "prices": [
+      58679.99999999999,
+      73350
+    ],
+    "search": {
+      "id": "OVQoODgCE",
+      "complexity": 20,
+      "total": 2
+    },
     "builds": 1,
     "mods": [
       {
