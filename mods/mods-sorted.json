@@ -7481,6 +7481,13 @@
   {
     "item": "Call of the Brotherhood",
     "stats": "adds # to # lightning damage to spells and attacks, bleeding cannot be inflicted on you",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "v3We26XhE",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -7500,6 +7507,21 @@
   {
     "item": "Call of the Brotherhood",
     "stats": "zealotry has #% increased aura effect",
+    "average": 1088.02,
+    "prices": [
+      50,
+      294.46,
+      294.46,
+      1472.3,
+      2208.45,
+      2208.45,
+      10306.099999999999
+    ],
+    "search": {
+      "id": "wpVlMn9ib",
+      "complexity": 18,
+      "total": 7
+    },
     "builds": 1,
     "mods": [
       {
@@ -7513,6 +7535,18 @@
   {
     "item": "Call of the Brotherhood",
     "stats": "wrath has #% increased aura effect",
+    "average": 33292.38374999999,
+    "prices": [
+      220.84499999999997,
+      441.68999999999994,
+      58891.99999999999,
+      73615
+    ],
+    "search": {
+      "id": "OVwYd2VtE",
+      "complexity": 18,
+      "total": 4
+    },
     "builds": 1,
     "mods": [
       {
@@ -7526,6 +7560,24 @@
   {
     "item": "Aegis Aurora",
     "stats": "+# to level of socketed gems",
+    "average": 321.2633333333333,
+    "prices": [
+      29,
+      65,
+      147.23,
+      294.46,
+      294.46,
+      294.46,
+      441.68999999999994,
+      588.92,
+      736.15,
+      1030.61
+    ],
+    "search": {
+      "id": "80Z8EzGsV",
+      "complexity": 18,
+      "total": 15
+    },
     "builds": 1,
     "mods": [
       {
@@ -7539,6 +7591,24 @@
   {
     "item": "Aegis Aurora",
     "stats": "+# to level of socketed aoe gems",
+    "average": 210.22633333333337,
+    "prices": [
+      40,
+      100,
+      147.23,
+      147.23,
+      147.23,
+      147.23,
+      294.46,
+      426.967,
+      441.68999999999994,
+      736.15
+    ],
+    "search": {
+      "id": "v3mVvJJCE",
+      "complexity": 18,
+      "total": 14
+    },
     "builds": 1,
     "mods": [
       {
