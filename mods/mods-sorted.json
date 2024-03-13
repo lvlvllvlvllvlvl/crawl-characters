@@ -4917,6 +4917,13 @@
   {
     "item": "Lightning Coil",
     "stats": "#% increased damage, #% reduced lightning damage taken",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "XqDYal7CP",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -4936,6 +4943,24 @@
   {
     "item": "Lightning Coil",
     "stats": "+# to level of socketed gems",
+    "average": 1866.982857142857,
+    "prices": [
+      297.02,
+      594.04,
+      1782.12,
+      1782.12,
+      1930.6299999999999,
+      2970.2,
+      3712.75,
+      5940.4,
+      11880.8,
+      14851
+    ],
+    "search": {
+      "id": "2BrQXgYFk",
+      "complexity": 18,
+      "total": 16
+    },
     "builds": 1,
     "mods": [
       {
@@ -4949,6 +4974,22 @@
   {
     "item": "Lightning Coil",
     "stats": "+# to level of socketed minion gems",
+    "average": 2308.44,
+    "prices": [
+      40,
+      80,
+      148.51,
+      1782.12,
+      3712.75,
+      4455.299999999999,
+      5940.4,
+      25989.25
+    ],
+    "search": {
+      "id": "8aprQ3VTV",
+      "complexity": 18,
+      "total": 8
+    },
     "builds": 1,
     "mods": [
       {
@@ -4962,6 +5003,24 @@
   {
     "item": "Lightning Coil",
     "stats": "+#% to all maximum resistances",
+    "average": 1509.2887499999997,
+    "prices": [
+      20,
+      25,
+      445.53,
+      742.55,
+      1039.57,
+      1485.1,
+      3861.2599999999998,
+      4455.299999999999,
+      14851,
+      29702
+    ],
+    "search": {
+      "id": "80Z0zlZcV",
+      "complexity": 18,
+      "total": 10
+    },
     "builds": 1,
     "mods": [
       {
@@ -4975,6 +5034,15 @@
   {
     "item": "Lightning Coil",
     "stats": "+# to level of socketed aoe gems, +# to level of socketed projectile gems",
+    "average": 81680.5,
+    "prices": [
+      81680.5
+    ],
+    "search": {
+      "id": "zeBjrpvH4",
+      "complexity": 29,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
