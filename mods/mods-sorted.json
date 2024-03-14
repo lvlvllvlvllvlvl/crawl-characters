@@ -1985,6 +1985,24 @@
   {
     "item": "Malachai's Loop",
     "stats": "#% of physical damage from hits taken as fire damage",
+    "average": 320.5165,
+    "prices": [
+      50,
+      80,
+      80,
+      100,
+      222.70499999999998,
+      445.40999999999997,
+      445.40999999999997,
+      445.40999999999997,
+      593.88,
+      742.35
+    ],
+    "search": {
+      "id": "0BaGbKQhg",
+      "complexity": 18,
+      "total": 20
+    },
     "builds": 2,
     "mods": [
       {
@@ -1998,6 +2016,24 @@
   {
     "item": "Heatshiver",
     "stats": "#% increased maximum life",
+    "average": 55.888888888888886,
+    "prices": [
+      13,
+      30,
+      30,
+      40,
+      60,
+      60,
+      70,
+      100,
+      100,
+      148.47
+    ],
+    "search": {
+      "id": "PK7qy2ZCL",
+      "complexity": 18,
+      "total": 17
+    },
     "builds": 2,
     "mods": [
       {
@@ -2011,6 +2047,24 @@
   {
     "item": "Heatshiver",
     "stats": "+# to level of socketed aura gems",
+    "average": 117.88200000000002,
+    "prices": [
+      40,
+      50,
+      98,
+      100,
+      148.47,
+      148.47,
+      148.47,
+      148.47,
+      148.47,
+      148.47
+    ],
+    "search": {
+      "id": "9Y2Z83ysK",
+      "complexity": 18,
+      "total": 21
+    },
     "builds": 2,
     "mods": [
       {
@@ -2024,6 +2078,24 @@
   {
     "item": "Dialla's Malefaction",
     "stats": "+# to level of socketed gems",
+    "average": 29044.44375,
+    "prices": [
+      10392.9,
+      11135.25,
+      11877.6,
+      17816.4,
+      29694,
+      32663.4,
+      56418.6,
+      62357.4,
+      141046.5,
+      511545.96
+    ],
+    "search": {
+      "id": "waPQeqdUb",
+      "complexity": 18,
+      "total": 10
+    },
     "builds": 2,
     "mods": [
       {
@@ -2037,6 +2109,13 @@
   {
     "item": "Dialla's Malefaction",
     "stats": "+# to level of socketed gems, +#% to all maximum resistances",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "Ey6M5KKC5",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 2,
     "mods": [
       {
