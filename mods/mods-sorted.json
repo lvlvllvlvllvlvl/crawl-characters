@@ -16395,6 +16395,17 @@
   {
     "item": "The Primordial Chain",
     "stats": "#% of lightning damage leeched as life",
+    "average": 88.33333333333333,
+    "prices": [
+      25,
+      90,
+      150
+    ],
+    "search": {
+      "id": "9Yvg7JmTK",
+      "complexity": 19,
+      "total": 3
+    },
     "builds": 1,
     "mods": [
       {
@@ -16409,6 +16420,13 @@
   {
     "item": "The Primordial Chain",
     "stats": "+#% to all elemental resistances, #% increased elemental damage with attack skills",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "eMW22QWcL",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -16428,6 +16446,13 @@
   {
     "item": "Doomfletch",
     "stats": "socketed gems are supported by level # momentum, socketed gems are supported by level # faster projectiles",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "2Bam9vjhk",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -16447,6 +16472,16 @@
   {
     "item": "Dawnbreaker",
     "stats": "+#% chance to block",
+    "average": 5132.75,
+    "prices": [
+      2933,
+      7332.5
+    ],
+    "search": {
+      "id": "5okJQ8dia",
+      "complexity": 18,
+      "total": 2
+    },
     "builds": 1,
     "mods": [
       {
@@ -16460,6 +16495,15 @@
   {
     "item": "Dawnbreaker",
     "stats": "grants level # determination skill",
+    "average": 7332.5,
+    "prices": [
+      7332.5
+    ],
+    "search": {
+      "id": "JVrP0kWIl",
+      "complexity": 18,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
