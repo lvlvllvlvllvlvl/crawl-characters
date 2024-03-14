@@ -17793,6 +17793,13 @@
   {
     "item": "Utula's Hunger",
     "stats": "#% increased maximum life",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "9YKk2wYFK",
+      "complexity": 18,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -17806,6 +17813,13 @@
   {
     "item": "Prismweave",
     "stats": "grace has #% increased aura effect, +#% to critical strike multiplier during any flask effect",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "ze5WBkgT4",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -17825,6 +17839,13 @@
   {
     "item": "Black Zenith",
     "stats": "curse enemies with temporal chains on hit",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "VMQOgQrcp",
+      "complexity": 18,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -17838,6 +17859,24 @@
   {
     "item": "Cloak of Flame",
     "stats": "+# to level of socketed trap or mine gems",
+    "average": 299.84999999999997,
+    "prices": [
+      30,
+      50,
+      100,
+      147.92,
+      147.92,
+      443.76,
+      739.5999999999999,
+      739.5999999999999,
+      1183.36,
+      2218.7999999999997
+    ],
+    "search": {
+      "id": "BEXWzq4T8",
+      "complexity": 18,
+      "total": 13
+    },
     "builds": 1,
     "mods": [
       {
@@ -17851,6 +17890,24 @@
   {
     "item": "Cloak of Flame",
     "stats": "+# to level of socketed gems",
+    "average": 80.08399999999999,
+    "prices": [
+      30,
+      40,
+      50,
+      50,
+      70,
+      75,
+      90,
+      100,
+      147.92,
+      147.92
+    ],
+    "search": {
+      "id": "3Gwb5LGh5",
+      "complexity": 18,
+      "total": 45
+    },
     "builds": 1,
     "mods": [
       {
