@@ -5287,6 +5287,18 @@
   {
     "item": "Prism Guardian",
     "stats": "#% increased maximum energy shield",
+    "average": 110.85,
+    "prices": [
+      50,
+      100,
+      146.7,
+      146.7
+    ],
+    "search": {
+      "id": "XqadzgJSP",
+      "complexity": 18,
+      "total": 4
+    },
     "builds": 1,
     "mods": [
       {
@@ -5300,6 +5312,15 @@
   {
     "item": "Prism Guardian",
     "stats": "#% reduced area damage taken from hits",
+    "average": 50,
+    "prices": [
+      50
+    ],
+    "search": {
+      "id": "RqBW8pZU7",
+      "complexity": 18,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -5313,6 +5334,18 @@
   {
     "item": "Prism Guardian",
     "stats": "#% of physical damage from hits taken as lightning damage",
+    "average": 230.04999999999998,
+    "prices": [
+      20,
+      20,
+      293.4,
+      586.8
+    ],
+    "search": {
+      "id": "lPrrL90UV",
+      "complexity": 18,
+      "total": 4
+    },
     "builds": 1,
     "mods": [
       {
@@ -5326,6 +5359,13 @@
   {
     "item": "Hrimnor's Resolve",
     "stats": "socketed skill gems get a #% cost & reservation multiplier, #% increased maximum life",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "RVebL5qU7",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -5345,6 +5385,13 @@
   {
     "item": "Shadows and Dust",
     "stats": "curse enemies with elemental weakness on hit, attacks have +#% to critical strike chance",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "60QnQdqIG",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
