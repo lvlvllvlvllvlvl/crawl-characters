@@ -11178,6 +11178,13 @@
   {
     "item": "Cospri's Will",
     "stats": "+# to level of socketed aoe gems, +# to level of socketed projectile gems",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "zE22WmgS4",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -11197,6 +11204,19 @@
   {
     "item": "Inspired Learning",
     "stats": "#% reduced poison duration on you",
+    "average": 146.65,
+    "prices": [
+      146.65,
+      146.65,
+      146.65,
+      146.65,
+      146.65
+    ],
+    "search": {
+      "id": "ZbZdZp8HQ",
+      "complexity": 18,
+      "total": 5
+    },
     "builds": 1,
     "mods": [
       {
@@ -11210,6 +11230,20 @@
   {
     "item": "Inspired Learning",
     "stats": "minions deal #% increased damage",
+    "average": 88.66,
+    "prices": [
+      20,
+      95,
+      35,
+      146.65,
+      146.65,
+      5132.75
+    ],
+    "search": {
+      "id": "oX70bw4il",
+      "complexity": 18,
+      "total": 6
+    },
     "builds": 1,
     "mods": [
       {
@@ -11223,6 +11257,19 @@
   {
     "item": "Inspired Learning",
     "stats": "damage penetrates #% lightning resistance",
+    "average": 784.58,
+    "prices": [
+      20,
+      90,
+      146.65,
+      1466.5,
+      2199.75
+    ],
+    "search": {
+      "id": "kXD66RnF5",
+      "complexity": 19,
+      "total": 5
+    },
     "builds": 1,
     "mods": [
       {
@@ -11237,6 +11284,20 @@
   {
     "item": "Inspired Learning",
     "stats": "#% reduced effect of curses on you",
+    "average": 146.65,
+    "prices": [
+      20,
+      146.65,
+      146.65,
+      146.65,
+      146.65,
+      1173.2
+    ],
+    "search": {
+      "id": "LmdejwjHn",
+      "complexity": 18,
+      "total": 6
+    },
     "builds": 1,
     "mods": [
       {
