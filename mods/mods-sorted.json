@@ -11293,6 +11293,19 @@
   {
     "item": "Inspired Learning",
     "stats": "#% reduced effect of curses on you",
+    "average": 147.55,
+    "prices": [
+      147.55,
+      147.55,
+      147.55,
+      147.55,
+      221.32500000000002
+    ],
+    "search": {
+      "id": "LmdejwjHn",
+      "complexity": 18,
+      "total": 5
+    },
     "builds": 1,
     "mods": [
       {
@@ -11306,6 +11319,16 @@
   {
     "item": "Inspired Learning",
     "stats": "#% reduced bleed duration on you",
+    "average": 378.875,
+    "prices": [
+      20,
+      737.75
+    ],
+    "search": {
+      "id": "bPZJr2RTL",
+      "complexity": 18,
+      "total": 2
+    },
     "builds": 1,
     "mods": [
       {
@@ -11319,6 +11342,24 @@
   {
     "item": "Inspired Learning",
     "stats": "corrupted blood cannot be inflicted on you",
+    "average": 597.5775000000001,
+    "prices": [
+      442.65000000000003,
+      442.65000000000003,
+      442.65000000000003,
+      590.2,
+      649.2200000000001,
+      737.75,
+      737.75,
+      737.75,
+      1475.5,
+      2360.8
+    ],
+    "search": {
+      "id": "wpR9W5jhb",
+      "complexity": 18,
+      "total": 13
+    },
     "builds": 1,
     "mods": [
       {
@@ -11332,6 +11373,17 @@
   {
     "item": "Inspired Learning",
     "stats": "you cannot be maimed",
+    "average": 1475.5,
+    "prices": [
+      34,
+      1475.5,
+      1475.5
+    ],
+    "search": {
+      "id": "v3WbPKZuE",
+      "complexity": 18,
+      "total": 3
+    },
     "builds": 1,
     "mods": [
       {
@@ -11345,6 +11397,22 @@
   {
     "item": "Inspired Learning",
     "stats": "damage penetrates #% cold resistance",
+    "average": 170.44214285714287,
+    "prices": [
+      20,
+      25,
+      30,
+      100,
+      132.79500000000002,
+      442.65000000000003,
+      442.65000000000003,
+      1475352.4500000002
+    ],
+    "search": {
+      "id": "KJdeLGqs5",
+      "complexity": 19,
+      "total": 8
+    },
     "builds": 1,
     "mods": [
       {
