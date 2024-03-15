@@ -11174,6 +11174,13 @@
   {
     "item": "Memory Vault",
     "stats": "+# to level of socketed projectile gems",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "VM6vDGdFp",
+      "complexity": 18,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -11187,6 +11194,13 @@
   {
     "item": "Cospri's Will",
     "stats": "+# to level of socketed aoe gems, +# to level of socketed projectile gems",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "zE22WmgS4",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -11206,6 +11220,17 @@
   {
     "item": "Inspired Learning",
     "stats": "#% reduced poison duration on you",
+    "average": 230.0666666666667,
+    "prices": [
+      100,
+      147.55,
+      442.65000000000003
+    ],
+    "search": {
+      "id": "ZbZdZp8HQ",
+      "complexity": 18,
+      "total": 3
+    },
     "builds": 1,
     "mods": [
       {
@@ -11219,6 +11244,15 @@
   {
     "item": "Inspired Learning",
     "stats": "minions deal #% increased damage",
+    "average": 2655.9,
+    "prices": [
+      2655.9
+    ],
+    "search": {
+      "id": "oX70bw4il",
+      "complexity": 18,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -11232,6 +11266,19 @@
   {
     "item": "Inspired Learning",
     "stats": "damage penetrates #% lightning resistance",
+    "average": 98.775,
+    "prices": [
+      20,
+      80,
+      147.55,
+      147.55,
+      1475.5
+    ],
+    "search": {
+      "id": "kXD66RnF5",
+      "complexity": 19,
+      "total": 5
+    },
     "builds": 1,
     "mods": [
       {
