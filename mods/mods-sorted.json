@@ -12686,6 +12686,24 @@
   {
     "item": "Eyes of the Greatwolf",
     "stats": "#% increased maximum life",
+    "average": 27.333333333333332,
+    "prices": [
+      10,
+      20,
+      20,
+      25,
+      25,
+      25,
+      30,
+      30,
+      35,
+      36
+    ],
+    "search": {
+      "id": "Zb5LQL0uQ",
+      "complexity": 18,
+      "total": 239
+    },
     "builds": 1,
     "mods": [
       {
@@ -12699,6 +12717,15 @@
   {
     "item": "The Annihilating Light",
     "stats": "#% increased cast speed, #% increased critical strike chance",
+    "average": 51344.99999999999,
+    "prices": [
+      51344.99999999999
+    ],
+    "search": {
+      "id": "DGEDdB2f5",
+      "complexity": 29,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -12718,6 +12745,22 @@
   {
     "item": "The Annihilating Light",
     "stats": "#% chance to gain a power charge on critical strike",
+    "average": 1915.725,
+    "prices": [
+      69,
+      440.09999999999997,
+      880.1999999999999,
+      2200.5,
+      2934,
+      2934,
+      2934,
+      2934
+    ],
+    "search": {
+      "id": "PK7GzpZhL",
+      "complexity": 18,
+      "total": 8
+    },
     "builds": 1,
     "mods": [
       {
@@ -12731,6 +12774,13 @@
   {
     "item": "Coward's Legacy",
     "stats": "#% increased maximum life, zealotry has #% increased aura effect",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "LeW47p5tn",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -12750,6 +12800,13 @@
   {
     "item": "Dendrobate",
     "stats": "+# to level of socketed aoe gems, #% increased damage",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "vlPVe4zSE",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
