@@ -16683,6 +16683,13 @@
   {
     "item": "Zeel's Amplifier",
     "stats": "+# to level of socketed aoe gems, you take #% reduced extra damage from critical strikes",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "8qB66P8UV",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -16702,6 +16709,13 @@
   {
     "item": "Zeel's Amplifier",
     "stats": "+# to level of socketed gems, #% of physical damage from hits taken as lightning damage",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "2BrRVbeUk",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -16721,6 +16735,20 @@
   {
     "item": "Heartbound Loop",
     "stats": "cannot be ignited",
+    "average": 298.6,
+    "prices": [
+      30,
+      146.8,
+      146.8,
+      293.6,
+      587.2,
+      587.2
+    ],
+    "search": {
+      "id": "3GwDRP9S5",
+      "complexity": 18,
+      "total": 6
+    },
     "builds": 1,
     "mods": [
       {
@@ -16734,6 +16762,20 @@
   {
     "item": "Heartbound Loop",
     "stats": "bleeding cannot be inflicted on you",
+    "average": 130.10000000000002,
+    "prices": [
+      30,
+      50,
+      146.8,
+      293.6,
+      1321.2,
+      2936
+    ],
+    "search": {
+      "id": "gXWoX0KFQ",
+      "complexity": 18,
+      "total": 6
+    },
     "builds": 1,
     "mods": [
       {
@@ -16747,6 +16789,24 @@
   {
     "item": "Bloodnotch",
     "stats": "#% increased damage",
+    "average": 572.772,
+    "prices": [
+      25,
+      59,
+      80,
+      132.12,
+      146.8,
+      587.2,
+      734,
+      1027.6000000000001,
+      1468,
+      1468
+    ],
+    "search": {
+      "id": "LeVvdK2Cn",
+      "complexity": 18,
+      "total": 11
+    },
     "builds": 1,
     "mods": [
       {
