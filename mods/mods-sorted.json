@@ -12161,6 +12161,19 @@
   {
     "item": "Kaom's Spirit",
     "stats": "+# to level of socketed aoe gems",
+    "average": 2992.8840000000005,
+    "prices": [
+      440.13,
+      733.5500000000001,
+      3521.04,
+      4401.3,
+      5868.400000000001
+    ],
+    "search": {
+      "id": "lPrYyEQUV",
+      "complexity": 18,
+      "total": 5
+    },
     "builds": 1,
     "mods": [
       {
@@ -12174,6 +12187,21 @@
   {
     "item": "Kaom's Spirit",
     "stats": "+#% to spell critical strike chance",
+    "average": 60,
+    "prices": [
+      20,
+      60,
+      80,
+      80,
+      293.42,
+      440.13,
+      733.5500000000001
+    ],
+    "search": {
+      "id": "qaylYl9ug",
+      "complexity": 18,
+      "total": 7
+    },
     "builds": 1,
     "mods": [
       {
@@ -12187,6 +12215,21 @@
   {
     "item": "Gravebind",
     "stats": "curse enemies with enfeeble on hit",
+    "average": 5916.501428571429,
+    "prices": [
+      40,
+      150,
+      146.71,
+      1467.1000000000001,
+      10269.7,
+      14671,
+      14671
+    ],
+    "search": {
+      "id": "rXJbP57TQ",
+      "complexity": 18,
+      "total": 7
+    },
     "builds": 1,
     "mods": [
       {
@@ -12200,6 +12243,24 @@
   {
     "item": "Gravebind",
     "stats": "curse enemies with temporal chains on hit",
+    "average": 3157.3307999999997,
+    "prices": [
+      60,
+      117.36800000000001,
+      440.13,
+      1026.97,
+      4988.14,
+      4988.14,
+      4988.14,
+      4988.14,
+      4988.14,
+      4988.14
+    ],
+    "search": {
+      "id": "jXjawVWTX",
+      "complexity": 18,
+      "total": 10
+    },
     "builds": 1,
     "mods": [
       {
@@ -12213,6 +12274,13 @@
   {
     "item": "Arakaali's Fang",
     "stats": "#% chance to gain a frenzy charge on kill",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "oXjZ0EOsl",
+      "complexity": 18,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
