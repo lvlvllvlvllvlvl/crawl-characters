@@ -6393,6 +6393,15 @@
   {
     "item": "Sign of the Sin Eater",
     "stats": "#% increased area of effect",
+    "average": 299.86,
+    "prices": [
+      299.86
+    ],
+    "search": {
+      "id": "rXjnOV7CQ",
+      "complexity": 18,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -6406,6 +6415,13 @@
   {
     "item": "Gifts from Above",
     "stats": "#% increased strength, #% increased dexterity, #% increased cast speed",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "QVYWQVjTw",
+      "complexity": 20,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -6431,6 +6447,19 @@
   {
     "item": "Watcher's Eye",
     "stats": "#% reduced poison duration on you",
+    "average": 559.7386666666666,
+    "prices": [
+      179.916,
+      599.72,
+      899.58,
+      7496.5,
+      138240.424
+    ],
+    "search": {
+      "id": "jPpekPluX",
+      "complexity": 18,
+      "total": 5
+    },
     "builds": 1,
     "mods": [
       {
@@ -6444,6 +6473,17 @@
   {
     "item": "Watcher's Eye",
     "stats": "damage penetrates #% lightning resistance",
+    "average": 299.86,
+    "prices": [
+      149.93,
+      299.86,
+      449.79
+    ],
+    "search": {
+      "id": "6ZbVbrXIG",
+      "complexity": 19,
+      "total": 3
+    },
     "builds": 1,
     "mods": [
       {
@@ -6458,6 +6498,18 @@
   {
     "item": "Watcher's Eye",
     "stats": "minions deal #% increased damage",
+    "average": 866.2700000000001,
+    "prices": [
+      50,
+      599.72,
+      1949.0900000000001,
+      172800.53
+    ],
+    "search": {
+      "id": "8a24E4qsV",
+      "complexity": 18,
+      "total": 4
+    },
     "builds": 1,
     "mods": [
       {
