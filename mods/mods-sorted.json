@@ -10395,6 +10395,24 @@
   {
     "item": "Sadima's Touch",
     "stats": "curse enemies with despair on hit",
+    "average": 45.3,
+    "prices": [
+      18,
+      25,
+      30,
+      30,
+      40,
+      50,
+      50,
+      50,
+      80,
+      80
+    ],
+    "search": {
+      "id": "v3mvnDMCE",
+      "complexity": 18,
+      "total": 19
+    },
     "builds": 1,
     "mods": [
       {
@@ -10408,6 +10426,20 @@
   {
     "item": "Sadima's Touch",
     "stats": "+# to level of socketed minion gems",
+    "average": 94.98083333333334,
+    "prices": [
+      35,
+      44.98499999999999,
+      90,
+      100,
+      149.95,
+      149.95
+    ],
+    "search": {
+      "id": "YD0JL6vhY",
+      "complexity": 18,
+      "total": 6
+    },
     "builds": 1,
     "mods": [
       {
@@ -10421,6 +10453,24 @@
   {
     "item": "Sadima's Touch",
     "stats": "+# to maximum frenzy charges",
+    "average": 81.31666666666666,
+    "prices": [
+      15,
+      22,
+      30,
+      40,
+      75,
+      100,
+      149.95,
+      149.95,
+      149.95,
+      299.9
+    ],
+    "search": {
+      "id": "Qr6GOj7Tw",
+      "complexity": 18,
+      "total": 16
+    },
     "builds": 1,
     "mods": [
       {
@@ -10434,6 +10484,24 @@
   {
     "item": "Sadima's Touch",
     "stats": "curse enemies with vulnerability on hit",
+    "average": 932.1899999999999,
+    "prices": [
+      5,
+      20,
+      149.95,
+      149.95,
+      149.95,
+      299.9,
+      299.9,
+      2249.25,
+      2999,
+      2999
+    ],
+    "search": {
+      "id": "JYmporJsl",
+      "complexity": 18,
+      "total": 10
+    },
     "builds": 1,
     "mods": [
       {
@@ -10447,6 +10515,13 @@
   {
     "item": "Sadima's Touch",
     "stats": "+# to level of socketed duration gems, attacks have +#% to critical strike chance",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "3BWqobds5",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
