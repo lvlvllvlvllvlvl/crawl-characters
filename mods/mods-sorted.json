@@ -6762,6 +6762,15 @@
   {
     "item": "Southbound",
     "stats": "#% increased maximum energy shield",
+    "average": 10,
+    "prices": [
+      10
+    ],
+    "search": {
+      "id": "XqD7VoBhP",
+      "complexity": 18,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -6775,6 +6784,15 @@
   {
     "item": "Southbound",
     "stats": "+# to level of socketed projectile gems, +#% to spell critical strike chance",
+    "average": 20,
+    "prices": [
+      20
+    ],
+    "search": {
+      "id": "DLkBXM5u5",
+      "complexity": 29,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -6794,6 +6812,19 @@
   {
     "item": "Southbound",
     "stats": "+# to level of socketed aoe gems",
+    "average": 89.98333333333333,
+    "prices": [
+      20,
+      100,
+      149.95,
+      1499.5,
+      4498.5
+    ],
+    "search": {
+      "id": "rY5Xe0McQ",
+      "complexity": 18,
+      "total": 5
+    },
     "builds": 1,
     "mods": [
       {
@@ -6807,6 +6838,17 @@
   {
     "item": "Incandescent Heart",
     "stats": "+# to level of socketed minion gems",
+    "average": 224.92499999999998,
+    "prices": [
+      149.95,
+      299.9,
+      2999
+    ],
+    "search": {
+      "id": "gPeRw97hQ",
+      "complexity": 18,
+      "total": 3
+    },
     "builds": 1,
     "mods": [
       {
@@ -6820,6 +6862,24 @@
   {
     "item": "Incandescent Heart",
     "stats": "you take #% reduced extra damage from critical strikes",
+    "average": 1024.1055555555554,
+    "prices": [
+      20,
+      50,
+      299.9,
+      749.75,
+      1199.6,
+      1499.5,
+      1499.5,
+      1799.3999999999999,
+      2099.2999999999997,
+      14994.999999999998
+    ],
+    "search": {
+      "id": "RVBnoyBU7",
+      "complexity": 18,
+      "total": 12
+    },
     "builds": 1,
     "mods": [
       {
