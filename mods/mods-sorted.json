@@ -2652,6 +2652,15 @@
   {
     "item": "Fleshcrafter",
     "stats": "+# to level of socketed duration gems",
+    "average": 1471.8000000000002,
+    "prices": [
+      1471.8000000000002
+    ],
+    "search": {
+      "id": "GZypBposb",
+      "complexity": 18,
+      "total": 1
+    },
     "builds": 2,
     "mods": [
       {
@@ -2665,6 +2674,16 @@
   {
     "item": "Call of the Brotherhood",
     "stats": "+#% to all elemental resistances",
+    "average": 75,
+    "prices": [
+      50,
+      100
+    ],
+    "search": {
+      "id": "LeV9n8jHn",
+      "complexity": 18,
+      "total": 2
+    },
     "builds": 2,
     "mods": [
       {
@@ -2678,6 +2697,20 @@
   {
     "item": "Sadima's Touch",
     "stats": "#% increased maximum energy shield",
+    "average": 290.92400000000004,
+    "prices": [
+      30,
+      100,
+      147.18,
+      441.54,
+      735.9000000000001,
+      1471.8000000000002
+    ],
+    "search": {
+      "id": "PdDK4Y7iL",
+      "complexity": 18,
+      "total": 6
+    },
     "builds": 2,
     "mods": [
       {
@@ -2691,6 +2724,17 @@
   {
     "item": "Sadima's Touch",
     "stats": "#% increased cast speed",
+    "average": 147.18,
+    "prices": [
+      30,
+      147.18,
+      147.18
+    ],
+    "search": {
+      "id": "K9gKZ2RC5",
+      "complexity": 18,
+      "total": 3
+    },
     "builds": 2,
     "mods": [
       {
@@ -2704,6 +2748,24 @@
   {
     "item": "Sadima's Touch",
     "stats": "#% increased attack speed",
+    "average": 93.02000000000001,
+    "prices": [
+      20,
+      20,
+      70,
+      100,
+      100,
+      100,
+      100,
+      180,
+      147.18,
+      220.77
+    ],
+    "search": {
+      "id": "2Gb6JDdtk",
+      "complexity": 19,
+      "total": 13
+    },
     "builds": 2,
     "mods": [
       {
