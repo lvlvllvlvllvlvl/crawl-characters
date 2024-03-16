@@ -1006,6 +1006,24 @@
   {
     "item": "Goldwyrm",
     "stats": "regenerate # life per second while moving",
+    "average": 91.66666666666667,
+    "prices": [
+      15,
+      40,
+      60,
+      80,
+      80,
+      90,
+      100,
+      100,
+      100,
+      146.54
+    ],
+    "search": {
+      "id": "qay7pV3hg",
+      "complexity": 18,
+      "total": 27
+    },
     "builds": 4,
     "mods": [
       {
@@ -1019,6 +1037,24 @@
   {
     "item": "Ephemeral Edge",
     "stats": "#% increased area of effect",
+    "average": 208.3675,
+    "prices": [
+      15,
+      40,
+      146.54,
+      146.54,
+      146.54,
+      293.08,
+      439.62,
+      439.62,
+      1465.3999999999999,
+      3663.5
+    ],
+    "search": {
+      "id": "vlP9onDSE",
+      "complexity": 18,
+      "total": 11
+    },
     "builds": 4,
     "mods": [
       {
@@ -1032,6 +1068,24 @@
   {
     "item": "Willclash",
     "stats": "+# to maximum power charges",
+    "average": 2009.6914285714283,
+    "prices": [
+      1905.02,
+      1905.02,
+      2051.56,
+      2051.56,
+      2051.56,
+      2051.56,
+      2051.56,
+      2198.1,
+      2784.2599999999998,
+      2784.2599999999998
+    ],
+    "search": {
+      "id": "Qr6G5weSw",
+      "complexity": 18,
+      "total": 20
+    },
     "builds": 4,
     "mods": [
       {
@@ -1045,6 +1099,17 @@
   {
     "item": "Prism Guardian",
     "stats": "+# to level of socketed gems",
+    "average": 120.985,
+    "prices": [
+      101.97,
+      140,
+      586.16
+    ],
+    "search": {
+      "id": "gPemZjjsQ",
+      "complexity": 18,
+      "total": 3
+    },
     "builds": 3,
     "mods": [
       {
@@ -1058,6 +1123,18 @@
   {
     "item": "Prism Guardian",
     "stats": "+# to level of socketed aura gems",
+    "average": 488.4666666666667,
+    "prices": [
+      146.54,
+      293.08,
+      1025.78,
+      11723200
+    ],
+    "search": {
+      "id": "bPZDn0aCL",
+      "complexity": 18,
+      "total": 4
+    },
     "builds": 3,
     "mods": [
       {
