@@ -18242,6 +18242,20 @@
   {
     "item": "Windscream",
     "stats": "#% increased movement speed",
+    "average": 149.95,
+    "prices": [
+      100,
+      149.95,
+      149.95,
+      599.8,
+      1499.5,
+      5248.25
+    ],
+    "search": {
+      "id": "pXjndPeT0",
+      "complexity": 18,
+      "total": 6
+    },
     "builds": 1,
     "mods": [
       {
@@ -18255,6 +18269,13 @@
   {
     "item": "Windscream",
     "stats": "+# to level of socketed gems, +# to level of socketed minion gems",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "5o5MOmoua",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -18274,6 +18295,13 @@
   {
     "item": "Heretic's Veil",
     "stats": "+# to level of socketed duration gems",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "jXy6orlHX",
+      "complexity": 18,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -18287,6 +18315,13 @@
   {
     "item": "The Brass Dome",
     "stats": "+# to level of socketed trap or mine gems, #% reduced lightning damage taken",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "XqDVoE7UP",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -18306,6 +18341,15 @@
   {
     "item": "Perquil's Toe",
     "stats": "you can apply an additional curse",
+    "average": 150,
+    "prices": [
+      150
+    ],
+    "search": {
+      "id": "aboaB4aSe",
+      "complexity": 18,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
