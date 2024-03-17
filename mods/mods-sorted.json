@@ -1019,6 +1019,24 @@
   {
     "item": "Goldwyrm",
     "stats": "regenerate # life per second while moving",
+    "average": 85.99000000000001,
+    "prices": [
+      30,
+      30,
+      60,
+      60,
+      80,
+      90,
+      100,
+      110,
+      149.95,
+      149.95
+    ],
+    "search": {
+      "id": "qay7pV3hg",
+      "complexity": 18,
+      "total": 30
+    },
     "builds": 4,
     "mods": [
       {
@@ -1032,6 +1050,24 @@
   {
     "item": "Ephemeral Edge",
     "stats": "#% increased area of effect",
+    "average": 50,
+    "prices": [
+      15,
+      50,
+      50,
+      50,
+      149.95,
+      299.9,
+      449.84999999999997,
+      749.75,
+      1499.5,
+      3748.7499999999995
+    ],
+    "search": {
+      "id": "vlP9onDSE",
+      "complexity": 18,
+      "total": 11
+    },
     "builds": 4,
     "mods": [
       {
@@ -1045,6 +1081,24 @@
   {
     "item": "Willclash",
     "stats": "+# to maximum power charges",
+    "average": 5833.054999999999,
+    "prices": [
+      2699.1,
+      2849.0499999999997,
+      4498.5,
+      4498.5,
+      4798.4,
+      5248.25,
+      5248.25,
+      7497.499999999999,
+      10496.5,
+      10496.5
+    ],
+    "search": {
+      "id": "Qr6G5weSw",
+      "complexity": 18,
+      "total": 13
+    },
     "builds": 4,
     "mods": [
       {
@@ -1058,6 +1112,19 @@
   {
     "item": "Prism Guardian",
     "stats": "+# to level of socketed gems",
+    "average": 107.475,
+    "prices": [
+      30,
+      100,
+      149.95,
+      149.95,
+      599.8
+    ],
+    "search": {
+      "id": "gPemZjjsQ",
+      "complexity": 18,
+      "total": 5
+    },
     "builds": 3,
     "mods": [
       {
@@ -1071,6 +1138,20 @@
   {
     "item": "Prism Guardian",
     "stats": "+# to level of socketed aura gems",
+    "average": 366.54999999999995,
+    "prices": [
+      100,
+      149.95,
+      299.9,
+      449.84999999999997,
+      449.84999999999997,
+      749.75
+    ],
+    "search": {
+      "id": "bPZDn0aCL",
+      "complexity": 18,
+      "total": 6
+    },
     "builds": 3,
     "mods": [
       {
