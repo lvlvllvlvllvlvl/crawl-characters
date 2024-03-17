@@ -12574,6 +12574,15 @@
   {
     "item": "Null and Void",
     "stats": "curse enemies with vulnerability on hit",
+    "average": 39,
+    "prices": [
+      39
+    ],
+    "search": {
+      "id": "BEDbEmKu8",
+      "complexity": 18,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -12587,6 +12596,17 @@
   {
     "item": "Null and Void",
     "stats": "+# to maximum frenzy charges",
+    "average": 149.95,
+    "prices": [
+      105,
+      149.95,
+      149.95
+    ],
+    "search": {
+      "id": "PdaZZ9GhL",
+      "complexity": 18,
+      "total": 3
+    },
     "builds": 1,
     "mods": [
       {
@@ -12600,6 +12620,19 @@
   {
     "item": "Null and Void",
     "stats": "+# to level of socketed aura gems",
+    "average": 480.84,
+    "prices": [
+      5,
+      149.95,
+      299.9,
+      749.75,
+      1199.6
+    ],
+    "search": {
+      "id": "JqXqnPWhl",
+      "complexity": 18,
+      "total": 5
+    },
     "builds": 1,
     "mods": [
       {
@@ -12613,6 +12646,13 @@
   {
     "item": "Voidwalker",
     "stats": "+# to maximum endurance charges",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "rXmqqpmfQ",
+      "complexity": 18,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -12626,6 +12666,24 @@
   {
     "item": "Eyes of the Greatwolf",
     "stats": "#% increased damage, #% increased quantity of items found",
+    "average": 614.7949999999998,
+    "prices": [
+      149.95,
+      149.95,
+      149.95,
+      449.84999999999997,
+      449.84999999999997,
+      449.84999999999997,
+      1049.6499999999999,
+      1049.6499999999999,
+      1049.6499999999999,
+      1199.6
+    ],
+    "search": {
+      "id": "plLlQGdH0",
+      "complexity": 29,
+      "total": 13
+    },
     "builds": 1,
     "mods": [
       {
