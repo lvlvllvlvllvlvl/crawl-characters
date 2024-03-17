@@ -14353,6 +14353,22 @@
   {
     "item": "Aegis Aurora",
     "stats": "#% of physical damage from hits taken as cold damage",
+    "average": 149.88,
+    "prices": [
+      30,
+      149.88,
+      149.88,
+      149.88,
+      149.88,
+      200,
+      1498.8,
+      1798.56
+    ],
+    "search": {
+      "id": "BGr0mYku8",
+      "complexity": 18,
+      "total": 8
+    },
     "builds": 1,
     "mods": [
       {
@@ -14366,6 +14382,24 @@
   {
     "item": "Aegis Aurora",
     "stats": "#% of physical damage from hits taken as fire damage",
+    "average": 106.94000000000001,
+    "prices": [
+      25,
+      45,
+      50,
+      100,
+      100,
+      149.88,
+      149.88,
+      149.88,
+      149.88,
+      149.88
+    ],
+    "search": {
+      "id": "lXjXX7kcV",
+      "complexity": 18,
+      "total": 18
+    },
     "builds": 1,
     "mods": [
       {
@@ -14379,6 +14413,13 @@
   {
     "item": "The Jinxed Juju",
     "stats": "#% increased dexterity, #% increased intelligence, wrath has #% increased aura effect",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "paPKOy5s0",
+      "complexity": 20,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -14404,6 +14445,15 @@
   {
     "item": "The Jinxed Juju",
     "stats": "discipline has #% increased aura effect",
+    "average": 149.88,
+    "prices": [
+      149.88
+    ],
+    "search": {
+      "id": "qXJRJvkSg",
+      "complexity": 18,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -14417,6 +14467,13 @@
   {
     "item": "The Jinxed Juju",
     "stats": "wrath has #% increased aura effect",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "oX7R79kFl",
+      "complexity": 18,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
