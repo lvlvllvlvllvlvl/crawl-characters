@@ -15978,6 +15978,13 @@
   {
     "item": "Doppelgänger Guise",
     "stats": "+# to level of socketed gems",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "JVdRZXasl",
+      "complexity": 18,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -15991,6 +15998,22 @@
   {
     "item": "Void Battery",
     "stats": "#% increased critical strike chance",
+    "average": 456.99285714285713,
+    "prices": [
+      20,
+      30,
+      149.95,
+      299.9,
+      299.9,
+      1199.6,
+      1199.6,
+      5998
+    ],
+    "search": {
+      "id": "LmydjKGIn",
+      "complexity": 18,
+      "total": 8
+    },
     "builds": 1,
     "mods": [
       {
@@ -16004,6 +16027,24 @@
   {
     "item": "Void Battery",
     "stats": "damage penetrates #% elemental resistances",
+    "average": 937.1875,
+    "prices": [
+      599.8,
+      749.75,
+      749.75,
+      749.75,
+      749.75,
+      899.6999999999999,
+      1499.5,
+      1499.5,
+      2249.25,
+      2849.0499999999997
+    ],
+    "search": {
+      "id": "mP20bDrt6",
+      "complexity": 18,
+      "total": 20
+    },
     "builds": 1,
     "mods": [
       {
@@ -16017,6 +16058,16 @@
   {
     "item": "Viridi's Veil",
     "stats": "+# to level of socketed projectile gems",
+    "average": 110,
+    "prices": [
+      100,
+      120
+    ],
+    "search": {
+      "id": "MVDlgq6UJ",
+      "complexity": 18,
+      "total": 2
+    },
     "builds": 1,
     "mods": [
       {
@@ -16030,6 +16081,19 @@
   {
     "item": "Viridi's Veil",
     "stats": "socketed skill gems get a #% cost & reservation multiplier",
+    "average": 2436.6875,
+    "prices": [
+      749.75,
+      749.75,
+      3748.7499999999995,
+      4498.5,
+      37487.5
+    ],
+    "search": {
+      "id": "9qlwZXQUK",
+      "complexity": 18,
+      "total": 5
+    },
     "builds": 1,
     "mods": [
       {
