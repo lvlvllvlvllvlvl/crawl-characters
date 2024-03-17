@@ -4480,6 +4480,13 @@
   {
     "item": "The Torrent's Reclamation",
     "stats": "#% increased dexterity, #% increased intelligence, #% increased maximum energy shield",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "KJB87pPi5",
+      "complexity": 20,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -4505,6 +4512,13 @@
   {
     "item": "The Torrent's Reclamation",
     "stats": "#% increased strength, #% increased intelligence, +#% to critical strike multiplier during any flask effect",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "XqadR2bFP",
+      "complexity": 20,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -4530,6 +4544,13 @@
   {
     "item": "The Torrent's Reclamation",
     "stats": "#% increased maximum energy shield, wrath has #% increased aura effect",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "oX7PW9ZUl",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -4549,6 +4570,15 @@
   {
     "item": "The Torrent's Reclamation",
     "stats": "determination has #% increased aura effect, pride has #% increased aura effect",
+    "average": 149.95,
+    "prices": [
+      149.95
+    ],
+    "search": {
+      "id": "5o3Mm3jha",
+      "complexity": 29,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -4568,6 +4598,24 @@
   {
     "item": "March of the Legion",
     "stats": "+# to level of socketed projectile gems",
+    "average": 102.10000000000001,
+    "prices": [
+      15,
+      60,
+      90,
+      90,
+      90,
+      90,
+      99,
+      100,
+      149.95,
+      149.95
+    ],
+    "search": {
+      "id": "rXjkzWgCQ",
+      "complexity": 18,
+      "total": 35
+    },
     "builds": 1,
     "mods": [
       {
