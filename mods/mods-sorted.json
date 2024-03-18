@@ -5157,6 +5157,13 @@
   {
     "item": "Vaal Caress",
     "stats": "+# to level of socketed gems",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "abo0rZRue",
+      "complexity": 18,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -5170,6 +5177,24 @@
   {
     "item": "String of Servitude",
     "stats": "#% increased quantity of items found",
+    "average": 409.75555555555553,
+    "prices": [
+      30,
+      59,
+      149.95,
+      299.9,
+      449.84999999999997,
+      599.8,
+      599.8,
+      749.75,
+      749.75,
+      2249.25
+    ],
+    "search": {
+      "id": "lPrYXD0sV",
+      "complexity": 18,
+      "total": 11
+    },
     "builds": 1,
     "mods": [
       {
@@ -5183,6 +5208,13 @@
   {
     "item": "String of Servitude",
     "stats": "#% increased maximum energy shield, hatred has #% increased aura effect",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "MV4KYqDFJ",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -5202,6 +5234,16 @@
   {
     "item": "Bubonic Trail",
     "stats": "+# to level of socketed gems",
+    "average": 79.975,
+    "prices": [
+      10,
+      149.95
+    ],
+    "search": {
+      "id": "4dv3yQYt9",
+      "complexity": 18,
+      "total": 2
+    },
     "builds": 1,
     "mods": [
       {
@@ -5215,6 +5257,17 @@
   {
     "item": "Bubonic Trail",
     "stats": "+# to level of socketed duration gems",
+    "average": 76.64999999999999,
+    "prices": [
+      20,
+      60,
+      149.95
+    ],
+    "search": {
+      "id": "vljKgqZCE",
+      "complexity": 18,
+      "total": 3
+    },
     "builds": 1,
     "mods": [
       {
