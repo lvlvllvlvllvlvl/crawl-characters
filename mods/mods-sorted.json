@@ -10623,6 +10623,24 @@
   {
     "item": "Goldwyrm",
     "stats": "+# to maximum endurance charges",
+    "average": 60.989999999999995,
+    "prices": [
+      10,
+      20,
+      20,
+      40,
+      40,
+      50,
+      60,
+      70,
+      149.95,
+      149.95
+    ],
+    "search": {
+      "id": "0B8P0wYcg",
+      "complexity": 18,
+      "total": 44
+    },
     "builds": 1,
     "mods": [
       {
@@ -10636,6 +10654,13 @@
   {
     "item": "Goldwyrm",
     "stats": "+# to level of socketed gems, +#% chance to suppress spell damage",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "r9Wm2B4SQ",
+      "complexity": 30,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -10656,6 +10681,21 @@
   {
     "item": "Ancestral Vision",
     "stats": "#% increased damage",
+    "average": 103.30833333333332,
+    "prices": [
+      30,
+      60,
+      80,
+      149.95,
+      149.95,
+      149.95,
+      2249.25
+    ],
+    "search": {
+      "id": "LmdwQrBHn",
+      "complexity": 18,
+      "total": 7
+    },
     "builds": 1,
     "mods": [
       {
@@ -10669,6 +10709,13 @@
   {
     "item": "Ancestral Vision",
     "stats": "corrupted blood cannot be inflicted on you, you cannot be hindered",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "Zwd6Vo7TQ",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -10688,6 +10735,18 @@
   {
     "item": "Ancestral Vision",
     "stats": "you cannot be cursed with silence",
+    "average": 40,
+    "prices": [
+      25,
+      40,
+      40,
+      40
+    ],
+    "search": {
+      "id": "kXJ2YOWI5",
+      "complexity": 18,
+      "total": 4
+    },
     "builds": 1,
     "mods": [
       {
