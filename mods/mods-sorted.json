@@ -6751,6 +6751,18 @@
   {
     "item": "Incandescent Heart",
     "stats": "+# to level of socketed aura gems",
+    "average": 6195.4375,
+    "prices": [
+      40,
+      2249.25,
+      10496.5,
+      11996
+    ],
+    "search": {
+      "id": "9YDrlY0HK",
+      "complexity": 18,
+      "total": 4
+    },
     "builds": 1,
     "mods": [
       {
@@ -6764,6 +6776,24 @@
   {
     "item": "Incandescent Heart",
     "stats": "+# to level of socketed duration gems",
+    "average": 365.88,
+    "prices": [
+      30,
+      30,
+      149.95,
+      149.95,
+      149.95,
+      449.84999999999997,
+      449.84999999999997,
+      449.84999999999997,
+      899.6999999999999,
+      899.6999999999999
+    ],
+    "search": {
+      "id": "OpJM878uE",
+      "complexity": 18,
+      "total": 17
+    },
     "builds": 1,
     "mods": [
       {
@@ -6777,6 +6807,15 @@
   {
     "item": "Incandescent Heart",
     "stats": "#% reduced lightning damage taken",
+    "average": 149.95,
+    "prices": [
+      149.95
+    ],
+    "search": {
+      "id": "eXVr4oYhL",
+      "complexity": 18,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -6790,6 +6829,20 @@
   {
     "item": "Incandescent Heart",
     "stats": "#% reduced chaos damage taken",
+    "average": 419.86,
+    "prices": [
+      149.95,
+      299.9,
+      299.9,
+      599.8,
+      749.75,
+      7497.499999999999
+    ],
+    "search": {
+      "id": "pXvdEoJT0",
+      "complexity": 18,
+      "total": 6
+    },
     "builds": 1,
     "mods": [
       {
@@ -6803,6 +6856,13 @@
   {
     "item": "Incandescent Heart",
     "stats": "+# to level of socketed gems, #% increased damage",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "lXJDRz2UV",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
