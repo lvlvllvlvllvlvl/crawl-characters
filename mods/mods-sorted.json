@@ -3214,6 +3214,24 @@
   {
     "item": "Eyes of the Greatwolf",
     "stats": "+#% to global critical strike multiplier",
+    "average": 20.77777777777778,
+    "prices": [
+      5,
+      10,
+      48.97,
+      20,
+      20,
+      20,
+      20,
+      29,
+      30,
+      33
+    ],
+    "search": {
+      "id": "RVBvyrGF7",
+      "complexity": 18,
+      "total": 230
+    },
     "builds": 2,
     "mods": [
       {
@@ -3227,6 +3245,22 @@
   {
     "item": "Dendrobate",
     "stats": "+# to level of socketed duration gems",
+    "average": 11264.99375,
+    "prices": [
+      299.9,
+      5998,
+      6597.799999999999,
+      8247.25,
+      10496.5,
+      14994.999999999998,
+      20993,
+      22492.5
+    ],
+    "search": {
+      "id": "4drQv4ZH9",
+      "complexity": 18,
+      "total": 8
+    },
     "builds": 2,
     "mods": [
       {
@@ -3240,6 +3274,15 @@
   {
     "item": "Severed in Sleep",
     "stats": "#% chance to gain onslaught for # seconds on kill",
+    "average": 50,
+    "prices": [
+      50
+    ],
+    "search": {
+      "id": "GkdLwRZHb",
+      "complexity": 18,
+      "total": 1
+    },
     "builds": 2,
     "mods": [
       {
@@ -3253,6 +3296,13 @@
   {
     "item": "Natural Affinity",
     "stats": "#% increased area of effect",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "MvR4pwPcJ",
+      "complexity": 18,
+      "total": 0
+    },
     "builds": 2,
     "mods": [
       {
@@ -3266,6 +3316,13 @@
   {
     "item": "Natural Affinity",
     "stats": "damage penetrates #% elemental resistances",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "R242ZPOi7",
+      "complexity": 18,
+      "total": 0
+    },
     "builds": 2,
     "mods": [
       {
