@@ -2420,6 +2420,13 @@
   {
     "item": "Mageblood",
     "stats": "#% increased maximum life, #% increased area of effect",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "kXjqdM3U5",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 2,
     "mods": [
       {
@@ -2439,6 +2446,19 @@
   {
     "item": "Vixen's Entrapment",
     "stats": "+# to level of socketed aoe gems",
+    "average": 233.26666666666665,
+    "prices": [
+      100,
+      149.95,
+      449.84999999999997,
+      2999,
+      5998
+    ],
+    "search": {
+      "id": "JVdkbvbhl",
+      "complexity": 18,
+      "total": 5
+    },
     "builds": 2,
     "mods": [
       {
@@ -2452,6 +2472,24 @@
   {
     "item": "Lightning Coil",
     "stats": "#% increased damage",
+    "average": 734.7549999999999,
+    "prices": [
+      149.95,
+      149.95,
+      299.9,
+      299.9,
+      599.8,
+      749.75,
+      1199.6,
+      1199.6,
+      1199.6,
+      1499.5
+    ],
+    "search": {
+      "id": "DGEGlVVc5",
+      "complexity": 18,
+      "total": 36
+    },
     "builds": 2,
     "mods": [
       {
@@ -2465,6 +2503,19 @@
   {
     "item": "Shaper's Touch",
     "stats": "+# to level of socketed aura gems",
+    "average": 969.6899999999999,
+    "prices": [
+      100,
+      100,
+      149.95,
+      2249.25,
+      2249.25
+    ],
+    "search": {
+      "id": "0PQ6vEghg",
+      "complexity": 18,
+      "total": 5
+    },
     "builds": 2,
     "mods": [
       {
@@ -2478,6 +2529,18 @@
   {
     "item": "Bated Breath",
     "stats": "wrath has #% increased aura effect",
+    "average": 13,
+    "prices": [
+      6,
+      20,
+      749.75,
+      6747.749999999999
+    ],
+    "search": {
+      "id": "3Bb9LVZs5",
+      "complexity": 18,
+      "total": 4
+    },
     "builds": 2,
     "mods": [
       {
