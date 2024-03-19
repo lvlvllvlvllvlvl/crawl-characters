@@ -2148,6 +2148,24 @@
   {
     "item": "Greed's Embrace",
     "stats": "#% increased damage",
+    "average": 131.56,
+    "prices": [
+      10,
+      23,
+      39,
+      44,
+      149.95,
+      149.95,
+      149.95,
+      149.95,
+      299.9,
+      299.9
+    ],
+    "search": {
+      "id": "Ey6EjzVI5",
+      "complexity": 18,
+      "total": 46
+    },
     "builds": 2,
     "mods": [
       {
@@ -2161,6 +2179,15 @@
   {
     "item": "Asenath's Gentle Touch",
     "stats": "+# to level of socketed aoe gems, curse enemies with vulnerability on hit",
+    "average": 749.75,
+    "prices": [
+      749.75
+    ],
+    "search": {
+      "id": "GkJjeOBUb",
+      "complexity": 29,
+      "total": 1
+    },
     "builds": 2,
     "mods": [
       {
@@ -2180,6 +2207,13 @@
   {
     "item": "Asenath's Gentle Touch",
     "stats": "+# to level of socketed trap or mine gems, curse enemies with vulnerability on hit",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "mXgb3lrT6",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 2,
     "mods": [
       {
@@ -2199,6 +2233,15 @@
   {
     "item": "Hrimsorrow",
     "stats": "#% increased maximum life",
+    "average": 30,
+    "prices": [
+      30
+    ],
+    "search": {
+      "id": "jPp7k4XuX",
+      "complexity": 18,
+      "total": 1
+    },
     "builds": 2,
     "mods": [
       {
@@ -2212,6 +2255,13 @@
   {
     "item": "Victario's Influence",
     "stats": "+# to level of socketed aoe gems, +# to level of socketed aura gems",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "YD03QoRIY",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 2,
     "mods": [
       {
