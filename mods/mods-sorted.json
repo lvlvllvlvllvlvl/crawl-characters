@@ -12920,6 +12920,21 @@
   {
     "item": "Eye of Malice",
     "stats": "+# to maximum power charges",
+    "average": 12360.164285714285,
+    "prices": [
+      299.9,
+      449.84999999999997,
+      749.75,
+      1049.6499999999999,
+      1499.5,
+      37487.5,
+      44985
+    ],
+    "search": {
+      "id": "Lmdj637un",
+      "complexity": 18,
+      "total": 7
+    },
     "builds": 1,
     "mods": [
       {
@@ -12933,6 +12948,16 @@
   {
     "item": "Eye of Malice",
     "stats": "regenerate #% of life per second",
+    "average": 75,
+    "prices": [
+      10,
+      140
+    ],
+    "search": {
+      "id": "LmdYYb5Fn",
+      "complexity": 18,
+      "total": 2
+    },
     "builds": 1,
     "mods": [
       {
@@ -12946,6 +12971,13 @@
   {
     "item": "Natural Affinity",
     "stats": "minions deal #% increased damage",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "nXy7VgJH0",
+      "complexity": 18,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -12959,6 +12991,13 @@
   {
     "item": "Natural Affinity",
     "stats": "corrupted blood cannot be inflicted on you",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "9qlqMQYsK",
+      "complexity": 18,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -12972,6 +13011,13 @@
   {
     "item": "The Green Dream",
     "stats": "minions deal #% increased damage",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "BEDM6KXH8",
+      "complexity": 18,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
