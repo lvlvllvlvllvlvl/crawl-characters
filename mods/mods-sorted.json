@@ -14939,6 +14939,13 @@
   {
     "item": "Devoto's Devotion",
     "stats": "#% of fire damage leeched as life, +# to maximum power charges",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "jXqy39oTX",
+      "complexity": 30,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -14959,6 +14966,15 @@
   {
     "item": "Devoto's Devotion",
     "stats": "+# to level of socketed cold gems, +# to maximum power charges",
+    "average": 749.75,
+    "prices": [
+      749.75
+    ],
+    "search": {
+      "id": "OVXoMrzHE",
+      "complexity": 29,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -14978,6 +14994,20 @@
   {
     "item": "Tabula Rasa",
     "stats": "+# to level of socketed aoe gems",
+    "average": 74.98333333333333,
+    "prices": [
+      20,
+      30,
+      50,
+      50,
+      149.95,
+      149.95
+    ],
+    "search": {
+      "id": "oXjLOwkUl",
+      "complexity": 18,
+      "total": 6
+    },
     "builds": 1,
     "mods": [
       {
@@ -14991,6 +15021,24 @@
   {
     "item": "Tabula Rasa",
     "stats": "#% increased damage",
+    "average": 258.25277777777774,
+    "prices": [
+      150,
+      149.95,
+      149.95,
+      149.95,
+      224.92499999999998,
+      299.9,
+      299.9,
+      449.84999999999997,
+      449.84999999999997,
+      1349.55
+    ],
+    "search": {
+      "id": "lXj2OynFV",
+      "complexity": 18,
+      "total": 11
+    },
     "builds": 1,
     "mods": [
       {
@@ -15004,6 +15052,18 @@
   {
     "item": "Tabula Rasa",
     "stats": "+# to level of socketed duration gems",
+    "average": 149.95,
+    "prices": [
+      115,
+      149.95,
+      149.95,
+      449.84999999999997
+    ],
+    "search": {
+      "id": "VMgXY92sp",
+      "complexity": 18,
+      "total": 4
+    },
     "builds": 1,
     "mods": [
       {
