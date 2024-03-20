@@ -15341,6 +15341,20 @@
   {
     "item": "Might of the Meek",
     "stats": "#% increased effect of non-damaging ailments",
+    "average": 156.95,
+    "prices": [
+      35,
+      149.95,
+      149.95,
+      224.92499999999998,
+      224.92499999999998,
+      449.84999999999997
+    ],
+    "search": {
+      "id": "qXjDDjWfg",
+      "complexity": 18,
+      "total": 6
+    },
     "builds": 1,
     "mods": [
       {
@@ -15354,6 +15368,18 @@
   {
     "item": "Might of the Meek",
     "stats": "#% reduced effect of chill on you",
+    "average": 168.7,
+    "prices": [
+      75,
+      149.95,
+      149.95,
+      299.9
+    ],
+    "search": {
+      "id": "pXEoybbH0",
+      "complexity": 18,
+      "total": 4
+    },
     "builds": 1,
     "mods": [
       {
@@ -15367,6 +15393,13 @@
   {
     "item": "Might of the Meek",
     "stats": "you cannot be maimed",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "lXJV8VrhV",
+      "complexity": 18,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -15380,6 +15413,15 @@
   {
     "item": "Might of the Meek",
     "stats": "you cannot be cursed with silence",
+    "average": 30,
+    "prices": [
+      30
+    ],
+    "search": {
+      "id": "BGrV83KC8",
+      "complexity": 18,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -15393,6 +15435,16 @@
   {
     "item": "Might of the Meek",
     "stats": "you cannot be hindered",
+    "average": 779.75,
+    "prices": [
+      60,
+      1499.5
+    ],
+    "search": {
+      "id": "RVBXglWU7",
+      "complexity": 18,
+      "total": 2
+    },
     "builds": 1,
     "mods": [
       {
