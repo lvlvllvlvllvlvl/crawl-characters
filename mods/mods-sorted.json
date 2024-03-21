@@ -6468,6 +6468,13 @@
   {
     "item": "Dance of the Offered",
     "stats": "+# to level of socketed gems",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "GkdRWoWCb",
+      "complexity": 18,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -6481,6 +6488,13 @@
   {
     "item": "Southbound",
     "stats": "+# to level of socketed duration gems, +# to level of socketed aura gems",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "nXqLvmMH0",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -6500,6 +6514,19 @@
   {
     "item": "Southbound",
     "stats": "+# to level of socketed aura gems",
+    "average": 389.885,
+    "prices": [
+      85,
+      140,
+      224.92499999999998,
+      749.75,
+      749.75
+    ],
+    "search": {
+      "id": "JVyQrpbIl",
+      "complexity": 18,
+      "total": 5
+    },
     "builds": 1,
     "mods": [
       {
@@ -6513,6 +6540,16 @@
   {
     "item": "Southbound",
     "stats": "attacks have +#% to critical strike chance",
+    "average": 674.775,
+    "prices": [
+      599.8,
+      749.75
+    ],
+    "search": {
+      "id": "oX5GZ7qIl",
+      "complexity": 18,
+      "total": 2
+    },
     "builds": 1,
     "mods": [
       {
@@ -6526,6 +6563,13 @@
   {
     "item": "Southbound",
     "stats": "curse enemies with enfeeble on hit, +#% to spell critical strike chance",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "PdyQjGDiL",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
