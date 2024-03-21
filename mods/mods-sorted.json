@@ -9618,6 +9618,15 @@
   {
     "item": "Unnatural Instinct",
     "stats": "damage penetrates #% cold resistance, damage penetrates #% lightning resistance",
+    "average": 452.22,
+    "prices": [
+      452.22
+    ],
+    "search": {
+      "id": "GkOz8ooub",
+      "complexity": 31,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -9639,6 +9648,19 @@
   {
     "item": "Unnatural Instinct",
     "stats": "damage penetrates #% fire resistance",
+    "average": 303.332,
+    "prices": [
+      160,
+      150.74,
+      301.48,
+      452.22,
+      452.22
+    ],
+    "search": {
+      "id": "jwa3MYbfX",
+      "complexity": 19,
+      "total": 5
+    },
     "builds": 1,
     "mods": [
       {
@@ -9653,6 +9675,13 @@
   {
     "item": "Unnatural Instinct",
     "stats": "you cannot be maimed, #% reduced bleed duration on you",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "OqeJXDzhE",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -9672,6 +9701,13 @@
   {
     "item": "Unnatural Instinct",
     "stats": "#% increased damage, #% increased area of effect",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "KJDLoqRi5",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -9691,6 +9727,13 @@
   {
     "item": "Unnatural Instinct",
     "stats": "damage penetrates #% elemental resistances, corrupted blood cannot be inflicted on you",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "rXj9DVMHQ",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
