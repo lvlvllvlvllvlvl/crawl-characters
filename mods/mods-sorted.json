@@ -11724,6 +11724,15 @@
   {
     "item": "Ralakesh's Impatience",
     "stats": "+#% chance to suppress spell damage, +# armour while stationary",
+    "average": 2566.49,
+    "prices": [
+      2566.49
+    ],
+    "search": {
+      "id": "Gqw7qyofb",
+      "complexity": 30,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -11744,6 +11753,24 @@
   {
     "item": "Ralakesh's Impatience",
     "stats": "#% increased movement speed",
+    "average": 2038.095,
+    "prices": [
+      603.88,
+      754.85,
+      905.8199999999999,
+      1509.7,
+      1962.61,
+      3019.4,
+      3774.25,
+      3774.25,
+      15097,
+      37742.5
+    ],
+    "search": {
+      "id": "mP2QMJLu6",
+      "complexity": 18,
+      "total": 13
+    },
     "builds": 1,
     "mods": [
       {
@@ -11757,6 +11784,24 @@
   {
     "item": "Ralakesh's Impatience",
     "stats": "+# to level of socketed minion gems",
+    "average": 711.7157142857143,
+    "prices": [
+      80,
+      301.94,
+      452.90999999999997,
+      603.88,
+      603.88,
+      754.85,
+      754.85,
+      754.85,
+      754.85,
+      754.85
+    ],
+    "search": {
+      "id": "3BJpgRgc5",
+      "complexity": 18,
+      "total": 18
+    },
     "builds": 1,
     "mods": [
       {
@@ -11770,6 +11815,17 @@
   {
     "item": "Perseverance",
     "stats": "determination has #% increased aura effect",
+    "average": 704.5266666666666,
+    "prices": [
+      150.97,
+      754.85,
+      1207.76
+    ],
+    "search": {
+      "id": "8ae6mr8iV",
+      "complexity": 18,
+      "total": 3
+    },
     "builds": 1,
     "mods": [
       {
@@ -11783,6 +11839,13 @@
   {
     "item": "Perseverance",
     "stats": "+#% to critical strike multiplier during any flask effect, pride has #% increased aura effect",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "jXZK0QZTX",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
