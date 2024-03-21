@@ -12625,6 +12625,24 @@
   {
     "item": "Cold Iron Point",
     "stats": "#% increased global critical strike chance",
+    "average": 6.8,
+    "prices": [
+      4,
+      4,
+      5,
+      5,
+      5,
+      7,
+      8,
+      10,
+      10,
+      10
+    ],
+    "search": {
+      "id": "LeWqod2sn",
+      "complexity": 18,
+      "total": 80
+    },
     "builds": 1,
     "mods": [
       {
@@ -12638,6 +12656,16 @@
   {
     "item": "Severed in Sleep",
     "stats": "#% increased attack speed",
+    "average": 40,
+    "prices": [
+      30,
+      50
+    ],
+    "search": {
+      "id": "y9R7VBlSR",
+      "complexity": 19,
+      "total": 2
+    },
     "builds": 1,
     "mods": [
       {
@@ -12652,6 +12680,18 @@
   {
     "item": "Severed in Sleep",
     "stats": "#% increased area of effect",
+    "average": 151.02,
+    "prices": [
+      151.02,
+      151.02,
+      151.02,
+      1510.2
+    ],
+    "search": {
+      "id": "oZ8W3yqhl",
+      "complexity": 18,
+      "total": 4
+    },
     "builds": 1,
     "mods": [
       {
@@ -12665,6 +12705,13 @@
   {
     "item": "Severed in Sleep",
     "stats": "#% increased physical damage",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "4d95MJZt9",
+      "complexity": 18,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -12678,6 +12725,15 @@
   {
     "item": "Inpulsa's Broken Heart",
     "stats": "#% reduced cold damage taken",
+    "average": 50,
+    "prices": [
+      50
+    ],
+    "search": {
+      "id": "eXDrLwWFL",
+      "complexity": 18,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
