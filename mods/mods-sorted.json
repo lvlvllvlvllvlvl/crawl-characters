@@ -11981,6 +11981,18 @@
   {
     "item": "Sentari's Answer",
     "stats": "#% increased maximum life",
+    "average": 268.62,
+    "prices": [
+      20,
+      150.64,
+      301.28,
+      602.56
+    ],
+    "search": {
+      "id": "mXYGO9aC6",
+      "complexity": 18,
+      "total": 4
+    },
     "builds": 1,
     "mods": [
       {
@@ -11994,6 +12006,20 @@
   {
     "item": "Sentari's Answer",
     "stats": "you take #% reduced extra damage from critical strikes",
+    "average": 1569.6559999999997,
+    "prices": [
+      15,
+      1506.3999999999999,
+      1657.04,
+      1657.04,
+      3012.7999999999997,
+      11297.999999999998
+    ],
+    "search": {
+      "id": "8adzGlqCV",
+      "complexity": 18,
+      "total": 6
+    },
     "builds": 1,
     "mods": [
       {
@@ -12007,6 +12033,16 @@
   {
     "item": "Sentari's Answer",
     "stats": "#% of physical damage from hits taken as chaos damage",
+    "average": 145.32,
+    "prices": [
+      140,
+      150.64
+    ],
+    "search": {
+      "id": "7lozQ2lH5",
+      "complexity": 18,
+      "total": 2
+    },
     "builds": 1,
     "mods": [
       {
@@ -12020,6 +12056,18 @@
   {
     "item": "Windripper",
     "stats": "socketed gems are supported by level # momentum",
+    "average": 90.16,
+    "prices": [
+      50,
+      60,
+      100,
+      150.64
+    ],
+    "search": {
+      "id": "rXpw3LrTQ",
+      "complexity": 18,
+      "total": 4
+    },
     "builds": 1,
     "mods": [
       {
@@ -12033,6 +12081,13 @@
   {
     "item": "Perandus Blazon",
     "stats": "#% increased rarity of items found, #% increased critical strike chance during any flask effect",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "7l3DmMgS5",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
