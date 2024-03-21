@@ -8310,6 +8310,13 @@
   {
     "item": "The Supreme Truth",
     "stats": "adds # to # fire damage",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "EyRdbkYT5",
+      "complexity": 19,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -8324,6 +8331,16 @@
   {
     "item": "The Supreme Truth",
     "stats": "adds # to # lightning damage",
+    "average": 65,
+    "prices": [
+      30,
+      100
+    ],
+    "search": {
+      "id": "EybrLryC5",
+      "complexity": 19,
+      "total": 2
+    },
     "builds": 1,
     "mods": [
       {
@@ -8338,6 +8355,15 @@
   {
     "item": "Mageblood",
     "stats": "#% increased dexterity, #% increased intelligence, malevolence has #% increased aura effect",
+    "average": 328330.355,
+    "prices": [
+      328330.355
+    ],
+    "search": {
+      "id": "MVZ379PFJ",
+      "complexity": 20,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -8363,6 +8389,13 @@
   {
     "item": "Mageblood",
     "stats": "wrath has #% increased aura effect, zealotry has #% increased aura effect",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "Mq3y0eMuJ",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -8382,6 +8415,24 @@
   {
     "item": "Mageblood",
     "stats": "#% increased attack speed during any flask effect",
+    "average": 102403.821,
+    "prices": [
+      44985,
+      138244.36000000002,
+      52482.49999999999,
+      59979.99999999999,
+      59979.99999999999,
+      172805.45,
+      172805.45,
+      172805.45,
+      74975,
+      74975
+    ],
+    "search": {
+      "id": "vlPnR8BCE",
+      "complexity": 18,
+      "total": 12
+    },
     "builds": 1,
     "mods": [
       {
