@@ -6979,6 +6979,24 @@
   {
     "item": "Greed's Embrace",
     "stats": "#% reduced fire damage taken",
+    "average": 165.03750000000002,
+    "prices": [
+      40,
+      50,
+      100,
+      150.05,
+      150.05,
+      230,
+      300.1,
+      300.1,
+      450.15000000000003,
+      750.25
+    ],
+    "search": {
+      "id": "VMg46mgfp",
+      "complexity": 18,
+      "total": 15
+    },
     "builds": 1,
     "mods": [
       {
@@ -6992,6 +7010,13 @@
   {
     "item": "Greed's Embrace",
     "stats": "+# to level of socketed duration gems, +#% to all maximum resistances",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "gqY98v5iQ",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -7011,6 +7036,15 @@
   {
     "item": "Greed's Embrace",
     "stats": "+# to level of socketed aoe gems, #% reduced lightning damage taken",
+    "average": 3001,
+    "prices": [
+      3001
+    ],
+    "search": {
+      "id": "jXJd8wdHX",
+      "complexity": 29,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -7030,6 +7064,24 @@
   {
     "item": "Greed's Embrace",
     "stats": "+# to level of socketed projectile gems",
+    "average": 68.41,
+    "prices": [
+      15,
+      15,
+      20,
+      40,
+      44,
+      50,
+      100,
+      100,
+      150.05,
+      150.05
+    ],
+    "search": {
+      "id": "6Gqw55qsG",
+      "complexity": 18,
+      "total": 32
+    },
     "builds": 1,
     "mods": [
       {
@@ -7043,6 +7095,24 @@
   {
     "item": "Greed's Embrace",
     "stats": "you take #% reduced extra damage from critical strikes",
+    "average": 672.32,
+    "prices": [
+      20,
+      101,
+      150.05,
+      300.1,
+      300.1,
+      750.25,
+      1050.3500000000001,
+      1050.3500000000001,
+      1500.5,
+      1500.5
+    ],
+    "search": {
+      "id": "LeWjZQZSn",
+      "complexity": 18,
+      "total": 31
+    },
     "builds": 1,
     "mods": [
       {
