@@ -5203,6 +5203,16 @@
   {
     "item": "Shadows and Dust",
     "stats": "+# to level of socketed minion gems",
+    "average": 275,
+    "prices": [
+      50,
+      500
+    ],
+    "search": {
+      "id": "KJGpJKyU5",
+      "complexity": 18,
+      "total": 2
+    },
     "builds": 1,
     "mods": [
       {
@@ -5216,6 +5226,13 @@
   {
     "item": "Shadows and Dust",
     "stats": "#% increased maximum energy shield, attacks have +#% to critical strike chance",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "EyVjjPBH5",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -5235,6 +5252,20 @@
   {
     "item": "Shadows and Dust",
     "stats": "+#% to spell critical strike chance",
+    "average": 721.0033333333334,
+    "prices": [
+      60,
+      100,
+      129,
+      621.08,
+      1552.7,
+      1863.2400000000002
+    ],
+    "search": {
+      "id": "ZbErrd0uQ",
+      "complexity": 18,
+      "total": 6
+    },
     "builds": 1,
     "mods": [
       {
@@ -5248,6 +5279,19 @@
   {
     "item": "Shadows and Dust",
     "stats": "#% increased attack speed",
+    "average": 770.8230000000001,
+    "prices": [
+      50,
+      155.27,
+      232.90500000000003,
+      1552.7,
+      1863.2400000000002
+    ],
+    "search": {
+      "id": "8aeDbjvFV",
+      "complexity": 19,
+      "total": 5
+    },
     "builds": 1,
     "mods": [
       {
@@ -5262,6 +5306,13 @@
   {
     "item": "Malachai's Loop",
     "stats": "#% increased maximum life, #% reduced area damage taken from hits",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "jXymWWLTX",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
