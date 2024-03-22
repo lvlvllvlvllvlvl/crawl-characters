@@ -138,6 +138,18 @@
   {
     "item": "Vaal Caress",
     "stats": "+# to level of socketed aura gems",
+    "average": 301.32666666666665,
+    "prices": [
+      200,
+      312.88,
+      391.1,
+      1095.08
+    ],
+    "search": {
+      "id": "lPr5YawFV",
+      "complexity": 18,
+      "total": 4
+    },
     "builds": 12,
     "mods": [
       {
@@ -151,6 +163,24 @@
   {
     "item": "String of Servitude",
     "stats": "#% increased rarity of items found",
+    "average": 17.5,
+    "prices": [
+      5,
+      10,
+      15,
+      20,
+      20,
+      20,
+      20,
+      30,
+      50,
+      70
+    ],
+    "search": {
+      "id": "YVrXkEDUY",
+      "complexity": 18,
+      "total": 20
+    },
     "builds": 10,
     "mods": [
       {
@@ -164,6 +194,24 @@
   {
     "item": "Heatshiver",
     "stats": "+# to maximum power charges",
+    "average": 2018.0759999999998,
+    "prices": [
+      1564.4,
+      1564.4,
+      1877.28,
+      1877.28,
+      2033.72,
+      2033.72,
+      2190.16,
+      2346.6,
+      2346.6,
+      2346.6
+    ],
+    "search": {
+      "id": "R24kzDqc7",
+      "complexity": 18,
+      "total": 19
+    },
     "builds": 9,
     "mods": [
       {
@@ -177,6 +225,24 @@
   {
     "item": "Goldwyrm",
     "stats": "+#% chance to suppress spell damage",
+    "average": 36.918,
+    "prices": [
+      14,
+      19,
+      19,
+      22.18,
+      35,
+      40,
+      40,
+      60,
+      60,
+      60
+    ],
+    "search": {
+      "id": "EG8VqLZU5",
+      "complexity": 19,
+      "total": 58
+    },
     "builds": 9,
     "mods": [
       {
@@ -191,6 +257,13 @@
   {
     "item": "Kaom's Heart",
     "stats": "#% increased damage",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "PK7ayEgtL",
+      "complexity": 18,
+      "total": 0
+    },
     "builds": 8,
     "mods": [
       {
