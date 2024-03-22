@@ -1896,6 +1896,24 @@
   {
     "item": "Malachai's Loop",
     "stats": "#% of physical damage from hits taken as fire damage",
+    "average": 360.0222222222222,
+    "prices": [
+      100,
+      157.01,
+      157.01,
+      157.01,
+      314.02,
+      471.03,
+      471.03,
+      628.04,
+      785.05,
+      1099.07
+    ],
+    "search": {
+      "id": "0BaGbKQhg",
+      "complexity": 18,
+      "total": 17
+    },
     "builds": 2,
     "mods": [
       {
@@ -1909,6 +1927,23 @@
   {
     "item": "Heatshiver",
     "stats": "#% increased maximum life",
+    "average": 73.43142857142857,
+    "prices": [
+      25,
+      30,
+      30,
+      50,
+      65,
+      157.01,
+      157.01,
+      251.216,
+      1099.07
+    ],
+    "search": {
+      "id": "PK7qy2ZCL",
+      "complexity": 18,
+      "total": 9
+    },
     "builds": 2,
     "mods": [
       {
@@ -1922,6 +1957,23 @@
   {
     "item": "Heatshiver",
     "stats": "+# to level of socketed aura gems",
+    "average": 104.00333333333333,
+    "prices": [
+      40,
+      70,
+      100,
+      100,
+      157.01,
+      157.01,
+      628.04,
+      785.05,
+      3925.25
+    ],
+    "search": {
+      "id": "9Y2Z83ysK",
+      "complexity": 18,
+      "total": 9
+    },
     "builds": 2,
     "mods": [
       {
@@ -1935,6 +1987,20 @@
   {
     "item": "Dialla's Malefaction",
     "stats": "+# to level of socketed gems",
+    "average": 42131.01666666667,
+    "prices": [
+      20411.3,
+      23551.5,
+      23551.5,
+      28261.8,
+      78505,
+      78505
+    ],
+    "search": {
+      "id": "waPQeqdUb",
+      "complexity": 18,
+      "total": 6
+    },
     "builds": 2,
     "mods": [
       {
@@ -1948,6 +2014,13 @@
   {
     "item": "Dialla's Malefaction",
     "stats": "+# to level of socketed gems, +#% to all maximum resistances",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "Ey6M5KKC5",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 2,
     "mods": [
       {
