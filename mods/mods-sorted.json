@@ -16921,6 +16921,15 @@
   {
     "item": "Brightbeak",
     "stats": "#% increased attack speed",
+    "average": 317,
+    "prices": [
+      317
+    ],
+    "search": {
+      "id": "vpeZgOWuE",
+      "complexity": 19,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -16935,6 +16944,13 @@
   {
     "item": "Tainted Pact",
     "stats": "+#% to all maximum resistances, grace has #% increased aura effect",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "qYRbO5Xhg",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -16954,6 +16970,13 @@
   {
     "item": "Mjölner",
     "stats": "#% increased attack speed",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "kXjE4KjF5",
+      "complexity": 19,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -16968,6 +16991,22 @@
   {
     "item": "The Ivory Tower",
     "stats": "+# to level of socketed gems",
+    "average": 2377.5,
+    "prices": [
+      225,
+      2219,
+      2377.5,
+      2377.5,
+      3170,
+      6340,
+      9510,
+      31700
+    ],
+    "search": {
+      "id": "aboOqYkue",
+      "complexity": 18,
+      "total": 8
+    },
     "builds": 1,
     "mods": [
       {
@@ -16981,6 +17020,13 @@
   {
     "item": "Replica Inya's Epiphany",
     "stats": "+# to level of socketed gems",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "aq37vaRFe",
+      "complexity": 18,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
