@@ -8464,6 +8464,22 @@
   {
     "item": "Mageblood",
     "stats": "+#% to all elemental resistances",
+    "average": 106450.1475,
+    "prices": [
+      37144.8,
+      46431,
+      61908.00000000001,
+      178365.51,
+      178365.51,
+      178365.51,
+      85123.5,
+      85897.35
+    ],
+    "search": {
+      "id": "noEVO6Mt0",
+      "complexity": 18,
+      "total": 8
+    },
     "builds": 1,
     "mods": [
       {
@@ -8477,6 +8493,16 @@
   {
     "item": "Mageblood",
     "stats": "#% increased maximum energy shield, #% increased cast speed during any flask effect",
+    "average": 104659.755,
+    "prices": [
+      30954.000000000004,
+      178365.51
+    ],
+    "search": {
+      "id": "dPaOkzoFJ",
+      "complexity": 29,
+      "total": 2
+    },
     "builds": 1,
     "mods": [
       {
@@ -8496,6 +8522,15 @@
   {
     "item": "Mageblood",
     "stats": "#% increased strength, #% increased dexterity, #% increased skill effect duration",
+    "average": 46431,
+    "prices": [
+      46431
+    ],
+    "search": {
+      "id": "OVQoODgCE",
+      "complexity": 20,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -8521,6 +8556,13 @@
   {
     "item": "Mageblood",
     "stats": "#% increased maximum life, #% increased cast speed during any flask effect",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "vlGbd5JtE",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -8540,6 +8582,13 @@
   {
     "item": "Mageblood",
     "stats": "#% increased movement speed during any flask effect, #% increased cast speed during any flask effect",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "7lVqM8Bu5",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
