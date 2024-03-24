@@ -1479,6 +1479,22 @@
   {
     "item": "Kaom's Spirit",
     "stats": "attacks have +#% to critical strike chance",
+    "average": 599.7857142857143,
+    "prices": [
+      50,
+      150,
+      159.94,
+      319.88,
+      799.7,
+      1119.58,
+      1599.4,
+      3198.8
+    ],
+    "search": {
+      "id": "aboQ2v3Se",
+      "complexity": 18,
+      "total": 8
+    },
     "builds": 3,
     "mods": [
       {
@@ -1492,6 +1508,16 @@
   {
     "item": "Ancient Skull",
     "stats": "socketed skill gems get a #% cost & reservation multiplier",
+    "average": 879.6700000000001,
+    "prices": [
+      319.88,
+      1439.46
+    ],
+    "search": {
+      "id": "9Y2Zr48UK",
+      "complexity": 18,
+      "total": 2
+    },
     "builds": 3,
     "mods": [
       {
@@ -1505,6 +1531,17 @@
   {
     "item": "The Annihilating Light",
     "stats": "#% increased cast speed",
+    "average": 4691.573333333334,
+    "prices": [
+      3038.86,
+      3838.56,
+      7197.3
+    ],
+    "search": {
+      "id": "EG8PzJYF5",
+      "complexity": 18,
+      "total": 3
+    },
     "builds": 3,
     "mods": [
       {
@@ -1518,6 +1555,13 @@
   {
     "item": "The Poet's Pen",
     "stats": "damage penetrates #% elemental resistances",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "LeWk24Bin",
+      "complexity": 18,
+      "total": 0
+    },
     "builds": 3,
     "mods": [
       {
@@ -1531,6 +1575,16 @@
   {
     "item": "Speaker's Wreath",
     "stats": "+# to level of socketed minion gems",
+    "average": 104.97,
+    "prices": [
+      50,
+      159.94
+    ],
+    "search": {
+      "id": "Xq2oDnkTP",
+      "complexity": 18,
+      "total": 2
+    },
     "builds": 3,
     "mods": [
       {
