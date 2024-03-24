@@ -1223,6 +1223,17 @@
   {
     "item": "Shaper's Touch",
     "stats": "+# to level of socketed aoe gems",
+    "average": 480,
+    "prices": [
+      160,
+      800,
+      48000
+    ],
+    "search": {
+      "id": "EG8Vq7VU5",
+      "complexity": 18,
+      "total": 3
+    },
     "builds": 3,
     "mods": [
       {
@@ -1236,6 +1247,17 @@
   {
     "item": "Shaper's Touch",
     "stats": "+# to level of socketed gems",
+    "average": 2880,
+    "prices": [
+      1600,
+      2240,
+      4800
+    ],
+    "search": {
+      "id": "LeWPLEVHn",
+      "complexity": 18,
+      "total": 3
+    },
     "builds": 3,
     "mods": [
       {
@@ -1249,6 +1271,18 @@
   {
     "item": "Shaper's Touch",
     "stats": "curse enemies with elemental weakness on hit",
+    "average": 2760,
+    "prices": [
+      960,
+      1280,
+      3200,
+      5600
+    ],
+    "search": {
+      "id": "8a2odn2hV",
+      "complexity": 18,
+      "total": 4
+    },
     "builds": 3,
     "mods": [
       {
@@ -1262,6 +1296,17 @@
   {
     "item": "Call of the Brotherhood",
     "stats": "#% increased rarity of items found",
+    "average": 4800,
+    "prices": [
+      800,
+      4800,
+      4800
+    ],
+    "search": {
+      "id": "gP0Yd9dsQ",
+      "complexity": 18,
+      "total": 3
+    },
     "builds": 3,
     "mods": [
       {
@@ -1275,6 +1320,20 @@
   {
     "item": "Call of the Brotherhood",
     "stats": "hatred has #% increased aura effect",
+    "average": 18806.666666666668,
+    "prices": [
+      40,
+      4000,
+      8000,
+      24000,
+      29600,
+      47200
+    ],
+    "search": {
+      "id": "JYDZWMbUl",
+      "complexity": 18,
+      "total": 6
+    },
     "builds": 3,
     "mods": [
       {
