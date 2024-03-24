@@ -2248,6 +2248,15 @@
   {
     "item": "Victario's Influence",
     "stats": "+# to level of socketed aoe gems, +# to level of socketed curse gems",
+    "average": 80,
+    "prices": [
+      80
+    ],
+    "search": {
+      "id": "mXYK6eRf6",
+      "complexity": 29,
+      "total": 1
+    },
     "builds": 2,
     "mods": [
       {
@@ -2267,6 +2276,21 @@
   {
     "item": "Victario's Influence",
     "stats": "+# to level of socketed aoe gems",
+    "average": 3117.554285714286,
+    "prices": [
+      40,
+      80,
+      159.58,
+      3191.6000000000004,
+      3989.5000000000005,
+      6383.200000000001,
+      7979.000000000001
+    ],
+    "search": {
+      "id": "waPDjkKfb",
+      "complexity": 18,
+      "total": 7
+    },
     "builds": 2,
     "mods": [
       {
@@ -2280,6 +2304,16 @@
   {
     "item": "Victario's Influence",
     "stats": "+# to level of socketed gems, +# to level of socketed aoe gems",
+    "average": 7181.1,
+    "prices": [
+      6383.200000000001,
+      7979.000000000001
+    ],
+    "search": {
+      "id": "emYDwLYsL",
+      "complexity": 29,
+      "total": 2
+    },
     "builds": 2,
     "mods": [
       {
@@ -2299,6 +2333,13 @@
   {
     "item": "Victario's Influence",
     "stats": "+# to level of socketed aura gems, #% increased damage",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "3BmYQ0Gs5",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 2,
     "mods": [
       {
@@ -2318,6 +2359,13 @@
   {
     "item": "Mageblood",
     "stats": "#% increased maximum life, grace has #% increased aura effect",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "pXvPpyvT0",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 2,
     "mods": [
       {
