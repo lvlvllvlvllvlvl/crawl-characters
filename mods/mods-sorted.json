@@ -15884,6 +15884,16 @@
   {
     "item": "Dawnbreaker",
     "stats": "grants level # determination skill",
+    "average": 13488.800000000001,
+    "prices": [
+      13488.800000000001,
+      13488.800000000001
+    ],
+    "search": {
+      "id": "JVrP0kWIl",
+      "complexity": 18,
+      "total": 2
+    },
     "builds": 1,
     "mods": [
       {
@@ -15897,6 +15907,24 @@
   {
     "item": "The Poised Prism",
     "stats": "#% increased elemental damage with attack skills",
+    "average": 7.5,
+    "prices": [
+      3,
+      5,
+      5,
+      6,
+      6,
+      10,
+      10,
+      10,
+      10,
+      10
+    ],
+    "search": {
+      "id": "rXmvBJzSQ",
+      "complexity": 18,
+      "total": 44
+    },
     "builds": 1,
     "mods": [
       {
@@ -15910,6 +15938,13 @@
   {
     "item": "The Poised Prism",
     "stats": "# to # added cold damage with bow attacks, # to # added lightning damage with bow attacks",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "lX80WLVsV",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -15929,6 +15964,19 @@
   {
     "item": "Zeel's Amplifier",
     "stats": "+# to level of socketed gems",
+    "average": 40.5,
+    "prices": [
+      22,
+      40,
+      40,
+      60,
+      1686.1000000000001
+    ],
+    "search": {
+      "id": "4qnPaPvC9",
+      "complexity": 18,
+      "total": 5
+    },
     "builds": 1,
     "mods": [
       {
@@ -15942,6 +15990,15 @@
   {
     "item": "Zeel's Amplifier",
     "stats": "+# to level of socketed aoe gems",
+    "average": 168.61,
+    "prices": [
+      168.61
+    ],
+    "search": {
+      "id": "Zb4Eb8mHQ",
+      "complexity": 18,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
