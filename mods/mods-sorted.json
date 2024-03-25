@@ -12954,6 +12954,13 @@
   {
     "item": "Snakebite",
     "stats": "curse enemies with temporal chains on hit",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "PK7gj0ZCL",
+      "complexity": 18,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -12967,6 +12974,13 @@
   {
     "item": "Snakebite",
     "stats": "+# to maximum frenzy charges, curse enemies with despair on hit",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "3Bg95KJs5",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -12986,6 +13000,13 @@
   {
     "item": "Snakebite",
     "stats": "#% increased attack speed, +# to maximum frenzy charges",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "EqJWYJRs5",
+      "complexity": 30,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -13006,6 +13027,24 @@
   {
     "item": "Darkscorn",
     "stats": "+#% to global critical strike multiplier",
+    "average": 481.55555555555554,
+    "prices": [
+      20,
+      100,
+      168.56,
+      168.56,
+      168.56,
+      337.12,
+      674.24,
+      1348.48,
+      1348.48,
+      3371.2
+    ],
+    "search": {
+      "id": "mXjqZ8wt6",
+      "complexity": 18,
+      "total": 13
+    },
     "builds": 1,
     "mods": [
       {
@@ -13019,6 +13058,19 @@
   {
     "item": "Headhunter",
     "stats": "#% increased area of effect",
+    "average": 32869.2,
+    "prices": [
+      16856,
+      16856,
+      33712,
+      37926,
+      58996
+    ],
+    "search": {
+      "id": "OVwVMgVTE",
+      "complexity": 18,
+      "total": 5
+    },
     "builds": 1,
     "mods": [
       {
