@@ -2957,6 +2957,17 @@
   {
     "item": "Ceinture of Benevolence",
     "stats": "wrath has #% increased aura effect",
+    "average": 30,
+    "prices": [
+      20,
+      40,
+      1910.9
+    ],
+    "search": {
+      "id": "ZbZrYrYHQ",
+      "complexity": 18,
+      "total": 3
+    },
     "builds": 2,
     "mods": [
       {
@@ -2970,6 +2981,17 @@
   {
     "item": "Ceinture of Benevolence",
     "stats": "discipline has #% increased aura effect",
+    "average": 286.635,
+    "prices": [
+      191.09,
+      382.18,
+      2866.35
+    ],
+    "search": {
+      "id": "R24XldWi7",
+      "complexity": 18,
+      "total": 3
+    },
     "builds": 2,
     "mods": [
       {
@@ -2983,6 +3005,21 @@
   {
     "item": "Ceinture of Benevolence",
     "stats": "#% increased strength, #% increased intelligence",
+    "average": 120.436,
+    "prices": [
+      60,
+      60,
+      100,
+      191.09,
+      191.09,
+      382.18,
+      1910.9
+    ],
+    "search": {
+      "id": "z27GVXRI4",
+      "complexity": 29,
+      "total": 7
+    },
     "builds": 2,
     "mods": [
       {
@@ -3002,6 +3039,16 @@
   {
     "item": "The Fledgling",
     "stats": "+# to maximum power charges",
+    "average": 7261.42,
+    "prices": [
+      6497.06,
+      8025.78
+    ],
+    "search": {
+      "id": "dXWYGdqFJ",
+      "complexity": 18,
+      "total": 2
+    },
     "builds": 2,
     "mods": [
       {
@@ -3015,6 +3062,19 @@
   {
     "item": "Kaom's Spirit",
     "stats": "+# to level of socketed aura gems",
+    "average": 372.6255,
+    "prices": [
+      363.07099999999997,
+      382.18,
+      955.45,
+      9554.5,
+      19109
+    ],
+    "search": {
+      "id": "80ZqdM2sV",
+      "complexity": 18,
+      "total": 5
+    },
     "builds": 2,
     "mods": [
       {
