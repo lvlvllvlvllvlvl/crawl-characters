@@ -3088,6 +3088,23 @@
   {
     "item": "Kaom's Spirit",
     "stats": "curse enemies with elemental weakness on hit",
+    "average": 93.16857142857144,
+    "prices": [
+      20,
+      40,
+      50,
+      70,
+      90,
+      191.09,
+      191.09,
+      955.45,
+      223849.9
+    ],
+    "search": {
+      "id": "gPeDJ0OsQ",
+      "complexity": 18,
+      "total": 9
+    },
     "builds": 2,
     "mods": [
       {
@@ -3101,6 +3118,19 @@
   {
     "item": "Kaom's Spirit",
     "stats": "+# to maximum frenzy charges",
+    "average": 764.36,
+    "prices": [
+      191.09,
+      764.36,
+      1337.63,
+      3630.71,
+      223849.9
+    ],
+    "search": {
+      "id": "VyB7zXgIp",
+      "complexity": 18,
+      "total": 5
+    },
     "builds": 2,
     "mods": [
       {
@@ -3114,6 +3144,16 @@
   {
     "item": "Sentari's Answer",
     "stats": "#% increased maximum energy shield",
+    "average": 241.09,
+    "prices": [
+      100,
+      382.18
+    ],
+    "search": {
+      "id": "EydaRLzh5",
+      "complexity": 18,
+      "total": 2
+    },
     "builds": 2,
     "mods": [
       {
@@ -3127,6 +3167,16 @@
   {
     "item": "Sentari's Answer",
     "stats": "#% of physical damage from hits taken as fire damage",
+    "average": 286.635,
+    "prices": [
+      191.09,
+      382.18
+    ],
+    "search": {
+      "id": "LeWraOlFn",
+      "complexity": 18,
+      "total": 2
+    },
     "builds": 2,
     "mods": [
       {
@@ -3140,6 +3190,13 @@
   {
     "item": "Perandus Blazon",
     "stats": "#% increased rarity of items found, zealotry has #% increased aura effect",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "LmonEMVhn",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 2,
     "mods": [
       {
