@@ -691,6 +691,13 @@
   {
     "item": "Prism Guardian",
     "stats": "+# to level of socketed aoe gems",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "XkO48P4IP",
+      "complexity": 18,
+      "total": 0
+    },
     "builds": 5,
     "mods": [
       {
@@ -704,6 +711,19 @@
   {
     "item": "Incandescent Heart",
     "stats": "+# to level of socketed projectile gems",
+    "average": 17069.291999999998,
+    "prices": [
+      175.61,
+      2634.15,
+      12292.7,
+      35122,
+      35122
+    ],
+    "search": {
+      "id": "JVdkP85sl",
+      "complexity": 18,
+      "total": 5
+    },
     "builds": 5,
     "mods": [
       {
@@ -717,6 +737,24 @@
   {
     "item": "Victario's Influence",
     "stats": "+# to level of socketed aura gems",
+    "average": 315.9585714285714,
+    "prices": [
+      80,
+      100,
+      100,
+      175.61,
+      526.83,
+      526.83,
+      702.44,
+      1404.88,
+      1931.71,
+      8780.5
+    ],
+    "search": {
+      "id": "806kqWnUV",
+      "complexity": 18,
+      "total": 11
+    },
     "builds": 5,
     "mods": [
       {
@@ -730,6 +768,15 @@
   {
     "item": "Victario's Influence",
     "stats": "+# to level of socketed gems, +# to level of socketed aura gems",
+    "average": 8780.5,
+    "prices": [
+      8780.5
+    ],
+    "search": {
+      "id": "emYBeMnsL",
+      "complexity": 29,
+      "total": 1
+    },
     "builds": 5,
     "mods": [
       {
@@ -749,6 +796,24 @@
   {
     "item": "Sadima's Touch",
     "stats": "attacks have +#% to critical strike chance",
+    "average": 109.80500000000002,
+    "prices": [
+      10,
+      25,
+      35,
+      50,
+      100,
+      175.61,
+      175.61,
+      175.61,
+      175.61,
+      175.61
+    ],
+    "search": {
+      "id": "2Gb38wjTk",
+      "complexity": 18,
+      "total": 17
+    },
     "builds": 5,
     "mods": [
       {
