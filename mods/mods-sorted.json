@@ -3589,6 +3589,24 @@
   {
     "item": "Doomfletch",
     "stats": "#% increased elemental damage with attack skills",
+    "average": 74.139,
+    "prices": [
+      3,
+      5,
+      10,
+      15,
+      25,
+      40,
+      70,
+      191.13,
+      191.13,
+      191.13
+    ],
+    "search": {
+      "id": "Eyd2PQKc5",
+      "complexity": 18,
+      "total": 24
+    },
     "builds": 2,
     "mods": [
       {
@@ -3602,6 +3620,15 @@
   {
     "item": "Saffell's Frame",
     "stats": "#% of physical damage from hits taken as chaos damage",
+    "average": 1911.3,
+    "prices": [
+      1911.3
+    ],
+    "search": {
+      "id": "2BrBPO5hk",
+      "complexity": 18,
+      "total": 1
+    },
     "builds": 2,
     "mods": [
       {
@@ -3615,6 +3642,13 @@
   {
     "item": "Primordial Harmony",
     "stats": "#% increased reservation efficiency of skills",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "vlP9nqJuE",
+      "complexity": 19,
+      "total": 0
+    },
     "builds": 2,
     "mods": [
       {
@@ -3629,6 +3663,18 @@
   {
     "item": "Grip of the Council",
     "stats": "+# to level of socketed gems",
+    "average": 97.04333333333334,
+    "prices": [
+      40,
+      60,
+      191.13,
+      1337.9099999999999
+    ],
+    "search": {
+      "id": "0BZV3XQhg",
+      "complexity": 18,
+      "total": 4
+    },
     "builds": 2,
     "mods": [
       {
@@ -3642,6 +3688,18 @@
   {
     "item": "Bisco's Leash",
     "stats": "#% increased maximum energy shield",
+    "average": 20,
+    "prices": [
+      20,
+      20,
+      20,
+      50
+    ],
+    "search": {
+      "id": "kX5We2ji5",
+      "complexity": 18,
+      "total": 4
+    },
     "builds": 1,
     "mods": [
       {
