@@ -6779,6 +6779,15 @@
   {
     "item": "Incandescent Heart",
     "stats": "+# to level of socketed aoe gems, +# to level of socketed aura gems",
+    "average": 14152,
+    "prices": [
+      14152
+    ],
+    "search": {
+      "id": "KJBdY5RI5",
+      "complexity": 29,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -6798,6 +6807,15 @@
   {
     "item": "Alpha's Howl",
     "stats": "+# to level of socketed duration gems",
+    "average": 176.9,
+    "prices": [
+      176.9
+    ],
+    "search": {
+      "id": "Zb5OD8mCQ",
+      "complexity": 18,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -6811,6 +6829,24 @@
   {
     "item": "Greed's Embrace",
     "stats": "+# to level of socketed warcry gems",
+    "average": 1727.275,
+    "prices": [
+      20,
+      176.9,
+      176.9,
+      176.9,
+      884.5,
+      1769,
+      5307,
+      5307,
+      14152,
+      17690
+    ],
+    "search": {
+      "id": "YVqMX5kUY",
+      "complexity": 18,
+      "total": 11
+    },
     "builds": 1,
     "mods": [
       {
@@ -6824,6 +6860,24 @@
   {
     "item": "Greed's Embrace",
     "stats": "+# to level of socketed duration gems",
+    "average": 2069.1777777777775,
+    "prices": [
+      50,
+      60,
+      115,
+      176.9,
+      884.5,
+      1415.2,
+      3538,
+      6191.5,
+      6191.5,
+      17690
+    ],
+    "search": {
+      "id": "W5XjLLzfm",
+      "complexity": 18,
+      "total": 14
+    },
     "builds": 1,
     "mods": [
       {
@@ -6837,6 +6891,13 @@
   {
     "item": "Greed's Embrace",
     "stats": "+# to level of socketed minion gems, #% reduced lightning damage taken",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "EymnKQBs5",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
