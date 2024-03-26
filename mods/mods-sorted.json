@@ -11638,6 +11638,13 @@
   {
     "item": "Ralakesh's Impatience",
     "stats": "+#% chance to suppress spell damage, +# armour while stationary",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "Gqw7qyofb",
+      "complexity": 30,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -11658,6 +11665,24 @@
   {
     "item": "Ralakesh's Impatience",
     "stats": "#% increased movement speed",
+    "average": 15769.522,
+    "prices": [
+      917.9000000000001,
+      917.9000000000001,
+      1285.0600000000002,
+      1285.0600000000002,
+      2753.7000000000003,
+      3671.6000000000004,
+      9179,
+      45895,
+      45895,
+      45895
+    ],
+    "search": {
+      "id": "mP2QMJLu6",
+      "complexity": 18,
+      "total": 12
+    },
     "builds": 1,
     "mods": [
       {
@@ -11671,6 +11696,24 @@
   {
     "item": "Ralakesh's Impatience",
     "stats": "+# to level of socketed minion gems",
+    "average": 815.9111111111112,
+    "prices": [
+      183.58,
+      367.16,
+      367.16,
+      550.74,
+      550.74,
+      734.32,
+      917.9000000000001,
+      1835.8000000000002,
+      1835.8000000000002,
+      73432
+    ],
+    "search": {
+      "id": "3BJpgRgc5",
+      "complexity": 18,
+      "total": 10
+    },
     "builds": 1,
     "mods": [
       {
@@ -11684,6 +11727,17 @@
   {
     "item": "Perseverance",
     "stats": "determination has #% increased aura effect",
+    "average": 489.5466666666667,
+    "prices": [
+      183.58,
+      367.16,
+      917.9000000000001
+    ],
+    "search": {
+      "id": "8ae6mr8iV",
+      "complexity": 18,
+      "total": 3
+    },
     "builds": 1,
     "mods": [
       {
@@ -11697,6 +11751,13 @@
   {
     "item": "Perseverance",
     "stats": "+#% to critical strike multiplier during any flask effect, pride has #% increased aura effect",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "jXZK0QZTX",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
