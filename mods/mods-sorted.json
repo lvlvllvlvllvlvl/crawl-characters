@@ -8493,6 +8493,13 @@
   {
     "item": "Seven-League Step",
     "stats": "+# to level of socketed aura gems, #% increased maximum life",
+    "average": null,
+    "prices": [],
+    "search": {
+      "id": "YVEoYy6UY",
+      "complexity": 29,
+      "total": 0
+    },
     "builds": 1,
     "mods": [
       {
@@ -8512,6 +8519,18 @@
   {
     "item": "Seven-League Step",
     "stats": "+#% chance to suppress spell damage",
+    "average": 115.98500000000001,
+    "prices": [
+      20,
+      90,
+      176.97,
+      176.97
+    ],
+    "search": {
+      "id": "8av99q8IV",
+      "complexity": 19,
+      "total": 4
+    },
     "builds": 1,
     "mods": [
       {
@@ -8526,6 +8545,15 @@
   {
     "item": "Vixen's Entrapment",
     "stats": "#% increased cast speed",
+    "average": 151,
+    "prices": [
+      151
+    ],
+    "search": {
+      "id": "PK7l22JCL",
+      "complexity": 18,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -8539,6 +8567,15 @@
   {
     "item": "Vixen's Entrapment",
     "stats": "+# to level of socketed gems",
+    "average": 176.97,
+    "prices": [
+      176.97
+    ],
+    "search": {
+      "id": "bPZgddLTL",
+      "complexity": 18,
+      "total": 1
+    },
     "builds": 1,
     "mods": [
       {
@@ -8552,6 +8589,24 @@
   {
     "item": "Lightning Coil",
     "stats": "+#% to all maximum resistances",
+    "average": 3779.0300000000007,
+    "prices": [
+      50,
+      160,
+      176.97,
+      884.85,
+      884.85,
+      5309.1,
+      8848.5,
+      8848.5,
+      8848.5,
+      15927.3
+    ],
+    "search": {
+      "id": "80Z0zlZcV",
+      "complexity": 18,
+      "total": 15
+    },
     "builds": 1,
     "mods": [
       {
